@@ -3,5 +3,10 @@
     "name": "Commi3 Mark",
     "platform": "YouTube",
     "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UC28yFGvw7XI27UtlcSC9vUg"
+  },
+  {
+    "name": "Fandom Pulse",
+    "platform": "Substack",
+    "feed": "https://www.fandompulse.com/feed"
   }
 ]
