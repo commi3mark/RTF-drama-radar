@@ -18,5 +18,25 @@
   "name": "Google Alert - Rippaverse",
   "platform": "Google Alerts",
   "feed": "https://www.google.com/alerts/feeds/00927250654751008063/27415969334732514"
+},
+  {
+  "name": "KatyDid",
+  "platform": "YouTube",
+  "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCo20AV6Y1pq7ncidxgI-riA"
+},
+  {
+  "name": "Ethan Van Sciver",
+  "platform": "YouTube",
+  "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCp8nOGQKLpFhtoIOOUVK40g"
+},
+  {
+  "name": "Frog Tony",
+  "platform": "YouTube",
+  "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5VsPYxFaSzDoyp2au7S2eQ"
+},
+  {
+  "name": "Elissa Clips",
+  "platform": "YouTube",
+  "feed": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKEsuMNTAd1462h7ZtjM5aw"
 }
 ]
