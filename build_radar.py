@@ -1,10 +1,15 @@
 import json
 from datetime import datetime, timedelta, timezone
+from urllib.parse import urlparse
 
 import feedparser
 
 
 DAYS_TO_KEEP = 30
+
+IGNORED_DOMAINS = [
+    "comicsgate.org",
+]
 
 
 with open("sources.json", "r", encoding="utf-8") as file:
@@ -38,6 +43,16 @@ for source in sources:
         if published_date < cutoff_date:
             continue
 
+        url = entry.get("link", "")
+        domain = urlparse(url).netloc.lower()
+
+        if any(
+            domain == ignored_domain
+            or domain.endswith("." + ignored_domain)
+            for ignored_domain in IGNORED_DOMAINS
+        ):
+            continue
+
         radar.append(
             {
                 "published": published_date.isoformat(),
@@ -45,7 +60,7 @@ for source in sources:
                 "platform": source["platform"],
                 "title": entry.get("title", ""),
                 "description": entry.get("summary", ""),
-                "url": entry.get("link", ""),
+                "url": url,
             }
         )
 
