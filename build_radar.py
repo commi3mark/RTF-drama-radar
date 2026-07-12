@@ -1,27 +1,60 @@
 import json
+from datetime import datetime, timedelta, timezone
+
 import feedparser
 
-with open("sources.json", "r", encoding="utf-8") as f:
-    sources = json.load(f)
+
+DAYS_TO_KEEP = 30
+
+
+with open("sources.json", "r", encoding="utf-8") as file:
+    sources = json.load(file)
+
+
+cutoff_date = datetime.now(timezone.utc) - timedelta(days=DAYS_TO_KEEP)
 
 radar = []
+
 
 for source in sources:
     feed = feedparser.parse(source["feed"])
 
     for entry in feed.entries:
-        radar.append({
-            "published": entry.get("published", ""),
-            "source": source["name"],
-            "platform": source["platform"],
-            "title": entry.get("title", ""),
-            "description": entry.get("summary", ""),
-            "url": entry.get("link", "")
-        })
+        published_struct = entry.get("published_parsed")
 
-radar.sort(key=lambda x: x["published"], reverse=True)
+        if not published_struct:
+            continue
 
-with open("drama-radar.json", "w", encoding="utf-8") as f:
-    json.dump(radar, f, indent=2, ensure_ascii=False)
+        published_date = datetime(
+            published_struct.tm_year,
+            published_struct.tm_mon,
+            published_struct.tm_mday,
+            published_struct.tm_hour,
+            published_struct.tm_min,
+            published_struct.tm_sec,
+            tzinfo=timezone.utc,
+        )
 
-print(f"Built radar with {len(radar)} items.")
+        if published_date < cutoff_date:
+            continue
+
+        radar.append(
+            {
+                "published": published_date.isoformat(),
+                "source": source["name"],
+                "platform": source["platform"],
+                "title": entry.get("title", ""),
+                "description": entry.get("summary", ""),
+                "url": entry.get("link", ""),
+            }
+        )
+
+
+radar.sort(key=lambda item: item["published"], reverse=True)
+
+
+with open("drama-radar.json", "w", encoding="utf-8") as file:
+    json.dump(radar, file, indent=2, ensure_ascii=False)
+
+
+print(f"Built radar with {len(radar)} items from the last {DAYS_TO_KEEP} days.")
