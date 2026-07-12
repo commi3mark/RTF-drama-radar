@@ -13,5 +13,10 @@
     "name": "Google Alert - ComicsGate",
     "platform": "Google Alerts",
     "feed": "https://www.google.co.uk/alerts/feeds/00927250654751008063/13297511461447510918"
-  }
+  },
+  {
+  "name": "Google Alert - Rippaverse",
+  "platform": "Google Alerts",
+  "feed": "https://www.google.com/alerts/feeds/00927250654751008063/27415969334732514"
+}
 ]
