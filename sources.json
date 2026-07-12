@@ -8,5 +8,10 @@
     "name": "Fandom Pulse",
     "platform": "Substack",
     "feed": "https://www.fandompulse.com/feed"
+  },
+  {
+    "name": "Google Alert - ComicsGate",
+    "platform": "Google Alerts",
+    "feed": "https://www.google.co.uk/alerts/feeds/00927250654751008063/13297511461447510918"
   }
 ]
