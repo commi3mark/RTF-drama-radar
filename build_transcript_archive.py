@@ -32,20 +32,23 @@ for filename in os.listdir(TRANSCRIPT_FOLDER):
         encoded_filename = quote(filename)
 
         index.append(
-            {
-                "video_id": transcript.get("video_id"),
-                "title": transcript.get("title"),
-                "source": transcript.get("source"),
-                "published": transcript.get("published"),
-                "url": transcript.get("url"),
-                "language": transcript.get("language"),
-                "is_generated": transcript.get("is_generated"),
-                "segment_count": len(transcript.get("segments", [])),
-                "transcript_file": relative_path,
-                "raw_url": RAW_BASE_URL + encoded_filename,
-            }
-        )
-
+    {
+        "video_id": transcript.get("video_id"),
+        "title": transcript.get("title"),
+        "source": transcript.get("source"),
+        "published": transcript.get("published"),
+        "url": transcript.get("url"),
+        "language": transcript.get("language"),
+        "is_generated": transcript.get("is_generated"),
+        "segment_count": len(transcript.get("segments", [])),
+        "transcript_file": relative_path,
+        "raw_url": RAW_BASE_URL + encoded_filename,
+        "plain_text": " ".join(
+            segment.get("text", "")
+            for segment in transcript.get("segments", [])
+        ),
+    }
+)
         print("ADDED:", filename)
 
     except Exception as error:
