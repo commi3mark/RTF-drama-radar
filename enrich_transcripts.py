@@ -3,6 +3,7 @@ import os
 import random
 import re
 import time
+from datetime import datetime
 from urllib.parse import parse_qs, urlparse
 
 from youtube_transcript_api import YouTubeTranscriptApi
@@ -14,11 +15,8 @@ from youtube_transcript_api._errors import (
 
 TRANSCRIPT_FOLDER = "transcripts"
 
-# Wait a random amount between YouTube requests.
 MIN_DELAY_SECONDS = 8
 MAX_DELAY_SECONDS = 20
-
-# Optional safety limit. Set to None to process everything available.
 MAX_NEW_TRANSCRIPTS_PER_RUN = 25
 
 
@@ -30,7 +28,6 @@ def safe_filename(name):
     name = re.sub(r'[<>:"/\\|?*]', "", name)
     name = re.sub(r"\s+", " ", name).strip()
 
-    # Leave space for the video ID and .json extension.
     return name[:180]
 
 
@@ -65,35 +62,41 @@ def get_video_id(url):
     return None
 
 
+def get_month_folder(published):
+    """Return a YYYY-MM folder name from an ISO publication date."""
+    if not published:
+        return "unknown-date"
+
+    try:
+        published_date = datetime.fromisoformat(
+            published.replace("Z", "+00:00")
+        )
+        return published_date.strftime("%Y-%m")
+
+    except ValueError:
+        return "unknown-date"
+
+
 def transcript_already_saved(video_id):
-    """
-    Detect transcripts saved using either the old filename format:
-
-        VIDEO_ID.json
-
-    or the new human-readable format:
-
-        Video title [VIDEO_ID].json
-    """
-    old_filename = os.path.join(
-        TRANSCRIPT_FOLDER,
-        f"{video_id}.json",
-    )
-
-    if os.path.exists(old_filename):
-        return True
-
+    """Search all monthly folders for an existing transcript."""
     expected_ending = f"[{video_id}].json".lower()
+    old_filename = f"{video_id}.json".lower()
 
-    for filename in os.listdir(TRANSCRIPT_FOLDER):
-        if filename.lower().endswith(expected_ending):
-            return True
+    for root, _, filenames in os.walk(TRANSCRIPT_FOLDER):
+        for filename in filenames:
+            lowercase_filename = filename.lower()
+
+            if lowercase_filename == old_filename:
+                return True
+
+            if lowercase_filename.endswith(expected_ending):
+                return True
 
     return False
 
 
 def wait_before_request():
-    """Pause between YouTube requests to reduce rate limiting."""
+    """Pause between requests to reduce YouTube rate limiting."""
     delay = random.uniform(
         MIN_DELAY_SECONDS,
         MAX_DELAY_SECONDS,
@@ -156,10 +159,19 @@ for item in radar:
             languages=["en", "en-GB", "en-US"],
         )
 
+        month_folder = get_month_folder(item.get("published"))
+
+        destination_folder = os.path.join(
+            TRANSCRIPT_FOLDER,
+            month_folder,
+        )
+
+        os.makedirs(destination_folder, exist_ok=True)
+
         title = safe_filename(item.get("title"))
 
         filename = os.path.join(
-            TRANSCRIPT_FOLDER,
+            destination_folder,
             f"{title} [{video_id}].json",
         )
 
@@ -181,7 +193,6 @@ for item in radar:
             ],
         }
 
-        # Each successful transcript is saved immediately.
         with open(filename, "w", encoding="utf-8") as outfile:
             json.dump(
                 data,
@@ -224,9 +235,7 @@ for item in radar:
         }:
             print()
             print("YOUTUBE TEMPORARILY BLOCKED THIS IP.")
-            print("The script will stop instead of retrying repeatedly.")
-            print("Run it again later to continue where it stopped.")
-            print()
+            print("Run the script again later to continue.")
             print("Video:", item.get("title"))
             print("Error:", error_name)
             blocked = True
