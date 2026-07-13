@@ -3,9 +3,10 @@ import json
 import re
 from datetime import datetime, timedelta, timezone
 from urllib.parse import parse_qs, unquote, urlparse
+from urllib.request import Request, urlopen
 
 import feedparser
-from youtube_transcript_api import YouTubeTranscriptApi
+import yt_dlp
 
 
 DAYS_TO_KEEP = 30
@@ -99,22 +100,137 @@ def get_youtube_video_id(url):
 
         path_parts = parsed_url.path.strip("/").split("/")
 
-        if len(path_parts) >= 2 and path_parts[0] in {
-            "shorts",
-            "live",
-            "embed",
-        }:
+        if (
+            len(path_parts) >= 2
+            and path_parts[0] in {"shorts", "live", "embed"}
+        ):
             return path_parts[1]
 
     return None
 
 
+def choose_caption_track(info):
+    """
+    Find the best available English caption track.
+
+    Manual subtitles are preferred. Automatically generated captions
+    are used when manual subtitles are unavailable.
+    """
+    language_preferences = [
+        "en",
+        "en-US",
+        "en-GB",
+        "en-orig",
+    ]
+
+    caption_sources = [
+        ("manual", info.get("subtitles") or {}),
+        ("automatic", info.get("automatic_captions") or {}),
+    ]
+
+    for caption_type, caption_data in caption_sources:
+        for language_code in language_preferences:
+            formats = caption_data.get(language_code, [])
+
+            for caption_format in formats:
+                if (
+                    caption_format.get("ext") == "json3"
+                    and caption_format.get("url")
+                ):
+                    return {
+                        "caption_type": caption_type,
+                        "language_code": language_code,
+                        "format": "json3",
+                        "url": caption_format["url"],
+                    }
+
+    # Some English caption codes contain extra suffixes.
+    for caption_type, caption_data in caption_sources:
+        for language_code, formats in caption_data.items():
+            if not language_code.lower().startswith("en"):
+                continue
+
+            for caption_format in formats:
+                if (
+                    caption_format.get("ext") == "json3"
+                    and caption_format.get("url")
+                ):
+                    return {
+                        "caption_type": caption_type,
+                        "language_code": language_code,
+                        "format": "json3",
+                        "url": caption_format["url"],
+                    }
+
+    return None
+
+
+def download_json(url):
+    """Download and decode a JSON document."""
+    request = Request(
+        url,
+        headers={
+            "User-Agent": (
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) "
+                "Chrome/150.0.0.0 Safari/537.36"
+            ),
+            "Accept-Language": "en-GB,en;q=0.9",
+        },
+    )
+
+    with urlopen(request, timeout=30) as response:
+        return json.loads(response.read().decode("utf-8"))
+
+
+def parse_json3_transcript(caption_data):
+    """Convert YouTube JSON3 captions into timestamped transcript segments."""
+    segments = []
+
+    for event in caption_data.get("events", []):
+        text_parts = []
+
+        for segment in event.get("segs", []):
+            text = segment.get("utf8", "")
+
+            if text:
+                text_parts.append(text)
+
+        text = clean_text("".join(text_parts))
+
+        if not text:
+            continue
+
+        start_ms = event.get("tStartMs", 0)
+        duration_ms = event.get("dDurationMs", 0)
+
+        segments.append(
+            {
+                "start": round(start_ms / 1000, 3),
+                "duration": round(duration_ms / 1000, 3),
+                "text": text,
+            }
+        )
+
+    return segments
+
+
+def short_error(error):
+    """Keep transcript errors useful without filling the JSON with huge messages."""
+    message = clean_text(str(error))
+
+    if len(message) > 500:
+        message = message[:500] + "..."
+
+    return message
+
+
 def get_youtube_transcript(video_url):
     """
-    Retrieve the English YouTube transcript when available.
+    Retrieve English YouTube captions through yt-dlp.
 
-    Speaker identity is not inferred. The transcript only records
-    the words, timestamps and caption metadata supplied by YouTube.
+    This records speech and timestamps only. It does not attempt to
+    identify individual speakers.
     """
     video_id = get_youtube_video_id(video_url)
 
@@ -124,20 +240,44 @@ def get_youtube_transcript(video_url):
             "reason": "video_id_not_found",
         }
 
-    try:
-        transcript = YouTubeTranscriptApi().fetch(
-            video_id,
-            languages=["en", "en-GB", "en-US"],
-        )
+    ydl_options = {
+        "quiet": True,
+        "no_warnings": True,
+        "skip_download": True,
+        "noplaylist": True,
+        "socket_timeout": 30,
+        "extractor_retries": 2,
+    }
 
-        segments = [
-            {
-                "start": round(segment.start, 3),
-                "duration": round(segment.duration, 3),
-                "text": clean_text(segment.text),
+    try:
+        with yt_dlp.YoutubeDL(ydl_options) as ydl:
+            info = ydl.extract_info(video_url, download=False)
+
+        if not info:
+            return {
+                "available": False,
+                "video_id": video_id,
+                "reason": "video_information_not_found",
             }
-            for segment in transcript
-        ]
+
+        caption_track = choose_caption_track(info)
+
+        if not caption_track:
+            return {
+                "available": False,
+                "video_id": video_id,
+                "reason": "english_captions_not_found",
+            }
+
+        caption_data = download_json(caption_track["url"])
+        segments = parse_json3_transcript(caption_data)
+
+        if not segments:
+            return {
+                "available": False,
+                "video_id": video_id,
+                "reason": "caption_file_was_empty",
+            }
 
         full_text = " ".join(
             segment["text"]
@@ -148,9 +288,9 @@ def get_youtube_transcript(video_url):
         return {
             "available": True,
             "video_id": video_id,
-            "language": transcript.language,
-            "language_code": transcript.language_code,
-            "is_generated": transcript.is_generated,
+            "language_code": caption_track["language_code"],
+            "caption_type": caption_track["caption_type"],
+            "is_generated": caption_track["caption_type"] == "automatic",
             "text": full_text,
             "segments": segments,
         }
@@ -160,7 +300,7 @@ def get_youtube_transcript(video_url):
             "available": False,
             "video_id": video_id,
             "reason": error.__class__.__name__,
-            "error": str(error),
+            "error": short_error(error),
         }
 
 
@@ -223,7 +363,7 @@ for source in sources:
         }
 
         if source["platform"].lower() == "youtube":
-            print(f"Fetching transcript: {real_url}")
+            print(f"Fetching transcript with yt-dlp: {real_url}")
             radar_item["transcript"] = get_youtube_transcript(real_url)
 
         radar.append(radar_item)
