@@ -5,6 +5,7 @@ from datetime import datetime, timedelta, timezone
 from urllib.parse import parse_qs, unquote, urlparse
 
 import feedparser
+from youtube_transcript_api import YouTubeTranscriptApi
 
 
 DAYS_TO_KEEP = 30
@@ -77,6 +78,92 @@ def get_description(entry):
     return ""
 
 
+def get_youtube_video_id(url):
+    """Extract a YouTube video ID from common YouTube URL formats."""
+    parsed_url = urlparse(url)
+    domain = parsed_url.netloc.lower()
+
+    if domain.startswith("www."):
+        domain = domain[4:]
+
+    if domain == "youtu.be":
+        return parsed_url.path.strip("/").split("/")[0]
+
+    if domain in {"youtube.com", "m.youtube.com", "music.youtube.com"}:
+        if parsed_url.path == "/watch":
+            query = parse_qs(parsed_url.query)
+            video_ids = query.get("v")
+
+            if video_ids:
+                return video_ids[0]
+
+        path_parts = parsed_url.path.strip("/").split("/")
+
+        if len(path_parts) >= 2 and path_parts[0] in {
+            "shorts",
+            "live",
+            "embed",
+        }:
+            return path_parts[1]
+
+    return None
+
+
+def get_youtube_transcript(video_url):
+    """
+    Retrieve the English YouTube transcript when available.
+
+    Speaker identity is not inferred. The transcript only records
+    the words, timestamps and caption metadata supplied by YouTube.
+    """
+    video_id = get_youtube_video_id(video_url)
+
+    if not video_id:
+        return {
+            "available": False,
+            "reason": "video_id_not_found",
+        }
+
+    try:
+        transcript = YouTubeTranscriptApi().fetch(
+            video_id,
+            languages=["en", "en-GB", "en-US"],
+        )
+
+        segments = [
+            {
+                "start": round(segment.start, 3),
+                "duration": round(segment.duration, 3),
+                "text": clean_text(segment.text),
+            }
+            for segment in transcript
+        ]
+
+        full_text = " ".join(
+            segment["text"]
+            for segment in segments
+            if segment["text"]
+        )
+
+        return {
+            "available": True,
+            "video_id": video_id,
+            "language": transcript.language,
+            "language_code": transcript.language_code,
+            "is_generated": transcript.is_generated,
+            "text": full_text,
+            "segments": segments,
+        }
+
+    except Exception as error:
+        return {
+            "available": False,
+            "video_id": video_id,
+            "reason": error.__class__.__name__,
+            "error": str(error),
+        }
+
+
 with open("sources.json", "r", encoding="utf-8") as file:
     sources = json.load(file)
 
@@ -90,7 +177,10 @@ for source in sources:
     feed = feedparser.parse(source["feed"])
 
     if feed.bozo:
-        print(f"Warning: possible feed issue for {source['name']}: {feed.bozo_exception}")
+        print(
+            f"Warning: possible feed issue for "
+            f"{source['name']}: {feed.bozo_exception}"
+        )
 
     print(f"{source['name']}: found {len(feed.entries)} feed entries")
 
@@ -121,16 +211,22 @@ for source in sources:
         if is_ignored_url(original_url):
             continue
 
-        radar.append(
-            {
-                "published": published_date.isoformat(),
-                "source": source["name"],
-                "platform": source["platform"],
-                "title": clean_text(entry.get("title", "")),
-                "description": get_description(entry),
-                "url": get_real_url(original_url),
-            }
-        )
+        real_url = get_real_url(original_url)
+
+        radar_item = {
+            "published": published_date.isoformat(),
+            "source": source["name"],
+            "platform": source["platform"],
+            "title": clean_text(entry.get("title", "")),
+            "description": get_description(entry),
+            "url": real_url,
+        }
+
+        if source["platform"].lower() == "youtube":
+            print(f"Fetching transcript: {real_url}")
+            radar_item["transcript"] = get_youtube_transcript(real_url)
+
+        radar.append(radar_item)
 
 
 radar.sort(key=lambda item: item["published"], reverse=True)
