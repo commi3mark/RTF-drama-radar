@@ -1,5 +1,33 @@
 [
   {
+    "published": "2026-07-14T22:21:40+00:00",
+    "source": "Elissa Clips",
+    "platform": "YouTube",
+    "title": "Professional Streamer TheQuartering - Gooners Gonna Goon (Jul 14, 2026)",
+    "description": "@TheQuartering original stream https://rumble.com/v7cq6ru-femal-cop-finds-out-sandwich-maker-nuclear-fatigue-new-hilarious-game-most-.html",
+    "url": "https://www.youtube.com/watch?v=dcgJdp8BRKs",
+    "transcript": {
+      "available": false,
+      "video_id": "dcgJdp8BRKs",
+      "reason": "DownloadError",
+      "error": "ERROR: [youtube] dcgJdp8BRKs: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp for how to manually pass cookies. Also see https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies for tips on effectively exporting YouTube cookies"
+    }
+  },
+  {
+    "published": "2026-07-14T21:56:51+00:00",
+    "source": "Elissa Clips",
+    "platform": "YouTube",
+    "title": "MATI: Metokur & Cog Bend Over for Ethan Ralph (Jul 10, 2026)",
+    "description": "@MadattheInternet original stream https://rumble.com/v7ciz98-mad-at-the-internet-july-10th-2026.html",
+    "url": "https://www.youtube.com/watch?v=iZU8Ozto3VQ",
+    "transcript": {
+      "available": false,
+      "video_id": "iZU8Ozto3VQ",
+      "reason": "DownloadError",
+      "error": "ERROR: [youtube] iZU8Ozto3VQ: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp for how to manually pass cookies. Also see https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies for tips on effectively exporting YouTube cookies"
+    }
+  },
+  {
     "published": "2026-07-14T19:21:31+00:00",
     "source": "Elissa Clips",
     "platform": "YouTube",
@@ -690,20 +718,6 @@
     }
   },
   {
-    "published": "2026-07-10T20:05:26+00:00",
-    "source": "Elissa Clips",
-    "platform": "YouTube",
-    "title": "TONIGHT ON KINO CASINO!! TheQuartering CBC Dropship Confirmed! Total DSP Victory! Angry Joe & More!!",
-    "description": "July 10, 2026 Sourced from Warski on X https://x.com/andywarski/status/2075653055245078751?s=46 https://kick.com/kinocasinogaming https://rumble.com/c/KinoCasinoClips https://kinocasinoclips.locals.com",
-    "url": "https://www.youtube.com/watch?v=nfZd95BuM5U",
-    "transcript": {
-      "available": false,
-      "video_id": "nfZd95BuM5U",
-      "reason": "DownloadError",
-      "error": "ERROR: [youtube] nfZd95BuM5U: Video unavailable. This video is not available"
-    }
-  },
-  {
     "published": "2026-07-10T20:05:14+00:00",
     "source": "KatyDid",
     "platform": "YouTube",
@@ -737,20 +751,6 @@
       "video_id": "O5BcX4ir3-0",
       "reason": "DownloadError",
       "error": "ERROR: [youtube] O5BcX4ir3-0: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp for how to manually pass cookies. Also see https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies for tips on effectively exporting YouTube cookies"
-    }
-  },
-  {
-    "published": "2026-07-10T18:12:57+00:00",
-    "source": "Elissa Clips",
-    "platform": "YouTube",
-    "title": "MATI: The Rekieta Segment - Nontent Skelly’s Daily Mail Article (Jul 10, 2026)",
-    "description": "@MadattheInternet original stream https://rumble.com/v7ciz98-mad-at-the-internet-july-10th-2026.html",
-    "url": "https://www.youtube.com/watch?v=xoq_kc-M_I8",
-    "transcript": {
-      "available": false,
-      "video_id": "xoq_kc-M_I8",
-      "reason": "DownloadError",
-      "error": "ERROR: [youtube] xoq_kc-M_I8: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp for how to manually pass cookies. Also see https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies for tips on effectively exporting YouTube cookies"
     }
   },
   {
@@ -1130,7 +1130,7 @@
       "available": false,
       "video_id": "SrZQ1nqGghs",
       "reason": "DownloadError",
-      "error": "ERROR: [youtube] SrZQ1nqGghs: Video unavailable"
+      "error": "ERROR: [youtube] SrZQ1nqGghs: Video unavailable. It was blocked due to the claimed content by SME."
     }
   },
   {
