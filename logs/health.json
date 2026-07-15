@@ -1,8 +1,8 @@
 {
-  "completed_at": "2026-07-15T17:45:00.488873+00:00",
+  "completed_at": "2026-07-15T18:11:28.613483+00:00",
   "status": "HEALTHY",
   "run_type": "DRAMA RADAR — COMPLETE RUN",
-  "radar_entries": 220,
+  "radar_entries": 221,
   "transcripts": 74,
   "pending_retries": 6,
   "permanent_failures": 2,
@@ -17,32 +17,37 @@
     {
       "name": "Source collection",
       "return_code": 0,
-      "duration_seconds": 7.11
+      "duration_seconds": 6.83
     },
     {
       "name": "Transcript download",
       "return_code": 0,
-      "duration_seconds": 0.22
+      "duration_seconds": 0.27
     },
     {
       "name": "Transcript index",
       "return_code": 0,
-      "duration_seconds": 0.25
+      "duration_seconds": 0.83
     },
     {
       "name": "Feed linking",
       "return_code": 0,
-      "duration_seconds": 0.12
+      "duration_seconds": 0.11
     },
     {
       "name": "Monthly archive",
       "return_code": 0,
-      "duration_seconds": 0.11
+      "duration_seconds": 0.12
     },
     {
       "name": "Validation",
       "return_code": 0,
-      "duration_seconds": 0.05
+      "duration_seconds": 0.09
+    },
+    {
+      "name": "GitHub publishing",
+      "return_code": 0,
+      "duration_seconds": 2.56
     }
   ]
 }
