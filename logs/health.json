@@ -1,5 +1,5 @@
 {
-  "completed_at": "2026-07-15T21:45:02.597442+00:00",
+  "completed_at": "2026-07-15T21:45:42.939943+00:00",
   "status": "HEALTHY",
   "run_type": "DRAMA RADAR — COMPLETE RUN",
   "radar_entries": 227,
@@ -17,7 +17,7 @@
     {
       "name": "Source collection",
       "return_code": 0,
-      "duration_seconds": 6.92
+      "duration_seconds": 7.0
     },
     {
       "name": "Transcript download",
@@ -47,12 +47,12 @@
     {
       "name": "OCTOPUSS candidate filing",
       "return_code": 0,
-      "duration_seconds": 4.19
+      "duration_seconds": 4.08
     },
     {
       "name": "OCTOPUSS living stories",
       "return_code": 0,
-      "duration_seconds": 0.77
+      "duration_seconds": 0.53
     },
     {
       "name": "OCTOPUSS reviewed intelligence filing",
@@ -67,17 +67,17 @@
     {
       "name": "Monthly archive",
       "return_code": 0,
-      "duration_seconds": 0.11
+      "duration_seconds": 0.12
     },
     {
       "name": "Validation",
       "return_code": 0,
-      "duration_seconds": 0.06
+      "duration_seconds": 0.08
     },
     {
       "name": "GitHub publishing",
       "return_code": 0,
-      "duration_seconds": 2.78
+      "duration_seconds": 2.67
     }
   ]
 }

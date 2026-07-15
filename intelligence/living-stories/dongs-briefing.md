@@ -1,6 +1,6 @@
 # Dongs Story Briefing
 
-Coverage starts: **2026-07-11T21:45:39.450375+00:00**
+Coverage starts: **2026-07-11T22:03:29.545985+00:00**
 
 > Editorial rule: report what changed in the stories below. Do not mention software, pipelines, transcript retrieval, candidate folders, confidence engines, or processing status.
 
