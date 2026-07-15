@@ -1,109 +1,48 @@
 {
-  "status": "healthy",
-  "run_started_at": "2026-07-15T13:14:34.045433+00:00",
-  "run_completed_at": "2026-07-15T13:59:09.544436+00:00",
-  "duration_seconds": 2675.5,
-  "computer": "STALINVO-SUPERCOMPUTER",
-  "process_id": 43960,
-  "overall_success": true,
-  "json_validation_passed": true,
-  "failed_stages": [],
-  "radar_item_count": 308,
-  "transcript_count": 74,
-  "entity_count": 33,
-  "total_mentions": 5364,
-  "transcript_retries": {
-    "pending": 84,
-    "permanent_failures": 12,
-    "success_records": 33
+  "completed_at": "2026-07-15T17:45:00.488873+00:00",
+  "status": "HEALTHY",
+  "run_type": "DRAMA RADAR — COMPLETE RUN",
+  "radar_entries": 220,
+  "transcripts": 74,
+  "pending_retries": 6,
+  "permanent_failures": 2,
+  "transcript_cooldown": {
+    "active": true,
+    "reason": "IpBlocked",
+    "started_at": "2026-07-15T15:50:55.509430+00:00",
+    "until": "2026-07-16T03:50:55.509430+00:00",
+    "cooldown_hours": 12.0
   },
   "stages": [
     {
       "name": "Source collection",
-      "command": [
-        "C:\\Program Files\\Python310\\python.exe",
-        "C:\\AI\\RTF-drama-radar\\collect_sources.py"
-      ],
-      "started_at": "2026-07-15T13:14:34.048409+00:00",
-      "completed_at": "2026-07-15T13:14:40.695440+00:00",
-      "duration_seconds": 6.65,
-      "success": true,
       "return_code": 0,
-      "timed_out": false,
-      "skipped": false,
-      "message": "Completed successfully."
+      "duration_seconds": 7.11
     },
     {
-      "name": "Transcript enrichment",
-      "command": [
-        "C:\\Program Files\\Python310\\python.exe",
-        "C:\\AI\\RTF-drama-radar\\enrich_transcripts.py"
-      ],
-      "started_at": "2026-07-15T13:14:40.695936+00:00",
-      "completed_at": "2026-07-15T13:59:02.519790+00:00",
-      "duration_seconds": 2661.82,
-      "success": true,
+      "name": "Transcript download",
       "return_code": 0,
-      "timed_out": false,
-      "skipped": false,
-      "message": "Completed successfully."
+      "duration_seconds": 0.22
     },
     {
-      "name": "Intelligence rebuild",
-      "command": [
-        "C:\\Program Files\\Python310\\python.exe",
-        "C:\\AI\\RTF-drama-radar\\build_radar.py"
-      ],
-      "started_at": "2026-07-15T13:59:02.520287+00:00",
-      "completed_at": "2026-07-15T13:59:09.493375+00:00",
-      "duration_seconds": 6.97,
-      "success": true,
+      "name": "Transcript index",
       "return_code": 0,
-      "timed_out": false,
-      "skipped": false,
-      "message": "Completed successfully."
-    }
-  ],
-  "json_files": [
-    {
-      "file": "drama-radar.json",
-      "path": "C:\\AI\\RTF-drama-radar\\drama-radar.json",
-      "required": true,
-      "exists": true,
-      "valid": true,
-      "size_bytes": 280140,
-      "item_count": 308,
-      "error": null
+      "duration_seconds": 0.25
     },
     {
-      "file": "transcript-manifest.json",
-      "path": "C:\\AI\\RTF-drama-radar\\transcript-manifest.json",
-      "required": true,
-      "exists": true,
-      "valid": true,
-      "size_bytes": 48316,
-      "item_count": 74,
-      "error": null
+      "name": "Feed linking",
+      "return_code": 0,
+      "duration_seconds": 0.12
     },
     {
-      "file": "mention-index.json",
-      "path": "C:\\AI\\RTF-drama-radar\\mention-index.json",
-      "required": true,
-      "exists": true,
-      "valid": true,
-      "size_bytes": 255063,
-      "item_count": 8,
-      "error": null
+      "name": "Monthly archive",
+      "return_code": 0,
+      "duration_seconds": 0.11
     },
     {
-      "file": "transcript-retries.json",
-      "path": "C:\\AI\\RTF-drama-radar\\transcript-retries.json",
-      "required": false,
-      "exists": true,
-      "valid": true,
-      "size_bytes": 164982,
-      "item_count": 129,
-      "error": null
+      "name": "Validation",
+      "return_code": 0,
+      "duration_seconds": 0.05
     }
   ]
 }

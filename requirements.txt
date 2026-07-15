@@ -1,1 +1,2 @@
-# No third-party Python packages required for the core v5 pipeline.
+feedparser>=6.0.11
+youtube-transcript-api>=1.2.0

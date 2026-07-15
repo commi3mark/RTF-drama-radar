@@ -1,0 +1,88 @@
+{
+  "C9hr9lE0iys": {
+    "video_id": "C9hr9lE0iys",
+    "title": "Quartering white knights for Chrissie over FNT firing | #937",
+    "reason": "TranscriptsDisabled",
+    "message": "\nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=C9hr9lE0iys! This is most likely caused by:\n\nSubtitles are disabled for this video\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!",
+    "attempts": 1,
+    "last_attempt": "2026-07-15T15:14:44.791880+00:00",
+    "status": "pending",
+    "next_retry": "2026-07-16T15:14:44.791880+00:00"
+  },
+  "f_JehREs-40": {
+    "video_id": "f_JehREs-40",
+    "title": "GabingWith Ga....You know",
+    "reason": "AgeRestricted",
+    "message": "\nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=f_JehREs-40! This is most likely caused by:\n\nThis video is age-restricted. Therefore, you are unable to retrieve transcripts for it without authenticating yourself.\n\nUnfortunately, Cookie Authentication is temporarily unsupported in youtube-transcript-api, as recent changes in YouTube's API broke the previous implementation. I will do my best to re-implement it as soon as possible.\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!",
+    "attempts": 1,
+    "last_attempt": "2026-07-15T15:15:04.700393+00:00",
+    "status": "permanent_failure",
+    "next_retry": null
+  },
+  "CtolR3FAYaw": {
+    "video_id": "CtolR3FAYaw",
+    "title": "Talking about Obsession.",
+    "reason": "AgeRestricted",
+    "message": "\nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=CtolR3FAYaw! This is most likely caused by:\n\nThis video is age-restricted. Therefore, you are unable to retrieve transcripts for it without authenticating yourself.\n\nUnfortunately, Cookie Authentication is temporarily unsupported in youtube-transcript-api, as recent changes in YouTube's API broke the previous implementation. I will do my best to re-implement it as soon as possible.\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!",
+    "attempts": 1,
+    "last_attempt": "2026-07-15T15:15:27.387567+00:00",
+    "status": "permanent_failure",
+    "next_retry": null
+  },
+  "N51Y4_AuwdU": {
+    "video_id": "N51Y4_AuwdU",
+    "title": "What We Do Isn't Very Nice (CG AFTER DARK #1)",
+    "reason": "IpBlocked",
+    "message": "\nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=N51Y4_AuwdU! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nWays to work around this are explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!",
+    "attempts": 1,
+    "last_attempt": "2026-07-15T15:15:56.524177+00:00",
+    "status": "pending",
+    "next_retry": "2026-07-16T03:15:56.524177+00:00"
+  },
+  "1JXGukx0qNY": {
+    "video_id": "1JXGukx0qNY",
+    "title": "Take 2",
+    "reason": "TranscriptsDisabled",
+    "message": "\nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=1JXGukx0qNY! This is most likely caused by:\n\nSubtitles are disabled for this video\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!",
+    "attempts": 1,
+    "last_attempt": "2026-07-15T15:21:23.446665+00:00",
+    "status": "pending",
+    "next_retry": "2026-07-16T15:21:23.446665+00:00"
+  },
+  "w0zM4eSzv8U": {
+    "video_id": "w0zM4eSzv8U",
+    "title": "TONIGHT ON KINO CASINO!! TheQuartering Ren Fair Hoax & FNT Freak Out! Styx! Angry Joe! DBDR & More!!",
+    "reason": "IpBlocked",
+    "message": "\nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=w0zM4eSzv8U! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nWays to work around this are explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!",
+    "attempts": 1,
+    "last_attempt": "2026-07-15T15:21:47.165102+00:00",
+    "status": "pending",
+    "next_retry": "2026-07-16T03:21:47.165102+00:00"
+  },
+  "rXQ0RozGVWg": {
+    "video_id": "rXQ0RozGVWg",
+    "title": "Detractor Kings Is DEAD! Long Live The Geek Getaway!",
+    "source": "Frog Tony",
+    "priority": 95,
+    "reason": "IpBlocked",
+    "message": "\nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=rXQ0RozGVWg! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nWays to work around this are explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!",
+    "attempts": 1,
+    "last_attempt": "2026-07-15T15:32:32.547772+00:00",
+    "status": "pending",
+    "next_retry": "2026-07-16T03:32:32.547772+00:00",
+    "retry_note": "standard retry schedule"
+  },
+  "yc3EwTVPVAY": {
+    "video_id": "yc3EwTVPVAY",
+    "title": "Channel Update And New Stream Schedule!",
+    "source": "Frog Tony",
+    "priority": 95,
+    "reason": "IpBlocked",
+    "message": "\nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=yc3EwTVPVAY! This is most likely caused by:\n\nYouTube is blocking requests from your IP. This usually is due to one of the following reasons:\n- You have done too many requests and your IP has been blocked by YouTube\n- You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.\n\nWays to work around this are explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).\n\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!",
+    "attempts": 1,
+    "last_attempt": "2026-07-15T15:50:55.507446+00:00",
+    "status": "pending",
+    "next_retry": "2026-07-16T03:50:55.507970+00:00",
+    "retry_note": "standard retry schedule"
+  }
+}

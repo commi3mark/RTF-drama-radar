@@ -1,0 +1,7 @@
+{
+  "maximum_posts_per_run": 100,
+  "retain_events": 5000,
+  "include_replies": true,
+  "include_reposts": false,
+  "notes": "The X account's Following feed is the Drama Radar watchlist."
+}

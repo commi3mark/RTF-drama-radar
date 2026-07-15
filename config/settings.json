@@ -1,18 +1,47 @@
 {
-  "schema_version": 5,
-  "transcript_root": "transcripts",
-  "rolling_days": 28,
-  "quote_context_seconds": 30,
-  "bundle_before_seconds": 75,
-  "bundle_after_seconds": 105,
-  "story_merge_window_days": 21,
-  "story_similarity_threshold": 0.34,
-  "target_entity_id": "person:commi3-mark",
-  "source_weights": {
-    "youtube": 0.85,
-    "x": 1.0,
-    "substack": 0.9,
-    "campaign_page": 0.95,
-    "comicsgate.org": 0.25
+  "rolling_days": 30,
+  "archive_mode": "calendar_month",
+  "transcripts_per_run": 25,
+  "request_delay_min_seconds": 18,
+  "request_delay_max_seconds": 28,
+  "stop_on_ip_block": true,
+  "transcript_global_cooldown_hours": 12,
+  "default_transcript_delay_hours": 6,
+  "recent_video_window_hours": 24,
+  "recent_transcript_retry_hours": 3,
+  "scheduled_transcript_hours_local": [
+    2,
+    8,
+    14,
+    20
+  ],
+  "scheduled_transcript_tolerance_minutes": 45,
+  "retry_hours": {
+    "TranscriptsDisabled": 24,
+    "VideoUnplayable": 12,
+    "IpBlocked": 12,
+    "RequestBlocked": 12,
+    "default": 6
+  },
+  "permanent_failures": [
+    "AgeRestricted",
+    "VideoUnavailable"
+  ],
+  "git": {
+    "enabled": false,
+    "branch": "main",
+    "commit_message_prefix": "Automated Drama Radar update"
+  },
+  "paths": {
+    "radar": "data/drama-radar.json",
+    "item_index": "data/item-index.json",
+    "transcript_index": "data/transcript-index.json",
+    "transcript_retries": "state/transcript-retries.json",
+    "transcript_cooldown": "state/transcript-cooldown.json",
+    "health": "logs/health.json",
+    "latest_log": "logs/latest-run.log",
+    "lock": "state/radar.lock",
+    "transcripts": "transcripts",
+    "archive": "archive"
   }
 }
