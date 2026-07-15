@@ -1,25 +1,21 @@
 {
-  "status": "degraded",
-  "run_started_at": "2026-07-15T00:55:12.885150+00:00",
-  "run_completed_at": "2026-07-15T00:59:52.808528+00:00",
-  "duration_seconds": 279.92,
+  "status": "healthy",
+  "run_started_at": "2026-07-15T01:14:18.951704+00:00",
+  "run_completed_at": "2026-07-15T01:14:39.452616+00:00",
+  "duration_seconds": 20.5,
   "computer": "STALINVO-SUPERCOMPUTER",
-  "process_id": 48768,
-  "overall_success": false,
+  "process_id": 23272,
+  "overall_success": true,
   "json_validation_passed": true,
-  "failed_stages": [
-    "Git push attempt 1",
-    "Git push attempt 2",
-    "Git push attempt 3"
-  ],
-  "radar_item_count": 84,
-  "transcript_count": 48,
+  "failed_stages": [],
+  "radar_item_count": 113,
+  "transcript_count": 53,
   "entity_count": 33,
-  "total_mentions": 3915,
+  "total_mentions": 3935,
   "transcript_retries": {
-    "pending": 8,
+    "pending": 9,
     "permanent_failures": 0,
-    "success_records": 7
+    "success_records": 12
   },
   "stages": [
     {
@@ -28,9 +24,9 @@
         "C:\\Program Files\\Python310\\python.exe",
         "C:\\AI\\RTF-drama-radar\\build_radar.py"
       ],
-      "started_at": "2026-07-15T00:55:12.888622+00:00",
-      "completed_at": "2026-07-15T00:55:14.643232+00:00",
-      "duration_seconds": 1.75,
+      "started_at": "2026-07-15T01:14:18.955671+00:00",
+      "completed_at": "2026-07-15T01:14:20.378764+00:00",
+      "duration_seconds": 1.42,
       "success": true,
       "return_code": 0,
       "timed_out": false,
@@ -43,98 +39,14 @@
         "C:\\Program Files\\Python310\\python.exe",
         "C:\\AI\\RTF-drama-radar\\enrich_transcripts.py"
       ],
-      "started_at": "2026-07-15T00:55:14.644226+00:00",
-      "completed_at": "2026-07-15T00:58:22.436672+00:00",
-      "duration_seconds": 187.79,
+      "started_at": "2026-07-15T01:14:20.379679+00:00",
+      "completed_at": "2026-07-15T01:14:39.423663+00:00",
+      "duration_seconds": 19.04,
       "success": true,
       "return_code": 0,
       "timed_out": false,
       "skipped": false,
       "message": "Completed successfully."
-    },
-    {
-      "name": "Git add",
-      "command": [
-        "git",
-        "add",
-        "--",
-        "drama-radar.json",
-        "transcript-manifest.json",
-        "transcript-retries.json",
-        "mention-index.json",
-        "transcripts",
-        "logs/health.json"
-      ],
-      "started_at": "2026-07-15T00:58:22.710343+00:00",
-      "completed_at": "2026-07-15T00:58:23.061636+00:00",
-      "duration_seconds": 0.35,
-      "success": true,
-      "return_code": 0,
-      "timed_out": false,
-      "skipped": false,
-      "message": "Completed successfully."
-    },
-    {
-      "name": "Git commit",
-      "command": [
-        "git",
-        "commit",
-        "-m",
-        "Automated Drama Radar update 2026-07-15 01:58"
-      ],
-      "started_at": "2026-07-15T00:58:23.090296+00:00",
-      "completed_at": "2026-07-15T00:58:23.369835+00:00",
-      "duration_seconds": 0.28,
-      "success": true,
-      "return_code": 0,
-      "timed_out": false,
-      "skipped": false,
-      "message": "Completed successfully."
-    },
-    {
-      "name": "Git push attempt 1",
-      "command": [
-        "git",
-        "push"
-      ],
-      "started_at": "2026-07-15T00:58:23.370583+00:00",
-      "completed_at": "2026-07-15T00:58:50.522757+00:00",
-      "duration_seconds": 27.15,
-      "success": false,
-      "return_code": 1,
-      "timed_out": false,
-      "skipped": false,
-      "message": "Exited with code 1."
-    },
-    {
-      "name": "Git push attempt 2",
-      "command": [
-        "git",
-        "push"
-      ],
-      "started_at": "2026-07-15T00:59:20.533230+00:00",
-      "completed_at": "2026-07-15T00:59:21.685827+00:00",
-      "duration_seconds": 1.15,
-      "success": false,
-      "return_code": 1,
-      "timed_out": false,
-      "skipped": false,
-      "message": "Exited with code 1."
-    },
-    {
-      "name": "Git push attempt 3",
-      "command": [
-        "git",
-        "push"
-      ],
-      "started_at": "2026-07-15T00:59:51.700888+00:00",
-      "completed_at": "2026-07-15T00:59:52.807646+00:00",
-      "duration_seconds": 1.11,
-      "success": false,
-      "return_code": 1,
-      "timed_out": false,
-      "skipped": false,
-      "message": "Exited with code 1."
     }
   ],
   "json_files": [
@@ -144,8 +56,8 @@
       "required": true,
       "exists": true,
       "valid": true,
-      "size_bytes": 73934,
-      "item_count": 84,
+      "size_bytes": 108532,
+      "item_count": 113,
       "error": null
     },
     {
@@ -154,8 +66,8 @@
       "required": true,
       "exists": true,
       "valid": true,
-      "size_bytes": 43837,
-      "item_count": 48,
+      "size_bytes": 47797,
+      "item_count": 53,
       "error": null
     },
     {
@@ -164,7 +76,7 @@
       "required": true,
       "exists": true,
       "valid": true,
-      "size_bytes": 200306,
+      "size_bytes": 206173,
       "item_count": 8,
       "error": null
     },
@@ -174,8 +86,8 @@
       "required": false,
       "exists": true,
       "valid": true,
-      "size_bytes": 13210,
-      "item_count": 15,
+      "size_bytes": 17213,
+      "item_count": 21,
       "error": null
     }
   ]

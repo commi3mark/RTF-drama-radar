@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-07-15T00:58:22.345353+00:00",
-  "transcript_count": 48,
+  "generated_at": "2026-07-15T01:14:39.373597+00:00",
+  "transcript_count": 53,
   "entity_count": 33,
-  "total_mentions": 3915,
+  "total_mentions": 3935,
   "global_totals": {
     "Liam Gray": 863,
     "Frog Tony": 672,
-    "Ethan Van Sciver": 457,
+    "Ethan Van Sciver": 460,
     "Dick Masterson": 289,
     "Shane Davis": 213,
     "Eric July": 204,
     "Sturgis": 150,
+    "TheQuartering": 116,
     "Jon Del Arroz": 113,
     "Cyberfrog": 103,
-    "TheQuartering": 102,
-    "Chrissie Mayr": 98,
+    "Chrissie Mayr": 100,
     "ComicsGate": 81,
     "Vito Gesualdi": 81,
     "Cecil": 78,
@@ -29,8 +29,8 @@
     "BackMeBro": 18,
     "Nick Rekieta": 14,
     "Jon Malin": 12,
+    "Friday Night Tights": 11,
     "Alpha Core": 10,
-    "Friday Night Tights": 10,
     "KatyDid": 9,
     "Little Movie Perp": 7,
     "Kino Casino": 6,
@@ -61,14 +61,14 @@
       "Yanzi Lin": 1
     },
     "Elissa Clips": {
-      "TheQuartering": 38,
+      "TheQuartering": 52,
+      "Chrissie Mayr": 28,
       "Aaron Imholte": 27,
-      "Chrissie Mayr": 26,
       "Nick Rekieta": 9,
+      "Ethan Van Sciver": 6,
       "Nerdrotic": 6,
+      "Friday Night Tights": 4,
       "Cecil": 3,
-      "Ethan Van Sciver": 3,
-      "Friday Night Tights": 3,
       "Dick Masterson": 2,
       "Kino Casino": 2,
       "Yellow Flash": 1
@@ -659,17 +659,26 @@
       ]
     },
     "Ethan Van Sciver": {
-      "total_mentions": 457,
-      "video_count": 30,
+      "total_mentions": 460,
+      "video_count": 31,
       "source_count": 5,
       "mentioned_by": {
         "Ethan Van Sciver": 217,
         "Frog Tony": 132,
         "KatyDid": 54,
         "Commi3 Mark": 51,
-        "Elissa Clips": 3
+        "Elissa Clips": 6
       },
       "videos": [
+        {
+          "video_id": "iZU8Ozto3VQ",
+          "title": "MATI: Metokur & Cog Bend Over for Ethan Ralph (Jul 10, 2026)",
+          "source": "Elissa Clips",
+          "published": "2026-07-14T21:56:51+00:00",
+          "url": "https://www.youtube.com/watch?v=iZU8Ozto3VQ",
+          "count": 3,
+          "transcript_file": "transcripts/2026-07/MATI Metokur & Cog Bend Over for Ethan Ralph (Jul 10, 2026) [iZU8Ozto3VQ].json"
+        },
         {
           "video_id": "LS_14uOaG2E",
           "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
@@ -1570,6 +1579,208 @@
         }
       ]
     },
+    "TheQuartering": {
+      "total_mentions": 116,
+      "video_count": 21,
+      "source_count": 4,
+      "mentioned_by": {
+        "Elissa Clips": 52,
+        "Ethan Van Sciver": 44,
+        "Frog Tony": 11,
+        "KatyDid": 9
+      },
+      "videos": [
+        {
+          "video_id": "dcgJdp8BRKs",
+          "title": "Professional Streamer TheQuartering - Gooners Gonna Goon (Jul 14, 2026)",
+          "source": "Elissa Clips",
+          "published": "2026-07-14T22:21:40+00:00",
+          "url": "https://www.youtube.com/watch?v=dcgJdp8BRKs",
+          "count": 3,
+          "transcript_file": "transcripts/2026-07/Professional Streamer TheQuartering - Gooners Gonna Goon (Jul 14, 2026) [dcgJdp8BRKs].json"
+        },
+        {
+          "video_id": "Zmx83V8vKSU",
+          "title": "MATI: TheQuartering’s Dropship Brand Dropship (Jul 10, 2026)",
+          "source": "Elissa Clips",
+          "published": "2026-07-14T16:57:04+00:00",
+          "url": "https://www.youtube.com/watch?v=Zmx83V8vKSU",
+          "count": 10,
+          "transcript_file": "transcripts/2026-07/MATI TheQuartering’s Dropship Brand Dropship (Jul 10, 2026) [Zmx83V8vKSU].json"
+        },
+        {
+          "video_id": "Vj5FINXThF4",
+          "title": "TheQuartering: Friday Night Tights is a Huge Pword for Firing Chrissie Mayr (Jul 13, 2026)",
+          "source": "Elissa Clips",
+          "published": "2026-07-13T23:29:23+00:00",
+          "url": "https://www.youtube.com/watch?v=Vj5FINXThF4",
+          "count": 1,
+          "transcript_file": "transcripts/2026-07/TheQuartering Friday Night Tights is a Huge Pword for Firing Chrissie Mayr (Jul 13, 2026) [Vj5FINXThF4].json"
+        },
+        {
+          "video_id": "LS_14uOaG2E",
+          "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+          "source": "Ethan Van Sciver",
+          "published": "2026-07-13T23:19:06+00:00",
+          "url": "https://www.youtube.com/watch?v=LS_14uOaG2E",
+          "count": 8,
+          "transcript_file": "transcripts/2026/07/#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES! [LS_14uOaG2E].json"
+        },
+        {
+          "video_id": "3VGvnr2bjKw",
+          "title": "Potentially Criminal on Nick Rekieta’s Downfall (Jul 12, 2026)",
+          "source": "Elissa Clips",
+          "published": "2026-07-13T13:12:53+00:00",
+          "url": "https://www.youtube.com/watch?v=3VGvnr2bjKw",
+          "count": 1,
+          "transcript_file": "transcripts/2026/07/3VGvnr2bjKw.json"
+        },
+        {
+          "video_id": "zkW4zLSQ7eQ",
+          "title": "You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto!",
+          "source": "Ethan Van Sciver",
+          "published": "2026-07-13T06:01:02+00:00",
+          "url": "https://www.youtube.com/watch?v=zkW4zLSQ7eQ",
+          "count": 3,
+          "transcript_file": "transcripts/2026/07/You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto! [zkW4zLSQ7eQ].json"
+        },
+        {
+          "video_id": "9NJQwnK7qJg",
+          "title": "TheQuartering’s Mobility Scooter w/ Tuesday Night’s Main Event (Jul 7, 2026)",
+          "source": "Elissa Clips",
+          "published": "2026-07-13T02:56:01+00:00",
+          "url": "https://www.youtube.com/watch?v=9NJQwnK7qJg",
+          "count": 8,
+          "transcript_file": "transcripts/2026/07/TheQuartering’s Mobility Scooter w Tuesday Night’s Main Event (Jul 7, 2026) [9NJQwnK7qJg].json"
+        },
+        {
+          "video_id": "Uy8eHEmKNWY",
+          "title": "Kino Casino: Nerdrotic Fires Chrissie Mayr from Friday Night Tights (Jul 10, 2026)",
+          "source": "Elissa Clips",
+          "published": "2026-07-11T18:46:43+00:00",
+          "url": "https://www.youtube.com/watch?v=Uy8eHEmKNWY",
+          "count": 1,
+          "transcript_file": "transcripts/2026/07/Kino Casino Nerdrotic Fires Chrissie Mayr from Friday Night Tights (Jul 10, 2026) [Uy8eHEmKNWY].json"
+        },
+        {
+          "video_id": "66FqtP0Wves",
+          "title": "It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on \"WOKE\"! LANTERNS Spoilers?!",
+          "source": "Ethan Van Sciver",
+          "published": "2026-07-11T04:50:41+00:00",
+          "url": "https://www.youtube.com/watch?v=66FqtP0Wves",
+          "count": 33,
+          "transcript_file": "transcripts/2026/07/It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on WOKE! LANTERNS Spoilers! [66FqtP0Wves].json"
+        },
+        {
+          "video_id": "R2AEOMp6S6M",
+          "title": "Jer the Ren Fair Creeper Returns This Weekend! & a Coffee Brand Cope Session w/ TheQuartering",
+          "source": "Elissa Clips",
+          "published": "2026-07-10T22:48:52+00:00",
+          "url": "https://www.youtube.com/watch?v=R2AEOMp6S6M",
+          "count": 3,
+          "transcript_file": "transcripts/2026/07/Jer the Ren Fair Creeper Returns This Weekend! & a Coffee Brand Cope Session w TheQuartering [R2AEOMp6S6M].json"
+        },
+        {
+          "video_id": "nfZd95BuM5U",
+          "title": "TONIGHT ON KINO CASINO!! TheQuartering CBC Dropship Confirmed! Total DSP Victory! Angry Joe & More!!",
+          "source": "Elissa Clips",
+          "published": "2026-07-10T20:05:26+00:00",
+          "url": "https://www.youtube.com/watch?v=nfZd95BuM5U",
+          "count": 1,
+          "transcript_file": "transcripts/2026/07/TONIGHT ON KINO CASINO!! TheQuartering CBC Dropship Confirmed! Total DSP Victory! Angry Joe & More!! [nfZd95BuM5U].json"
+        },
+        {
+          "video_id": "fq2D80GqXqQ",
+          "title": "Chrissie Mayr Officially FIRED from FRIDAY NIGHT TIGHTS | j.A.C.k Show | July 9th 2026",
+          "source": "KatyDid",
+          "published": "2026-07-10T20:05:14+00:00",
+          "url": "https://www.youtube.com/watch?v=fq2D80GqXqQ",
+          "count": 7,
+          "transcript_file": "transcripts/2026/07/Chrissie Mayr Officially FIRED from FRIDAY NIGHT TIGHTS j.A.C.k Show July 9th 2026 [fq2D80GqXqQ].json"
+        },
+        {
+          "video_id": "HTrcwhelzCU",
+          "title": "Chrissie Mayr Officially Fired from Friday Night Tights (Jul 9, 2026)",
+          "source": "Elissa Clips",
+          "published": "2026-07-10T13:42:14+00:00",
+          "url": "https://www.youtube.com/watch?v=HTrcwhelzCU",
+          "count": 7,
+          "transcript_file": "transcripts/2026/07/Chrissie Mayr Officially Fired from Friday Night Tights (Jul 9, 2026) [HTrcwhelzCU].json"
+        },
+        {
+          "video_id": "jMj649E220I",
+          "title": "Kino Casino: Brad Cool’s Offer to TheQuartering & Jer’s DEFINITELY Banned from the Ren Fair Jul 2026",
+          "source": "Elissa Clips",
+          "published": "2026-07-10T00:33:20+00:00",
+          "url": "https://www.youtube.com/watch?v=jMj649E220I",
+          "count": 8,
+          "transcript_file": "transcripts/2026/07/Kino Casino Brad Cool’s Offer to TheQuartering & Jer’s DEFINITELY Banned from the Ren Fair Jul 2026 [jMj649E220I].json"
+        },
+        {
+          "video_id": "lUXAeP8oPgw",
+          "title": "Kino Casino: TheQuartering Vlogs Ep. 1 (Jul 8, 2026)",
+          "source": "Elissa Clips",
+          "published": "2026-07-09T22:58:59+00:00",
+          "url": "https://www.youtube.com/watch?v=lUXAeP8oPgw",
+          "count": 5,
+          "transcript_file": "transcripts/2026/07/Kino Casino TheQuartering Vlogs Ep. 1 (Jul 8, 2026) [lUXAeP8oPgw].json"
+        },
+        {
+          "video_id": "ErvISz34rtE",
+          "title": "Coffee Brand Coffee’s Wednesday Meeting w/ Jeremy Hambly TheQuartering (Jul 8, 2026)",
+          "source": "Elissa Clips",
+          "published": "2026-07-09T00:21:23+00:00",
+          "url": "https://www.youtube.com/watch?v=ErvISz34rtE",
+          "count": 4,
+          "transcript_file": "transcripts/2026/07/Coffee Brand Coffee’s Wednesday Meeting w Jeremy Hambly TheQuartering (Jul 8, 2026) [ErvISz34rtE].json"
+        },
+        {
+          "video_id": "RxZ_OdBN2f0",
+          "title": "Katydid Caught LYING AGAIN! - Detractor Kings",
+          "source": "Frog Tony",
+          "published": "2026-07-07T05:46:59+00:00",
+          "url": "https://www.youtube.com/watch?v=RxZ_OdBN2f0",
+          "count": 2,
+          "transcript_file": "transcripts/2026/07/Katydid Caught LYING AGAIN! - Detractor Kings [RxZ_OdBN2f0].json"
+        },
+        {
+          "video_id": "Uf6bzqxJAAk",
+          "title": "TRASHCAST #265: The Khola King & Ethan Van Sciver Exchange",
+          "source": "KatyDid",
+          "published": "2026-07-06T01:43:35+00:00",
+          "url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk",
+          "count": 1,
+          "transcript_file": "transcripts/2026/07/TRASHCAST #265 The Khola King & Ethan Van Sciver Exchange [Uf6bzqxJAAk].json"
+        },
+        {
+          "video_id": "odC_ijF0FE4",
+          "title": "JCW Lunacy #89 Watch Party",
+          "source": "Frog Tony",
+          "published": "2026-07-04T14:28:36+00:00",
+          "url": "https://www.youtube.com/watch?v=odC_ijF0FE4",
+          "count": 1,
+          "transcript_file": "transcripts/2026/07/JCW Lunacy #89 Watch Party [odC_ijF0FE4].json"
+        },
+        {
+          "video_id": "edPpkg2kim4",
+          "title": "\"I REPORTED THE DROPBOX!\" Liam Gray Responds to EVS Reacting To A Viral Clip",
+          "source": "KatyDid",
+          "published": "2026-07-03T19:49:19+00:00",
+          "url": "https://www.youtube.com/watch?v=edPpkg2kim4",
+          "count": 1,
+          "transcript_file": "transcripts/2026/07/I REPORTED THE DROPBOX! Liam Gray Responds to EVS Reacting To A Viral Clip [edPpkg2kim4].json"
+        },
+        {
+          "video_id": "6GIxuFOICAI",
+          "title": "Catching Up With The Rippaverse! - Detractor Kings",
+          "source": "Frog Tony",
+          "published": "2026-06-30T05:04:06+00:00",
+          "url": "https://www.youtube.com/watch?v=6GIxuFOICAI",
+          "count": 8,
+          "transcript_file": "transcripts/2026/06/Catching Up With The Rippaverse! - Detractor Kings [6GIxuFOICAI].json"
+        }
+      ]
+    },
     "Jon Del Arroz": {
       "total_mentions": 113,
       "video_count": 10,
@@ -1785,192 +1996,35 @@
         }
       ]
     },
-    "TheQuartering": {
-      "total_mentions": 102,
-      "video_count": 18,
-      "source_count": 4,
-      "mentioned_by": {
-        "Ethan Van Sciver": 44,
-        "Elissa Clips": 38,
-        "Frog Tony": 11,
-        "KatyDid": 9
-      },
-      "videos": [
-        {
-          "video_id": "LS_14uOaG2E",
-          "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
-          "source": "Ethan Van Sciver",
-          "published": "2026-07-13T23:19:06+00:00",
-          "url": "https://www.youtube.com/watch?v=LS_14uOaG2E",
-          "count": 8,
-          "transcript_file": "transcripts/2026/07/#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES! [LS_14uOaG2E].json"
-        },
-        {
-          "video_id": "3VGvnr2bjKw",
-          "title": "Potentially Criminal on Nick Rekieta’s Downfall (Jul 12, 2026)",
-          "source": "Elissa Clips",
-          "published": "2026-07-13T13:12:53+00:00",
-          "url": "https://www.youtube.com/watch?v=3VGvnr2bjKw",
-          "count": 1,
-          "transcript_file": "transcripts/2026/07/3VGvnr2bjKw.json"
-        },
-        {
-          "video_id": "zkW4zLSQ7eQ",
-          "title": "You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto!",
-          "source": "Ethan Van Sciver",
-          "published": "2026-07-13T06:01:02+00:00",
-          "url": "https://www.youtube.com/watch?v=zkW4zLSQ7eQ",
-          "count": 3,
-          "transcript_file": "transcripts/2026/07/You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto! [zkW4zLSQ7eQ].json"
-        },
-        {
-          "video_id": "9NJQwnK7qJg",
-          "title": "TheQuartering’s Mobility Scooter w/ Tuesday Night’s Main Event (Jul 7, 2026)",
-          "source": "Elissa Clips",
-          "published": "2026-07-13T02:56:01+00:00",
-          "url": "https://www.youtube.com/watch?v=9NJQwnK7qJg",
-          "count": 8,
-          "transcript_file": "transcripts/2026/07/TheQuartering’s Mobility Scooter w Tuesday Night’s Main Event (Jul 7, 2026) [9NJQwnK7qJg].json"
-        },
-        {
-          "video_id": "Uy8eHEmKNWY",
-          "title": "Kino Casino: Nerdrotic Fires Chrissie Mayr from Friday Night Tights (Jul 10, 2026)",
-          "source": "Elissa Clips",
-          "published": "2026-07-11T18:46:43+00:00",
-          "url": "https://www.youtube.com/watch?v=Uy8eHEmKNWY",
-          "count": 1,
-          "transcript_file": "transcripts/2026/07/Kino Casino Nerdrotic Fires Chrissie Mayr from Friday Night Tights (Jul 10, 2026) [Uy8eHEmKNWY].json"
-        },
-        {
-          "video_id": "66FqtP0Wves",
-          "title": "It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on \"WOKE\"! LANTERNS Spoilers?!",
-          "source": "Ethan Van Sciver",
-          "published": "2026-07-11T04:50:41+00:00",
-          "url": "https://www.youtube.com/watch?v=66FqtP0Wves",
-          "count": 33,
-          "transcript_file": "transcripts/2026/07/It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on WOKE! LANTERNS Spoilers! [66FqtP0Wves].json"
-        },
-        {
-          "video_id": "R2AEOMp6S6M",
-          "title": "Jer the Ren Fair Creeper Returns This Weekend! & a Coffee Brand Cope Session w/ TheQuartering",
-          "source": "Elissa Clips",
-          "published": "2026-07-10T22:48:52+00:00",
-          "url": "https://www.youtube.com/watch?v=R2AEOMp6S6M",
-          "count": 3,
-          "transcript_file": "transcripts/2026/07/Jer the Ren Fair Creeper Returns This Weekend! & a Coffee Brand Cope Session w TheQuartering [R2AEOMp6S6M].json"
-        },
-        {
-          "video_id": "nfZd95BuM5U",
-          "title": "TONIGHT ON KINO CASINO!! TheQuartering CBC Dropship Confirmed! Total DSP Victory! Angry Joe & More!!",
-          "source": "Elissa Clips",
-          "published": "2026-07-10T20:05:26+00:00",
-          "url": "https://www.youtube.com/watch?v=nfZd95BuM5U",
-          "count": 1,
-          "transcript_file": "transcripts/2026/07/TONIGHT ON KINO CASINO!! TheQuartering CBC Dropship Confirmed! Total DSP Victory! Angry Joe & More!! [nfZd95BuM5U].json"
-        },
-        {
-          "video_id": "fq2D80GqXqQ",
-          "title": "Chrissie Mayr Officially FIRED from FRIDAY NIGHT TIGHTS | j.A.C.k Show | July 9th 2026",
-          "source": "KatyDid",
-          "published": "2026-07-10T20:05:14+00:00",
-          "url": "https://www.youtube.com/watch?v=fq2D80GqXqQ",
-          "count": 7,
-          "transcript_file": "transcripts/2026/07/Chrissie Mayr Officially FIRED from FRIDAY NIGHT TIGHTS j.A.C.k Show July 9th 2026 [fq2D80GqXqQ].json"
-        },
-        {
-          "video_id": "HTrcwhelzCU",
-          "title": "Chrissie Mayr Officially Fired from Friday Night Tights (Jul 9, 2026)",
-          "source": "Elissa Clips",
-          "published": "2026-07-10T13:42:14+00:00",
-          "url": "https://www.youtube.com/watch?v=HTrcwhelzCU",
-          "count": 7,
-          "transcript_file": "transcripts/2026/07/Chrissie Mayr Officially Fired from Friday Night Tights (Jul 9, 2026) [HTrcwhelzCU].json"
-        },
-        {
-          "video_id": "jMj649E220I",
-          "title": "Kino Casino: Brad Cool’s Offer to TheQuartering & Jer’s DEFINITELY Banned from the Ren Fair Jul 2026",
-          "source": "Elissa Clips",
-          "published": "2026-07-10T00:33:20+00:00",
-          "url": "https://www.youtube.com/watch?v=jMj649E220I",
-          "count": 8,
-          "transcript_file": "transcripts/2026/07/Kino Casino Brad Cool’s Offer to TheQuartering & Jer’s DEFINITELY Banned from the Ren Fair Jul 2026 [jMj649E220I].json"
-        },
-        {
-          "video_id": "lUXAeP8oPgw",
-          "title": "Kino Casino: TheQuartering Vlogs Ep. 1 (Jul 8, 2026)",
-          "source": "Elissa Clips",
-          "published": "2026-07-09T22:58:59+00:00",
-          "url": "https://www.youtube.com/watch?v=lUXAeP8oPgw",
-          "count": 5,
-          "transcript_file": "transcripts/2026/07/Kino Casino TheQuartering Vlogs Ep. 1 (Jul 8, 2026) [lUXAeP8oPgw].json"
-        },
-        {
-          "video_id": "ErvISz34rtE",
-          "title": "Coffee Brand Coffee’s Wednesday Meeting w/ Jeremy Hambly TheQuartering (Jul 8, 2026)",
-          "source": "Elissa Clips",
-          "published": "2026-07-09T00:21:23+00:00",
-          "url": "https://www.youtube.com/watch?v=ErvISz34rtE",
-          "count": 4,
-          "transcript_file": "transcripts/2026/07/Coffee Brand Coffee’s Wednesday Meeting w Jeremy Hambly TheQuartering (Jul 8, 2026) [ErvISz34rtE].json"
-        },
-        {
-          "video_id": "RxZ_OdBN2f0",
-          "title": "Katydid Caught LYING AGAIN! - Detractor Kings",
-          "source": "Frog Tony",
-          "published": "2026-07-07T05:46:59+00:00",
-          "url": "https://www.youtube.com/watch?v=RxZ_OdBN2f0",
-          "count": 2,
-          "transcript_file": "transcripts/2026/07/Katydid Caught LYING AGAIN! - Detractor Kings [RxZ_OdBN2f0].json"
-        },
-        {
-          "video_id": "Uf6bzqxJAAk",
-          "title": "TRASHCAST #265: The Khola King & Ethan Van Sciver Exchange",
-          "source": "KatyDid",
-          "published": "2026-07-06T01:43:35+00:00",
-          "url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk",
-          "count": 1,
-          "transcript_file": "transcripts/2026/07/TRASHCAST #265 The Khola King & Ethan Van Sciver Exchange [Uf6bzqxJAAk].json"
-        },
-        {
-          "video_id": "odC_ijF0FE4",
-          "title": "JCW Lunacy #89 Watch Party",
-          "source": "Frog Tony",
-          "published": "2026-07-04T14:28:36+00:00",
-          "url": "https://www.youtube.com/watch?v=odC_ijF0FE4",
-          "count": 1,
-          "transcript_file": "transcripts/2026/07/JCW Lunacy #89 Watch Party [odC_ijF0FE4].json"
-        },
-        {
-          "video_id": "edPpkg2kim4",
-          "title": "\"I REPORTED THE DROPBOX!\" Liam Gray Responds to EVS Reacting To A Viral Clip",
-          "source": "KatyDid",
-          "published": "2026-07-03T19:49:19+00:00",
-          "url": "https://www.youtube.com/watch?v=edPpkg2kim4",
-          "count": 1,
-          "transcript_file": "transcripts/2026/07/I REPORTED THE DROPBOX! Liam Gray Responds to EVS Reacting To A Viral Clip [edPpkg2kim4].json"
-        },
-        {
-          "video_id": "6GIxuFOICAI",
-          "title": "Catching Up With The Rippaverse! - Detractor Kings",
-          "source": "Frog Tony",
-          "published": "2026-06-30T05:04:06+00:00",
-          "url": "https://www.youtube.com/watch?v=6GIxuFOICAI",
-          "count": 8,
-          "transcript_file": "transcripts/2026/06/Catching Up With The Rippaverse! - Detractor Kings [6GIxuFOICAI].json"
-        }
-      ]
-    },
     "Chrissie Mayr": {
-      "total_mentions": 98,
-      "video_count": 7,
+      "total_mentions": 100,
+      "video_count": 9,
       "source_count": 4,
       "mentioned_by": {
         "Ethan Van Sciver": 64,
-        "Elissa Clips": 26,
+        "Elissa Clips": 28,
         "KatyDid": 7,
         "Frog Tony": 1
       },
       "videos": [
+        {
+          "video_id": "7dsbRrEAJUo",
+          "title": "DDayCobra Hopes Chrissie Mayr Makes a Million Dollars (Jul 13, 2026)",
+          "source": "Elissa Clips",
+          "published": "2026-07-14T00:43:09+00:00",
+          "url": "https://www.youtube.com/watch?v=7dsbRrEAJUo",
+          "count": 1,
+          "transcript_file": "transcripts/2026-07/DDayCobra Hopes Chrissie Mayr Makes a Million Dollars (Jul 13, 2026) [7dsbRrEAJUo].json"
+        },
+        {
+          "video_id": "Vj5FINXThF4",
+          "title": "TheQuartering: Friday Night Tights is a Huge Pword for Firing Chrissie Mayr (Jul 13, 2026)",
+          "source": "Elissa Clips",
+          "published": "2026-07-13T23:29:23+00:00",
+          "url": "https://www.youtube.com/watch?v=Vj5FINXThF4",
+          "count": 1,
+          "transcript_file": "transcripts/2026-07/TheQuartering Friday Night Tights is a Huge Pword for Firing Chrissie Mayr (Jul 13, 2026) [Vj5FINXThF4].json"
+        },
         {
           "video_id": "LS_14uOaG2E",
           "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
@@ -3320,6 +3374,53 @@
         }
       ]
     },
+    "Friday Night Tights": {
+      "total_mentions": 11,
+      "video_count": 4,
+      "source_count": 2,
+      "mentioned_by": {
+        "Ethan Van Sciver": 7,
+        "Elissa Clips": 4
+      },
+      "videos": [
+        {
+          "video_id": "Vj5FINXThF4",
+          "title": "TheQuartering: Friday Night Tights is a Huge Pword for Firing Chrissie Mayr (Jul 13, 2026)",
+          "source": "Elissa Clips",
+          "published": "2026-07-13T23:29:23+00:00",
+          "url": "https://www.youtube.com/watch?v=Vj5FINXThF4",
+          "count": 1,
+          "transcript_file": "transcripts/2026-07/TheQuartering Friday Night Tights is a Huge Pword for Firing Chrissie Mayr (Jul 13, 2026) [Vj5FINXThF4].json"
+        },
+        {
+          "video_id": "LS_14uOaG2E",
+          "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+          "source": "Ethan Van Sciver",
+          "published": "2026-07-13T23:19:06+00:00",
+          "url": "https://www.youtube.com/watch?v=LS_14uOaG2E",
+          "count": 5,
+          "transcript_file": "transcripts/2026/07/#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES! [LS_14uOaG2E].json"
+        },
+        {
+          "video_id": "Uy8eHEmKNWY",
+          "title": "Kino Casino: Nerdrotic Fires Chrissie Mayr from Friday Night Tights (Jul 10, 2026)",
+          "source": "Elissa Clips",
+          "published": "2026-07-11T18:46:43+00:00",
+          "url": "https://www.youtube.com/watch?v=Uy8eHEmKNWY",
+          "count": 3,
+          "transcript_file": "transcripts/2026/07/Kino Casino Nerdrotic Fires Chrissie Mayr from Friday Night Tights (Jul 10, 2026) [Uy8eHEmKNWY].json"
+        },
+        {
+          "video_id": "66FqtP0Wves",
+          "title": "It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on \"WOKE\"! LANTERNS Spoilers?!",
+          "source": "Ethan Van Sciver",
+          "published": "2026-07-11T04:50:41+00:00",
+          "url": "https://www.youtube.com/watch?v=66FqtP0Wves",
+          "count": 2,
+          "transcript_file": "transcripts/2026/07/It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on WOKE! LANTERNS Spoilers! [66FqtP0Wves].json"
+        }
+      ]
+    },
     "Alpha Core": {
       "total_mentions": 10,
       "video_count": 3,
@@ -3356,44 +3457,6 @@
           "url": "https://www.youtube.com/watch?v=atuAmOfu6no",
           "count": 8,
           "transcript_file": "transcripts/2026/07/SHOUT OUT TO ALPHACORE #3!! Rippaverse @Jon_Malin [atuAmOfu6no].json"
-        }
-      ]
-    },
-    "Friday Night Tights": {
-      "total_mentions": 10,
-      "video_count": 3,
-      "source_count": 2,
-      "mentioned_by": {
-        "Ethan Van Sciver": 7,
-        "Elissa Clips": 3
-      },
-      "videos": [
-        {
-          "video_id": "LS_14uOaG2E",
-          "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
-          "source": "Ethan Van Sciver",
-          "published": "2026-07-13T23:19:06+00:00",
-          "url": "https://www.youtube.com/watch?v=LS_14uOaG2E",
-          "count": 5,
-          "transcript_file": "transcripts/2026/07/#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES! [LS_14uOaG2E].json"
-        },
-        {
-          "video_id": "Uy8eHEmKNWY",
-          "title": "Kino Casino: Nerdrotic Fires Chrissie Mayr from Friday Night Tights (Jul 10, 2026)",
-          "source": "Elissa Clips",
-          "published": "2026-07-11T18:46:43+00:00",
-          "url": "https://www.youtube.com/watch?v=Uy8eHEmKNWY",
-          "count": 3,
-          "transcript_file": "transcripts/2026/07/Kino Casino Nerdrotic Fires Chrissie Mayr from Friday Night Tights (Jul 10, 2026) [Uy8eHEmKNWY].json"
-        },
-        {
-          "video_id": "66FqtP0Wves",
-          "title": "It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on \"WOKE\"! LANTERNS Spoilers?!",
-          "source": "Ethan Van Sciver",
-          "published": "2026-07-11T04:50:41+00:00",
-          "url": "https://www.youtube.com/watch?v=66FqtP0Wves",
-          "count": 2,
-          "transcript_file": "transcripts/2026/07/It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on WOKE! LANTERNS Spoilers! [66FqtP0Wves].json"
         }
       ]
     },
@@ -3636,6 +3699,63 @@
     }
   },
   "videos": [
+    {
+      "video_id": "dcgJdp8BRKs",
+      "title": "Professional Streamer TheQuartering - Gooners Gonna Goon (Jul 14, 2026)",
+      "source": "Elissa Clips",
+      "published": "2026-07-14T22:21:40+00:00",
+      "url": "https://www.youtube.com/watch?v=dcgJdp8BRKs",
+      "transcript_file": "transcripts/2026-07/Professional Streamer TheQuartering - Gooners Gonna Goon (Jul 14, 2026) [dcgJdp8BRKs].json",
+      "mentions": {
+        "TheQuartering": 3
+      }
+    },
+    {
+      "video_id": "iZU8Ozto3VQ",
+      "title": "MATI: Metokur & Cog Bend Over for Ethan Ralph (Jul 10, 2026)",
+      "source": "Elissa Clips",
+      "published": "2026-07-14T21:56:51+00:00",
+      "url": "https://www.youtube.com/watch?v=iZU8Ozto3VQ",
+      "transcript_file": "transcripts/2026-07/MATI Metokur & Cog Bend Over for Ethan Ralph (Jul 10, 2026) [iZU8Ozto3VQ].json",
+      "mentions": {
+        "Ethan Van Sciver": 3
+      }
+    },
+    {
+      "video_id": "Zmx83V8vKSU",
+      "title": "MATI: TheQuartering’s Dropship Brand Dropship (Jul 10, 2026)",
+      "source": "Elissa Clips",
+      "published": "2026-07-14T16:57:04+00:00",
+      "url": "https://www.youtube.com/watch?v=Zmx83V8vKSU",
+      "transcript_file": "transcripts/2026-07/MATI TheQuartering’s Dropship Brand Dropship (Jul 10, 2026) [Zmx83V8vKSU].json",
+      "mentions": {
+        "TheQuartering": 10
+      }
+    },
+    {
+      "video_id": "7dsbRrEAJUo",
+      "title": "DDayCobra Hopes Chrissie Mayr Makes a Million Dollars (Jul 13, 2026)",
+      "source": "Elissa Clips",
+      "published": "2026-07-14T00:43:09+00:00",
+      "url": "https://www.youtube.com/watch?v=7dsbRrEAJUo",
+      "transcript_file": "transcripts/2026-07/DDayCobra Hopes Chrissie Mayr Makes a Million Dollars (Jul 13, 2026) [7dsbRrEAJUo].json",
+      "mentions": {
+        "Chrissie Mayr": 1
+      }
+    },
+    {
+      "video_id": "Vj5FINXThF4",
+      "title": "TheQuartering: Friday Night Tights is a Huge Pword for Firing Chrissie Mayr (Jul 13, 2026)",
+      "source": "Elissa Clips",
+      "published": "2026-07-13T23:29:23+00:00",
+      "url": "https://www.youtube.com/watch?v=Vj5FINXThF4",
+      "transcript_file": "transcripts/2026-07/TheQuartering Friday Night Tights is a Huge Pword for Firing Chrissie Mayr (Jul 13, 2026) [Vj5FINXThF4].json",
+      "mentions": {
+        "Chrissie Mayr": 1,
+        "Friday Night Tights": 1,
+        "TheQuartering": 1
+      }
+    },
     {
       "video_id": "LS_14uOaG2E",
       "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
