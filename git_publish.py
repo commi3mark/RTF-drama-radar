@@ -11,6 +11,16 @@ PUBLISH_PATHS = [
     "archive",
     "transcripts",
     "intelligence/evidence-packets",
+    "intelligence/episodes",
+    "intelligence/people",
+    "intelligence/shows",
+    "intelligence/stories",
+    "intelligence/factions",
+    "intelligence/claims",
+    "intelligence/quotes",
+    "intelligence/processed",
+    "intelligence/rejected",
+    "intelligence/state.json",
     "state/transcript-retries.json",
     "logs/health.json",
 ]
@@ -38,11 +48,7 @@ def main() -> int:
         return 0
 
     try:
-        repository_root = run_git(
-            "rev-parse",
-            "--show-toplevel",
-            capture=True,
-        )
+        repository_root = run_git("rev-parse", "--show-toplevel", capture=True)
     except (subprocess.CalledProcessError, FileNotFoundError):
         print("Git publishing skipped: this folder is not a Git repository.")
         return 0
@@ -63,9 +69,7 @@ def main() -> int:
         )
         return 1
 
-    existing_paths = [
-        path for path in PUBLISH_PATHS if (ROOT / path).exists()
-    ]
+    existing_paths = [path for path in PUBLISH_PATHS if (ROOT / path).exists()]
     if not existing_paths:
         print("Git publishing skipped: no generated output paths exist.")
         return 0
@@ -80,20 +84,14 @@ def main() -> int:
     prefix = str(
         cfg.get("commit_message_prefix", "Automated Drama Radar update")
     ).strip()
-    timestamp_text = datetime.now(timezone.utc).strftime(
-        "%Y-%m-%d %H:%M UTC"
-    )
-    message = f"{prefix} — {timestamp_text}"
+    timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    message = f"{prefix} — {timestamp}"
 
     run_git("commit", "-m", message)
     run_git("push", remote, branch)
 
-    changed_count = len(
-        [line for line in changed.splitlines() if line.strip()]
-    )
-    print(
-        f"Git publishing complete: pushed {changed_count} changed files."
-    )
+    changed_count = len([line for line in changed.splitlines() if line.strip()])
+    print(f"Git publishing complete: pushed {changed_count} changed files.")
     return 0
 
 

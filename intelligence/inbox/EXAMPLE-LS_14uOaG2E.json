@@ -1,0 +1,80 @@
+{
+  "schema_version": "octopuss-episode-analysis-v0.1",
+  "video_id": "LS_14uOaG2E",
+  "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+  "show": {
+    "id": "comicsgate-kings",
+    "name": "ComicsGate Kings",
+    "channel": "Ethan Van Sciver"
+  },
+  "episode_summary": "",
+  "coverage": {
+    "packet_complete": true,
+    "analysis_complete": false,
+    "notes": ""
+  },
+  "participants": [
+    {
+      "entity_id": "ethan-van-sciver",
+      "name": "Ethan Van Sciver",
+      "role": "host",
+      "confidence": 1.0,
+      "evidence": [
+        {
+          "timestamp": "10:22",
+          "note": "Self-identification as host"
+        }
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "entity_id": "chrissie-mayr",
+      "name": "Chrissie Mayr",
+      "importance": "major",
+      "sentiment": "predominantly_negative",
+      "appeared": false,
+      "confidence": 0.9,
+      "topic_blocks": [
+        "00:19:59-00:37:02"
+      ],
+      "evidence": [
+        {
+          "timestamp": "34:25",
+          "note": "Discussion of FNT departure"
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:00:00",
+      "end": "00:10:22",
+      "title": "Opening material",
+      "summary": "",
+      "entities": []
+    }
+  ],
+  "story_updates": [
+    {
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "status": "active",
+      "summary": "",
+      "participants": [
+        "chrissie-mayr",
+        "friday-night-tights"
+      ],
+      "evidence": [
+        {
+          "timestamp": "34:25-37:02",
+          "note": ""
+        }
+      ]
+    }
+  ],
+  "faction_signals": [],
+  "claims": [],
+  "quotes": [],
+  "uncertainties": []
+}
