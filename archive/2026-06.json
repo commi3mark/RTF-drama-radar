@@ -11,8 +11,15 @@
     "youtube_id": "FrQfU1Y84Nk",
     "transcript_status": "available",
     "transcript_path": "transcripts/2026/06/DRAW-MUH STREAM! REIGNBOW THE BRUTE Death of Papa Smerc page 3 pt3 [FrQfU1Y84Nk].json",
-    "transcript_url": null,
-    "discovered_at": "2026-07-15T15:14:20.295525+00:00"
+    "transcript_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/main/transcripts/2026/06/DRAW-MUH%20STREAM%21%20REIGNBOW%20THE%20BRUTE%20Death%20of%20Papa%20Smerc%20page%203%20pt3%20%5BFrQfU1Y84Nk%5D.json",
+    "discovered_at": "2026-07-15T15:14:20.295525+00:00",
+    "transcript": {
+      "available": true,
+      "local_path": "transcripts/2026/06/DRAW-MUH STREAM! REIGNBOW THE BRUTE Death of Papa Smerc page 3 pt3 [FrQfU1Y84Nk].json",
+      "github_raw": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/main/transcripts/2026/06/DRAW-MUH%20STREAM%21%20REIGNBOW%20THE%20BRUTE%20Death%20of%20Papa%20Smerc%20page%203%20pt3%20%5BFrQfU1Y84Nk%5D.json",
+      "segment_count": 2362,
+      "downloaded_at": "2026-07-14T20:00:15.520161+00:00"
+    }
   },
   {
     "id": "cb9d5a3f8a974d16d7bb",
@@ -27,7 +34,12 @@
     "transcript_status": "pending",
     "transcript_path": null,
     "transcript_url": null,
-    "discovered_at": "2026-07-15T15:14:21.570310+00:00"
+    "discovered_at": "2026-07-15T15:14:21.570310+00:00",
+    "transcript": {
+      "available": false,
+      "local_path": null,
+      "github_raw": null
+    }
   },
   {
     "id": "e7558ac9047c7d96ce62",
@@ -42,7 +54,12 @@
     "transcript_status": "pending",
     "transcript_path": null,
     "transcript_url": null,
-    "discovered_at": "2026-07-15T15:14:21.114431+00:00"
+    "discovered_at": "2026-07-15T15:14:21.114431+00:00",
+    "transcript": {
+      "available": false,
+      "local_path": null,
+      "github_raw": null
+    }
   },
   {
     "id": "625879e135c9f89749c4",
@@ -57,7 +74,12 @@
     "transcript_status": "pending",
     "transcript_path": null,
     "transcript_url": null,
-    "discovered_at": "2026-07-15T15:14:21.243087+00:00"
+    "discovered_at": "2026-07-15T15:14:21.243087+00:00",
+    "transcript": {
+      "available": false,
+      "local_path": null,
+      "github_raw": null
+    }
   },
   {
     "id": "965452b947ad438ad6d2",
@@ -72,7 +94,12 @@
     "transcript_status": "pending",
     "transcript_path": null,
     "transcript_url": null,
-    "discovered_at": "2026-07-15T15:14:21.114431+00:00"
+    "discovered_at": "2026-07-15T15:14:21.114431+00:00",
+    "transcript": {
+      "available": false,
+      "local_path": null,
+      "github_raw": null
+    }
   },
   {
     "id": "c6b5ed846cd8dcd9cf97",
@@ -87,7 +114,12 @@
     "transcript_status": "pending",
     "transcript_path": null,
     "transcript_url": null,
-    "discovered_at": "2026-07-15T15:14:20.976583+00:00"
+    "discovered_at": "2026-07-15T15:14:20.976583+00:00",
+    "transcript": {
+      "available": false,
+      "local_path": null,
+      "github_raw": null
+    }
   },
   {
     "id": "f339e14bcb50c389ce9e",
@@ -101,8 +133,15 @@
     "youtube_id": "6GIxuFOICAI",
     "transcript_status": "available",
     "transcript_path": "transcripts/2026/06/Catching Up With The Rippaverse! - Detractor Kings [6GIxuFOICAI].json",
-    "transcript_url": null,
-    "discovered_at": "2026-07-15T15:14:20.436286+00:00"
+    "transcript_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/main/transcripts/2026/06/Catching%20Up%20With%20The%20Rippaverse%21%20-%20Detractor%20Kings%20%5B6GIxuFOICAI%5D.json",
+    "discovered_at": "2026-07-15T15:14:20.436286+00:00",
+    "transcript": {
+      "available": true,
+      "local_path": "transcripts/2026/06/Catching Up With The Rippaverse! - Detractor Kings [6GIxuFOICAI].json",
+      "github_raw": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/main/transcripts/2026/06/Catching%20Up%20With%20The%20Rippaverse%21%20-%20Detractor%20Kings%20%5B6GIxuFOICAI%5D.json",
+      "segment_count": 5747,
+      "downloaded_at": "2026-07-14T20:00:39.350150+00:00"
+    }
   },
   {
     "id": "4ca4c2f54ea7c8e65d1c",
@@ -117,7 +156,12 @@
     "transcript_status": "pending",
     "transcript_path": null,
     "transcript_url": null,
-    "discovered_at": "2026-07-15T15:14:20.295525+00:00"
+    "discovered_at": "2026-07-15T15:14:20.295525+00:00",
+    "transcript": {
+      "available": false,
+      "local_path": null,
+      "github_raw": null
+    }
   },
   {
     "id": "13930934fc21f6c61ee6",
@@ -132,7 +176,12 @@
     "transcript_status": "pending",
     "transcript_path": null,
     "transcript_url": null,
-    "discovered_at": "2026-07-15T15:14:20.819952+00:00"
+    "discovered_at": "2026-07-15T15:14:20.819952+00:00",
+    "transcript": {
+      "available": false,
+      "local_path": null,
+      "github_raw": null
+    }
   },
   {
     "id": "86c86333c087bc0264e1",
@@ -147,7 +196,12 @@
     "transcript_status": "pending",
     "transcript_path": null,
     "transcript_url": null,
-    "discovered_at": "2026-07-15T15:14:21.114431+00:00"
+    "discovered_at": "2026-07-15T15:14:21.114431+00:00",
+    "transcript": {
+      "available": false,
+      "local_path": null,
+      "github_raw": null
+    }
   },
   {
     "id": "03ab1f356b55b31d4ce7",
@@ -162,7 +216,12 @@
     "transcript_status": "pending",
     "transcript_path": null,
     "transcript_url": null,
-    "discovered_at": "2026-07-15T15:14:20.295525+00:00"
+    "discovered_at": "2026-07-15T15:14:20.295525+00:00",
+    "transcript": {
+      "available": false,
+      "local_path": null,
+      "github_raw": null
+    }
   },
   {
     "id": "3d6608bfd9db44afc190",
@@ -177,7 +236,12 @@
     "transcript_status": "pending",
     "transcript_path": null,
     "transcript_url": null,
-    "discovered_at": "2026-07-15T15:14:21.243087+00:00"
+    "discovered_at": "2026-07-15T15:14:21.243087+00:00",
+    "transcript": {
+      "available": false,
+      "local_path": null,
+      "github_raw": null
+    }
   },
   {
     "id": "500c007423d29099be74",
@@ -192,7 +256,12 @@
     "transcript_status": "pending",
     "transcript_path": null,
     "transcript_url": null,
-    "discovered_at": "2026-07-15T15:14:20.976583+00:00"
+    "discovered_at": "2026-07-15T15:14:20.976583+00:00",
+    "transcript": {
+      "available": false,
+      "local_path": null,
+      "github_raw": null
+    }
   },
   {
     "id": "b204ab76cffe50539dcf",
@@ -207,7 +276,8 @@
     "transcript_status": "not_applicable",
     "transcript_path": null,
     "transcript_url": null,
-    "discovered_at": "2026-07-15T15:14:18.433413+00:00"
+    "discovered_at": "2026-07-15T15:14:18.433413+00:00",
+    "transcript": null
   },
   {
     "id": "1c4bb27debd77386aabe",
@@ -221,8 +291,15 @@
     "youtube_id": "qLcrzaJJKiQ",
     "transcript_status": "available",
     "transcript_path": "transcripts/2026/06/Supergirl BOMBED! - Comicsgate Suburbs [qLcrzaJJKiQ].json",
-    "transcript_url": null,
-    "discovered_at": "2026-07-15T15:14:20.436286+00:00"
+    "transcript_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/main/transcripts/2026/06/Supergirl%20BOMBED%21%20-%20Comicsgate%20Suburbs%20%5BqLcrzaJJKiQ%5D.json",
+    "discovered_at": "2026-07-15T15:14:20.436286+00:00",
+    "transcript": {
+      "available": true,
+      "local_path": "transcripts/2026/06/Supergirl BOMBED! - Comicsgate Suburbs [qLcrzaJJKiQ].json",
+      "github_raw": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/main/transcripts/2026/06/Supergirl%20BOMBED%21%20-%20Comicsgate%20Suburbs%20%5BqLcrzaJJKiQ%5D.json",
+      "segment_count": 4620,
+      "downloaded_at": "2026-07-14T20:01:05.364885+00:00"
+    }
   },
   {
     "id": "9f98aad41330de2ac68c",
@@ -237,7 +314,12 @@
     "transcript_status": "pending",
     "transcript_path": null,
     "transcript_url": null,
-    "discovered_at": "2026-07-15T15:14:20.295525+00:00"
+    "discovered_at": "2026-07-15T15:14:20.295525+00:00",
+    "transcript": {
+      "available": false,
+      "local_path": null,
+      "github_raw": null
+    }
   },
   {
     "id": "a8770fe3776ccc8cb968",
@@ -252,7 +334,12 @@
     "transcript_status": "pending",
     "transcript_path": null,
     "transcript_url": null,
-    "discovered_at": "2026-07-15T15:14:21.114431+00:00"
+    "discovered_at": "2026-07-15T15:14:21.114431+00:00",
+    "transcript": {
+      "available": false,
+      "local_path": null,
+      "github_raw": null
+    }
   },
   {
     "id": "32c424b019e03c0a94be",
@@ -267,7 +354,12 @@
     "transcript_status": "pending",
     "transcript_path": null,
     "transcript_url": null,
-    "discovered_at": "2026-07-15T15:14:21.243087+00:00"
+    "discovered_at": "2026-07-15T15:14:21.243087+00:00",
+    "transcript": {
+      "available": false,
+      "local_path": null,
+      "github_raw": null
+    }
   },
   {
     "id": "31faf5934b90fe2fdfe7",
@@ -282,7 +374,12 @@
     "transcript_status": "pending",
     "transcript_path": null,
     "transcript_url": null,
-    "discovered_at": "2026-07-15T15:14:20.436286+00:00"
+    "discovered_at": "2026-07-15T15:14:20.436286+00:00",
+    "transcript": {
+      "available": false,
+      "local_path": null,
+      "github_raw": null
+    }
   },
   {
     "id": "acc21e2a0bfd2df0161d",
@@ -297,7 +394,12 @@
     "transcript_status": "pending",
     "transcript_path": null,
     "transcript_url": null,
-    "discovered_at": "2026-07-15T15:14:20.295525+00:00"
+    "discovered_at": "2026-07-15T15:14:20.295525+00:00",
+    "transcript": {
+      "available": false,
+      "local_path": null,
+      "github_raw": null
+    }
   },
   {
     "id": "599f713f07596e95d427",
@@ -312,7 +414,12 @@
     "transcript_status": "pending",
     "transcript_path": null,
     "transcript_url": null,
-    "discovered_at": "2026-07-15T15:14:22.306706+00:00"
+    "discovered_at": "2026-07-15T15:14:22.306706+00:00",
+    "transcript": {
+      "available": false,
+      "local_path": null,
+      "github_raw": null
+    }
   },
   {
     "id": "67cd81fcf535f8f0c148",
@@ -327,7 +434,8 @@
     "transcript_status": "not_applicable",
     "transcript_path": null,
     "transcript_url": null,
-    "discovered_at": "2026-07-15T15:14:18.433413+00:00"
+    "discovered_at": "2026-07-15T15:14:18.433413+00:00",
+    "transcript": null
   },
   {
     "id": "7187a27376bbef912bcb",
@@ -342,7 +450,12 @@
     "transcript_status": "pending",
     "transcript_path": null,
     "transcript_url": null,
-    "discovered_at": "2026-07-15T15:14:21.243087+00:00"
+    "discovered_at": "2026-07-15T15:14:21.243087+00:00",
+    "transcript": {
+      "available": false,
+      "local_path": null,
+      "github_raw": null
+    }
   },
   {
     "id": "88a8ec9ffd474a6a2ccd",
@@ -356,8 +469,15 @@
     "youtube_id": "F1ouqRPhAdM",
     "transcript_status": "available",
     "transcript_path": "transcripts/2026/06/JCW Lunacy #88 Watch Party! [F1ouqRPhAdM].json",
-    "transcript_url": null,
-    "discovered_at": "2026-07-15T15:14:20.436286+00:00"
+    "transcript_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/main/transcripts/2026/06/JCW%20Lunacy%20%2388%20Watch%20Party%21%20%5BF1ouqRPhAdM%5D.json",
+    "discovered_at": "2026-07-15T15:14:20.436286+00:00",
+    "transcript": {
+      "available": true,
+      "local_path": "transcripts/2026/06/JCW Lunacy #88 Watch Party! [F1ouqRPhAdM].json",
+      "github_raw": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/main/transcripts/2026/06/JCW%20Lunacy%20%2388%20Watch%20Party%21%20%5BF1ouqRPhAdM%5D.json",
+      "segment_count": 2841,
+      "downloaded_at": "2026-07-14T20:01:51.435787+00:00"
+    }
   },
   {
     "id": "7991fe2b9088c83de46f",
@@ -372,7 +492,12 @@
     "transcript_status": "pending",
     "transcript_path": null,
     "transcript_url": null,
-    "discovered_at": "2026-07-15T15:14:21.570310+00:00"
+    "discovered_at": "2026-07-15T15:14:21.570310+00:00",
+    "transcript": {
+      "available": false,
+      "local_path": null,
+      "github_raw": null
+    }
   },
   {
     "id": "d2eae40ab0b26dab793a",
@@ -387,7 +512,12 @@
     "transcript_status": "pending",
     "transcript_path": null,
     "transcript_url": null,
-    "discovered_at": "2026-07-15T15:14:21.570310+00:00"
+    "discovered_at": "2026-07-15T15:14:21.570310+00:00",
+    "transcript": {
+      "available": false,
+      "local_path": null,
+      "github_raw": null
+    }
   },
   {
     "id": "2ad6b6982199dbff640b",
@@ -401,8 +531,15 @@
     "youtube_id": "MBKTh4fSITU",
     "transcript_status": "available",
     "transcript_path": "transcripts/2026/06/MINISTRY OF UNGENTLEMANLY TWEETS EXPOSES COMMI3 MARK - OH NO! [MBKTh4fSITU].json",
-    "transcript_url": null,
-    "discovered_at": "2026-07-15T15:14:17.550196+00:00"
+    "transcript_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/main/transcripts/2026/06/MINISTRY%20OF%20UNGENTLEMANLY%20TWEETS%20EXPOSES%20COMMI3%20MARK%20-%20OH%20NO%21%20%5BMBKTh4fSITU%5D.json",
+    "discovered_at": "2026-07-15T15:14:17.550196+00:00",
+    "transcript": {
+      "available": true,
+      "local_path": "transcripts/2026/06/MINISTRY OF UNGENTLEMANLY TWEETS EXPOSES COMMI3 MARK - OH NO! [MBKTh4fSITU].json",
+      "github_raw": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/main/transcripts/2026/06/MINISTRY%20OF%20UNGENTLEMANLY%20TWEETS%20EXPOSES%20COMMI3%20MARK%20-%20OH%20NO%21%20%5BMBKTh4fSITU%5D.json",
+      "segment_count": 3158,
+      "downloaded_at": "2026-07-14T20:02:14.868021+00:00"
+    }
   },
   {
     "id": "6161960a369d6298bad4",
@@ -417,7 +554,12 @@
     "transcript_status": "pending",
     "transcript_path": null,
     "transcript_url": null,
-    "discovered_at": "2026-07-15T15:14:21.114431+00:00"
+    "discovered_at": "2026-07-15T15:14:21.114431+00:00",
+    "transcript": {
+      "available": false,
+      "local_path": null,
+      "github_raw": null
+    }
   },
   {
     "id": "b7ede4a01f1e917dd04f",
@@ -432,7 +574,12 @@
     "transcript_status": "pending",
     "transcript_path": null,
     "transcript_url": null,
-    "discovered_at": "2026-07-15T15:14:21.243087+00:00"
+    "discovered_at": "2026-07-15T15:14:21.243087+00:00",
+    "transcript": {
+      "available": false,
+      "local_path": null,
+      "github_raw": null
+    }
   },
   {
     "id": "50a05720b688ff0baa71",
@@ -447,7 +594,12 @@
     "transcript_status": "pending",
     "transcript_path": null,
     "transcript_url": null,
-    "discovered_at": "2026-07-15T15:14:21.114431+00:00"
+    "discovered_at": "2026-07-15T15:14:21.114431+00:00",
+    "transcript": {
+      "available": false,
+      "local_path": null,
+      "github_raw": null
+    }
   },
   {
     "id": "b9aad66b9ceb15475ee7",
@@ -462,7 +614,12 @@
     "transcript_status": "pending",
     "transcript_path": null,
     "transcript_url": null,
-    "discovered_at": "2026-07-15T15:14:21.243087+00:00"
+    "discovered_at": "2026-07-15T15:14:21.243087+00:00",
+    "transcript": {
+      "available": false,
+      "local_path": null,
+      "github_raw": null
+    }
   },
   {
     "id": "fb5edc39e7babe3083c5",
@@ -477,7 +634,12 @@
     "transcript_status": "pending",
     "transcript_path": null,
     "transcript_url": null,
-    "discovered_at": "2026-07-15T15:14:21.114431+00:00"
+    "discovered_at": "2026-07-15T15:14:21.114431+00:00",
+    "transcript": {
+      "available": false,
+      "local_path": null,
+      "github_raw": null
+    }
   },
   {
     "id": "b9bea00736804b6c4dc5",
@@ -492,7 +654,12 @@
     "transcript_status": "pending",
     "transcript_path": null,
     "transcript_url": null,
-    "discovered_at": "2026-07-15T15:14:21.838867+00:00"
+    "discovered_at": "2026-07-15T15:14:21.838867+00:00",
+    "transcript": {
+      "available": false,
+      "local_path": null,
+      "github_raw": null
+    }
   },
   {
     "id": "487db048281af598ab7e",
@@ -507,7 +674,12 @@
     "transcript_status": "pending",
     "transcript_path": null,
     "transcript_url": null,
-    "discovered_at": "2026-07-15T15:14:21.405851+00:00"
+    "discovered_at": "2026-07-15T15:14:21.405851+00:00",
+    "transcript": {
+      "available": false,
+      "local_path": null,
+      "github_raw": null
+    }
   },
   {
     "id": "8f779f3cc942b8094244",
@@ -522,7 +694,12 @@
     "transcript_status": "pending",
     "transcript_path": null,
     "transcript_url": null,
-    "discovered_at": "2026-07-15T15:14:21.838867+00:00"
+    "discovered_at": "2026-07-15T15:14:21.838867+00:00",
+    "transcript": {
+      "available": false,
+      "local_path": null,
+      "github_raw": null
+    }
   },
   {
     "id": "17cb26e622dc11ca6221",
@@ -537,7 +714,12 @@
     "transcript_status": "pending",
     "transcript_path": null,
     "transcript_url": null,
-    "discovered_at": "2026-07-15T15:14:22.306706+00:00"
+    "discovered_at": "2026-07-15T15:14:22.306706+00:00",
+    "transcript": {
+      "available": false,
+      "local_path": null,
+      "github_raw": null
+    }
   },
   {
     "id": "78d7cd5858bffbc60883",
@@ -552,7 +734,8 @@
     "transcript_status": "not_applicable",
     "transcript_path": null,
     "transcript_url": null,
-    "discovered_at": "2026-07-15T15:14:18.433413+00:00"
+    "discovered_at": "2026-07-15T15:14:18.433413+00:00",
+    "transcript": null
   },
   {
     "id": "cc883b9d313dcb03ca38",
@@ -566,8 +749,15 @@
     "youtube_id": "SlodiZOj8bE",
     "transcript_status": "available",
     "transcript_path": "transcripts/2026/06/FROG TONY'S FREEDOM FIGHTING FORCE FBI Investigation DRAMA Escalates [SlodiZOj8bE].json",
-    "transcript_url": null,
-    "discovered_at": "2026-07-15T15:14:17.550196+00:00"
+    "transcript_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/main/transcripts/2026/06/FROG%20TONY%27S%20FREEDOM%20FIGHTING%20FORCE%20FBI%20Investigation%20DRAMA%20Escalates%20%5BSlodiZOj8bE%5D.json",
+    "discovered_at": "2026-07-15T15:14:17.550196+00:00",
+    "transcript": {
+      "available": true,
+      "local_path": "transcripts/2026/06/FROG TONY'S FREEDOM FIGHTING FORCE FBI Investigation DRAMA Escalates [SlodiZOj8bE].json",
+      "github_raw": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/main/transcripts/2026/06/FROG%20TONY%27S%20FREEDOM%20FIGHTING%20FORCE%20FBI%20Investigation%20DRAMA%20Escalates%20%5BSlodiZOj8bE%5D.json",
+      "segment_count": 2820,
+      "downloaded_at": "2026-07-14T20:02:33.830195+00:00"
+    }
   },
   {
     "id": "8041408af9194320dcb8",
@@ -582,7 +772,12 @@
     "transcript_status": "pending",
     "transcript_path": null,
     "transcript_url": null,
-    "discovered_at": "2026-07-15T15:14:21.405851+00:00"
+    "discovered_at": "2026-07-15T15:14:21.405851+00:00",
+    "transcript": {
+      "available": false,
+      "local_path": null,
+      "github_raw": null
+    }
   },
   {
     "id": "9f58b4e32953638e7063",
@@ -597,6 +792,11 @@
     "transcript_status": "pending",
     "transcript_path": null,
     "transcript_url": null,
-    "discovered_at": "2026-07-15T15:14:20.819952+00:00"
+    "discovered_at": "2026-07-15T15:14:20.819952+00:00",
+    "transcript": {
+      "available": false,
+      "local_path": null,
+      "github_raw": null
+    }
   }
 ]
