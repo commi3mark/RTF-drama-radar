@@ -1,11 +1,41 @@
 {
   "rolling_days": 30,
   "archive_mode": "calendar_month",
-  "transcripts_per_run": 25,
-  "request_delay_min_seconds": 18,
-  "request_delay_max_seconds": 28,
+  "transcripts_per_run": 3,
+  "transcripts_per_source_per_run": 1,
+  "transcript_recovery_probe_limit": 1,
+  "request_delay_min_seconds": 20,
+  "request_delay_max_seconds": 30,
   "stop_on_ip_block": true,
-  "transcript_global_cooldown_hours": 12,
+  "transcript_block_cooldowns_hours": [
+    1,
+    3,
+    8
+  ],
+  "transcript_retry_delays_hours": [
+    1,
+    2,
+    4,
+    8,
+    16,
+    24,
+    48,
+    96,
+    168
+  ],
+  "transcript_max_attempts": 10,
+  "transcripts_disabled_retry_hours": [
+    24,
+    72,
+    168
+  ],
+  "transcripts_disabled_max_attempts": 3,
+  "video_unavailable_retry_hours": [
+    6,
+    24,
+    72
+  ],
+  "video_unavailable_max_attempts": 3,
   "default_transcript_delay_hours": 6,
   "recent_video_window_hours": 24,
   "recent_transcript_retry_hours": 3,
@@ -19,16 +49,17 @@
   "retry_hours": {
     "TranscriptsDisabled": 24,
     "VideoUnplayable": 12,
-    "IpBlocked": 12,
-    "RequestBlocked": 12,
+    "IpBlocked": 1,
+    "RequestBlocked": 1,
     "default": 6
   },
   "permanent_failures": [
-    "AgeRestricted",
-    "VideoUnavailable"
+    "AgeRestricted"
   ],
   "git": {
-    "enabled": false,
+    "enabled": true,
+    "repository": "commi3mark/RTF-drama-radar",
+    "remote": "origin",
     "branch": "main",
     "commit_message_prefix": "Automated Drama Radar update"
   },

@@ -32,6 +32,10 @@ def main() -> int:
             "Validation",
             [sys.executable, str(ROOT / "validate_outputs.py")],
         ),
+        (
+            "GitHub publishing",
+            [sys.executable, str(ROOT / "git_publish.py")],
+        ),
     ]
 
     return run_pipeline(
