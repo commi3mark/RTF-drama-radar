@@ -1,0 +1,42 @@
+{
+  "schema_version": "octopuss-analysis-queue-v0.1",
+  "generated_at": "2026-07-15T19:30:17.255785+00:00",
+  "queue": [
+    {
+      "video_id": "LS_14uOaG2E",
+      "priority": 100,
+      "reason": "Gold-standard long panel episode; show roster, multiple stories, campaign and faction signals",
+      "packet_path": "intelligence/evidence-packets/LS_14uOaG2E.json"
+    },
+    {
+      "video_id": "jVMsgBTgicI",
+      "priority": 95,
+      "reason": "Long current dispute episode with legal-claim separation required",
+      "packet_path": "intelligence/evidence-packets/jVMsgBTgicI.json"
+    },
+    {
+      "video_id": "_9MjvkgkY9c",
+      "priority": 92,
+      "reason": "Current TheQuartering/Kino Casino story",
+      "packet_path": "intelligence/evidence-packets/_9MjvkgkY9c.json"
+    },
+    {
+      "video_id": "Vj5FINXThF4",
+      "priority": 90,
+      "reason": "Directly relevant to Chrissie/FNT story",
+      "packet_path": "intelligence/evidence-packets/Vj5FINXThF4.json"
+    },
+    {
+      "video_id": "IiuHUxargVk",
+      "priority": 88,
+      "reason": "Original Liam Gray statement source",
+      "packet_path": "intelligence/evidence-packets/IiuHUxargVk.json"
+    },
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "priority": 80,
+      "reason": "Long current FFS Cast stream; useful show/roster test",
+      "packet_path": "intelligence/evidence-packets/ZgbvZRJnCIk.json"
+    }
+  ]
+}

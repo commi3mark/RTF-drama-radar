@@ -1,0 +1,28 @@
+{
+  "schema_version": "octopuss-story-candidate-v0.1",
+  "story_id": "chrissie-mayr-friday-night-tights-departure",
+  "generated_at": "2026-07-15T19:30:17.255785+00:00",
+  "title": "Chrissie Mayr departure from Friday Night Tights",
+  "status": "candidate_active",
+  "people": [
+    "chrissie-mayr",
+    "thequartering"
+  ],
+  "shows": [
+    "friday-night-tights",
+    "ministry-of-dude"
+  ],
+  "radar_signals": [
+    "Quartering white knights for Chrissie over FNT firing | #937",
+    "TheQuartering: Friday Night Tights is a Huge Pword for Firing Chrissie Mayr",
+    "DDayCobra Hopes Chrissie Mayr Makes a Million Dollars"
+  ],
+  "needs": [
+    "Establish whether Chrissie was a host, regular panelist or guest at the relevant time.",
+    "Separate direct statements from reaction-channel framing.",
+    "Determine sentiment by speaker and show.",
+    "Build a dated sequence of departure, responses and reactions."
+  ],
+  "confidence": "candidate_only",
+  "evidence_level": "radar_metadata"
+}

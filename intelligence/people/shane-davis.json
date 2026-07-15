@@ -1,0 +1,16 @@
+{
+  "schema_version": "octopuss-person-intake-v0.1",
+  "entity_id": "shane-davis",
+  "generated_at": "2026-07-15T19:30:17.255785+00:00",
+  "name": "Shane Davis",
+  "radar_status": "confirmed ComicsGate Kings participant in sampled transcript evidence",
+  "appearance_status": "high-confidence panel participant for LS_14uOaG2E",
+  "current_story_candidates": [
+    "back-me-bro-launch"
+  ],
+  "notes": [
+    "Back Me Bro promotion is campaign/project evidence.",
+    "Repeated show appearances should establish roster status over time."
+  ],
+  "evidence_level": "radar_metadata_and_sampled_receipts"
+}

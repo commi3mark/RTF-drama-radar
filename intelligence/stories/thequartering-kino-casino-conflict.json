@@ -1,0 +1,24 @@
+{
+  "schema_version": "octopuss-story-candidate-v0.1",
+  "story_id": "thequartering-kino-casino-conflict",
+  "generated_at": "2026-07-15T19:30:17.255785+00:00",
+  "title": "TheQuartering / Kino Casino conflict",
+  "status": "candidate_active",
+  "people": [
+    "thequartering"
+  ],
+  "shows": [
+    "kino-casino"
+  ],
+  "radar_signals": [
+    "TheQuartering’s K Cup Crisis PR & Crying Victim After Starting War with Kino Casino",
+    "Professional Streamer TheQuartering - Gooners Gonna Goon"
+  ],
+  "needs": [
+    "Locate the initiating statement.",
+    "Separate business claims from insults and jokes.",
+    "Determine whether later Chrissie/FNT commentary is a connected escalation or separate story."
+  ],
+  "confidence": "candidate_only",
+  "evidence_level": "radar_metadata"
+}

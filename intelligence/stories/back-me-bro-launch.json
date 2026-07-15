@@ -1,0 +1,25 @@
+{
+  "schema_version": "octopuss-story-candidate-v0.1",
+  "story_id": "back-me-bro-launch",
+  "generated_at": "2026-07-15T19:30:17.255785+00:00",
+  "title": "Shane Davis — Back Me Bro launch",
+  "status": "candidate_campaign",
+  "people": [
+    "shane-davis",
+    "ethan-van-sciver"
+  ],
+  "shows": [
+    "comicsgate-kings"
+  ],
+  "radar_signals": [
+    "ComicsGate Kings closing promotion: six days until Back Me Bro launch",
+    "All-hands-on-deck ComicsGate promotional language"
+  ],
+  "needs": [
+    "Record the campaign as a project, not a faction.",
+    "Track which shows promote it and which people actively participate.",
+    "Do not treat promotion alone as proof of personal alliance."
+  ],
+  "confidence": "candidate_only",
+  "evidence_level": "radar_metadata"
+}

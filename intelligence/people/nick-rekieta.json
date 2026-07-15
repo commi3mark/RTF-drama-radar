@@ -1,0 +1,16 @@
+{
+  "schema_version": "octopuss-person-intake-v0.1",
+  "entity_id": "nick-rekieta",
+  "generated_at": "2026-07-15T19:30:17.255785+00:00",
+  "name": "Nick Rekieta",
+  "radar_status": "recurring subject candidate",
+  "appearance_status": "not established for the latest clip from title alone",
+  "current_story_candidates": [
+    "nick-rekieta-reputation-fallout"
+  ],
+  "notes": [
+    "Clip framing must not be filed as Rekieta's own words.",
+    "Potentially Criminal may be commentator, guest or clip source; transcript required."
+  ],
+  "evidence_level": "radar_metadata_and_sampled_receipts"
+}

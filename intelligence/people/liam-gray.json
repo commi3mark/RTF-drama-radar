@@ -1,0 +1,17 @@
+{
+  "schema_version": "octopuss-person-intake-v0.1",
+  "entity_id": "liam-gray",
+  "generated_at": "2026-07-15T19:30:17.255785+00:00",
+  "name": "Liam Gray",
+  "radar_status": "active creator and dispute participant",
+  "appearance_status": "host likely on own channel; confirm per packet",
+  "current_story_candidates": [
+    "liam-gray-comicsgate-dispute"
+  ],
+  "notes": [
+    "Channel descriptions contain extensive persistent campaign boilerplate.",
+    "Only new or contextually relevant links should become event intelligence.",
+    "Claims need to propagate to the canonical Liam file and affected relationship/story files."
+  ],
+  "evidence_level": "radar_metadata_and_sampled_receipts"
+}

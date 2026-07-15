@@ -1,0 +1,17 @@
+{
+  "schema_version": "octopuss-person-intake-v0.1",
+  "entity_id": "chrissie-mayr",
+  "generated_at": "2026-07-15T19:30:17.255785+00:00",
+  "name": "Chrissie Mayr",
+  "radar_status": "major current subject candidate",
+  "appearance_status": "not established by Radar metadata",
+  "current_story_candidates": [
+    "chrissie-mayr-friday-night-tights-departure"
+  ],
+  "notes": [
+    "Several titles discuss her departure from Friday Night Tights.",
+    "Do not list her as appearing in any episode unless the transcript confirms it.",
+    "Sentiment must be stored per show/speaker, not as a single universal score."
+  ],
+  "evidence_level": "radar_metadata_and_sampled_receipts"
+}

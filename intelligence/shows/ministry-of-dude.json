@@ -1,0 +1,14 @@
+{
+  "schema_version": "octopuss-show-intake-v0.1",
+  "show_id": "ministry-of-dude",
+  "generated_at": "2026-07-15T19:30:17.255785+00:00",
+  "name": "Ministry of Dude",
+  "channel": "Ministry of Dude",
+  "type": "commentary livestream",
+  "intelligence_role": "reaction and evidence source",
+  "known_packet": "jVMsgBTgicI",
+  "guardrails": [
+    "Distinguish live panel voices from clips played.",
+    "Legal claims need primary-source status."
+  ]
+}

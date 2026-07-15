@@ -1,0 +1,15 @@
+{
+  "schema_version": "octopuss-show-intake-v0.1",
+  "show_id": "comicsgate-kings",
+  "generated_at": "2026-07-15T19:30:17.255785+00:00",
+  "name": "ComicsGate Kings",
+  "channel": "Ethan Van Sciver",
+  "type": "recurring panel/drawing show",
+  "intelligence_role": "show-centred social and promotional hub",
+  "known_packet": "LS_14uOaG2E",
+  "guardrails": [
+    "Episode participant does not automatically equal regular panelist.",
+    "Regular panel status requires roster data or repeated appearances.",
+    "People discussed on the show remain subjects, not members."
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": "octopuss-person-intake-v0.1",
+  "entity_id": "thequartering",
+  "generated_at": "2026-07-15T19:30:17.255785+00:00",
+  "name": "TheQuartering",
+  "radar_status": "high-volume current subject and commentator candidate",
+  "appearance_status": "requires packet-level confirmation per episode",
+  "current_story_candidates": [
+    "chrissie-mayr-friday-night-tights-departure",
+    "thequartering-kino-casino-conflict"
+  ],
+  "notes": [
+    "May be both a subject and a speaker across different source items.",
+    "Keep his FNT commentary separate from the Kino Casino conflict until evidence connects them."
+  ],
+  "evidence_level": "radar_metadata_and_sampled_receipts"
+}

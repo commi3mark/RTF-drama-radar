@@ -1,0 +1,25 @@
+{
+  "schema_version": "octopuss-story-candidate-v0.1",
+  "story_id": "nick-rekieta-reputation-fallout",
+  "generated_at": "2026-07-15T19:30:17.255785+00:00",
+  "title": "Nick Rekieta reputation and downfall coverage",
+  "status": "candidate_recurring",
+  "people": [
+    "nick-rekieta",
+    "potentially-criminal"
+  ],
+  "shows": [
+    "elissa-clips"
+  ],
+  "radar_signals": [
+    "Rekieta Law Cant Figure Out Why Nobody Likes Him Anymore - Rewriting History w/ Potentially Criminal",
+    "Potentially Criminal on Nick Rekieta’s Downfall"
+  ],
+  "needs": [
+    "Extract Rekieta's direct claims separately from commentary.",
+    "Identify what history is alleged to have been rewritten.",
+    "Link to prior Rekieta case file rather than creating duplicates."
+  ],
+  "confidence": "candidate_only",
+  "evidence_level": "radar_metadata"
+}

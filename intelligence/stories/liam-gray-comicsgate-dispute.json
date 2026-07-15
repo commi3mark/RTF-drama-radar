@@ -1,0 +1,24 @@
+{
+  "schema_version": "octopuss-story-candidate-v0.1",
+  "story_id": "liam-gray-comicsgate-dispute",
+  "generated_at": "2026-07-15T19:30:17.255785+00:00",
+  "title": "Liam Gray / ComicsGate dispute",
+  "status": "candidate_continuing",
+  "people": [
+    "liam-gray"
+  ],
+  "shows": [
+    "liam-gray-channel"
+  ],
+  "radar_signals": [
+    "Daddy Daughter Day (CG lies to you and why I am right)",
+    "Take 2"
+  ],
+  "needs": [
+    "Extract each claim with timestamps.",
+    "Separate channel boilerplate and campaign links from event-level activity.",
+    "Match claims to the existing Liam chronology and relationship files."
+  ],
+  "confidence": "candidate_only",
+  "evidence_level": "radar_metadata"
+}

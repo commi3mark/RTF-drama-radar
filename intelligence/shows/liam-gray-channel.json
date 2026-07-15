@@ -1,0 +1,14 @@
+{
+  "schema_version": "octopuss-show-intake-v0.1",
+  "show_id": "liam-gray-channel",
+  "generated_at": "2026-07-15T19:30:17.255785+00:00",
+  "name": "Liam Gray / Conquest Comics channel",
+  "channel": "Liam Gray",
+  "type": "creator commentary channel",
+  "intelligence_role": "original-source channel for Liam statements",
+  "known_packet": "IiuHUxargVk",
+  "guardrails": [
+    "Suppress unchanged description boilerplate.",
+    "Treat campaign links as persistent metadata unless changed or discussed."
+  ]
+}

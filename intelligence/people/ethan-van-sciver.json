@@ -1,0 +1,16 @@
+{
+  "schema_version": "octopuss-person-intake-v0.1",
+  "entity_id": "ethan-van-sciver",
+  "generated_at": "2026-07-15T19:30:17.255785+00:00",
+  "name": "Ethan Van Sciver",
+  "radar_status": "show host, commentator and recurring subject",
+  "appearance_status": "host of sampled ComicsGate Kings episode",
+  "current_story_candidates": [
+    "back-me-bro-launch"
+  ],
+  "notes": [
+    "Talking about Eric July or another person does not imply alliance.",
+    "Maintain appearance, discussion and sentiment records separately."
+  ],
+  "evidence_level": "radar_metadata_and_sampled_receipts"
+}
