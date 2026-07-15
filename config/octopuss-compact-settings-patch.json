@@ -1,0 +1,8 @@
+{
+  "paths": {
+    "octopuss_preanalysis": "intelligence/preanalysis",
+    "octopuss_candidates": "intelligence/candidates",
+    "octopuss_entities": "config/octopuss-entities.json",
+    "octopuss_stories": "intelligence/stories"
+  }
+}
