@@ -1,0 +1,796 @@
+{
+  "occurrences": [
+    {
+      "occurrence_id": "occurrence:edPpkg2kim4:74:person:liam-gray",
+      "entity_id": "person:liam-gray",
+      "matched_alias": "Liam Gray",
+      "alias_strength": "strong",
+      "confidence": 1.0,
+      "video_id": "edPpkg2kim4",
+      "title": "\"I REPORTED THE DROPBOX!\" Liam Gray Responds to EVS Reacting To A Viral Clip",
+      "source": "KatyDid",
+      "published": "2026-07-03T19:49:19+00:00",
+      "segment_index": 74,
+      "start": 183.44,
+      "timestamp": "03:03",
+      "quote": ">> Uh yeah, this is Liam Gray. This is my",
+      "receipt_url": "https://www.youtube.com/watch?v=edPpkg2kim4&t=183s",
+      "transcript_file": "transcripts/2026-07/I REPORTED THE DROPBOX! Liam Gray Responds to EVS Reacting To A Viral Clip [edPpkg2kim4].json"
+    },
+    {
+      "occurrence_id": "occurrence:edPpkg2kim4:75:person:liam-gray",
+      "entity_id": "person:liam-gray",
+      "matched_alias": "Liam Gray",
+      "alias_strength": "strong",
+      "confidence": 1.0,
+      "video_id": "edPpkg2kim4",
+      "title": "\"I REPORTED THE DROPBOX!\" Liam Gray Responds to EVS Reacting To A Viral Clip",
+      "source": "KatyDid",
+      "published": "2026-07-03T19:49:19+00:00",
+      "segment_index": 75,
+      "start": 186.92,
+      "timestamp": "03:06",
+      "quote": "version of Liam Gray's clip. I'm",
+      "receipt_url": "https://www.youtube.com/watch?v=edPpkg2kim4&t=186s",
+      "transcript_file": "transcripts/2026-07/I REPORTED THE DROPBOX! Liam Gray Responds to EVS Reacting To A Viral Clip [edPpkg2kim4].json"
+    },
+    {
+      "occurrence_id": "occurrence:edPpkg2kim4:378:person:katy",
+      "entity_id": "person:katy",
+      "matched_alias": "Katie",
+      "alias_strength": "weak",
+      "confidence": 0.68,
+      "video_id": "edPpkg2kim4",
+      "title": "\"I REPORTED THE DROPBOX!\" Liam Gray Responds to EVS Reacting To A Viral Clip",
+      "source": "KatyDid",
+      "published": "2026-07-03T19:49:19+00:00",
+      "segment_index": 378,
+      "start": 816.68,
+      "timestamp": "13:36",
+      "quote": "Katie did and these other guys that are",
+      "receipt_url": "https://www.youtube.com/watch?v=edPpkg2kim4&t=816s",
+      "transcript_file": "transcripts/2026-07/I REPORTED THE DROPBOX! Liam Gray Responds to EVS Reacting To A Viral Clip [edPpkg2kim4].json"
+    },
+    {
+      "occurrence_id": "occurrence:edPpkg2kim4:472:person:jon-del-arroz",
+      "entity_id": "person:jon-del-arroz",
+      "matched_alias": "JDA",
+      "alias_strength": "weak",
+      "confidence": 0.68,
+      "video_id": "edPpkg2kim4",
+      "title": "\"I REPORTED THE DROPBOX!\" Liam Gray Responds to EVS Reacting To A Viral Clip",
+      "source": "KatyDid",
+      "published": "2026-07-03T19:49:19+00:00",
+      "segment_index": 472,
+      "start": 1027.72,
+      "timestamp": "17:07",
+      "quote": "That's what JDA did when they found out.",
+      "receipt_url": "https://www.youtube.com/watch?v=edPpkg2kim4&t=1027s",
+      "transcript_file": "transcripts/2026-07/I REPORTED THE DROPBOX! Liam Gray Responds to EVS Reacting To A Viral Clip [edPpkg2kim4].json"
+    },
+    {
+      "occurrence_id": "occurrence:edPpkg2kim4:481:person:riley",
+      "entity_id": "person:riley",
+      "matched_alias": "Riley",
+      "alias_strength": "weak",
+      "confidence": 0.68,
+      "video_id": "edPpkg2kim4",
+      "title": "\"I REPORTED THE DROPBOX!\" Liam Gray Responds to EVS Reacting To A Viral Clip",
+      "source": "KatyDid",
+      "published": "2026-07-03T19:49:19+00:00",
+      "segment_index": 481,
+      "start": 1047.72,
+      "timestamp": "17:27",
+      "quote": "now your boy Riley is accusing me of",
+      "receipt_url": "https://www.youtube.com/watch?v=edPpkg2kim4&t=1047s",
+      "transcript_file": "transcripts/2026-07/I REPORTED THE DROPBOX! Liam Gray Responds to EVS Reacting To A Viral Clip [edPpkg2kim4].json"
+    },
+    {
+      "occurrence_id": "occurrence:edPpkg2kim4:562:person:liam-gray",
+      "entity_id": "person:liam-gray",
+      "matched_alias": "Liam Gray",
+      "alias_strength": "strong",
+      "confidence": 1.0,
+      "video_id": "edPpkg2kim4",
+      "title": "\"I REPORTED THE DROPBOX!\" Liam Gray Responds to EVS Reacting To A Viral Clip",
+      "source": "KatyDid",
+      "published": "2026-07-03T19:49:19+00:00",
+      "segment_index": 562,
+      "start": 1222.48,
+      "timestamp": "20:22",
+      "quote": "There are 11,000 stupid Liam Gray",
+      "receipt_url": "https://www.youtube.com/watch?v=edPpkg2kim4&t=1222s",
+      "transcript_file": "transcripts/2026-07/I REPORTED THE DROPBOX! Liam Gray Responds to EVS Reacting To A Viral Clip [edPpkg2kim4].json"
+    }
+  ],
+  "passages": [
+    {
+      "passage_id": "passage:edPpkg2kim4:165",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "Here we go. Are you guys ready for this?",
+      "context_before": "Fuck, I'm going to have to play it. I'm going to have to play this. Why did you put this on the internet? Are you nuts? If this is a lie, like if you made this up, what is this?",
+      "context_after": ">> Yeah. It happened a few days ago and um I haven't had work since. I haven't done anything extra. I've got a fair few of my files backed up and not all of them. >> Uh yeah, this is Liam Gray. This is my",
+      "full_context": "Fuck, I'm going to have to play it. I'm going to have to play this. Why did you put this on the internet? Are you nuts? If this is a lie, like if you made this up, what is this? Here we go. Are you guys ready for this? >> Yeah. It happened a few days ago and um I haven't had work since. I haven't done anything extra. I've got a fair few of my files backed up and not all of them. >> Uh yeah, this is Liam Gray. This is my",
+      "involved_entity_ids": [
+        "person:liam-gray"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:liam-gray",
+          "matched_alias": "Liam Gray",
+          "alias_strength": "strong",
+          "confidence": 1.0
+        }
+      ],
+      "claim_term_count": 1,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "edPpkg2kim4",
+        "title": "\"I REPORTED THE DROPBOX!\" Liam Gray Responds to EVS Reacting To A Viral Clip",
+        "channel": "KatyDid",
+        "published_at": "2026-07-03T19:49:19+00:00",
+        "timestamp_seconds": 165.92,
+        "timestamp_display": "02:45",
+        "url": "https://www.youtube.com/watch?v=edPpkg2kim4",
+        "receipt_url": "https://www.youtube.com/watch?v=edPpkg2kim4&t=165s",
+        "transcript_file": "transcripts/2026-07/I REPORTED THE DROPBOX! Liam Gray Responds to EVS Reacting To A Viral Clip [edPpkg2kim4].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:liam-gray"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.71
+    },
+    {
+      "passage_id": "passage:edPpkg2kim4:192",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": ">> I'm making it my own. This is my version",
+      "context_before": "I haven't had work since. I haven't done anything extra. I've got a fair few of my files backed up and not all of them. >> Uh yeah, this is Liam Gray. This is my version of Liam Gray's clip. I'm transforming it with my voice. >> I mean, it had up to the",
+      "context_after": "of this clip. You can't get it anywhere else. This is free. >> And again, it's >> Uh first amendment. >> stuff I've done for other >> Fair use. >> And uh that's scary. >> I've never seen this. This is old. This is old. How did this How is this old?",
+      "full_context": "I haven't had work since. I haven't done anything extra. I've got a fair few of my files backed up and not all of them. >> Uh yeah, this is Liam Gray. This is my version of Liam Gray's clip. I'm transforming it with my voice. >> I mean, it had up to the >> I'm making it my own. This is my version of this clip. You can't get it anywhere else. This is free. >> And again, it's >> Uh first amendment. >> stuff I've done for other >> Fair use. >> And uh that's scary. >> I've never seen this. This is old. This is old. How did this How is this old?",
+      "involved_entity_ids": [
+        "person:liam-gray"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:liam-gray",
+          "matched_alias": "Liam Gray",
+          "alias_strength": "strong",
+          "confidence": 1.0
+        }
+      ],
+      "claim_term_count": 1,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "edPpkg2kim4",
+        "title": "\"I REPORTED THE DROPBOX!\" Liam Gray Responds to EVS Reacting To A Viral Clip",
+        "channel": "KatyDid",
+        "published_at": "2026-07-03T19:49:19+00:00",
+        "timestamp_seconds": 192.92,
+        "timestamp_display": "03:12",
+        "url": "https://www.youtube.com/watch?v=edPpkg2kim4",
+        "receipt_url": "https://www.youtube.com/watch?v=edPpkg2kim4&t=192s",
+        "transcript_file": "transcripts/2026-07/I REPORTED THE DROPBOX! Liam Gray Responds to EVS Reacting To A Viral Clip [edPpkg2kim4].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:liam-gray"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.71
+    },
+    {
+      "passage_id": "passage:edPpkg2kim4:196",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "of this clip. You can't get it anywhere",
+      "context_before": "I haven't had work since. I haven't done anything extra. I've got a fair few of my files backed up and not all of them. >> Uh yeah, this is Liam Gray. This is my version of Liam Gray's clip. I'm transforming it with my voice. >> I mean, it had up to the >> I'm making it my own. This is my version",
+      "context_after": "else. This is free. >> And again, it's >> Uh first amendment. >> stuff I've done for other >> Fair use. >> And uh that's scary. >> I've never seen this. This is old. This is old. How did this How is this old?",
+      "full_context": "I haven't had work since. I haven't done anything extra. I've got a fair few of my files backed up and not all of them. >> Uh yeah, this is Liam Gray. This is my version of Liam Gray's clip. I'm transforming it with my voice. >> I mean, it had up to the >> I'm making it my own. This is my version of this clip. You can't get it anywhere else. This is free. >> And again, it's >> Uh first amendment. >> stuff I've done for other >> Fair use. >> And uh that's scary. >> I've never seen this. This is old. This is old. How did this How is this old?",
+      "involved_entity_ids": [
+        "person:liam-gray"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:liam-gray",
+          "matched_alias": "Liam Gray",
+          "alias_strength": "strong",
+          "confidence": 1.0
+        }
+      ],
+      "claim_term_count": 1,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "edPpkg2kim4",
+        "title": "\"I REPORTED THE DROPBOX!\" Liam Gray Responds to EVS Reacting To A Viral Clip",
+        "channel": "KatyDid",
+        "published_at": "2026-07-03T19:49:19+00:00",
+        "timestamp_seconds": 196.04,
+        "timestamp_display": "03:16",
+        "url": "https://www.youtube.com/watch?v=edPpkg2kim4",
+        "receipt_url": "https://www.youtube.com/watch?v=edPpkg2kim4&t=196s",
+        "transcript_file": "transcripts/2026-07/I REPORTED THE DROPBOX! Liam Gray Responds to EVS Reacting To A Viral Clip [edPpkg2kim4].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:liam-gray"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.71
+    },
+    {
+      "passage_id": "passage:edPpkg2kim4:798",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "access to underage pornography.",
+      "context_before": "Shout out to Grim Jim. If you're watching, holler brother. Thank you. He doesn't follow me on Twitter so I don't know if he saw what I saw. But right now these people are sharing around this video a version of this video where they go Liam and Mets having",
+      "context_after": "And he says that's not his voice whoever made this is a piece of shit. You know? [clears throat] So there's stuff in here that's been edited. Like if you go and read through this, you'll see people talking about how my mouth isn't matching up in certain places to certain words. So, again, this is people again, like Katie did and these other guys that are",
+      "full_context": "Shout out to Grim Jim. If you're watching, holler brother. Thank you. He doesn't follow me on Twitter so I don't know if he saw what I saw. But right now these people are sharing around this video a version of this video where they go Liam and Mets having access to underage pornography. And he says that's not his voice whoever made this is a piece of shit. You know? [clears throat] So there's stuff in here that's been edited. Like if you go and read through this, you'll see people talking about how my mouth isn't matching up in certain places to certain words. So, again, this is people again, like Katie did and these other guys that are",
+      "involved_entity_ids": [
+        "person:katy"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:katy",
+          "matched_alias": "Katie",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 2,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "edPpkg2kim4",
+        "title": "\"I REPORTED THE DROPBOX!\" Liam Gray Responds to EVS Reacting To A Viral Clip",
+        "channel": "KatyDid",
+        "published_at": "2026-07-03T19:49:19+00:00",
+        "timestamp_seconds": 798.36,
+        "timestamp_display": "13:18",
+        "url": "https://www.youtube.com/watch?v=edPpkg2kim4",
+        "receipt_url": "https://www.youtube.com/watch?v=edPpkg2kim4&t=798s",
+        "transcript_file": "transcripts/2026-07/I REPORTED THE DROPBOX! Liam Gray Responds to EVS Reacting To A Viral Clip [edPpkg2kim4].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:katy"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.79
+    },
+    {
+      "passage_id": "passage:edPpkg2kim4:810",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "how my mouth isn't matching up in",
+      "context_before": "But right now these people are sharing around this video a version of this video where they go Liam and Mets having access to underage pornography. And he says that's not his voice whoever made this is a piece of shit. You know? [clears throat] So there's stuff in here that's been edited. Like if you go and read through this, you'll see people talking about",
+      "context_after": "certain places to certain words. So, again, this is people again, like Katie did and these other guys that are doing dishonest like presenting things dishonestly, clipping things out, altering things to try and create a narrative, you know? >> Uh I heard Liam helped you get started",
+      "full_context": "But right now these people are sharing around this video a version of this video where they go Liam and Mets having access to underage pornography. And he says that's not his voice whoever made this is a piece of shit. You know? [clears throat] So there's stuff in here that's been edited. Like if you go and read through this, you'll see people talking about how my mouth isn't matching up in certain places to certain words. So, again, this is people again, like Katie did and these other guys that are doing dishonest like presenting things dishonestly, clipping things out, altering things to try and create a narrative, you know? >> Uh I heard Liam helped you get started",
+      "involved_entity_ids": [
+        "person:katy"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:katy",
+          "matched_alias": "Katie",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 2,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "edPpkg2kim4",
+        "title": "\"I REPORTED THE DROPBOX!\" Liam Gray Responds to EVS Reacting To A Viral Clip",
+        "channel": "KatyDid",
+        "published_at": "2026-07-03T19:49:19+00:00",
+        "timestamp_seconds": 810.12,
+        "timestamp_display": "13:30",
+        "url": "https://www.youtube.com/watch?v=edPpkg2kim4",
+        "receipt_url": "https://www.youtube.com/watch?v=edPpkg2kim4&t=810s",
+        "transcript_file": "transcripts/2026-07/I REPORTED THE DROPBOX! Liam Gray Responds to EVS Reacting To A Viral Clip [edPpkg2kim4].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:katy"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.79
+    },
+    {
+      "passage_id": "passage:edPpkg2kim4:825",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "narrative, you know?",
+      "context_before": "edited. Like if you go and read through this, you'll see people talking about how my mouth isn't matching up in certain places to certain words. So, again, this is people again, like Katie did and these other guys that are doing dishonest like presenting things dishonestly, clipping things out, altering things to try and create a",
+      "context_after": ">> Uh I heard Liam helped you get started at DC, says Thor Odinson. Okay, he said a lot of weird things. >> I never said that. See, this is the shit that's fucked. I never said that Ethan I helped Ethan get his start at DC. I never said that I met Ethan in the '90s. Like, yet these guys like they speak with authority on this. Like, Thor",
+      "full_context": "edited. Like if you go and read through this, you'll see people talking about how my mouth isn't matching up in certain places to certain words. So, again, this is people again, like Katie did and these other guys that are doing dishonest like presenting things dishonestly, clipping things out, altering things to try and create a narrative, you know? >> Uh I heard Liam helped you get started at DC, says Thor Odinson. Okay, he said a lot of weird things. >> I never said that. See, this is the shit that's fucked. I never said that Ethan I helped Ethan get his start at DC. I never said that I met Ethan in the '90s. Like, yet these guys like they speak with authority on this. Like, Thor",
+      "involved_entity_ids": [
+        "person:katy"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:katy",
+          "matched_alias": "Katie",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 3,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "edPpkg2kim4",
+        "title": "\"I REPORTED THE DROPBOX!\" Liam Gray Responds to EVS Reacting To A Viral Clip",
+        "channel": "KatyDid",
+        "published_at": "2026-07-03T19:49:19+00:00",
+        "timestamp_seconds": 825.64,
+        "timestamp_display": "13:45",
+        "url": "https://www.youtube.com/watch?v=edPpkg2kim4",
+        "receipt_url": "https://www.youtube.com/watch?v=edPpkg2kim4&t=825s",
+        "transcript_file": "transcripts/2026-07/I REPORTED THE DROPBOX! Liam Gray Responds to EVS Reacting To A Viral Clip [edPpkg2kim4].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:katy"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.87
+    },
+    {
+      "passage_id": "passage:edPpkg2kim4:1009",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "It was fucked, and I wanted them to go",
+      "context_before": "the time was like my is my else's age now. She was like four. And the shit they were saying, their weird role-playing fantasies of jerking off to her and shit in a circle like circle jerking onto a face and shit. This is how they talked to each other. It was fucked, Ethan.",
+      "context_after": "to jail. Why am Why is the problem me here? Should I have not reported that to you? You going to do Is my next Ethan, is the next video going to be you calling me a snitch? That's what JDA did when they found out.",
+      "full_context": "the time was like my is my else's age now. She was like four. And the shit they were saying, their weird role-playing fantasies of jerking off to her and shit in a circle like circle jerking onto a face and shit. This is how they talked to each other. It was fucked, Ethan. It was fucked, and I wanted them to go to jail. Why am Why is the problem me here? Should I have not reported that to you? You going to do Is my next Ethan, is the next video going to be you calling me a snitch? That's what JDA did when they found out.",
+      "involved_entity_ids": [
+        "person:jon-del-arroz"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:jon-del-arroz",
+          "matched_alias": "JDA",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 3,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "edPpkg2kim4",
+        "title": "\"I REPORTED THE DROPBOX!\" Liam Gray Responds to EVS Reacting To A Viral Clip",
+        "channel": "KatyDid",
+        "published_at": "2026-07-03T19:49:19+00:00",
+        "timestamp_seconds": 1009.24,
+        "timestamp_display": "16:49",
+        "url": "https://www.youtube.com/watch?v=edPpkg2kim4",
+        "receipt_url": "https://www.youtube.com/watch?v=edPpkg2kim4&t=1009s",
+        "transcript_file": "transcripts/2026-07/I REPORTED THE DROPBOX! Liam Gray Responds to EVS Reacting To A Viral Clip [edPpkg2kim4].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:jon-del-arroz"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.87
+    },
+    {
+      "passage_id": "passage:edPpkg2kim4:1020",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "You going to do Is my next Ethan, is the",
+      "context_before": "off to her and shit in a circle like circle jerking onto a face and shit. This is how they talked to each other. It was fucked, Ethan. It was fucked, and I wanted them to go to jail. Why am Why is the problem me here? Should I have not reported that to you?",
+      "context_after": "next video going to be you calling me a snitch? That's what JDA did when they found out. As Dark Gift said, he's past he's played this video 50 times. And they go and oh, look, this is a video of Liam reporting fucking convicted pedophiles to the",
+      "full_context": "off to her and shit in a circle like circle jerking onto a face and shit. This is how they talked to each other. It was fucked, Ethan. It was fucked, and I wanted them to go to jail. Why am Why is the problem me here? Should I have not reported that to you? You going to do Is my next Ethan, is the next video going to be you calling me a snitch? That's what JDA did when they found out. As Dark Gift said, he's past he's played this video 50 times. And they go and oh, look, this is a video of Liam reporting fucking convicted pedophiles to the",
+      "involved_entity_ids": [
+        "person:jon-del-arroz"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:jon-del-arroz",
+          "matched_alias": "JDA",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 4,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "edPpkg2kim4",
+        "title": "\"I REPORTED THE DROPBOX!\" Liam Gray Responds to EVS Reacting To A Viral Clip",
+        "channel": "KatyDid",
+        "published_at": "2026-07-03T19:49:19+00:00",
+        "timestamp_seconds": 1020.44,
+        "timestamp_display": "17:00",
+        "url": "https://www.youtube.com/watch?v=edPpkg2kim4",
+        "receipt_url": "https://www.youtube.com/watch?v=edPpkg2kim4&t=1020s",
+        "transcript_file": "transcripts/2026-07/I REPORTED THE DROPBOX! Liam Gray Responds to EVS Reacting To A Viral Clip [edPpkg2kim4].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:jon-del-arroz"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.95
+    },
+    {
+      "passage_id": "passage:edPpkg2kim4:1027",
+      "passage_type": "multi_person_passage",
+      "claim_excerpt": "That's what JDA did when they found out.",
+      "context_before": "It was fucked, and I wanted them to go to jail. Why am Why is the problem me here? Should I have not reported that to you? You going to do Is my next Ethan, is the next video going to be you calling me a snitch?",
+      "context_after": "As Dark Gift said, he's past he's played this video 50 times. And they go and oh, look, this is a video of Liam reporting fucking convicted pedophiles to the fucking federal police in the Dropbox trying to get this shit taken off the internet. No, they're trying to use it to paint me as a fucking pederast. Right now your boy Riley is accusing me of",
+      "full_context": "It was fucked, and I wanted them to go to jail. Why am Why is the problem me here? Should I have not reported that to you? You going to do Is my next Ethan, is the next video going to be you calling me a snitch? That's what JDA did when they found out. As Dark Gift said, he's past he's played this video 50 times. And they go and oh, look, this is a video of Liam reporting fucking convicted pedophiles to the fucking federal police in the Dropbox trying to get this shit taken off the internet. No, they're trying to use it to paint me as a fucking pederast. Right now your boy Riley is accusing me of",
+      "involved_entity_ids": [
+        "person:jon-del-arroz",
+        "person:riley"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:jon-del-arroz",
+          "matched_alias": "JDA",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        },
+        {
+          "entity_id": "person:riley",
+          "matched_alias": "Riley",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 4,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "edPpkg2kim4",
+        "title": "\"I REPORTED THE DROPBOX!\" Liam Gray Responds to EVS Reacting To A Viral Clip",
+        "channel": "KatyDid",
+        "published_at": "2026-07-03T19:49:19+00:00",
+        "timestamp_seconds": 1027.72,
+        "timestamp_display": "17:07",
+        "url": "https://www.youtube.com/watch?v=edPpkg2kim4",
+        "receipt_url": "https://www.youtube.com/watch?v=edPpkg2kim4&t=1027s",
+        "transcript_file": "transcripts/2026-07/I REPORTED THE DROPBOX! Liam Gray Responds to EVS Reacting To A Viral Clip [edPpkg2kim4].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:jon-del-arroz",
+          "person:riley"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.98
+    },
+    {
+      "passage_id": "passage:edPpkg2kim4:1036",
+      "passage_type": "multi_person_passage",
+      "claim_excerpt": "look, this is a video of Liam reporting",
+      "context_before": "Should I have not reported that to you? You going to do Is my next Ethan, is the next video going to be you calling me a snitch? That's what JDA did when they found out. As Dark Gift said, he's past he's played this video 50 times. And they go and oh,",
+      "context_after": "fucking convicted pedophiles to the fucking federal police in the Dropbox trying to get this shit taken off the internet. No, they're trying to use it to paint me as a fucking pederast. Right now your boy Riley is accusing me of being a fucking pederast. While crowdfunding an effort to fucking come here, man.",
+      "full_context": "Should I have not reported that to you? You going to do Is my next Ethan, is the next video going to be you calling me a snitch? That's what JDA did when they found out. As Dark Gift said, he's past he's played this video 50 times. And they go and oh, look, this is a video of Liam reporting fucking convicted pedophiles to the fucking federal police in the Dropbox trying to get this shit taken off the internet. No, they're trying to use it to paint me as a fucking pederast. Right now your boy Riley is accusing me of being a fucking pederast. While crowdfunding an effort to fucking come here, man.",
+      "involved_entity_ids": [
+        "person:jon-del-arroz",
+        "person:riley"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:jon-del-arroz",
+          "matched_alias": "JDA",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        },
+        {
+          "entity_id": "person:riley",
+          "matched_alias": "Riley",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 3,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "edPpkg2kim4",
+        "title": "\"I REPORTED THE DROPBOX!\" Liam Gray Responds to EVS Reacting To A Viral Clip",
+        "channel": "KatyDid",
+        "published_at": "2026-07-03T19:49:19+00:00",
+        "timestamp_seconds": 1036.0,
+        "timestamp_display": "17:16",
+        "url": "https://www.youtube.com/watch?v=edPpkg2kim4",
+        "receipt_url": "https://www.youtube.com/watch?v=edPpkg2kim4&t=1036s",
+        "transcript_file": "transcripts/2026-07/I REPORTED THE DROPBOX! Liam Gray Responds to EVS Reacting To A Viral Clip [edPpkg2kim4].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:jon-del-arroz",
+          "person:riley"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.95
+    },
+    {
+      "passage_id": "passage:edPpkg2kim4:1049",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "being a fucking pederast.",
+      "context_before": "As Dark Gift said, he's past he's played this video 50 times. And they go and oh, look, this is a video of Liam reporting fucking convicted pedophiles to the fucking federal police in the Dropbox trying to get this shit taken off the internet. No, they're trying to use it to paint me as a fucking pederast. Right now your boy Riley is accusing me of",
+      "context_after": "While crowdfunding an effort to fucking come here, man. Am I the problem, Ethan? Maybe it's time to fucking stop thinking that everything's a fucking lie. Check the fucking OD cover. Check the timeline.",
+      "full_context": "As Dark Gift said, he's past he's played this video 50 times. And they go and oh, look, this is a video of Liam reporting fucking convicted pedophiles to the fucking federal police in the Dropbox trying to get this shit taken off the internet. No, they're trying to use it to paint me as a fucking pederast. Right now your boy Riley is accusing me of being a fucking pederast. While crowdfunding an effort to fucking come here, man. Am I the problem, Ethan? Maybe it's time to fucking stop thinking that everything's a fucking lie. Check the fucking OD cover. Check the timeline.",
+      "involved_entity_ids": [
+        "person:riley"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:riley",
+          "matched_alias": "Riley",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 1,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "edPpkg2kim4",
+        "title": "\"I REPORTED THE DROPBOX!\" Liam Gray Responds to EVS Reacting To A Viral Clip",
+        "channel": "KatyDid",
+        "published_at": "2026-07-03T19:49:19+00:00",
+        "timestamp_seconds": 1049.96,
+        "timestamp_display": "17:29",
+        "url": "https://www.youtube.com/watch?v=edPpkg2kim4",
+        "receipt_url": "https://www.youtube.com/watch?v=edPpkg2kim4&t=1049s",
+        "transcript_file": "transcripts/2026-07/I REPORTED THE DROPBOX! Liam Gray Responds to EVS Reacting To A Viral Clip [edPpkg2kim4].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:riley"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.71
+    },
+    {
+      "passage_id": "passage:edPpkg2kim4:1054",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "come here, man.",
+      "context_before": "look, this is a video of Liam reporting fucking convicted pedophiles to the fucking federal police in the Dropbox trying to get this shit taken off the internet. No, they're trying to use it to paint me as a fucking pederast. Right now your boy Riley is accusing me of being a fucking pederast. While crowdfunding an effort to fucking",
+      "context_after": "Am I the problem, Ethan? Maybe it's time to fucking stop thinking that everything's a fucking lie. Check the fucking OD cover. Check the timeline. There are plenty of fucking people that will tell you the fucking truth about what happened. >> I must suck because somebody told the",
+      "full_context": "look, this is a video of Liam reporting fucking convicted pedophiles to the fucking federal police in the Dropbox trying to get this shit taken off the internet. No, they're trying to use it to paint me as a fucking pederast. Right now your boy Riley is accusing me of being a fucking pederast. While crowdfunding an effort to fucking come here, man. Am I the problem, Ethan? Maybe it's time to fucking stop thinking that everything's a fucking lie. Check the fucking OD cover. Check the timeline. There are plenty of fucking people that will tell you the fucking truth about what happened. >> I must suck because somebody told the",
+      "involved_entity_ids": [
+        "person:riley"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:riley",
+          "matched_alias": "Riley",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 2,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "edPpkg2kim4",
+        "title": "\"I REPORTED THE DROPBOX!\" Liam Gray Responds to EVS Reacting To A Viral Clip",
+        "channel": "KatyDid",
+        "published_at": "2026-07-03T19:49:19+00:00",
+        "timestamp_seconds": 1054.68,
+        "timestamp_display": "17:34",
+        "url": "https://www.youtube.com/watch?v=edPpkg2kim4",
+        "receipt_url": "https://www.youtube.com/watch?v=edPpkg2kim4&t=1054s",
+        "transcript_file": "transcripts/2026-07/I REPORTED THE DROPBOX! Liam Gray Responds to EVS Reacting To A Viral Clip [edPpkg2kim4].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:riley"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.79
+    },
+    {
+      "passage_id": "passage:edPpkg2kim4:1066",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "Check the fucking OD cover. Check the",
+      "context_before": "now your boy Riley is accusing me of being a fucking pederast. While crowdfunding an effort to fucking come here, man. Am I the problem, Ethan? Maybe it's time to fucking stop thinking that everything's a fucking lie.",
+      "context_after": "timeline. There are plenty of fucking people that will tell you the fucking truth about what happened. >> I must suck because somebody told the FBI that little movie perp said he wanted to shoot up Atlantic City and the FBI came to my house the next day.",
+      "full_context": "now your boy Riley is accusing me of being a fucking pederast. While crowdfunding an effort to fucking come here, man. Am I the problem, Ethan? Maybe it's time to fucking stop thinking that everything's a fucking lie. Check the fucking OD cover. Check the timeline. There are plenty of fucking people that will tell you the fucking truth about what happened. >> I must suck because somebody told the FBI that little movie perp said he wanted to shoot up Atlantic City and the FBI came to my house the next day.",
+      "involved_entity_ids": [
+        "person:riley"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:riley",
+          "matched_alias": "Riley",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 3,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "edPpkg2kim4",
+        "title": "\"I REPORTED THE DROPBOX!\" Liam Gray Responds to EVS Reacting To A Viral Clip",
+        "channel": "KatyDid",
+        "published_at": "2026-07-03T19:49:19+00:00",
+        "timestamp_seconds": 1066.12,
+        "timestamp_display": "17:46",
+        "url": "https://www.youtube.com/watch?v=edPpkg2kim4",
+        "receipt_url": "https://www.youtube.com/watch?v=edPpkg2kim4&t=1066s",
+        "transcript_file": "transcripts/2026-07/I REPORTED THE DROPBOX! Liam Gray Responds to EVS Reacting To A Viral Clip [edPpkg2kim4].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:riley"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.87
+    },
+    {
+      "passage_id": "passage:edPpkg2kim4:1206",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": ">> Wow, does that sound true?",
+      "context_before": "I'll have to ask Scotsman. I'll have to ask Scotsman. But it was like I think a year after this video. That's how long it took him to take his shit down. That's how fucking long. After dozens and dozens and dozens of fucking reports, man.",
+      "context_after": "You have evidence of severe child abuse material access >> and a and a conviction. >> on a computer. Lowfiwater said I thought you knew about this. How would I know about this video? There are 11,000 stupid Liam Gray videos.",
+      "full_context": "I'll have to ask Scotsman. I'll have to ask Scotsman. But it was like I think a year after this video. That's how long it took him to take his shit down. That's how fucking long. After dozens and dozens and dozens of fucking reports, man. >> Wow, does that sound true? You have evidence of severe child abuse material access >> and a and a conviction. >> on a computer. Lowfiwater said I thought you knew about this. How would I know about this video? There are 11,000 stupid Liam Gray videos.",
+      "involved_entity_ids": [
+        "person:liam-gray"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:liam-gray",
+          "matched_alias": "Liam Gray",
+          "alias_strength": "strong",
+          "confidence": 1.0
+        }
+      ],
+      "claim_term_count": 4,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "edPpkg2kim4",
+        "title": "\"I REPORTED THE DROPBOX!\" Liam Gray Responds to EVS Reacting To A Viral Clip",
+        "channel": "KatyDid",
+        "published_at": "2026-07-03T19:49:19+00:00",
+        "timestamp_seconds": 1206.28,
+        "timestamp_display": "20:06",
+        "url": "https://www.youtube.com/watch?v=edPpkg2kim4",
+        "receipt_url": "https://www.youtube.com/watch?v=edPpkg2kim4&t=1206s",
+        "transcript_file": "transcripts/2026-07/I REPORTED THE DROPBOX! Liam Gray Responds to EVS Reacting To A Viral Clip [edPpkg2kim4].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:liam-gray"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.95
+    },
+    {
+      "passage_id": "passage:edPpkg2kim4:1215",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": ">> and a and a conviction.",
+      "context_before": "shit down. That's how fucking long. After dozens and dozens and dozens of fucking reports, man. >> Wow, does that sound true? You have evidence of severe child abuse material access",
+      "context_after": ">> on a computer. Lowfiwater said I thought you knew about this. How would I know about this video? There are 11,000 stupid Liam Gray videos. Now I knew that Liam had built up this CP fantasy in his mind um that regarded had to do with that one story I",
+      "full_context": "shit down. That's how fucking long. After dozens and dozens and dozens of fucking reports, man. >> Wow, does that sound true? You have evidence of severe child abuse material access >> and a and a conviction. >> on a computer. Lowfiwater said I thought you knew about this. How would I know about this video? There are 11,000 stupid Liam Gray videos. Now I knew that Liam had built up this CP fantasy in his mind um that regarded had to do with that one story I",
+      "involved_entity_ids": [
+        "person:liam-gray"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:liam-gray",
+          "matched_alias": "Liam Gray",
+          "alias_strength": "strong",
+          "confidence": 1.0
+        }
+      ],
+      "claim_term_count": 3,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "edPpkg2kim4",
+        "title": "\"I REPORTED THE DROPBOX!\" Liam Gray Responds to EVS Reacting To A Viral Clip",
+        "channel": "KatyDid",
+        "published_at": "2026-07-03T19:49:19+00:00",
+        "timestamp_seconds": 1215.52,
+        "timestamp_display": "20:15",
+        "url": "https://www.youtube.com/watch?v=edPpkg2kim4",
+        "receipt_url": "https://www.youtube.com/watch?v=edPpkg2kim4&t=1215s",
+        "transcript_file": "transcripts/2026-07/I REPORTED THE DROPBOX! Liam Gray Responds to EVS Reacting To A Viral Clip [edPpkg2kim4].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:liam-gray"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.87
+    },
+    {
+      "passage_id": "passage:edPpkg2kim4:1232",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "um that",
+      "context_before": "material access >> and a and a conviction. >> on a computer. Lowfiwater said I thought you knew about this. How would I know about this video? There are 11,000 stupid Liam Gray videos. Now I knew that Liam had built up this CP fantasy in his mind",
+      "context_after": "regarded had to do with that one story I told about a live streamer group. Um who was working with >> This makes me angry. Now he's heard he hasn't heard what I've said though. Maybe he'll hear what I said and go, \"Oh, okay. That makes sense.\" So I'm not",
+      "full_context": "material access >> and a and a conviction. >> on a computer. Lowfiwater said I thought you knew about this. How would I know about this video? There are 11,000 stupid Liam Gray videos. Now I knew that Liam had built up this CP fantasy in his mind um that regarded had to do with that one story I told about a live streamer group. Um who was working with >> This makes me angry. Now he's heard he hasn't heard what I've said though. Maybe he'll hear what I said and go, \"Oh, okay. That makes sense.\" So I'm not",
+      "involved_entity_ids": [
+        "person:liam-gray"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:liam-gray",
+          "matched_alias": "Liam Gray",
+          "alias_strength": "strong",
+          "confidence": 1.0
+        }
+      ],
+      "claim_term_count": 3,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "edPpkg2kim4",
+        "title": "\"I REPORTED THE DROPBOX!\" Liam Gray Responds to EVS Reacting To A Viral Clip",
+        "channel": "KatyDid",
+        "published_at": "2026-07-03T19:49:19+00:00",
+        "timestamp_seconds": 1232.36,
+        "timestamp_display": "20:32",
+        "url": "https://www.youtube.com/watch?v=edPpkg2kim4",
+        "receipt_url": "https://www.youtube.com/watch?v=edPpkg2kim4&t=1232s",
+        "transcript_file": "transcripts/2026-07/I REPORTED THE DROPBOX! Liam Gray Responds to EVS Reacting To A Viral Clip [edPpkg2kim4].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:liam-gray"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.87
+    }
+  ]
+}

@@ -1,0 +1,1010 @@
+{
+  "occurrences": [
+    {
+      "occurrence_id": "occurrence:Zd9PVsLAD5c:477:person:ethan-van-sciver",
+      "entity_id": "person:ethan-van-sciver",
+      "matched_alias": "EVS",
+      "confidence": 0.68,
+      "video_id": "Zd9PVsLAD5c",
+      "title": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
+      "source": "Ethan Van Sciver",
+      "published": "2026-07-07T04:26:42+00:00",
+      "segment_index": 477,
+      "start": 1266.72,
+      "timestamp": "21:06",
+      "quote": ">> Darcipia says, \"Ethan EVS is not happy",
+      "receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=1266s",
+      "transcript_file": "transcripts/2026/07/COMICSGATE KINGS Let's draw GOTHAM characters! [Zd9PVsLAD5c].json"
+    },
+    {
+      "occurrence_id": "occurrence:Zd9PVsLAD5c:2891:person:ethan-van-sciver",
+      "entity_id": "person:ethan-van-sciver",
+      "matched_alias": "Ethan Van Skyver",
+      "confidence": 1.0,
+      "video_id": "Zd9PVsLAD5c",
+      "title": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
+      "source": "Ethan Van Sciver",
+      "published": "2026-07-07T04:26:42+00:00",
+      "segment_index": 2891,
+      "start": 6566.8,
+      "timestamp": "01:49:26",
+      "quote": "Send it to Ethan Van Skyver. P Box 607",
+      "receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=6566s",
+      "transcript_file": "transcripts/2026/07/COMICSGATE KINGS Let's draw GOTHAM characters! [Zd9PVsLAD5c].json"
+    },
+    {
+      "occurrence_id": "occurrence:Zd9PVsLAD5c:3543:person:liam-gray",
+      "entity_id": "person:liam-gray",
+      "matched_alias": "Liam Gray",
+      "confidence": 1.0,
+      "video_id": "Zd9PVsLAD5c",
+      "title": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
+      "source": "Ethan Van Sciver",
+      "published": "2026-07-07T04:26:42+00:00",
+      "segment_index": 3543,
+      "start": 7973.92,
+      "timestamp": "02:12:53",
+      "quote": "about gossip and Liam Gray. You know",
+      "receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=7973s",
+      "transcript_file": "transcripts/2026/07/COMICSGATE KINGS Let's draw GOTHAM characters! [Zd9PVsLAD5c].json"
+    },
+    {
+      "occurrence_id": "occurrence:Zd9PVsLAD5c:3846:person:ethan-van-sciver",
+      "entity_id": "person:ethan-van-sciver",
+      "matched_alias": "EVS",
+      "confidence": 0.68,
+      "video_id": "Zd9PVsLAD5c",
+      "title": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
+      "source": "Ethan Van Sciver",
+      "published": "2026-07-07T04:26:42+00:00",
+      "segment_index": 3846,
+      "start": 8644.56,
+      "timestamp": "02:24:04",
+      "quote": ">> Aaron Sleepers here. He says, \"Evs, it's",
+      "receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=8644s",
+      "transcript_file": "transcripts/2026/07/COMICSGATE KINGS Let's draw GOTHAM characters! [Zd9PVsLAD5c].json"
+    },
+    {
+      "occurrence_id": "occurrence:Zd9PVsLAD5c:4272:person:frog-tony",
+      "entity_id": "person:frog-tony",
+      "matched_alias": "Frog Tony",
+      "confidence": 1.0,
+      "video_id": "Zd9PVsLAD5c",
+      "title": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
+      "source": "Ethan Van Sciver",
+      "published": "2026-07-07T04:26:42+00:00",
+      "segment_index": 4272,
+      "start": 9569.52,
+      "timestamp": "02:39:29",
+      "quote": "teeth like Frog Tony, but uh, he's still",
+      "receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=9569s",
+      "transcript_file": "transcripts/2026/07/COMICSGATE KINGS Let's draw GOTHAM characters! [Zd9PVsLAD5c].json"
+    },
+    {
+      "occurrence_id": "occurrence:Zd9PVsLAD5c:4276:person:frog-tony",
+      "entity_id": "person:frog-tony",
+      "matched_alias": "Frog Tony",
+      "confidence": 1.0,
+      "video_id": "Zd9PVsLAD5c",
+      "title": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
+      "source": "Ethan Van Sciver",
+      "published": "2026-07-07T04:26:42+00:00",
+      "segment_index": 4276,
+      "start": 9578.319,
+      "timestamp": "02:39:38",
+      "quote": "than Frog Tony. That's amazing.",
+      "receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=9578s",
+      "transcript_file": "transcripts/2026/07/COMICSGATE KINGS Let's draw GOTHAM characters! [Zd9PVsLAD5c].json"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_id": "quote:Zd9PVsLAD5c:477",
+      "exact_text": ">> Darcipia says, \"Ethan EVS is not happy",
+      "video_id": "Zd9PVsLAD5c",
+      "video_title": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
+      "channel": "Ethan Van Sciver",
+      "published_at": "2026-07-07T04:26:42+00:00",
+      "timestamp_seconds": 1266.72,
+      "timestamp_display": "21:06",
+      "receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=1266s",
+      "transcript_file": "transcripts/2026/07/COMICSGATE KINGS Let's draw GOTHAM characters! [Zd9PVsLAD5c].json",
+      "direct_entity_ids": [
+        "person:ethan-van-sciver"
+      ],
+      "nearby_entity_ids": [
+        "person:ethan-van-sciver"
+      ],
+      "context_text": "Yeah, that's not a rule. You can use color. That's just not a rule. Chances Well, I mean, you know, that that is a concern. >> Be free. Free yourself. [laughter] Be free of John Melon and his tyranny. >> His tyranny, [laughter] his rules. You're not going to take it. No, you're not going to take it anymore. >> Darcipia says, \"Ethan EVS is not happy that Malon called him a cheater.\" Well, who would be happy with that? >> You know, of course I'm not happy with that. That's crazy. Shan Jetty's here. Yeah. >> Hey, Sean. Sean, welcome, man. >> Oh, thank you. Hold on. >> Sean Jetty. Boom. Live on the >> Good to see you, my man. >> So, Sean, did you run out of money? Is that what's going on here? [laughter] We're always Yeah. >> You've been gambling at that 800 bucks",
+      "context_before": "No, you're not going to take it anymore.",
+      "context_after": "that Malon called him a cheater.\" Well,",
+      "quote_type": "chat_or_quote_readout",
+      "confidence": 0.68
+    },
+    {
+      "quote_id": "quote:Zd9PVsLAD5c:2891",
+      "exact_text": "Send it to Ethan Van Skyver. P Box 607",
+      "video_id": "Zd9PVsLAD5c",
+      "video_title": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
+      "channel": "Ethan Van Sciver",
+      "published_at": "2026-07-07T04:26:42+00:00",
+      "timestamp_seconds": 6566.8,
+      "timestamp_display": "01:49:26",
+      "receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=6566s",
+      "transcript_file": "transcripts/2026/07/COMICSGATE KINGS Let's draw GOTHAM characters! [Zd9PVsLAD5c].json",
+      "direct_entity_ids": [
+        "person:ethan-van-sciver"
+      ],
+      "nearby_entity_ids": [
+        "person:ethan-van-sciver"
+      ],
+      "context_text": "if I gave enough of a [ __ ] about him to care. He was [ __ ] my wife in the early '8s. >> One of the reasons I got to work. >> You remember this? >> So, in that, [music] you did me a favor. The two deserved each other. All in all, he's a talented douchebag. Emphasis on douchebag. >> [ __ ] Jeez. >> Is that real? >> It's real. Yeah. [laughter] >> I remember that video. And you Yeah. You're >> all I did was make videos. >> I got a PO box. Send it to Ethan Van Skyver. P Box 607 Martin, New Jersey 0805. >> What these guys what these pros were saying to each other. Thanks [music] very much everyone. Thanks everyone. >> Yes, he posted that. >> Yeah, he did. He posted that 100%. >> Holy [ __ ] >> Isn't that Hey, you want to follow me on Twitter? >> Are you sure? Well, if so, I'm Ethan Vanskyver. [music] That's Ethan Vans. See you there. >> Frog rocking it. >> I remember that. I remember that. Are",
+      "context_before": ">> I got a PO box.",
+      "context_after": "Martin, New Jersey 0805.",
+      "quote_type": "transcript_line",
+      "confidence": 1.0
+    },
+    {
+      "quote_id": "quote:Zd9PVsLAD5c:2896",
+      "exact_text": ">> Yes, he posted that.",
+      "video_id": "Zd9PVsLAD5c",
+      "video_title": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
+      "channel": "Ethan Van Sciver",
+      "published_at": "2026-07-07T04:26:42+00:00",
+      "timestamp_seconds": 6578.639,
+      "timestamp_display": "01:49:38",
+      "receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=6578s",
+      "transcript_file": "transcripts/2026/07/COMICSGATE KINGS Let's draw GOTHAM characters! [Zd9PVsLAD5c].json",
+      "direct_entity_ids": [],
+      "nearby_entity_ids": [
+        "person:ethan-van-sciver"
+      ],
+      "context_text": "he's a talented douchebag. Emphasis on douchebag. >> [ __ ] Jeez. >> Is that real? >> It's real. Yeah. [laughter] >> I remember that video. And you Yeah. You're >> all I did was make videos. >> I got a PO box. Send it to Ethan Van Skyver. P Box 607 Martin, New Jersey 0805. >> What these guys what these pros were saying to each other. Thanks [music] very much everyone. Thanks everyone. >> Yes, he posted that. >> Yeah, he did. He posted that 100%. >> Holy [ __ ] >> Isn't that Hey, you want to follow me on Twitter? >> Are you sure? Well, if so, I'm Ethan Vanskyver. [music] That's Ethan Vans. See you there. >> Frog rocking it. >> I remember that. I remember that. Are you sure? >> Here's another one. >> Hey everyone, it's Comic Artist Pro Secrets. I'm Ethan Van Skyber, your friend. 27-year veteran of the comic book industry. Now, ever since the comic book business began to show obvious",
+      "context_before": "very much everyone. Thanks everyone.",
+      "context_after": ">> Yeah, he did. He posted that 100%.",
+      "quote_type": "transcript_line",
+      "confidence": 0.65
+    },
+    {
+      "quote_id": "quote:Zd9PVsLAD5c:2897",
+      "exact_text": ">> Yeah, he did. He posted that 100%.",
+      "video_id": "Zd9PVsLAD5c",
+      "video_title": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
+      "channel": "Ethan Van Sciver",
+      "published_at": "2026-07-07T04:26:42+00:00",
+      "timestamp_seconds": 6580.239,
+      "timestamp_display": "01:49:40",
+      "receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=6580s",
+      "transcript_file": "transcripts/2026/07/COMICSGATE KINGS Let's draw GOTHAM characters! [Zd9PVsLAD5c].json",
+      "direct_entity_ids": [],
+      "nearby_entity_ids": [
+        "person:ethan-van-sciver"
+      ],
+      "context_text": "douchebag. >> [ __ ] Jeez. >> Is that real? >> It's real. Yeah. [laughter] >> I remember that video. And you Yeah. You're >> all I did was make videos. >> I got a PO box. Send it to Ethan Van Skyver. P Box 607 Martin, New Jersey 0805. >> What these guys what these pros were saying to each other. Thanks [music] very much everyone. Thanks everyone. >> Yes, he posted that. >> Yeah, he did. He posted that 100%. >> Holy [ __ ] >> Isn't that Hey, you want to follow me on Twitter? >> Are you sure? Well, if so, I'm Ethan Vanskyver. [music] That's Ethan Vans. See you there. >> Frog rocking it. >> I remember that. I remember that. Are you sure? >> Here's another one. >> Hey everyone, it's Comic Artist Pro Secrets. I'm Ethan Van Skyber, your friend. 27-year veteran of the comic book industry. Now, ever since the comic book business began to show obvious",
+      "context_before": ">> Yes, he posted that.",
+      "context_after": ">> Holy [ __ ]",
+      "quote_type": "transcript_line",
+      "confidence": 0.65
+    },
+    {
+      "quote_id": "quote:Zd9PVsLAD5c:3543",
+      "exact_text": "about gossip and Liam Gray. You know",
+      "video_id": "Zd9PVsLAD5c",
+      "video_title": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
+      "channel": "Ethan Van Sciver",
+      "published_at": "2026-07-07T04:26:42+00:00",
+      "timestamp_seconds": 7973.92,
+      "timestamp_display": "02:12:53",
+      "receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=7973s",
+      "transcript_file": "transcripts/2026/07/COMICSGATE KINGS Let's draw GOTHAM characters! [Zd9PVsLAD5c].json",
+      "direct_entity_ids": [
+        "person:liam-gray"
+      ],
+      "nearby_entity_ids": [
+        "person:liam-gray"
+      ],
+      "context_text": "Glorious Rex 3. >> Yes, I have. >> The only person here I trust to keep a secret. >> Don't Don't show me. >> Show me. >> I thought about sending it to Ethan. And I was like, I might as well just >> Shane, don't don't worry about I'm not going to I'm not going to blast it. Send it to me if you want a good review or opinion of it. I'd be happy to to give it a read and tell you what I think. >> I'm not going to keep it secret. I know that. >> Of course, I will. >> No, you won't. >> Shane, it's not it's not >> Yeah, I don't keep secrets when they're about gossip and Liam Gray. You know what I mean? It's like if Anna tells me something funny about this person, those are the kind of secrets I don't keep. Uh, you know, the secrets about your book. Uh, yeah, of course I keep them. >> And now I'm picturing Shane saying to you, you know, in an indie film, I should have mailed it to the Marx Brothers, you know. [laughter] >> Uh, all right. Hold on a second here. I'm almost done. We got uh two minutes. Two minutes, guys.",
+      "context_before": ">> Yeah, I don't keep secrets when they're",
+      "context_after": "what I mean? It's like if Anna tells me",
+      "quote_type": "transcript_line",
+      "confidence": 1.0
+    },
+    {
+      "quote_id": "quote:Zd9PVsLAD5c:3839",
+      "exact_text": "TVDub says, \"Are Nine lives accounts",
+      "video_id": "Zd9PVsLAD5c",
+      "video_title": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
+      "channel": "Ethan Van Sciver",
+      "published_at": "2026-07-07T04:26:42+00:00",
+      "timestamp_seconds": 8627.2,
+      "timestamp_display": "02:23:47",
+      "receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=8627s",
+      "transcript_file": "transcripts/2026/07/COMICSGATE KINGS Let's draw GOTHAM characters! [Zd9PVsLAD5c].json",
+      "direct_entity_ids": [],
+      "nearby_entity_ids": [
+        "person:ethan-van-sciver"
+      ],
+      "context_text": "are >> Bill, you're destroying. >> I think Dan cheated. He brought out boobs. >> No, he won with the boobs. That's the key. >> That's all you have to do really. I mean, if you just draw boobies, uh, you're going to do real well. >> Ivy would have been a great one. >> Uh, let me see some super chats. Uh, Shane, will Back Me bro have any APIs available? Combo one, >> what an API is? Yeah, I don't know either. Uh, Mike TVDub says, \"Are Nine lives accounts being migrated to Backme?\" >> No, Nine Lives comics uh will be the same. Um, it'll run the same. I will put my campaigns up on BackMe Bro, but there is no migration. Uh, that there are two separate sites. >> Aaron Sleepers here. He says, \"Evs, it's funny. My W was self's not likely to ever get a chance to work with DC, but over the years I've ended up doing steampunk versions of most DC characters. I've seen Billy's I think Billyy's seen some of my portfolio. My",
+      "context_before": "Yeah, I don't know either. Uh, Mike",
+      "context_after": "being migrated to Backme?\"",
+      "quote_type": "chat_or_quote_readout",
+      "confidence": 0.65
+    },
+    {
+      "quote_id": "quote:Zd9PVsLAD5c:3846",
+      "exact_text": ">> Aaron Sleepers here. He says, \"Evs, it's",
+      "video_id": "Zd9PVsLAD5c",
+      "video_title": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
+      "channel": "Ethan Van Sciver",
+      "published_at": "2026-07-07T04:26:42+00:00",
+      "timestamp_seconds": 8644.56,
+      "timestamp_display": "02:24:04",
+      "receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=8644s",
+      "transcript_file": "transcripts/2026/07/COMICSGATE KINGS Let's draw GOTHAM characters! [Zd9PVsLAD5c].json",
+      "direct_entity_ids": [
+        "person:ethan-van-sciver"
+      ],
+      "nearby_entity_ids": [
+        "person:ethan-van-sciver"
+      ],
+      "context_text": ">> Uh, let me see some super chats. Uh, Shane, will Back Me bro have any APIs available? Combo one, >> what an API is? Yeah, I don't know either. Uh, Mike TVDub says, \"Are Nine lives accounts being migrated to Backme?\" >> No, Nine Lives comics uh will be the same. Um, it'll run the same. I will put my campaigns up on BackMe Bro, but there is no migration. Uh, that there are two separate sites. >> Aaron Sleepers here. He says, \"Evs, it's funny. My W was self's not likely to ever get a chance to work with DC, but over the years I've ended up doing steampunk versions of most DC characters. I've seen Billy's I think Billyy's seen some of my portfolio. My point is there are plenty of good ideas still out there 100%. >> Back to comic book one's uh super chat. That was a tech thing and that I'm not the tech guy. That's Jonzie. So uh I I don't know comic book one. >> Uh let me see. John Shepard says think",
+      "context_before": "separate sites.",
+      "context_after": "funny. My W was self's not likely to",
+      "quote_type": "chat_or_quote_readout",
+      "confidence": 0.68
+    },
+    {
+      "quote_id": "quote:Zd9PVsLAD5c:3859",
+      "exact_text": ">> Uh let me see. John Shepard says think",
+      "video_id": "Zd9PVsLAD5c",
+      "video_title": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
+      "channel": "Ethan Van Sciver",
+      "published_at": "2026-07-07T04:26:42+00:00",
+      "timestamp_seconds": 8674.0,
+      "timestamp_display": "02:24:34",
+      "receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=8674s",
+      "transcript_file": "transcripts/2026/07/COMICSGATE KINGS Let's draw GOTHAM characters! [Zd9PVsLAD5c].json",
+      "direct_entity_ids": [],
+      "nearby_entity_ids": [
+        "person:ethan-van-sciver"
+      ],
+      "context_text": ">> Aaron Sleepers here. He says, \"Evs, it's funny. My W was self's not likely to ever get a chance to work with DC, but over the years I've ended up doing steampunk versions of most DC characters. I've seen Billy's I think Billyy's seen some of my portfolio. My point is there are plenty of good ideas still out there 100%. >> Back to comic book one's uh super chat. That was a tech thing and that I'm not the tech guy. That's Jonzie. So uh I I don't know comic book one. >> Uh let me see. John Shepard says think Charlie fell asleep on stream. I just heard like uh of somebody in a family member in the background talking to him. Uh, Headless Porsche says, \"The original golden age version of Plastic Man created by Jack Cole and originally published by Quality Comics is in the public domain.\" >> Oh. >> Oh, is it? >> Dang. >> I'm checking it right now to see what year will Plastic Man go in the public domain. >> Question for Vasilus. How many days the promotion will still be on the air? Because July have many specials",
+      "context_before": "don't know comic book one.",
+      "context_after": "Charlie fell asleep on stream. I just",
+      "quote_type": "chat_or_quote_readout",
+      "confidence": 0.65
+    },
+    {
+      "quote_id": "quote:Zd9PVsLAD5c:4272",
+      "exact_text": "teeth like Frog Tony, but uh, he's still",
+      "video_id": "Zd9PVsLAD5c",
+      "video_title": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
+      "channel": "Ethan Van Sciver",
+      "published_at": "2026-07-07T04:26:42+00:00",
+      "timestamp_seconds": 9569.52,
+      "timestamp_display": "02:39:29",
+      "receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=9569s",
+      "transcript_file": "transcripts/2026/07/COMICSGATE KINGS Let's draw GOTHAM characters! [Zd9PVsLAD5c].json",
+      "direct_entity_ids": [
+        "person:frog-tony"
+      ],
+      "nearby_entity_ids": [
+        "person:frog-tony"
+      ],
+      "context_text": ">> Outstanding. >> Way to go. >> Hold on a second. Let me turn >> Thank you, Ethan, too. You let us sell to your customers. I really appreciate that. >> Uh, yeah, of course. No problem. Uh, all right. It's me next. Um, I drew Scarecrow. Uh, so I hope you like it. Um, my starting bid is, as usual, just 20 bucks. Uh, whatever it is, it is. Uh, have I've signed it there. Uh, there is our scarecrow. Uh, and uh, he's got teeth like Frog Tony, but uh, he's still uh, he's still pretty scary. >> He's got more teeth. >> Yeah, he does actually have more teeth than Frog Tony. That's amazing. >> Great placement of blacks, man. Great. >> Oh, thank you. Yeah, made it go quicker. I, you know, I'm sitting here studying what uh, Aaron Ley does, you know, and >> gets a lot done. Uh Shane does too uh by uh you know working um working a lot of blacks in there black colors.",
+      "context_before": "our scarecrow. Uh, and uh, he's got",
+      "context_after": "uh, he's still pretty scary.",
+      "quote_type": "transcript_line",
+      "confidence": 1.0
+    },
+    {
+      "quote_id": "quote:Zd9PVsLAD5c:4276",
+      "exact_text": "than Frog Tony. That's amazing.",
+      "video_id": "Zd9PVsLAD5c",
+      "video_title": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
+      "channel": "Ethan Van Sciver",
+      "published_at": "2026-07-07T04:26:42+00:00",
+      "timestamp_seconds": 9578.319,
+      "timestamp_display": "02:39:38",
+      "receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=9578s",
+      "transcript_file": "transcripts/2026/07/COMICSGATE KINGS Let's draw GOTHAM characters! [Zd9PVsLAD5c].json",
+      "direct_entity_ids": [
+        "person:frog-tony"
+      ],
+      "nearby_entity_ids": [
+        "person:frog-tony"
+      ],
+      "context_text": "that. >> Uh, yeah, of course. No problem. Uh, all right. It's me next. Um, I drew Scarecrow. Uh, so I hope you like it. Um, my starting bid is, as usual, just 20 bucks. Uh, whatever it is, it is. Uh, have I've signed it there. Uh, there is our scarecrow. Uh, and uh, he's got teeth like Frog Tony, but uh, he's still uh, he's still pretty scary. >> He's got more teeth. >> Yeah, he does actually have more teeth than Frog Tony. That's amazing. >> Great placement of blacks, man. Great. >> Oh, thank you. Yeah, made it go quicker. I, you know, I'm sitting here studying what uh, Aaron Ley does, you know, and >> gets a lot done. Uh Shane does too uh by uh you know working um working a lot of blacks in there black colors. Um so this is uh $20 should be the first bid. We don't have a bid tonight. Oh, we got one. We got a $50 bid. Thank you, Rob Lego Patriot. That's beautiful.",
+      "context_before": ">> Yeah, he does actually have more teeth",
+      "context_after": ">> Great placement of blacks, man. Great.",
+      "quote_type": "transcript_line",
+      "confidence": 1.0
+    }
+  ],
+  "bundles": [
+    {
+      "context_bundle_id": "bundle:Zd9PVsLAD5c:1266",
+      "video_id": "Zd9PVsLAD5c",
+      "title": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
+      "channel": "Ethan Van Sciver",
+      "published_at": "2026-07-07T04:26:42+00:00",
+      "start_seconds": 1191.72,
+      "end_seconds": 1371.72,
+      "start_display": "19:51",
+      "end_display": "22:51",
+      "receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=1191s",
+      "trigger_quote_id": "quote:Zd9PVsLAD5c:477",
+      "trigger_receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=1266s",
+      "involved_entity_ids": [
+        "person:ethan-van-sciver"
+      ],
+      "involved_entity_names": [
+        "Ethan Van Sciver"
+      ],
+      "topic_terms": [
+        "i'm",
+        "man",
+        "good",
+        "mean",
+        "that's",
+        "sean",
+        "did",
+        "wish",
+        "always",
+        "little"
+      ],
+      "context_text": ">> I always do a little thumbnail. I mean usually I mean like I got a little Is this cheating? I got a little >> Oh, you already did a thumbnail like beforehand. >> It's like It's like the size literally the size of my thumb. >> How is that cheating? You just did it now. I don't know. Yeah, I I really fast, >> man. Scared. >> Scared, man. Don't be so scared. >> Yeah, there's no way that's cheating. [clears throat] But I mean, understand all of this stuff will be under review on the Kang's show after hours. So, uh, you know, we want to make sure that, uh, we want to look good this, uh, this week if possible. >> Well, I'm already disqualified because I'm I'm I think I'm going to use color. So, John says that's a no. Yeah, that's not a rule. You can use color. That's just not a rule. Chances Well, I mean, you know, that that is a concern. >> Be free. Free yourself. [laughter] Be free of John Melon and his tyranny. >> His tyranny, [laughter] his rules. You're not going to take it. No, you're not going to take it anymore. >> Darcipia says, \"Ethan EVS is not happy that Malon called him a cheater.\" Well, who would be happy with that? >> You know, of course I'm not happy with that. That's crazy. Shan Jetty's here. Yeah. >> Hey, Sean. Sean, welcome, man. >> Oh, thank you. Hold on. >> Sean Jetty. Boom. Live on the >> Good to see you, my man. >> So, Sean, did you run out of money? Is that what's going on here? [laughter] We're always Yeah. >> You've been gambling at that 800 bucks and like >> Oh, good lord. No, no, no. Please. >> Sean made the most money. >> Yeah, >> I did. Oh, yeah. Yeah. >> Oh my god. In a long time. Like I don't think anybody's made as much as you. >> Fantastic. >> Just trying to have fun with you guys, man. Always a blast. >> Appreciate it. We missed you when you weren't here. It's been like four weeks. >> I know, dude. It's been It's been crazy here, man. Things are things have been nuts, but I'm sure they're nuts everywhere else. >> I want to know what you made of the movie Obsession because I saw you saw that and you're the only person in my age demo I know who's seen it and so I want to get your take on it because I'm a horror fan. >> Oh my god. >> What' you think? >> I loved it. I mean, it was really good. I gave it a B. Okay, which means really good, but I'll forget about it next year. Okay, but it's worth seeing now. um monkeys paw story where you get one wish and inevitably the wish that you get like boomerangs on you horribly. There's no I people you can ask yourself this question that somebody said like um what would you wish for and I was like um I guess like I would just wish for tremendously good luck >> cuz then like that would be uh you know",
+      "supporting_quote_ids": [
+        "quote:Zd9PVsLAD5c:477"
+      ],
+      "confidence": 0.68
+    },
+    {
+      "context_bundle_id": "bundle:Zd9PVsLAD5c:6566",
+      "video_id": "Zd9PVsLAD5c",
+      "title": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
+      "channel": "Ethan Van Sciver",
+      "published_at": "2026-07-07T04:26:42+00:00",
+      "start_seconds": 6491.8,
+      "end_seconds": 6671.8,
+      "start_display": "01:48:11",
+      "end_display": "01:51:11",
+      "receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=6491s",
+      "trigger_quote_id": "quote:Zd9PVsLAD5c:2891",
+      "trigger_receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=6566s",
+      "involved_entity_ids": [
+        "person:ethan-van-sciver"
+      ],
+      "involved_entity_names": [
+        "Ethan Van Sciver"
+      ],
+      "topic_terms": [
+        "i'm",
+        "all",
+        "music",
+        "comic",
+        "did",
+        "that's",
+        "remember",
+        "ethan",
+        "book",
+        "sing"
+      ],
+      "context_text": ">> Well, she has a Disney voice where she would just sing like she she was a teen uh you know. >> Yeah. >> She was a mousketeer, wasn't she? >> Musketeer. Like she would sing well enough, you know? >> Right. >> Sing her song. I'm >> sure she had a couple of hits. Didn't she have a couple of hits when she was a teenager and stuff? >> I'm positive she did. Yeah. 100%. All right. Here's uh here's my quick video about Bill Cavage. Here we go. for no particular reason. The Hulk fighting a bear by the great Tony Sammons. [music] >> That's nice though. >> I don't dislike too [music] many people in our business, but Tony would qualify if I gave enough of a [ __ ] about him to care. He was [ __ ] my wife in the early '8s. >> One of the reasons I got to work. >> You remember this? >> So, in that, [music] you did me a favor. The two deserved each other. All in all, he's a talented douchebag. Emphasis on douchebag. >> [ __ ] Jeez. >> Is that real? >> It's real. Yeah. [laughter] >> I remember that video. And you Yeah. You're >> all I did was make videos. >> I got a PO box. Send it to Ethan Van Skyver. P Box 607 Martin, New Jersey 0805. >> What these guys what these pros were saying to each other. Thanks [music] very much everyone. Thanks everyone. >> Yes, he posted that. >> Yeah, he did. He posted that 100%. >> Holy [ __ ] >> Isn't that Hey, you want to follow me on Twitter? >> Are you sure? Well, if so, I'm Ethan Vanskyver. [music] That's Ethan Vans. See you there. >> Frog rocking it. >> I remember that. I remember that. Are you sure? >> Here's another one. >> Hey everyone, it's Comic Artist Pro Secrets. I'm Ethan Van Skyber, your friend. 27-year veteran of the comic book industry. Now, ever since the comic book business began to show obvious signs of deterioration, I mean, it's no longer an opinion. It's no longer something that's going to happen way off in the future. It's happening now. I'm watching comic book professionals uh behave in extraordinary ways. Uh, you know, customer service has gone out the window. And of course, social justice warriors within the comic book industry uh long ago threw customer service out the window. But something else is missing now. Professional courtesy. Uh we saw Tom Breort go after Tom King. That's something that would never happen before. A highlevel Marvel comics editor getting personal and uh undermining uh one of the biggest writers at DC Comics would never ever ever happen. But things are getting even worse. I mean people are spilling the tea about uh personal conflicts. Uh we just in my last video we just saw Bill Skevich discuss another professional sleeping with his wife in public. This is all happening in public. Uh even worse uh signs of cracking are showing uh because of uh the political situation. We're seeing uh you know a",
+      "supporting_quote_ids": [
+        "quote:Zd9PVsLAD5c:2891",
+        "quote:Zd9PVsLAD5c:2896",
+        "quote:Zd9PVsLAD5c:2897"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "context_bundle_id": "bundle:Zd9PVsLAD5c:6578",
+      "video_id": "Zd9PVsLAD5c",
+      "title": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
+      "channel": "Ethan Van Sciver",
+      "published_at": "2026-07-07T04:26:42+00:00",
+      "start_seconds": 6503.639,
+      "end_seconds": 6683.639,
+      "start_display": "01:48:23",
+      "end_display": "01:51:23",
+      "receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=6503s",
+      "trigger_quote_id": "quote:Zd9PVsLAD5c:2896",
+      "trigger_receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=6578s",
+      "involved_entity_ids": [
+        "person:ethan-van-sciver"
+      ],
+      "involved_entity_names": [
+        "Ethan Van Sciver"
+      ],
+      "topic_terms": [
+        "i'm",
+        "all",
+        "music",
+        "comic",
+        "did",
+        "that's",
+        "remember",
+        "ethan",
+        "book",
+        "sure"
+      ],
+      "context_text": ">> Sing her song. I'm >> sure she had a couple of hits. Didn't she have a couple of hits when she was a teenager and stuff? >> I'm positive she did. Yeah. 100%. All right. Here's uh here's my quick video about Bill Cavage. Here we go. for no particular reason. The Hulk fighting a bear by the great Tony Sammons. [music] >> That's nice though. >> I don't dislike too [music] many people in our business, but Tony would qualify if I gave enough of a [ __ ] about him to care. He was [ __ ] my wife in the early '8s. >> One of the reasons I got to work. >> You remember this? >> So, in that, [music] you did me a favor. The two deserved each other. All in all, he's a talented douchebag. Emphasis on douchebag. >> [ __ ] Jeez. >> Is that real? >> It's real. Yeah. [laughter] >> I remember that video. And you Yeah. You're >> all I did was make videos. >> I got a PO box. Send it to Ethan Van Skyver. P Box 607 Martin, New Jersey 0805. >> What these guys what these pros were saying to each other. Thanks [music] very much everyone. Thanks everyone. >> Yes, he posted that. >> Yeah, he did. He posted that 100%. >> Holy [ __ ] >> Isn't that Hey, you want to follow me on Twitter? >> Are you sure? Well, if so, I'm Ethan Vanskyver. [music] That's Ethan Vans. See you there. >> Frog rocking it. >> I remember that. I remember that. Are you sure? >> Here's another one. >> Hey everyone, it's Comic Artist Pro Secrets. I'm Ethan Van Skyber, your friend. 27-year veteran of the comic book industry. Now, ever since the comic book business began to show obvious signs of deterioration, I mean, it's no longer an opinion. It's no longer something that's going to happen way off in the future. It's happening now. I'm watching comic book professionals uh behave in extraordinary ways. Uh, you know, customer service has gone out the window. And of course, social justice warriors within the comic book industry uh long ago threw customer service out the window. But something else is missing now. Professional courtesy. Uh we saw Tom Breort go after Tom King. That's something that would never happen before. A highlevel Marvel comics editor getting personal and uh undermining uh one of the biggest writers at DC Comics would never ever ever happen. But things are getting even worse. I mean people are spilling the tea about uh personal conflicts. Uh we just in my last video we just saw Bill Skevich discuss another professional sleeping with his wife in public. This is all happening in public. Uh even worse uh signs of cracking are showing uh because of uh the political situation. We're seeing uh you know a few pros actually uh wishing death uh on the fans. Uh and this is uh you know look I don't know how to make whole entire videos of these tweets. They're too ugly. I don't want to talk about",
+      "supporting_quote_ids": [
+        "quote:Zd9PVsLAD5c:2891",
+        "quote:Zd9PVsLAD5c:2896",
+        "quote:Zd9PVsLAD5c:2897"
+      ],
+      "confidence": 0.65
+    },
+    {
+      "context_bundle_id": "bundle:Zd9PVsLAD5c:7973",
+      "video_id": "Zd9PVsLAD5c",
+      "title": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
+      "channel": "Ethan Van Sciver",
+      "published_at": "2026-07-07T04:26:42+00:00",
+      "start_seconds": 7898.92,
+      "end_seconds": 8078.92,
+      "start_display": "02:11:38",
+      "end_display": "02:14:38",
+      "receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=7898s",
+      "trigger_quote_id": "quote:Zd9PVsLAD5c:3543",
+      "trigger_receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=7973s",
+      "involved_entity_ids": [
+        "person:liam-gray"
+      ],
+      "involved_entity_names": [
+        "Liam Gray"
+      ],
+      "topic_terms": [
+        "i'm",
+        "don't",
+        "keep",
+        "moon",
+        "one",
+        "shane",
+        "first",
+        "he's",
+        "profits",
+        "happy"
+      ],
+      "context_text": "any supports, you know, we appreciate it. >> I still can't believe Billy people are saying that I I'm breaking terms of service of other crowdfunding sites by using >> breaking terms make any sense. And he's like, shut the [ __ ] up. >> Yeah. It's like, well, what do we do with our profits? Do we just uh I mean, >> give them back to the people, Shane. They should be happy fans. You know, they should be happy. And >> you know, you shouldn't buy you shouldn't buy your your Christmas presents uh for Terry too with that. >> Shouldn't leave >> your profits either. That's right. >> Should die. This is >> tell you what to do with your profits. >> Sean type of >> Seant Shant over here has read in Glorious Rex 3. >> Yes, I have. >> The only person here I trust to keep a secret. >> Don't Don't show me. >> Show me. >> I thought about sending it to Ethan. And I was like, I might as well just >> Shane, don't don't worry about I'm not going to I'm not going to blast it. Send it to me if you want a good review or opinion of it. I'd be happy to to give it a read and tell you what I think. >> I'm not going to keep it secret. I know that. >> Of course, I will. >> No, you won't. >> Shane, it's not it's not >> Yeah, I don't keep secrets when they're about gossip and Liam Gray. You know what I mean? It's like if Anna tells me something funny about this person, those are the kind of secrets I don't keep. Uh, you know, the secrets about your book. Uh, yeah, of course I keep them. >> And now I'm picturing Shane saying to you, you know, in an indie film, I should have mailed it to the Marx Brothers, you know. [laughter] >> Uh, all right. Hold on a second here. I'm almost done. We got uh two minutes. Two minutes, guys. >> Billy, I've been watching that that Apple Netflix show about the Russians getting to the moon first. >> Oh, I'm not familiar with that. I thought you I thought you suggested it to me. >> No, it wasn't me. [clears throat] >> An Apple TV. >> I think it was Sean that recommended it. >> No, I don't know this one. >> It's called For All Mankind. >> Yeah. Yeah. >> Huh. It's like it starts off they're watching the first man on the moon and um he comes out and he plants a Russian flag and you're watching it through one of the astronauts that were before I guess Buzz Aldrin's whatever Apollo like >> 11. >> Yes. >> One minute. One minute. One minute. >> Yeah. So you follow him and he's kind of like I could have been the first person on the moon but I was too chicken [ __ ] to land and disobey orders. So now the Russians got there first and then the Russians double down, right? When we get somebody to the moon and they're like, \"Okay, now we have >> and then Nixon's the out.\" He's like, \"I need a woman on the moon.\" [laughter] It's it's it's actually kind of entertaining. I I don't know. I I'm afraid there's a woke thing in it, but I",
+      "supporting_quote_ids": [
+        "quote:Zd9PVsLAD5c:3543"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "context_bundle_id": "bundle:Zd9PVsLAD5c:8627",
+      "video_id": "Zd9PVsLAD5c",
+      "title": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
+      "channel": "Ethan Van Sciver",
+      "published_at": "2026-07-07T04:26:42+00:00",
+      "start_seconds": 8552.2,
+      "end_seconds": 8732.2,
+      "start_display": "02:22:32",
+      "end_display": "02:25:32",
+      "receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=8552s",
+      "trigger_quote_id": "quote:Zd9PVsLAD5c:3839",
+      "trigger_receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=8627s",
+      "involved_entity_ids": [
+        "person:ethan-van-sciver"
+      ],
+      "involved_entity_names": [
+        "Ethan Van Sciver"
+      ],
+      "topic_terms": [
+        "will",
+        "get",
+        "see",
+        "good",
+        "out",
+        "that's",
+        "can",
+        "i'm",
+        "don't",
+        "trust"
+      ],
+      "context_text": ">> with a Zic. Damn. >> Look how good the focus is. Uh, okay. Uh, voting time. Thanks everybody. Uh, we'll see how this works out. Um, and where we're at right now. Uh, back in a sec. >> Okay, [snorts] Dan, are you sure? because you might want to be here to find out that you are in first place right now. Dan Law 49 votes. >> Look at it. >> That's good. >> Look at it. >> I still got to pee though. >> Okay, go pee. >> Uh let me see. Uh [clears throat] uh total votes 161. >> Uh can we let's try to get to 200. I think it's looking like we can get to 200 possibly. >> You can do it, Chad. >> I'm not in this contest, guys. Don't vote for me. >> You are. You got six votes. Our readers are >> Bill, you're destroying. >> I think Dan cheated. He brought out boobs. >> No, he won with the boobs. That's the key. >> That's all you have to do really. I mean, if you just draw boobies, uh, you're going to do real well. >> Ivy would have been a great one. >> Uh, let me see some super chats. Uh, Shane, will Back Me bro have any APIs available? Combo one, >> what an API is? Yeah, I don't know either. Uh, Mike TVDub says, \"Are Nine lives accounts being migrated to Backme?\" >> No, Nine Lives comics uh will be the same. Um, it'll run the same. I will put my campaigns up on BackMe Bro, but there is no migration. Uh, that there are two separate sites. >> Aaron Sleepers here. He says, \"Evs, it's funny. My W was self's not likely to ever get a chance to work with DC, but over the years I've ended up doing steampunk versions of most DC characters. I've seen Billy's I think Billyy's seen some of my portfolio. My point is there are plenty of good ideas still out there 100%. >> Back to comic book one's uh super chat. That was a tech thing and that I'm not the tech guy. That's Jonzie. So uh I I don't know comic book one. >> Uh let me see. John Shepard says think Charlie fell asleep on stream. I just heard like uh of somebody in a family member in the background talking to him. Uh, Headless Porsche says, \"The original golden age version of Plastic Man created by Jack Cole and originally published by Quality Comics is in the public domain.\" >> Oh. >> Oh, is it? >> Dang. >> I'm checking it right now to see what year will Plastic Man go in the public domain. >> Question for Vasilus. How many days the promotion will still be on the air? Because July have many specials everywhere. It's crazy, but I can't miss this uh t-shirt. >> You will get it. You will get it. Well, yeah. Well, I'm going to run it for a while. I just want people to get uh the chance to read Heunk. I know it's kind of like overpriced, but trust me, trust me, it's good. If you don't trust me, trust Ethan, he knows. [snorts] >> Yeah, Heunk is cool as hell. Uh John without an H says, \"Someone asked Shane when you guys can use BackMe, bro.\" Uh,",
+      "supporting_quote_ids": [
+        "quote:Zd9PVsLAD5c:3839",
+        "quote:Zd9PVsLAD5c:3846",
+        "quote:Zd9PVsLAD5c:3859"
+      ],
+      "confidence": 0.65
+    },
+    {
+      "context_bundle_id": "bundle:Zd9PVsLAD5c:8644",
+      "video_id": "Zd9PVsLAD5c",
+      "title": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
+      "channel": "Ethan Van Sciver",
+      "published_at": "2026-07-07T04:26:42+00:00",
+      "start_seconds": 8569.56,
+      "end_seconds": 8749.56,
+      "start_display": "02:22:49",
+      "end_display": "02:25:49",
+      "receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=8569s",
+      "trigger_quote_id": "quote:Zd9PVsLAD5c:3846",
+      "trigger_receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=8644s",
+      "involved_entity_ids": [
+        "person:ethan-van-sciver"
+      ],
+      "involved_entity_names": [
+        "Ethan Van Sciver"
+      ],
+      "topic_terms": [
+        "will",
+        "get",
+        "that's",
+        "see",
+        "can",
+        "i'm",
+        "don't",
+        "trust",
+        "out",
+        "votes"
+      ],
+      "context_text": "find out that you are in first place right now. Dan Law 49 votes. >> Look at it. >> That's good. >> Look at it. >> I still got to pee though. >> Okay, go pee. >> Uh let me see. Uh [clears throat] uh total votes 161. >> Uh can we let's try to get to 200. I think it's looking like we can get to 200 possibly. >> You can do it, Chad. >> I'm not in this contest, guys. Don't vote for me. >> You are. You got six votes. Our readers are >> Bill, you're destroying. >> I think Dan cheated. He brought out boobs. >> No, he won with the boobs. That's the key. >> That's all you have to do really. I mean, if you just draw boobies, uh, you're going to do real well. >> Ivy would have been a great one. >> Uh, let me see some super chats. Uh, Shane, will Back Me bro have any APIs available? Combo one, >> what an API is? Yeah, I don't know either. Uh, Mike TVDub says, \"Are Nine lives accounts being migrated to Backme?\" >> No, Nine Lives comics uh will be the same. Um, it'll run the same. I will put my campaigns up on BackMe Bro, but there is no migration. Uh, that there are two separate sites. >> Aaron Sleepers here. He says, \"Evs, it's funny. My W was self's not likely to ever get a chance to work with DC, but over the years I've ended up doing steampunk versions of most DC characters. I've seen Billy's I think Billyy's seen some of my portfolio. My point is there are plenty of good ideas still out there 100%. >> Back to comic book one's uh super chat. That was a tech thing and that I'm not the tech guy. That's Jonzie. So uh I I don't know comic book one. >> Uh let me see. John Shepard says think Charlie fell asleep on stream. I just heard like uh of somebody in a family member in the background talking to him. Uh, Headless Porsche says, \"The original golden age version of Plastic Man created by Jack Cole and originally published by Quality Comics is in the public domain.\" >> Oh. >> Oh, is it? >> Dang. >> I'm checking it right now to see what year will Plastic Man go in the public domain. >> Question for Vasilus. How many days the promotion will still be on the air? Because July have many specials everywhere. It's crazy, but I can't miss this uh t-shirt. >> You will get it. You will get it. Well, yeah. Well, I'm going to run it for a while. I just want people to get uh the chance to read Heunk. I know it's kind of like overpriced, but trust me, trust me, it's good. If you don't trust me, trust Ethan, he knows. [snorts] >> Yeah, Heunk is cool as hell. Uh John without an H says, \"Someone asked Shane when you guys can use BackMe, bro.\" Uh, well, we have a room for the closed beta that has a lot of people in it like John, Ethan, Billy, Graham, a lot of the kings. So, basically once it launches, fine. I mean, pretty much uh any week after or any whatever. But I I think people",
+      "supporting_quote_ids": [
+        "quote:Zd9PVsLAD5c:3839",
+        "quote:Zd9PVsLAD5c:3846",
+        "quote:Zd9PVsLAD5c:3859"
+      ],
+      "confidence": 0.68
+    },
+    {
+      "context_bundle_id": "bundle:Zd9PVsLAD5c:8674",
+      "video_id": "Zd9PVsLAD5c",
+      "title": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
+      "channel": "Ethan Van Sciver",
+      "published_at": "2026-07-07T04:26:42+00:00",
+      "start_seconds": 8599.0,
+      "end_seconds": 8779.0,
+      "start_display": "02:23:19",
+      "end_display": "02:26:19",
+      "receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=8599s",
+      "trigger_quote_id": "quote:Zd9PVsLAD5c:3859",
+      "trigger_receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=8674s",
+      "involved_entity_ids": [
+        "person:ethan-van-sciver"
+      ],
+      "involved_entity_names": [
+        "Ethan Van Sciver"
+      ],
+      "topic_terms": [
+        "will",
+        "get",
+        "see",
+        "trust",
+        "that's",
+        "mean",
+        "one",
+        "bro",
+        "any",
+        "don't"
+      ],
+      "context_text": ">> I think Dan cheated. He brought out boobs. >> No, he won with the boobs. That's the key. >> That's all you have to do really. I mean, if you just draw boobies, uh, you're going to do real well. >> Ivy would have been a great one. >> Uh, let me see some super chats. Uh, Shane, will Back Me bro have any APIs available? Combo one, >> what an API is? Yeah, I don't know either. Uh, Mike TVDub says, \"Are Nine lives accounts being migrated to Backme?\" >> No, Nine Lives comics uh will be the same. Um, it'll run the same. I will put my campaigns up on BackMe Bro, but there is no migration. Uh, that there are two separate sites. >> Aaron Sleepers here. He says, \"Evs, it's funny. My W was self's not likely to ever get a chance to work with DC, but over the years I've ended up doing steampunk versions of most DC characters. I've seen Billy's I think Billyy's seen some of my portfolio. My point is there are plenty of good ideas still out there 100%. >> Back to comic book one's uh super chat. That was a tech thing and that I'm not the tech guy. That's Jonzie. So uh I I don't know comic book one. >> Uh let me see. John Shepard says think Charlie fell asleep on stream. I just heard like uh of somebody in a family member in the background talking to him. Uh, Headless Porsche says, \"The original golden age version of Plastic Man created by Jack Cole and originally published by Quality Comics is in the public domain.\" >> Oh. >> Oh, is it? >> Dang. >> I'm checking it right now to see what year will Plastic Man go in the public domain. >> Question for Vasilus. How many days the promotion will still be on the air? Because July have many specials everywhere. It's crazy, but I can't miss this uh t-shirt. >> You will get it. You will get it. Well, yeah. Well, I'm going to run it for a while. I just want people to get uh the chance to read Heunk. I know it's kind of like overpriced, but trust me, trust me, it's good. If you don't trust me, trust Ethan, he knows. [snorts] >> Yeah, Heunk is cool as hell. Uh John without an H says, \"Someone asked Shane when you guys can use BackMe, bro.\" Uh, well, we have a room for the closed beta that has a lot of people in it like John, Ethan, Billy, Graham, a lot of the kings. So, basically once it launches, fine. I mean, pretty much uh any week after or any whatever. But I I think people should kind of not do them all at once. You know, >> you got to treat Here's the thing. Here's the thing. We got to treat like every campaign as a reason to get people to sign up accounts, right? So I mean basically what ideally you guys are going to see is a huge advertising campaign through multiple teams and multiple campaigns causing accounts to open up there for when it starts to become open beta or just open to the public. There's already a lot of",
+      "supporting_quote_ids": [
+        "quote:Zd9PVsLAD5c:3839",
+        "quote:Zd9PVsLAD5c:3846",
+        "quote:Zd9PVsLAD5c:3859"
+      ],
+      "confidence": 0.65
+    },
+    {
+      "context_bundle_id": "bundle:Zd9PVsLAD5c:9569",
+      "video_id": "Zd9PVsLAD5c",
+      "title": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
+      "channel": "Ethan Van Sciver",
+      "published_at": "2026-07-07T04:26:42+00:00",
+      "start_seconds": 9494.52,
+      "end_seconds": 9674.52,
+      "start_display": "02:38:14",
+      "end_display": "02:41:14",
+      "receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=9494s",
+      "trigger_quote_id": "quote:Zd9PVsLAD5c:4272",
+      "trigger_receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=9569s",
+      "involved_entity_ids": [
+        "person:frog-tony"
+      ],
+      "involved_entity_names": [
+        "Frog Tony"
+      ],
+      "topic_terms": [
+        "bid",
+        "thank",
+        "got",
+        "still",
+        "scarecrow",
+        "he's",
+        "blacks",
+        "lot",
+        "good",
+        "next"
+      ],
+      "context_text": "three. [music] Anybody have anything? 300. Two. Going once. >> Well, my Polish DNA is kicking in. Somebody said, \"Yep.\" Going twice. >> It's good to know it's still around. Still [music] floating in the Hasn't been bred out yet. Going three times. Draw Victor Zaz next even. I'm not a fan. Not really. I mean, I don't think anybody else is either. Fair warning. And sold. Sold. Oh, the Meteor 270, sir. >> Outstanding. >> Way to go. >> Hold on a second. Let me turn >> Thank you, Ethan, too. You let us sell to your customers. I really appreciate that. >> Uh, yeah, of course. No problem. Uh, all right. It's me next. Um, I drew Scarecrow. Uh, so I hope you like it. Um, my starting bid is, as usual, just 20 bucks. Uh, whatever it is, it is. Uh, have I've signed it there. Uh, there is our scarecrow. Uh, and uh, he's got teeth like Frog Tony, but uh, he's still uh, he's still pretty scary. >> He's got more teeth. >> Yeah, he does actually have more teeth than Frog Tony. That's amazing. >> Great placement of blacks, man. Great. >> Oh, thank you. Yeah, made it go quicker. I, you know, I'm sitting here studying what uh, Aaron Ley does, you know, and >> gets a lot done. Uh Shane does too uh by uh you know working um working a lot of blacks in there black colors. Um so this is uh $20 should be the first bid. We don't have a bid tonight. Oh, we got one. We got a $50 bid. Thank you, Rob Lego Patriot. That's beautiful. I appreciate that. It's uh you know, you don't you didn't have to do that. You could have just said $20. Um $50. So we're looking for $60 then the next bid. I'll put this in close so you can see the uh exquisite detail of Scarecrow. >> It's so good. >> Ron Martin says, \"I voted this scarecrow.\" Uh damn, it's good. Thank you so much. Uh Lopez kind of cheats with his blacks, says Gendo. 32. >> How do you cheat with blacks? >> Well, that's a load of questions. >> Nickels. >> There's a lot there, Dan. There's a lot there. Just as I finish the sentence, I'm like, \"Oh.\" [laughter] >> Uh, Lion Harts, if your $75 is a bid, you should put confirmed after it like this, so we know it's real. So, just put a number and then write confirmed. And, uh, we got $100 from Doc Barooi. Thank you for that. I appreciate it. Lol. Nipples says, \"Uh, [ __ ] You see nipples on this?\" 150 from Matt Matt.",
+      "supporting_quote_ids": [
+        "quote:Zd9PVsLAD5c:4272",
+        "quote:Zd9PVsLAD5c:4276"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "context_bundle_id": "bundle:Zd9PVsLAD5c:9578",
+      "video_id": "Zd9PVsLAD5c",
+      "title": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
+      "channel": "Ethan Van Sciver",
+      "published_at": "2026-07-07T04:26:42+00:00",
+      "start_seconds": 9503.319,
+      "end_seconds": 9683.319,
+      "start_display": "02:38:23",
+      "end_display": "02:41:23",
+      "receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=9503s",
+      "trigger_quote_id": "quote:Zd9PVsLAD5c:4276",
+      "trigger_receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=9578s",
+      "involved_entity_ids": [
+        "person:frog-tony"
+      ],
+      "involved_entity_names": [
+        "Frog Tony"
+      ],
+      "topic_terms": [
+        "thank",
+        "bid",
+        "got",
+        "still",
+        "appreciate",
+        "scarecrow",
+        "he's",
+        "blacks",
+        "lot",
+        "good"
+      ],
+      "context_text": "Going once. >> Well, my Polish DNA is kicking in. Somebody said, \"Yep.\" Going twice. >> It's good to know it's still around. Still [music] floating in the Hasn't been bred out yet. Going three times. Draw Victor Zaz next even. I'm not a fan. Not really. I mean, I don't think anybody else is either. Fair warning. And sold. Sold. Oh, the Meteor 270, sir. >> Outstanding. >> Way to go. >> Hold on a second. Let me turn >> Thank you, Ethan, too. You let us sell to your customers. I really appreciate that. >> Uh, yeah, of course. No problem. Uh, all right. It's me next. Um, I drew Scarecrow. Uh, so I hope you like it. Um, my starting bid is, as usual, just 20 bucks. Uh, whatever it is, it is. Uh, have I've signed it there. Uh, there is our scarecrow. Uh, and uh, he's got teeth like Frog Tony, but uh, he's still uh, he's still pretty scary. >> He's got more teeth. >> Yeah, he does actually have more teeth than Frog Tony. That's amazing. >> Great placement of blacks, man. Great. >> Oh, thank you. Yeah, made it go quicker. I, you know, I'm sitting here studying what uh, Aaron Ley does, you know, and >> gets a lot done. Uh Shane does too uh by uh you know working um working a lot of blacks in there black colors. Um so this is uh $20 should be the first bid. We don't have a bid tonight. Oh, we got one. We got a $50 bid. Thank you, Rob Lego Patriot. That's beautiful. I appreciate that. It's uh you know, you don't you didn't have to do that. You could have just said $20. Um $50. So we're looking for $60 then the next bid. I'll put this in close so you can see the uh exquisite detail of Scarecrow. >> It's so good. >> Ron Martin says, \"I voted this scarecrow.\" Uh damn, it's good. Thank you so much. Uh Lopez kind of cheats with his blacks, says Gendo. 32. >> How do you cheat with blacks? >> Well, that's a load of questions. >> Nickels. >> There's a lot there, Dan. There's a lot there. Just as I finish the sentence, I'm like, \"Oh.\" [laughter] >> Uh, Lion Harts, if your $75 is a bid, you should put confirmed after it like this, so we know it's real. So, just put a number and then write confirmed. And, uh, we got $100 from Doc Barooi. Thank you for that. I appreciate it. Lol. Nipples says, \"Uh, [ __ ] You see nipples on this?\" 150 from Matt Matt. Matt 77. Thank you so much. Yeah, I appreciate it. Uh 110 says, \"Lharts.\" Yeah, you you got the idea.",
+      "supporting_quote_ids": [
+        "quote:Zd9PVsLAD5c:4272",
+        "quote:Zd9PVsLAD5c:4276"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "narratives": [
+    {
+      "narrative_unit_id": "narrative:Zd9PVsLAD5c:1266",
+      "context_bundle_id": "bundle:Zd9PVsLAD5c:1266",
+      "headline": "Ethan Van Sciver: i'm / man / good / mean",
+      "summary": ">> Darcipia says, \"Ethan EVS is not happy that Malon called him a cheater.\" Well, who would be happy with that? >> I want to know what you made of the movie Obsession because I saw you saw that and you're the only person in my age demo I know who's seen it and so I want to get your take on it because I'm a horror fan. There's no I people you can ask yourself this question that somebody said like um what would you wish for and I was like um I guess like I would just wish for tremendously good luck",
+      "people_involved": [
+        "Ethan Van Sciver"
+      ],
+      "topic_terms": [
+        "i'm",
+        "man",
+        "good",
+        "mean",
+        "that's",
+        "sean",
+        "did",
+        "wish",
+        "always",
+        "little"
+      ],
+      "supporting_quote_ids": [
+        "quote:Zd9PVsLAD5c:477"
+      ],
+      "uncertainties": [
+        "contains_uncertain_language"
+      ],
+      "evidence": {
+        "video_title": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
+        "channel": "Ethan Van Sciver",
+        "published_at": "2026-07-07T04:26:42+00:00",
+        "timestamp": "21:06",
+        "receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=1266s",
+        "context_receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=1191s"
+      },
+      "confidence": 0.68,
+      "review_status": "automatic_extract"
+    },
+    {
+      "narrative_unit_id": "narrative:Zd9PVsLAD5c:6566",
+      "context_bundle_id": "bundle:Zd9PVsLAD5c:6566",
+      "headline": "Ethan Van Sciver: i'm / all / music / comic",
+      "summary": ">> I don't dislike too [music] many people in our business, but Tony would qualify if I gave enough of a [ __ ] about him to care. >> Yes, he posted that. A highlevel Marvel comics editor getting personal and uh undermining uh one of the biggest writers at DC Comics would never ever ever happen.",
+      "people_involved": [
+        "Ethan Van Sciver"
+      ],
+      "topic_terms": [
+        "i'm",
+        "all",
+        "music",
+        "comic",
+        "did",
+        "that's",
+        "remember",
+        "ethan",
+        "book",
+        "sing"
+      ],
+      "supporting_quote_ids": [
+        "quote:Zd9PVsLAD5c:2891",
+        "quote:Zd9PVsLAD5c:2896",
+        "quote:Zd9PVsLAD5c:2897"
+      ],
+      "uncertainties": [],
+      "evidence": {
+        "video_title": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
+        "channel": "Ethan Van Sciver",
+        "published_at": "2026-07-07T04:26:42+00:00",
+        "timestamp": "01:49:26",
+        "receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=6566s",
+        "context_receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=6491s"
+      },
+      "confidence": 1.0,
+      "review_status": "automatic_extract"
+    },
+    {
+      "narrative_unit_id": "narrative:Zd9PVsLAD5c:6578",
+      "context_bundle_id": "bundle:Zd9PVsLAD5c:6578",
+      "headline": "Ethan Van Sciver: i'm / all / music / comic",
+      "summary": ">> I don't dislike too [music] many people in our business, but Tony would qualify if I gave enough of a [ __ ] about him to care. >> Yes, he posted that. A highlevel Marvel comics editor getting personal and uh undermining uh one of the biggest writers at DC Comics would never ever ever happen.",
+      "people_involved": [
+        "Ethan Van Sciver"
+      ],
+      "topic_terms": [
+        "i'm",
+        "all",
+        "music",
+        "comic",
+        "did",
+        "that's",
+        "remember",
+        "ethan",
+        "book",
+        "sure"
+      ],
+      "supporting_quote_ids": [
+        "quote:Zd9PVsLAD5c:2891",
+        "quote:Zd9PVsLAD5c:2896",
+        "quote:Zd9PVsLAD5c:2897"
+      ],
+      "uncertainties": [],
+      "evidence": {
+        "video_title": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
+        "channel": "Ethan Van Sciver",
+        "published_at": "2026-07-07T04:26:42+00:00",
+        "timestamp": "01:49:38",
+        "receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=6578s",
+        "context_receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=6503s"
+      },
+      "confidence": 0.65,
+      "review_status": "automatic_extract"
+    },
+    {
+      "narrative_unit_id": "narrative:Zd9PVsLAD5c:7973",
+      "context_bundle_id": "bundle:Zd9PVsLAD5c:7973",
+      "headline": "Liam Gray: i'm / don't / keep / moon",
+      "summary": ">> Yeah, I don't keep secrets when they're about gossip and Liam Gray. It's like it starts off they're watching the first man on the moon and um he comes out and he plants a Russian flag and you're watching it through one of the astronauts that were before I guess Buzz Aldrin's whatever Apollo like So you follow him and he's kind of like I could have been the first person on the moon but I was too chicken [ __ ] to land and disobey orders.",
+      "people_involved": [
+        "Liam Gray"
+      ],
+      "topic_terms": [
+        "i'm",
+        "don't",
+        "keep",
+        "moon",
+        "one",
+        "shane",
+        "first",
+        "he's",
+        "profits",
+        "happy"
+      ],
+      "supporting_quote_ids": [
+        "quote:Zd9PVsLAD5c:3543"
+      ],
+      "uncertainties": [
+        "contains_uncertain_language"
+      ],
+      "evidence": {
+        "video_title": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
+        "channel": "Ethan Van Sciver",
+        "published_at": "2026-07-07T04:26:42+00:00",
+        "timestamp": "02:12:53",
+        "receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=7973s",
+        "context_receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=7898s"
+      },
+      "confidence": 1.0,
+      "review_status": "automatic_extract"
+    },
+    {
+      "narrative_unit_id": "narrative:Zd9PVsLAD5c:8627",
+      "context_bundle_id": "bundle:Zd9PVsLAD5c:8627",
+      "headline": "Ethan Van Sciver: will / get / see / good",
+      "summary": "Uh, Mike TVDub says, \"Are Nine lives accounts being migrated to Backme?\" Uh, Headless Porsche says, \"The original golden age version of Plastic Man created by Jack Cole and originally published by Quality Comics is in the public domain.\" Uh John without an H says, \"Someone asked Shane when you guys can use BackMe, bro.\" Uh,",
+      "people_involved": [
+        "Ethan Van Sciver"
+      ],
+      "topic_terms": [
+        "will",
+        "get",
+        "see",
+        "good",
+        "out",
+        "that's",
+        "can",
+        "i'm",
+        "don't",
+        "trust"
+      ],
+      "supporting_quote_ids": [
+        "quote:Zd9PVsLAD5c:3839",
+        "quote:Zd9PVsLAD5c:3846",
+        "quote:Zd9PVsLAD5c:3859"
+      ],
+      "uncertainties": [
+        "contains_uncertain_language"
+      ],
+      "evidence": {
+        "video_title": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
+        "channel": "Ethan Van Sciver",
+        "published_at": "2026-07-07T04:26:42+00:00",
+        "timestamp": "02:23:47",
+        "receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=8627s",
+        "context_receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=8552s"
+      },
+      "confidence": 0.65,
+      "review_status": "automatic_extract"
+    },
+    {
+      "narrative_unit_id": "narrative:Zd9PVsLAD5c:8644",
+      "context_bundle_id": "bundle:Zd9PVsLAD5c:8644",
+      "headline": "Ethan Van Sciver: will / get / that's / see",
+      "summary": "Uh, Mike TVDub says, \"Are Nine lives accounts being migrated to Backme?\" Uh, Headless Porsche says, \"The original golden age version of Plastic Man created by Jack Cole and originally published by Quality Comics is in the public domain.\" Uh John without an H says, \"Someone asked Shane when you guys can use BackMe, bro.\" Uh, well, we have a room for the closed beta that has a lot of people in it like John, Ethan, Billy, Graham, a lot of the kings.",
+      "people_involved": [
+        "Ethan Van Sciver"
+      ],
+      "topic_terms": [
+        "will",
+        "get",
+        "that's",
+        "see",
+        "can",
+        "i'm",
+        "don't",
+        "trust",
+        "out",
+        "votes"
+      ],
+      "supporting_quote_ids": [
+        "quote:Zd9PVsLAD5c:3839",
+        "quote:Zd9PVsLAD5c:3846",
+        "quote:Zd9PVsLAD5c:3859"
+      ],
+      "uncertainties": [
+        "contains_uncertain_language"
+      ],
+      "evidence": {
+        "video_title": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
+        "channel": "Ethan Van Sciver",
+        "published_at": "2026-07-07T04:26:42+00:00",
+        "timestamp": "02:24:04",
+        "receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=8644s",
+        "context_receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=8569s"
+      },
+      "confidence": 0.68,
+      "review_status": "automatic_extract"
+    },
+    {
+      "narrative_unit_id": "narrative:Zd9PVsLAD5c:8674",
+      "context_bundle_id": "bundle:Zd9PVsLAD5c:8674",
+      "headline": "Ethan Van Sciver: will / get / see / trust",
+      "summary": "Uh, Headless Porsche says, \"The original golden age version of Plastic Man created by Jack Cole and originally published by Quality Comics is in the public domain.\" Uh John without an H says, \"Someone asked Shane when you guys can use BackMe, bro.\" Uh, well, we have a room for the closed beta that has a lot of people in it like John, Ethan, Billy, Graham, a lot of the kings. So I mean basically what ideally you guys are going to see is a huge advertising campaign through multiple teams and multiple campaigns causing accounts to open up there for when it starts to become open beta or just open to the public.",
+      "people_involved": [
+        "Ethan Van Sciver"
+      ],
+      "topic_terms": [
+        "will",
+        "get",
+        "see",
+        "trust",
+        "that's",
+        "mean",
+        "one",
+        "bro",
+        "any",
+        "don't"
+      ],
+      "supporting_quote_ids": [
+        "quote:Zd9PVsLAD5c:3839",
+        "quote:Zd9PVsLAD5c:3846",
+        "quote:Zd9PVsLAD5c:3859"
+      ],
+      "uncertainties": [
+        "contains_uncertain_language"
+      ],
+      "evidence": {
+        "video_title": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
+        "channel": "Ethan Van Sciver",
+        "published_at": "2026-07-07T04:26:42+00:00",
+        "timestamp": "02:24:34",
+        "receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=8674s",
+        "context_receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=8599s"
+      },
+      "confidence": 0.65,
+      "review_status": "automatic_extract"
+    },
+    {
+      "narrative_unit_id": "narrative:Zd9PVsLAD5c:9569",
+      "context_bundle_id": "bundle:Zd9PVsLAD5c:9569",
+      "headline": "Frog Tony: bid / thank / got / still",
+      "summary": "Uh, and uh, he's got teeth like Frog Tony, but uh, he's still uh, he's still pretty scary. >> Yeah, he does actually have more teeth than Frog Tony. Nipples says, \"Uh, [ __ ] You see nipples on this?\" 150 from Matt Matt.",
+      "people_involved": [
+        "Frog Tony"
+      ],
+      "topic_terms": [
+        "bid",
+        "thank",
+        "got",
+        "still",
+        "scarecrow",
+        "he's",
+        "blacks",
+        "lot",
+        "good",
+        "next"
+      ],
+      "supporting_quote_ids": [
+        "quote:Zd9PVsLAD5c:4272",
+        "quote:Zd9PVsLAD5c:4276"
+      ],
+      "uncertainties": [],
+      "evidence": {
+        "video_title": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
+        "channel": "Ethan Van Sciver",
+        "published_at": "2026-07-07T04:26:42+00:00",
+        "timestamp": "02:39:29",
+        "receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=9569s",
+        "context_receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=9494s"
+      },
+      "confidence": 1.0,
+      "review_status": "automatic_extract"
+    },
+    {
+      "narrative_unit_id": "narrative:Zd9PVsLAD5c:9578",
+      "context_bundle_id": "bundle:Zd9PVsLAD5c:9578",
+      "headline": "Frog Tony: thank / bid / got / still",
+      "summary": "Uh, and uh, he's got teeth like Frog Tony, but uh, he's still uh, he's still pretty scary. >> Yeah, he does actually have more teeth than Frog Tony. Nipples says, \"Uh, [ __ ] You see nipples on this?\" 150 from Matt Matt.",
+      "people_involved": [
+        "Frog Tony"
+      ],
+      "topic_terms": [
+        "thank",
+        "bid",
+        "got",
+        "still",
+        "appreciate",
+        "scarecrow",
+        "he's",
+        "blacks",
+        "lot",
+        "good"
+      ],
+      "supporting_quote_ids": [
+        "quote:Zd9PVsLAD5c:4272",
+        "quote:Zd9PVsLAD5c:4276"
+      ],
+      "uncertainties": [],
+      "evidence": {
+        "video_title": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
+        "channel": "Ethan Van Sciver",
+        "published_at": "2026-07-07T04:26:42+00:00",
+        "timestamp": "02:39:38",
+        "receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=9578s",
+        "context_receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=9503s"
+      },
+      "confidence": 1.0,
+      "review_status": "automatic_extract"
+    }
+  ]
+}

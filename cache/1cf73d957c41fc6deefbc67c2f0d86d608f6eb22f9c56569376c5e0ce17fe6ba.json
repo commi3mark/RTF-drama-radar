@@ -1,0 +1,609 @@
+{
+  "occurrences": [
+    {
+      "occurrence_id": "occurrence:LS_14uOaG2E:978:person:liam-gray",
+      "entity_id": "person:liam-gray",
+      "matched_alias": "Liam Gray",
+      "confidence": 1.0,
+      "video_id": "LS_14uOaG2E",
+      "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "source": "Ethan Van Sciver",
+      "published": "2026-07-13T23:19:06+00:00",
+      "segment_index": 978,
+      "start": 2371.839,
+      "timestamp": "39:31",
+      "quote": ">> Oh, that was Liam. Liam Gray, right?",
+      "receipt_url": "https://www.youtube.com/watch?v=LS_14uOaG2E&t=2371s",
+      "transcript_file": "transcripts/2026/07/#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES! [LS_14uOaG2E].json"
+    },
+    {
+      "occurrence_id": "occurrence:LS_14uOaG2E:2910:person:ethan-van-sciver",
+      "entity_id": "person:ethan-van-sciver",
+      "matched_alias": "Ethan Van Skyver",
+      "confidence": 1.0,
+      "video_id": "LS_14uOaG2E",
+      "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "source": "Ethan Van Sciver",
+      "published": "2026-07-13T23:19:06+00:00",
+      "segment_index": 2910,
+      "start": 6679.199,
+      "timestamp": "01:51:19",
+      "quote": "Ethan Van Skyver. Uh, Warski laughed and",
+      "receipt_url": "https://www.youtube.com/watch?v=LS_14uOaG2E&t=6679s",
+      "transcript_file": "transcripts/2026/07/#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES! [LS_14uOaG2E].json"
+    },
+    {
+      "occurrence_id": "occurrence:LS_14uOaG2E:4369:person:ethan-van-sciver",
+      "entity_id": "person:ethan-van-sciver",
+      "matched_alias": "Ethan Van Skyver",
+      "confidence": 1.0,
+      "video_id": "LS_14uOaG2E",
+      "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "source": "Ethan Van Sciver",
+      "published": "2026-07-13T23:19:06+00:00",
+      "segment_index": 4369,
+      "start": 9854.16,
+      "timestamp": "02:44:14",
+      "quote": ">> Ethan Van Skyver pulling out nonstop",
+      "receipt_url": "https://www.youtube.com/watch?v=LS_14uOaG2E&t=9854s",
+      "transcript_file": "transcripts/2026/07/#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES! [LS_14uOaG2E].json"
+    },
+    {
+      "occurrence_id": "occurrence:LS_14uOaG2E:4893:person:liam-gray",
+      "entity_id": "person:liam-gray",
+      "matched_alias": "Liam Gray",
+      "confidence": 1.0,
+      "video_id": "LS_14uOaG2E",
+      "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "source": "Ethan Van Sciver",
+      "published": "2026-07-13T23:19:06+00:00",
+      "segment_index": 4893,
+      "start": 11061.04,
+      "timestamp": "03:04:21",
+      "quote": ">> Three. And what what's Liam Gray? He's",
+      "receipt_url": "https://www.youtube.com/watch?v=LS_14uOaG2E&t=11061s",
+      "transcript_file": "transcripts/2026/07/#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES! [LS_14uOaG2E].json"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_id": "quote:LS_14uOaG2E:978",
+      "exact_text": ">> Oh, that was Liam. Liam Gray, right?",
+      "video_id": "LS_14uOaG2E",
+      "video_title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "channel": "Ethan Van Sciver",
+      "published_at": "2026-07-13T23:19:06+00:00",
+      "timestamp_seconds": 2371.839,
+      "timestamp_display": "39:31",
+      "receipt_url": "https://www.youtube.com/watch?v=LS_14uOaG2E&t=2371s",
+      "transcript_file": "transcripts/2026/07/#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES! [LS_14uOaG2E].json",
+      "direct_entity_ids": [
+        "person:liam-gray"
+      ],
+      "nearby_entity_ids": [
+        "person:liam-gray"
+      ],
+      "context_text": "uh Irene on the show was a chance to kind of upset Heather Rantos. >> Yeah. Yeah. >> Yeah. [laughter] Nice. >> William makes the best memes. >> Who? Who? What? >> Like I like Everybody's already forgot about the guy. He makes the best memes. Liam. >> Oh, subject or as a >> No, the bring them to me now thing was >> Oh, yeah. Yeah. >> Oh, that was Liam. Liam Gray, right? That guy. >> Oh, yeah. >> Yeah. >> Who's that? Adventures with kangaroos and boomerangs. >> What's up, man? You coming over every day now? I appreciate it. Here's a Hunter. >> Yeah, we're doing vampires today, buddy. >> Vampires. >> Yo yo yo. I was just in the neighborhood working. >> How's it going? >> Figure. >> Let me stop by. You see what I mean?",
+      "context_before": ">> Oh, yeah. Yeah.",
+      "context_after": "That guy.",
+      "quote_type": "transcript_line",
+      "confidence": 1.0
+    },
+    {
+      "quote_id": "quote:LS_14uOaG2E:2906",
+      "exact_text": "says, \"Finally caught up. Uh, caught",
+      "video_id": "LS_14uOaG2E",
+      "video_title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "channel": "Ethan Van Sciver",
+      "published_at": "2026-07-13T23:19:06+00:00",
+      "timestamp_seconds": 6668.8,
+      "timestamp_display": "01:51:08",
+      "receipt_url": "https://www.youtube.com/watch?v=LS_14uOaG2E&t=6668s",
+      "transcript_file": "transcripts/2026/07/#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES! [LS_14uOaG2E].json",
+      "direct_entity_ids": [],
+      "nearby_entity_ids": [
+        "person:ethan-van-sciver"
+      ],
+      "context_text": ">> Well, you know, I kept seeing his his work online. I'm like, \"Holy [ __ ] this guy can draw like a son of a gun.\" You know? >> You didn't know Charlie Snogens from uh Fatal and uh >> Clint I knew it, but I just kept seeing it, you know, like it like it kept coming back like, \"Oh gosh, you know, this guy is so good.\" You know, he's in the current stuff. It's he keeps doing it, you know? He keeps doing great stuff. >> It's like this weird cross between like Neil Adams and uh Howard Shaken. Um, it's really good. Uh, Josem M for $20 says, \"Finally caught up. Uh, caught your five part raw high kid review on a long drive. Sturgeis turned on CG over JSOM. Once on Kino Casino PPP said, Safa Ethan Van Skyver. Uh, Warski laughed and read a comment saying Safa Evan. It might have been a yellow [ __ ] comment.\" Yeah, yellow [ __ ] love. I mean, Yellow Flash loves Kino Casino, and I think he's the one who kind of spurs them on. Like, you guys have to attack, but that's what it is. I mean, that's part of, you know, the punishment for criticizing Eric. Comic one says, uh,",
+      "context_before": "it's really good. Uh, Josem M for $20",
+      "context_after": "your five part raw high kid review on a",
+      "quote_type": "chat_or_quote_readout",
+      "confidence": 0.65
+    },
+    {
+      "quote_id": "quote:LS_14uOaG2E:2909",
+      "exact_text": "JSOM. Once on Kino Casino PPP said, Safa",
+      "video_id": "LS_14uOaG2E",
+      "video_title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "channel": "Ethan Van Sciver",
+      "published_at": "2026-07-13T23:19:06+00:00",
+      "timestamp_seconds": 6675.52,
+      "timestamp_display": "01:51:15",
+      "receipt_url": "https://www.youtube.com/watch?v=LS_14uOaG2E&t=6675s",
+      "transcript_file": "transcripts/2026/07/#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES! [LS_14uOaG2E].json",
+      "direct_entity_ids": [],
+      "nearby_entity_ids": [
+        "person:ethan-van-sciver"
+      ],
+      "context_text": "Fatal and uh >> Clint I knew it, but I just kept seeing it, you know, like it like it kept coming back like, \"Oh gosh, you know, this guy is so good.\" You know, he's in the current stuff. It's he keeps doing it, you know? He keeps doing great stuff. >> It's like this weird cross between like Neil Adams and uh Howard Shaken. Um, it's really good. Uh, Josem M for $20 says, \"Finally caught up. Uh, caught your five part raw high kid review on a long drive. Sturgeis turned on CG over JSOM. Once on Kino Casino PPP said, Safa Ethan Van Skyver. Uh, Warski laughed and read a comment saying Safa Evan. It might have been a yellow [ __ ] comment.\" Yeah, yellow [ __ ] love. I mean, Yellow Flash loves Kino Casino, and I think he's the one who kind of spurs them on. Like, you guys have to attack, but that's what it is. I mean, that's part of, you know, the punishment for criticizing Eric. Comic one says, uh, uh, EJ Morris, $200 confirmed. You wait your turn. Uh, and by the way, thank you. I hope somebody bids on EJ's. Uh,",
+      "context_before": "long drive. Sturgeis turned on CG over",
+      "context_after": "Ethan Van Skyver. Uh, Warski laughed and",
+      "quote_type": "transcript_line",
+      "confidence": 0.65
+    },
+    {
+      "quote_id": "quote:LS_14uOaG2E:2910",
+      "exact_text": "Ethan Van Skyver. Uh, Warski laughed and",
+      "video_id": "LS_14uOaG2E",
+      "video_title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "channel": "Ethan Van Sciver",
+      "published_at": "2026-07-13T23:19:06+00:00",
+      "timestamp_seconds": 6679.199,
+      "timestamp_display": "01:51:19",
+      "receipt_url": "https://www.youtube.com/watch?v=LS_14uOaG2E&t=6679s",
+      "transcript_file": "transcripts/2026/07/#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES! [LS_14uOaG2E].json",
+      "direct_entity_ids": [
+        "person:ethan-van-sciver"
+      ],
+      "nearby_entity_ids": [
+        "person:ethan-van-sciver"
+      ],
+      "context_text": "it, you know, like it like it kept coming back like, \"Oh gosh, you know, this guy is so good.\" You know, he's in the current stuff. It's he keeps doing it, you know? He keeps doing great stuff. >> It's like this weird cross between like Neil Adams and uh Howard Shaken. Um, it's really good. Uh, Josem M for $20 says, \"Finally caught up. Uh, caught your five part raw high kid review on a long drive. Sturgeis turned on CG over JSOM. Once on Kino Casino PPP said, Safa Ethan Van Skyver. Uh, Warski laughed and read a comment saying Safa Evan. It might have been a yellow [ __ ] comment.\" Yeah, yellow [ __ ] love. I mean, Yellow Flash loves Kino Casino, and I think he's the one who kind of spurs them on. Like, you guys have to attack, but that's what it is. I mean, that's part of, you know, the punishment for criticizing Eric. Comic one says, uh, uh, EJ Morris, $200 confirmed. You wait your turn. Uh, and by the way, thank you. I hope somebody bids on EJ's. Uh, last week, uh, he didn't get a bidder and it was it pissed me off. Uh, Leon",
+      "context_before": "JSOM. Once on Kino Casino PPP said, Safa",
+      "context_after": "read a comment saying Safa Evan. It",
+      "quote_type": "transcript_line",
+      "confidence": 1.0
+    },
+    {
+      "quote_id": "quote:LS_14uOaG2E:2919",
+      "exact_text": "criticizing Eric. Comic one says, uh,",
+      "video_id": "LS_14uOaG2E",
+      "video_title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "channel": "Ethan Van Sciver",
+      "published_at": "2026-07-13T23:19:06+00:00",
+      "timestamp_seconds": 6697.28,
+      "timestamp_display": "01:51:37",
+      "receipt_url": "https://www.youtube.com/watch?v=LS_14uOaG2E&t=6697s",
+      "transcript_file": "transcripts/2026/07/#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES! [LS_14uOaG2E].json",
+      "direct_entity_ids": [],
+      "nearby_entity_ids": [
+        "person:ethan-van-sciver"
+      ],
+      "context_text": "says, \"Finally caught up. Uh, caught your five part raw high kid review on a long drive. Sturgeis turned on CG over JSOM. Once on Kino Casino PPP said, Safa Ethan Van Skyver. Uh, Warski laughed and read a comment saying Safa Evan. It might have been a yellow [ __ ] comment.\" Yeah, yellow [ __ ] love. I mean, Yellow Flash loves Kino Casino, and I think he's the one who kind of spurs them on. Like, you guys have to attack, but that's what it is. I mean, that's part of, you know, the punishment for criticizing Eric. Comic one says, uh, uh, EJ Morris, $200 confirmed. You wait your turn. Uh, and by the way, thank you. I hope somebody bids on EJ's. Uh, last week, uh, he didn't get a bidder and it was it pissed me off. Uh, Leon K24 says, \"Rip SM Neil, my favorite version of Merlin. Epic soundtrack. >> Yep. >> Uh [clears throat] Shane, do you take meds for your mood swings? Woo. That's Oson 99mium. [laughter] >> I know you don't have comment on one",
+      "context_before": "of, you know, the punishment for",
+      "context_after": "uh, EJ Morris, $200 confirmed. You wait",
+      "quote_type": "chat_or_quote_readout",
+      "confidence": 0.65
+    },
+    {
+      "quote_id": "quote:LS_14uOaG2E:4369",
+      "exact_text": ">> Ethan Van Skyver pulling out nonstop",
+      "video_id": "LS_14uOaG2E",
+      "video_title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "channel": "Ethan Van Sciver",
+      "published_at": "2026-07-13T23:19:06+00:00",
+      "timestamp_seconds": 9854.16,
+      "timestamp_display": "02:44:14",
+      "receipt_url": "https://www.youtube.com/watch?v=LS_14uOaG2E&t=9854s",
+      "transcript_file": "transcripts/2026/07/#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES! [LS_14uOaG2E].json",
+      "direct_entity_ids": [
+        "person:ethan-van-sciver"
+      ],
+      "nearby_entity_ids": [
+        "person:ethan-van-sciver"
+      ],
+      "context_text": "cuz she was like a goth girl. Um and she wore like an anchor around her neck which was kind of cool. >> Yeah. Uh okay. I'm going to do a countdown. $100 is cool. nine 110 from a the serious man. Be a serious man. >> Like slow your roll, Ethan. Give these times guy get these guys get their card out. They're over here trying to throw some money. >> Ethan Van Skyver pulling out nonstop here. Uh nobody John couldn't have thought of silhouetting a vampire. He >> But he would never thought it out. >> He would have John would have done this. See, that's the thing. Like I'm fully aware John would have silhouetted the vampire. >> Yeah, >> that's what he does, you know. And in fact, I was looking today at uh you know um Black Riding Hood number one. Yeah, he likes to do stuff like that. So >> yeah, >> John's good at it. Um okay,",
+      "context_before": "some money.",
+      "context_after": "here. Uh nobody John couldn't have",
+      "quote_type": "transcript_line",
+      "confidence": 1.0
+    },
+    {
+      "quote_id": "quote:LS_14uOaG2E:4893",
+      "exact_text": ">> Three. And what what's Liam Gray? He's",
+      "video_id": "LS_14uOaG2E",
+      "video_title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "channel": "Ethan Van Sciver",
+      "published_at": "2026-07-13T23:19:06+00:00",
+      "timestamp_seconds": 11061.04,
+      "timestamp_display": "03:04:21",
+      "receipt_url": "https://www.youtube.com/watch?v=LS_14uOaG2E&t=11061s",
+      "transcript_file": "transcripts/2026/07/#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES! [LS_14uOaG2E].json",
+      "direct_entity_ids": [
+        "person:liam-gray"
+      ],
+      "nearby_entity_ids": [
+        "person:liam-gray"
+      ],
+      "context_text": "Who who aren't bothering him. >> He'll just be like and he'll like pull their pants down and peck him in the head and stuff and like what are you doing? The guy wasn't bo. He's just a dumb walus. Leave him alone. >> But Bugs is like, you know, living his best life and somebody comes in and tries to torment him in somewhere. take from him, kill him, and he's like, \"All right, that's it.\" >> Yeah. >> Or now it's war. >> Well, Euseity Sam is kind of like Liam Gray, you know. >> Yeah. >> Three. And what what's Liam Gray? He's just doing his own thing. >> Frustrated. Always nothing's working out like. >> So, yeah. But Liam is constantly like I mean every time I put on his show, you know, every time I watch his show, he's like sitting there going in on somebody. It's just like Jesus. >> I know. It's going once, going twice,",
+      "context_before": ">> Yeah.",
+      "context_after": "just doing his own thing.",
+      "quote_type": "transcript_line",
+      "confidence": 1.0
+    }
+  ],
+  "bundles": [
+    {
+      "context_bundle_id": "bundle:LS_14uOaG2E:2371",
+      "video_id": "LS_14uOaG2E",
+      "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "channel": "Ethan Van Sciver",
+      "published_at": "2026-07-13T23:19:06+00:00",
+      "start_seconds": 2296.839,
+      "end_seconds": 2476.839,
+      "start_display": "38:16",
+      "end_display": "41:16",
+      "receipt_url": "https://www.youtube.com/watch?v=LS_14uOaG2E&t=2296s",
+      "trigger_quote_id": "quote:LS_14uOaG2E:978",
+      "trigger_receipt_url": "https://www.youtube.com/watch?v=LS_14uOaG2E&t=2371s",
+      "involved_entity_ids": [
+        "person:liam-gray"
+      ],
+      "involved_entity_names": [
+        "Liam Gray"
+      ],
+      "topic_terms": [
+        "laughter",
+        "she's",
+        "now",
+        "heather",
+        "that's",
+        "best",
+        "bring",
+        "liam",
+        "what's",
+        "grab"
+      ],
+      "context_text": ">> She was writing the coattales of your uh uh Heather Anttos drama. Right. >> Not cool. >> Um >> yeah. No. Well, that was me. Like they said, \"Have you heard of Irene Strakowski?\" I said, \"No.\" And somebody said, \"Well, she's an artist for Marvel.\" I said, \"Oh, that's interesting. What has she done?\" >> Well, she did, you know, Gwenpool or whatever it was. >> Yeah. one of those. And uh I said they said she's Heather Antos's best friend, but she's defected from Marvel and she's like kind of hanging out with comic skaters. I went bring her to me now. [laughter] Bring her to me. Like that's great. So, you know, yeah, me having uh uh Irene on the show was a chance to kind of upset Heather Rantos. >> Yeah. Yeah. >> Yeah. [laughter] Nice. >> William makes the best memes. >> Who? Who? What? >> Like I like Everybody's already forgot about the guy. He makes the best memes. Liam. >> Oh, subject or as a >> No, the bring them to me now thing was >> Oh, yeah. Yeah. >> Oh, that was Liam. Liam Gray, right? That guy. >> Oh, yeah. >> Yeah. >> Who's that? Adventures with kangaroos and boomerangs. >> What's up, man? You coming over every day now? I appreciate it. Here's a Hunter. >> Yeah, we're doing vampires today, buddy. >> Vampires. >> Yo yo yo. I was just in the neighborhood working. >> How's it going? >> Figure. >> Let me stop by. You see what I mean? >> What's going on? [clears throat] I know what you mean. Yo, I'm done with the kids. I know what's up. [laughter] >> I'm hippity hopy opening. [laughter] By the way, you know, Ethan, you're talking about going back a ways. Um, I was thinking about this the other day. Does anybody have that grab andor speech that John Mailen made uh years, you know, years back? Because that's the thing that I remember hearing and I don't remember what it was what he said in it. All I remember is practically leaping out of my chair. It was really really inspirational and I I would love if somebody has that somewhere, >> can you dig that up and find it? I would love to hear that again. >> Also get on it ASAP. >> Yeah. Wouldn't that be cool to hear that again? cuz a famous I can I can recite it for you right now. >> All right, let's go. [laughter] >> Here it goes. I hope you all die. Grab an ore. >> Yeah, [laughter] >> that seemed a little bit longer than that. >> So much with that when I >> I love the impression. >> I said, \"Why grab an ore, Dan, when you",
+      "supporting_quote_ids": [
+        "quote:LS_14uOaG2E:978"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "context_bundle_id": "bundle:LS_14uOaG2E:6668",
+      "video_id": "LS_14uOaG2E",
+      "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "channel": "Ethan Van Sciver",
+      "published_at": "2026-07-13T23:19:06+00:00",
+      "start_seconds": 6593.8,
+      "end_seconds": 6773.8,
+      "start_display": "01:49:53",
+      "end_display": "01:52:53",
+      "receipt_url": "https://www.youtube.com/watch?v=LS_14uOaG2E&t=6593s",
+      "trigger_quote_id": "quote:LS_14uOaG2E:2906",
+      "trigger_receipt_url": "https://www.youtube.com/watch?v=LS_14uOaG2E&t=6668s",
+      "involved_entity_ids": [
+        "person:ethan-van-sciver"
+      ],
+      "involved_entity_names": [
+        "Ethan Van Sciver"
+      ],
+      "topic_terms": [
+        "that's",
+        "back",
+        "last",
+        "new",
+        "i'll",
+        "week",
+        "kept",
+        "i'm",
+        "didn't",
+        "charlie"
+      ],
+      "context_text": ">> Nope. >> I don't think he can't hear [laughter] that. That's the problem. Okay. >> Yeah. >> When you when I'll contact him afterwards say >> Okay. Troubleshooting. Sometimes when I use Streamyards, if I have uh too many tabs open or too operational systems for the internet like uh uh Firefox and uh Chrome open, I lose audio for some of the participants on the panel. So >> that happens. >> Okay. Well, I'll I'll contact him after the show and say, \"Hey buddy, let's go back and listen.\" >> Yeah. Yeah. You invited him, right? >> Last week I did. Yeah. Yeah. >> Well, you know, I kept seeing his his work online. I'm like, \"Holy [ __ ] this guy can draw like a son of a gun.\" You know? >> You didn't know Charlie Snogens from uh Fatal and uh >> Clint I knew it, but I just kept seeing it, you know, like it like it kept coming back like, \"Oh gosh, you know, this guy is so good.\" You know, he's in the current stuff. It's he keeps doing it, you know? He keeps doing great stuff. >> It's like this weird cross between like Neil Adams and uh Howard Shaken. Um, it's really good. Uh, Josem M for $20 says, \"Finally caught up. Uh, caught your five part raw high kid review on a long drive. Sturgeis turned on CG over JSOM. Once on Kino Casino PPP said, Safa Ethan Van Skyver. Uh, Warski laughed and read a comment saying Safa Evan. It might have been a yellow [ __ ] comment.\" Yeah, yellow [ __ ] love. I mean, Yellow Flash loves Kino Casino, and I think he's the one who kind of spurs them on. Like, you guys have to attack, but that's what it is. I mean, that's part of, you know, the punishment for criticizing Eric. Comic one says, uh, uh, EJ Morris, $200 confirmed. You wait your turn. Uh, and by the way, thank you. I hope somebody bids on EJ's. Uh, last week, uh, he didn't get a bidder and it was it pissed me off. Uh, Leon K24 says, \"Rip SM Neil, my favorite version of Merlin. Epic soundtrack. >> Yep. >> Uh [clears throat] Shane, do you take meds for your mood swings? Woo. That's Oson 99mium. [laughter] >> I know you don't have comment on one says, \"Go full screen on EJ. I see titties. That's why you bid.\" And then he says, \"Oh [ __ ] when I I made EJ go full screen.\" Odinson 99m says, \"Home home stretch kings. Let's bring it home with a little Huey Lewis in the news heart and soul.\" No more music. No more music. We're That's for draw streams that are by myself. People just want to be able to talk. ID Crisis Designs has been away for a while. I come back and first thing I see is Charlie goddamn Snogans. Blessings upon him. Yeah, it's great to have him. He came here last week, but he had like a connection problem. So, uh, he got he kicked himself out. Didn't Wasn't come back. >> Charlie, where do you live? >> I'm in New Jersey. Uh, I'm in Nutley, New Jersey. Uh, I grew up in Verona and um and just last night enjoyed the fairs of New Jersey and went down to New",
+      "supporting_quote_ids": [
+        "quote:LS_14uOaG2E:2906",
+        "quote:LS_14uOaG2E:2909",
+        "quote:LS_14uOaG2E:2910",
+        "quote:LS_14uOaG2E:2919"
+      ],
+      "confidence": 0.65
+    },
+    {
+      "context_bundle_id": "bundle:LS_14uOaG2E:6697",
+      "video_id": "LS_14uOaG2E",
+      "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "channel": "Ethan Van Sciver",
+      "published_at": "2026-07-13T23:19:06+00:00",
+      "start_seconds": 6622.28,
+      "end_seconds": 6802.28,
+      "start_display": "01:50:22",
+      "end_display": "01:53:22",
+      "receipt_url": "https://www.youtube.com/watch?v=LS_14uOaG2E&t=6622s",
+      "trigger_quote_id": "quote:LS_14uOaG2E:2919",
+      "trigger_receipt_url": "https://www.youtube.com/watch?v=LS_14uOaG2E&t=6697s",
+      "involved_entity_ids": [
+        "person:ethan-van-sciver"
+      ],
+      "involved_entity_names": [
+        "Ethan Van Sciver"
+      ],
+      "topic_terms": [
+        "that's",
+        "back",
+        "last",
+        "new",
+        "jersey",
+        "week",
+        "kept",
+        "i'm",
+        "didn't",
+        "charlie"
+      ],
+      "context_text": "the participants on the panel. So >> that happens. >> Okay. Well, I'll I'll contact him after the show and say, \"Hey buddy, let's go back and listen.\" >> Yeah. Yeah. You invited him, right? >> Last week I did. Yeah. Yeah. >> Well, you know, I kept seeing his his work online. I'm like, \"Holy [ __ ] this guy can draw like a son of a gun.\" You know? >> You didn't know Charlie Snogens from uh Fatal and uh >> Clint I knew it, but I just kept seeing it, you know, like it like it kept coming back like, \"Oh gosh, you know, this guy is so good.\" You know, he's in the current stuff. It's he keeps doing it, you know? He keeps doing great stuff. >> It's like this weird cross between like Neil Adams and uh Howard Shaken. Um, it's really good. Uh, Josem M for $20 says, \"Finally caught up. Uh, caught your five part raw high kid review on a long drive. Sturgeis turned on CG over JSOM. Once on Kino Casino PPP said, Safa Ethan Van Skyver. Uh, Warski laughed and read a comment saying Safa Evan. It might have been a yellow [ __ ] comment.\" Yeah, yellow [ __ ] love. I mean, Yellow Flash loves Kino Casino, and I think he's the one who kind of spurs them on. Like, you guys have to attack, but that's what it is. I mean, that's part of, you know, the punishment for criticizing Eric. Comic one says, uh, uh, EJ Morris, $200 confirmed. You wait your turn. Uh, and by the way, thank you. I hope somebody bids on EJ's. Uh, last week, uh, he didn't get a bidder and it was it pissed me off. Uh, Leon K24 says, \"Rip SM Neil, my favorite version of Merlin. Epic soundtrack. >> Yep. >> Uh [clears throat] Shane, do you take meds for your mood swings? Woo. That's Oson 99mium. [laughter] >> I know you don't have comment on one says, \"Go full screen on EJ. I see titties. That's why you bid.\" And then he says, \"Oh [ __ ] when I I made EJ go full screen.\" Odinson 99m says, \"Home home stretch kings. Let's bring it home with a little Huey Lewis in the news heart and soul.\" No more music. No more music. We're That's for draw streams that are by myself. People just want to be able to talk. ID Crisis Designs has been away for a while. I come back and first thing I see is Charlie goddamn Snogans. Blessings upon him. Yeah, it's great to have him. He came here last week, but he had like a connection problem. So, uh, he got he kicked himself out. Didn't Wasn't come back. >> Charlie, where do you live? >> I'm in New Jersey. Uh, I'm in Nutley, New Jersey. Uh, I grew up in Verona and um and just last night enjoyed the fairs of New Jersey and went down to New Jersey Pack Center and saw we took the kids to see Weird Al. >> It was >> the kids loved it. It was the greatest. I think it was the greatest live show I've ever seen. >> Really? >> It was phenomenal. >> It was incredible. The kids >> he puts on the costumes for every song. like he comes out and uh dressed like Michael Jackson for eat it, you know, >> and fat. >> He does the fat costume for fat. [laughter] >> He does the Nirvana costume for um the",
+      "supporting_quote_ids": [
+        "quote:LS_14uOaG2E:2906",
+        "quote:LS_14uOaG2E:2909",
+        "quote:LS_14uOaG2E:2910",
+        "quote:LS_14uOaG2E:2919"
+      ],
+      "confidence": 0.65
+    },
+    {
+      "context_bundle_id": "bundle:LS_14uOaG2E:9854",
+      "video_id": "LS_14uOaG2E",
+      "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "channel": "Ethan Van Sciver",
+      "published_at": "2026-07-13T23:19:06+00:00",
+      "start_seconds": 9779.16,
+      "end_seconds": 9959.16,
+      "start_display": "02:42:59",
+      "end_display": "02:45:59",
+      "receipt_url": "https://www.youtube.com/watch?v=LS_14uOaG2E&t=9779s",
+      "trigger_quote_id": "quote:LS_14uOaG2E:4369",
+      "trigger_receipt_url": "https://www.youtube.com/watch?v=LS_14uOaG2E&t=9854s",
+      "involved_entity_ids": [
+        "person:ethan-van-sciver"
+      ],
+      "involved_entity_names": [
+        "Ethan Van Sciver"
+      ],
+      "topic_terms": [
+        "get",
+        "that's",
+        "serious",
+        "man",
+        "don't",
+        "out",
+        "card",
+        "john",
+        "laughter",
+        "little"
+      ],
+      "context_text": ">> Uh David L says, \"This won't break 50.\" Well, that's fine. If if it's 20, that's good. Somebody's getting a deal. 50 from the serious man. >> Appreciate you. >> Um, she has a cross. So, how was she kidnapped? It's not a cross. >> It's an ank. >> I don't know. >> So, it's, you know, uh, represents Egyptian life. And so, uh, you know, >> was a big thing in the '9s, guys. Every girl had one. >> It was really popular back then. And I think it was because >> what kicked that off in the 90s? I don't really remember like whys were a big deal. >> Vertigo. >> Neil Gaiman. >> Yeah. >> Was it? >> Yeah. I think it was like Neil Gaiman's whole like Yeah. Vertigo and uh death cuz she was like a goth girl. Um and she wore like an anchor around her neck which was kind of cool. >> Yeah. Uh okay. I'm going to do a countdown. $100 is cool. nine 110 from a the serious man. Be a serious man. >> Like slow your roll, Ethan. Give these times guy get these guys get their card out. They're over here trying to throw some money. >> Ethan Van Skyver pulling out nonstop here. Uh nobody John couldn't have thought of silhouetting a vampire. He >> But he would never thought it out. >> He would have John would have done this. See, that's the thing. Like I'm fully aware John would have silhouetted the vampire. >> Yeah, >> that's what he does, you know. And in fact, I was looking today at uh you know um Black Riding Hood number one. Yeah, he likes to do stuff like that. So >> yeah, >> John's good at it. Um okay, uh let me do a countdown here. 120 is our top bid. Thank you. Bad Adam 12 says, \"I don't have time to get my card out, Shane.\" Here we go. Nine. >> Well, put your dick up and then work on that card. Badass. [laughter] >> Eight. How dare you? >> 7130 from the Asserious Man. >> Wow. [screaming] Looking a little bit more serious with that money. [laughter] >> We get some music on right now. Let me get uh Oh, I like this. >> Do it. Yeah. >> Uh, Juice Can say she's a little junky, bro. [music] Uh, I don't think so. Not at all. >> No way. No. >> No. >> Junky in the right places, you know. >> Got a hard Adams filled in the face. [music] >> Say something to the YouTube chat. >> Who is that YouTube chat? >> Watch your language, kids. Watch your language. Got a [laughter] kid. >> What is going on? hear a little child's voice. Is a Charlie Snogan's kid.",
+      "supporting_quote_ids": [
+        "quote:LS_14uOaG2E:4369"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "context_bundle_id": "bundle:LS_14uOaG2E:11061",
+      "video_id": "LS_14uOaG2E",
+      "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "channel": "Ethan Van Sciver",
+      "published_at": "2026-07-13T23:19:06+00:00",
+      "start_seconds": 10986.04,
+      "end_seconds": 11166.04,
+      "start_display": "03:03:06",
+      "end_display": "03:06:06",
+      "receipt_url": "https://www.youtube.com/watch?v=LS_14uOaG2E&t=10986s",
+      "trigger_quote_id": "quote:LS_14uOaG2E:4893",
+      "trigger_receipt_url": "https://www.youtube.com/watch?v=LS_14uOaG2E&t=11061s",
+      "involved_entity_ids": [
+        "person:liam-gray"
+      ],
+      "involved_entity_names": [
+        "Liam Gray"
+      ],
+      "topic_terms": [
+        "he's",
+        "all",
+        "that's",
+        "joe",
+        "good",
+        "down",
+        "bugs",
+        "woody",
+        "woodpecker",
+        "kind"
+      ],
+      "context_text": "them all through the 80s. >> Yeah. They were so violent. Oh my god. >> Good. >> Jeder times. Yep. >> It's truly funny. >> Yeah. And nobody looked at him and said, \"Hey, I want to duplicate that.\" You know? >> No. >> No. Of course not. Uh, all right. Let me count down. Nine. We all wanted to be clever like Bugs Bunny, though. >> And Bugs Bunny wasn't a bully like Woody Woodpecker. [clears throat and cough] >> Uh, eight. Seven. Hey, Woody Woodpecker. kind of an [ __ ] isn't he? Six. Yeah. >> Look at that. >> Five. Like Woody Woodpecker is a bully to stupid people, you know what I mean? Who who aren't bothering him. >> He'll just be like and he'll like pull their pants down and peck him in the head and stuff and like what are you doing? The guy wasn't bo. He's just a dumb walus. Leave him alone. >> But Bugs is like, you know, living his best life and somebody comes in and tries to torment him in somewhere. take from him, kill him, and he's like, \"All right, that's it.\" >> Yeah. >> Or now it's war. >> Well, Euseity Sam is kind of like Liam Gray, you know. >> Yeah. >> Three. And what what's Liam Gray? He's just doing his own thing. >> Frustrated. Always nothing's working out like. >> So, yeah. But Liam is constantly like I mean every time I put on his show, you know, every time I watch his show, he's like sitting there going in on somebody. It's just like Jesus. >> I know. It's going once, going twice, going three times. Fair warning. And sold the the a serious man for $60. Here we go. >> PayPal coming up. >> And Joe Santag is up. Joe Santag. Joe, what's your opening, bud? Your mute. You made it, bud. >> There we go. Um, just the regular standard 20. >> That's crazy. That's so good. Uh, Cyber Frog as kind of like a spawn like vampire character there. Uh, $20 should be the first bid. >> Yeah, that really works, Joe. I mean, I think it's a good idea. >> Taxi says, \"I'm sorry, God.\" >> I was just saying it was the only thing I could think of when the subject came down. I was like, \"Uh, what am I going to do? I guess I'll do this.\" >> That's usually the best ideas, though, you know. >> Mhm. >> First ones that pop in your head. Yeah. Uh, looking for first bid $20 trick, they're saying. Wow, that'd be cool. Dracula is a cool >> There you go. >> He's got little fangs coming out of his frog mouth.",
+      "supporting_quote_ids": [
+        "quote:LS_14uOaG2E:4893"
+      ],
+      "confidence": 1.0
+    }
+  ],
+  "narratives": [
+    {
+      "narrative_unit_id": "narrative:LS_14uOaG2E:2371",
+      "context_bundle_id": "bundle:LS_14uOaG2E:2371",
+      "headline": "Liam Gray: laughter / she's / now / heather",
+      "summary": "Like they said, \"Have you heard of Irene Strakowski?\" I said, \"No.\" And somebody said, \"Well, she's an artist for Marvel.\" I said, \"Oh, that's interesting. And uh I said they said she's Heather Antos's best friend, but she's defected from Marvel and she's like kind of hanging out with comic skaters. Because that's the thing that I remember hearing and I don't remember what it was what he said in it.",
+      "people_involved": [
+        "Liam Gray"
+      ],
+      "topic_terms": [
+        "laughter",
+        "she's",
+        "now",
+        "heather",
+        "that's",
+        "best",
+        "bring",
+        "liam",
+        "what's",
+        "grab"
+      ],
+      "supporting_quote_ids": [
+        "quote:LS_14uOaG2E:978"
+      ],
+      "uncertainties": [],
+      "evidence": {
+        "video_title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+        "channel": "Ethan Van Sciver",
+        "published_at": "2026-07-13T23:19:06+00:00",
+        "timestamp": "39:31",
+        "receipt_url": "https://www.youtube.com/watch?v=LS_14uOaG2E&t=2371s",
+        "context_receipt_url": "https://www.youtube.com/watch?v=LS_14uOaG2E&t=2296s"
+      },
+      "confidence": 1.0,
+      "review_status": "automatic_extract"
+    },
+    {
+      "narrative_unit_id": "narrative:LS_14uOaG2E:6668",
+      "context_bundle_id": "bundle:LS_14uOaG2E:6668",
+      "headline": "Ethan Van Sciver: that's / back / last / new",
+      "summary": "Sometimes when I use Streamyards, if I have uh too many tabs open or too operational systems for the internet like uh uh Firefox and uh Chrome open, I lose audio for some of the participants on the panel. >> I know you don't have comment on one says, \"Go full screen on EJ. That's why you bid.\" And then he says, \"Oh [ __ ] when I I made EJ go full screen.\" Odinson 99m says, \"Home home stretch kings.",
+      "people_involved": [
+        "Ethan Van Sciver"
+      ],
+      "topic_terms": [
+        "that's",
+        "back",
+        "last",
+        "new",
+        "i'll",
+        "week",
+        "kept",
+        "i'm",
+        "didn't",
+        "charlie"
+      ],
+      "supporting_quote_ids": [
+        "quote:LS_14uOaG2E:2906",
+        "quote:LS_14uOaG2E:2909",
+        "quote:LS_14uOaG2E:2910",
+        "quote:LS_14uOaG2E:2919"
+      ],
+      "uncertainties": [
+        "contains_uncertain_language"
+      ],
+      "evidence": {
+        "video_title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+        "channel": "Ethan Van Sciver",
+        "published_at": "2026-07-13T23:19:06+00:00",
+        "timestamp": "01:51:08",
+        "receipt_url": "https://www.youtube.com/watch?v=LS_14uOaG2E&t=6668s",
+        "context_receipt_url": "https://www.youtube.com/watch?v=LS_14uOaG2E&t=6593s"
+      },
+      "confidence": 0.65,
+      "review_status": "automatic_extract"
+    },
+    {
+      "narrative_unit_id": "narrative:LS_14uOaG2E:6697",
+      "context_bundle_id": "bundle:LS_14uOaG2E:6697",
+      "headline": "Ethan Van Sciver: that's / back / last / new",
+      "summary": "Uh, Leon K24 says, \"Rip SM Neil, my favorite version of Merlin. >> I know you don't have comment on one says, \"Go full screen on EJ. That's why you bid.\" And then he says, \"Oh [ __ ] when I I made EJ go full screen.\" Odinson 99m says, \"Home home stretch kings.",
+      "people_involved": [
+        "Ethan Van Sciver"
+      ],
+      "topic_terms": [
+        "that's",
+        "back",
+        "last",
+        "new",
+        "jersey",
+        "week",
+        "kept",
+        "i'm",
+        "didn't",
+        "charlie"
+      ],
+      "supporting_quote_ids": [
+        "quote:LS_14uOaG2E:2906",
+        "quote:LS_14uOaG2E:2909",
+        "quote:LS_14uOaG2E:2910",
+        "quote:LS_14uOaG2E:2919"
+      ],
+      "uncertainties": [
+        "contains_uncertain_language"
+      ],
+      "evidence": {
+        "video_title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+        "channel": "Ethan Van Sciver",
+        "published_at": "2026-07-13T23:19:06+00:00",
+        "timestamp": "01:51:37",
+        "receipt_url": "https://www.youtube.com/watch?v=LS_14uOaG2E&t=6697s",
+        "context_receipt_url": "https://www.youtube.com/watch?v=LS_14uOaG2E&t=6622s"
+      },
+      "confidence": 0.65,
+      "review_status": "automatic_extract"
+    },
+    {
+      "narrative_unit_id": "narrative:LS_14uOaG2E:9854",
+      "context_bundle_id": "bundle:LS_14uOaG2E:9854",
+      "headline": "Ethan Van Sciver: get / that's / serious / man",
+      "summary": ">> Uh David L says, \"This won't break 50.\" Well, that's fine. And in fact, I was looking today at uh you know um Black Riding Hood number one. Bad Adam 12 says, \"I don't have time to get my card out, Shane.\" Here we go.",
+      "people_involved": [
+        "Ethan Van Sciver"
+      ],
+      "topic_terms": [
+        "get",
+        "that's",
+        "serious",
+        "man",
+        "don't",
+        "out",
+        "card",
+        "john",
+        "laughter",
+        "little"
+      ],
+      "supporting_quote_ids": [
+        "quote:LS_14uOaG2E:4369"
+      ],
+      "uncertainties": [
+        "contains_uncertain_language"
+      ],
+      "evidence": {
+        "video_title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+        "channel": "Ethan Van Sciver",
+        "published_at": "2026-07-13T23:19:06+00:00",
+        "timestamp": "02:44:14",
+        "receipt_url": "https://www.youtube.com/watch?v=LS_14uOaG2E&t=9854s",
+        "context_receipt_url": "https://www.youtube.com/watch?v=LS_14uOaG2E&t=9779s"
+      },
+      "confidence": 1.0,
+      "review_status": "automatic_extract"
+    },
+    {
+      "narrative_unit_id": "narrative:LS_14uOaG2E:11061",
+      "context_bundle_id": "bundle:LS_14uOaG2E:11061",
+      "headline": "Liam Gray: he's / all / that's / joe",
+      "summary": "And nobody looked at him and said, \"Hey, I want to duplicate that.\" You know? >> Well, Euseity Sam is kind of like Liam Gray, you know. And what what's Liam Gray?",
+      "people_involved": [
+        "Liam Gray"
+      ],
+      "topic_terms": [
+        "he's",
+        "all",
+        "that's",
+        "joe",
+        "good",
+        "down",
+        "bugs",
+        "woody",
+        "woodpecker",
+        "kind"
+      ],
+      "supporting_quote_ids": [
+        "quote:LS_14uOaG2E:4893"
+      ],
+      "uncertainties": [
+        "contains_uncertain_language"
+      ],
+      "evidence": {
+        "video_title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+        "channel": "Ethan Van Sciver",
+        "published_at": "2026-07-13T23:19:06+00:00",
+        "timestamp": "03:04:21",
+        "receipt_url": "https://www.youtube.com/watch?v=LS_14uOaG2E&t=11061s",
+        "context_receipt_url": "https://www.youtube.com/watch?v=LS_14uOaG2E&t=10986s"
+      },
+      "confidence": 1.0,
+      "review_status": "automatic_extract"
+    }
+  ]
+}

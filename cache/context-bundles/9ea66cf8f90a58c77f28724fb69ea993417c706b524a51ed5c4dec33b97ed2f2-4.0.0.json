@@ -1,0 +1,917 @@
+{
+  "occurrences": [
+    {
+      "occurrence_id": "occurrence:Uf6bzqxJAAk:37:person:katy",
+      "entity_id": "person:katy",
+      "matched_alias": "Katie",
+      "alias_strength": "weak",
+      "confidence": 0.68,
+      "video_id": "Uf6bzqxJAAk",
+      "title": "TRASHCAST #265: The Khola King & Ethan Van Sciver Exchange",
+      "source": "KatyDid",
+      "published": "2026-07-06T01:43:35+00:00",
+      "segment_index": 37,
+      "start": 75.16,
+      "timestamp": "01:15",
+      "quote": "would the likes of like Katie did or or",
+      "receipt_url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk&t=75s",
+      "transcript_file": "transcripts/2026-07/TRASHCAST #265 The Khola King & Ethan Van Sciver Exchange [Uf6bzqxJAAk].json"
+    },
+    {
+      "occurrence_id": "occurrence:Uf6bzqxJAAk:399:person:liam-gray",
+      "entity_id": "person:liam-gray",
+      "matched_alias": "Liam Gray",
+      "alias_strength": "strong",
+      "confidence": 1.0,
+      "video_id": "Uf6bzqxJAAk",
+      "title": "TRASHCAST #265: The Khola King & Ethan Van Sciver Exchange",
+      "source": "KatyDid",
+      "published": "2026-07-06T01:43:35+00:00",
+      "segment_index": 399,
+      "start": 824.72,
+      "timestamp": "13:44",
+      "quote": "Roccata attacking Liam Gray.",
+      "receipt_url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk&t=824s",
+      "transcript_file": "transcripts/2026-07/TRASHCAST #265 The Khola King & Ethan Van Sciver Exchange [Uf6bzqxJAAk].json"
+    },
+    {
+      "occurrence_id": "occurrence:Uf6bzqxJAAk:400:person:liam-gray",
+      "entity_id": "person:liam-gray",
+      "matched_alias": "Liam Gray",
+      "alias_strength": "strong",
+      "confidence": 1.0,
+      "video_id": "Uf6bzqxJAAk",
+      "title": "TRASHCAST #265: The Khola King & Ethan Van Sciver Exchange",
+      "source": "KatyDid",
+      "published": "2026-07-06T01:43:35+00:00",
+      "segment_index": 400,
+      "start": 827.76,
+      "timestamp": "13:47",
+      "quote": "And Liam Gray also watched Nick Roccata",
+      "receipt_url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk&t=827s",
+      "transcript_file": "transcripts/2026-07/TRASHCAST #265 The Khola King & Ethan Van Sciver Exchange [Uf6bzqxJAAk].json"
+    },
+    {
+      "occurrence_id": "occurrence:Uf6bzqxJAAk:401:person:liam-gray",
+      "entity_id": "person:liam-gray",
+      "matched_alias": "Liam Gray",
+      "alias_strength": "strong",
+      "confidence": 1.0,
+      "video_id": "Uf6bzqxJAAk",
+      "title": "TRASHCAST #265: The Khola King & Ethan Van Sciver Exchange",
+      "source": "KatyDid",
+      "published": "2026-07-06T01:43:35+00:00",
+      "segment_index": 401,
+      "start": 831.52,
+      "timestamp": "13:51",
+      "quote": "attacking Liam Gray and he has there's a",
+      "receipt_url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk&t=831s",
+      "transcript_file": "transcripts/2026-07/TRASHCAST #265 The Khola King & Ethan Van Sciver Exchange [Uf6bzqxJAAk].json"
+    },
+    {
+      "occurrence_id": "occurrence:Uf6bzqxJAAk:402:person:katy",
+      "entity_id": "person:katy",
+      "matched_alias": "Katie",
+      "alias_strength": "weak",
+      "confidence": 0.68,
+      "video_id": "Uf6bzqxJAAk",
+      "title": "TRASHCAST #265: The Khola King & Ethan Van Sciver Exchange",
+      "source": "KatyDid",
+      "published": "2026-07-06T01:43:35+00:00",
+      "segment_index": 402,
+      "start": 834.48,
+      "timestamp": "13:54",
+      "quote": "little clip of a video that Katie did",
+      "receipt_url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk&t=834s",
+      "transcript_file": "transcripts/2026-07/TRASHCAST #265 The Khola King & Ethan Van Sciver Exchange [Uf6bzqxJAAk].json"
+    },
+    {
+      "occurrence_id": "occurrence:Uf6bzqxJAAk:404:person:katy",
+      "entity_id": "person:katy",
+      "matched_alias": "Katie",
+      "alias_strength": "weak",
+      "confidence": 0.68,
+      "video_id": "Uf6bzqxJAAk",
+      "title": "TRASHCAST #265: The Khola King & Ethan Van Sciver Exchange",
+      "source": "KatyDid",
+      "published": "2026-07-06T01:43:35+00:00",
+      "segment_index": 404,
+      "start": 837.84,
+      "timestamp": "13:57",
+      "quote": "Katie, thank you for this of Liam",
+      "receipt_url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk&t=837s",
+      "transcript_file": "transcripts/2026-07/TRASHCAST #265 The Khola King & Ethan Van Sciver Exchange [Uf6bzqxJAAk].json"
+    },
+    {
+      "occurrence_id": "occurrence:Uf6bzqxJAAk:430:person:liam-gray",
+      "entity_id": "person:liam-gray",
+      "matched_alias": "Liam Gray",
+      "alias_strength": "strong",
+      "confidence": 1.0,
+      "video_id": "Uf6bzqxJAAk",
+      "title": "TRASHCAST #265: The Khola King & Ethan Van Sciver Exchange",
+      "source": "KatyDid",
+      "published": "2026-07-06T01:43:35+00:00",
+      "segment_index": 430,
+      "start": 899.6,
+      "timestamp": "14:59",
+      "quote": "disliking Liam Gray.",
+      "receipt_url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk&t=899s",
+      "transcript_file": "transcripts/2026-07/TRASHCAST #265 The Khola King & Ethan Van Sciver Exchange [Uf6bzqxJAAk].json"
+    },
+    {
+      "occurrence_id": "occurrence:Uf6bzqxJAAk:441:person:liam-gray",
+      "entity_id": "person:liam-gray",
+      "matched_alias": "Liam Gray",
+      "alias_strength": "strong",
+      "confidence": 1.0,
+      "video_id": "Uf6bzqxJAAk",
+      "title": "TRASHCAST #265: The Khola King & Ethan Van Sciver Exchange",
+      "source": "KatyDid",
+      "published": "2026-07-06T01:43:35+00:00",
+      "segment_index": 441,
+      "start": 924.44,
+      "timestamp": "15:24",
+      "quote": "But as long as Liam Gray is making",
+      "receipt_url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk&t=924s",
+      "transcript_file": "transcripts/2026-07/TRASHCAST #265 The Khola King & Ethan Van Sciver Exchange [Uf6bzqxJAAk].json"
+    }
+  ],
+  "passages": [
+    {
+      "passage_id": "passage:Uf6bzqxJAAk:805",
+      "trigger_segment_index": 390,
+      "trigger_start": 805.32,
+      "involved_entity_ids": [
+        "person:liam-gray"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:liam-gray",
+          "matched_alias": "Liam Gray",
+          "alias_strength": "strong",
+          "confidence": 1.0
+        }
+      ],
+      "claim_term_count": 1,
+      "claim_excerpt": "play every time somebody gives me $10. I",
+      "full_context": "and stop doing that. >> Hail the River King says Crane style. We'll see. Yeah, we'll see. I might and I might not. >> You can try my hardest. This is the second time he's played the clip. >> I've also played it 50 times, Liam. I play every time somebody gives me $10. I tried is a funny statement to me. It's a weak statement of failure when somebody's asking you to just behave a certain way. Giving you a whole lot of things and you tried but you couldn't you couldn't succeed. Earlier today we watched Nick Roccata attacking Liam Gray.",
+      "source": {
+        "source_type": "youtube",
+        "video_id": "Uf6bzqxJAAk",
+        "title": "TRASHCAST #265: The Khola King & Ethan Van Sciver Exchange",
+        "channel": "KatyDid",
+        "published_at": "2026-07-06T01:43:35+00:00",
+        "timestamp_seconds": 805.32,
+        "timestamp_display": "13:25",
+        "url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk",
+        "receipt_url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk&t=805s",
+        "transcript_file": "transcripts/2026-07/TRASHCAST #265 The Khola King & Ethan Van Sciver Exchange [Uf6bzqxJAAk].json"
+      },
+      "confidence": 0.66
+    },
+    {
+      "passage_id": "passage:Uf6bzqxJAAk:814",
+      "trigger_segment_index": 394,
+      "trigger_start": 814.76,
+      "involved_entity_ids": [
+        "person:katy",
+        "person:liam-gray"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:liam-gray",
+          "matched_alias": "Liam Gray",
+          "alias_strength": "strong",
+          "confidence": 1.0
+        },
+        {
+          "entity_id": "person:katy",
+          "matched_alias": "Katie",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 0,
+      "claim_excerpt": "somebody's asking you to just behave a",
+      "full_context": "Yeah, we'll see. I might and I might not. >> You can try my hardest. This is the second time he's played the clip. >> I've also played it 50 times, Liam. I play every time somebody gives me $10. I tried is a funny statement to me. It's a weak statement of failure when somebody's asking you to just behave a certain way. Giving you a whole lot of things and you tried but you couldn't you couldn't succeed. Earlier today we watched Nick Roccata attacking Liam Gray. And Liam Gray also watched Nick Roccata attacking Liam Gray and he has there's a little clip of a video that Katie did",
+      "source": {
+        "source_type": "youtube",
+        "video_id": "Uf6bzqxJAAk",
+        "title": "TRASHCAST #265: The Khola King & Ethan Van Sciver Exchange",
+        "channel": "KatyDid",
+        "published_at": "2026-07-06T01:43:35+00:00",
+        "timestamp_seconds": 814.76,
+        "timestamp_display": "13:34",
+        "url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk",
+        "receipt_url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk&t=814s",
+        "transcript_file": "transcripts/2026-07/TRASHCAST #265 The Khola King & Ethan Van Sciver Exchange [Uf6bzqxJAAk].json"
+      },
+      "confidence": 0.66
+    },
+    {
+      "passage_id": "passage:Uf6bzqxJAAk:827",
+      "trigger_segment_index": 400,
+      "trigger_start": 827.76,
+      "involved_entity_ids": [
+        "person:katy",
+        "person:liam-gray"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:liam-gray",
+          "matched_alias": "Liam Gray",
+          "alias_strength": "strong",
+          "confidence": 1.0
+        },
+        {
+          "entity_id": "person:katy",
+          "matched_alias": "Katie",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 0,
+      "claim_excerpt": "And Liam Gray also watched Nick Roccata",
+      "full_context": "tried is a funny statement to me. It's a weak statement of failure when somebody's asking you to just behave a certain way. Giving you a whole lot of things and you tried but you couldn't you couldn't succeed. Earlier today we watched Nick Roccata attacking Liam Gray. And Liam Gray also watched Nick Roccata attacking Liam Gray and he has there's a little clip of a video that Katie did made. Katie, thank you for this of Liam responding to Nick Roccata. It's only 13 minutes and a half. It won't kill you. It probably be good for you. Let's see what Liam has to say to Nick Roccata in",
+      "source": {
+        "source_type": "youtube",
+        "video_id": "Uf6bzqxJAAk",
+        "title": "TRASHCAST #265: The Khola King & Ethan Van Sciver Exchange",
+        "channel": "KatyDid",
+        "published_at": "2026-07-06T01:43:35+00:00",
+        "timestamp_seconds": 827.76,
+        "timestamp_display": "13:47",
+        "url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk",
+        "receipt_url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk&t=827s",
+        "transcript_file": "transcripts/2026-07/TRASHCAST #265 The Khola King & Ethan Van Sciver Exchange [Uf6bzqxJAAk].json"
+      },
+      "confidence": 0.66
+    },
+    {
+      "passage_id": "passage:Uf6bzqxJAAk:840",
+      "trigger_segment_index": 405,
+      "trigger_start": 840.0,
+      "involved_entity_ids": [
+        "person:katy",
+        "person:liam-gray"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:liam-gray",
+          "matched_alias": "Liam Gray",
+          "alias_strength": "strong",
+          "confidence": 1.0
+        },
+        {
+          "entity_id": "person:katy",
+          "matched_alias": "Katie",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 2,
+      "claim_excerpt": "responding to Nick Roccata. It's only 13",
+      "full_context": "succeed. Earlier today we watched Nick Roccata attacking Liam Gray. And Liam Gray also watched Nick Roccata attacking Liam Gray and he has there's a little clip of a video that Katie did made. Katie, thank you for this of Liam responding to Nick Roccata. It's only 13 minutes and a half. It won't kill you. It probably be good for you. Let's see what Liam has to say to Nick Roccata in response. By the way, I got people arguing in my messages about whether it's okay like do we agree with the idea that Nick basically said if Liam, if you're swinging from the rafters nobody",
+      "source": {
+        "source_type": "youtube",
+        "video_id": "Uf6bzqxJAAk",
+        "title": "TRASHCAST #265: The Khola King & Ethan Van Sciver Exchange",
+        "channel": "KatyDid",
+        "published_at": "2026-07-06T01:43:35+00:00",
+        "timestamp_seconds": 840.0,
+        "timestamp_display": "14:00",
+        "url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk",
+        "receipt_url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk&t=840s",
+        "transcript_file": "transcripts/2026-07/TRASHCAST #265 The Khola King & Ethan Van Sciver Exchange [Uf6bzqxJAAk].json"
+      },
+      "confidence": 0.82
+    },
+    {
+      "passage_id": "passage:Uf6bzqxJAAk:851",
+      "trigger_segment_index": 410,
+      "trigger_start": 851.8,
+      "involved_entity_ids": [
+        "person:katy"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:katy",
+          "matched_alias": "Katie",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 3,
+      "claim_excerpt": "arguing in my messages about whether",
+      "full_context": "little clip of a video that Katie did made. Katie, thank you for this of Liam responding to Nick Roccata. It's only 13 minutes and a half. It won't kill you. It probably be good for you. Let's see what Liam has to say to Nick Roccata in response. By the way, I got people arguing in my messages about whether it's okay like do we agree with the idea that Nick basically said if Liam, if you're swinging from the rafters nobody would care. Some of you were like, yeah, we that's not right. You shouldn't say that. Some of you were like, yeah, it's true. It would probably be good for everybody. That's weird that we even have to have that debate. >> Yeah. Um you know, if you condition an",
+      "source": {
+        "source_type": "youtube",
+        "video_id": "Uf6bzqxJAAk",
+        "title": "TRASHCAST #265: The Khola King & Ethan Van Sciver Exchange",
+        "channel": "KatyDid",
+        "published_at": "2026-07-06T01:43:35+00:00",
+        "timestamp_seconds": 851.8,
+        "timestamp_display": "14:11",
+        "url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk",
+        "receipt_url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk&t=851s",
+        "transcript_file": "transcripts/2026-07/TRASHCAST #265 The Khola King & Ethan Van Sciver Exchange [Uf6bzqxJAAk].json"
+      },
+      "confidence": 0.82
+    },
+    {
+      "passage_id": "passage:Uf6bzqxJAAk:856",
+      "trigger_segment_index": 412,
+      "trigger_start": 856.36,
+      "involved_entity_ids": [
+        "person:katy"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:katy",
+          "matched_alias": "Katie",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 3,
+      "claim_excerpt": "that Nick basically said if Liam, if",
+      "full_context": "made. Katie, thank you for this of Liam responding to Nick Roccata. It's only 13 minutes and a half. It won't kill you. It probably be good for you. Let's see what Liam has to say to Nick Roccata in response. By the way, I got people arguing in my messages about whether it's okay like do we agree with the idea that Nick basically said if Liam, if you're swinging from the rafters nobody would care. Some of you were like, yeah, we that's not right. You shouldn't say that. Some of you were like, yeah, it's true. It would probably be good for everybody. That's weird that we even have to have that debate. >> Yeah. Um you know, if you condition an entire audience of people um to",
+      "source": {
+        "source_type": "youtube",
+        "video_id": "Uf6bzqxJAAk",
+        "title": "TRASHCAST #265: The Khola King & Ethan Van Sciver Exchange",
+        "channel": "KatyDid",
+        "published_at": "2026-07-06T01:43:35+00:00",
+        "timestamp_seconds": 856.36,
+        "timestamp_display": "14:16",
+        "url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk",
+        "receipt_url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk&t=856s",
+        "transcript_file": "transcripts/2026-07/TRASHCAST #265 The Khola King & Ethan Van Sciver Exchange [Uf6bzqxJAAk].json"
+      },
+      "confidence": 0.82
+    },
+    {
+      "passage_id": "passage:Uf6bzqxJAAk:880",
+      "trigger_segment_index": 424,
+      "trigger_start": 880.72,
+      "involved_entity_ids": [
+        "person:liam-gray"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:liam-gray",
+          "matched_alias": "Liam Gray",
+          "alias_strength": "strong",
+          "confidence": 1.0
+        }
+      ],
+      "claim_term_count": 2,
+      "claim_excerpt": "is me",
+      "full_context": "we that's not right. You shouldn't say that. Some of you were like, yeah, it's true. It would probably be good for everybody. That's weird that we even have to have that debate. >> Yeah. Um you know, if you condition an entire audience of people um to dehumanize someone >> We're going to go this route where this is me that made people hate you. I'm just going to ask my own audience. Chat, do you think that I did or said anything to deliberately steer you guys towards disliking Liam Gray.",
+      "source": {
+        "source_type": "youtube",
+        "video_id": "Uf6bzqxJAAk",
+        "title": "TRASHCAST #265: The Khola King & Ethan Van Sciver Exchange",
+        "channel": "KatyDid",
+        "published_at": "2026-07-06T01:43:35+00:00",
+        "timestamp_seconds": 880.72,
+        "timestamp_display": "14:40",
+        "url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk",
+        "receipt_url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk&t=880s",
+        "transcript_file": "transcripts/2026-07/TRASHCAST #265 The Khola King & Ethan Van Sciver Exchange [Uf6bzqxJAAk].json"
+      },
+      "confidence": 0.74
+    },
+    {
+      "passage_id": "passage:Uf6bzqxJAAk:885",
+      "trigger_segment_index": 426,
+      "trigger_start": 885.16,
+      "involved_entity_ids": [
+        "person:liam-gray"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:liam-gray",
+          "matched_alias": "Liam Gray",
+          "alias_strength": "strong",
+          "confidence": 1.0
+        }
+      ],
+      "claim_term_count": 3,
+      "claim_excerpt": "I'm just going to ask my own audience.",
+      "full_context": "true. It would probably be good for everybody. That's weird that we even have to have that debate. >> Yeah. Um you know, if you condition an entire audience of people um to dehumanize someone >> We're going to go this route where this is me that made people hate you. I'm just going to ask my own audience. Chat, do you think that I did or said anything to deliberately steer you guys towards disliking Liam Gray. Did I do anything like that? Ethan here is $10 says the X file Zachary. We're",
+      "source": {
+        "source_type": "youtube",
+        "video_id": "Uf6bzqxJAAk",
+        "title": "TRASHCAST #265: The Khola King & Ethan Van Sciver Exchange",
+        "channel": "KatyDid",
+        "published_at": "2026-07-06T01:43:35+00:00",
+        "timestamp_seconds": 885.16,
+        "timestamp_display": "14:45",
+        "url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk",
+        "receipt_url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk&t=885s",
+        "transcript_file": "transcripts/2026-07/TRASHCAST #265 The Khola King & Ethan Van Sciver Exchange [Uf6bzqxJAAk].json"
+      },
+      "confidence": 0.82
+    },
+    {
+      "passage_id": "passage:Uf6bzqxJAAk:902",
+      "trigger_segment_index": 431,
+      "trigger_start": 902.839,
+      "involved_entity_ids": [
+        "person:liam-gray"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:liam-gray",
+          "matched_alias": "Liam Gray",
+          "alias_strength": "strong",
+          "confidence": 1.0
+        }
+      ],
+      "claim_term_count": 3,
+      "claim_excerpt": "Did I do anything like that? Ethan here",
+      "full_context": "I'm just going to ask my own audience. Chat, do you think that I did or said anything to deliberately steer you guys towards disliking Liam Gray. Did I do anything like that? Ethan here is $10 says the X file Zachary. We're not trying we're not playing that clip right now because Liam sincerely sincerely asked. He said, \"Please don't play that clip anymore.\" Okay. I won't. I can control my behavior. I'm not here to deliberately hurt",
+      "source": {
+        "source_type": "youtube",
+        "video_id": "Uf6bzqxJAAk",
+        "title": "TRASHCAST #265: The Khola King & Ethan Van Sciver Exchange",
+        "channel": "KatyDid",
+        "published_at": "2026-07-06T01:43:35+00:00",
+        "timestamp_seconds": 902.839,
+        "timestamp_display": "15:02",
+        "url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk",
+        "receipt_url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk&t=902s",
+        "transcript_file": "transcripts/2026-07/TRASHCAST #265 The Khola King & Ethan Van Sciver Exchange [Uf6bzqxJAAk].json"
+      },
+      "confidence": 0.82
+    },
+    {
+      "passage_id": "passage:Uf6bzqxJAAk:915",
+      "trigger_segment_index": 437,
+      "trigger_start": 915.96,
+      "involved_entity_ids": [
+        "person:liam-gray"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:liam-gray",
+          "matched_alias": "Liam Gray",
+          "alias_strength": "strong",
+          "confidence": 1.0
+        }
+      ],
+      "claim_term_count": 3,
+      "claim_excerpt": "Okay.",
+      "full_context": "disliking Liam Gray. Did I do anything like that? Ethan here is $10 says the X file Zachary. We're not trying we're not playing that clip right now because Liam sincerely sincerely asked. He said, \"Please don't play that clip anymore.\" Okay. I won't. I can control my behavior. I'm not here to deliberately hurt anyone. But as long as Liam Gray is making content every single day where he gets on live streams and threatens to strike channels and talks about how this is just the beginning and this guy's channel's going down next, I have no",
+      "source": {
+        "source_type": "youtube",
+        "video_id": "Uf6bzqxJAAk",
+        "title": "TRASHCAST #265: The Khola King & Ethan Van Sciver Exchange",
+        "channel": "KatyDid",
+        "published_at": "2026-07-06T01:43:35+00:00",
+        "timestamp_seconds": 915.96,
+        "timestamp_display": "15:15",
+        "url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk",
+        "receipt_url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk&t=915s",
+        "transcript_file": "transcripts/2026-07/TRASHCAST #265 The Khola King & Ethan Van Sciver Exchange [Uf6bzqxJAAk].json"
+      },
+      "confidence": 0.82
+    },
+    {
+      "passage_id": "passage:Uf6bzqxJAAk:940",
+      "trigger_segment_index": 448,
+      "trigger_start": 940.36,
+      "involved_entity_ids": [
+        "person:liam-gray"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:liam-gray",
+          "matched_alias": "Liam Gray",
+          "alias_strength": "strong",
+          "confidence": 1.0
+        }
+      ],
+      "claim_term_count": 2,
+      "claim_excerpt": "So my my trade-off to Liam is stop doing",
+      "full_context": "I'm not here to deliberately hurt anyone. But as long as Liam Gray is making content every single day where he gets on live streams and threatens to strike channels and talks about how this is just the beginning and this guy's channel's going down next, I have no respect for his feelings. None. So my my trade-off to Liam is stop doing that, stop striking channels, and we're okay. I'm not here to attack you. I'm not here to play clips that embarrass or humiliate you. I'm watching this clip now, even now, I'm watching this clip uh with what Eric July would call good faith. This is a good faith. I'm viewing the clip because I said some things",
+      "source": {
+        "source_type": "youtube",
+        "video_id": "Uf6bzqxJAAk",
+        "title": "TRASHCAST #265: The Khola King & Ethan Van Sciver Exchange",
+        "channel": "KatyDid",
+        "published_at": "2026-07-06T01:43:35+00:00",
+        "timestamp_seconds": 940.36,
+        "timestamp_display": "15:40",
+        "url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk",
+        "receipt_url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk&t=940s",
+        "transcript_file": "transcripts/2026-07/TRASHCAST #265 The Khola King & Ethan Van Sciver Exchange [Uf6bzqxJAAk].json"
+      },
+      "confidence": 0.74
+    }
+  ],
+  "bundles": [
+    {
+      "context_bundle_id": "bundle:Uf6bzqxJAAk:805",
+      "video_id": "Uf6bzqxJAAk",
+      "title": "TRASHCAST #265: The Khola King & Ethan Van Sciver Exchange",
+      "channel": "KatyDid",
+      "published_at": "2026-07-06T01:43:35+00:00",
+      "start_seconds": 730.32,
+      "end_seconds": 910.32,
+      "start_display": "12:10",
+      "end_display": "15:10",
+      "receipt_url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk&t=730s",
+      "trigger_receipt_url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk&t=805s",
+      "trigger_excerpt": "play every time somebody gives me $10. I",
+      "involved_entity_ids": [
+        "person:liam-gray"
+      ],
+      "involved_entity_names": [
+        "Liam Gray"
+      ],
+      "topic_terms": [
+        "liam",
+        "i'm",
+        "nick",
+        "clip",
+        "did",
+        "roccata",
+        "gray",
+        "that's"
+      ],
+      "development_types": [
+        "new_claim",
+        "response",
+        "escalation"
+      ],
+      "uncertainty_flags": [],
+      "context_text": "threatening to strike channels, taking people's channels down. You're saying, you know, that didn't lack. It didn't lack. Just that's how I'm going to I'm going to try this. Just be Just stop doing that. It's unbelievable that you're asking me to not do something [clears throat] that hurts your feelings or hurts you as a favor to you at this point in time. It's unbelievable, Liam. I'm happy to do it. I'm happy to just not play that video clip. Doesn't hurt me at all to not do that. Should be easy for me to not engage [clears throat] in one single behavior. But what if I do? And then I you go, \"You did it again.\" And I go, \"Oh, I tried, but I can't.\" You know what I mean? Insane. >> the nature of things. I would hope that you would be the professional that you claim you are and stop doing that. >> Hail the River King says Crane style. We'll see. Yeah, we'll see. I might and I might not. >> You can try my hardest. This is the second time he's played the clip. >> I've also played it 50 times, Liam. I play every time somebody gives me $10. I tried is a funny statement to me. It's a weak statement of failure when somebody's asking you to just behave a certain way. Giving you a whole lot of things and you tried but you couldn't you couldn't succeed. Earlier today we watched Nick Roccata attacking Liam Gray. And Liam Gray also watched Nick Roccata attacking Liam Gray and he has there's a little clip of a video that Katie did made. Katie, thank you for this of Liam responding to Nick Roccata. It's only 13 minutes and a half. It won't kill you. It probably be good for you. Let's see what Liam has to say to Nick Roccata in response. By the way, I got people arguing in my messages about whether it's okay like do we agree with the idea that Nick basically said if Liam, if you're swinging from the rafters nobody would care. Some of you were like, yeah, we that's not right. You shouldn't say that. Some of you were like, yeah, it's true. It would probably be good for everybody. That's weird that we even have to have that debate. >> Yeah. Um you know, if you condition an entire audience of people um to dehumanize someone >> We're going to go this route where this is me that made people hate you. I'm just going to ask my own audience. Chat, do you think that I did or said anything to deliberately steer you guys towards disliking Liam Gray. Did I do anything like that? Ethan here is $10 says the X file Zachary. We're not trying we're not playing that clip right now because Liam sincerely",
+      "source_passage_ids": [
+        "passage:Uf6bzqxJAAk:805"
+      ],
+      "confidence": 0.66
+    },
+    {
+      "context_bundle_id": "bundle:Uf6bzqxJAAk:814",
+      "video_id": "Uf6bzqxJAAk",
+      "title": "TRASHCAST #265: The Khola King & Ethan Van Sciver Exchange",
+      "channel": "KatyDid",
+      "published_at": "2026-07-06T01:43:35+00:00",
+      "start_seconds": 739.76,
+      "end_seconds": 919.76,
+      "start_display": "12:19",
+      "end_display": "15:19",
+      "receipt_url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk&t=739s",
+      "trigger_receipt_url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk&t=814s",
+      "trigger_excerpt": "somebody's asking you to just behave a",
+      "involved_entity_ids": [
+        "person:katy",
+        "person:liam-gray"
+      ],
+      "involved_entity_names": [
+        "Katy",
+        "Liam Gray"
+      ],
+      "topic_terms": [
+        "liam",
+        "clip",
+        "nick",
+        "did",
+        "roccata",
+        "gray",
+        "time",
+        "i'm"
+      ],
+      "development_types": [
+        "new_claim",
+        "response"
+      ],
+      "uncertainty_flags": [],
+      "context_text": "Just be Just stop doing that. It's unbelievable that you're asking me to not do something [clears throat] that hurts your feelings or hurts you as a favor to you at this point in time. It's unbelievable, Liam. I'm happy to do it. I'm happy to just not play that video clip. Doesn't hurt me at all to not do that. Should be easy for me to not engage [clears throat] in one single behavior. But what if I do? And then I you go, \"You did it again.\" And I go, \"Oh, I tried, but I can't.\" You know what I mean? Insane. >> the nature of things. I would hope that you would be the professional that you claim you are and stop doing that. >> Hail the River King says Crane style. We'll see. Yeah, we'll see. I might and I might not. >> You can try my hardest. This is the second time he's played the clip. >> I've also played it 50 times, Liam. I play every time somebody gives me $10. I tried is a funny statement to me. It's a weak statement of failure when somebody's asking you to just behave a certain way. Giving you a whole lot of things and you tried but you couldn't you couldn't succeed. Earlier today we watched Nick Roccata attacking Liam Gray. And Liam Gray also watched Nick Roccata attacking Liam Gray and he has there's a little clip of a video that Katie did made. Katie, thank you for this of Liam responding to Nick Roccata. It's only 13 minutes and a half. It won't kill you. It probably be good for you. Let's see what Liam has to say to Nick Roccata in response. By the way, I got people arguing in my messages about whether it's okay like do we agree with the idea that Nick basically said if Liam, if you're swinging from the rafters nobody would care. Some of you were like, yeah, we that's not right. You shouldn't say that. Some of you were like, yeah, it's true. It would probably be good for everybody. That's weird that we even have to have that debate. >> Yeah. Um you know, if you condition an entire audience of people um to dehumanize someone >> We're going to go this route where this is me that made people hate you. I'm just going to ask my own audience. Chat, do you think that I did or said anything to deliberately steer you guys towards disliking Liam Gray. Did I do anything like that? Ethan here is $10 says the X file Zachary. We're not trying we're not playing that clip right now because Liam sincerely sincerely asked. He said, \"Please don't play that clip anymore.\" Okay. I won't. I can control my behavior.",
+      "source_passage_ids": [
+        "passage:Uf6bzqxJAAk:814"
+      ],
+      "confidence": 0.66
+    },
+    {
+      "context_bundle_id": "bundle:Uf6bzqxJAAk:851",
+      "video_id": "Uf6bzqxJAAk",
+      "title": "TRASHCAST #265: The Khola King & Ethan Van Sciver Exchange",
+      "channel": "KatyDid",
+      "published_at": "2026-07-06T01:43:35+00:00",
+      "start_seconds": 776.8,
+      "end_seconds": 956.8,
+      "start_display": "12:56",
+      "end_display": "15:56",
+      "receipt_url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk&t=776s",
+      "trigger_receipt_url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk&t=851s",
+      "trigger_excerpt": "arguing in my messages about whether",
+      "involved_entity_ids": [
+        "person:katy"
+      ],
+      "involved_entity_names": [
+        "Katy"
+      ],
+      "topic_terms": [
+        "liam",
+        "clip",
+        "i'm",
+        "nick",
+        "gray",
+        "roccata",
+        "we're",
+        "stop"
+      ],
+      "development_types": [
+        "new_claim",
+        "response",
+        "escalation"
+      ],
+      "uncertainty_flags": [],
+      "context_text": "mean? Insane. >> the nature of things. I would hope that you would be the professional that you claim you are and stop doing that. >> Hail the River King says Crane style. We'll see. Yeah, we'll see. I might and I might not. >> You can try my hardest. This is the second time he's played the clip. >> I've also played it 50 times, Liam. I play every time somebody gives me $10. I tried is a funny statement to me. It's a weak statement of failure when somebody's asking you to just behave a certain way. Giving you a whole lot of things and you tried but you couldn't you couldn't succeed. Earlier today we watched Nick Roccata attacking Liam Gray. And Liam Gray also watched Nick Roccata attacking Liam Gray and he has there's a little clip of a video that Katie did made. Katie, thank you for this of Liam responding to Nick Roccata. It's only 13 minutes and a half. It won't kill you. It probably be good for you. Let's see what Liam has to say to Nick Roccata in response. By the way, I got people arguing in my messages about whether it's okay like do we agree with the idea that Nick basically said if Liam, if you're swinging from the rafters nobody would care. Some of you were like, yeah, we that's not right. You shouldn't say that. Some of you were like, yeah, it's true. It would probably be good for everybody. That's weird that we even have to have that debate. >> Yeah. Um you know, if you condition an entire audience of people um to dehumanize someone >> We're going to go this route where this is me that made people hate you. I'm just going to ask my own audience. Chat, do you think that I did or said anything to deliberately steer you guys towards disliking Liam Gray. Did I do anything like that? Ethan here is $10 says the X file Zachary. We're not trying we're not playing that clip right now because Liam sincerely sincerely asked. He said, \"Please don't play that clip anymore.\" Okay. I won't. I can control my behavior. I'm not here to deliberately hurt anyone. But as long as Liam Gray is making content every single day where he gets on live streams and threatens to strike channels and talks about how this is just the beginning and this guy's channel's going down next, I have no respect for his feelings. None. So my my trade-off to Liam is stop doing that, stop striking channels, and we're okay. I'm not here to attack you. I'm not here to play clips that embarrass or humiliate you. I'm watching this clip now, even now, I'm watching this clip uh with what Eric July would call good",
+      "source_passage_ids": [
+        "passage:Uf6bzqxJAAk:851"
+      ],
+      "confidence": 0.82
+    },
+    {
+      "context_bundle_id": "bundle:Uf6bzqxJAAk:880",
+      "video_id": "Uf6bzqxJAAk",
+      "title": "TRASHCAST #265: The Khola King & Ethan Van Sciver Exchange",
+      "channel": "KatyDid",
+      "published_at": "2026-07-06T01:43:35+00:00",
+      "start_seconds": 805.72,
+      "end_seconds": 985.72,
+      "start_display": "13:25",
+      "end_display": "16:25",
+      "receipt_url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk&t=805s",
+      "trigger_receipt_url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk&t=880s",
+      "trigger_excerpt": "is me",
+      "involved_entity_ids": [
+        "person:liam-gray"
+      ],
+      "involved_entity_names": [
+        "Liam Gray"
+      ],
+      "topic_terms": [
+        "liam",
+        "i'm",
+        "clip",
+        "we're",
+        "nick",
+        "gray",
+        "some",
+        "roccata"
+      ],
+      "development_types": [
+        "new_claim",
+        "response",
+        "escalation"
+      ],
+      "uncertainty_flags": [],
+      "context_text": "tried is a funny statement to me. It's a weak statement of failure when somebody's asking you to just behave a certain way. Giving you a whole lot of things and you tried but you couldn't you couldn't succeed. Earlier today we watched Nick Roccata attacking Liam Gray. And Liam Gray also watched Nick Roccata attacking Liam Gray and he has there's a little clip of a video that Katie did made. Katie, thank you for this of Liam responding to Nick Roccata. It's only 13 minutes and a half. It won't kill you. It probably be good for you. Let's see what Liam has to say to Nick Roccata in response. By the way, I got people arguing in my messages about whether it's okay like do we agree with the idea that Nick basically said if Liam, if you're swinging from the rafters nobody would care. Some of you were like, yeah, we that's not right. You shouldn't say that. Some of you were like, yeah, it's true. It would probably be good for everybody. That's weird that we even have to have that debate. >> Yeah. Um you know, if you condition an entire audience of people um to dehumanize someone >> We're going to go this route where this is me that made people hate you. I'm just going to ask my own audience. Chat, do you think that I did or said anything to deliberately steer you guys towards disliking Liam Gray. Did I do anything like that? Ethan here is $10 says the X file Zachary. We're not trying we're not playing that clip right now because Liam sincerely sincerely asked. He said, \"Please don't play that clip anymore.\" Okay. I won't. I can control my behavior. I'm not here to deliberately hurt anyone. But as long as Liam Gray is making content every single day where he gets on live streams and threatens to strike channels and talks about how this is just the beginning and this guy's channel's going down next, I have no respect for his feelings. None. So my my trade-off to Liam is stop doing that, stop striking channels, and we're okay. I'm not here to attack you. I'm not here to play clips that embarrass or humiliate you. I'm watching this clip now, even now, I'm watching this clip uh with what Eric July would call good faith. This is a good faith. I'm viewing the clip because I said some things yesterday. Liam is going to have a a chance to respond and we're not talking face to face anymore. Liam's blocked from this chat, I'm blocked from his chat. So this is how we're communicating right now. I said some things. If I'm wrong in some way with the things I said yesterday, it was unintentional. I didn't intend to say anything wrong. Liam's going to have a chance to correct those or respond to those things. Liam's",
+      "source_passage_ids": [
+        "passage:Uf6bzqxJAAk:880"
+      ],
+      "confidence": 0.74
+    },
+    {
+      "context_bundle_id": "bundle:Uf6bzqxJAAk:940",
+      "video_id": "Uf6bzqxJAAk",
+      "title": "TRASHCAST #265: The Khola King & Ethan Van Sciver Exchange",
+      "channel": "KatyDid",
+      "published_at": "2026-07-06T01:43:35+00:00",
+      "start_seconds": 865.36,
+      "end_seconds": 1045.3600000000001,
+      "start_display": "14:25",
+      "end_display": "17:25",
+      "receipt_url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk&t=865s",
+      "trigger_receipt_url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk&t=940s",
+      "trigger_excerpt": "So my my trade-off to Liam is stop doing",
+      "involved_entity_ids": [
+        "person:liam-gray"
+      ],
+      "involved_entity_names": [
+        "Liam Gray"
+      ],
+      "topic_terms": [
+        "i'm",
+        "we're",
+        "liam",
+        "clip",
+        "now",
+        "don't",
+        "anymore",
+        "anything"
+      ],
+      "development_types": [
+        "new_claim",
+        "escalation"
+      ],
+      "uncertainty_flags": [
+        "contains_uncertain_language"
+      ],
+      "context_text": "true. It would probably be good for everybody. That's weird that we even have to have that debate. >> Yeah. Um you know, if you condition an entire audience of people um to dehumanize someone >> We're going to go this route where this is me that made people hate you. I'm just going to ask my own audience. Chat, do you think that I did or said anything to deliberately steer you guys towards disliking Liam Gray. Did I do anything like that? Ethan here is $10 says the X file Zachary. We're not trying we're not playing that clip right now because Liam sincerely sincerely asked. He said, \"Please don't play that clip anymore.\" Okay. I won't. I can control my behavior. I'm not here to deliberately hurt anyone. But as long as Liam Gray is making content every single day where he gets on live streams and threatens to strike channels and talks about how this is just the beginning and this guy's channel's going down next, I have no respect for his feelings. None. So my my trade-off to Liam is stop doing that, stop striking channels, and we're okay. I'm not here to attack you. I'm not here to play clips that embarrass or humiliate you. I'm watching this clip now, even now, I'm watching this clip uh with what Eric July would call good faith. This is a good faith. I'm viewing the clip because I said some things yesterday. Liam is going to have a a chance to respond and we're not talking face to face anymore. Liam's blocked from this chat, I'm blocked from his chat. So this is how we're communicating right now. I said some things. If I'm wrong in some way with the things I said yesterday, it was unintentional. I didn't intend to say anything wrong. Liam's going to have a chance to correct those or respond to those things. Liam's saying I don't want you to play that I tried clip anymore is fine. It's getting old anyway. Uh I don't want you to play it anymore. It hurts my feelings. Okay. Now I want you to hear me. I don't want you to go on your channel and threaten people's YouTube channels anymore. We don't strike channels. We don't do that. If you continue to do that, if you have to continue doing that, I will have no regard for your feelings at all. And by the way, I'm not breaking YouTube terms of service. You can't strike me. I'm not breaking YouTube terms of service. I didn't do anything wrong. So like um I think that's a fair deal. Like I said, I'm like you're not content where I'm like everybody, let's point and laugh at Liam. I find you amusing. That video by 90s Rider was very creative, very funny. Uh but you're not somebody I want to talk about every single day. You've just put yourself in this position where right now everybody is talking about you because they're going he's the",
+      "source_passage_ids": [
+        "passage:Uf6bzqxJAAk:940"
+      ],
+      "confidence": 0.74
+    }
+  ],
+  "narratives": [
+    {
+      "narrative_unit_id": "narrative:Uf6bzqxJAAk:805",
+      "context_bundle_id": "bundle:Uf6bzqxJAAk:805",
+      "headline": "Liam Gray: new claim around liam / i'm / nick",
+      "summary": "And Liam Gray also watched Nick Roccata attacking Liam Gray and he has there's a little clip of a video that Katie did made. By the way, I got people arguing in my messages about whether it's okay like do we agree with the idea that Nick basically said if Liam, if you're swinging from the rafters nobody would care. Chat, do you think that I did or said anything to deliberately steer you guys towards disliking Liam Gray.",
+      "what_happened": "And Liam Gray also watched Nick Roccata attacking Liam Gray and he has there's a little clip of a video that Katie did made. By the way, I got people arguing in my messages about whether it's okay like do we agree with the idea that Nick basically said if Liam, if you're swinging from the rafters nobody would care. Chat, do you think that I did or said anything to deliberately steer you guys towards disliking Liam Gray.",
+      "people_involved": [
+        "Liam Gray"
+      ],
+      "topic_terms": [
+        "liam",
+        "i'm",
+        "nick",
+        "clip",
+        "did",
+        "roccata",
+        "gray",
+        "that's"
+      ],
+      "development_types": [
+        "new_claim",
+        "response",
+        "escalation"
+      ],
+      "new_development": "The passage contains a response to earlier discussion.",
+      "uncertainties": [],
+      "evidence": {
+        "video_title": "TRASHCAST #265: The Khola King & Ethan Van Sciver Exchange",
+        "channel": "KatyDid",
+        "published_at": "2026-07-06T01:43:35+00:00",
+        "timestamp": "13:25",
+        "receipt_url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk&t=805s",
+        "context_receipt_url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk&t=730s",
+        "trigger_excerpt": "play every time somebody gives me $10. I"
+      },
+      "confidence": 0.66,
+      "review_status": "automatic_extract"
+    },
+    {
+      "narrative_unit_id": "narrative:Uf6bzqxJAAk:814",
+      "context_bundle_id": "bundle:Uf6bzqxJAAk:814",
+      "headline": "Katy and Liam Gray: new claim around liam / clip / nick",
+      "summary": "By the way, I got people arguing in my messages about whether it's okay like do we agree with the idea that Nick basically said if Liam, if you're swinging from the rafters nobody would care. Chat, do you think that I did or said anything to deliberately steer you guys towards disliking Liam Gray. We're not trying we're not playing that clip right now because Liam sincerely sincerely asked.",
+      "what_happened": "By the way, I got people arguing in my messages about whether it's okay like do we agree with the idea that Nick basically said if Liam, if you're swinging from the rafters nobody would care. Chat, do you think that I did or said anything to deliberately steer you guys towards disliking Liam Gray. We're not trying we're not playing that clip right now because Liam sincerely sincerely asked.",
+      "people_involved": [
+        "Katy",
+        "Liam Gray"
+      ],
+      "topic_terms": [
+        "liam",
+        "clip",
+        "nick",
+        "did",
+        "roccata",
+        "gray",
+        "time",
+        "i'm"
+      ],
+      "development_types": [
+        "new_claim",
+        "response"
+      ],
+      "new_development": "The passage contains a response to earlier discussion.",
+      "uncertainties": [],
+      "evidence": {
+        "video_title": "TRASHCAST #265: The Khola King & Ethan Van Sciver Exchange",
+        "channel": "KatyDid",
+        "published_at": "2026-07-06T01:43:35+00:00",
+        "timestamp": "13:34",
+        "receipt_url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk&t=814s",
+        "context_receipt_url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk&t=739s",
+        "trigger_excerpt": "somebody's asking you to just behave a"
+      },
+      "confidence": 0.66,
+      "review_status": "automatic_extract"
+    },
+    {
+      "narrative_unit_id": "narrative:Uf6bzqxJAAk:851",
+      "context_bundle_id": "bundle:Uf6bzqxJAAk:851",
+      "headline": "Katy: new claim around liam / clip / i'm",
+      "summary": "By the way, I got people arguing in my messages about whether it's okay like do we agree with the idea that Nick basically said if Liam, if you're swinging from the rafters nobody would care. Chat, do you think that I did or said anything to deliberately steer you guys towards disliking Liam Gray. We're not trying we're not playing that clip right now because Liam sincerely sincerely asked.",
+      "what_happened": "By the way, I got people arguing in my messages about whether it's okay like do we agree with the idea that Nick basically said if Liam, if you're swinging from the rafters nobody would care. Chat, do you think that I did or said anything to deliberately steer you guys towards disliking Liam Gray. We're not trying we're not playing that clip right now because Liam sincerely sincerely asked.",
+      "people_involved": [
+        "Katy"
+      ],
+      "topic_terms": [
+        "liam",
+        "clip",
+        "i'm",
+        "nick",
+        "gray",
+        "roccata",
+        "we're",
+        "stop"
+      ],
+      "development_types": [
+        "new_claim",
+        "response",
+        "escalation"
+      ],
+      "new_development": "The passage contains a response to earlier discussion.",
+      "uncertainties": [],
+      "evidence": {
+        "video_title": "TRASHCAST #265: The Khola King & Ethan Van Sciver Exchange",
+        "channel": "KatyDid",
+        "published_at": "2026-07-06T01:43:35+00:00",
+        "timestamp": "14:11",
+        "receipt_url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk&t=851s",
+        "context_receipt_url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk&t=776s",
+        "trigger_excerpt": "arguing in my messages about whether"
+      },
+      "confidence": 0.82,
+      "review_status": "automatic_extract"
+    },
+    {
+      "narrative_unit_id": "narrative:Uf6bzqxJAAk:880",
+      "context_bundle_id": "bundle:Uf6bzqxJAAk:880",
+      "headline": "Liam Gray: new claim around liam / i'm / clip",
+      "summary": "By the way, I got people arguing in my messages about whether it's okay like do we agree with the idea that Nick basically said if Liam, if you're swinging from the rafters nobody would care. Chat, do you think that I did or said anything to deliberately steer you guys towards disliking Liam Gray. I'm viewing the clip because I said some things yesterday.",
+      "what_happened": "By the way, I got people arguing in my messages about whether it's okay like do we agree with the idea that Nick basically said if Liam, if you're swinging from the rafters nobody would care. Chat, do you think that I did or said anything to deliberately steer you guys towards disliking Liam Gray. I'm viewing the clip because I said some things yesterday.",
+      "people_involved": [
+        "Liam Gray"
+      ],
+      "topic_terms": [
+        "liam",
+        "i'm",
+        "clip",
+        "we're",
+        "nick",
+        "gray",
+        "some",
+        "roccata"
+      ],
+      "development_types": [
+        "new_claim",
+        "response",
+        "escalation"
+      ],
+      "new_development": "The passage contains a response to earlier discussion.",
+      "uncertainties": [],
+      "evidence": {
+        "video_title": "TRASHCAST #265: The Khola King & Ethan Van Sciver Exchange",
+        "channel": "KatyDid",
+        "published_at": "2026-07-06T01:43:35+00:00",
+        "timestamp": "14:40",
+        "receipt_url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk&t=880s",
+        "context_receipt_url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk&t=805s",
+        "trigger_excerpt": "is me"
+      },
+      "confidence": 0.74,
+      "review_status": "automatic_extract"
+    },
+    {
+      "narrative_unit_id": "narrative:Uf6bzqxJAAk:940",
+      "context_bundle_id": "bundle:Uf6bzqxJAAk:940",
+      "headline": "Liam Gray: new claim around i'm / we're / liam",
+      "summary": "Chat, do you think that I did or said anything to deliberately steer you guys towards disliking Liam Gray. But as long as Liam Gray is making content every single day where he gets on live streams and threatens to strike channels and talks about how this is just the beginning and this guy's channel's going down next, I have no respect for his feelings. I'm viewing the clip because I said some things yesterday.",
+      "what_happened": "Chat, do you think that I did or said anything to deliberately steer you guys towards disliking Liam Gray. But as long as Liam Gray is making content every single day where he gets on live streams and threatens to strike channels and talks about how this is just the beginning and this guy's channel's going down next, I have no respect for his feelings. I'm viewing the clip because I said some things yesterday.",
+      "people_involved": [
+        "Liam Gray"
+      ],
+      "topic_terms": [
+        "i'm",
+        "we're",
+        "liam",
+        "clip",
+        "now",
+        "don't",
+        "anymore",
+        "anything"
+      ],
+      "development_types": [
+        "new_claim",
+        "escalation"
+      ],
+      "new_development": "The passage contains language suggesting escalation.",
+      "uncertainties": [
+        "The passage includes uncertain or speculative language."
+      ],
+      "evidence": {
+        "video_title": "TRASHCAST #265: The Khola King & Ethan Van Sciver Exchange",
+        "channel": "KatyDid",
+        "published_at": "2026-07-06T01:43:35+00:00",
+        "timestamp": "15:40",
+        "receipt_url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk&t=940s",
+        "context_receipt_url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk&t=865s",
+        "trigger_excerpt": "So my my trade-off to Liam is stop doing"
+      },
+      "confidence": 0.74,
+      "review_status": "automatic_extract"
+    }
+  ]
+}

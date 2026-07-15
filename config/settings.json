@@ -1,0 +1,18 @@
+{
+  "schema_version": 5,
+  "transcript_root": "transcripts",
+  "rolling_days": 28,
+  "quote_context_seconds": 30,
+  "bundle_before_seconds": 75,
+  "bundle_after_seconds": 105,
+  "story_merge_window_days": 21,
+  "story_similarity_threshold": 0.34,
+  "target_entity_id": "person:commi3-mark",
+  "source_weights": {
+    "youtube": 0.85,
+    "x": 1.0,
+    "substack": 0.9,
+    "campaign_page": 0.95,
+    "comicsgate.org": 0.25
+  }
+}

@@ -1,0 +1,570 @@
+{
+  "occurrences": [
+    {
+      "occurrence_id": "occurrence:V1nqAzwILiM:20:person:liam-gray",
+      "entity_id": "person:liam-gray",
+      "matched_alias": "Liam Gray",
+      "confidence": 1.0,
+      "video_id": "V1nqAzwILiM",
+      "title": "Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! | TRASHCAST",
+      "source": "KatyDid",
+      "published": "2026-07-08T12:40:22+00:00",
+      "segment_index": 20,
+      "start": 40.879,
+      "timestamp": "00:40",
+      "quote": "this is Liam Gray coming out of the",
+      "receipt_url": "https://www.youtube.com/watch?v=V1nqAzwILiM&t=40s",
+      "transcript_file": "transcripts/2026/07/Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! TRASHCAST [V1nqAzwILiM].json"
+    },
+    {
+      "occurrence_id": "occurrence:V1nqAzwILiM:69:person:vito-gesualdi",
+      "entity_id": "person:vito-gesualdi",
+      "matched_alias": "Veto",
+      "confidence": 0.68,
+      "video_id": "V1nqAzwILiM",
+      "title": "Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! | TRASHCAST",
+      "source": "KatyDid",
+      "published": "2026-07-08T12:40:22+00:00",
+      "segment_index": 69,
+      "start": 186.4,
+      "timestamp": "03:06",
+      "quote": "And so veto uh or not veto, I'm sorry,",
+      "receipt_url": "https://www.youtube.com/watch?v=V1nqAzwILiM&t=186s",
+      "transcript_file": "transcripts/2026/07/Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! TRASHCAST [V1nqAzwILiM].json"
+    },
+    {
+      "occurrence_id": "occurrence:V1nqAzwILiM:259:person:vito-gesualdi",
+      "entity_id": "person:vito-gesualdi",
+      "matched_alias": "Veto",
+      "confidence": 0.68,
+      "video_id": "V1nqAzwILiM",
+      "title": "Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! | TRASHCAST",
+      "source": "KatyDid",
+      "published": "2026-07-08T12:40:22+00:00",
+      "segment_index": 259,
+      "start": 650.56,
+      "timestamp": "10:50",
+      "quote": "know like Liam is like Veto in that",
+      "receipt_url": "https://www.youtube.com/watch?v=V1nqAzwILiM&t=650s",
+      "transcript_file": "transcripts/2026/07/Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! TRASHCAST [V1nqAzwILiM].json"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_id": "quote:V1nqAzwILiM:20",
+      "exact_text": "this is Liam Gray coming out of the",
+      "video_id": "V1nqAzwILiM",
+      "video_title": "Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! | TRASHCAST",
+      "channel": "KatyDid",
+      "published_at": "2026-07-08T12:40:22+00:00",
+      "timestamp_seconds": 40.879,
+      "timestamp_display": "00:40",
+      "receipt_url": "https://www.youtube.com/watch?v=V1nqAzwILiM&t=40s",
+      "transcript_file": "transcripts/2026/07/Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! TRASHCAST [V1nqAzwILiM].json",
+      "direct_entity_ids": [
+        "person:liam-gray"
+      ],
+      "nearby_entity_ids": [
+        "person:liam-gray"
+      ],
+      "context_text": "and there's a certain group of people who go well what if we spent all our time obsessively telling the people who are making shit >> what fucking retards they are and how much they suck >> okay it's called there's yeah there's room for criticism and I get that you you do it even the start everything bothers you I And that's the thing, like you're you're a little like you're a little like Liam Gray because like everything bothers Liam. So Liam made a video and this was the thumbnail of the video. Uh this is this is Liam Gray coming out of the police station. Now Liam's point of making this video with this thumbnail that he made. Uh is that he was trying to prove to people that he was uh going to the police. Okay. So, you know, if you think that Liam isn't going to the police, he he is going to the police. And uh here's uh here's proof. Now, people didn't care that Liam was going to the police. What they basically said was that white picket fence comes up to around the waistline of a normal man.",
+      "context_before": "the thumbnail of the video. Uh this is",
+      "context_after": "police station. Now Liam's point of",
+      "quote_type": "transcript_line",
+      "confidence": 1.0
+    },
+    {
+      "quote_id": "quote:V1nqAzwILiM:30",
+      "exact_text": "to the police. What they basically said",
+      "video_id": "V1nqAzwILiM",
+      "video_title": "Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! | TRASHCAST",
+      "channel": "KatyDid",
+      "published_at": "2026-07-08T12:40:22+00:00",
+      "timestamp_seconds": 66.0,
+      "timestamp_display": "01:06",
+      "receipt_url": "https://www.youtube.com/watch?v=V1nqAzwILiM&t=66s",
+      "transcript_file": "transcripts/2026/07/Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! TRASHCAST [V1nqAzwILiM].json",
+      "direct_entity_ids": [],
+      "nearby_entity_ids": [
+        "person:liam-gray"
+      ],
+      "context_text": "the thumbnail of the video. Uh this is this is Liam Gray coming out of the police station. Now Liam's point of making this video with this thumbnail that he made. Uh is that he was trying to prove to people that he was uh going to the police. Okay. So, you know, if you think that Liam isn't going to the police, he he is going to the police. And uh here's uh here's proof. Now, people didn't care that Liam was going to the police. What they basically said was that white picket fence comes up to around the waistline of a normal man. [laughter] That's a white picket fence. And it's a white pick. We've seen a white picket fence before. like they come up to about maybe they come up to your belly height. You know when [laughter]",
+      "context_before": "people didn't care that Liam was going",
+      "context_after": "was that white picket fence comes up to",
+      "quote_type": "transcript_line",
+      "confidence": 0.65
+    },
+    {
+      "quote_id": "quote:V1nqAzwILiM:60",
+      "exact_text": "table uh and stuff like low water says",
+      "video_id": "V1nqAzwILiM",
+      "video_title": "Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! | TRASHCAST",
+      "channel": "KatyDid",
+      "published_at": "2026-07-08T12:40:22+00:00",
+      "timestamp_seconds": 164.56,
+      "timestamp_display": "02:44",
+      "receipt_url": "https://www.youtube.com/watch?v=V1nqAzwILiM&t=164s",
+      "transcript_file": "transcripts/2026/07/Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! TRASHCAST [V1nqAzwILiM].json",
+      "direct_entity_ids": [],
+      "nearby_entity_ids": [
+        "person:vito-gesualdi"
+      ],
+      "context_text": "All >> [laughter] >> right, so Liam could [laughter] Oh my god. Now Liam couldn't have that. Like people were noticing that, you know, Liam is very small compared to uh the world. You know, mostly you see Liam uh sitting behind a table uh and stuff like low water says that's not funny, Ethan. I think it is. I I have to admit I you know, if it makes me laugh, then it's funny to me. You know, I genuinely if I'm gawing and laughing hard so that my eyes are watering, it's funny. Well, anyway, people were laughing at Liam uh over this picture. And so veto uh or not veto, I'm sorry, Liam uh decided that he was going to debunk this. This was very important to him that he debunk this situation. So he",
+      "context_before": "mostly you see Liam uh sitting behind a",
+      "context_after": "that's not funny, Ethan. I think it is.",
+      "quote_type": "chat_or_quote_readout",
+      "confidence": 0.65
+    },
+    {
+      "quote_id": "quote:V1nqAzwILiM:69",
+      "exact_text": "And so veto uh or not veto, I'm sorry,",
+      "video_id": "V1nqAzwILiM",
+      "video_title": "Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! | TRASHCAST",
+      "channel": "KatyDid",
+      "published_at": "2026-07-08T12:40:22+00:00",
+      "timestamp_seconds": 186.4,
+      "timestamp_display": "03:06",
+      "receipt_url": "https://www.youtube.com/watch?v=V1nqAzwILiM&t=186s",
+      "transcript_file": "transcripts/2026/07/Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! TRASHCAST [V1nqAzwILiM].json",
+      "direct_entity_ids": [
+        "person:vito-gesualdi"
+      ],
+      "nearby_entity_ids": [
+        "person:vito-gesualdi"
+      ],
+      "context_text": "very small compared to uh the world. You know, mostly you see Liam uh sitting behind a table uh and stuff like low water says that's not funny, Ethan. I think it is. I I have to admit I you know, if it makes me laugh, then it's funny to me. You know, I genuinely if I'm gawing and laughing hard so that my eyes are watering, it's funny. Well, anyway, people were laughing at Liam uh over this picture. And so veto uh or not veto, I'm sorry, Liam uh decided that he was going to debunk this. This was very important to him that he debunk this situation. So he went back there and made a video called the fascinating fence fantasy exposed >> from sort of was ragging. >> See, this is the thing like Liam couldn't just let people have a laugh at his expense cuz that that is funny. I don't think anybody really necessarily thought that Liam was uh you know two 2 and 1/2 ft tall. Uh but uh he had to debunk it anyway. >> Me for right. They're going to Oh, look.",
+      "context_before": "over this picture.",
+      "context_after": "Liam uh decided that he was going to",
+      "quote_type": "transcript_line",
+      "confidence": 0.68
+    },
+    {
+      "quote_id": "quote:V1nqAzwILiM:259",
+      "exact_text": "know like Liam is like Veto in that",
+      "video_id": "V1nqAzwILiM",
+      "video_title": "Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! | TRASHCAST",
+      "channel": "KatyDid",
+      "published_at": "2026-07-08T12:40:22+00:00",
+      "timestamp_seconds": 650.56,
+      "timestamp_display": "10:50",
+      "receipt_url": "https://www.youtube.com/watch?v=V1nqAzwILiM&t=650s",
+      "transcript_file": "transcripts/2026/07/Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! TRASHCAST [V1nqAzwILiM].json",
+      "direct_entity_ids": [
+        "person:vito-gesualdi"
+      ],
+      "nearby_entity_ids": [
+        "person:vito-gesualdi"
+      ],
+      "context_text": ">> report. weekly report >> is going on with his case. >> Oh god. >> Yes. Yes. Hi Dennis. Hi D. >> Uh she's his wife is saying hi to everybody. Okay. No need to no need to continue watching that. But uh there you go. There's the fence. And that fence is massive as you can tell. It's huge. Uh blah blah blah. Let's get back to watching. And uh but I mean the point of that is just to point out that like you know like Liam is like Veto in that they're entirely focused on their haters. Uh she's a good wife to him says. Yeah, she is. She puts up with a lot. You can tell. Uh all right, let me get back to this. But the point is that yeah, Liam is like to go back and make another video to prove to try to prove to debunk the theories of scale about that fence versus your height means that Liam is entirely focused on the people who dislike him or are making fun of him. And he shouldn't be focused on",
+      "context_before": "that is just to point out that like you",
+      "context_after": "they're entirely focused on their",
+      "quote_type": "transcript_line",
+      "confidence": 0.68
+    },
+    {
+      "quote_id": "quote:V1nqAzwILiM:262",
+      "exact_text": "says. Yeah, she is. She puts up with a",
+      "video_id": "V1nqAzwILiM",
+      "video_title": "Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! | TRASHCAST",
+      "channel": "KatyDid",
+      "published_at": "2026-07-08T12:40:22+00:00",
+      "timestamp_seconds": 658.64,
+      "timestamp_display": "10:58",
+      "receipt_url": "https://www.youtube.com/watch?v=V1nqAzwILiM&t=658s",
+      "transcript_file": "transcripts/2026/07/Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! TRASHCAST [V1nqAzwILiM].json",
+      "direct_entity_ids": [],
+      "nearby_entity_ids": [
+        "person:vito-gesualdi"
+      ],
+      "context_text": ">> Uh she's his wife is saying hi to everybody. Okay. No need to no need to continue watching that. But uh there you go. There's the fence. And that fence is massive as you can tell. It's huge. Uh blah blah blah. Let's get back to watching. And uh but I mean the point of that is just to point out that like you know like Liam is like Veto in that they're entirely focused on their haters. Uh she's a good wife to him says. Yeah, she is. She puts up with a lot. You can tell. Uh all right, let me get back to this. But the point is that yeah, Liam is like to go back and make another video to prove to try to prove to debunk the theories of scale about that fence versus your height means that Liam is entirely focused on the people who dislike him or are making fun of him. And he shouldn't be focused on that. He should be focused on the people who love him. Uh like I used to. I mean, I used to, you know, I don't like him at all, but I used to. All right.",
+      "context_before": "haters. Uh she's a good wife to him",
+      "context_after": "lot. You can tell. Uh all right, let me",
+      "quote_type": "chat_or_quote_readout",
+      "confidence": 0.65
+    }
+  ],
+  "bundles": [
+    {
+      "context_bundle_id": "bundle:V1nqAzwILiM:40",
+      "video_id": "V1nqAzwILiM",
+      "title": "Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! | TRASHCAST",
+      "channel": "KatyDid",
+      "published_at": "2026-07-08T12:40:22+00:00",
+      "start_seconds": 0,
+      "end_seconds": 145.879,
+      "start_display": "00:00",
+      "end_display": "02:25",
+      "receipt_url": "https://www.youtube.com/watch?v=V1nqAzwILiM&t=0s",
+      "trigger_quote_id": "quote:V1nqAzwILiM:20",
+      "trigger_receipt_url": "https://www.youtube.com/watch?v=V1nqAzwILiM&t=40s",
+      "involved_entity_ids": [
+        "person:liam-gray"
+      ],
+      "involved_entity_names": [
+        "Liam Gray"
+      ],
+      "topic_terms": [
+        "liam",
+        "police",
+        "laughter",
+        "white",
+        "who",
+        "let's",
+        "now",
+        "picket",
+        "fence",
+        "there's"
+      ],
+      "context_text": "of people is where you run into trouble where you go these guys who you got a certain group of guys who are going let's create comedy let's make videos let's do skits let's make comic books and there's a certain group of people who go well what if we spent all our time obsessively telling the people who are making shit >> what fucking retards they are and how much they suck >> okay it's called there's yeah there's room for criticism and I get that you you do it even the start everything bothers you I And that's the thing, like you're you're a little like you're a little like Liam Gray because like everything bothers Liam. So Liam made a video and this was the thumbnail of the video. Uh this is this is Liam Gray coming out of the police station. Now Liam's point of making this video with this thumbnail that he made. Uh is that he was trying to prove to people that he was uh going to the police. Okay. So, you know, if you think that Liam isn't going to the police, he he is going to the police. And uh here's uh here's proof. Now, people didn't care that Liam was going to the police. What they basically said was that white picket fence comes up to around the waistline of a normal man. [laughter] That's a white picket fence. And it's a white pick. We've seen a white picket fence before. like they come up to about maybe they come up to your belly height. You know when [laughter] [laughter] Oh god. though to scale. Uh yeah, Liam like is very small like uh you know I like him strutting out of there. Look at him. Look at him. He's like I've been to the police now. I tattled to the popo. Look at his like fist as he's walking like he's walking like like this Popeye. But I mean that's like a white picket fence. So now [laughter] All >> [laughter] >> right, so Liam could [laughter]",
+      "supporting_quote_ids": [
+        "quote:V1nqAzwILiM:20",
+        "quote:V1nqAzwILiM:30"
+      ],
+      "confidence": 1.0
+    },
+    {
+      "context_bundle_id": "bundle:V1nqAzwILiM:66",
+      "video_id": "V1nqAzwILiM",
+      "title": "Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! | TRASHCAST",
+      "channel": "KatyDid",
+      "published_at": "2026-07-08T12:40:22+00:00",
+      "start_seconds": 0,
+      "end_seconds": 171.0,
+      "start_display": "00:00",
+      "end_display": "02:51",
+      "receipt_url": "https://www.youtube.com/watch?v=V1nqAzwILiM&t=0s",
+      "trigger_quote_id": "quote:V1nqAzwILiM:30",
+      "trigger_receipt_url": "https://www.youtube.com/watch?v=V1nqAzwILiM&t=66s",
+      "involved_entity_ids": [
+        "person:liam-gray"
+      ],
+      "involved_entity_names": [
+        "Liam Gray"
+      ],
+      "topic_terms": [
+        "liam",
+        "police",
+        "laughter",
+        "now",
+        "white",
+        "who",
+        "let's",
+        "that's",
+        "picket",
+        "fence"
+      ],
+      "context_text": "of people is where you run into trouble where you go these guys who you got a certain group of guys who are going let's create comedy let's make videos let's do skits let's make comic books and there's a certain group of people who go well what if we spent all our time obsessively telling the people who are making shit >> what fucking retards they are and how much they suck >> okay it's called there's yeah there's room for criticism and I get that you you do it even the start everything bothers you I And that's the thing, like you're you're a little like you're a little like Liam Gray because like everything bothers Liam. So Liam made a video and this was the thumbnail of the video. Uh this is this is Liam Gray coming out of the police station. Now Liam's point of making this video with this thumbnail that he made. Uh is that he was trying to prove to people that he was uh going to the police. Okay. So, you know, if you think that Liam isn't going to the police, he he is going to the police. And uh here's uh here's proof. Now, people didn't care that Liam was going to the police. What they basically said was that white picket fence comes up to around the waistline of a normal man. [laughter] That's a white picket fence. And it's a white pick. We've seen a white picket fence before. like they come up to about maybe they come up to your belly height. You know when [laughter] [laughter] Oh god. though to scale. Uh yeah, Liam like is very small like uh you know I like him strutting out of there. Look at him. Look at him. He's like I've been to the police now. I tattled to the popo. Look at his like fist as he's walking like he's walking like like this Popeye. But I mean that's like a white picket fence. So now [laughter] All >> [laughter] >> right, so Liam could [laughter] Oh my god. Now Liam couldn't have that. Like people were noticing that, you know, Liam is very small compared to uh the world. You know, mostly you see Liam uh sitting behind a table uh and stuff like low water says that's not funny, Ethan. I think it is. I I have to admit I you know, if it",
+      "supporting_quote_ids": [
+        "quote:V1nqAzwILiM:20",
+        "quote:V1nqAzwILiM:30",
+        "quote:V1nqAzwILiM:60"
+      ],
+      "confidence": 0.65
+    },
+    {
+      "context_bundle_id": "bundle:V1nqAzwILiM:164",
+      "video_id": "V1nqAzwILiM",
+      "title": "Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! | TRASHCAST",
+      "channel": "KatyDid",
+      "published_at": "2026-07-08T12:40:22+00:00",
+      "start_seconds": 89.56,
+      "end_seconds": 269.56,
+      "start_display": "01:29",
+      "end_display": "04:29",
+      "receipt_url": "https://www.youtube.com/watch?v=V1nqAzwILiM&t=89s",
+      "trigger_quote_id": "quote:V1nqAzwILiM:60",
+      "trigger_receipt_url": "https://www.youtube.com/watch?v=V1nqAzwILiM&t=164s",
+      "involved_entity_ids": [
+        "person:vito-gesualdi"
+      ],
+      "involved_entity_names": [
+        "Vito Gesualdi"
+      ],
+      "topic_terms": [
+        "liam",
+        "laughter",
+        "police",
+        "fence",
+        "funny",
+        "now",
+        "don't",
+        "very",
+        "he's",
+        "see"
+      ],
+      "context_text": "[laughter] [laughter] Oh god. though to scale. Uh yeah, Liam like is very small like uh you know I like him strutting out of there. Look at him. Look at him. He's like I've been to the police now. I tattled to the popo. Look at his like fist as he's walking like he's walking like like this Popeye. But I mean that's like a white picket fence. So now [laughter] All >> [laughter] >> right, so Liam could [laughter] Oh my god. Now Liam couldn't have that. Like people were noticing that, you know, Liam is very small compared to uh the world. You know, mostly you see Liam uh sitting behind a table uh and stuff like low water says that's not funny, Ethan. I think it is. I I have to admit I you know, if it makes me laugh, then it's funny to me. You know, I genuinely if I'm gawing and laughing hard so that my eyes are watering, it's funny. Well, anyway, people were laughing at Liam uh over this picture. And so veto uh or not veto, I'm sorry, Liam uh decided that he was going to debunk this. This was very important to him that he debunk this situation. So he went back there and made a video called the fascinating fence fantasy exposed >> from sort of was ragging. >> See, this is the thing like Liam couldn't just let people have a laugh at his expense cuz that that is funny. I don't think anybody really necessarily thought that Liam was uh you know two 2 and 1/2 ft tall. Uh but uh he had to debunk it anyway. >> Me for right. They're going to Oh, look. We got him. But I want to actually explain this cuz this is interesting. So this is the courthouse, right? This is the same fences over there. But I thought I'd do this. So see >> why does that picture He posted it, right? >> He posted it >> because we've got these weird fences. Like this is like a garden fence. >> So what happened was just so you know, like he wanted to prove to his haters that he was he was going to the police. Like I'm Liam. I am going to the police. Uh, and uh, so he had his wife film him going to the police and live stream it from the car. She live streamed him going into the police department in and out of that gate from the car. I don't I don't know why I haven't watched like Liam streams. I don't really watch Liam streams, but every now and then something comes up that just makes me laugh. I think this is really really funny. All right, so here he is proving that the fence is much bigger than we thought. It's like two feet higher than a normal garden fence. So, it makes you",
+      "supporting_quote_ids": [
+        "quote:V1nqAzwILiM:60",
+        "quote:V1nqAzwILiM:69"
+      ],
+      "confidence": 0.65
+    },
+    {
+      "context_bundle_id": "bundle:V1nqAzwILiM:186",
+      "video_id": "V1nqAzwILiM",
+      "title": "Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! | TRASHCAST",
+      "channel": "KatyDid",
+      "published_at": "2026-07-08T12:40:22+00:00",
+      "start_seconds": 111.4,
+      "end_seconds": 291.4,
+      "start_display": "01:51",
+      "end_display": "04:51",
+      "receipt_url": "https://www.youtube.com/watch?v=V1nqAzwILiM&t=111s",
+      "trigger_quote_id": "quote:V1nqAzwILiM:69",
+      "trigger_receipt_url": "https://www.youtube.com/watch?v=V1nqAzwILiM&t=186s",
+      "involved_entity_ids": [
+        "person:vito-gesualdi"
+      ],
+      "involved_entity_names": [
+        "Vito Gesualdi"
+      ],
+      "topic_terms": [
+        "liam",
+        "police",
+        "fence",
+        "funny",
+        "now",
+        "don't",
+        "very",
+        "small",
+        "he's",
+        "laughter"
+      ],
+      "context_text": "yeah, Liam like is very small like uh you know I like him strutting out of there. Look at him. Look at him. He's like I've been to the police now. I tattled to the popo. Look at his like fist as he's walking like he's walking like like this Popeye. But I mean that's like a white picket fence. So now [laughter] All >> [laughter] >> right, so Liam could [laughter] Oh my god. Now Liam couldn't have that. Like people were noticing that, you know, Liam is very small compared to uh the world. You know, mostly you see Liam uh sitting behind a table uh and stuff like low water says that's not funny, Ethan. I think it is. I I have to admit I you know, if it makes me laugh, then it's funny to me. You know, I genuinely if I'm gawing and laughing hard so that my eyes are watering, it's funny. Well, anyway, people were laughing at Liam uh over this picture. And so veto uh or not veto, I'm sorry, Liam uh decided that he was going to debunk this. This was very important to him that he debunk this situation. So he went back there and made a video called the fascinating fence fantasy exposed >> from sort of was ragging. >> See, this is the thing like Liam couldn't just let people have a laugh at his expense cuz that that is funny. I don't think anybody really necessarily thought that Liam was uh you know two 2 and 1/2 ft tall. Uh but uh he had to debunk it anyway. >> Me for right. They're going to Oh, look. We got him. But I want to actually explain this cuz this is interesting. So this is the courthouse, right? This is the same fences over there. But I thought I'd do this. So see >> why does that picture He posted it, right? >> He posted it >> because we've got these weird fences. Like this is like a garden fence. >> So what happened was just so you know, like he wanted to prove to his haters that he was he was going to the police. Like I'm Liam. I am going to the police. Uh, and uh, so he had his wife film him going to the police and live stream it from the car. She live streamed him going into the police department in and out of that gate from the car. I don't I don't know why I haven't watched like Liam streams. I don't really watch Liam streams, but every now and then something comes up that just makes me laugh. I think this is really really funny. All right, so here he is proving that the fence is much bigger than we thought. It's like two feet higher than a normal garden fence. So, it makes you look like tiny, right? But like people won't believe it. There's the door for scale. We're just going to go over here. >> It still looks really small just based on show these guys. Otherwise, I got to show them a normal next to the one. So, this is a casino. Uh this is casino uh what's it? Who's uh >> casino police department from the cops?",
+      "supporting_quote_ids": [
+        "quote:V1nqAzwILiM:60",
+        "quote:V1nqAzwILiM:69"
+      ],
+      "confidence": 0.68
+    },
+    {
+      "context_bundle_id": "bundle:V1nqAzwILiM:650",
+      "video_id": "V1nqAzwILiM",
+      "title": "Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! | TRASHCAST",
+      "channel": "KatyDid",
+      "published_at": "2026-07-08T12:40:22+00:00",
+      "start_seconds": 575.56,
+      "end_seconds": 755.56,
+      "start_display": "09:35",
+      "end_display": "12:35",
+      "receipt_url": "https://www.youtube.com/watch?v=V1nqAzwILiM&t=575s",
+      "trigger_quote_id": "quote:V1nqAzwILiM:259",
+      "trigger_receipt_url": "https://www.youtube.com/watch?v=V1nqAzwILiM&t=650s",
+      "involved_entity_ids": [
+        "person:vito-gesualdi"
+      ],
+      "involved_entity_names": [
+        "Vito Gesualdi"
+      ],
+      "topic_terms": [
+        "back",
+        "liam",
+        "all",
+        "laughter",
+        "focused",
+        "report",
+        "can",
+        "wife",
+        "fence",
+        "blah"
+      ],
+      "context_text": "to do our weekly report of Liam. >> Can you imagine? He's going to the police station all the time to talk about online bullying >> for the day >> with his wife and family. >> Come back. >> [laughter] [laughter] >> Oh shit. [laughter] >> Yeah. Thank you. [laughter] >> Oh my goodness sakes. >> There he goes. >> Yeah. So like there he goes. He's going back in >> report. weekly report >> is going on with his case. >> Oh god. >> Yes. Yes. Hi Dennis. Hi D. >> Uh she's his wife is saying hi to everybody. Okay. No need to no need to continue watching that. But uh there you go. There's the fence. And that fence is massive as you can tell. It's huge. Uh blah blah blah. Let's get back to watching. And uh but I mean the point of that is just to point out that like you know like Liam is like Veto in that they're entirely focused on their haters. Uh she's a good wife to him says. Yeah, she is. She puts up with a lot. You can tell. Uh all right, let me get back to this. But the point is that yeah, Liam is like to go back and make another video to prove to try to prove to debunk the theories of scale about that fence versus your height means that Liam is entirely focused on the people who dislike him or are making fun of him. And he shouldn't be focused on that. He should be focused on the people who love him. Uh like I used to. I mean, I used to, you know, I don't like him at all, but I used to. All right. Well, that's what happens. Help. Call a famous YouTuber. Call a streamer. >> Clip clip and snip snip.",
+      "supporting_quote_ids": [
+        "quote:V1nqAzwILiM:259",
+        "quote:V1nqAzwILiM:262"
+      ],
+      "confidence": 0.68
+    }
+  ],
+  "narratives": [
+    {
+      "narrative_unit_id": "narrative:V1nqAzwILiM:40",
+      "context_bundle_id": "bundle:V1nqAzwILiM:40",
+      "headline": "Liam Gray: liam / police / laughter / white",
+      "summary": "of people is where you run into trouble where you go these guys who you got a certain group of guys who are going let's create comedy let's make videos let's do skits let's make comic books and there's a certain group of people who go well what if we spent all our time obsessively telling the people who are making shit >> okay it's called there's yeah there's room for criticism and I get that you you do it even the start everything bothers you I And that's the thing, like you're you're a little like you're a little like Liam Gray because like everything bothers Liam. Uh this is this is Liam Gray coming out of the police station.",
+      "people_involved": [
+        "Liam Gray"
+      ],
+      "topic_terms": [
+        "liam",
+        "police",
+        "laughter",
+        "white",
+        "who",
+        "let's",
+        "now",
+        "picket",
+        "fence",
+        "there's"
+      ],
+      "supporting_quote_ids": [
+        "quote:V1nqAzwILiM:20",
+        "quote:V1nqAzwILiM:30"
+      ],
+      "uncertainties": [
+        "contains_uncertain_language"
+      ],
+      "evidence": {
+        "video_title": "Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! | TRASHCAST",
+        "channel": "KatyDid",
+        "published_at": "2026-07-08T12:40:22+00:00",
+        "timestamp": "00:40",
+        "receipt_url": "https://www.youtube.com/watch?v=V1nqAzwILiM&t=40s",
+        "context_receipt_url": "https://www.youtube.com/watch?v=V1nqAzwILiM&t=0s"
+      },
+      "confidence": 1.0,
+      "review_status": "automatic_extract"
+    },
+    {
+      "narrative_unit_id": "narrative:V1nqAzwILiM:66",
+      "context_bundle_id": "bundle:V1nqAzwILiM:66",
+      "headline": "Liam Gray: liam / police / laughter / now",
+      "summary": "of people is where you run into trouble where you go these guys who you got a certain group of guys who are going let's create comedy let's make videos let's do skits let's make comic books and there's a certain group of people who go well what if we spent all our time obsessively telling the people who are making shit >> okay it's called there's yeah there's room for criticism and I get that you you do it even the start everything bothers you I And that's the thing, like you're you're a little like you're a little like Liam Gray because like everything bothers Liam. Uh this is this is Liam Gray coming out of the police station.",
+      "people_involved": [
+        "Liam Gray"
+      ],
+      "topic_terms": [
+        "liam",
+        "police",
+        "laughter",
+        "now",
+        "white",
+        "who",
+        "let's",
+        "that's",
+        "picket",
+        "fence"
+      ],
+      "supporting_quote_ids": [
+        "quote:V1nqAzwILiM:20",
+        "quote:V1nqAzwILiM:30",
+        "quote:V1nqAzwILiM:60"
+      ],
+      "uncertainties": [
+        "contains_uncertain_language"
+      ],
+      "evidence": {
+        "video_title": "Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! | TRASHCAST",
+        "channel": "KatyDid",
+        "published_at": "2026-07-08T12:40:22+00:00",
+        "timestamp": "01:06",
+        "receipt_url": "https://www.youtube.com/watch?v=V1nqAzwILiM&t=66s",
+        "context_receipt_url": "https://www.youtube.com/watch?v=V1nqAzwILiM&t=0s"
+      },
+      "confidence": 0.65,
+      "review_status": "automatic_extract"
+    },
+    {
+      "narrative_unit_id": "narrative:V1nqAzwILiM:164",
+      "context_bundle_id": "bundle:V1nqAzwILiM:164",
+      "headline": "Vito Gesualdi: liam / laughter / police / fence",
+      "summary": "You know, mostly you see Liam uh sitting behind a table uh and stuff like low water says that's not funny, Ethan. >> why does that picture He posted it, right? >> So what happened was just so you know, like he wanted to prove to his haters that he was he was going to the police.",
+      "people_involved": [
+        "Vito Gesualdi"
+      ],
+      "topic_terms": [
+        "liam",
+        "laughter",
+        "police",
+        "fence",
+        "funny",
+        "now",
+        "don't",
+        "very",
+        "he's",
+        "see"
+      ],
+      "supporting_quote_ids": [
+        "quote:V1nqAzwILiM:60",
+        "quote:V1nqAzwILiM:69"
+      ],
+      "uncertainties": [
+        "contains_uncertain_language"
+      ],
+      "evidence": {
+        "video_title": "Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! | TRASHCAST",
+        "channel": "KatyDid",
+        "published_at": "2026-07-08T12:40:22+00:00",
+        "timestamp": "02:44",
+        "receipt_url": "https://www.youtube.com/watch?v=V1nqAzwILiM&t=164s",
+        "context_receipt_url": "https://www.youtube.com/watch?v=V1nqAzwILiM&t=89s"
+      },
+      "confidence": 0.65,
+      "review_status": "automatic_extract"
+    },
+    {
+      "narrative_unit_id": "narrative:V1nqAzwILiM:186",
+      "context_bundle_id": "bundle:V1nqAzwILiM:186",
+      "headline": "Vito Gesualdi: liam / police / fence / funny",
+      "summary": "You know, mostly you see Liam uh sitting behind a table uh and stuff like low water says that's not funny, Ethan. >> why does that picture He posted it, right? >> So what happened was just so you know, like he wanted to prove to his haters that he was he was going to the police.",
+      "people_involved": [
+        "Vito Gesualdi"
+      ],
+      "topic_terms": [
+        "liam",
+        "police",
+        "fence",
+        "funny",
+        "now",
+        "don't",
+        "very",
+        "small",
+        "he's",
+        "laughter"
+      ],
+      "supporting_quote_ids": [
+        "quote:V1nqAzwILiM:60",
+        "quote:V1nqAzwILiM:69"
+      ],
+      "uncertainties": [
+        "contains_uncertain_language"
+      ],
+      "evidence": {
+        "video_title": "Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! | TRASHCAST",
+        "channel": "KatyDid",
+        "published_at": "2026-07-08T12:40:22+00:00",
+        "timestamp": "03:06",
+        "receipt_url": "https://www.youtube.com/watch?v=V1nqAzwILiM&t=186s",
+        "context_receipt_url": "https://www.youtube.com/watch?v=V1nqAzwILiM&t=111s"
+      },
+      "confidence": 0.68,
+      "review_status": "automatic_extract"
+    },
+    {
+      "narrative_unit_id": "narrative:V1nqAzwILiM:650",
+      "context_bundle_id": "bundle:V1nqAzwILiM:650",
+      "headline": "Vito Gesualdi: back / liam / all / laughter",
+      "summary": "He's going to the police station all the time to talk about online bullying Uh she's a good wife to him says. But the point is that yeah, Liam is like to go back and make another video to prove to try to prove to debunk the theories of scale about that fence versus your height means that Liam is entirely focused on the people who dislike him or are making fun of him.",
+      "people_involved": [
+        "Vito Gesualdi"
+      ],
+      "topic_terms": [
+        "back",
+        "liam",
+        "all",
+        "laughter",
+        "focused",
+        "report",
+        "can",
+        "wife",
+        "fence",
+        "blah"
+      ],
+      "supporting_quote_ids": [
+        "quote:V1nqAzwILiM:259",
+        "quote:V1nqAzwILiM:262"
+      ],
+      "uncertainties": [],
+      "evidence": {
+        "video_title": "Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! | TRASHCAST",
+        "channel": "KatyDid",
+        "published_at": "2026-07-08T12:40:22+00:00",
+        "timestamp": "10:50",
+        "receipt_url": "https://www.youtube.com/watch?v=V1nqAzwILiM&t=650s",
+        "context_receipt_url": "https://www.youtube.com/watch?v=V1nqAzwILiM&t=575s"
+      },
+      "confidence": 0.68,
+      "review_status": "automatic_extract"
+    }
+  ]
+}

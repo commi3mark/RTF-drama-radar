@@ -1,0 +1,144 @@
+[2026-07-14 21:21:07] =================================================================
+[2026-07-14 21:21:07] DRAMA RADAR AUTOMATED RUN
+[2026-07-14 21:21:07] Project folder: C:\AI\RTF-drama-radar
+[2026-07-14 21:21:07] Python: C:\Program Files\Python310\python.exe
+[2026-07-14 21:21:07] =================================================================
+[2026-07-14 21:21:07] Lock acquired by process 23712.
+[2026-07-14 21:21:07] 
+[2026-07-14 21:21:07] =================================================================
+[2026-07-14 21:21:07] STARTING — Source collection
+[2026-07-14 21:21:07] COMMAND  — C:\Program Files\Python310\python.exe C:\AI\RTF-drama-radar\build_radar.py
+[2026-07-14 21:21:07] =================================================================
+[2026-07-14 21:21:08] [Source collection] Drama Radar v5 build complete.
+[2026-07-14 21:21:08] [Source collection] Transcript files: 48
+[2026-07-14 21:21:08] [Source collection] Changed/new: 0
+[2026-07-14 21:21:08] [Source collection] Unchanged from cache: 48
+[2026-07-14 21:21:08] [Source collection] Failed: 0
+[2026-07-14 21:21:08] [Source collection] Quotes: 2139
+[2026-07-14 21:21:08] [Source collection] Context bundles: 1127
+[2026-07-14 21:21:08] [Source collection] Narratives: 1127
+[2026-07-14 21:21:08] [Source collection] Stories: 51
+[2026-07-14 21:21:08] [Source collection] People: 9
+[2026-07-14 21:21:08] FINISHED — Source collection: SUCCESS after 1.7 seconds.
+[2026-07-14 21:21:08] 
+[2026-07-14 21:21:08] =================================================================
+[2026-07-14 21:21:08] STARTING — Transcript enrichment
+[2026-07-14 21:21:08] COMMAND  — C:\Program Files\Python310\python.exe C:\AI\RTF-drama-radar\enrich_transcripts.py
+[2026-07-14 21:21:08] =================================================================
+[2026-07-14 21:21:27] [Transcript enrichment] Found 64 YouTube items.
+[2026-07-14 21:21:27] [Transcript enrichment] [1/64] SKIPPED - already archived: #COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!
+[2026-07-14 21:21:27] [Transcript enrichment] [2/64] SKIPPED - already archived: Meme Copium: The 50 Year Nickayla Rekieta Butthurt HRO Against Aaron Imholte (Jul 13, 2026)
+[2026-07-14 21:21:27] [Transcript enrichment] [3/64] SKIPPED - already archived: Channel Update And New Stream Schedule!
+[2026-07-14 21:21:27] [Transcript enrichment] [4/64] SKIPPED - already archived: Detractor Kings Is DEAD! Long Live The Geek Getaway!
+[2026-07-14 21:21:27] [Transcript enrichment] [5/64] SKIPPED - retry due 2026-07-14T21:52:04.062909+00:00: Good Morning ComicsGate #99
+[2026-07-14 21:21:27] [Transcript enrichment] [6/64] SKIPPED - already archived: Potentially Criminal on Nick Rekieta’s Downfall (Jul 12, 2026)
+[2026-07-14 21:21:27] [Transcript enrichment] [7/64] SKIPPED - already archived: You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto!
+[2026-07-14 21:21:27] [Transcript enrichment] [8/64] SKIPPED - already archived: TheQuartering’s Mobility Scooter w/ Tuesday Night’s Main Event (Jul 7, 2026)
+[2026-07-14 21:21:27] [Transcript enrichment] [9/64] SKIPPED - already archived: Kino Casino: JF Gariepy’s Love Quest Continues & an Obsession Review (Jul 8, 2026)
+[2026-07-14 21:21:27] [Transcript enrichment] [10/64] SKIPPED - already archived: Rekieta Law: Rumble Was a Mistake & Kick Has Potential (if he can get it working) Jul 11, 2026
+[2026-07-14 21:21:27] [Transcript enrichment] [11/64] SKIPPED - already archived: Ethan Van Sciver Learns The Truth of DRONES! | The Khola King Fear
+[2026-07-14 21:21:27] [Transcript enrichment] [12/64] SKIPPED - retry due 2026-07-14T21:52:25.633371+00:00: No More Physical Media! - Gabbing With Geeks
+[2026-07-14 21:21:27] [Transcript enrichment] [13/64] SKIPPED - already archived: Kino Casino: Nerdrotic Fires Chrissie Mayr from Friday Night Tights (Jul 10, 2026)
+[2026-07-14 21:21:27] [Transcript enrichment] [14/64] SKIPPED - already archived: Rekieta Law: Aaron Imholte’s HRO Won’t Last Forever & the Daily Mail Article (Jul 10, 2026)
+[2026-07-14 21:21:27] [Transcript enrichment] [15/64] SKIPPED - already archived: JCW Lunacy #90 Watch Party
+[2026-07-14 21:21:27] [Transcript enrichment] [16/64] SKIPPED - already archived: It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on "WOKE"! LANTERNS Spoilers?!
+[2026-07-14 21:21:27] [Transcript enrichment] [17/64] SKIPPED - already archived: Friday Night Tights Wishes Chrissie Mayr the Best (Jul 10, 2026)
+[2026-07-14 21:21:27] [Transcript enrichment] [18/64] SKIPPED - already archived: ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY
+[2026-07-14 21:21:27] [Transcript enrichment] [19/64] SKIPPED - already archived: Jer the Ren Fair Creeper Returns This Weekend! & a Coffee Brand Cope Session w/ TheQuartering
+[2026-07-14 21:21:27] [Transcript enrichment] [20/64] SKIPPED - already archived: TONIGHT ON KINO CASINO!! TheQuartering CBC Dropship Confirmed! Total DSP Victory! Angry Joe & More!!
+[2026-07-14 21:21:27] [Transcript enrichment] [21/64] SKIPPED - already archived: Chrissie Mayr Officially FIRED from FRIDAY NIGHT TIGHTS | j.A.C.k Show | July 9th 2026
+[2026-07-14 21:21:27] [Transcript enrichment] [22/64] SKIPPED - already archived: The Tribunal of Liam Gray | DROPBOX DRAMA
+[2026-07-14 21:21:27] [Transcript enrichment] [23/64] SKIPPED - already archived: MATI: The Rekieta Segment - Nontent Skelly’s Daily Mail Article (Jul 10, 2026)
+[2026-07-14 21:21:27] [Transcript enrichment] [24/64] SKIPPED - already archived: Chrissie Mayr Officially Fired from Friday Night Tights (Jul 9, 2026)
+[2026-07-14 21:21:27] [Transcript enrichment] [25/64] SKIPPED - already archived: Sturgis Went To Japan On Thirsty Thursday!
+[2026-07-14 21:21:27] [Transcript enrichment] [26/64] SKIPPED - already archived: TRASHCAST # 271! Worldwide Rippaverse, 121 viewers, 14 comics sold! Leem sends me a "legal notice"
+[2026-07-14 21:21:27] [Transcript enrichment] [27/64] SKIPPED - already archived: TheQuartering is Going to the Ren Fair (Jul 9, 2026)
+[2026-07-14 21:21:27] [Transcript enrichment] [28/64] SKIPPED - already archived: Kino Casino: Brad Cool’s Offer to TheQuartering & Jer’s DEFINITELY Banned from the Ren Fair Jul 2026
+[2026-07-14 21:21:27] [Transcript enrichment] [29/64] SKIPPED - already archived: SHOUT OUT TO ALPHACORE #3!! | Rippaverse | @Jon_Malin
+[2026-07-14 21:21:27] [Transcript enrichment] [30/64] SKIPPED - already archived: Kino Casino: TheQuartering Vlogs Ep. 1 (Jul 8, 2026)
+[2026-07-14 21:21:27] [Transcript enrichment] [31/64] SKIPPED - already archived: CG AFTER DARK #35
+[2026-07-14 21:21:27] [Transcript enrichment] [32/64] SKIPPED - already archived: Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! | TRASHCAST
+[2026-07-14 21:21:27] [Transcript enrichment] [33/64] SKIPPED - already archived: Finbarr STOMPS A Dwarf! - OPEN PANEL MADHOUSE!!!!
+[2026-07-14 21:21:27] [Transcript enrichment] [34/64] SKIPPED - already archived: Katydid Caught LYING AGAIN! - Detractor Kings
+[2026-07-14 21:21:27] [Transcript enrichment] [35/64] SKIPPED - already archived: COMICSGATE KINGS: Let's draw GOTHAM characters!
+[2026-07-14 21:21:27] [Transcript enrichment] [36/64] SKIPPED - retry due 2026-07-14T21:52:49.835924+00:00: I TOLD YOU! EMERGENCY TRASHCAST # 270! I was right again!
+[2026-07-14 21:21:27] [Transcript enrichment] [37/64] SKIPPED - retry due 2026-07-14T21:53:08.237216+00:00: Good Morning ComicsGate #98
+[2026-07-14 21:21:27] [Transcript enrichment] [38/64] SKIPPED - already archived: Supergirl BOMBS And Might END The DCU! - CG Suburbs
+[2026-07-14 21:21:27] [Transcript enrichment] [39/64] SKIPPED - already archived: TRASHCAST #265: The Khola King & Ethan Van Sciver Exchange
+[2026-07-14 21:21:27] [Transcript enrichment] [40/64] SKIPPED - retry due 2026-07-14T21:59:08.538730+00:00: TRASHCAST #269. Just a bunch of dumb crap, assumptions, rumors and nonsense. Waste of time.
+[2026-07-14 21:21:27] [Transcript enrichment] [41/64] SKIPPED - already archived: Becoming All Powerful & the Ultimate Underdog!
+[2026-07-14 21:21:27] [Transcript enrichment] [42/64] SKIPPED - already archived: Liam Gray and His Mighty Chalice | Anna TSWG, Cecil, Rekieta and more
+[2026-07-14 21:21:27] [Transcript enrichment] [43/64] SKIPPED - already archived: The Biggest Problem in the Universe Comes to an END!
+[2026-07-14 21:21:27] [Transcript enrichment] [44/64] SKIPPED - already archived: JCW Lunacy #89 Watch Party
+[2026-07-14 21:21:27] [Transcript enrichment] [45/64] SKIPPED - already archived: Disgusting DEI filth! TRASHCAST #268!DESTROYED BY YA BOI ZACK! Eric July STILL can't take criticism!
+[2026-07-14 21:21:27] [Transcript enrichment] [46/64] SKIPPED - already archived: JON DEL ARROZ: HERES THE ATTENTION YOU ORDERED - SHANE DAVIS BACK ME BRO INTERNET BEEF - EXTRA SALTY
+[2026-07-14 21:21:27] [Transcript enrichment] [47/64] SKIPPED - already archived: "I REPORTED THE DROPBOX!" Liam Gray Responds to EVS Reacting To A Viral Clip
+[2026-07-14 21:21:27] [Transcript enrichment] [48/64] SKIPPED - already archived: FFS: Shane Davis Stops By! Discusses JDA & BACKmeBro
+[2026-07-14 21:21:27] [Transcript enrichment] [49/64] SKIPPED - already archived: (RE-UPLOAD)The Aftermath Of Frog Tony's EMBARRASSING appearance on The Biggest Problem
+[2026-07-14 21:21:27] [Transcript enrichment] [50/64] SKIPPED - already archived: TRASHCAST # 267 BIGGEST PROBLEM was insane. Vito is a outta control. I pity him.
+[2026-07-14 21:21:27] [Transcript enrichment] [51/64] SKIPPED - already archived: Cynic Got CATFISHED And EVS Continues To SPIRAL On Thirsty Thursday!
+[2026-07-14 21:21:27] [Transcript enrichment] [52/64] SKIPPED - retry due 2026-07-14T21:59:33.431121+00:00: Mass GARBAGE UPHEAVEL! TRASHCAST # 266! ERIC JULY TIK TOK MELTDOWN! KIDS & LIAM: Should We See 'Em?
+[2026-07-14 21:21:27] [Transcript enrichment] [53/64] SKIPPED - already archived: Checking In On The LATE Campaigns Of EVS! - OPEN PANEL MADHOUSE!
+[2026-07-14 21:21:27] [Transcript enrichment] [54/64] SKIPPED - retry due 2026-07-14T21:59:51.320959+00:00: DRAW-MUH STREAM! REIGNBOW THE BRUTE Death of Papa Smerc page 3 pt 2
+[2026-07-14 21:21:27] [Transcript enrichment] [55/64] SKIPPED - already archived: DRAW-MUH STREAM! REIGNBOW THE BRUTE Death of Papa Smerc page 3 pt3
+[2026-07-14 21:21:27] [Transcript enrichment] [56/64] SKIPPED - already archived: Catching Up With The Rippaverse! - Detractor Kings
+[2026-07-14 21:21:27] [Transcript enrichment] [57/64] SKIPPED - already archived: COMICSGATE KINGS! Let's Draw JOHN BYRNE's Friends.
+[2026-07-14 21:21:27] [Transcript enrichment] [58/64] SKIPPED - already archived: DRAW-MUH STREAM! REIGNBOW THE BRUTE Death of Papa Smerc page 3 pt 1
+[2026-07-14 21:21:27] [Transcript enrichment] [59/64] SKIPPED - already archived: Supergirl BOMBED! - Comicsgate Suburbs
+[2026-07-14 21:21:27] [Transcript enrichment] [60/64] SKIPPED - retry due 2026-07-14T22:01:30.329604+00:00: TRASHCAST # 265. LOUT RAMPAGE! DELICATE NEGOTIATIONS WITH SPERGS! LOSERS BLAME EVS!
+[2026-07-14 21:21:27] [Transcript enrichment] [61/64] SKIPPED - already archived: GTA 6 Is Already Causing Controversies! - Gabbing With Geeks
+[2026-07-14 21:21:27] [Transcript enrichment] [62/64] SKIPPED - already archived: JCW Lunacy #88 Watch Party!
+[2026-07-14 21:21:27] [Transcript enrichment] [63/64] SKIPPED - already archived: "MINISTRY OF UNGENTLEMANLY TWEETS" EXPOSES COMMI3 MARK - OH NO!
+[2026-07-14 21:21:27] [Transcript enrichment] [64/64] SKIPPED - already archived: FROG TONY'S FREEDOM FIGHTING FORCE | FBI Investigation DRAMA Escalates
+[2026-07-14 21:21:27] [Transcript enrichment] Rescanning every archived transcript for mentions...
+[2026-07-14 21:21:27] [Transcript enrichment] 
+[2026-07-14 21:21:27] [Transcript enrichment] DONE
+[2026-07-14 21:21:27] [Transcript enrichment] Successful downloads: 0
+[2026-07-14 21:21:27] [Transcript enrichment] Failed downloads:     0
+[2026-07-14 21:21:27] [Transcript enrichment] Skipped downloads:    64
+[2026-07-14 21:21:27] [Transcript enrichment] Archived transcripts: 48
+[2026-07-14 21:21:27] [Transcript enrichment] Known entities found: 33
+[2026-07-14 21:21:27] [Transcript enrichment] Total mentions found: 3915
+[2026-07-14 21:21:27] [Transcript enrichment] Manifest:              transcript-manifest.json
+[2026-07-14 21:21:27] [Transcript enrichment] Retry queue:           transcript-retries.json
+[2026-07-14 21:21:27] [Transcript enrichment] Mention index:         mention-index.json
+[2026-07-14 21:21:27] [Transcript enrichment] 
+[2026-07-14 21:21:27] [Transcript enrichment] TOP MENTIONS
+[2026-07-14 21:21:27] [Transcript enrichment]  1. Liam Gray                       863
+[2026-07-14 21:21:27] [Transcript enrichment]  2. Frog Tony                       672
+[2026-07-14 21:21:27] [Transcript enrichment]  3. Ethan Van Sciver                457
+[2026-07-14 21:21:27] [Transcript enrichment]  4. Dick Masterson                  289
+[2026-07-14 21:21:27] [Transcript enrichment]  5. Shane Davis                     213
+[2026-07-14 21:21:27] [Transcript enrichment]  6. Eric July                       204
+[2026-07-14 21:21:27] [Transcript enrichment]  7. Sturgis                         150
+[2026-07-14 21:21:27] [Transcript enrichment]  8. Jon Del Arroz                   113
+[2026-07-14 21:21:27] [Transcript enrichment]  9. Cyberfrog                       103
+[2026-07-14 21:21:27] [Transcript enrichment] 10. TheQuartering                   102
+[2026-07-14 21:21:27] [Transcript enrichment] 11. Chrissie Mayr                    98
+[2026-07-14 21:21:27] [Transcript enrichment] 12. ComicsGate                       81
+[2026-07-14 21:21:27] [Transcript enrichment] 13. Vito Gesualdi                    81
+[2026-07-14 21:21:27] [Transcript enrichment] 14. Cecil                            78
+[2026-07-14 21:21:27] [Transcript enrichment] 15. Aaron Imholte                    55
+[2026-07-14 21:21:27] [Transcript enrichment] 16. Dropbox Drama                    55
+[2026-07-14 21:21:27] [Transcript enrichment] 17. Nerdrotic                        53
+[2026-07-14 21:21:27] [Transcript enrichment] 18. Stray Beans                      44
+[2026-07-14 21:21:27] [Transcript enrichment] 19. DarkGift Comics                  30
+[2026-07-14 21:21:27] [Transcript enrichment] 20. Yellow Flash                     30
+[2026-07-14 21:21:27] FINISHED — Transcript enrichment: SUCCESS after 18.7 seconds.
+[2026-07-14 21:21:27] 
+[2026-07-14 21:21:27] Validating generated JSON files...
+[2026-07-14 21:21:27] VALID — drama-radar.json (73934 bytes, 84 items)
+[2026-07-14 21:21:27] VALID — transcript-manifest.json (43837 bytes, 48 items)
+[2026-07-14 21:21:27] VALID — mention-index.json (200306 bytes, 8 items)
+[2026-07-14 21:21:27] VALID — transcript-retries.json (13209 bytes, 15 items)
+[2026-07-14 21:21:27] SKIPPED — Git update: ENABLE_GIT_PUSH is False.
+[2026-07-14 21:21:27] 
+[2026-07-14 21:21:27] =================================================================
+[2026-07-14 21:21:27] FINAL STATUS: HEALTHY
+[2026-07-14 21:21:27] Radar entries: 84
+[2026-07-14 21:21:27] Transcripts: 48
+[2026-07-14 21:21:27] Entities: 33
+[2026-07-14 21:21:27] Mentions: 3915
+[2026-07-14 21:21:27] Pending transcript retries: 8
+[2026-07-14 21:21:27] =================================================================
+[2026-07-14 21:21:27] Lock released.

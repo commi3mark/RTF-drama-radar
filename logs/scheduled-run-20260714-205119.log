@@ -1,0 +1,31 @@
+[2026-07-14T20:51:19+01:00] Drama Radar scheduled run started.
+[2026-07-14T20:51:19+01:00] STEP: Collect new material
+[2026-07-14T20:51:19+01:00] RUN "C:\Program Files\Python310\python.exe" run_drama_radar.py
+[2026-07-14 20:51:19] =================================================================
+[2026-07-14 20:51:19] DRAMA RADAR AUTOMATED RUN
+[2026-07-14 20:51:19] Project folder: C:\AI\RTF-drama-radar
+[2026-07-14 20:51:19] Python: C:\Program Files\Python310\python.exe
+[2026-07-14 20:51:19] =================================================================
+[2026-07-14 20:51:19] Removing stale lock file aged 20.25 hours.
+[2026-07-14 20:51:19] Lock acquired by process 18892.
+[2026-07-14 20:51:19] 
+[2026-07-14 20:51:19] =================================================================
+[2026-07-14 20:51:19] STARTING — Source collection
+[2026-07-14 20:51:19] COMMAND  — C:\Program Files\Python310\python.exe C:\AI\RTF-drama-radar\build_radar.py
+[2026-07-14 20:51:19] =================================================================
+[2026-07-14 20:51:20] [Source collection] Drama Radar v5 build complete.
+[2026-07-14 20:51:20] [Source collection] Transcript files: 41
+[2026-07-14 20:51:20] [Source collection] Changed/new: 0
+[2026-07-14 20:51:20] [Source collection] Unchanged from cache: 41
+[2026-07-14 20:51:20] [Source collection] Failed: 0
+[2026-07-14 20:51:20] [Source collection] Quotes: 1938
+[2026-07-14 20:51:20] [Source collection] Context bundles: 986
+[2026-07-14 20:51:20] [Source collection] Narratives: 986
+[2026-07-14 20:51:20] [Source collection] Stories: 44
+[2026-07-14 20:51:20] [Source collection] People: 9
+[2026-07-14 20:51:20] FINISHED — Source collection: SUCCESS after 1.2 seconds.
+[2026-07-14 20:51:20] 
+[2026-07-14 20:51:20] =================================================================
+[2026-07-14 20:51:20] STARTING — Transcript enrichment
+[2026-07-14 20:51:20] COMMAND  — C:\Program Files\Python310\python.exe C:\AI\RTF-drama-radar\enrich_transcripts.py
+[2026-07-14 20:51:20] =================================================================

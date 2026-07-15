@@ -1,0 +1,696 @@
+{
+  "occurrences": [
+    {
+      "occurrence_id": "occurrence:lYws0Rqt8Bs:99:person:frog-tony",
+      "entity_id": "person:frog-tony",
+      "matched_alias": "Frog Tony",
+      "alias_strength": "strong",
+      "confidence": 1.0,
+      "video_id": "lYws0Rqt8Bs",
+      "title": "Supergirl BOMBS And Might END The DCU! - CG Suburbs",
+      "source": "Frog Tony",
+      "published": "2026-07-06T04:14:55+00:00",
+      "segment_index": 99,
+      "start": 271.68,
+      "timestamp": "04:31",
+      "quote": "frog Tony. He is the odd toy fanboy and",
+      "receipt_url": "https://www.youtube.com/watch?v=lYws0Rqt8Bs&t=271s",
+      "transcript_file": "transcripts/2026-07/Supergirl BOMBS And Might END The DCU! - CG Suburbs [lYws0Rqt8Bs].json"
+    },
+    {
+      "occurrence_id": "occurrence:lYws0Rqt8Bs:118:person:liam-gray",
+      "entity_id": "person:liam-gray",
+      "matched_alias": "Liam Gray",
+      "alias_strength": "strong",
+      "confidence": 1.0,
+      "video_id": "lYws0Rqt8Bs",
+      "title": "Supergirl BOMBS And Might END The DCU! - CG Suburbs",
+      "source": "Frog Tony",
+      "published": "2026-07-06T04:14:55+00:00",
+      "segment_index": 118,
+      "start": 312.479,
+      "timestamp": "05:12",
+      "quote": "avatar. And there he is. Liam Gray. I",
+      "receipt_url": "https://www.youtube.com/watch?v=lYws0Rqt8Bs&t=312s",
+      "transcript_file": "transcripts/2026-07/Supergirl BOMBS And Might END The DCU! - CG Suburbs [lYws0Rqt8Bs].json"
+    },
+    {
+      "occurrence_id": "occurrence:lYws0Rqt8Bs:120:person:liam-gray",
+      "entity_id": "person:liam-gray",
+      "matched_alias": "Liam Gray",
+      "alias_strength": "strong",
+      "confidence": 1.0,
+      "video_id": "lYws0Rqt8Bs",
+      "title": "Supergirl BOMBS And Might END The DCU! - CG Suburbs",
+      "source": "Frog Tony",
+      "published": "2026-07-06T04:14:55+00:00",
+      "segment_index": 120,
+      "start": 316.56,
+      "timestamp": "05:16",
+      "quote": ">> Liam Gray. Hold on.",
+      "receipt_url": "https://www.youtube.com/watch?v=lYws0Rqt8Bs&t=316s",
+      "transcript_file": "transcripts/2026-07/Supergirl BOMBS And Might END The DCU! - CG Suburbs [lYws0Rqt8Bs].json"
+    },
+    {
+      "occurrence_id": "occurrence:lYws0Rqt8Bs:122:person:liam-gray",
+      "entity_id": "person:liam-gray",
+      "matched_alias": "Liam Gray",
+      "alias_strength": "strong",
+      "confidence": 1.0,
+      "video_id": "lYws0Rqt8Bs",
+      "title": "Supergirl BOMBS And Might END The DCU! - CG Suburbs",
+      "source": "Frog Tony",
+      "published": "2026-07-06T04:14:55+00:00",
+      "segment_index": 122,
+      "start": 318.0,
+      "timestamp": "05:18",
+      "quote": ">> I was demanding him. I wanted Liam Gray",
+      "receipt_url": "https://www.youtube.com/watch?v=lYws0Rqt8Bs&t=318s",
+      "transcript_file": "transcripts/2026-07/Supergirl BOMBS And Might END The DCU! - CG Suburbs [lYws0Rqt8Bs].json"
+    },
+    {
+      "occurrence_id": "occurrence:lYws0Rqt8Bs:405:person:liam-gray",
+      "entity_id": "person:liam-gray",
+      "matched_alias": "Liam Gray",
+      "alias_strength": "strong",
+      "confidence": 1.0,
+      "video_id": "lYws0Rqt8Bs",
+      "title": "Supergirl BOMBS And Might END The DCU! - CG Suburbs",
+      "source": "Frog Tony",
+      "published": "2026-07-06T04:14:55+00:00",
+      "segment_index": 405,
+      "start": 934.0,
+      "timestamp": "15:34",
+      "quote": ">> Oh, and of course, Mr. Liam Gray, who I",
+      "receipt_url": "https://www.youtube.com/watch?v=lYws0Rqt8Bs&t=934s",
+      "transcript_file": "transcripts/2026-07/Supergirl BOMBS And Might END The DCU! - CG Suburbs [lYws0Rqt8Bs].json"
+    },
+    {
+      "occurrence_id": "occurrence:lYws0Rqt8Bs:480:person:ethan-van-sciver",
+      "entity_id": "person:ethan-van-sciver",
+      "matched_alias": "Ethan Van Skyver",
+      "alias_strength": "strong",
+      "confidence": 1.0,
+      "video_id": "lYws0Rqt8Bs",
+      "title": "Supergirl BOMBS And Might END The DCU! - CG Suburbs",
+      "source": "Frog Tony",
+      "published": "2026-07-06T04:14:55+00:00",
+      "segment_index": 480,
+      "start": 1111.84,
+      "timestamp": "18:31",
+      "quote": "the ripper verse. Ethan Van Skyver came",
+      "receipt_url": "https://www.youtube.com/watch?v=lYws0Rqt8Bs&t=1111s",
+      "transcript_file": "transcripts/2026-07/Supergirl BOMBS And Might END The DCU! - CG Suburbs [lYws0Rqt8Bs].json"
+    }
+  ],
+  "passages": [
+    {
+      "passage_id": "passage:lYws0Rqt8Bs:266",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "Welcome to the comic skate suburbs. We",
+      "context_before": "[music] >> What's up, meat bags, and welcome",
+      "context_after": "are your host. I am the ghetto superstar frog Tony. He is the odd toy fanboy and of course down below stray [ __ ] beans. What up everybody? How you going gentlemen? How's it going? >> Hi ho. >> That's teenag me for real. For real says",
+      "full_context": "[music] >> What's up, meat bags, and welcome Welcome to the comic skate suburbs. We are your host. I am the ghetto superstar frog Tony. He is the odd toy fanboy and of course down below stray [ __ ] beans. What up everybody? How you going gentlemen? How's it going? >> Hi ho. >> That's teenag me for real. For real says",
+      "involved_entity_ids": [
+        "person:frog-tony"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:frog-tony",
+          "matched_alias": "Frog Tony",
+          "alias_strength": "strong",
+          "confidence": 1.0
+        }
+      ],
+      "claim_term_count": 1,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "lYws0Rqt8Bs",
+        "title": "Supergirl BOMBS And Might END The DCU! - CG Suburbs",
+        "channel": "Frog Tony",
+        "published_at": "2026-07-06T04:14:55+00:00",
+        "timestamp_seconds": 266.32,
+        "timestamp_display": "04:26",
+        "url": "https://www.youtube.com/watch?v=lYws0Rqt8Bs",
+        "receipt_url": "https://www.youtube.com/watch?v=lYws0Rqt8Bs&t=266s",
+        "transcript_file": "transcripts/2026-07/Supergirl BOMBS And Might END The DCU! - CG Suburbs [lYws0Rqt8Bs].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:frog-tony"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.71
+    },
+    {
+      "passage_id": "passage:lYws0Rqt8Bs:271",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "frog Tony. He is the odd toy fanboy and",
+      "context_before": ">> What's up, meat bags, and welcome Welcome to the comic skate suburbs. We are your host. I am the ghetto superstar",
+      "context_after": "of course down below stray [ __ ] beans. What up everybody? How you going gentlemen? How's it going? >> Hi ho. >> That's teenag me for real. For real says TJ Vinbar says I've never appeared on an episode of this but I still made the intro. That you did. You made and we",
+      "full_context": ">> What's up, meat bags, and welcome Welcome to the comic skate suburbs. We are your host. I am the ghetto superstar frog Tony. He is the odd toy fanboy and of course down below stray [ __ ] beans. What up everybody? How you going gentlemen? How's it going? >> Hi ho. >> That's teenag me for real. For real says TJ Vinbar says I've never appeared on an episode of this but I still made the intro. That you did. You made and we",
+      "involved_entity_ids": [
+        "person:frog-tony"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:frog-tony",
+          "matched_alias": "Frog Tony",
+          "alias_strength": "strong",
+          "confidence": 1.0
+        }
+      ],
+      "claim_term_count": 2,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "lYws0Rqt8Bs",
+        "title": "Supergirl BOMBS And Might END The DCU! - CG Suburbs",
+        "channel": "Frog Tony",
+        "published_at": "2026-07-06T04:14:55+00:00",
+        "timestamp_seconds": 271.68,
+        "timestamp_display": "04:31",
+        "url": "https://www.youtube.com/watch?v=lYws0Rqt8Bs",
+        "receipt_url": "https://www.youtube.com/watch?v=lYws0Rqt8Bs&t=271s",
+        "transcript_file": "transcripts/2026-07/Supergirl BOMBS And Might END The DCU! - CG Suburbs [lYws0Rqt8Bs].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:frog-tony"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.79
+    },
+    {
+      "passage_id": "passage:lYws0Rqt8Bs:285",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": ">> That's teenag me for real. For real says",
+      "context_before": "Welcome to the comic skate suburbs. We are your host. I am the ghetto superstar frog Tony. He is the odd toy fanboy and of course down below stray [ __ ] beans. What up everybody? How you going gentlemen? How's it going? >> Hi ho.",
+      "context_after": "TJ Vinbar says I've never appeared on an episode of this but I still made the intro. That you did. You made and we only have one guest. This is guest starring mint. No one else gets a guest star. Straight beans doesn't get a guest starring. Straight beans. >> Yeah, the total accurate thing of thin bar is really nice.",
+      "full_context": "Welcome to the comic skate suburbs. We are your host. I am the ghetto superstar frog Tony. He is the odd toy fanboy and of course down below stray [ __ ] beans. What up everybody? How you going gentlemen? How's it going? >> Hi ho. >> That's teenag me for real. For real says TJ Vinbar says I've never appeared on an episode of this but I still made the intro. That you did. You made and we only have one guest. This is guest starring mint. No one else gets a guest star. Straight beans doesn't get a guest starring. Straight beans. >> Yeah, the total accurate thing of thin bar is really nice.",
+      "involved_entity_ids": [
+        "person:frog-tony"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:frog-tony",
+          "matched_alias": "Frog Tony",
+          "alias_strength": "strong",
+          "confidence": 1.0
+        }
+      ],
+      "claim_term_count": 2,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "lYws0Rqt8Bs",
+        "title": "Supergirl BOMBS And Might END The DCU! - CG Suburbs",
+        "channel": "Frog Tony",
+        "published_at": "2026-07-06T04:14:55+00:00",
+        "timestamp_seconds": 285.12,
+        "timestamp_display": "04:45",
+        "url": "https://www.youtube.com/watch?v=lYws0Rqt8Bs",
+        "receipt_url": "https://www.youtube.com/watch?v=lYws0Rqt8Bs&t=285s",
+        "transcript_file": "transcripts/2026-07/Supergirl BOMBS And Might END The DCU! - CG Suburbs [lYws0Rqt8Bs].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:frog-tony"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.79
+    },
+    {
+      "passage_id": "passage:lYws0Rqt8Bs:294",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "only have one guest. This is guest",
+      "context_before": "of course down below stray [ __ ] beans. What up everybody? How you going gentlemen? How's it going? >> Hi ho. >> That's teenag me for real. For real says TJ Vinbar says I've never appeared on an episode of this but I still made the intro. That you did. You made and we",
+      "context_after": "starring mint. No one else gets a guest star. Straight beans doesn't get a guest starring. Straight beans. >> Yeah, the total accurate thing of thin bar is really nice. >> Yeah, it really is. I mean, that is exactly what he looks like behind the avatar. And there he is. Liam Gray. I",
+      "full_context": "of course down below stray [ __ ] beans. What up everybody? How you going gentlemen? How's it going? >> Hi ho. >> That's teenag me for real. For real says TJ Vinbar says I've never appeared on an episode of this but I still made the intro. That you did. You made and we only have one guest. This is guest starring mint. No one else gets a guest star. Straight beans doesn't get a guest starring. Straight beans. >> Yeah, the total accurate thing of thin bar is really nice. >> Yeah, it really is. I mean, that is exactly what he looks like behind the avatar. And there he is. Liam Gray. I",
+      "involved_entity_ids": [
+        "person:liam-gray"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:liam-gray",
+          "matched_alias": "Liam Gray",
+          "alias_strength": "strong",
+          "confidence": 1.0
+        }
+      ],
+      "claim_term_count": 2,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "lYws0Rqt8Bs",
+        "title": "Supergirl BOMBS And Might END The DCU! - CG Suburbs",
+        "channel": "Frog Tony",
+        "published_at": "2026-07-06T04:14:55+00:00",
+        "timestamp_seconds": 294.16,
+        "timestamp_display": "04:54",
+        "url": "https://www.youtube.com/watch?v=lYws0Rqt8Bs",
+        "receipt_url": "https://www.youtube.com/watch?v=lYws0Rqt8Bs&t=294s",
+        "transcript_file": "transcripts/2026-07/Supergirl BOMBS And Might END The DCU! - CG Suburbs [lYws0Rqt8Bs].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:liam-gray"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.79
+    },
+    {
+      "passage_id": "passage:lYws0Rqt8Bs:302",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "Straight beans.",
+      "context_before": ">> That's teenag me for real. For real says TJ Vinbar says I've never appeared on an episode of this but I still made the intro. That you did. You made and we only have one guest. This is guest starring mint. No one else gets a guest star. Straight beans doesn't get a guest starring.",
+      "context_after": ">> Yeah, the total accurate thing of thin bar is really nice. >> Yeah, it really is. I mean, that is exactly what he looks like behind the avatar. And there he is. Liam Gray. I was demanding >> Liam Gray. Hold on. >> How you doing? >> I was demanding him. I wanted Liam Gray tonight because we have something super",
+      "full_context": ">> That's teenag me for real. For real says TJ Vinbar says I've never appeared on an episode of this but I still made the intro. That you did. You made and we only have one guest. This is guest starring mint. No one else gets a guest star. Straight beans doesn't get a guest starring. Straight beans. >> Yeah, the total accurate thing of thin bar is really nice. >> Yeah, it really is. I mean, that is exactly what he looks like behind the avatar. And there he is. Liam Gray. I was demanding >> Liam Gray. Hold on. >> How you doing? >> I was demanding him. I wanted Liam Gray tonight because we have something super",
+      "involved_entity_ids": [
+        "person:liam-gray"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:liam-gray",
+          "matched_alias": "Liam Gray",
+          "alias_strength": "strong",
+          "confidence": 1.0
+        }
+      ],
+      "claim_term_count": 4,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "lYws0Rqt8Bs",
+        "title": "Supergirl BOMBS And Might END The DCU! - CG Suburbs",
+        "channel": "Frog Tony",
+        "published_at": "2026-07-06T04:14:55+00:00",
+        "timestamp_seconds": 302.96,
+        "timestamp_display": "05:02",
+        "url": "https://www.youtube.com/watch?v=lYws0Rqt8Bs",
+        "receipt_url": "https://www.youtube.com/watch?v=lYws0Rqt8Bs&t=302s",
+        "transcript_file": "transcripts/2026-07/Supergirl BOMBS And Might END The DCU! - CG Suburbs [lYws0Rqt8Bs].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:liam-gray"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.95
+    },
+    {
+      "passage_id": "passage:lYws0Rqt8Bs:316",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": ">> Liam Gray. Hold on.",
+      "context_before": "star. Straight beans doesn't get a guest starring. Straight beans. >> Yeah, the total accurate thing of thin bar is really nice. >> Yeah, it really is. I mean, that is exactly what he looks like behind the avatar. And there he is. Liam Gray. I was demanding",
+      "context_after": ">> How you doing? >> I was demanding him. I wanted Liam Gray tonight because we have something super special for Mr. Gray. >> He's a terrible like everything else in my [ __ ] life. Like, >> oh, that's fant Liam. This is not the uh terrible podcast. This is the Have fun talk about comics podcast. And trust me, you're going to be very happy with what",
+      "full_context": "star. Straight beans doesn't get a guest starring. Straight beans. >> Yeah, the total accurate thing of thin bar is really nice. >> Yeah, it really is. I mean, that is exactly what he looks like behind the avatar. And there he is. Liam Gray. I was demanding >> Liam Gray. Hold on. >> How you doing? >> I was demanding him. I wanted Liam Gray tonight because we have something super special for Mr. Gray. >> He's a terrible like everything else in my [ __ ] life. Like, >> oh, that's fant Liam. This is not the uh terrible podcast. This is the Have fun talk about comics podcast. And trust me, you're going to be very happy with what",
+      "involved_entity_ids": [
+        "person:liam-gray"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:liam-gray",
+          "matched_alias": "Liam Gray",
+          "alias_strength": "strong",
+          "confidence": 1.0
+        }
+      ],
+      "claim_term_count": 2,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "lYws0Rqt8Bs",
+        "title": "Supergirl BOMBS And Might END The DCU! - CG Suburbs",
+        "channel": "Frog Tony",
+        "published_at": "2026-07-06T04:14:55+00:00",
+        "timestamp_seconds": 316.56,
+        "timestamp_display": "05:16",
+        "url": "https://www.youtube.com/watch?v=lYws0Rqt8Bs",
+        "receipt_url": "https://www.youtube.com/watch?v=lYws0Rqt8Bs&t=316s",
+        "transcript_file": "transcripts/2026-07/Supergirl BOMBS And Might END The DCU! - CG Suburbs [lYws0Rqt8Bs].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:liam-gray"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.79
+    },
+    {
+      "passage_id": "passage:lYws0Rqt8Bs:331",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "terrible podcast. This is the Have fun",
+      "context_before": "avatar. And there he is. Liam Gray. I was demanding >> Liam Gray. Hold on. >> How you doing? >> I was demanding him. I wanted Liam Gray tonight because we have something super special for Mr. Gray. >> He's a terrible like everything else in my [ __ ] life. Like, >> oh, that's fant Liam. This is not the uh",
+      "context_after": "talk about comics podcast. And trust me, you're going to be very happy with what I show you. >> Okay, awesome. Good. I need that because I'm in a foul foul mood. >> Is it He-Man related? >> It is. It is in fact He-Man related. [laughter]",
+      "full_context": "avatar. And there he is. Liam Gray. I was demanding >> Liam Gray. Hold on. >> How you doing? >> I was demanding him. I wanted Liam Gray tonight because we have something super special for Mr. Gray. >> He's a terrible like everything else in my [ __ ] life. Like, >> oh, that's fant Liam. This is not the uh terrible podcast. This is the Have fun talk about comics podcast. And trust me, you're going to be very happy with what I show you. >> Okay, awesome. Good. I need that because I'm in a foul foul mood. >> Is it He-Man related? >> It is. It is in fact He-Man related. [laughter]",
+      "involved_entity_ids": [
+        "person:liam-gray"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:liam-gray",
+          "matched_alias": "Liam Gray",
+          "alias_strength": "strong",
+          "confidence": 1.0
+        }
+      ],
+      "claim_term_count": 2,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "lYws0Rqt8Bs",
+        "title": "Supergirl BOMBS And Might END The DCU! - CG Suburbs",
+        "channel": "Frog Tony",
+        "published_at": "2026-07-06T04:14:55+00:00",
+        "timestamp_seconds": 331.36,
+        "timestamp_display": "05:31",
+        "url": "https://www.youtube.com/watch?v=lYws0Rqt8Bs",
+        "receipt_url": "https://www.youtube.com/watch?v=lYws0Rqt8Bs&t=331s",
+        "transcript_file": "transcripts/2026-07/Supergirl BOMBS And Might END The DCU! - CG Suburbs [lYws0Rqt8Bs].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:liam-gray"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.79
+    },
+    {
+      "passage_id": "passage:lYws0Rqt8Bs:915",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "you doing?",
+      "context_before": "was called Wings of Dread and it was with the guy from the raid and then this other guy Anton Chen. >> It was pretty good. It was like it was like it was like standard action stuff and then the last 20 minutes are [ __ ] nuts. It was awesome. >> Nice. TJ, you finally made it to join us. How",
+      "context_after": ">> Yeah, I saw everybody coming in. And I said, \"Fuck it. I'm coming in even without even with the shitty internet.\" >> Uh >> Oh, sure. You weren't here for me or But you saw all the other people show up and then you just had to be a part of it. >> Exactly. Big reunion over here. >> Oh, and of course, Mr. Liam Gray, who I",
+      "full_context": "was called Wings of Dread and it was with the guy from the raid and then this other guy Anton Chen. >> It was pretty good. It was like it was like it was like standard action stuff and then the last 20 minutes are [ __ ] nuts. It was awesome. >> Nice. TJ, you finally made it to join us. How you doing? >> Yeah, I saw everybody coming in. And I said, \"Fuck it. I'm coming in even without even with the shitty internet.\" >> Uh >> Oh, sure. You weren't here for me or But you saw all the other people show up and then you just had to be a part of it. >> Exactly. Big reunion over here. >> Oh, and of course, Mr. Liam Gray, who I",
+      "involved_entity_ids": [
+        "person:liam-gray"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:liam-gray",
+          "matched_alias": "Liam Gray",
+          "alias_strength": "strong",
+          "confidence": 1.0
+        }
+      ],
+      "claim_term_count": 2,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "lYws0Rqt8Bs",
+        "title": "Supergirl BOMBS And Might END The DCU! - CG Suburbs",
+        "channel": "Frog Tony",
+        "published_at": "2026-07-06T04:14:55+00:00",
+        "timestamp_seconds": 915.6,
+        "timestamp_display": "15:15",
+        "url": "https://www.youtube.com/watch?v=lYws0Rqt8Bs",
+        "receipt_url": "https://www.youtube.com/watch?v=lYws0Rqt8Bs&t=915s",
+        "transcript_file": "transcripts/2026-07/Supergirl BOMBS And Might END The DCU! - CG Suburbs [lYws0Rqt8Bs].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:liam-gray"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.79
+    },
+    {
+      "passage_id": "passage:lYws0Rqt8Bs:931",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "Big reunion over here.",
+      "context_before": "TJ, you finally made it to join us. How you doing? >> Yeah, I saw everybody coming in. And I said, \"Fuck it. I'm coming in even without even with the shitty internet.\" >> Uh >> Oh, sure. You weren't here for me or But you saw all the other people show up and then you just had to be a part of it. >> Exactly.",
+      "context_after": ">> Oh, and of course, Mr. Liam Gray, who I requested his presence. How you doing, Liam? >> Wasn't I'm sorry for the slow. I'm babysitting l at the same time while it's on pace and I'm solo parenting. But um yeah,",
+      "full_context": "TJ, you finally made it to join us. How you doing? >> Yeah, I saw everybody coming in. And I said, \"Fuck it. I'm coming in even without even with the shitty internet.\" >> Uh >> Oh, sure. You weren't here for me or But you saw all the other people show up and then you just had to be a part of it. >> Exactly. Big reunion over here. >> Oh, and of course, Mr. Liam Gray, who I requested his presence. How you doing, Liam? >> Wasn't I'm sorry for the slow. I'm babysitting l at the same time while it's on pace and I'm solo parenting. But um yeah,",
+      "involved_entity_ids": [
+        "person:liam-gray"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:liam-gray",
+          "matched_alias": "Liam Gray",
+          "alias_strength": "strong",
+          "confidence": 1.0
+        }
+      ],
+      "claim_term_count": 3,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "lYws0Rqt8Bs",
+        "title": "Supergirl BOMBS And Might END The DCU! - CG Suburbs",
+        "channel": "Frog Tony",
+        "published_at": "2026-07-06T04:14:55+00:00",
+        "timestamp_seconds": 931.68,
+        "timestamp_display": "15:31",
+        "url": "https://www.youtube.com/watch?v=lYws0Rqt8Bs",
+        "receipt_url": "https://www.youtube.com/watch?v=lYws0Rqt8Bs&t=931s",
+        "transcript_file": "transcripts/2026-07/Supergirl BOMBS And Might END The DCU! - CG Suburbs [lYws0Rqt8Bs].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:liam-gray"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.87
+    },
+    {
+      "passage_id": "passage:lYws0Rqt8Bs:945",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "I'm sorry for the slow. I'm babysitting",
+      "context_before": "you saw all the other people show up and then you just had to be a part of it. >> Exactly. Big reunion over here. >> Oh, and of course, Mr. Liam Gray, who I requested his presence. How you doing, Liam? >> Wasn't",
+      "context_after": "l at the same time while it's on pace and I'm solo parenting. But um yeah, I've had better days. I'm going be honest. I'm pretty [ __ ] livid with a bunch of [ __ ] You know what I mean? Um I'm just like fully over everything. Like fully fully over [ __ ] And it's just like, you know, I'm sick of the",
+      "full_context": "you saw all the other people show up and then you just had to be a part of it. >> Exactly. Big reunion over here. >> Oh, and of course, Mr. Liam Gray, who I requested his presence. How you doing, Liam? >> Wasn't I'm sorry for the slow. I'm babysitting l at the same time while it's on pace and I'm solo parenting. But um yeah, I've had better days. I'm going be honest. I'm pretty [ __ ] livid with a bunch of [ __ ] You know what I mean? Um I'm just like fully over everything. Like fully fully over [ __ ] And it's just like, you know, I'm sick of the",
+      "involved_entity_ids": [
+        "person:liam-gray"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:liam-gray",
+          "matched_alias": "Liam Gray",
+          "alias_strength": "strong",
+          "confidence": 1.0
+        }
+      ],
+      "claim_term_count": 2,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "lYws0Rqt8Bs",
+        "title": "Supergirl BOMBS And Might END The DCU! - CG Suburbs",
+        "channel": "Frog Tony",
+        "published_at": "2026-07-06T04:14:55+00:00",
+        "timestamp_seconds": 945.839,
+        "timestamp_display": "15:45",
+        "url": "https://www.youtube.com/watch?v=lYws0Rqt8Bs",
+        "receipt_url": "https://www.youtube.com/watch?v=lYws0Rqt8Bs&t=945s",
+        "transcript_file": "transcripts/2026-07/Supergirl BOMBS And Might END The DCU! - CG Suburbs [lYws0Rqt8Bs].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:liam-gray"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.79
+    },
+    {
+      "passage_id": "passage:lYws0Rqt8Bs:1092",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "Eric July until Comics Gate was already",
+      "context_before": "And actually I didn't bring them into this community. they they were here for two years uh in the chats lurking that so that's the new the new narrative and and then to further hammer home that new narrative hold on to further hammer home that new narrative they then also said that I didn't start talking about",
+      "context_after": "sick of Eric [ __ ] that I only talked about Eric July to cozy up to Comics Gate which is 100% % factually untrue. Go back. I was here talking about Eric July, talking about Ism, talking about the ripper verse. Ethan Van Skyver came",
+      "full_context": "And actually I didn't bring them into this community. they they were here for two years uh in the chats lurking that so that's the new the new narrative and and then to further hammer home that new narrative hold on to further hammer home that new narrative they then also said that I didn't start talking about Eric July until Comics Gate was already sick of Eric [ __ ] that I only talked about Eric July to cozy up to Comics Gate which is 100% % factually untrue. Go back. I was here talking about Eric July, talking about Ism, talking about the ripper verse. Ethan Van Skyver came",
+      "involved_entity_ids": [
+        "person:ethan-van-sciver"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:ethan-van-sciver",
+          "matched_alias": "Ethan Van Skyver",
+          "alias_strength": "strong",
+          "confidence": 1.0
+        }
+      ],
+      "claim_term_count": 5,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "lYws0Rqt8Bs",
+        "title": "Supergirl BOMBS And Might END The DCU! - CG Suburbs",
+        "channel": "Frog Tony",
+        "published_at": "2026-07-06T04:14:55+00:00",
+        "timestamp_seconds": 1092.4,
+        "timestamp_display": "18:12",
+        "url": "https://www.youtube.com/watch?v=lYws0Rqt8Bs",
+        "receipt_url": "https://www.youtube.com/watch?v=lYws0Rqt8Bs&t=1092s",
+        "transcript_file": "transcripts/2026-07/Supergirl BOMBS And Might END The DCU! - CG Suburbs [lYws0Rqt8Bs].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:ethan-van-sciver"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.98
+    },
+    {
+      "passage_id": "passage:lYws0Rqt8Bs:1095",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "sick of Eric [ __ ] that I only talked",
+      "context_before": "two years uh in the chats lurking that so that's the new the new narrative and and then to further hammer home that new narrative hold on to further hammer home that new narrative they then also said that I didn't start talking about Eric July until Comics Gate was already",
+      "context_after": "about Eric July to cozy up to Comics Gate which is 100% % factually untrue. Go back. I was here talking about Eric July, talking about Ism, talking about the ripper verse. Ethan Van Skyver came here not to uh retract Eric July, not to",
+      "full_context": "two years uh in the chats lurking that so that's the new the new narrative and and then to further hammer home that new narrative hold on to further hammer home that new narrative they then also said that I didn't start talking about Eric July until Comics Gate was already sick of Eric [ __ ] that I only talked about Eric July to cozy up to Comics Gate which is 100% % factually untrue. Go back. I was here talking about Eric July, talking about Ism, talking about the ripper verse. Ethan Van Skyver came here not to uh retract Eric July, not to",
+      "involved_entity_ids": [
+        "person:ethan-van-sciver"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:ethan-van-sciver",
+          "matched_alias": "Ethan Van Skyver",
+          "alias_strength": "strong",
+          "confidence": 1.0
+        }
+      ],
+      "claim_term_count": 5,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "lYws0Rqt8Bs",
+        "title": "Supergirl BOMBS And Might END The DCU! - CG Suburbs",
+        "channel": "Frog Tony",
+        "published_at": "2026-07-06T04:14:55+00:00",
+        "timestamp_seconds": 1095.36,
+        "timestamp_display": "18:15",
+        "url": "https://www.youtube.com/watch?v=lYws0Rqt8Bs",
+        "receipt_url": "https://www.youtube.com/watch?v=lYws0Rqt8Bs&t=1095s",
+        "transcript_file": "transcripts/2026-07/Supergirl BOMBS And Might END The DCU! - CG Suburbs [lYws0Rqt8Bs].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:ethan-van-sciver"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.98
+    },
+    {
+      "passage_id": "passage:lYws0Rqt8Bs:1111",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "the ripper verse. Ethan Van Skyver came",
+      "context_before": "Eric July until Comics Gate was already sick of Eric [ __ ] that I only talked about Eric July to cozy up to Comics Gate which is 100% % factually untrue. Go back. I was here talking about Eric July, talking about Ism, talking about",
+      "context_after": "here not to uh retract Eric July, not to [ __ ] on Eric, not to say that was bad. He came here to stand up for Eric. He was here telling me that I was wrong, that Eric is good. And you know what? I shouldn't be [ __ ] on Eric's comic. I shouldn't be worried about Eric's isome,",
+      "full_context": "Eric July until Comics Gate was already sick of Eric [ __ ] that I only talked about Eric July to cozy up to Comics Gate which is 100% % factually untrue. Go back. I was here talking about Eric July, talking about Ism, talking about the ripper verse. Ethan Van Skyver came here not to uh retract Eric July, not to [ __ ] on Eric, not to say that was bad. He came here to stand up for Eric. He was here telling me that I was wrong, that Eric is good. And you know what? I shouldn't be [ __ ] on Eric's comic. I shouldn't be worried about Eric's isome,",
+      "involved_entity_ids": [
+        "person:ethan-van-sciver"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:ethan-van-sciver",
+          "matched_alias": "Ethan Van Skyver",
+          "alias_strength": "strong",
+          "confidence": 1.0
+        }
+      ],
+      "claim_term_count": 2,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "lYws0Rqt8Bs",
+        "title": "Supergirl BOMBS And Might END The DCU! - CG Suburbs",
+        "channel": "Frog Tony",
+        "published_at": "2026-07-06T04:14:55+00:00",
+        "timestamp_seconds": 1111.84,
+        "timestamp_display": "18:31",
+        "url": "https://www.youtube.com/watch?v=lYws0Rqt8Bs",
+        "receipt_url": "https://www.youtube.com/watch?v=lYws0Rqt8Bs&t=1111s",
+        "transcript_file": "transcripts/2026-07/Supergirl BOMBS And Might END The DCU! - CG Suburbs [lYws0Rqt8Bs].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:ethan-van-sciver"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.79
+    },
+    {
+      "passage_id": "passage:lYws0Rqt8Bs:1126",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "that Eric is good. And you know what? I",
+      "context_before": "back. I was here talking about Eric July, talking about Ism, talking about the ripper verse. Ethan Van Skyver came here not to uh retract Eric July, not to [ __ ] on Eric, not to say that was bad. He came here to stand up for Eric. He was here telling me that I was wrong,",
+      "context_after": "shouldn't be [ __ ] on Eric's comic. I shouldn't be worried about Eric's isome, right? It's kind of we've said it before multiple times. You've said it before multiple times, but it's like guys, if we were really that concerned about staying in the good graces of greater CG, would we be going out on the",
+      "full_context": "back. I was here talking about Eric July, talking about Ism, talking about the ripper verse. Ethan Van Skyver came here not to uh retract Eric July, not to [ __ ] on Eric, not to say that was bad. He came here to stand up for Eric. He was here telling me that I was wrong, that Eric is good. And you know what? I shouldn't be [ __ ] on Eric's comic. I shouldn't be worried about Eric's isome, right? It's kind of we've said it before multiple times. You've said it before multiple times, but it's like guys, if we were really that concerned about staying in the good graces of greater CG, would we be going out on the",
+      "involved_entity_ids": [
+        "person:ethan-van-sciver"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:ethan-van-sciver",
+          "matched_alias": "Ethan Van Skyver",
+          "alias_strength": "strong",
+          "confidence": 1.0
+        }
+      ],
+      "claim_term_count": 2,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "lYws0Rqt8Bs",
+        "title": "Supergirl BOMBS And Might END The DCU! - CG Suburbs",
+        "channel": "Frog Tony",
+        "published_at": "2026-07-06T04:14:55+00:00",
+        "timestamp_seconds": 1126.08,
+        "timestamp_display": "18:46",
+        "url": "https://www.youtube.com/watch?v=lYws0Rqt8Bs",
+        "receipt_url": "https://www.youtube.com/watch?v=lYws0Rqt8Bs&t=1126s",
+        "transcript_file": "transcripts/2026-07/Supergirl BOMBS And Might END The DCU! - CG Suburbs [lYws0Rqt8Bs].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:ethan-van-sciver"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.79
+    }
+  ]
+}

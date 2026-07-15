@@ -1,0 +1,70 @@
+[2026-07-14T21:03:17+01:00] Drama Radar scheduled run started.
+[2026-07-14T21:03:17+01:00] STEP: Collect new material
+[2026-07-14T21:03:17+01:00] RUN "C:\Program Files\Python310\python.exe" run_drama_radar.py
+[2026-07-14 21:03:17] =================================================================
+[2026-07-14 21:03:17] DRAMA RADAR AUTOMATED RUN
+[2026-07-14 21:03:17] Project folder: C:\AI\RTF-drama-radar
+[2026-07-14 21:03:17] Python: C:\Program Files\Python310\python.exe
+[2026-07-14 21:03:17] =================================================================
+[2026-07-14 21:03:17] Lock acquired by process 43232.
+[2026-07-14 21:03:17] 
+[2026-07-14 21:03:17] =================================================================
+[2026-07-14 21:03:17] STARTING — Source collection
+[2026-07-14 21:03:17] COMMAND  — C:\Program Files\Python310\python.exe C:\AI\RTF-drama-radar\build_radar.py
+[2026-07-14 21:03:17] =================================================================
+[2026-07-14 21:03:36] [Source collection] Drama Radar v5 build complete.
+[2026-07-14 21:03:36] [Source collection] Transcript files: 48
+[2026-07-14 21:03:36] [Source collection] Changed/new: 48
+[2026-07-14 21:03:36] [Source collection] Unchanged from cache: 0
+[2026-07-14 21:03:36] [Source collection] Failed: 0
+[2026-07-14 21:03:36] [Source collection] Quotes: 2139
+[2026-07-14 21:03:36] [Source collection] Context bundles: 1127
+[2026-07-14 21:03:36] [Source collection] Narratives: 1127
+[2026-07-14 21:03:36] [Source collection] Stories: 51
+[2026-07-14 21:03:36] [Source collection] People: 9
+[2026-07-14 21:03:36] FINISHED — Source collection: SUCCESS after 18.9 seconds.
+[2026-07-14 21:03:36] 
+[2026-07-14 21:03:36] =================================================================
+[2026-07-14 21:03:36] STARTING — Transcript enrichment
+[2026-07-14 21:03:36] COMMAND  — C:\Program Files\Python310\python.exe C:\AI\RTF-drama-radar\enrich_transcripts.py
+[2026-07-14 21:03:36] =================================================================
+[2026-07-14 21:03:55] [Transcript enrichment] Found 64 YouTube items.
+[2026-07-14 21:03:55] [Transcript enrichment] [1/64] SKIPPED - already archived: #COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!
+[2026-07-14 21:03:55] [Transcript enrichment] [2/64] SKIPPED - already archived: Meme Copium: The 50 Year Nickayla Rekieta Butthurt HRO Against Aaron Imholte (Jul 13, 2026)
+[2026-07-14 21:03:55] [Transcript enrichment] [3/64] SKIPPED - already archived: Channel Update And New Stream Schedule!
+[2026-07-14 21:03:55] [Transcript enrichment] [4/64] SKIPPED - already archived: Detractor Kings Is DEAD! Long Live The Geek Getaway!
+[2026-07-14 21:03:55] [Transcript enrichment] [5/64] SKIPPED - retry due 2026-07-14T21:52:04.062909+00:00: Good Morning ComicsGate #99
+[2026-07-14 21:03:55] FAILED — Transcript enrichment: UnicodeEncodeError: 'charmap' codec can't encode character '\ufffd' in position 117: character maps to <undefined>
+[2026-07-14 21:03:55] Traceback (most recent call last):
+  File "C:\AI\RTF-drama-radar\run_drama_radar.py", line 345, in run_command
+    write_log(f"[{name}] {line.rstrip()}")
+  File "C:\AI\RTF-drama-radar\run_drama_radar.py", line 128, in write_log
+    write_console(line)
+  File "C:\AI\RTF-drama-radar\run_drama_radar.py", line 121, in write_console
+    print(message, flush=True)
+  File "C:\Program Files\Python310\lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+UnicodeEncodeError: 'charmap' codec can't encode character '\ufffd' in position 117: character maps to <undefined>
+
+[2026-07-14 21:03:55] FINISHED — Transcript enrichment: FAILED after 18.6 seconds.
+[2026-07-14 21:03:55] 
+[2026-07-14 21:03:55] Validating generated JSON files...
+[2026-07-14 21:03:55] VALID — drama-radar.json (73934 bytes, 84 items)
+[2026-07-14 21:03:55] VALID — transcript-manifest.json (43837 bytes, 48 items)
+[2026-07-14 21:03:55] VALID — mention-index.json (200306 bytes, 8 items)
+[2026-07-14 21:03:55] VALID — transcript-retries.json (13209 bytes, 15 items)
+[2026-07-14 21:03:55] SKIPPED — Git update: ENABLE_GIT_PUSH is False.
+[2026-07-14 21:03:55] 
+[2026-07-14 21:03:55] =================================================================
+[2026-07-14 21:03:55] FINAL STATUS: DEGRADED
+[2026-07-14 21:03:55] Radar entries: 84
+[2026-07-14 21:03:55] Transcripts: 48
+[2026-07-14 21:03:55] Entities: 33
+[2026-07-14 21:03:55] Mentions: 3915
+[2026-07-14 21:03:55] Pending transcript retries: 8
+[2026-07-14 21:03:55] Failed stages: Transcript enrichment
+[2026-07-14 21:03:55] =================================================================
+[2026-07-14 21:03:55] Lock released.
+[2026-07-14T21:03:55+01:00] EXIT 1
+[2026-07-14T21:03:55+01:00] FAILED: CalledProcessError: Command '['C:\\Program Files\\Python310\\python.exe', 'run_drama_radar.py']' returned non-zero exit status 1.
+[2026-07-14T21:03:55+01:00] Run finished. Log: C:\AI\RTF-drama-radar\logs\scheduled-run-20260714-210317.log

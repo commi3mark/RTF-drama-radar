@@ -1,0 +1,46 @@
+name: Collect X List
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */3 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect-x-list
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Collect X List posts
+        env:
+          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+          X_LIST_ID: "1040297289561063424"
+        run: python collect_x_list.py
+
+      - name: Commit new X data
+        shell: bash
+        run: |
+          if git diff --quiet -- twitter/lists; then
+            echo "No new X data to commit."
+            exit 0
+          fi
+
+          git config user.name "drama-radar-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add twitter/lists
+          git commit -m "Update X List activity"
+          git push

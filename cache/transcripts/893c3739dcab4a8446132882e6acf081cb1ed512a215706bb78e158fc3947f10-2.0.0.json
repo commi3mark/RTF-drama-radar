@@ -1,0 +1,134 @@
+{
+  "raw_mentions": [
+    {
+      "entity_id": "person:katy",
+      "alias": "Katie",
+      "alias_strength": "weak",
+      "video_id": "O5BcX4ir3-0",
+      "title": "The Tribunal of Liam Gray | DROPBOX DRAMA",
+      "source": "KatyDid",
+      "published": "2026-07-10T18:12:59+00:00",
+      "url": "https://www.youtube.com/watch?v=O5BcX4ir3-0",
+      "transcript_file": "transcripts/2026-07/The Tribunal of Liam Gray DROPBOX DRAMA [O5BcX4ir3-0].json",
+      "segment_index": 69,
+      "start": 163.92,
+      "text": "say hello to Katie. I want to say hello",
+      "before": "Liam, this is First of all, I want to",
+      "after": "to Trashcast.",
+      "confidence": 0.68
+    },
+    {
+      "entity_id": "person:frog-tony",
+      "alias": "Frog Tony",
+      "alias_strength": "strong",
+      "video_id": "O5BcX4ir3-0",
+      "title": "The Tribunal of Liam Gray | DROPBOX DRAMA",
+      "source": "KatyDid",
+      "published": "2026-07-10T18:12:59+00:00",
+      "url": "https://www.youtube.com/watch?v=O5BcX4ir3-0",
+      "transcript_file": "transcripts/2026-07/The Tribunal of Liam Gray DROPBOX DRAMA [O5BcX4ir3-0].json",
+      "segment_index": 755,
+      "start": 1728.399,
+      "text": "Frog Tony. So, you guys want to talk",
+      "before": "person came forward to hire me until",
+      "after": "shit? I've been in galleries. I've been",
+      "confidence": 1.0
+    }
+  ],
+  "clean_mentions": [
+    {
+      "mention_id": "mention:O5BcX4ir3-0:1728:person:frog-tony",
+      "entity_id": "person:frog-tony",
+      "canonical_name": "Frog Tony",
+      "matched_aliases": [
+        "Frog Tony"
+      ],
+      "mention_class": "discussion",
+      "video_id": "O5BcX4ir3-0",
+      "title": "The Tribunal of Liam Gray | DROPBOX DRAMA",
+      "source": "KatyDid",
+      "published": "2026-07-10T18:12:59+00:00",
+      "url": "https://www.youtube.com/watch?v=O5BcX4ir3-0",
+      "transcript_file": "transcripts/2026-07/The Tribunal of Liam Gray DROPBOX DRAMA [O5BcX4ir3-0].json",
+      "segment_indexes": [
+        755
+      ],
+      "start": 1728.399,
+      "timestamp": "28:48",
+      "quote": "Frog Tony. So, you guys want to talk",
+      "context_before": "person came forward to hire me until",
+      "context_after": "shit? I've been in galleries. I've been",
+      "receipt_url": "https://www.youtube.com/watch?v=O5BcX4ir3-0&t=1728s",
+      "duplicate_fragment_count": 0,
+      "confidence": 1.0
+    },
+    {
+      "mention_id": "mention:O5BcX4ir3-0:163:person:katy",
+      "entity_id": "person:katy",
+      "canonical_name": "Katy",
+      "matched_aliases": [
+        "Katie"
+      ],
+      "mention_class": "discussion",
+      "video_id": "O5BcX4ir3-0",
+      "title": "The Tribunal of Liam Gray | DROPBOX DRAMA",
+      "source": "KatyDid",
+      "published": "2026-07-10T18:12:59+00:00",
+      "url": "https://www.youtube.com/watch?v=O5BcX4ir3-0",
+      "transcript_file": "transcripts/2026-07/The Tribunal of Liam Gray DROPBOX DRAMA [O5BcX4ir3-0].json",
+      "segment_indexes": [
+        69
+      ],
+      "start": 163.92,
+      "timestamp": "02:43",
+      "quote": "say hello to Katie. I want to say hello",
+      "context_before": "Liam, this is First of all, I want to",
+      "context_after": "to Trashcast.",
+      "receipt_url": "https://www.youtube.com/watch?v=O5BcX4ir3-0&t=163s",
+      "duplicate_fragment_count": 0,
+      "confidence": 0.68
+    }
+  ],
+  "claims": [],
+  "evidence": [
+    {
+      "evidence_id": "evidence:youtube:O5BcX4ir3-0:163",
+      "evidence_type": "transcript_quote",
+      "platform": "youtube",
+      "source_title": "The Tribunal of Liam Gray | DROPBOX DRAMA",
+      "source_entity_name": "KatyDid",
+      "published_at": "2026-07-10T18:12:59+00:00",
+      "captured_at": "2026-07-14T17:32:37.646166+00:00",
+      "url": "https://www.youtube.com/watch?v=O5BcX4ir3-0",
+      "receipt_url": "https://www.youtube.com/watch?v=O5BcX4ir3-0&t=163s",
+      "transcript_file": "transcripts/2026-07/The Tribunal of Liam Gray DROPBOX DRAMA [O5BcX4ir3-0].json",
+      "timestamp_seconds": 163.92,
+      "timestamp_display": "02:43",
+      "content": "say hello to Katie. I want to say hello",
+      "context_before": "Liam, this is First of all, I want to",
+      "context_after": "to Trashcast.",
+      "confidence": 0.68,
+      "status": "captured"
+    },
+    {
+      "evidence_id": "evidence:youtube:O5BcX4ir3-0:1728",
+      "evidence_type": "transcript_quote",
+      "platform": "youtube",
+      "source_title": "The Tribunal of Liam Gray | DROPBOX DRAMA",
+      "source_entity_name": "KatyDid",
+      "published_at": "2026-07-10T18:12:59+00:00",
+      "captured_at": "2026-07-14T17:32:37.646166+00:00",
+      "url": "https://www.youtube.com/watch?v=O5BcX4ir3-0",
+      "receipt_url": "https://www.youtube.com/watch?v=O5BcX4ir3-0&t=1728s",
+      "transcript_file": "transcripts/2026-07/The Tribunal of Liam Gray DROPBOX DRAMA [O5BcX4ir3-0].json",
+      "timestamp_seconds": 1728.399,
+      "timestamp_display": "28:48",
+      "content": "Frog Tony. So, you guys want to talk",
+      "context_before": "person came forward to hire me until",
+      "context_after": "shit? I've been in galleries. I've been",
+      "confidence": 1.0,
+      "status": "captured"
+    }
+  ],
+  "campaigns": []
+}

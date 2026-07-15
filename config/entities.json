@@ -1,0 +1,247 @@
+{
+  "schema_version": 5,
+  "entities": [
+    {
+      "entity_id": "person:commi3-mark",
+      "entity_type": "person",
+      "canonical_name": "Commi3 Mark",
+      "priority": 100,
+      "aliases": [
+        {
+          "value": "Commi3 Mark",
+          "strength": "strong"
+        },
+        {
+          "value": "Commie Mark",
+          "strength": "strong"
+        },
+        {
+          "value": "Comey Mark",
+          "strength": "strong"
+        },
+        {
+          "value": "Kami Mark",
+          "strength": "strong"
+        },
+        {
+          "value": "Commy Mark",
+          "strength": "strong"
+        },
+        {
+          "value": "Come Mark",
+          "strength": "strong"
+        },
+        {
+          "value": "Communist Mark",
+          "strength": "weak"
+        }
+      ],
+      "accounts": [
+        {
+          "platform": "youtube",
+          "handle": "commi3mark",
+          "url": null,
+          "verified": true
+        },
+        {
+          "platform": "x",
+          "handle": "commi3mark",
+          "url": null,
+          "verified": true
+        }
+      ]
+    },
+    {
+      "entity_id": "person:ethan-van-sciver",
+      "entity_type": "person",
+      "canonical_name": "Ethan Van Sciver",
+      "priority": 70,
+      "aliases": [
+        {
+          "value": "Ethan Van Sciver",
+          "strength": "strong"
+        },
+        {
+          "value": "Ethan Van Skyver",
+          "strength": "strong"
+        },
+        {
+          "value": "Ethan Van Scriber",
+          "strength": "strong"
+        },
+        {
+          "value": "EVS",
+          "strength": "weak"
+        }
+      ],
+      "accounts": []
+    },
+    {
+      "entity_id": "person:liam-gray",
+      "entity_type": "person",
+      "canonical_name": "Liam Gray",
+      "priority": 80,
+      "aliases": [
+        {
+          "value": "Liam Gray",
+          "strength": "strong"
+        },
+        {
+          "value": "Liam Grey",
+          "strength": "strong"
+        }
+      ],
+      "accounts": []
+    },
+    {
+      "entity_id": "person:jon-del-arroz",
+      "entity_type": "person",
+      "canonical_name": "Jon Del Arroz",
+      "priority": 60,
+      "aliases": [
+        {
+          "value": "Jon Del Arroz",
+          "strength": "strong"
+        },
+        {
+          "value": "John Del Arroz",
+          "strength": "strong"
+        },
+        {
+          "value": "JDA",
+          "strength": "weak"
+        }
+      ],
+      "accounts": []
+    },
+    {
+      "entity_id": "person:vito-gesualdi",
+      "entity_type": "person",
+      "canonical_name": "Vito Gesualdi",
+      "priority": 60,
+      "aliases": [
+        {
+          "value": "Vito Gesualdi",
+          "strength": "strong"
+        },
+        {
+          "value": "Veto Gesualdi",
+          "strength": "strong"
+        },
+        {
+          "value": "Vito",
+          "strength": "weak"
+        },
+        {
+          "value": "Veto",
+          "strength": "weak"
+        }
+      ],
+      "accounts": []
+    },
+    {
+      "entity_id": "person:frog-tony",
+      "entity_type": "person",
+      "canonical_name": "Frog Tony",
+      "priority": 80,
+      "aliases": [
+        {
+          "value": "Frog Tony",
+          "strength": "strong"
+        },
+        {
+          "value": "Frig Tony",
+          "strength": "strong"
+        },
+        {
+          "value": "Tony the Frog",
+          "strength": "strong"
+        }
+      ],
+      "accounts": []
+    },
+    {
+      "entity_id": "person:johnny-rocket",
+      "entity_type": "person",
+      "canonical_name": "Johnny Rocket",
+      "priority": 70,
+      "aliases": [
+        {
+          "value": "Johnny Rocket",
+          "strength": "strong"
+        },
+        {
+          "value": "Johnny Rockets",
+          "strength": "strong"
+        }
+      ],
+      "accounts": [
+        {
+          "platform": "youtube",
+          "handle": "Clippaverse",
+          "url": null,
+          "verified": false
+        },
+        {
+          "platform": "substack",
+          "handle": "Johnny Rocket",
+          "url": null,
+          "verified": false
+        }
+      ]
+    },
+    {
+      "entity_id": "person:katy",
+      "entity_type": "person",
+      "canonical_name": "Katy",
+      "priority": 50,
+      "aliases": [
+        {
+          "value": "KatyDid",
+          "strength": "strong"
+        },
+        {
+          "value": "Katy D",
+          "strength": "strong"
+        },
+        {
+          "value": "Katy",
+          "strength": "weak"
+        },
+        {
+          "value": "Katie",
+          "strength": "weak"
+        }
+      ],
+      "accounts": []
+    },
+    {
+      "entity_id": "person:riley",
+      "entity_type": "person",
+      "canonical_name": "Riley",
+      "priority": 50,
+      "aliases": [
+        {
+          "value": "Riley",
+          "strength": "weak",
+          "exclusions": [
+            "Charles Nelson Riley"
+          ]
+        },
+        {
+          "value": "Rylie",
+          "strength": "weak"
+        },
+        {
+          "value": "Clipperverse Riley",
+          "strength": "strong"
+        },
+        {
+          "value": "Clippaverse Riley",
+          "strength": "strong"
+        }
+      ],
+      "accounts": []
+    }
+  ]
+}

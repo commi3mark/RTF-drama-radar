@@ -1,0 +1,417 @@
+{
+  "occurrences": [
+    {
+      "occurrence_id": "occurrence:X0hbv1uKEGA:161:person:katy",
+      "entity_id": "person:katy",
+      "matched_alias": "Katie",
+      "alias_strength": "weak",
+      "confidence": 0.68,
+      "video_id": "X0hbv1uKEGA",
+      "title": "Becoming All Powerful & the Ultimate Underdog!",
+      "source": "KatyDid",
+      "published": "2026-07-04T22:09:49+00:00",
+      "segment_index": 161,
+      "start": 311.4,
+      "timestamp": "05:11",
+      "quote": "people than backed them during Katie's",
+      "receipt_url": "https://www.youtube.com/watch?v=X0hbv1uKEGA&t=311s",
+      "transcript_file": "transcripts/2026-07/Becoming All Powerful & the Ultimate Underdog! [X0hbv1uKEGA].json"
+    },
+    {
+      "occurrence_id": "occurrence:X0hbv1uKEGA:164:person:riley",
+      "entity_id": "person:riley",
+      "matched_alias": "Riley",
+      "alias_strength": "weak",
+      "confidence": 0.68,
+      "video_id": "X0hbv1uKEGA",
+      "title": "Becoming All Powerful & the Ultimate Underdog!",
+      "source": "KatyDid",
+      "published": "2026-07-04T22:09:49+00:00",
+      "segment_index": 164,
+      "start": 317.0,
+      "timestamp": "05:17",
+      "quote": "boycotting the project because of Riley",
+      "receipt_url": "https://www.youtube.com/watch?v=X0hbv1uKEGA&t=317s",
+      "transcript_file": "transcripts/2026-07/Becoming All Powerful & the Ultimate Underdog! [X0hbv1uKEGA].json"
+    },
+    {
+      "occurrence_id": "occurrence:X0hbv1uKEGA:317:person:katy",
+      "entity_id": "person:katy",
+      "matched_alias": "Katie",
+      "alias_strength": "weak",
+      "confidence": 0.68,
+      "video_id": "X0hbv1uKEGA",
+      "title": "Becoming All Powerful & the Ultimate Underdog!",
+      "source": "KatyDid",
+      "published": "2026-07-04T22:09:49+00:00",
+      "segment_index": 317,
+      "start": 664.24,
+      "timestamp": "11:04",
+      "quote": "Katie did where he's like, \"You don't",
+      "receipt_url": "https://www.youtube.com/watch?v=X0hbv1uKEGA&t=664s",
+      "transcript_file": "transcripts/2026-07/Becoming All Powerful & the Ultimate Underdog! [X0hbv1uKEGA].json"
+    }
+  ],
+  "passages": [
+    {
+      "passage_id": "passage:X0hbv1uKEGA:292",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "Just raise your hand in the chat.",
+      "context_before": "That's not what you're dealing with when you're dealing with no-name nobody Liam Gray. How many of you guys would have backed Ray Ray's book if I brought him onto this show and we joked around and I spoke to him maybe once a week for about 3 weeks.",
+      "context_after": "There's about a 30-second delay. If all the shit that went down didn't go down and I had Ray Ray on and we were joking and laughing and like showing off his book and I was promoting like in the old days, who here would have, on my word, backed him? Let's find out. Let's see if it was more people than backed them during Katie's",
+      "full_context": "That's not what you're dealing with when you're dealing with no-name nobody Liam Gray. How many of you guys would have backed Ray Ray's book if I brought him onto this show and we joked around and I spoke to him maybe once a week for about 3 weeks. Just raise your hand in the chat. There's about a 30-second delay. If all the shit that went down didn't go down and I had Ray Ray on and we were joking and laughing and like showing off his book and I was promoting like in the old days, who here would have, on my word, backed him? Let's find out. Let's see if it was more people than backed them during Katie's",
+      "involved_entity_ids": [
+        "person:katy"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:katy",
+          "matched_alias": "Katie",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 3,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "X0hbv1uKEGA",
+        "title": "Becoming All Powerful & the Ultimate Underdog!",
+        "channel": "KatyDid",
+        "published_at": "2026-07-04T22:09:49+00:00",
+        "timestamp_seconds": 292.64,
+        "timestamp_display": "04:52",
+        "url": "https://www.youtube.com/watch?v=X0hbv1uKEGA",
+        "receipt_url": "https://www.youtube.com/watch?v=X0hbv1uKEGA&t=292s",
+        "transcript_file": "transcripts/2026-07/Becoming All Powerful & the Ultimate Underdog! [X0hbv1uKEGA].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:katy"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.87
+    },
+    {
+      "passage_id": "passage:X0hbv1uKEGA:298",
+      "passage_type": "multi_person_passage",
+      "claim_excerpt": "and I had Ray Ray on and we were joking",
+      "context_before": "Gray. How many of you guys would have backed Ray Ray's book if I brought him onto this show and we joked around and I spoke to him maybe once a week for about 3 weeks. Just raise your hand in the chat. There's about a 30-second delay. If all the shit that went down didn't go down",
+      "context_after": "and laughing and like showing off his book and I was promoting like in the old days, who here would have, on my word, backed him? Let's find out. Let's see if it was more people than backed them during Katie's stream where they were trash-talking me and all of the people that are now boycotting the project because of Riley",
+      "full_context": "Gray. How many of you guys would have backed Ray Ray's book if I brought him onto this show and we joked around and I spoke to him maybe once a week for about 3 weeks. Just raise your hand in the chat. There's about a 30-second delay. If all the shit that went down didn't go down and I had Ray Ray on and we were joking and laughing and like showing off his book and I was promoting like in the old days, who here would have, on my word, backed him? Let's find out. Let's see if it was more people than backed them during Katie's stream where they were trash-talking me and all of the people that are now boycotting the project because of Riley",
+      "involved_entity_ids": [
+        "person:katy",
+        "person:riley"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:katy",
+          "matched_alias": "Katie",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        },
+        {
+          "entity_id": "person:riley",
+          "matched_alias": "Riley",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 4,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "X0hbv1uKEGA",
+        "title": "Becoming All Powerful & the Ultimate Underdog!",
+        "channel": "KatyDid",
+        "published_at": "2026-07-04T22:09:49+00:00",
+        "timestamp_seconds": 298.44,
+        "timestamp_display": "04:58",
+        "url": "https://www.youtube.com/watch?v=X0hbv1uKEGA",
+        "receipt_url": "https://www.youtube.com/watch?v=X0hbv1uKEGA&t=298s",
+        "transcript_file": "transcripts/2026-07/Becoming All Powerful & the Ultimate Underdog! [X0hbv1uKEGA].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:katy",
+          "person:riley"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.98
+    },
+    {
+      "passage_id": "passage:X0hbv1uKEGA:300",
+      "passage_type": "multi_person_passage",
+      "claim_excerpt": "and laughing and like showing off his",
+      "context_before": "Gray. How many of you guys would have backed Ray Ray's book if I brought him onto this show and we joked around and I spoke to him maybe once a week for about 3 weeks. Just raise your hand in the chat. There's about a 30-second delay. If all the shit that went down didn't go down and I had Ray Ray on and we were joking",
+      "context_after": "book and I was promoting like in the old days, who here would have, on my word, backed him? Let's find out. Let's see if it was more people than backed them during Katie's stream where they were trash-talking me and all of the people that are now boycotting the project because of Riley",
+      "full_context": "Gray. How many of you guys would have backed Ray Ray's book if I brought him onto this show and we joked around and I spoke to him maybe once a week for about 3 weeks. Just raise your hand in the chat. There's about a 30-second delay. If all the shit that went down didn't go down and I had Ray Ray on and we were joking and laughing and like showing off his book and I was promoting like in the old days, who here would have, on my word, backed him? Let's find out. Let's see if it was more people than backed them during Katie's stream where they were trash-talking me and all of the people that are now boycotting the project because of Riley",
+      "involved_entity_ids": [
+        "person:katy",
+        "person:riley"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:katy",
+          "matched_alias": "Katie",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        },
+        {
+          "entity_id": "person:riley",
+          "matched_alias": "Riley",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 4,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "X0hbv1uKEGA",
+        "title": "Becoming All Powerful & the Ultimate Underdog!",
+        "channel": "KatyDid",
+        "published_at": "2026-07-04T22:09:49+00:00",
+        "timestamp_seconds": 300.44,
+        "timestamp_display": "05:00",
+        "url": "https://www.youtube.com/watch?v=X0hbv1uKEGA",
+        "receipt_url": "https://www.youtube.com/watch?v=X0hbv1uKEGA&t=300s",
+        "transcript_file": "transcripts/2026-07/Becoming All Powerful & the Ultimate Underdog! [X0hbv1uKEGA].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:katy",
+          "person:riley"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.98
+    },
+    {
+      "passage_id": "passage:X0hbv1uKEGA:315",
+      "passage_type": "multi_person_passage",
+      "claim_excerpt": "and all of the people that are now",
+      "context_before": "the shit that went down didn't go down and I had Ray Ray on and we were joking and laughing and like showing off his book and I was promoting like in the old days, who here would have, on my word, backed him? Let's find out. Let's see if it was more people than backed them during Katie's stream where they were trash-talking me",
+      "context_after": "boycotting the project because of Riley fucking Mix running around trying to cause problems for me and uh harass me and my family. Let's see if me never having another day's peace is more lucrative than having me around and getting along.",
+      "full_context": "the shit that went down didn't go down and I had Ray Ray on and we were joking and laughing and like showing off his book and I was promoting like in the old days, who here would have, on my word, backed him? Let's find out. Let's see if it was more people than backed them during Katie's stream where they were trash-talking me and all of the people that are now boycotting the project because of Riley fucking Mix running around trying to cause problems for me and uh harass me and my family. Let's see if me never having another day's peace is more lucrative than having me around and getting along.",
+      "involved_entity_ids": [
+        "person:katy",
+        "person:riley"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:katy",
+          "matched_alias": "Katie",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        },
+        {
+          "entity_id": "person:riley",
+          "matched_alias": "Riley",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 4,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "X0hbv1uKEGA",
+        "title": "Becoming All Powerful & the Ultimate Underdog!",
+        "channel": "KatyDid",
+        "published_at": "2026-07-04T22:09:49+00:00",
+        "timestamp_seconds": 315.6,
+        "timestamp_display": "05:15",
+        "url": "https://www.youtube.com/watch?v=X0hbv1uKEGA",
+        "receipt_url": "https://www.youtube.com/watch?v=X0hbv1uKEGA&t=315s",
+        "transcript_file": "transcripts/2026-07/Becoming All Powerful & the Ultimate Underdog! [X0hbv1uKEGA].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:katy",
+          "person:riley"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.98
+    },
+    {
+      "passage_id": "passage:X0hbv1uKEGA:333",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "having me around and getting along.",
+      "context_before": "stream where they were trash-talking me and all of the people that are now boycotting the project because of Riley fucking Mix running around trying to cause problems for me and uh harass me and my family. Let's see if me never having another day's peace is more lucrative than",
+      "context_after": "Can we just see a Can we see some hands in the chat, please? Every hand representing money that is no longer going to their projects or their efforts because of how they made it their entire fucking driving goal to ostracize, isolate, and humiliate me.",
+      "full_context": "stream where they were trash-talking me and all of the people that are now boycotting the project because of Riley fucking Mix running around trying to cause problems for me and uh harass me and my family. Let's see if me never having another day's peace is more lucrative than having me around and getting along. Can we just see a Can we see some hands in the chat, please? Every hand representing money that is no longer going to their projects or their efforts because of how they made it their entire fucking driving goal to ostracize, isolate, and humiliate me.",
+      "involved_entity_ids": [
+        "person:riley"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:riley",
+          "matched_alias": "Riley",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 1,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "X0hbv1uKEGA",
+        "title": "Becoming All Powerful & the Ultimate Underdog!",
+        "channel": "KatyDid",
+        "published_at": "2026-07-04T22:09:49+00:00",
+        "timestamp_seconds": 333.04,
+        "timestamp_display": "05:33",
+        "url": "https://www.youtube.com/watch?v=X0hbv1uKEGA",
+        "receipt_url": "https://www.youtube.com/watch?v=X0hbv1uKEGA&t=333s",
+        "transcript_file": "transcripts/2026-07/Becoming All Powerful & the Ultimate Underdog! [X0hbv1uKEGA].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:riley"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.71
+    },
+    {
+      "passage_id": "passage:X0hbv1uKEGA:649",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "I don't think that he's an idiot. If you",
+      "context_before": "can. People are like, \"Are you worried about Trash Castle, Liam?\" I'm like, \"Why would I be worried about Trash Castle? I'm just not going to watch it.\" If Ethan wants to be a fucking idiot and be my enemy instead of, you know, an ally or a friend, then he knows the consequences.",
+      "context_after": "want me to be frank with you, I think that he's pushing cuz he knows I'll offer a little bit of grace, but I don't think he's a fucking idiot. I think he knows that I'm not fucking around. You know, I don't think he's doing a Katie did where he's like, \"You don't have You don't have the guts. You're not even going to do it.\" Because I'm now in the process of doing it.",
+      "full_context": "can. People are like, \"Are you worried about Trash Castle, Liam?\" I'm like, \"Why would I be worried about Trash Castle? I'm just not going to watch it.\" If Ethan wants to be a fucking idiot and be my enemy instead of, you know, an ally or a friend, then he knows the consequences. I don't think that he's an idiot. If you want me to be frank with you, I think that he's pushing cuz he knows I'll offer a little bit of grace, but I don't think he's a fucking idiot. I think he knows that I'm not fucking around. You know, I don't think he's doing a Katie did where he's like, \"You don't have You don't have the guts. You're not even going to do it.\" Because I'm now in the process of doing it.",
+      "involved_entity_ids": [
+        "person:katy"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:katy",
+          "matched_alias": "Katie",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 2,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "X0hbv1uKEGA",
+        "title": "Becoming All Powerful & the Ultimate Underdog!",
+        "channel": "KatyDid",
+        "published_at": "2026-07-04T22:09:49+00:00",
+        "timestamp_seconds": 649.64,
+        "timestamp_display": "10:49",
+        "url": "https://www.youtube.com/watch?v=X0hbv1uKEGA",
+        "receipt_url": "https://www.youtube.com/watch?v=X0hbv1uKEGA&t=649s",
+        "transcript_file": "transcripts/2026-07/Becoming All Powerful & the Ultimate Underdog! [X0hbv1uKEGA].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:katy"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.79
+    },
+    {
+      "passage_id": "passage:X0hbv1uKEGA:660",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "that I'm not fucking around.",
+      "context_before": "ally or a friend, then he knows the consequences. I don't think that he's an idiot. If you want me to be frank with you, I think that he's pushing cuz he knows I'll offer a little bit of grace, but I don't think he's a fucking idiot. I think he knows",
+      "context_after": "You know, I don't think he's doing a Katie did where he's like, \"You don't have You don't have the guts. You're not even going to do it.\" Because I'm now in the process of doing it. And if he wants to pick the winning side, and I'm sure he does, he'll come around. And so will the rest of CG. Because Liam is finally done pulling these fucking punches.",
+      "full_context": "ally or a friend, then he knows the consequences. I don't think that he's an idiot. If you want me to be frank with you, I think that he's pushing cuz he knows I'll offer a little bit of grace, but I don't think he's a fucking idiot. I think he knows that I'm not fucking around. You know, I don't think he's doing a Katie did where he's like, \"You don't have You don't have the guts. You're not even going to do it.\" Because I'm now in the process of doing it. And if he wants to pick the winning side, and I'm sure he does, he'll come around. And so will the rest of CG. Because Liam is finally done pulling these fucking punches.",
+      "involved_entity_ids": [
+        "person:katy"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:katy",
+          "matched_alias": "Katie",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 2,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "X0hbv1uKEGA",
+        "title": "Becoming All Powerful & the Ultimate Underdog!",
+        "channel": "KatyDid",
+        "published_at": "2026-07-04T22:09:49+00:00",
+        "timestamp_seconds": 660.2,
+        "timestamp_display": "11:00",
+        "url": "https://www.youtube.com/watch?v=X0hbv1uKEGA",
+        "receipt_url": "https://www.youtube.com/watch?v=X0hbv1uKEGA&t=660s",
+        "transcript_file": "transcripts/2026-07/Becoming All Powerful & the Ultimate Underdog! [X0hbv1uKEGA].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:katy"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.79
+    },
+    {
+      "passage_id": "passage:X0hbv1uKEGA:676",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "Because Liam is finally done pulling",
+      "context_before": "but I don't think he's a fucking idiot. I think he knows that I'm not fucking around. You know, I don't think he's doing a Katie did where he's like, \"You don't have You don't have the guts. You're not even going to do it.\" Because I'm now in the process of doing it. And if he wants to pick the winning side, and I'm sure he does, he'll come around. And so will the rest of CG.",
+      "context_after": "these fucking punches. You know, we were having a little spar, and you guys were going all out at 110 at me. Bloodied my nose a little bit, knocked me down a few times. You had five on fucking one, six on one. At one time there were eight different fucking groups of people doing this. You know,",
+      "full_context": "but I don't think he's a fucking idiot. I think he knows that I'm not fucking around. You know, I don't think he's doing a Katie did where he's like, \"You don't have You don't have the guts. You're not even going to do it.\" Because I'm now in the process of doing it. And if he wants to pick the winning side, and I'm sure he does, he'll come around. And so will the rest of CG. Because Liam is finally done pulling these fucking punches. You know, we were having a little spar, and you guys were going all out at 110 at me. Bloodied my nose a little bit, knocked me down a few times. You had five on fucking one, six on one. At one time there were eight different fucking groups of people doing this. You know,",
+      "involved_entity_ids": [
+        "person:katy"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:katy",
+          "matched_alias": "Katie",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 2,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "X0hbv1uKEGA",
+        "title": "Becoming All Powerful & the Ultimate Underdog!",
+        "channel": "KatyDid",
+        "published_at": "2026-07-04T22:09:49+00:00",
+        "timestamp_seconds": 676.6,
+        "timestamp_display": "11:16",
+        "url": "https://www.youtube.com/watch?v=X0hbv1uKEGA",
+        "receipt_url": "https://www.youtube.com/watch?v=X0hbv1uKEGA&t=676s",
+        "transcript_file": "transcripts/2026-07/Becoming All Powerful & the Ultimate Underdog! [X0hbv1uKEGA].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:katy"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.79
+    }
+  ]
+}

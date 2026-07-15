@@ -1,0 +1,435 @@
+{
+  "occurrences": [
+    {
+      "occurrence_id": "occurrence:V1nqAzwILiM:20:person:liam-gray",
+      "entity_id": "person:liam-gray",
+      "matched_alias": "Liam Gray",
+      "alias_strength": "strong",
+      "confidence": 1.0,
+      "video_id": "V1nqAzwILiM",
+      "title": "Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! | TRASHCAST",
+      "source": "KatyDid",
+      "published": "2026-07-08T12:40:22+00:00",
+      "segment_index": 20,
+      "start": 40.879,
+      "timestamp": "00:40",
+      "quote": "this is Liam Gray coming out of the",
+      "receipt_url": "https://www.youtube.com/watch?v=V1nqAzwILiM&t=40s",
+      "transcript_file": "transcripts/2026-07/Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! TRASHCAST [V1nqAzwILiM].json"
+    },
+    {
+      "occurrence_id": "occurrence:V1nqAzwILiM:69:person:vito-gesualdi",
+      "entity_id": "person:vito-gesualdi",
+      "matched_alias": "Veto",
+      "alias_strength": "weak",
+      "confidence": 0.68,
+      "video_id": "V1nqAzwILiM",
+      "title": "Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! | TRASHCAST",
+      "source": "KatyDid",
+      "published": "2026-07-08T12:40:22+00:00",
+      "segment_index": 69,
+      "start": 186.4,
+      "timestamp": "03:06",
+      "quote": "And so veto uh or not veto, I'm sorry,",
+      "receipt_url": "https://www.youtube.com/watch?v=V1nqAzwILiM&t=186s",
+      "transcript_file": "transcripts/2026-07/Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! TRASHCAST [V1nqAzwILiM].json"
+    },
+    {
+      "occurrence_id": "occurrence:V1nqAzwILiM:259:person:vito-gesualdi",
+      "entity_id": "person:vito-gesualdi",
+      "matched_alias": "Veto",
+      "alias_strength": "weak",
+      "confidence": 0.68,
+      "video_id": "V1nqAzwILiM",
+      "title": "Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! | TRASHCAST",
+      "source": "KatyDid",
+      "published": "2026-07-08T12:40:22+00:00",
+      "segment_index": 259,
+      "start": 650.56,
+      "timestamp": "10:50",
+      "quote": "know like Liam is like Veto in that",
+      "receipt_url": "https://www.youtube.com/watch?v=V1nqAzwILiM&t=650s",
+      "transcript_file": "transcripts/2026-07/Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! TRASHCAST [V1nqAzwILiM].json"
+    }
+  ],
+  "passages": [
+    {
+      "passage_id": "passage:V1nqAzwILiM:21",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": ">> okay it's called there's yeah there's",
+      "context_before": "where you go these guys who you got a certain group of guys who are going let's create comedy let's make videos let's do skits let's make comic books and there's a certain group of people who go well what if we spent all our time obsessively telling the people who are making shit >> what fucking retards they are and how much they suck",
+      "context_after": "room for criticism and I get that you you do it even the start everything bothers you I And that's the thing, like you're you're a little like you're a little like Liam Gray because like everything bothers Liam. So Liam made a video and this was the thumbnail of the video. Uh this is this is Liam Gray coming out of the",
+      "full_context": "where you go these guys who you got a certain group of guys who are going let's create comedy let's make videos let's do skits let's make comic books and there's a certain group of people who go well what if we spent all our time obsessively telling the people who are making shit >> what fucking retards they are and how much they suck >> okay it's called there's yeah there's room for criticism and I get that you you do it even the start everything bothers you I And that's the thing, like you're you're a little like you're a little like Liam Gray because like everything bothers Liam. So Liam made a video and this was the thumbnail of the video. Uh this is this is Liam Gray coming out of the",
+      "involved_entity_ids": [
+        "person:liam-gray"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:liam-gray",
+          "matched_alias": "Liam Gray",
+          "alias_strength": "strong",
+          "confidence": 1.0
+        }
+      ],
+      "claim_term_count": 2,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "V1nqAzwILiM",
+        "title": "Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! | TRASHCAST",
+        "channel": "KatyDid",
+        "published_at": "2026-07-08T12:40:22+00:00",
+        "timestamp_seconds": 21.6,
+        "timestamp_display": "00:21",
+        "url": "https://www.youtube.com/watch?v=V1nqAzwILiM",
+        "receipt_url": "https://www.youtube.com/watch?v=V1nqAzwILiM&t=21s",
+        "transcript_file": "transcripts/2026-07/Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! TRASHCAST [V1nqAzwILiM].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:liam-gray"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.79
+    },
+    {
+      "passage_id": "passage:V1nqAzwILiM:31",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "little like you're a little like Liam",
+      "context_before": "and there's a certain group of people who go well what if we spent all our time obsessively telling the people who are making shit >> what fucking retards they are and how much they suck >> okay it's called there's yeah there's room for criticism and I get that you you do it even the start everything bothers you I And that's the thing, like you're you're a",
+      "context_after": "Gray because like everything bothers Liam. So Liam made a video and this was the thumbnail of the video. Uh this is this is Liam Gray coming out of the police station. Now Liam's point of making this video with this thumbnail that he made. Uh is that he was trying to prove to people that he was uh going",
+      "full_context": "and there's a certain group of people who go well what if we spent all our time obsessively telling the people who are making shit >> what fucking retards they are and how much they suck >> okay it's called there's yeah there's room for criticism and I get that you you do it even the start everything bothers you I And that's the thing, like you're you're a little like you're a little like Liam Gray because like everything bothers Liam. So Liam made a video and this was the thumbnail of the video. Uh this is this is Liam Gray coming out of the police station. Now Liam's point of making this video with this thumbnail that he made. Uh is that he was trying to prove to people that he was uh going",
+      "involved_entity_ids": [
+        "person:liam-gray"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:liam-gray",
+          "matched_alias": "Liam Gray",
+          "alias_strength": "strong",
+          "confidence": 1.0
+        }
+      ],
+      "claim_term_count": 2,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "V1nqAzwILiM",
+        "title": "Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! | TRASHCAST",
+        "channel": "KatyDid",
+        "published_at": "2026-07-08T12:40:22+00:00",
+        "timestamp_seconds": 31.279,
+        "timestamp_display": "00:31",
+        "url": "https://www.youtube.com/watch?v=V1nqAzwILiM",
+        "receipt_url": "https://www.youtube.com/watch?v=V1nqAzwILiM&t=31s",
+        "transcript_file": "transcripts/2026-07/Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! TRASHCAST [V1nqAzwILiM].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:liam-gray"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.79
+    },
+    {
+      "passage_id": "passage:V1nqAzwILiM:47",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "that he made. Uh is that he was trying",
+      "context_before": "start everything bothers you I And that's the thing, like you're you're a little like you're a little like Liam Gray because like everything bothers Liam. So Liam made a video and this was the thumbnail of the video. Uh this is this is Liam Gray coming out of the police station. Now Liam's point of making this video with this thumbnail",
+      "context_after": "to prove to people that he was uh going to the police. Okay. So, you know, if you think that Liam isn't going to the police, he he is going to the police. And uh here's uh here's proof. Now, people didn't care that Liam was going to the police. What they basically said",
+      "full_context": "start everything bothers you I And that's the thing, like you're you're a little like you're a little like Liam Gray because like everything bothers Liam. So Liam made a video and this was the thumbnail of the video. Uh this is this is Liam Gray coming out of the police station. Now Liam's point of making this video with this thumbnail that he made. Uh is that he was trying to prove to people that he was uh going to the police. Okay. So, you know, if you think that Liam isn't going to the police, he he is going to the police. And uh here's uh here's proof. Now, people didn't care that Liam was going to the police. What they basically said",
+      "involved_entity_ids": [
+        "person:liam-gray"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:liam-gray",
+          "matched_alias": "Liam Gray",
+          "alias_strength": "strong",
+          "confidence": 1.0
+        }
+      ],
+      "claim_term_count": 5,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "V1nqAzwILiM",
+        "title": "Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! | TRASHCAST",
+        "channel": "KatyDid",
+        "published_at": "2026-07-08T12:40:22+00:00",
+        "timestamp_seconds": 47.6,
+        "timestamp_display": "00:47",
+        "url": "https://www.youtube.com/watch?v=V1nqAzwILiM",
+        "receipt_url": "https://www.youtube.com/watch?v=V1nqAzwILiM&t=47s",
+        "transcript_file": "transcripts/2026-07/Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! TRASHCAST [V1nqAzwILiM].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:liam-gray"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.98
+    },
+    {
+      "passage_id": "passage:V1nqAzwILiM:167",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "that's not funny, Ethan. I think it is.",
+      "context_before": "Oh my god. Now Liam couldn't have that. Like people were noticing that, you know, Liam is very small compared to uh the world. You know, mostly you see Liam uh sitting behind a table uh and stuff like low water says",
+      "context_after": "I I have to admit I you know, if it makes me laugh, then it's funny to me. You know, I genuinely if I'm gawing and laughing hard so that my eyes are watering, it's funny. Well, anyway, people were laughing at Liam uh over this picture. And so veto uh or not veto, I'm sorry,",
+      "full_context": "Oh my god. Now Liam couldn't have that. Like people were noticing that, you know, Liam is very small compared to uh the world. You know, mostly you see Liam uh sitting behind a table uh and stuff like low water says that's not funny, Ethan. I think it is. I I have to admit I you know, if it makes me laugh, then it's funny to me. You know, I genuinely if I'm gawing and laughing hard so that my eyes are watering, it's funny. Well, anyway, people were laughing at Liam uh over this picture. And so veto uh or not veto, I'm sorry,",
+      "involved_entity_ids": [
+        "person:vito-gesualdi"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:vito-gesualdi",
+          "matched_alias": "Veto",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 1,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "V1nqAzwILiM",
+        "title": "Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! | TRASHCAST",
+        "channel": "KatyDid",
+        "published_at": "2026-07-08T12:40:22+00:00",
+        "timestamp_seconds": 167.36,
+        "timestamp_display": "02:47",
+        "url": "https://www.youtube.com/watch?v=V1nqAzwILiM",
+        "receipt_url": "https://www.youtube.com/watch?v=V1nqAzwILiM&t=167s",
+        "transcript_file": "transcripts/2026-07/Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! TRASHCAST [V1nqAzwILiM].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:vito-gesualdi"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.71
+    },
+    {
+      "passage_id": "passage:V1nqAzwILiM:180",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "people were laughing at Liam uh",
+      "context_before": "mostly you see Liam uh sitting behind a table uh and stuff like low water says that's not funny, Ethan. I think it is. I I have to admit I you know, if it makes me laugh, then it's funny to me. You know, I genuinely if I'm gawing and laughing hard so that my eyes are watering, it's funny. Well, anyway,",
+      "context_after": "over this picture. And so veto uh or not veto, I'm sorry, Liam uh decided that he was going to debunk this. This was very important to him that he debunk this situation. So he went back there and made a video called the fascinating fence fantasy exposed >> from sort of was ragging.",
+      "full_context": "mostly you see Liam uh sitting behind a table uh and stuff like low water says that's not funny, Ethan. I think it is. I I have to admit I you know, if it makes me laugh, then it's funny to me. You know, I genuinely if I'm gawing and laughing hard so that my eyes are watering, it's funny. Well, anyway, people were laughing at Liam uh over this picture. And so veto uh or not veto, I'm sorry, Liam uh decided that he was going to debunk this. This was very important to him that he debunk this situation. So he went back there and made a video called the fascinating fence fantasy exposed >> from sort of was ragging.",
+      "involved_entity_ids": [
+        "person:vito-gesualdi"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:vito-gesualdi",
+          "matched_alias": "Veto",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 2,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "V1nqAzwILiM",
+        "title": "Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! | TRASHCAST",
+        "channel": "KatyDid",
+        "published_at": "2026-07-08T12:40:22+00:00",
+        "timestamp_seconds": 180.16,
+        "timestamp_display": "03:00",
+        "url": "https://www.youtube.com/watch?v=V1nqAzwILiM",
+        "receipt_url": "https://www.youtube.com/watch?v=V1nqAzwILiM&t=180s",
+        "transcript_file": "transcripts/2026-07/Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! TRASHCAST [V1nqAzwILiM].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:vito-gesualdi"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.79
+    },
+    {
+      "passage_id": "passage:V1nqAzwILiM:195",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "went back there and made a video called",
+      "context_before": "laughing hard so that my eyes are watering, it's funny. Well, anyway, people were laughing at Liam uh over this picture. And so veto uh or not veto, I'm sorry, Liam uh decided that he was going to debunk this. This was very important to him that he debunk this situation. So he",
+      "context_after": "the fascinating fence fantasy exposed >> from sort of was ragging. >> See, this is the thing like Liam couldn't just let people have a laugh at his expense cuz that that is funny. I don't think anybody really necessarily thought that Liam was uh you know two 2 and 1/2 ft tall. Uh but uh he had to debunk it anyway.",
+      "full_context": "laughing hard so that my eyes are watering, it's funny. Well, anyway, people were laughing at Liam uh over this picture. And so veto uh or not veto, I'm sorry, Liam uh decided that he was going to debunk this. This was very important to him that he debunk this situation. So he went back there and made a video called the fascinating fence fantasy exposed >> from sort of was ragging. >> See, this is the thing like Liam couldn't just let people have a laugh at his expense cuz that that is funny. I don't think anybody really necessarily thought that Liam was uh you know two 2 and 1/2 ft tall. Uh but uh he had to debunk it anyway.",
+      "involved_entity_ids": [
+        "person:vito-gesualdi"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:vito-gesualdi",
+          "matched_alias": "Veto",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 1,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "V1nqAzwILiM",
+        "title": "Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! | TRASHCAST",
+        "channel": "KatyDid",
+        "published_at": "2026-07-08T12:40:22+00:00",
+        "timestamp_seconds": 195.68,
+        "timestamp_display": "03:15",
+        "url": "https://www.youtube.com/watch?v=V1nqAzwILiM",
+        "receipt_url": "https://www.youtube.com/watch?v=V1nqAzwILiM&t=195s",
+        "transcript_file": "transcripts/2026-07/Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! TRASHCAST [V1nqAzwILiM].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:vito-gesualdi"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.71
+    },
+    {
+      "passage_id": "passage:V1nqAzwILiM:640",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "massive as you can tell. It's huge.",
+      "context_before": ">> report. weekly report >> is going on with his case. >> Oh god. >> Yes. Yes. Hi Dennis. Hi D. >> Uh she's his wife is saying hi to everybody. Okay. No need to no need to continue watching that. But uh there you go. There's the fence. And that fence is",
+      "context_after": "Uh blah blah blah. Let's get back to watching. And uh but I mean the point of that is just to point out that like you know like Liam is like Veto in that they're entirely focused on their haters. Uh she's a good wife to him says. Yeah, she is. She puts up with a",
+      "full_context": ">> report. weekly report >> is going on with his case. >> Oh god. >> Yes. Yes. Hi Dennis. Hi D. >> Uh she's his wife is saying hi to everybody. Okay. No need to no need to continue watching that. But uh there you go. There's the fence. And that fence is massive as you can tell. It's huge. Uh blah blah blah. Let's get back to watching. And uh but I mean the point of that is just to point out that like you know like Liam is like Veto in that they're entirely focused on their haters. Uh she's a good wife to him says. Yeah, she is. She puts up with a",
+      "involved_entity_ids": [
+        "person:vito-gesualdi"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:vito-gesualdi",
+          "matched_alias": "Veto",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 1,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "V1nqAzwILiM",
+        "title": "Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! | TRASHCAST",
+        "channel": "KatyDid",
+        "published_at": "2026-07-08T12:40:22+00:00",
+        "timestamp_seconds": 640.56,
+        "timestamp_display": "10:40",
+        "url": "https://www.youtube.com/watch?v=V1nqAzwILiM",
+        "receipt_url": "https://www.youtube.com/watch?v=V1nqAzwILiM&t=640s",
+        "transcript_file": "transcripts/2026-07/Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! TRASHCAST [V1nqAzwILiM].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:vito-gesualdi"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.71
+    },
+    {
+      "passage_id": "passage:V1nqAzwILiM:646",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "watching. And uh but I mean the point of",
+      "context_before": ">> Uh she's his wife is saying hi to everybody. Okay. No need to no need to continue watching that. But uh there you go. There's the fence. And that fence is massive as you can tell. It's huge. Uh blah blah blah. Let's get back to",
+      "context_after": "that is just to point out that like you know like Liam is like Veto in that they're entirely focused on their haters. Uh she's a good wife to him says. Yeah, she is. She puts up with a lot. You can tell. Uh all right, let me get back to this. But the point is that yeah, Liam is like to go back and make",
+      "full_context": ">> Uh she's his wife is saying hi to everybody. Okay. No need to no need to continue watching that. But uh there you go. There's the fence. And that fence is massive as you can tell. It's huge. Uh blah blah blah. Let's get back to watching. And uh but I mean the point of that is just to point out that like you know like Liam is like Veto in that they're entirely focused on their haters. Uh she's a good wife to him says. Yeah, she is. She puts up with a lot. You can tell. Uh all right, let me get back to this. But the point is that yeah, Liam is like to go back and make",
+      "involved_entity_ids": [
+        "person:vito-gesualdi"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:vito-gesualdi",
+          "matched_alias": "Veto",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 1,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "V1nqAzwILiM",
+        "title": "Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! | TRASHCAST",
+        "channel": "KatyDid",
+        "published_at": "2026-07-08T12:40:22+00:00",
+        "timestamp_seconds": 646.8,
+        "timestamp_display": "10:46",
+        "url": "https://www.youtube.com/watch?v=V1nqAzwILiM",
+        "receipt_url": "https://www.youtube.com/watch?v=V1nqAzwILiM&t=646s",
+        "transcript_file": "transcripts/2026-07/Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! TRASHCAST [V1nqAzwILiM].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:vito-gesualdi"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.71
+    },
+    {
+      "passage_id": "passage:V1nqAzwILiM:660",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "lot. You can tell. Uh all right, let me",
+      "context_before": "Uh blah blah blah. Let's get back to watching. And uh but I mean the point of that is just to point out that like you know like Liam is like Veto in that they're entirely focused on their haters. Uh she's a good wife to him says. Yeah, she is. She puts up with a",
+      "context_after": "get back to this. But the point is that yeah, Liam is like to go back and make another video to prove to try to prove to debunk the theories of scale about that fence versus your height means that Liam is entirely focused on the people who dislike him or are making fun of him. And he shouldn't be focused on",
+      "full_context": "Uh blah blah blah. Let's get back to watching. And uh but I mean the point of that is just to point out that like you know like Liam is like Veto in that they're entirely focused on their haters. Uh she's a good wife to him says. Yeah, she is. She puts up with a lot. You can tell. Uh all right, let me get back to this. But the point is that yeah, Liam is like to go back and make another video to prove to try to prove to debunk the theories of scale about that fence versus your height means that Liam is entirely focused on the people who dislike him or are making fun of him. And he shouldn't be focused on",
+      "involved_entity_ids": [
+        "person:vito-gesualdi"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:vito-gesualdi",
+          "matched_alias": "Veto",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 1,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "V1nqAzwILiM",
+        "title": "Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! | TRASHCAST",
+        "channel": "KatyDid",
+        "published_at": "2026-07-08T12:40:22+00:00",
+        "timestamp_seconds": 660.959,
+        "timestamp_display": "11:00",
+        "url": "https://www.youtube.com/watch?v=V1nqAzwILiM",
+        "receipt_url": "https://www.youtube.com/watch?v=V1nqAzwILiM&t=660s",
+        "transcript_file": "transcripts/2026-07/Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! TRASHCAST [V1nqAzwILiM].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:vito-gesualdi"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.71
+    }
+  ]
+}

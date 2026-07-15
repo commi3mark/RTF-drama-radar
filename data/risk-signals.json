@@ -1,0 +1,38 @@
+{
+  "generated_at": "2026-07-15T00:55:14.147429+00:00",
+  "schema_version": 5,
+  "risk_signals": [
+    {
+      "risk_signal_id": "risk-signal:quote:SlodiZOj8bE:935:privacy_signal",
+      "target_entity_id": "person:commi3-mark",
+      "actor_entity_id": "person:johnny-rocket",
+      "candidate_actor_entity_ids": [
+        "person:johnny-rocket"
+      ],
+      "signal_type": "privacy_signal",
+      "severity": 3,
+      "quote_id": "quote:SlodiZOj8bE:935",
+      "exact_text": "Movie Per's appearance uh on Kami Mark's",
+      "context_text": ">> Right. Right. Right. Okay. >> Yeah. It's this guy, bro. >> That guy. Right. Mhm. Yeah. >> That's Little Movie Pop who we're talking about. >> Yeah. I thought that was me at first when I saw that on [laughter] the thumbnail. Not gonna lie. >> Apparently Kenzo sounds more like car. All right, >> let's [ __ ] [laughter] get through this. Jesus Christ. >> Yeah, >> the rest of this I think from here you can we we eap the rest of this uh yesterday. Uh I want to look at Little Movie Per's appearance uh on Kami Mark's channel. We love Kamie Mark. He was the first one to the scene to discuss the FBI showing up at my house and little movie perp wanted to have his say uh about it. So um you know you can uh um you can hear what he had to say about it here. >> Makes like to say >> hang on before I even talk. Uh, that's Johnny Rocket, Dan Lawless, and Clipper.",
+      "receipt_url": "https://www.youtube.com/watch?v=SlodiZOj8bE&t=2448s",
+      "confidence": 1.0,
+      "review_status": "automatic_needs_review"
+    },
+    {
+      "risk_signal_id": "risk-signal:quote:SlodiZOj8bE:945:privacy_signal",
+      "target_entity_id": "person:commi3-mark",
+      "actor_entity_id": "person:johnny-rocket",
+      "candidate_actor_entity_ids": [
+        "person:johnny-rocket"
+      ],
+      "signal_type": "privacy_signal",
+      "severity": 3,
+      "quote_id": "quote:SlodiZOj8bE:945",
+      "exact_text": "Johnny Rocket, Dan Lawless, and Clipper.",
+      "context_text": "Movie Per's appearance uh on Kami Mark's channel. We love Kamie Mark. He was the first one to the scene to discuss the FBI showing up at my house and little movie perp wanted to have his say uh about it. So um you know you can uh um you can hear what he had to say about it here. >> Makes like to say >> hang on before I even talk. Uh, that's Johnny Rocket, Dan Lawless, and Clipper. And it >> Oh, so wait. So the Fed showed up at Ethan's house. >> I thought they showed up at >> Keep doing you huge fan. Smiley face emoji. >> I thought the Fed showed up at the uh >> Thanks, man. >> at the director's house. >> No, no, no. Well, we think that they may have be there by now. They might have done it by now. Yeah. >> You think they may have showed up, but",
+      "receipt_url": "https://www.youtube.com/watch?v=SlodiZOj8bE&t=2476s",
+      "confidence": 1.0,
+      "review_status": "automatic_needs_review"
+    }
+  ]
+}

@@ -1,0 +1,755 @@
+{
+  "occurrences": [
+    {
+      "occurrence_id": "occurrence:7JzZNez4ZBE:49:person:jon-del-arroz",
+      "entity_id": "person:jon-del-arroz",
+      "matched_alias": "JDA",
+      "alias_strength": "weak",
+      "confidence": 0.68,
+      "video_id": "7JzZNez4ZBE",
+      "title": "FFS: Shane Davis Stops By! Discusses JDA & BACKmeBro",
+      "source": "KatyDid",
+      "published": "2026-07-03T16:57:45+00:00",
+      "segment_index": 49,
+      "start": 99.92,
+      "timestamp": "01:39",
+      "quote": "JDA, you called the guy a drunk and a",
+      "receipt_url": "https://www.youtube.com/watch?v=7JzZNez4ZBE&t=99s",
+      "transcript_file": "transcripts/2026-07/FFS Shane Davis Stops By! Discusses JDA & BACKmeBro [7JzZNez4ZBE].json"
+    },
+    {
+      "occurrence_id": "occurrence:7JzZNez4ZBE:56:person:jon-del-arroz",
+      "entity_id": "person:jon-del-arroz",
+      "matched_alias": "JDA",
+      "alias_strength": "weak",
+      "confidence": 0.68,
+      "video_id": "7JzZNez4ZBE",
+      "title": "FFS: Shane Davis Stops By! Discusses JDA & BACKmeBro",
+      "source": "KatyDid",
+      "published": "2026-07-03T16:57:45+00:00",
+      "segment_index": 56,
+      "start": 113.6,
+      "timestamp": "01:53",
+      "quote": "JDA wants to be on your website, but at",
+      "receipt_url": "https://www.youtube.com/watch?v=7JzZNez4ZBE&t=113s",
+      "transcript_file": "transcripts/2026-07/FFS Shane Davis Stops By! Discusses JDA & BACKmeBro [7JzZNez4ZBE].json"
+    },
+    {
+      "occurrence_id": "occurrence:7JzZNez4ZBE:98:person:jon-del-arroz",
+      "entity_id": "person:jon-del-arroz",
+      "matched_alias": "JDA",
+      "alias_strength": "weak",
+      "confidence": 0.68,
+      "video_id": "7JzZNez4ZBE",
+      "title": "FFS: Shane Davis Stops By! Discusses JDA & BACKmeBro",
+      "source": "KatyDid",
+      "published": "2026-07-03T16:57:45+00:00",
+      "segment_index": 98,
+      "start": 202.2,
+      "timestamp": "03:22",
+      "quote": "cover for JDA.\" And then, uh he's like,",
+      "receipt_url": "https://www.youtube.com/watch?v=7JzZNez4ZBE&t=202s",
+      "transcript_file": "transcripts/2026-07/FFS Shane Davis Stops By! Discusses JDA & BACKmeBro [7JzZNez4ZBE].json"
+    },
+    {
+      "occurrence_id": "occurrence:7JzZNez4ZBE:128:person:jon-del-arroz",
+      "entity_id": "person:jon-del-arroz",
+      "matched_alias": "JDA",
+      "alias_strength": "weak",
+      "confidence": 0.68,
+      "video_id": "7JzZNez4ZBE",
+      "title": "FFS: Shane Davis Stops By! Discusses JDA & BACKmeBro",
+      "source": "KatyDid",
+      "published": "2026-07-03T16:57:45+00:00",
+      "segment_index": 128,
+      "start": 268.84,
+      "timestamp": "04:28",
+      "quote": ">> I don't understand JDA at all. I don't",
+      "receipt_url": "https://www.youtube.com/watch?v=7JzZNez4ZBE&t=268s",
+      "transcript_file": "transcripts/2026-07/FFS Shane Davis Stops By! Discusses JDA & BACKmeBro [7JzZNez4ZBE].json"
+    },
+    {
+      "occurrence_id": "occurrence:7JzZNez4ZBE:250:person:jon-del-arroz",
+      "entity_id": "person:jon-del-arroz",
+      "matched_alias": "JDA",
+      "alias_strength": "weak",
+      "confidence": 0.68,
+      "video_id": "7JzZNez4ZBE",
+      "title": "FFS: Shane Davis Stops By! Discusses JDA & BACKmeBro",
+      "source": "KatyDid",
+      "published": "2026-07-03T16:57:45+00:00",
+      "segment_index": 250,
+      "start": 524.28,
+      "timestamp": "08:44",
+      "quote": "I assume that is JDA. But he has a",
+      "receipt_url": "https://www.youtube.com/watch?v=7JzZNez4ZBE&t=524s",
+      "transcript_file": "transcripts/2026-07/FFS Shane Davis Stops By! Discusses JDA & BACKmeBro [7JzZNez4ZBE].json"
+    },
+    {
+      "occurrence_id": "occurrence:7JzZNez4ZBE:408:person:jon-del-arroz",
+      "entity_id": "person:jon-del-arroz",
+      "matched_alias": "JDA",
+      "alias_strength": "weak",
+      "confidence": 0.68,
+      "video_id": "7JzZNez4ZBE",
+      "title": "FFS: Shane Davis Stops By! Discusses JDA & BACKmeBro",
+      "source": "KatyDid",
+      "published": "2026-07-03T16:57:45+00:00",
+      "segment_index": 408,
+      "start": 803.92,
+      "timestamp": "13:23",
+      "quote": "yeah, sure come on here, then JDA would",
+      "receipt_url": "https://www.youtube.com/watch?v=7JzZNez4ZBE&t=803s",
+      "transcript_file": "transcripts/2026-07/FFS Shane Davis Stops By! Discusses JDA & BACKmeBro [7JzZNez4ZBE].json"
+    },
+    {
+      "occurrence_id": "occurrence:7JzZNez4ZBE:841:person:jon-del-arroz",
+      "entity_id": "person:jon-del-arroz",
+      "matched_alias": "JDA",
+      "alias_strength": "weak",
+      "confidence": 0.68,
+      "video_id": "7JzZNez4ZBE",
+      "title": "FFS: Shane Davis Stops By! Discusses JDA & BACKmeBro",
+      "source": "KatyDid",
+      "published": "2026-07-03T16:57:45+00:00",
+      "segment_index": 841,
+      "start": 1651.0,
+      "timestamp": "27:31",
+      "quote": "the some of the things like with the JDA",
+      "receipt_url": "https://www.youtube.com/watch?v=7JzZNez4ZBE&t=1651s",
+      "transcript_file": "transcripts/2026-07/FFS Shane Davis Stops By! Discusses JDA & BACKmeBro [7JzZNez4ZBE].json"
+    }
+  ],
+  "passages": [
+    {
+      "passage_id": "passage:7JzZNez4ZBE:82",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": ">> Driving while mangled, somebody said in",
+      "context_before": "you?\" And I said, \"No.\" And it's He's like, \"Because you're slurring all over the road.\" >> [laughter] [laughter] >> He's like, and I'm like, \"What?\"",
+      "context_after": "the chat. >> [laughter] >> What's up, One God? One God decides to show up whenever Shane shows up. I see what it is. >> THE THAT'S RIGHT. I TRIED TO GET here earlier. >> No, so we were going through all of this. My whole thing was like, we're talking about it, and I'm like, \"Well, JDA, you called the guy a drunk and a drug addict, and then said that he's",
+      "full_context": "you?\" And I said, \"No.\" And it's He's like, \"Because you're slurring all over the road.\" >> [laughter] [laughter] >> He's like, and I'm like, \"What?\" >> Driving while mangled, somebody said in the chat. >> [laughter] >> What's up, One God? One God decides to show up whenever Shane shows up. I see what it is. >> THE THAT'S RIGHT. I TRIED TO GET here earlier. >> No, so we were going through all of this. My whole thing was like, we're talking about it, and I'm like, \"Well, JDA, you called the guy a drunk and a drug addict, and then said that he's",
+      "involved_entity_ids": [
+        "person:jon-del-arroz"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:jon-del-arroz",
+          "matched_alias": "JDA",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 3,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "7JzZNez4ZBE",
+        "title": "FFS: Shane Davis Stops By! Discusses JDA & BACKmeBro",
+        "channel": "KatyDid",
+        "published_at": "2026-07-03T16:57:45+00:00",
+        "timestamp_seconds": 82.4,
+        "timestamp_display": "01:22",
+        "url": "https://www.youtube.com/watch?v=7JzZNez4ZBE",
+        "receipt_url": "https://www.youtube.com/watch?v=7JzZNez4ZBE&t=82s",
+        "transcript_file": "transcripts/2026-07/FFS Shane Davis Stops By! Discusses JDA & BACKmeBro [7JzZNez4ZBE].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:jon-del-arroz"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.87
+    },
+    {
+      "passage_id": "passage:7JzZNez4ZBE:90",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "what it is.",
+      "context_before": "[laughter] >> He's like, and I'm like, \"What?\" >> Driving while mangled, somebody said in the chat. >> [laughter] >> What's up, One God? One God decides to show up whenever Shane shows up. I see",
+      "context_after": ">> THE THAT'S RIGHT. I TRIED TO GET here earlier. >> No, so we were going through all of this. My whole thing was like, we're talking about it, and I'm like, \"Well, JDA, you called the guy a drunk and a drug addict, and then said that he's defrauding his his customers, or trying Basically, you're trying to look cool on Twitter with numbers,",
+      "full_context": "[laughter] >> He's like, and I'm like, \"What?\" >> Driving while mangled, somebody said in the chat. >> [laughter] >> What's up, One God? One God decides to show up whenever Shane shows up. I see what it is. >> THE THAT'S RIGHT. I TRIED TO GET here earlier. >> No, so we were going through all of this. My whole thing was like, we're talking about it, and I'm like, \"Well, JDA, you called the guy a drunk and a drug addict, and then said that he's defrauding his his customers, or trying Basically, you're trying to look cool on Twitter with numbers,",
+      "involved_entity_ids": [
+        "person:jon-del-arroz"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:jon-del-arroz",
+          "matched_alias": "JDA",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 2,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "7JzZNez4ZBE",
+        "title": "FFS: Shane Davis Stops By! Discusses JDA & BACKmeBro",
+        "channel": "KatyDid",
+        "published_at": "2026-07-03T16:57:45+00:00",
+        "timestamp_seconds": 90.28,
+        "timestamp_display": "01:30",
+        "url": "https://www.youtube.com/watch?v=7JzZNez4ZBE",
+        "receipt_url": "https://www.youtube.com/watch?v=7JzZNez4ZBE&t=90s",
+        "transcript_file": "transcripts/2026-07/FFS Shane Davis Stops By! Discusses JDA & BACKmeBro [7JzZNez4ZBE].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:jon-del-arroz"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.79
+    },
+    {
+      "passage_id": "passage:7JzZNez4ZBE:106",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "Basically, you're trying to look cool on",
+      "context_before": "show up whenever Shane shows up. I see what it is. >> THE THAT'S RIGHT. I TRIED TO GET here earlier. >> No, so we were going through all of this. My whole thing was like, we're talking about it, and I'm like, \"Well, JDA, you called the guy a drunk and a drug addict, and then said that he's defrauding his his customers, or trying",
+      "context_after": "Twitter with numbers, which at the end of the year you're going to have to pay taxes on. And then JDA wants to be on your website, but at the same time doesn't want to be on It's so stupid, man. >> Uh it's worse than that. Um Let me go to Twitter. >> $5 from Abacus Finch says, \"Seneca's",
+      "full_context": "show up whenever Shane shows up. I see what it is. >> THE THAT'S RIGHT. I TRIED TO GET here earlier. >> No, so we were going through all of this. My whole thing was like, we're talking about it, and I'm like, \"Well, JDA, you called the guy a drunk and a drug addict, and then said that he's defrauding his his customers, or trying Basically, you're trying to look cool on Twitter with numbers, which at the end of the year you're going to have to pay taxes on. And then JDA wants to be on your website, but at the same time doesn't want to be on It's so stupid, man. >> Uh it's worse than that. Um Let me go to Twitter. >> $5 from Abacus Finch says, \"Seneca's",
+      "involved_entity_ids": [
+        "person:jon-del-arroz"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:jon-del-arroz",
+          "matched_alias": "JDA",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 3,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "7JzZNez4ZBE",
+        "title": "FFS: Shane Davis Stops By! Discusses JDA & BACKmeBro",
+        "channel": "KatyDid",
+        "published_at": "2026-07-03T16:57:45+00:00",
+        "timestamp_seconds": 106.4,
+        "timestamp_display": "01:46",
+        "url": "https://www.youtube.com/watch?v=7JzZNez4ZBE",
+        "receipt_url": "https://www.youtube.com/watch?v=7JzZNez4ZBE&t=106s",
+        "transcript_file": "transcripts/2026-07/FFS Shane Davis Stops By! Discusses JDA & BACKmeBro [7JzZNez4ZBE].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:jon-del-arroz"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.87
+    },
+    {
+      "passage_id": "passage:7JzZNez4ZBE:120",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": ">> Uh it's worse than that.",
+      "context_before": "drug addict, and then said that he's defrauding his his customers, or trying Basically, you're trying to look cool on Twitter with numbers, which at the end of the year you're going to have to pay taxes on. And then JDA wants to be on your website, but at the same time doesn't want to be on It's so stupid, man.",
+      "context_after": "Um Let me go to Twitter. >> $5 from Abacus Finch says, \"Seneca's definitely coming at you, Shane, but not in the way you think.\" Well, I mean, dude, I'm never going to ever let this bumper right here go Actually, I'll play Shane the new one. Here we go. I really fucking tried. >> [music]",
+      "full_context": "drug addict, and then said that he's defrauding his his customers, or trying Basically, you're trying to look cool on Twitter with numbers, which at the end of the year you're going to have to pay taxes on. And then JDA wants to be on your website, but at the same time doesn't want to be on It's so stupid, man. >> Uh it's worse than that. Um Let me go to Twitter. >> $5 from Abacus Finch says, \"Seneca's definitely coming at you, Shane, but not in the way you think.\" Well, I mean, dude, I'm never going to ever let this bumper right here go Actually, I'll play Shane the new one. Here we go. I really fucking tried. >> [music]",
+      "involved_entity_ids": [
+        "person:jon-del-arroz"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:jon-del-arroz",
+          "matched_alias": "JDA",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 2,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "7JzZNez4ZBE",
+        "title": "FFS: Shane Davis Stops By! Discusses JDA & BACKmeBro",
+        "channel": "KatyDid",
+        "published_at": "2026-07-03T16:57:45+00:00",
+        "timestamp_seconds": 120.0,
+        "timestamp_display": "02:00",
+        "url": "https://www.youtube.com/watch?v=7JzZNez4ZBE",
+        "receipt_url": "https://www.youtube.com/watch?v=7JzZNez4ZBE&t=120s",
+        "transcript_file": "transcripts/2026-07/FFS Shane Davis Stops By! Discusses JDA & BACKmeBro [7JzZNez4ZBE].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:jon-del-arroz"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.79
+    },
+    {
+      "passage_id": "passage:7JzZNez4ZBE:183",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "mailing list. Worst it can do is get you",
+      "context_before": ">> me know when you want me to pull it up. >> All right. So, it's worse than that. Like, uh here you go. So, he's not just wanting to be on the site. He goes, \"Uh ping on this here, yes. I'll I'll send over questions, won't edit answers, not a gotcha. Sande Polts is reaching out to different groups. It's a 7K person",
+      "context_after": "a couple of backers.\" And I guess I had said to somebody, like, he paid for a cover, not for for forgiveness. Uh forgiveness isn't So, sorry, I'm slurring all over this. Something he can't afford. >> Mhm. >> And I go, \"What cover? I'm not doing a cover for JDA.\" And then, uh he's like,",
+      "full_context": ">> me know when you want me to pull it up. >> All right. So, it's worse than that. Like, uh here you go. So, he's not just wanting to be on the site. He goes, \"Uh ping on this here, yes. I'll I'll send over questions, won't edit answers, not a gotcha. Sande Polts is reaching out to different groups. It's a 7K person mailing list. Worst it can do is get you a couple of backers.\" And I guess I had said to somebody, like, he paid for a cover, not for for forgiveness. Uh forgiveness isn't So, sorry, I'm slurring all over this. Something he can't afford. >> Mhm. >> And I go, \"What cover? I'm not doing a cover for JDA.\" And then, uh he's like,",
+      "involved_entity_ids": [
+        "person:jon-del-arroz"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:jon-del-arroz",
+          "matched_alias": "JDA",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 1,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "7JzZNez4ZBE",
+        "title": "FFS: Shane Davis Stops By! Discusses JDA & BACKmeBro",
+        "channel": "KatyDid",
+        "published_at": "2026-07-03T16:57:45+00:00",
+        "timestamp_seconds": 183.04,
+        "timestamp_display": "03:03",
+        "url": "https://www.youtube.com/watch?v=7JzZNez4ZBE",
+        "receipt_url": "https://www.youtube.com/watch?v=7JzZNez4ZBE&t=183s",
+        "transcript_file": "transcripts/2026-07/FFS Shane Davis Stops By! Discusses JDA & BACKmeBro [7JzZNez4ZBE].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:jon-del-arroz"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.71
+    },
+    {
+      "passage_id": "passage:7JzZNez4ZBE:195",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "sorry, I'm slurring all over this.",
+      "context_before": "questions, won't edit answers, not a gotcha. Sande Polts is reaching out to different groups. It's a 7K person mailing list. Worst it can do is get you a couple of backers.\" And I guess I had said to somebody, like, he paid for a cover, not for for forgiveness. Uh forgiveness isn't So,",
+      "context_after": "Something he can't afford. >> Mhm. >> And I go, \"What cover? I'm not doing a cover for JDA.\" And then, uh he's like, \"Let's do it. What's your rate?\" >> No way. >> Uh this would blow up the internet and be great for everyone. I don't understand how it'd be great for me. >> I yeah, I don't know how it'd be great for you, either. Like, doing a cover for",
+      "full_context": "questions, won't edit answers, not a gotcha. Sande Polts is reaching out to different groups. It's a 7K person mailing list. Worst it can do is get you a couple of backers.\" And I guess I had said to somebody, like, he paid for a cover, not for for forgiveness. Uh forgiveness isn't So, sorry, I'm slurring all over this. Something he can't afford. >> Mhm. >> And I go, \"What cover? I'm not doing a cover for JDA.\" And then, uh he's like, \"Let's do it. What's your rate?\" >> No way. >> Uh this would blow up the internet and be great for everyone. I don't understand how it'd be great for me. >> I yeah, I don't know how it'd be great for you, either. Like, doing a cover for",
+      "involved_entity_ids": [
+        "person:jon-del-arroz"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:jon-del-arroz",
+          "matched_alias": "JDA",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 1,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "7JzZNez4ZBE",
+        "title": "FFS: Shane Davis Stops By! Discusses JDA & BACKmeBro",
+        "channel": "KatyDid",
+        "published_at": "2026-07-03T16:57:45+00:00",
+        "timestamp_seconds": 195.64,
+        "timestamp_display": "03:15",
+        "url": "https://www.youtube.com/watch?v=7JzZNez4ZBE",
+        "receipt_url": "https://www.youtube.com/watch?v=7JzZNez4ZBE&t=195s",
+        "transcript_file": "transcripts/2026-07/FFS Shane Davis Stops By! Discusses JDA & BACKmeBro [7JzZNez4ZBE].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:jon-del-arroz"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.71
+    },
+    {
+      "passage_id": "passage:7JzZNez4ZBE:506",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "That's all I say is I might not get to",
+      "context_before": "duration of the con. And keep in mind I have to do other things during the con. Like I maybe have to do a panel, I have to do whatever. Whatever I'm there to promote. Right? So there was a San Diego Comic-Con where somebody gave me money and and this is what I always do when it looks like they're going into Sunday. I'm like, I might not get to you.",
+      "context_after": "you. And then that usually turns into, well, can you take it home and mail it to me? And that's where I'm like, I used to do that and then it got where I couldn't even get it when I was home. I just give the money back and there was at some point I was like, I'm never doing it again. Now I assume that is JDA. But he has a",
+      "full_context": "duration of the con. And keep in mind I have to do other things during the con. Like I maybe have to do a panel, I have to do whatever. Whatever I'm there to promote. Right? So there was a San Diego Comic-Con where somebody gave me money and and this is what I always do when it looks like they're going into Sunday. I'm like, I might not get to you. That's all I say is I might not get to you. And then that usually turns into, well, can you take it home and mail it to me? And that's where I'm like, I used to do that and then it got where I couldn't even get it when I was home. I just give the money back and there was at some point I was like, I'm never doing it again. Now I assume that is JDA. But he has a",
+      "involved_entity_ids": [
+        "person:jon-del-arroz"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:jon-del-arroz",
+          "matched_alias": "JDA",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 1,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "7JzZNez4ZBE",
+        "title": "FFS: Shane Davis Stops By! Discusses JDA & BACKmeBro",
+        "channel": "KatyDid",
+        "published_at": "2026-07-03T16:57:45+00:00",
+        "timestamp_seconds": 506.44,
+        "timestamp_display": "08:26",
+        "url": "https://www.youtube.com/watch?v=7JzZNez4ZBE",
+        "receipt_url": "https://www.youtube.com/watch?v=7JzZNez4ZBE&t=506s",
+        "transcript_file": "transcripts/2026-07/FFS Shane Davis Stops By! Discusses JDA & BACKmeBro [7JzZNez4ZBE].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:jon-del-arroz"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.71
+    },
+    {
+      "passage_id": "passage:7JzZNez4ZBE:510",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "then that usually turns into, well, can",
+      "context_before": "Like I maybe have to do a panel, I have to do whatever. Whatever I'm there to promote. Right? So there was a San Diego Comic-Con where somebody gave me money and and this is what I always do when it looks like they're going into Sunday. I'm like, I might not get to you. That's all I say is I might not get to you. And",
+      "context_after": "you take it home and mail it to me? And that's where I'm like, I used to do that and then it got where I couldn't even get it when I was home. I just give the money back and there was at some point I was like, I'm never doing it again. Now I assume that is JDA. But he has a receipt where I gave him the money back, but he still called me a thief.",
+      "full_context": "Like I maybe have to do a panel, I have to do whatever. Whatever I'm there to promote. Right? So there was a San Diego Comic-Con where somebody gave me money and and this is what I always do when it looks like they're going into Sunday. I'm like, I might not get to you. That's all I say is I might not get to you. And then that usually turns into, well, can you take it home and mail it to me? And that's where I'm like, I used to do that and then it got where I couldn't even get it when I was home. I just give the money back and there was at some point I was like, I'm never doing it again. Now I assume that is JDA. But he has a receipt where I gave him the money back, but he still called me a thief.",
+      "involved_entity_ids": [
+        "person:jon-del-arroz"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:jon-del-arroz",
+          "matched_alias": "JDA",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 1,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "7JzZNez4ZBE",
+        "title": "FFS: Shane Davis Stops By! Discusses JDA & BACKmeBro",
+        "channel": "KatyDid",
+        "published_at": "2026-07-03T16:57:45+00:00",
+        "timestamp_seconds": 510.24,
+        "timestamp_display": "08:30",
+        "url": "https://www.youtube.com/watch?v=7JzZNez4ZBE",
+        "receipt_url": "https://www.youtube.com/watch?v=7JzZNez4ZBE&t=510s",
+        "transcript_file": "transcripts/2026-07/FFS Shane Davis Stops By! Discusses JDA & BACKmeBro [7JzZNez4ZBE].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:jon-del-arroz"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.71
+    },
+    {
+      "passage_id": "passage:7JzZNez4ZBE:528",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "receipt where I gave him the money back,",
+      "context_before": "you. And then that usually turns into, well, can you take it home and mail it to me? And that's where I'm like, I used to do that and then it got where I couldn't even get it when I was home. I just give the money back and there was at some point I was like, I'm never doing it again. Now I assume that is JDA. But he has a",
+      "context_after": "but he still called me a thief. >> [laughter] >> Well, it's cuz you Did you Wait, did you slur on the receipt? >> I slurred on the receipt. So >> [laughter] >> he called me a thief even though I never took a dime from him technically. Right? And then I think he brought up, well, you should have gave me interest. And it's like, dude, you got it backwards",
+      "full_context": "you. And then that usually turns into, well, can you take it home and mail it to me? And that's where I'm like, I used to do that and then it got where I couldn't even get it when I was home. I just give the money back and there was at some point I was like, I'm never doing it again. Now I assume that is JDA. But he has a receipt where I gave him the money back, but he still called me a thief. >> [laughter] >> Well, it's cuz you Did you Wait, did you slur on the receipt? >> I slurred on the receipt. So >> [laughter] >> he called me a thief even though I never took a dime from him technically. Right? And then I think he brought up, well, you should have gave me interest. And it's like, dude, you got it backwards",
+      "involved_entity_ids": [
+        "person:jon-del-arroz"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:jon-del-arroz",
+          "matched_alias": "JDA",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 2,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "7JzZNez4ZBE",
+        "title": "FFS: Shane Davis Stops By! Discusses JDA & BACKmeBro",
+        "channel": "KatyDid",
+        "published_at": "2026-07-03T16:57:45+00:00",
+        "timestamp_seconds": 528.2,
+        "timestamp_display": "08:48",
+        "url": "https://www.youtube.com/watch?v=7JzZNez4ZBE",
+        "receipt_url": "https://www.youtube.com/watch?v=7JzZNez4ZBE&t=528s",
+        "transcript_file": "transcripts/2026-07/FFS Shane Davis Stops By! Discusses JDA & BACKmeBro [7JzZNez4ZBE].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:jon-del-arroz"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.79
+    },
+    {
+      "passage_id": "passage:7JzZNez4ZBE:540",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": ">> he called me a thief even though I never",
+      "context_before": "money back and there was at some point I was like, I'm never doing it again. Now I assume that is JDA. But he has a receipt where I gave him the money back, but he still called me a thief. >> [laughter] >> Well, it's cuz you Did you Wait, did you slur on the receipt? >> I slurred on the receipt. So >> [laughter]",
+      "context_after": "took a dime from him technically. Right? And then I think he brought up, well, you should have gave me interest. And it's like, dude, you got it backwards like >> Gave you interest for Wait, what? For what? >> I I hold I guess I I for trying to draw it and then I got back, but then I was like, I can't. I got deadlines and then I just gave him his money back. And",
+      "full_context": "money back and there was at some point I was like, I'm never doing it again. Now I assume that is JDA. But he has a receipt where I gave him the money back, but he still called me a thief. >> [laughter] >> Well, it's cuz you Did you Wait, did you slur on the receipt? >> I slurred on the receipt. So >> [laughter] >> he called me a thief even though I never took a dime from him technically. Right? And then I think he brought up, well, you should have gave me interest. And it's like, dude, you got it backwards like >> Gave you interest for Wait, what? For what? >> I I hold I guess I I for trying to draw it and then I got back, but then I was like, I can't. I got deadlines and then I just gave him his money back. And",
+      "involved_entity_ids": [
+        "person:jon-del-arroz"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:jon-del-arroz",
+          "matched_alias": "JDA",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 2,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "7JzZNez4ZBE",
+        "title": "FFS: Shane Davis Stops By! Discusses JDA & BACKmeBro",
+        "channel": "KatyDid",
+        "published_at": "2026-07-03T16:57:45+00:00",
+        "timestamp_seconds": 540.0,
+        "timestamp_display": "09:00",
+        "url": "https://www.youtube.com/watch?v=7JzZNez4ZBE",
+        "receipt_url": "https://www.youtube.com/watch?v=7JzZNez4ZBE&t=540s",
+        "transcript_file": "transcripts/2026-07/FFS Shane Davis Stops By! Discusses JDA & BACKmeBro [7JzZNez4ZBE].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:jon-del-arroz"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.79
+    },
+    {
+      "passage_id": "passage:7JzZNez4ZBE:784",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "those books are already done.",
+      "context_before": ">> Go ahead. >> Kirk in the chat earlier I noticed he said I I I should have take should have taken a page from a Rip Rippaverse's book in making a site. I I don't understand what the point of that would have been. The only difference is that's not a crowdfunding site. Like",
+      "context_after": ">> Mhm. >> Um our site >> just a merch website. Yeah. >> Like Eric doesn't have a crowdfunding site. >> Yeah. >> Eric's site all the books are done. It's not crowdfunding. >> Yeah. Yeah, you're you're trying to build your own thing. The other thing I I looked up to was So like all of this to me seems dumb. So if you just said yeah, sure come on here, then JDA would",
+      "full_context": ">> Go ahead. >> Kirk in the chat earlier I noticed he said I I I should have take should have taken a page from a Rip Rippaverse's book in making a site. I I don't understand what the point of that would have been. The only difference is that's not a crowdfunding site. Like those books are already done. >> Mhm. >> Um our site >> just a merch website. Yeah. >> Like Eric doesn't have a crowdfunding site. >> Yeah. >> Eric's site all the books are done. It's not crowdfunding. >> Yeah. Yeah, you're you're trying to build your own thing. The other thing I I looked up to was So like all of this to me seems dumb. So if you just said yeah, sure come on here, then JDA would",
+      "involved_entity_ids": [
+        "person:jon-del-arroz"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:jon-del-arroz",
+          "matched_alias": "JDA",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 2,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "7JzZNez4ZBE",
+        "title": "FFS: Shane Davis Stops By! Discusses JDA & BACKmeBro",
+        "channel": "KatyDid",
+        "published_at": "2026-07-03T16:57:45+00:00",
+        "timestamp_seconds": 784.52,
+        "timestamp_display": "13:04",
+        "url": "https://www.youtube.com/watch?v=7JzZNez4ZBE",
+        "receipt_url": "https://www.youtube.com/watch?v=7JzZNez4ZBE&t=784s",
+        "transcript_file": "transcripts/2026-07/FFS Shane Davis Stops By! Discusses JDA & BACKmeBro [7JzZNez4ZBE].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:jon-del-arroz"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.79
+    },
+    {
+      "passage_id": "passage:7JzZNez4ZBE:795",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "not crowdfunding.",
+      "context_before": "the point of that would have been. The only difference is that's not a crowdfunding site. Like those books are already done. >> Mhm. >> Um our site >> just a merch website. Yeah. >> Like Eric doesn't have a crowdfunding site. >> Yeah. >> Eric's site all the books are done. It's",
+      "context_after": ">> Yeah. Yeah, you're you're trying to build your own thing. The other thing I I looked up to was So like all of this to me seems dumb. So if you just said yeah, sure come on here, then JDA would look stupid in front of his audience. I was looking at his numbers. He he claims to have over 6,000 subscribers of fandom pulse and then he has like you know, he's averaging like 3,000 views on his",
+      "full_context": "the point of that would have been. The only difference is that's not a crowdfunding site. Like those books are already done. >> Mhm. >> Um our site >> just a merch website. Yeah. >> Like Eric doesn't have a crowdfunding site. >> Yeah. >> Eric's site all the books are done. It's not crowdfunding. >> Yeah. Yeah, you're you're trying to build your own thing. The other thing I I looked up to was So like all of this to me seems dumb. So if you just said yeah, sure come on here, then JDA would look stupid in front of his audience. I was looking at his numbers. He he claims to have over 6,000 subscribers of fandom pulse and then he has like you know, he's averaging like 3,000 views on his",
+      "involved_entity_ids": [
+        "person:jon-del-arroz"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:jon-del-arroz",
+          "matched_alias": "JDA",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 3,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "7JzZNez4ZBE",
+        "title": "FFS: Shane Davis Stops By! Discusses JDA & BACKmeBro",
+        "channel": "KatyDid",
+        "published_at": "2026-07-03T16:57:45+00:00",
+        "timestamp_seconds": 795.6,
+        "timestamp_display": "13:15",
+        "url": "https://www.youtube.com/watch?v=7JzZNez4ZBE",
+        "receipt_url": "https://www.youtube.com/watch?v=7JzZNez4ZBE&t=795s",
+        "transcript_file": "transcripts/2026-07/FFS Shane Davis Stops By! Discusses JDA & BACKmeBro [7JzZNez4ZBE].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:jon-del-arroz"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.87
+    },
+    {
+      "passage_id": "passage:7JzZNez4ZBE:810",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "to have over 6,000 subscribers of fandom",
+      "context_before": "site. >> Yeah. >> Eric's site all the books are done. It's not crowdfunding. >> Yeah. Yeah, you're you're trying to build your own thing. The other thing I I looked up to was So like all of this to me seems dumb. So if you just said yeah, sure come on here, then JDA would look stupid in front of his audience. I was looking at his numbers. He he claims",
+      "context_after": "pulse and then he has like you know, he's averaging like 3,000 views on his YouTube channel 70,000 subscribers over there. But then after you he's ragged on you made all these videos and stuff. If I was a viewer of his I was like yeah, fuck comic skating and fuck Shane Davis and then all of a sudden I saw you were on his website on Shane Davis's back me",
+      "full_context": "site. >> Yeah. >> Eric's site all the books are done. It's not crowdfunding. >> Yeah. Yeah, you're you're trying to build your own thing. The other thing I I looked up to was So like all of this to me seems dumb. So if you just said yeah, sure come on here, then JDA would look stupid in front of his audience. I was looking at his numbers. He he claims to have over 6,000 subscribers of fandom pulse and then he has like you know, he's averaging like 3,000 views on his YouTube channel 70,000 subscribers over there. But then after you he's ragged on you made all these videos and stuff. If I was a viewer of his I was like yeah, fuck comic skating and fuck Shane Davis and then all of a sudden I saw you were on his website on Shane Davis's back me",
+      "involved_entity_ids": [
+        "person:jon-del-arroz"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:jon-del-arroz",
+          "matched_alias": "JDA",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 3,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "7JzZNez4ZBE",
+        "title": "FFS: Shane Davis Stops By! Discusses JDA & BACKmeBro",
+        "channel": "KatyDid",
+        "published_at": "2026-07-03T16:57:45+00:00",
+        "timestamp_seconds": 810.04,
+        "timestamp_display": "13:30",
+        "url": "https://www.youtube.com/watch?v=7JzZNez4ZBE",
+        "receipt_url": "https://www.youtube.com/watch?v=7JzZNez4ZBE&t=810s",
+        "transcript_file": "transcripts/2026-07/FFS Shane Davis Stops By! Discusses JDA & BACKmeBro [7JzZNez4ZBE].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:jon-del-arroz"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.87
+    },
+    {
+      "passage_id": "passage:7JzZNez4ZBE:1660",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "Fandom Pulse website, I need you to do a",
+      "context_before": "them, but uh usually they're for my own amusement. Like >> Yeah. >> Yeah. >> Yeah. Like little slap fights are fun here and there and doing things. Um but the some of the things like with the JDA stuff, none of that makes sense where you weren't asking for an apology. You were just saying, \"Hey, man. Uh if you want me to be on your professional",
+      "context_after": "retraction and then we can discuss doing the interview. And then if you want to be on Back Me Bro, then you can come on the Back Me Bro.\" cuz I mean I don't know what happened to his Indie Crowd Fund uh page, but I do know uh cuz Mike and me were friendly at that time that they had issues with their uh payment processor and they didn't really know",
+      "full_context": "them, but uh usually they're for my own amusement. Like >> Yeah. >> Yeah. >> Yeah. Like little slap fights are fun here and there and doing things. Um but the some of the things like with the JDA stuff, none of that makes sense where you weren't asking for an apology. You were just saying, \"Hey, man. Uh if you want me to be on your professional Fandom Pulse website, I need you to do a retraction and then we can discuss doing the interview. And then if you want to be on Back Me Bro, then you can come on the Back Me Bro.\" cuz I mean I don't know what happened to his Indie Crowd Fund uh page, but I do know uh cuz Mike and me were friendly at that time that they had issues with their uh payment processor and they didn't really know",
+      "involved_entity_ids": [
+        "person:jon-del-arroz"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:jon-del-arroz",
+          "matched_alias": "JDA",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 2,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "7JzZNez4ZBE",
+        "title": "FFS: Shane Davis Stops By! Discusses JDA & BACKmeBro",
+        "channel": "KatyDid",
+        "published_at": "2026-07-03T16:57:45+00:00",
+        "timestamp_seconds": 1660.08,
+        "timestamp_display": "27:40",
+        "url": "https://www.youtube.com/watch?v=7JzZNez4ZBE",
+        "receipt_url": "https://www.youtube.com/watch?v=7JzZNez4ZBE&t=1660s",
+        "transcript_file": "transcripts/2026-07/FFS Shane Davis Stops By! Discusses JDA & BACKmeBro [7JzZNez4ZBE].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:jon-del-arroz"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.79
+    },
+    {
+      "passage_id": "passage:7JzZNez4ZBE:1665",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "the interview. And then if you want to",
+      "context_before": ">> Yeah. >> Yeah. >> Yeah. Like little slap fights are fun here and there and doing things. Um but the some of the things like with the JDA stuff, none of that makes sense where you weren't asking for an apology. You were just saying, \"Hey, man. Uh if you want me to be on your professional Fandom Pulse website, I need you to do a retraction and then we can discuss doing",
+      "context_after": "be on Back Me Bro, then you can come on the Back Me Bro.\" cuz I mean I don't know what happened to his Indie Crowd Fund uh page, but I do know uh cuz Mike and me were friendly at that time that they had issues with their uh payment processor and they didn't really know why. Um they they assumed it was because they're doing NSFW stuff, but like even",
+      "full_context": ">> Yeah. >> Yeah. >> Yeah. Like little slap fights are fun here and there and doing things. Um but the some of the things like with the JDA stuff, none of that makes sense where you weren't asking for an apology. You were just saying, \"Hey, man. Uh if you want me to be on your professional Fandom Pulse website, I need you to do a retraction and then we can discuss doing the interview. And then if you want to be on Back Me Bro, then you can come on the Back Me Bro.\" cuz I mean I don't know what happened to his Indie Crowd Fund uh page, but I do know uh cuz Mike and me were friendly at that time that they had issues with their uh payment processor and they didn't really know why. Um they they assumed it was because they're doing NSFW stuff, but like even",
+      "involved_entity_ids": [
+        "person:jon-del-arroz"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:jon-del-arroz",
+          "matched_alias": "JDA",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 4,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "7JzZNez4ZBE",
+        "title": "FFS: Shane Davis Stops By! Discusses JDA & BACKmeBro",
+        "channel": "KatyDid",
+        "published_at": "2026-07-03T16:57:45+00:00",
+        "timestamp_seconds": 1665.0,
+        "timestamp_display": "27:45",
+        "url": "https://www.youtube.com/watch?v=7JzZNez4ZBE",
+        "receipt_url": "https://www.youtube.com/watch?v=7JzZNez4ZBE&t=1665s",
+        "transcript_file": "transcripts/2026-07/FFS Shane Davis Stops By! Discusses JDA & BACKmeBro [7JzZNez4ZBE].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:jon-del-arroz"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.95
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "occurrences": [
+    {
+      "occurrence_id": "occurrence:fq2D80GqXqQ:166:person:ethan-van-sciver",
+      "entity_id": "person:ethan-van-sciver",
+      "matched_alias": "Ethan Van Sciver",
+      "alias_strength": "strong",
+      "confidence": 1.0,
+      "video_id": "fq2D80GqXqQ",
+      "title": "Chrissie Mayr Officially FIRED from FRIDAY NIGHT TIGHTS | j.A.C.k Show | July 9th 2026",
+      "source": "KatyDid",
+      "published": "2026-07-10T20:05:14+00:00",
+      "segment_index": 166,
+      "start": 310.36,
+      "timestamp": "05:10",
+      "quote": "this back up, but Ethan Van Sciver said",
+      "receipt_url": "https://www.youtube.com/watch?v=fq2D80GqXqQ&t=310s",
+      "transcript_file": "transcripts/2026-07/Chrissie Mayr Officially FIRED from FRIDAY NIGHT TIGHTS j.A.C.k Show July 9th 2026 [fq2D80GqXqQ].json"
+    }
+  ],
+  "passages": [
+    {
+      "passage_id": "passage:fq2D80GqXqQ:290",
+      "trigger_segment_index": 156,
+      "trigger_start": 290.56,
+      "involved_entity_ids": [
+        "person:ethan-van-sciver"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:ethan-van-sciver",
+          "matched_alias": "Ethan Van Sciver",
+          "alias_strength": "strong",
+          "confidence": 1.0
+        }
+      ],
+      "claim_term_count": 1,
+      "claim_excerpt": ">> the one that's supposed to reach out and",
+      "full_context": "reached out sooner, but it's like, \"What? Like, you put me in the timeout.\" It's like if you if you fire somebody or if you're if you're an athlete put on like administrative leave or whatever from your job, it's not up to the person in the timeout. >> Right, the person who's he's the boss, basically. It's his show. >> the one that's supposed to reach out and let you know the deal. Yeah. Yeah, that's reasonable cuz otherwise what are you Like, how are you supposed to know? Yeah. >> Also, you were kind of a standout on that show, to be honest. >> Well, like Whatever. It's It's >> Look, I Yeah, we we don't want to drag this back up, but Ethan Van Sciver said",
+      "source": {
+        "source_type": "youtube",
+        "video_id": "fq2D80GqXqQ",
+        "title": "Chrissie Mayr Officially FIRED from FRIDAY NIGHT TIGHTS | j.A.C.k Show | July 9th 2026",
+        "channel": "KatyDid",
+        "published_at": "2026-07-10T20:05:14+00:00",
+        "timestamp_seconds": 290.56,
+        "timestamp_display": "04:50",
+        "url": "https://www.youtube.com/watch?v=fq2D80GqXqQ",
+        "receipt_url": "https://www.youtube.com/watch?v=fq2D80GqXqQ&t=290s",
+        "transcript_file": "transcripts/2026-07/Chrissie Mayr Officially FIRED from FRIDAY NIGHT TIGHTS j.A.C.k Show July 9th 2026 [fq2D80GqXqQ].json"
+      },
+      "confidence": 0.66
+    },
+    {
+      "passage_id": "passage:fq2D80GqXqQ:300",
+      "trigger_segment_index": 161,
+      "trigger_start": 300.16,
+      "involved_entity_ids": [
+        "person:ethan-van-sciver"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:ethan-van-sciver",
+          "matched_alias": "Ethan Van Sciver",
+          "alias_strength": "strong",
+          "confidence": 1.0
+        }
+      ],
+      "claim_term_count": 2,
+      "claim_excerpt": ">> Also, you were kind of a standout on",
+      "full_context": "like administrative leave or whatever from your job, it's not up to the person in the timeout. >> Right, the person who's he's the boss, basically. It's his show. >> the one that's supposed to reach out and let you know the deal. Yeah. Yeah, that's reasonable cuz otherwise what are you Like, how are you supposed to know? Yeah. >> Also, you were kind of a standout on that show, to be honest. >> Well, like Whatever. It's It's >> Look, I Yeah, we we don't want to drag this back up, but Ethan Van Sciver said something a long time ago and we all know why it started a feud, but we all also kind of knew that it was a little bit true. >> I couldn't understand what Russell just",
+      "source": {
+        "source_type": "youtube",
+        "video_id": "fq2D80GqXqQ",
+        "title": "Chrissie Mayr Officially FIRED from FRIDAY NIGHT TIGHTS | j.A.C.k Show | July 9th 2026",
+        "channel": "KatyDid",
+        "published_at": "2026-07-10T20:05:14+00:00",
+        "timestamp_seconds": 300.16,
+        "timestamp_display": "05:00",
+        "url": "https://www.youtube.com/watch?v=fq2D80GqXqQ",
+        "receipt_url": "https://www.youtube.com/watch?v=fq2D80GqXqQ&t=300s",
+        "transcript_file": "transcripts/2026-07/Chrissie Mayr Officially FIRED from FRIDAY NIGHT TIGHTS j.A.C.k Show July 9th 2026 [fq2D80GqXqQ].json"
+      },
+      "confidence": 0.74
+    },
+    {
+      "passage_id": "passage:fq2D80GqXqQ:316",
+      "trigger_segment_index": 169,
+      "trigger_start": 316.44,
+      "involved_entity_ids": [
+        "person:ethan-van-sciver"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:ethan-van-sciver",
+          "matched_alias": "Ethan Van Sciver",
+          "alias_strength": "strong",
+          "confidence": 1.0
+        }
+      ],
+      "claim_term_count": 3,
+      "claim_excerpt": "also kind of knew that it was a little",
+      "full_context": "supposed to know? Yeah. >> Also, you were kind of a standout on that show, to be honest. >> Well, like Whatever. It's It's >> Look, I Yeah, we we don't want to drag this back up, but Ethan Van Sciver said something a long time ago and we all know why it started a feud, but we all also kind of knew that it was a little bit true. >> I couldn't understand what Russell just said. >> I don't know what he said about the timeout. >> And the the chat probably remembers, but the point is uh you were you were actually funny. I I I kind of feel like that's what the show needs because it's otherwise just >> Well, it's interesting because like >> [clears throat] >> I mean",
+      "source": {
+        "source_type": "youtube",
+        "video_id": "fq2D80GqXqQ",
+        "title": "Chrissie Mayr Officially FIRED from FRIDAY NIGHT TIGHTS | j.A.C.k Show | July 9th 2026",
+        "channel": "KatyDid",
+        "published_at": "2026-07-10T20:05:14+00:00",
+        "timestamp_seconds": 316.44,
+        "timestamp_display": "05:16",
+        "url": "https://www.youtube.com/watch?v=fq2D80GqXqQ",
+        "receipt_url": "https://www.youtube.com/watch?v=fq2D80GqXqQ&t=316s",
+        "transcript_file": "transcripts/2026-07/Chrissie Mayr Officially FIRED from FRIDAY NIGHT TIGHTS j.A.C.k Show July 9th 2026 [fq2D80GqXqQ].json"
+      },
+      "confidence": 0.82
+    },
+    {
+      "passage_id": "passage:fq2D80GqXqQ:330",
+      "trigger_segment_index": 178,
+      "trigger_start": 330.0,
+      "involved_entity_ids": [
+        "person:ethan-van-sciver"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:ethan-van-sciver",
+          "matched_alias": "Ethan Van Sciver",
+          "alias_strength": "strong",
+          "confidence": 1.0
+        }
+      ],
+      "claim_term_count": 3,
+      "claim_excerpt": "I I I kind of feel like that's what the",
+      "full_context": "this back up, but Ethan Van Sciver said something a long time ago and we all know why it started a feud, but we all also kind of knew that it was a little bit true. >> I couldn't understand what Russell just said. >> I don't know what he said about the timeout. >> And the the chat probably remembers, but the point is uh you were you were actually funny. I I I kind of feel like that's what the show needs because it's otherwise just >> Well, it's interesting because like >> [clears throat] >> I mean the fans would say it's it's changed like you know, they kind of stopped having a a lot of different guests and at a certain point it just became the same five, six, seven guests and >> It has been.",
+      "source": {
+        "source_type": "youtube",
+        "video_id": "fq2D80GqXqQ",
+        "title": "Chrissie Mayr Officially FIRED from FRIDAY NIGHT TIGHTS | j.A.C.k Show | July 9th 2026",
+        "channel": "KatyDid",
+        "published_at": "2026-07-10T20:05:14+00:00",
+        "timestamp_seconds": 330.0,
+        "timestamp_display": "05:30",
+        "url": "https://www.youtube.com/watch?v=fq2D80GqXqQ",
+        "receipt_url": "https://www.youtube.com/watch?v=fq2D80GqXqQ&t=330s",
+        "transcript_file": "transcripts/2026-07/Chrissie Mayr Officially FIRED from FRIDAY NIGHT TIGHTS j.A.C.k Show July 9th 2026 [fq2D80GqXqQ].json"
+      },
+      "confidence": 0.82
+    }
+  ],
+  "bundles": [
+    {
+      "context_bundle_id": "bundle:fq2D80GqXqQ:290",
+      "video_id": "fq2D80GqXqQ",
+      "title": "Chrissie Mayr Officially FIRED from FRIDAY NIGHT TIGHTS | j.A.C.k Show | July 9th 2026",
+      "channel": "KatyDid",
+      "published_at": "2026-07-10T20:05:14+00:00",
+      "start_seconds": 215.56,
+      "end_seconds": 395.56,
+      "start_display": "03:35",
+      "end_display": "06:35",
+      "receipt_url": "https://www.youtube.com/watch?v=fq2D80GqXqQ&t=215s",
+      "trigger_receipt_url": "https://www.youtube.com/watch?v=fq2D80GqXqQ&t=290s",
+      "trigger_excerpt": ">> the one that's supposed to reach out and",
+      "involved_entity_ids": [
+        "person:ethan-van-sciver"
+      ],
+      "involved_entity_names": [
+        "Ethan Van Sciver"
+      ],
+      "topic_terms": [
+        "out",
+        "put",
+        "timeout",
+        "time",
+        "tell",
+        "fuck",
+        "point",
+        "one"
+      ],
+      "development_types": [
+        "new_claim"
+      ],
+      "uncertainty_flags": [
+        "contains_uncertain_language"
+      ],
+      "context_text": "to contact her about letting you out of the time out or do you think it's her job to let you know >> [laughter] >> about putting you out of the time out because she put you in there? >> Well, she should let me If she ever put [clears throat] me in time out, I would go tell her to go fuck herself and that would be the end of that. That would be That would be pretty much it. >> I would tell her to do that but I'm on camera. >> Uh yeah, no. And then And if I ever attempted to put her in timeout, she would tell me to go fuck myself and that would be that, you know? That >> [snorts] >> Yeah, but you would actually do it though. >> Go I would go fuck myself? >> Probably. I mean, what else you going to >> the point is I got put in a timeout and then and then I when I finally reached out to Gary to be like, \"Hey, what the fuck is going on? Like, when were you ever going to call me to tell me what the deal was?\" It was like, \"Oh.\" Like >> [laughter] >> The idea was like that I should have reached out sooner, but it's like, \"What? Like, you put me in the timeout.\" It's like if you if you fire somebody or if you're if you're an athlete put on like administrative leave or whatever from your job, it's not up to the person in the timeout. >> Right, the person who's he's the boss, basically. It's his show. >> the one that's supposed to reach out and let you know the deal. Yeah. Yeah, that's reasonable cuz otherwise what are you Like, how are you supposed to know? Yeah. >> Also, you were kind of a standout on that show, to be honest. >> Well, like Whatever. It's It's >> Look, I Yeah, we we don't want to drag this back up, but Ethan Van Sciver said something a long time ago and we all know why it started a feud, but we all also kind of knew that it was a little bit true. >> I couldn't understand what Russell just said. >> I don't know what he said about the timeout. >> And the the chat probably remembers, but the point is uh you were you were actually funny. I I I kind of feel like that's what the show needs because it's otherwise just >> Well, it's interesting because like >> [clears throat] >> I mean the fans would say it's it's changed like you know, they kind of stopped having a a lot of different guests and at a certain point it just became the same five, six, seven guests and >> It has been. >> It stopped taking breaks. Like at one point I was told to stop making as many like racial jokes, you know, like when I was getting ready to do a I think something and I was like, \"Wow, okay.\" >> Oh, wait a Is that the Eric you like bug coming in the uh >> No, it was like a >> It might be a little bit. >> It was one of the characters I had done, one of the impressions and like I was told to like tone it down. >> Oh. >> See, the thing is that that the whole premise of the movement of these guys and I like I know these guys, you know, I don't have a problem with anybody, but um is that we were the anti-cancel culture guys. Do you know what I mean? Like we were the whole reason for this whole thing was the cancel culture on the left. This",
+      "source_passage_ids": [
+        "passage:fq2D80GqXqQ:290"
+      ],
+      "confidence": 0.66
+    }
+  ],
+  "narratives": [
+    {
+      "narrative_unit_id": "narrative:fq2D80GqXqQ:290",
+      "context_bundle_id": "bundle:fq2D80GqXqQ:290",
+      "headline": "Ethan Van Sciver: new claim around out / put / timeout",
+      "summary": ">> Look, I Yeah, we we don't want to drag this back up, but Ethan Van Sciver said something a long time ago and we all know why it started a feud, but we all also kind of knew that it was a little bit true. Like at one point I was told to stop making as many like racial jokes, you know, like when I was getting ready to do a I think something and I was like, \"Wow, okay.\" >> It was one of the characters I had done, one of the impressions and like I was told to like tone it down.",
+      "what_happened": ">> Look, I Yeah, we we don't want to drag this back up, but Ethan Van Sciver said something a long time ago and we all know why it started a feud, but we all also kind of knew that it was a little bit true. Like at one point I was told to stop making as many like racial jokes, you know, like when I was getting ready to do a I think something and I was like, \"Wow, okay.\" >> It was one of the characters I had done, one of the impressions and like I was told to like tone it down.",
+      "people_involved": [
+        "Ethan Van Sciver"
+      ],
+      "topic_terms": [
+        "out",
+        "put",
+        "timeout",
+        "time",
+        "tell",
+        "fuck",
+        "point",
+        "one"
+      ],
+      "development_types": [
+        "new_claim"
+      ],
+      "new_development": "The passage introduces or repeats a claim.",
+      "uncertainties": [
+        "The passage includes uncertain or speculative language."
+      ],
+      "evidence": {
+        "video_title": "Chrissie Mayr Officially FIRED from FRIDAY NIGHT TIGHTS | j.A.C.k Show | July 9th 2026",
+        "channel": "KatyDid",
+        "published_at": "2026-07-10T20:05:14+00:00",
+        "timestamp": "04:50",
+        "receipt_url": "https://www.youtube.com/watch?v=fq2D80GqXqQ&t=290s",
+        "context_receipt_url": "https://www.youtube.com/watch?v=fq2D80GqXqQ&t=215s",
+        "trigger_excerpt": ">> the one that's supposed to reach out and"
+      },
+      "confidence": 0.66,
+      "review_status": "automatic_extract"
+    }
+  ]
+}

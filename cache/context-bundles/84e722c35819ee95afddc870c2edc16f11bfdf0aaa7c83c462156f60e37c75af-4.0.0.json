@@ -1,0 +1,2171 @@
+{
+  "occurrences": [
+    {
+      "occurrence_id": "occurrence:LdLy2G5TM4c:95:person:commi3-mark",
+      "entity_id": "person:commi3-mark",
+      "matched_alias": "Comey Mark",
+      "alias_strength": "strong",
+      "confidence": 1.0,
+      "video_id": "LdLy2G5TM4c",
+      "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+      "source": "Commi3 Mark",
+      "published": "2026-07-10T23:56:07+00:00",
+      "segment_index": 95,
+      "start": 353.12,
+      "timestamp": "05:53",
+      "quote": "man Comey Mark, your friendly",
+      "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=353s",
+      "transcript_file": "transcripts/2026-07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
+    },
+    {
+      "occurrence_id": "occurrence:LdLy2G5TM4c:164:person:jon-del-arroz",
+      "entity_id": "person:jon-del-arroz",
+      "matched_alias": "JDA",
+      "alias_strength": "weak",
+      "confidence": 0.68,
+      "video_id": "LdLy2G5TM4c",
+      "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+      "source": "Commi3 Mark",
+      "published": "2026-07-10T23:56:07+00:00",
+      "segment_index": 164,
+      "start": 541.04,
+      "timestamp": "09:01",
+      "quote": "you've started a trend on JDA's review.",
+      "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=541s",
+      "transcript_file": "transcripts/2026-07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
+    },
+    {
+      "occurrence_id": "occurrence:LdLy2G5TM4c:166:person:jon-del-arroz",
+      "entity_id": "person:jon-del-arroz",
+      "matched_alias": "JDA",
+      "alias_strength": "weak",
+      "confidence": 0.68,
+      "video_id": "LdLy2G5TM4c",
+      "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+      "source": "Commi3 Mark",
+      "published": "2026-07-10T23:56:07+00:00",
+      "segment_index": 166,
+      "start": 548.48,
+      "timestamp": "09:08",
+      "quote": "um my review on JDA's thing. We'll get",
+      "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=548s",
+      "transcript_file": "transcripts/2026-07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
+    },
+    {
+      "occurrence_id": "occurrence:LdLy2G5TM4c:243:person:jon-del-arroz",
+      "entity_id": "person:jon-del-arroz",
+      "matched_alias": "JDA",
+      "alias_strength": "weak",
+      "confidence": 0.68,
+      "video_id": "LdLy2G5TM4c",
+      "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+      "source": "Commi3 Mark",
+      "published": "2026-07-10T23:56:07+00:00",
+      "segment_index": 243,
+      "start": 754.959,
+      "timestamp": "12:34",
+      "quote": "there was another one about those JDA",
+      "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=754s",
+      "transcript_file": "transcripts/2026-07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
+    },
+    {
+      "occurrence_id": "occurrence:LdLy2G5TM4c:248:person:jon-del-arroz",
+      "entity_id": "person:jon-del-arroz",
+      "matched_alias": "JDA",
+      "alias_strength": "weak",
+      "confidence": 0.68,
+      "video_id": "LdLy2G5TM4c",
+      "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+      "source": "Commi3 Mark",
+      "published": "2026-07-10T23:56:07+00:00",
+      "segment_index": 248,
+      "start": 766.24,
+      "timestamp": "12:46",
+      "quote": "JDA's books in the book bin at a thrift",
+      "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=766s",
+      "transcript_file": "transcripts/2026-07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
+    },
+    {
+      "occurrence_id": "occurrence:LdLy2G5TM4c:267:person:jon-del-arroz",
+      "entity_id": "person:jon-del-arroz",
+      "matched_alias": "JDA",
+      "alias_strength": "weak",
+      "confidence": 0.68,
+      "video_id": "LdLy2G5TM4c",
+      "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+      "source": "Commi3 Mark",
+      "published": "2026-07-10T23:56:07+00:00",
+      "segment_index": 267,
+      "start": 820.8,
+      "timestamp": "13:40",
+      "quote": "week we covered JDA. JDA was trying to",
+      "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=820s",
+      "transcript_file": "transcripts/2026-07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
+    },
+    {
+      "occurrence_id": "occurrence:LdLy2G5TM4c:270:person:jon-del-arroz",
+      "entity_id": "person:jon-del-arroz",
+      "matched_alias": "JDA",
+      "alias_strength": "weak",
+      "confidence": 0.68,
+      "video_id": "LdLy2G5TM4c",
+      "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+      "source": "Commi3 Mark",
+      "published": "2026-07-10T23:56:07+00:00",
+      "segment_index": 270,
+      "start": 831.519,
+      "timestamp": "13:51",
+      "quote": "to JDA",
+      "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=831s",
+      "transcript_file": "transcripts/2026-07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
+    },
+    {
+      "occurrence_id": "occurrence:LdLy2G5TM4c:477:person:jon-del-arroz",
+      "entity_id": "person:jon-del-arroz",
+      "matched_alias": "JDA",
+      "alias_strength": "weak",
+      "confidence": 0.68,
+      "video_id": "LdLy2G5TM4c",
+      "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+      "source": "Commi3 Mark",
+      "published": "2026-07-10T23:56:07+00:00",
+      "segment_index": 477,
+      "start": 1387.84,
+      "timestamp": "23:07",
+      "quote": ">> Uh JDA Oh yeah, so last week's troll.",
+      "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=1387s",
+      "transcript_file": "transcripts/2026-07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
+    },
+    {
+      "occurrence_id": "occurrence:LdLy2G5TM4c:562:person:johnny-rocket",
+      "entity_id": "person:johnny-rocket",
+      "matched_alias": "Johnny Rocket",
+      "alias_strength": "strong",
+      "confidence": 1.0,
+      "video_id": "LdLy2G5TM4c",
+      "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+      "source": "Commi3 Mark",
+      "published": "2026-07-10T23:56:07+00:00",
+      "segment_index": 562,
+      "start": 1613.2,
+      "timestamp": "26:53",
+      "quote": ">> Talking about Johnny Rocket.",
+      "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=1613s",
+      "transcript_file": "transcripts/2026-07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
+    },
+    {
+      "occurrence_id": "occurrence:LdLy2G5TM4c:579:person:johnny-rocket",
+      "entity_id": "person:johnny-rocket",
+      "matched_alias": "Johnny Rocket",
+      "alias_strength": "strong",
+      "confidence": 1.0,
+      "video_id": "LdLy2G5TM4c",
+      "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+      "source": "Commi3 Mark",
+      "published": "2026-07-10T23:56:07+00:00",
+      "segment_index": 579,
+      "start": 1651.44,
+      "timestamp": "27:31",
+      "quote": "by Johnny Rocket. I think this is in my",
+      "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=1651s",
+      "transcript_file": "transcripts/2026-07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
+    },
+    {
+      "occurrence_id": "occurrence:LdLy2G5TM4c:683:person:jon-del-arroz",
+      "entity_id": "person:jon-del-arroz",
+      "matched_alias": "JDA",
+      "alias_strength": "weak",
+      "confidence": 0.68,
+      "video_id": "LdLy2G5TM4c",
+      "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+      "source": "Commi3 Mark",
+      "published": "2026-07-10T23:56:07+00:00",
+      "segment_index": 683,
+      "start": 1945.2,
+      "timestamp": "32:25",
+      "quote": "Liam and JDA video got like a huge spike",
+      "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=1945s",
+      "transcript_file": "transcripts/2026-07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
+    },
+    {
+      "occurrence_id": "occurrence:LdLy2G5TM4c:723:person:johnny-rocket",
+      "entity_id": "person:johnny-rocket",
+      "matched_alias": "Johnny Rocket",
+      "alias_strength": "strong",
+      "confidence": 1.0,
+      "video_id": "LdLy2G5TM4c",
+      "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+      "source": "Commi3 Mark",
+      "published": "2026-07-10T23:56:07+00:00",
+      "segment_index": 723,
+      "start": 2070.24,
+      "timestamp": "34:30",
+      "quote": "with this article by Johnny Rocket on",
+      "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=2070s",
+      "transcript_file": "transcripts/2026-07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
+    },
+    {
+      "occurrence_id": "occurrence:LdLy2G5TM4c:765:person:ethan-van-sciver",
+      "entity_id": "person:ethan-van-sciver",
+      "matched_alias": "EVS",
+      "alias_strength": "weak",
+      "confidence": 0.68,
+      "video_id": "LdLy2G5TM4c",
+      "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+      "source": "Commi3 Mark",
+      "published": "2026-07-10T23:56:07+00:00",
+      "segment_index": 765,
+      "start": 2180.8,
+      "timestamp": "36:20",
+      "quote": "that EVS was about to show you. Um, like",
+      "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=2180s",
+      "transcript_file": "transcripts/2026-07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
+    },
+    {
+      "occurrence_id": "occurrence:LdLy2G5TM4c:1006:person:riley",
+      "entity_id": "person:riley",
+      "matched_alias": "Riley",
+      "alias_strength": "weak",
+      "confidence": 0.68,
+      "video_id": "LdLy2G5TM4c",
+      "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+      "source": "Commi3 Mark",
+      "published": "2026-07-10T23:56:07+00:00",
+      "segment_index": 1006,
+      "start": 2854.48,
+      "timestamp": "47:34",
+      "quote": "now done the rounds more than Riley's",
+      "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=2854s",
+      "transcript_file": "transcripts/2026-07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
+    },
+    {
+      "occurrence_id": "occurrence:LdLy2G5TM4c:1344:person:johnny-rocket",
+      "entity_id": "person:johnny-rocket",
+      "matched_alias": "Johnny Rocket",
+      "alias_strength": "strong",
+      "confidence": 1.0,
+      "video_id": "LdLy2G5TM4c",
+      "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+      "source": "Commi3 Mark",
+      "published": "2026-07-10T23:56:07+00:00",
+      "segment_index": 1344,
+      "start": 3715.599,
+      "timestamp": "01:01:55",
+      "quote": ">> This is the opinion of Johnny Rocket.",
+      "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=3715s",
+      "transcript_file": "transcripts/2026-07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
+    },
+    {
+      "occurrence_id": "occurrence:LdLy2G5TM4c:2949:person:katy",
+      "entity_id": "person:katy",
+      "matched_alias": "Katie",
+      "alias_strength": "weak",
+      "confidence": 0.68,
+      "video_id": "LdLy2G5TM4c",
+      "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+      "source": "Commi3 Mark",
+      "published": "2026-07-10T23:56:07+00:00",
+      "segment_index": 2949,
+      "start": 8046.719,
+      "timestamp": "02:14:06",
+      "quote": ">> I didn't check if Katie did put any of",
+      "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=8046s",
+      "transcript_file": "transcripts/2026-07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
+    }
+  ],
+  "passages": [
+    {
+      "passage_id": "passage:LdLy2G5TM4c:357",
+      "trigger_segment_index": 97,
+      "trigger_start": 357.36,
+      "involved_entity_ids": [
+        "person:commi3-mark"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:commi3-mark",
+          "matched_alias": "Comey Mark",
+          "alias_strength": "strong",
+          "confidence": 1.0
+        }
+      ],
+      "claim_term_count": 1,
+      "claim_excerpt": "to Russian Troll Factory episode 26%",
+      "full_context": "[music] >> Salam alalayikum [ __ ] It's me, your man Comey Mark, your friendly neighborhood communist. Hello. Welcome to Russian Troll Factory episode 26% I think we're on now. Lea, you can see what percent I added this week. Bloody hell. And uh before we even get into it, we got a super chat during the credits, but during the opening, so let's skip straight to that because you didn't get",
+      "source": {
+        "source_type": "youtube",
+        "video_id": "LdLy2G5TM4c",
+        "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+        "channel": "Commi3 Mark",
+        "published_at": "2026-07-10T23:56:07+00:00",
+        "timestamp_seconds": 357.36,
+        "timestamp_display": "05:57",
+        "url": "https://www.youtube.com/watch?v=LdLy2G5TM4c",
+        "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=357s",
+        "transcript_file": "transcripts/2026-07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
+      },
+      "confidence": 0.66
+    },
+    {
+      "passage_id": "passage:LdLy2G5TM4c:362",
+      "trigger_segment_index": 98,
+      "trigger_start": 362.0,
+      "involved_entity_ids": [
+        "person:commi3-mark"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:commi3-mark",
+          "matched_alias": "Comey Mark",
+          "alias_strength": "strong",
+          "confidence": 1.0
+        }
+      ],
+      "claim_term_count": 2,
+      "claim_excerpt": "I think we're on now. Lea, you can see",
+      "full_context": "[music] >> Salam alalayikum [ __ ] It's me, your man Comey Mark, your friendly neighborhood communist. Hello. Welcome to Russian Troll Factory episode 26% I think we're on now. Lea, you can see what percent I added this week. Bloody hell. And uh before we even get into it, we got a super chat during the credits, but during the opening, so let's skip straight to that because you didn't get to see it on screen. N2 paints for five great British pounds says, \"Under",
+      "source": {
+        "source_type": "youtube",
+        "video_id": "LdLy2G5TM4c",
+        "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+        "channel": "Commi3 Mark",
+        "published_at": "2026-07-10T23:56:07+00:00",
+        "timestamp_seconds": 362.0,
+        "timestamp_display": "06:02",
+        "url": "https://www.youtube.com/watch?v=LdLy2G5TM4c",
+        "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=362s",
+        "transcript_file": "transcripts/2026-07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
+      },
+      "confidence": 0.74
+    },
+    {
+      "passage_id": "passage:LdLy2G5TM4c:521",
+      "trigger_segment_index": 156,
+      "trigger_start": 521.12,
+      "involved_entity_ids": [
+        "person:jon-del-arroz"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:jon-del-arroz",
+          "matched_alias": "JDA",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 2,
+      "claim_excerpt": ">> Yeah. You know what these Californians",
+      "full_context": ">> problems with his bum. Yes, I heard that as well. Like the last thing he said was that he was going for a prostate exam. Like um [laughter] and we haven't heard from him since. >> Yeah. He wasn't going to a doctor though. That's the worst part of it. >> Yeah. You know what these Californians are like. >> Yeah. >> Oh, bloody hell. It appears that you started a trend on review. >> Oh, >> earwig is mad love for2 says it appears you've started a trend on JDA's review.",
+      "source": {
+        "source_type": "youtube",
+        "video_id": "LdLy2G5TM4c",
+        "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+        "channel": "Commi3 Mark",
+        "published_at": "2026-07-10T23:56:07+00:00",
+        "timestamp_seconds": 521.12,
+        "timestamp_display": "08:41",
+        "url": "https://www.youtube.com/watch?v=LdLy2G5TM4c",
+        "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=521s",
+        "transcript_file": "transcripts/2026-07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
+      },
+      "confidence": 0.74
+    },
+    {
+      "passage_id": "passage:LdLy2G5TM4c:530",
+      "trigger_segment_index": 159,
+      "trigger_start": 530.32,
+      "involved_entity_ids": [
+        "person:jon-del-arroz"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:jon-del-arroz",
+          "matched_alias": "JDA",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 1,
+      "claim_excerpt": ">> Oh, bloody hell.",
+      "full_context": "a prostate exam. Like um [laughter] and we haven't heard from him since. >> Yeah. He wasn't going to a doctor though. That's the worst part of it. >> Yeah. You know what these Californians are like. >> Yeah. >> Oh, bloody hell. It appears that you started a trend on review. >> Oh, >> earwig is mad love for2 says it appears you've started a trend on JDA's review. Oh, I did notice that somebody had liked um my review on JDA's thing. We'll get",
+      "source": {
+        "source_type": "youtube",
+        "video_id": "LdLy2G5TM4c",
+        "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+        "channel": "Commi3 Mark",
+        "published_at": "2026-07-10T23:56:07+00:00",
+        "timestamp_seconds": 530.32,
+        "timestamp_display": "08:50",
+        "url": "https://www.youtube.com/watch?v=LdLy2G5TM4c",
+        "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=530s",
+        "transcript_file": "transcripts/2026-07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
+      },
+      "confidence": 0.66
+    },
+    {
+      "passage_id": "passage:LdLy2G5TM4c:541",
+      "trigger_segment_index": 164,
+      "trigger_start": 541.04,
+      "involved_entity_ids": [
+        "person:jon-del-arroz"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:jon-del-arroz",
+          "matched_alias": "JDA",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 1,
+      "claim_excerpt": "you've started a trend on JDA's review.",
+      "full_context": ">> Yeah. You know what these Californians are like. >> Yeah. >> Oh, bloody hell. It appears that you started a trend on review. >> Oh, >> earwig is mad love for2 says it appears you've started a trend on JDA's review. Oh, I did notice that somebody had liked um my review on JDA's thing. We'll get to that like uh shortly. Uh we've got a lot to get through today. public um super interesting story that came across my feed for the first time. Apparently,",
+      "source": {
+        "source_type": "youtube",
+        "video_id": "LdLy2G5TM4c",
+        "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+        "channel": "Commi3 Mark",
+        "published_at": "2026-07-10T23:56:07+00:00",
+        "timestamp_seconds": 541.04,
+        "timestamp_display": "09:01",
+        "url": "https://www.youtube.com/watch?v=LdLy2G5TM4c",
+        "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=541s",
+        "transcript_file": "transcripts/2026-07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
+      },
+      "confidence": 0.66
+    },
+    {
+      "passage_id": "passage:LdLy2G5TM4c:556",
+      "trigger_segment_index": 169,
+      "trigger_start": 556.48,
+      "involved_entity_ids": [
+        "person:jon-del-arroz"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:jon-del-arroz",
+          "matched_alias": "JDA",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 3,
+      "claim_excerpt": "super interesting story that came across",
+      "full_context": ">> earwig is mad love for2 says it appears you've started a trend on JDA's review. Oh, I did notice that somebody had liked um my review on JDA's thing. We'll get to that like uh shortly. Uh we've got a lot to get through today. public um super interesting story that came across my feed for the first time. Apparently, according to some people, it's months old story like um so you know this isn't a drama episode. This is a history episode or uh four months ago apparently this story came out. Um I know Yan doesn't know anything about it because",
+      "source": {
+        "source_type": "youtube",
+        "video_id": "LdLy2G5TM4c",
+        "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+        "channel": "Commi3 Mark",
+        "published_at": "2026-07-10T23:56:07+00:00",
+        "timestamp_seconds": 556.48,
+        "timestamp_display": "09:16",
+        "url": "https://www.youtube.com/watch?v=LdLy2G5TM4c",
+        "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=556s",
+        "transcript_file": "transcripts/2026-07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
+      },
+      "confidence": 0.82
+    },
+    {
+      "passage_id": "passage:LdLy2G5TM4c:738",
+      "trigger_segment_index": 236,
+      "trigger_start": 738.32,
+      "involved_entity_ids": [
+        "person:jon-del-arroz"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:jon-del-arroz",
+          "matched_alias": "JDA",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 1,
+      "claim_excerpt": ">> that's your gift",
+      "full_context": "you're never going to beat that. So see what happens next season. I can't see Tottenham doing anything. That's my football pundantry. Sorry, Mark. >> You're all right. Like, it's the one chance you'll get to like celebrate being good or whatever. So, [laughter] >> that's your gift >> until Aston Villa wins the league next season. >> Um, yeah. Billy Billy Powermax says, \"Piper, I've missed your warmth. It's kind of gay.\" Oh. [laughter] Um, all right. Let's get into there. Oh, there was another one about those JDA things. Where did I see that? Um, yeah,",
+      "source": {
+        "source_type": "youtube",
+        "video_id": "LdLy2G5TM4c",
+        "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+        "channel": "Commi3 Mark",
+        "published_at": "2026-07-10T23:56:07+00:00",
+        "timestamp_seconds": 738.32,
+        "timestamp_display": "12:18",
+        "url": "https://www.youtube.com/watch?v=LdLy2G5TM4c",
+        "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=738s",
+        "transcript_file": "transcripts/2026-07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
+      },
+      "confidence": 0.66
+    },
+    {
+      "passage_id": "passage:LdLy2G5TM4c:752",
+      "trigger_segment_index": 242,
+      "trigger_start": 752.0,
+      "involved_entity_ids": [
+        "person:jon-del-arroz"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:jon-del-arroz",
+          "matched_alias": "JDA",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 2,
+      "claim_excerpt": "Um, all right. Let's get into there. Oh,",
+      "full_context": "being good or whatever. So, [laughter] >> that's your gift >> until Aston Villa wins the league next season. >> Um, yeah. Billy Billy Powermax says, \"Piper, I've missed your warmth. It's kind of gay.\" Oh. [laughter] Um, all right. Let's get into there. Oh, there was another one about those JDA things. Where did I see that? Um, yeah, here it is. I Wiggers Madlo said there's actually some pretty hilarious reviews from other people. One guy says he found JDA's books in the book bin at a thrift store. Another Yeah, we'll uh I already have the page loaded up, so we'll have a",
+      "source": {
+        "source_type": "youtube",
+        "video_id": "LdLy2G5TM4c",
+        "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+        "channel": "Commi3 Mark",
+        "published_at": "2026-07-10T23:56:07+00:00",
+        "timestamp_seconds": 752.0,
+        "timestamp_display": "12:32",
+        "url": "https://www.youtube.com/watch?v=LdLy2G5TM4c",
+        "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=752s",
+        "transcript_file": "transcripts/2026-07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
+      },
+      "confidence": 0.74
+    },
+    {
+      "passage_id": "passage:LdLy2G5TM4c:766",
+      "trigger_segment_index": 248,
+      "trigger_start": 766.24,
+      "involved_entity_ids": [
+        "person:jon-del-arroz"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:jon-del-arroz",
+          "matched_alias": "JDA",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 3,
+      "claim_excerpt": "JDA's books in the book bin at a thrift",
+      "full_context": "\"Piper, I've missed your warmth. It's kind of gay.\" Oh. [laughter] Um, all right. Let's get into there. Oh, there was another one about those JDA things. Where did I see that? Um, yeah, here it is. I Wiggers Madlo said there's actually some pretty hilarious reviews from other people. One guy says he found JDA's books in the book bin at a thrift store. Another Yeah, we'll uh I already have the page loaded up, so we'll have a scroll through. I can see if there's some other great ones. So, this week we're going to be talking about this uh Eric July murder mystery crossover thing. Um, I love like true crime",
+      "source": {
+        "source_type": "youtube",
+        "video_id": "LdLy2G5TM4c",
+        "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+        "channel": "Commi3 Mark",
+        "published_at": "2026-07-10T23:56:07+00:00",
+        "timestamp_seconds": 766.24,
+        "timestamp_display": "12:46",
+        "url": "https://www.youtube.com/watch?v=LdLy2G5TM4c",
+        "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=766s",
+        "transcript_file": "transcripts/2026-07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
+      },
+      "confidence": 0.82
+    },
+    {
+      "passage_id": "passage:LdLy2G5TM4c:780",
+      "trigger_segment_index": 254,
+      "trigger_start": 780.24,
+      "involved_entity_ids": [
+        "person:jon-del-arroz"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:jon-del-arroz",
+          "matched_alias": "JDA",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 2,
+      "claim_excerpt": "Eric July murder mystery crossover",
+      "full_context": "actually some pretty hilarious reviews from other people. One guy says he found JDA's books in the book bin at a thrift store. Another Yeah, we'll uh I already have the page loaded up, so we'll have a scroll through. I can see if there's some other great ones. So, this week we're going to be talking about this uh Eric July murder mystery crossover thing. Um, I love like true crime stories and documentaries. Like, so it's fun to like uh [snorts] play detective for the week. Uh, this week in fact on the show we're going to be playing judge, jury, and executioner. And like I",
+      "source": {
+        "source_type": "youtube",
+        "video_id": "LdLy2G5TM4c",
+        "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+        "channel": "Commi3 Mark",
+        "published_at": "2026-07-10T23:56:07+00:00",
+        "timestamp_seconds": 780.24,
+        "timestamp_display": "13:00",
+        "url": "https://www.youtube.com/watch?v=LdLy2G5TM4c",
+        "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=780s",
+        "transcript_file": "transcripts/2026-07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
+      },
+      "confidence": 0.74
+    },
+    {
+      "passage_id": "passage:LdLy2G5TM4c:802",
+      "trigger_segment_index": 261,
+      "trigger_start": 802.0,
+      "involved_entity_ids": [
+        "person:jon-del-arroz"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:jon-del-arroz",
+          "matched_alias": "JDA",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 1,
+      "claim_excerpt": "this is one of my favorite formats of",
+      "full_context": "thing. Um, I love like true crime stories and documentaries. Like, so it's fun to like uh [snorts] play detective for the week. Uh, this week in fact on the show we're going to be playing judge, jury, and executioner. And like I this is one of my favorite formats of show to do the court format. like and we're going to do it uh today. See, like uh it's going to be fun. Um All right. But that's this week. We have to talk about last week first. And last week we covered JDA. JDA was trying to",
+      "source": {
+        "source_type": "youtube",
+        "video_id": "LdLy2G5TM4c",
+        "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+        "channel": "Commi3 Mark",
+        "published_at": "2026-07-10T23:56:07+00:00",
+        "timestamp_seconds": 802.0,
+        "timestamp_display": "13:22",
+        "url": "https://www.youtube.com/watch?v=LdLy2G5TM4c",
+        "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=802s",
+        "transcript_file": "transcripts/2026-07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
+      },
+      "confidence": 0.66
+    },
+    {
+      "passage_id": "passage:LdLy2G5TM4c:1370",
+      "trigger_segment_index": 469,
+      "trigger_start": 1370.08,
+      "involved_entity_ids": [
+        "person:jon-del-arroz"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:jon-del-arroz",
+          "matched_alias": "JDA",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 2,
+      "claim_excerpt": "not sure like uh what I'm going to do",
+      "full_context": "is so good. Like I know that I'm [ __ ] down the AI like uh to get my style. >> Um, but it's so good that I could make like a cartoon or something as easy as I could make a comic book. Like uh so I'm not sure like uh what I'm going to do next. Like uh it all depends on the idea. like I'll get a flash of inspiration or whatever. All right, let's get back to this because we're I was said before the show there's only three of us. We'll keep it really tight like 20 minutes. >> Uh JDA Oh yeah, so last week's troll.",
+      "source": {
+        "source_type": "youtube",
+        "video_id": "LdLy2G5TM4c",
+        "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+        "channel": "Commi3 Mark",
+        "published_at": "2026-07-10T23:56:07+00:00",
+        "timestamp_seconds": 1370.08,
+        "timestamp_display": "22:50",
+        "url": "https://www.youtube.com/watch?v=LdLy2G5TM4c",
+        "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=1370s",
+        "transcript_file": "transcripts/2026-07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
+      },
+      "confidence": 0.74
+    },
+    {
+      "passage_id": "passage:LdLy2G5TM4c:1380",
+      "trigger_segment_index": 473,
+      "trigger_start": 1380.0,
+      "involved_entity_ids": [
+        "person:jon-del-arroz"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:jon-del-arroz",
+          "matched_alias": "JDA",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 3,
+      "claim_excerpt": "let's get back to this because we're I",
+      "full_context": "like a cartoon or something as easy as I could make a comic book. Like uh so I'm not sure like uh what I'm going to do next. Like uh it all depends on the idea. like I'll get a flash of inspiration or whatever. All right, let's get back to this because we're I was said before the show there's only three of us. We'll keep it really tight like 20 minutes. >> Uh JDA Oh yeah, so last week's troll. Here we go. Uh it's on the flying I wanted to show at least the cover of his book. There it is. Flying Sparks 3.65",
+      "source": {
+        "source_type": "youtube",
+        "video_id": "LdLy2G5TM4c",
+        "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+        "channel": "Commi3 Mark",
+        "published_at": "2026-07-10T23:56:07+00:00",
+        "timestamp_seconds": 1380.0,
+        "timestamp_display": "23:00",
+        "url": "https://www.youtube.com/watch?v=LdLy2G5TM4c",
+        "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=1380s",
+        "transcript_file": "transcripts/2026-07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
+      },
+      "confidence": 0.82
+    },
+    {
+      "passage_id": "passage:LdLy2G5TM4c:1395",
+      "trigger_segment_index": 479,
+      "trigger_start": 1395.12,
+      "involved_entity_ids": [
+        "person:jon-del-arroz"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:jon-del-arroz",
+          "matched_alias": "JDA",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 3,
+      "claim_excerpt": "it's on the flying I wanted to show at",
+      "full_context": "idea. like I'll get a flash of inspiration or whatever. All right, let's get back to this because we're I was said before the show there's only three of us. We'll keep it really tight like 20 minutes. >> Uh JDA Oh yeah, so last week's troll. Here we go. Uh it's on the flying I wanted to show at least the cover of his book. There it is. Flying Sparks 3.65 stars on good readads. We know there was a fivestar review from John Dela Rose and from his uh ex-wife as well. We looked at that last week and in other reviews.",
+      "source": {
+        "source_type": "youtube",
+        "video_id": "LdLy2G5TM4c",
+        "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+        "channel": "Commi3 Mark",
+        "published_at": "2026-07-10T23:56:07+00:00",
+        "timestamp_seconds": 1395.12,
+        "timestamp_display": "23:15",
+        "url": "https://www.youtube.com/watch?v=LdLy2G5TM4c",
+        "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=1395s",
+        "transcript_file": "transcripts/2026-07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
+      },
+      "confidence": 0.82
+    },
+    {
+      "passage_id": "passage:LdLy2G5TM4c:1594",
+      "trigger_segment_index": 553,
+      "trigger_start": 1594.24,
+      "involved_entity_ids": [
+        "person:johnny-rocket"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:johnny-rocket",
+          "matched_alias": "Johnny Rocket",
+          "alias_strength": "strong",
+          "confidence": 1.0
+        }
+      ],
+      "claim_term_count": 1,
+      "claim_excerpt": "immediately if you can't hear it. Here",
+      "full_context": ">> Oh crap. >> Well, I'm not going to look for that live on the show. [laughter] >> Um, and then the other big thing of the week. Um, let me just uh share the audio with you. Let me know immediately if you can't hear it. Here we go. Let me turn it up. Um, but he wrote >> you heard that. >> Okay, good. Uh, let's go back to just to be safe. >> The only thing I've ever paid him to write was elephant period. That's it. Nothing. >> Talking about Johnny Rocket. >> He'll tell you that, too. Tell you that.",
+      "source": {
+        "source_type": "youtube",
+        "video_id": "LdLy2G5TM4c",
+        "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+        "channel": "Commi3 Mark",
+        "published_at": "2026-07-10T23:56:07+00:00",
+        "timestamp_seconds": 1594.24,
+        "timestamp_display": "26:34",
+        "url": "https://www.youtube.com/watch?v=LdLy2G5TM4c",
+        "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=1594s",
+        "transcript_file": "transcripts/2026-07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
+      },
+      "confidence": 0.66
+    },
+    {
+      "passage_id": "passage:LdLy2G5TM4c:1605",
+      "trigger_segment_index": 558,
+      "trigger_start": 1605.919,
+      "involved_entity_ids": [
+        "person:johnny-rocket"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:johnny-rocket",
+          "matched_alias": "Johnny Rocket",
+          "alias_strength": "strong",
+          "confidence": 1.0
+        }
+      ],
+      "claim_term_count": 2,
+      "claim_excerpt": "Uh, let's go back to just to be safe.",
+      "full_context": "uh share the audio with you. Let me know immediately if you can't hear it. Here we go. Let me turn it up. Um, but he wrote >> you heard that. >> Okay, good. Uh, let's go back to just to be safe. >> The only thing I've ever paid him to write was elephant period. That's it. Nothing. >> Talking about Johnny Rocket. >> He'll tell you that, too. Tell you that. But he wrote this incredible article where he drew a lot of conclusions about it. So, I'm not going to show it [clears throat] because I don't I'm not I don't agree with his",
+      "source": {
+        "source_type": "youtube",
+        "video_id": "LdLy2G5TM4c",
+        "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+        "channel": "Commi3 Mark",
+        "published_at": "2026-07-10T23:56:07+00:00",
+        "timestamp_seconds": 1605.919,
+        "timestamp_display": "26:45",
+        "url": "https://www.youtube.com/watch?v=LdLy2G5TM4c",
+        "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=1605s",
+        "transcript_file": "transcripts/2026-07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
+      },
+      "confidence": 0.74
+    },
+    {
+      "passage_id": "passage:LdLy2G5TM4c:1620",
+      "trigger_segment_index": 565,
+      "trigger_start": 1620.24,
+      "involved_entity_ids": [
+        "person:johnny-rocket"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:johnny-rocket",
+          "matched_alias": "Johnny Rocket",
+          "alias_strength": "strong",
+          "confidence": 1.0
+        }
+      ],
+      "claim_term_count": 2,
+      "claim_excerpt": "article where he drew a lot of",
+      "full_context": ">> you heard that. >> Okay, good. Uh, let's go back to just to be safe. >> The only thing I've ever paid him to write was elephant period. That's it. Nothing. >> Talking about Johnny Rocket. >> He'll tell you that, too. Tell you that. But he wrote this incredible article where he drew a lot of conclusions about it. So, I'm not going to show it [clears throat] because I don't I'm not I don't agree with his conclusions. We're gonna show >> about this situation. Man, this is dark. Do I want to do this? >> It is dark. >> Man, I could I could talk about it. Uh, let's let's go to Tommy Mark the",
+      "source": {
+        "source_type": "youtube",
+        "video_id": "LdLy2G5TM4c",
+        "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+        "channel": "Commi3 Mark",
+        "published_at": "2026-07-10T23:56:07+00:00",
+        "timestamp_seconds": 1620.24,
+        "timestamp_display": "27:00",
+        "url": "https://www.youtube.com/watch?v=LdLy2G5TM4c",
+        "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=1620s",
+        "transcript_file": "transcripts/2026-07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
+      },
+      "confidence": 0.74
+    },
+    {
+      "passage_id": "passage:LdLy2G5TM4c:1636",
+      "trigger_segment_index": 573,
+      "trigger_start": 1636.48,
+      "involved_entity_ids": [
+        "person:johnny-rocket"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:johnny-rocket",
+          "matched_alias": "Johnny Rocket",
+          "alias_strength": "strong",
+          "confidence": 1.0
+        }
+      ],
+      "claim_term_count": 2,
+      "claim_excerpt": ">> Man, I could I could talk about it. Uh,",
+      "full_context": "But he wrote this incredible article where he drew a lot of conclusions about it. So, I'm not going to show it [clears throat] because I don't I'm not I don't agree with his conclusions. We're gonna show >> about this situation. Man, this is dark. Do I want to do this? >> It is dark. >> Man, I could I could talk about it. Uh, let's let's go to Tommy Mark the commentary. [clears throat] >> Uh, Eric July ran over a guy causing a 15year-old girl to get shot and killed and then snitched on TV. Incredible find by Johnny Rocket. I think this is in my opinion",
+      "source": {
+        "source_type": "youtube",
+        "video_id": "LdLy2G5TM4c",
+        "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+        "channel": "Commi3 Mark",
+        "published_at": "2026-07-10T23:56:07+00:00",
+        "timestamp_seconds": 1636.48,
+        "timestamp_display": "27:16",
+        "url": "https://www.youtube.com/watch?v=LdLy2G5TM4c",
+        "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=1636s",
+        "transcript_file": "transcripts/2026-07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
+      },
+      "confidence": 0.74
+    },
+    {
+      "passage_id": "passage:LdLy2G5TM4c:1926",
+      "trigger_segment_index": 677,
+      "trigger_start": 1926.32,
+      "involved_entity_ids": [
+        "person:jon-del-arroz"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:jon-del-arroz",
+          "matched_alias": "JDA",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 1,
+      "claim_excerpt": "watch like three chunks.",
+      "full_context": "been promoted to moderators now. Like uh so you have a minuscule amount of power. Like uh don't abuse it. a series of bat says, \"Are we teasing the chat now?\" Yeah, I think so. Like, uh, I need people on the replay to like watch like three chunks. Um, I did a thing this week where I knew that, okay, so let me rewind a little bit. You know, when the Liam stuff was at its peak like three, four weeks ago or whatever, uh my Liam and JDA video got like a huge spike",
+      "source": {
+        "source_type": "youtube",
+        "video_id": "LdLy2G5TM4c",
+        "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+        "channel": "Commi3 Mark",
+        "published_at": "2026-07-10T23:56:07+00:00",
+        "timestamp_seconds": 1926.32,
+        "timestamp_display": "32:06",
+        "url": "https://www.youtube.com/watch?v=LdLy2G5TM4c",
+        "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=1926s",
+        "transcript_file": "transcripts/2026-07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
+      },
+      "confidence": 0.66
+    },
+    {
+      "passage_id": "passage:LdLy2G5TM4c:1935",
+      "trigger_segment_index": 680,
+      "trigger_start": 1935.519,
+      "involved_entity_ids": [
+        "person:jon-del-arroz"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:jon-del-arroz",
+          "matched_alias": "JDA",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 2,
+      "claim_excerpt": "bit. You know, when",
+      "full_context": "a series of bat says, \"Are we teasing the chat now?\" Yeah, I think so. Like, uh, I need people on the replay to like watch like three chunks. Um, I did a thing this week where I knew that, okay, so let me rewind a little bit. You know, when the Liam stuff was at its peak like three, four weeks ago or whatever, uh my Liam and JDA video got like a huge spike in views because it was relevant again like and it's a high quality video, so YouTube keeps recommending it, right?",
+      "source": {
+        "source_type": "youtube",
+        "video_id": "LdLy2G5TM4c",
+        "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+        "channel": "Commi3 Mark",
+        "published_at": "2026-07-10T23:56:07+00:00",
+        "timestamp_seconds": 1935.519,
+        "timestamp_display": "32:15",
+        "url": "https://www.youtube.com/watch?v=LdLy2G5TM4c",
+        "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=1935s",
+        "transcript_file": "transcripts/2026-07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
+      },
+      "confidence": 0.74
+    },
+    {
+      "passage_id": "passage:LdLy2G5TM4c:1950",
+      "trigger_segment_index": 685,
+      "trigger_start": 1950.96,
+      "involved_entity_ids": [
+        "person:jon-del-arroz"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:jon-del-arroz",
+          "matched_alias": "JDA",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 1,
+      "claim_excerpt": "like and it's a high quality video, so",
+      "full_context": "that, okay, so let me rewind a little bit. You know, when the Liam stuff was at its peak like three, four weeks ago or whatever, uh my Liam and JDA video got like a huge spike in views because it was relevant again like and it's a high quality video, so YouTube keeps recommending it, right? Um, and then this week I knew we was doing this Eric July video. So I put out like uh this octopus archive tweet like uh was the original Eric video that we made like saying go and watch this. And",
+      "source": {
+        "source_type": "youtube",
+        "video_id": "LdLy2G5TM4c",
+        "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+        "channel": "Commi3 Mark",
+        "published_at": "2026-07-10T23:56:07+00:00",
+        "timestamp_seconds": 1950.96,
+        "timestamp_display": "32:30",
+        "url": "https://www.youtube.com/watch?v=LdLy2G5TM4c",
+        "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=1950s",
+        "transcript_file": "transcripts/2026-07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
+      },
+      "confidence": 0.66
+    },
+    {
+      "passage_id": "passage:LdLy2G5TM4c:2052",
+      "trigger_segment_index": 718,
+      "trigger_start": 2052.399,
+      "involved_entity_ids": [
+        "person:johnny-rocket"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:johnny-rocket",
+          "matched_alias": "Johnny Rocket",
+          "alias_strength": "strong",
+          "confidence": 1.0
+        }
+      ],
+      "claim_term_count": 1,
+      "claim_excerpt": "like um",
+      "full_context": "Uh [clears throat] Brian suddenly old says, \"How long before you are forced to that capitalist streaming service, Rumble?\" Yeah, I do have a Rumble account already set up like for the inevitable bannoning like um go and subscribe to that. Same com Mark the ears are free. Uh yeah. So hashets [clears throat] uh okay so the story this week starts with this article by Johnny Rocket on",
+      "source": {
+        "source_type": "youtube",
+        "video_id": "LdLy2G5TM4c",
+        "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+        "channel": "Commi3 Mark",
+        "published_at": "2026-07-10T23:56:07+00:00",
+        "timestamp_seconds": 2052.399,
+        "timestamp_display": "34:12",
+        "url": "https://www.youtube.com/watch?v=LdLy2G5TM4c",
+        "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=2052s",
+        "transcript_file": "transcripts/2026-07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
+      },
+      "confidence": 0.66
+    },
+    {
+      "passage_id": "passage:LdLy2G5TM4c:2057",
+      "trigger_segment_index": 720,
+      "trigger_start": 2057.28,
+      "involved_entity_ids": [
+        "person:johnny-rocket"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:johnny-rocket",
+          "matched_alias": "Johnny Rocket",
+          "alias_strength": "strong",
+          "confidence": 1.0
+        }
+      ],
+      "claim_term_count": 1,
+      "claim_excerpt": "the ears are free.",
+      "full_context": "before you are forced to that capitalist streaming service, Rumble?\" Yeah, I do have a Rumble account already set up like for the inevitable bannoning like um go and subscribe to that. Same com Mark the ears are free. Uh yeah. So hashets [clears throat] uh okay so the story this week starts with this article by Johnny Rocket on his Substack right that says Wanita pain inspired ISO",
+      "source": {
+        "source_type": "youtube",
+        "video_id": "LdLy2G5TM4c",
+        "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+        "channel": "Commi3 Mark",
+        "published_at": "2026-07-10T23:56:07+00:00",
+        "timestamp_seconds": 2057.28,
+        "timestamp_display": "34:17",
+        "url": "https://www.youtube.com/watch?v=LdLy2G5TM4c",
+        "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=2057s",
+        "transcript_file": "transcripts/2026-07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
+      },
+      "confidence": 0.66
+    },
+    {
+      "passage_id": "passage:LdLy2G5TM4c:2070",
+      "trigger_segment_index": 723,
+      "trigger_start": 2070.24,
+      "involved_entity_ids": [
+        "person:johnny-rocket"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:johnny-rocket",
+          "matched_alias": "Johnny Rocket",
+          "alias_strength": "strong",
+          "confidence": 1.0
+        }
+      ],
+      "claim_term_count": 1,
+      "claim_excerpt": "with this article by Johnny Rocket on",
+      "full_context": "like um go and subscribe to that. Same com Mark the ears are free. Uh yeah. So hashets [clears throat] uh okay so the story this week starts with this article by Johnny Rocket on his Substack right that says Wanita pain inspired ISO and um Oh Piper would you read this part for us? Can you see that? Do you need me to zoom? >> Yeah, no I can see it. Um, I'm not going",
+      "source": {
+        "source_type": "youtube",
+        "video_id": "LdLy2G5TM4c",
+        "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+        "channel": "Commi3 Mark",
+        "published_at": "2026-07-10T23:56:07+00:00",
+        "timestamp_seconds": 2070.24,
+        "timestamp_display": "34:30",
+        "url": "https://www.youtube.com/watch?v=LdLy2G5TM4c",
+        "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=2070s",
+        "transcript_file": "transcripts/2026-07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
+      },
+      "confidence": 0.66
+    },
+    {
+      "passage_id": "passage:LdLy2G5TM4c:2087",
+      "trigger_segment_index": 729,
+      "trigger_start": 2087.28,
+      "involved_entity_ids": [
+        "person:johnny-rocket"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:johnny-rocket",
+          "matched_alias": "Johnny Rocket",
+          "alias_strength": "strong",
+          "confidence": 1.0
+        }
+      ],
+      "claim_term_count": 2,
+      "claim_excerpt": "us? Can you see that? Do you need me to",
+      "full_context": "with this article by Johnny Rocket on his Substack right that says Wanita pain inspired ISO and um Oh Piper would you read this part for us? Can you see that? Do you need me to zoom? >> Yeah, no I can see it. Um, I'm not going to do any funny voices though. >> Oh, now that I've zoomed, some of it's covered by me and it. There you go. >> Yeah, now I can see. I can see it that close. >> Okay. Would you read that part for us, please? >> You may recall Eric July aka Young Ripa 59 once said, \"If this was 2008 me, I'd",
+      "source": {
+        "source_type": "youtube",
+        "video_id": "LdLy2G5TM4c",
+        "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+        "channel": "Commi3 Mark",
+        "published_at": "2026-07-10T23:56:07+00:00",
+        "timestamp_seconds": 2087.28,
+        "timestamp_display": "34:47",
+        "url": "https://www.youtube.com/watch?v=LdLy2G5TM4c",
+        "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=2087s",
+        "transcript_file": "transcripts/2026-07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
+      },
+      "confidence": 0.74
+    },
+    {
+      "passage_id": "passage:LdLy2G5TM4c:2166",
+      "trigger_segment_index": 760,
+      "trigger_start": 2166.72,
+      "involved_entity_ids": [
+        "person:ethan-van-sciver"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:ethan-van-sciver",
+          "matched_alias": "EVS",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 1,
+      "claim_excerpt": "hours a cop reality show like uh about",
+      "full_context": "when it happened. Um, so he done this tweet uh about this story about the death of 15year-old Wanita Payne. Um, and it mentions about this uh 48 hours a cop reality show like uh about the case. So immediately I thought, well, I'm gonna look for that like I'm going to watch it and see what it's all about. Uh, and I'll show you the clip that EVS was about to show you. Um, like I said earlier, we're going to do the",
+      "source": {
+        "source_type": "youtube",
+        "video_id": "LdLy2G5TM4c",
+        "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+        "channel": "Commi3 Mark",
+        "published_at": "2026-07-10T23:56:07+00:00",
+        "timestamp_seconds": 2166.72,
+        "timestamp_display": "36:06",
+        "url": "https://www.youtube.com/watch?v=LdLy2G5TM4c",
+        "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=2166s",
+        "transcript_file": "transcripts/2026-07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
+      },
+      "confidence": 0.66
+    },
+    {
+      "passage_id": "passage:LdLy2G5TM4c:2177",
+      "trigger_segment_index": 764,
+      "trigger_start": 2177.52,
+      "involved_entity_ids": [
+        "person:ethan-van-sciver"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:ethan-van-sciver",
+          "matched_alias": "EVS",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 1,
+      "claim_excerpt": "about. Uh, and I'll show you the clip",
+      "full_context": "Wanita Payne. Um, and it mentions about this uh 48 hours a cop reality show like uh about the case. So immediately I thought, well, I'm gonna look for that like I'm going to watch it and see what it's all about. Uh, and I'll show you the clip that EVS was about to show you. Um, like I said earlier, we're going to do the court format that we've done previously. I am going to be the judge. You can see that kind. Yeah, I'm the uh judge. AIOC is going to be like my state prosecutor.",
+      "source": {
+        "source_type": "youtube",
+        "video_id": "LdLy2G5TM4c",
+        "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+        "channel": "Commi3 Mark",
+        "published_at": "2026-07-10T23:56:07+00:00",
+        "timestamp_seconds": 2177.52,
+        "timestamp_display": "36:17",
+        "url": "https://www.youtube.com/watch?v=LdLy2G5TM4c",
+        "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=2177s",
+        "transcript_file": "transcripts/2026-07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
+      },
+      "confidence": 0.66
+    },
+    {
+      "passage_id": "passage:LdLy2G5TM4c:2190",
+      "trigger_segment_index": 768,
+      "trigger_start": 2190.24,
+      "involved_entity_ids": [
+        "person:ethan-van-sciver"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:ethan-van-sciver",
+          "matched_alias": "EVS",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 1,
+      "claim_excerpt": "I am going to be the judge. You can see",
+      "full_context": "well, I'm gonna look for that like I'm going to watch it and see what it's all about. Uh, and I'll show you the clip that EVS was about to show you. Um, like I said earlier, we're going to do the court format that we've done previously. I am going to be the judge. You can see that kind. Yeah, I'm the uh judge. AIOC is going to be like my state prosecutor. She's going to bring us to evidence and you guys are going to be the jury like um you are going to decide uh the fates of Eric July who's on trial",
+      "source": {
+        "source_type": "youtube",
+        "video_id": "LdLy2G5TM4c",
+        "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+        "channel": "Commi3 Mark",
+        "published_at": "2026-07-10T23:56:07+00:00",
+        "timestamp_seconds": 2190.24,
+        "timestamp_display": "36:30",
+        "url": "https://www.youtube.com/watch?v=LdLy2G5TM4c",
+        "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=2190s",
+        "transcript_file": "transcripts/2026-07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
+      },
+      "confidence": 0.66
+    },
+    {
+      "passage_id": "passage:LdLy2G5TM4c:2838",
+      "trigger_segment_index": 1000,
+      "trigger_start": 2838.24,
+      "involved_entity_ids": [
+        "person:riley"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:riley",
+          "matched_alias": "Riley",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 2,
+      "claim_excerpt": "think it's important. [snorts]",
+      "full_context": ">> Oh, okay. So, what I want to show you is the replies to that message because I think uh I'll show you some and then I'll show you what I think that the replies mean, right? Cuz I think it's important. [snorts] Um John A. Douglas says, \"Incredible horseshit.\" more like uh knife school says incredible find that old cliff has been around for years now done the rounds more than Riley's [ __ ] sucker hooker mom as",
+      "source": {
+        "source_type": "youtube",
+        "video_id": "LdLy2G5TM4c",
+        "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+        "channel": "Commi3 Mark",
+        "published_at": "2026-07-10T23:56:07+00:00",
+        "timestamp_seconds": 2838.24,
+        "timestamp_display": "47:18",
+        "url": "https://www.youtube.com/watch?v=LdLy2G5TM4c",
+        "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=2838s",
+        "transcript_file": "transcripts/2026-07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
+      },
+      "confidence": 0.74
+    },
+    {
+      "passage_id": "passage:LdLy2G5TM4c:2850",
+      "trigger_segment_index": 1004,
+      "trigger_start": 2850.16,
+      "involved_entity_ids": [
+        "person:riley"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:riley",
+          "matched_alias": "Riley",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 1,
+      "claim_excerpt": "uh knife school says incredible find",
+      "full_context": "replies mean, right? Cuz I think it's important. [snorts] Um John A. Douglas says, \"Incredible horseshit.\" more like uh knife school says incredible find that old cliff has been around for years now done the rounds more than Riley's [ __ ] sucker hooker mom as like tell me >> um this person Shantan says it's clearly not Eric there's no hair on his shoulders right that's the first person",
+      "source": {
+        "source_type": "youtube",
+        "video_id": "LdLy2G5TM4c",
+        "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+        "channel": "Commi3 Mark",
+        "published_at": "2026-07-10T23:56:07+00:00",
+        "timestamp_seconds": 2850.16,
+        "timestamp_display": "47:30",
+        "url": "https://www.youtube.com/watch?v=LdLy2G5TM4c",
+        "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=2850s",
+        "transcript_file": "transcripts/2026-07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
+      },
+      "confidence": 0.66
+    },
+    {
+      "passage_id": "passage:LdLy2G5TM4c:2865",
+      "trigger_segment_index": 1010,
+      "trigger_start": 2865.76,
+      "involved_entity_ids": [
+        "person:riley"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:riley",
+          "matched_alias": "Riley",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 1,
+      "claim_excerpt": "this person Shantan says it's clearly",
+      "full_context": "horseshit.\" more like uh knife school says incredible find that old cliff has been around for years now done the rounds more than Riley's [ __ ] sucker hooker mom as like tell me >> um this person Shantan says it's clearly not Eric there's no hair on his shoulders right that's the first person who says this is not Eric and it's to make a joke say he's not hairy Right. >> Yeah. I noticed the other ones are saying it's old news. Like they know who it was. It's just don't bring it up",
+      "source": {
+        "source_type": "youtube",
+        "video_id": "LdLy2G5TM4c",
+        "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+        "channel": "Commi3 Mark",
+        "published_at": "2026-07-10T23:56:07+00:00",
+        "timestamp_seconds": 2865.76,
+        "timestamp_display": "47:45",
+        "url": "https://www.youtube.com/watch?v=LdLy2G5TM4c",
+        "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=2865s",
+        "transcript_file": "transcripts/2026-07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
+      },
+      "confidence": 0.66
+    },
+    {
+      "passage_id": "passage:LdLy2G5TM4c:3734",
+      "trigger_segment_index": 1353,
+      "trigger_start": 3734.0,
+      "involved_entity_ids": [
+        "person:johnny-rocket"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:johnny-rocket",
+          "matched_alias": "Johnny Rocket",
+          "alias_strength": "strong",
+          "confidence": 1.0
+        }
+      ],
+      "claim_term_count": 1,
+      "claim_excerpt": "Um,",
+      "full_context": ">> This is the opinion of Johnny Rocket. >> Yes. >> This would be classed as speculation. >> Yeah. Yeah. But I always wondered why his name was that, but I didn't know anything about him that well until he hit the comic scene. I didn't pay attention to him. >> Yeah. Same. Same. Um, so we done that. Um, my take is that that's weird, isn't it? like hanging out with a 15year-old at a nightclub like um and calling her your baby sister like afterwards like because obviously",
+      "source": {
+        "source_type": "youtube",
+        "video_id": "LdLy2G5TM4c",
+        "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+        "channel": "Commi3 Mark",
+        "published_at": "2026-07-10T23:56:07+00:00",
+        "timestamp_seconds": 3734.0,
+        "timestamp_display": "01:02:14",
+        "url": "https://www.youtube.com/watch?v=LdLy2G5TM4c",
+        "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=3734s",
+        "transcript_file": "transcripts/2026-07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
+      },
+      "confidence": 0.66
+    }
+  ],
+  "bundles": [
+    {
+      "context_bundle_id": "bundle:LdLy2G5TM4c:357",
+      "video_id": "LdLy2G5TM4c",
+      "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+      "channel": "Commi3 Mark",
+      "published_at": "2026-07-10T23:56:07+00:00",
+      "start_seconds": 282.36,
+      "end_seconds": 462.36,
+      "start_display": "04:42",
+      "end_display": "07:42",
+      "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=282s",
+      "trigger_receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=357s",
+      "trigger_excerpt": "to Russian Troll Factory episode 26%",
+      "involved_entity_ids": [
+        "person:commi3-mark"
+      ],
+      "involved_entity_names": [
+        "Commi3 Mark"
+      ],
+      "topic_terms": [
+        "music",
+        "hello",
+        "see",
+        "get",
+        "all",
+        "let",
+        "first",
+        "doing"
+      ],
+      "development_types": [
+        "new_claim"
+      ],
+      "uncertainty_flags": [
+        "contains_uncertain_language"
+      ],
+      "context_text": "this revolution [music and singing] ever succeeds, history will say I built the machine. But you pulled the lever, [music] Kima. And darling, [music] I do enjoy watching you try. >> [music] [music] [music] >> Salam alalayikum [ __ ] It's me, your man Comey Mark, your friendly neighborhood communist. Hello. Welcome to Russian Troll Factory episode 26% I think we're on now. Lea, you can see what percent I added this week. Bloody hell. And uh before we even get into it, we got a super chat during the credits, but during the opening, so let's skip straight to that because you didn't get to see it on screen. N2 paints for five great British pounds says, \"Under communism, everyone is equal, but the queue starts behind the party official.\" That's right. Get in line, comrades. like um All right, let me uh bring in esteemed panel for the week. The first Oh, hang on. Let me change let me zoom out of this view. Here we go. All right. Um first up, first comrade of the revolution. Uh eternal brother of communism. Uh yes, stencil artist. Hello. Uh Wagwan, there you are. You're on the screen now. We can see. >> Hello. >> How you doing, bro? >> Oh, sorry. Sorry. I am doing well. I'm doing well. It is very hot because I'm up in the uh the uh what was [clears throat] it? What you used to call it? The gay space station. >> Yeah. In the gay space station. >> Yeah. I'm calling from the gay space station down to earth. It's quite hot up here. >> Yeah. like um it's not too bad in my uh nuclear basement blank here. Um today [sighs and gasps] um all right uh let's bring in the other",
+      "source_passage_ids": [
+        "passage:LdLy2G5TM4c:357"
+      ],
+      "confidence": 0.66
+    },
+    {
+      "context_bundle_id": "bundle:LdLy2G5TM4c:521",
+      "video_id": "LdLy2G5TM4c",
+      "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+      "channel": "Commi3 Mark",
+      "published_at": "2026-07-10T23:56:07+00:00",
+      "start_seconds": 446.12,
+      "end_seconds": 626.12,
+      "start_display": "07:26",
+      "end_display": "10:26",
+      "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=446s",
+      "trigger_receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=521s",
+      "trigger_excerpt": ">> Yeah. You know what these Californians",
+      "involved_entity_ids": [
+        "person:jon-del-arroz"
+      ],
+      "involved_entity_names": [
+        "Jon Del Arroz"
+      ],
+      "topic_terms": [
+        "today",
+        "laughter",
+        "get",
+        "all",
+        "let's",
+        "first",
+        "review",
+        "story"
+      ],
+      "development_types": [
+        "new_claim"
+      ],
+      "uncertainty_flags": [
+        "contains_uncertain_language"
+      ],
+      "context_text": ">> Yeah. like um it's not too bad in my uh nuclear basement blank here. Um today [sighs and gasps] um all right uh let's bring in the other panelist we have today only two people. Um it's the first minister of wolf boobs or whatever [laughter] is here. Hello. Greetings comrade. How are you? Hey, I was kind of hoping you would say and then let's bring on the only other person that showed up. This person. [laughter] >> Yeah. Well, um Kenzo's mom wrote me a letter today like um he forgot his PE kit and he's not able to participate like in the show. [laughter] Uh Billy, don't know where Billy is. >> No, >> problems with his bum. Yes, I heard that as well. Like the last thing he said was that he was going for a prostate exam. Like um [laughter] and we haven't heard from him since. >> Yeah. He wasn't going to a doctor though. That's the worst part of it. >> Yeah. You know what these Californians are like. >> Yeah. >> Oh, bloody hell. It appears that you started a trend on review. >> Oh, >> earwig is mad love for2 says it appears you've started a trend on JDA's review. Oh, I did notice that somebody had liked um my review on JDA's thing. We'll get to that like uh shortly. Uh we've got a lot to get through today. public um super interesting story that came across my feed for the first time. Apparently, according to some people, it's months old story like um so you know this isn't a drama episode. This is a history episode or uh four months ago apparently this story came out. Um I know Yan doesn't know anything about it because he doesn't um follow drama stuff. So, Yan, I will get to explaining all of that for you shortly. Um, let's just quickly check in with the bots in the chat so we can see who to point out on the score table when we get there. Lots of talk last week about moving the score table around like in the episode. Um, Monakus was first. He said CG counting the black man's money. Without that, CG would die. Like uh Eric is the new mainstream e like uh who else are we gonna uh laugh at all of them? Uh intent shifter says 475. Hello somebody is here. He says hail black Caesar. Elizabeth emoji sleeping psychopath is here as well.",
+      "source_passage_ids": [
+        "passage:LdLy2G5TM4c:521"
+      ],
+      "confidence": 0.74
+    },
+    {
+      "context_bundle_id": "bundle:LdLy2G5TM4c:738",
+      "video_id": "LdLy2G5TM4c",
+      "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+      "channel": "Commi3 Mark",
+      "published_at": "2026-07-10T23:56:07+00:00",
+      "start_seconds": 663.32,
+      "end_seconds": 843.32,
+      "start_display": "11:03",
+      "end_display": "14:03",
+      "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=663s",
+      "trigger_receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=738s",
+      "trigger_excerpt": ">> that's your gift",
+      "involved_entity_ids": [
+        "person:jon-del-arroz"
+      ],
+      "involved_entity_names": [
+        "Jon Del Arroz"
+      ],
+      "topic_terms": [
+        "week",
+        "got",
+        "see",
+        "that's",
+        "one",
+        "get",
+        "tottenham",
+        "i'm"
+      ],
+      "development_types": [
+        "new_claim"
+      ],
+      "uncertainty_flags": [
+        "contains_uncertain_language"
+      ],
+      "context_text": "like um just say something funny enough you'll get on there. Oh yeah, the chat's popping. We got 16. That's not too bad. >> Exactly. Nate asks what I think of Tottenham. I'm assuming he means the background is actually Charlie's London uh streaming zone I'm in. So she's a I'm an Arsenal fan, but she's a massive Arsenal fan. So yes, we've got the paraphernalia for that behind us. I thought you said major [ __ ] fan and I was so confused. I was like >> Arsenal the Ars. >> Okay. Yeah, I got you. I got you now. [laughter] >> Oh, and two pences too. We had a good season, didn't we? It was good. Would have been if sorry Mark to to gate crash your shirt. I think if Tottenham got relegated and we won the Premier League, I would have just retired from football. I'd never you're never going to beat that. So see what happens next season. I can't see Tottenham doing anything. That's my football pundantry. Sorry, Mark. >> You're all right. Like, it's the one chance you'll get to like celebrate being good or whatever. So, [laughter] >> that's your gift >> until Aston Villa wins the league next season. >> Um, yeah. Billy Billy Powermax says, \"Piper, I've missed your warmth. It's kind of gay.\" Oh. [laughter] Um, all right. Let's get into there. Oh, there was another one about those JDA things. Where did I see that? Um, yeah, here it is. I Wiggers Madlo said there's actually some pretty hilarious reviews from other people. One guy says he found JDA's books in the book bin at a thrift store. Another Yeah, we'll uh I already have the page loaded up, so we'll have a scroll through. I can see if there's some other great ones. So, this week we're going to be talking about this uh Eric July murder mystery crossover thing. Um, I love like true crime stories and documentaries. Like, so it's fun to like uh [snorts] play detective for the week. Uh, this week in fact on the show we're going to be playing judge, jury, and executioner. And like I this is one of my favorite formats of show to do the court format. like and we're going to do it uh today. See, like uh it's going to be fun. Um All right. But that's this week. We have to talk about last week first. And last week we covered JDA. JDA was trying to pick a fight with Shane Davis, so we just picked a fight with him. Uh credit to JDA um for a moment. Like the whole the whole stream was a trap. like uh had I explained to these before like they had",
+      "source_passage_ids": [
+        "passage:LdLy2G5TM4c:738"
+      ],
+      "confidence": 0.66
+    },
+    {
+      "context_bundle_id": "bundle:LdLy2G5TM4c:802",
+      "video_id": "LdLy2G5TM4c",
+      "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+      "channel": "Commi3 Mark",
+      "published_at": "2026-07-10T23:56:07+00:00",
+      "start_seconds": 727.0,
+      "end_seconds": 907.0,
+      "start_display": "12:07",
+      "end_display": "15:07",
+      "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=727s",
+      "trigger_receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=802s",
+      "trigger_excerpt": "this is one of my favorite formats of",
+      "involved_entity_ids": [
+        "person:jon-del-arroz"
+      ],
+      "involved_entity_names": [
+        "Jon Del Arroz"
+      ],
+      "topic_terms": [
+        "week",
+        "show",
+        "one",
+        "all",
+        "laughter",
+        "did",
+        "see",
+        "can"
+      ],
+      "development_types": [
+        "new_claim"
+      ],
+      "uncertainty_flags": [],
+      "context_text": "football pundantry. Sorry, Mark. >> You're all right. Like, it's the one chance you'll get to like celebrate being good or whatever. So, [laughter] >> that's your gift >> until Aston Villa wins the league next season. >> Um, yeah. Billy Billy Powermax says, \"Piper, I've missed your warmth. It's kind of gay.\" Oh. [laughter] Um, all right. Let's get into there. Oh, there was another one about those JDA things. Where did I see that? Um, yeah, here it is. I Wiggers Madlo said there's actually some pretty hilarious reviews from other people. One guy says he found JDA's books in the book bin at a thrift store. Another Yeah, we'll uh I already have the page loaded up, so we'll have a scroll through. I can see if there's some other great ones. So, this week we're going to be talking about this uh Eric July murder mystery crossover thing. Um, I love like true crime stories and documentaries. Like, so it's fun to like uh [snorts] play detective for the week. Uh, this week in fact on the show we're going to be playing judge, jury, and executioner. And like I this is one of my favorite formats of show to do the court format. like and we're going to do it uh today. See, like uh it's going to be fun. Um All right. But that's this week. We have to talk about last week first. And last week we covered JDA. JDA was trying to pick a fight with Shane Davis, so we just picked a fight with him. Uh credit to JDA um for a moment. Like the whole the whole stream was a trap. like uh had I explained to these before like they had a whole bunch of like predictions for things he could do live during the show to like try and derail the show and had built like um into it like backups like to and counters and stuff like um but he did nothing which is the correct move and it like uh what you're supposed to do when people are dunking on you just ignore them. Like >> what if it's really funny though? >> If it's funny, you can share it. >> Okay, sweet. I was going to say >> uh and you can just steal the jokes like when people make really good jokes at my expense or make a mental note of that and then just make the joke on the show or whatever and claim it as my own. It's >> Hell yeah. [laughter] Um, I just want to take a moment to point out the new >> to do that. >> Oh. >> Um, what did I mean to do? Oh, yeah.",
+      "source_passage_ids": [
+        "passage:LdLy2G5TM4c:802"
+      ],
+      "confidence": 0.66
+    },
+    {
+      "context_bundle_id": "bundle:LdLy2G5TM4c:1370",
+      "video_id": "LdLy2G5TM4c",
+      "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+      "channel": "Commi3 Mark",
+      "published_at": "2026-07-10T23:56:07+00:00",
+      "start_seconds": 1295.08,
+      "end_seconds": 1475.08,
+      "start_display": "21:35",
+      "end_display": "24:35",
+      "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=1295s",
+      "trigger_receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=1370s",
+      "trigger_excerpt": "not sure like uh what I'm going to do",
+      "involved_entity_ids": [
+        "person:jon-del-arroz"
+      ],
+      "involved_entity_names": [
+        "Jon Del Arroz"
+      ],
+      "topic_terms": [
+        "week",
+        "get",
+        "make",
+        "book",
+        "last",
+        "every",
+        "all",
+        "good"
+      ],
+      "development_types": [
+        "new_claim"
+      ],
+      "uncertainty_flags": [
+        "contains_uncertain_language"
+      ],
+      "context_text": "get to do my artistic expression every week in the thumbnails. Like uh every week I make a new thumbnail and I think, man, you've killed it this week. Lea, this is an excellent thumbnail. Um, if the and I was saying a couple of weeks ago, if there was a way to make a book in the style of the thumbnails, like in a meme format, like, uh, that's something that I could do without outside help. like um for people who don't know like all of the law, the not Daredevil books that are made are public domain uh comic book pages just relettered like um so I didn't have to get any artwork and best career is made out of photographs like stitched together to tell like a fake story. Uh, so I didn't need an artist. And now like uh the AI is so good. Like I know that I'm [ __ ] down the AI like uh to get my style. >> Um, but it's so good that I could make like a cartoon or something as easy as I could make a comic book. Like uh so I'm not sure like uh what I'm going to do next. Like uh it all depends on the idea. like I'll get a flash of inspiration or whatever. All right, let's get back to this because we're I was said before the show there's only three of us. We'll keep it really tight like 20 minutes. >> Uh JDA Oh yeah, so last week's troll. Here we go. Uh it's on the flying I wanted to show at least the cover of his book. There it is. Flying Sparks 3.65 stars on good readads. We know there was a fivestar review from John Dela Rose and from his uh ex-wife as well. We looked at that last week and in other reviews. So, here's uh our review from last week. Uh Piper, would you mind reading this one for us? >> You want me to use [laughter] voice? >> Uh but I do um less [ __ ] than last week though. That one voice but less [ __ ] So, still racist. >> Yeah, still [laughter] racist but less [ __ ] >> That's really hard uh with my face in the condition it's in. That is the problem. Wow. The reading reading Hispanic author of science fiction just releases heat after heat after heat mostly on his ex-wife. Uh, this is easily the shortest troll that we >> like, but it's succinct like [snorts] >> nails every point of what we was trying to chat like that.",
+      "source_passage_ids": [
+        "passage:LdLy2G5TM4c:1370"
+      ],
+      "confidence": 0.74
+    },
+    {
+      "context_bundle_id": "bundle:LdLy2G5TM4c:1594",
+      "video_id": "LdLy2G5TM4c",
+      "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+      "channel": "Commi3 Mark",
+      "published_at": "2026-07-10T23:56:07+00:00",
+      "start_seconds": 1519.24,
+      "end_seconds": 1699.24,
+      "start_display": "25:19",
+      "end_display": "28:19",
+      "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=1519s",
+      "trigger_receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=1594s",
+      "trigger_excerpt": "immediately if you can't hear it. Here",
+      "involved_entity_ids": [
+        "person:johnny-rocket"
+      ],
+      "involved_entity_names": [
+        "Johnny Rocket"
+      ],
+      "topic_terms": [
+        "show",
+        "good",
+        "i'm",
+        "get",
+        "july",
+        "clears",
+        "throat",
+        "let"
+      ],
+      "development_types": [
+        "new_claim"
+      ],
+      "uncertainty_flags": [
+        "contains_uncertain_language"
+      ],
+      "context_text": "No, maybe they gave it five stars >> so that it would get red. Yeah. Look for ones that are in July June or July 20. >> That'd be good, wouldn't it, if we could sort them by date. filters. >> Filters. >> Yeah, you could be right. There we go. Newest first. It >> still says yours is the newest. >> Yeah, it looks like [clears throat] I'm not the first person who thought of doing it. Okay, but forgettable. I think that's a real review. >> Yeah. >> Um, somebody I think it was NT Paint said it was on other books. Oh, was it on another book? >> Oh crap. >> Well, I'm not going to look for that live on the show. [laughter] >> Um, and then the other big thing of the week. Um, let me just uh share the audio with you. Let me know immediately if you can't hear it. Here we go. Let me turn it up. Um, but he wrote >> you heard that. >> Okay, good. Uh, let's go back to just to be safe. >> The only thing I've ever paid him to write was elephant period. That's it. Nothing. >> Talking about Johnny Rocket. >> He'll tell you that, too. Tell you that. But he wrote this incredible article where he drew a lot of conclusions about it. So, I'm not going to show it [clears throat] because I don't I'm not I don't agree with his conclusions. We're gonna show >> about this situation. Man, this is dark. Do I want to do this? >> It is dark. >> Man, I could I could talk about it. Uh, let's let's go to Tommy Mark the commentary. [clears throat] >> Uh, Eric July ran over a guy causing a 15year-old girl to get shot and killed and then snitched on TV. Incredible find by Johnny Rocket. I think this is in my opinion this is about as close to what happened as possible. >> Hey, so we got um a video that I shared on Twitter this week got shared on Trash Casting and started what became a 40inut segment or whatever uh on this show. >> Oh [ __ ] So, and if you did a good job of explaining it, if you've watched his show, like good. You'll know some of the stuff that we're going to cover already. You'll have context to fill in the gaps and help the people in the chat like who are lagging behind or dim. Um, and oh, the main reason I wanted to get to",
+      "source_passage_ids": [
+        "passage:LdLy2G5TM4c:1594"
+      ],
+      "confidence": 0.66
+    },
+    {
+      "context_bundle_id": "bundle:LdLy2G5TM4c:1926",
+      "video_id": "LdLy2G5TM4c",
+      "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+      "channel": "Commi3 Mark",
+      "published_at": "2026-07-10T23:56:07+00:00",
+      "start_seconds": 1851.32,
+      "end_seconds": 2031.32,
+      "start_display": "30:51",
+      "end_display": "33:51",
+      "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=1851s",
+      "trigger_receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=1926s",
+      "trigger_excerpt": "watch like three chunks.",
+      "involved_entity_ids": [
+        "person:jon-del-arroz"
+      ],
+      "involved_entity_names": [
+        "Jon Del Arroz"
+      ],
+      "topic_terms": [
+        "now",
+        "week",
+        "eric",
+        "three",
+        "middle",
+        "class",
+        "last",
+        "weeks"
+      ],
+      "development_types": [
+        "new_claim"
+      ],
+      "uncertainty_flags": [
+        "contains_uncertain_language"
+      ],
+      "context_text": "bro. Well done. Uh, wise guys. And Elizabeth Emoji is now the middle class champion. um in the last 3 weeks has climbed from like lower league obscurity all the way up to the top of the middle class like right on the edge of the people's championship. But who's ahead of her as the people's guardian? You'll have to find out like later like uh when we carry on doing this show. Um, so as well like I want to take this moment to is it this one? Yeah. I want to uh congratulate a series of bats 709 and Texas Mofo like the three of them have been promoted to moderators now. Like uh so you have a minuscule amount of power. Like uh don't abuse it. a series of bat says, \"Are we teasing the chat now?\" Yeah, I think so. Like, uh, I need people on the replay to like watch like three chunks. Um, I did a thing this week where I knew that, okay, so let me rewind a little bit. You know, when the Liam stuff was at its peak like three, four weeks ago or whatever, uh my Liam and JDA video got like a huge spike in views because it was relevant again like and it's a high quality video, so YouTube keeps recommending it, right? Um, and then this week I knew we was doing this Eric July video. So I put out like uh this octopus archive tweet like uh was the original Eric video that we made like saying go and watch this. And you can see in the analytics that like eight or nine people from Twitter like saw the link and went and clicked on it. But those people going there like made YouTube think, \"Oh, this video is alive.\" Like, and it started like suggesting it to other viewers. Like, um, so that's good. Like, I'm so happy with how the channel is going at the moment. Like, it's going so well compared to what it was like before we gave up. [snorts] All right. Jesus Christ. On to Eric. The hashet deal started this week or last week. Um, so riper verse books can now be ordered like in bookshops around the world. Um, according to Eric, it's going to be a year before we know whether that was a success or not. Like, uh, so it's not even worth talking about.",
+      "source_passage_ids": [
+        "passage:LdLy2G5TM4c:1926"
+      ],
+      "confidence": 0.66
+    },
+    {
+      "context_bundle_id": "bundle:LdLy2G5TM4c:2052",
+      "video_id": "LdLy2G5TM4c",
+      "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+      "channel": "Commi3 Mark",
+      "published_at": "2026-07-10T23:56:07+00:00",
+      "start_seconds": 1977.399,
+      "end_seconds": 2157.399,
+      "start_display": "32:57",
+      "end_display": "35:57",
+      "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=1977s",
+      "trigger_receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=2052s",
+      "trigger_excerpt": "like um",
+      "involved_entity_ids": [
+        "person:johnny-rocket"
+      ],
+      "involved_entity_names": [
+        "Johnny Rocket"
+      ],
+      "topic_terms": [
+        "can",
+        "that's",
+        "see",
+        "i'm",
+        "before",
+        "eric",
+        "week",
+        "now"
+      ],
+      "development_types": [
+        "new_claim"
+      ],
+      "uncertainty_flags": [
+        "contains_uncertain_language"
+      ],
+      "context_text": "saw the link and went and clicked on it. But those people going there like made YouTube think, \"Oh, this video is alive.\" Like, and it started like suggesting it to other viewers. Like, um, so that's good. Like, I'm so happy with how the channel is going at the moment. Like, it's going so well compared to what it was like before we gave up. [snorts] All right. Jesus Christ. On to Eric. The hashet deal started this week or last week. Um, so riper verse books can now be ordered like in bookshops around the world. Um, according to Eric, it's going to be a year before we know whether that was a success or not. Like, uh, so it's not even worth talking about. Uh [clears throat] Brian suddenly old says, \"How long before you are forced to that capitalist streaming service, Rumble?\" Yeah, I do have a Rumble account already set up like for the inevitable bannoning like um go and subscribe to that. Same com Mark the ears are free. Uh yeah. So hashets [clears throat] uh okay so the story this week starts with this article by Johnny Rocket on his Substack right that says Wanita pain inspired ISO and um Oh Piper would you read this part for us? Can you see that? Do you need me to zoom? >> Yeah, no I can see it. Um, I'm not going to do any funny voices though. >> Oh, now that I've zoomed, some of it's covered by me and it. There you go. >> Yeah, now I can see. I can see it that close. >> Okay. Would you read that part for us, please? >> You may recall Eric July aka Young Ripa 59 once said, \"If this was 2008 me, I'd handle things differently.\" In the middle of one of his internet feuds. That's oddly specific. What happened in 2008? >> Yeah. So, that's what we're gonna be asking. I'm just looking for the clip. I did have it like uh but can I find it? That's the question. [laughter] Uh don't know where I saved it. I thought I bookmarked it. Maybe not. Anyway, everyone remembers that clip, right? That's from like uh a couple of years ago. like we probably covered it when it happened. Um, so he done this tweet uh about this story about the death of 15year-old",
+      "source_passage_ids": [
+        "passage:LdLy2G5TM4c:2052"
+      ],
+      "confidence": 0.66
+    },
+    {
+      "context_bundle_id": "bundle:LdLy2G5TM4c:2166",
+      "video_id": "LdLy2G5TM4c",
+      "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+      "channel": "Commi3 Mark",
+      "published_at": "2026-07-10T23:56:07+00:00",
+      "start_seconds": 2091.72,
+      "end_seconds": 2271.72,
+      "start_display": "34:51",
+      "end_display": "37:51",
+      "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=2091s",
+      "trigger_receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=2166s",
+      "trigger_excerpt": "hours a cop reality show like uh about",
+      "involved_entity_ids": [
+        "person:ethan-van-sciver"
+      ],
+      "involved_entity_names": [
+        "Ethan Van Sciver"
+      ],
+      "topic_terms": [
+        "can",
+        "that's",
+        "see",
+        "i'm",
+        "we're",
+        "clip",
+        "laughter",
+        "show"
+      ],
+      "development_types": [
+        "new_claim"
+      ],
+      "uncertainty_flags": [
+        "contains_uncertain_language"
+      ],
+      "context_text": ">> Oh, now that I've zoomed, some of it's covered by me and it. There you go. >> Yeah, now I can see. I can see it that close. >> Okay. Would you read that part for us, please? >> You may recall Eric July aka Young Ripa 59 once said, \"If this was 2008 me, I'd handle things differently.\" In the middle of one of his internet feuds. That's oddly specific. What happened in 2008? >> Yeah. So, that's what we're gonna be asking. I'm just looking for the clip. I did have it like uh but can I find it? That's the question. [laughter] Uh don't know where I saved it. I thought I bookmarked it. Maybe not. Anyway, everyone remembers that clip, right? That's from like uh a couple of years ago. like we probably covered it when it happened. Um, so he done this tweet uh about this story about the death of 15year-old Wanita Payne. Um, and it mentions about this uh 48 hours a cop reality show like uh about the case. So immediately I thought, well, I'm gonna look for that like I'm going to watch it and see what it's all about. Uh, and I'll show you the clip that EVS was about to show you. Um, like I said earlier, we're going to do the court format that we've done previously. I am going to be the judge. You can see that kind. Yeah, I'm the uh judge. AIOC is going to be like my state prosecutor. She's going to bring us to evidence and you guys are going to be the jury like um you are going to decide uh the fates of Eric July who's on trial here like [laughter] but what for >> I think I think Billy and Kenzo should get fined for skipping jury duty. >> Yeah, [laughter] they definitely should. Oh, thank you for that for digging that out. Uh, the famous red shirt meltdown of Oh, yeah. Yeah. Yeah. That's what he's on about the TW. Yeah. All right. So, what's um first? Oh, yes. The video in it. So, let's watch the videos that I clipped. Um, and hopefully that will explain some of what we're trying to uh do here. I also [clears throat] realized this week I can click out the picturein picture thing and then change the size to the size of the window rather than the other way around. All right. [snorts] Um, let",
+      "source_passage_ids": [
+        "passage:LdLy2G5TM4c:2166"
+      ],
+      "confidence": 0.66
+    },
+    {
+      "context_bundle_id": "bundle:LdLy2G5TM4c:2838",
+      "video_id": "LdLy2G5TM4c",
+      "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+      "channel": "Commi3 Mark",
+      "published_at": "2026-07-10T23:56:07+00:00",
+      "start_seconds": 2763.24,
+      "end_seconds": 2943.24,
+      "start_display": "46:03",
+      "end_display": "49:03",
+      "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=2763s",
+      "trigger_receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=2838s",
+      "trigger_excerpt": "think it's important. [snorts]",
+      "involved_entity_ids": [
+        "person:riley"
+      ],
+      "involved_entity_names": [
+        "Riley"
+      ],
+      "topic_terms": [
+        "all",
+        "show",
+        "replies",
+        "eric",
+        "gang",
+        "that's",
+        "say",
+        "don't"
+      ],
+      "development_types": [
+        "new_claim"
+      ],
+      "uncertainty_flags": [
+        "contains_uncertain_language"
+      ],
+      "context_text": "like way of expressing themselves. especially if they're all in a gang and they're all copying each other like for social claim. So, you know, that's inconclusive, I think, the evidence uh [clears throat] on body language. It's not a science. I feel in my guts really confident that it's him, but it's not science. Like, uh can't say that it is. N2 paints a similar hibidity. Yeah. Oh dear. >> Booty popping for his gang bangers. Yeah, just [snorts] talking about gang banging like uh >> Oh dear. >> I don't have that quote like >> he does have an impersonator. Did he have one in 2008? >> Yeah, I dare cuz he wasn't anyone then. Not anyone now. Uh all right. >> Oh, okay. So, what I want to show you is the replies to that message because I think uh I'll show you some and then I'll show you what I think that the replies mean, right? Cuz I think it's important. [snorts] Um John A. Douglas says, \"Incredible horseshit.\" more like uh knife school says incredible find that old cliff has been around for years now done the rounds more than Riley's [ __ ] sucker hooker mom as like tell me >> um this person Shantan says it's clearly not Eric there's no hair on his shoulders right that's the first person who says this is not Eric and it's to make a joke say he's not hairy Right. >> Yeah. I noticed the other ones are saying it's old news. Like they know who it was. It's just don't bring it up anymore. I noticed that with the um with some of the replies. >> This one from Jamie Cook is a great example of what I'm trying to show you. The reason I'm showing you the replies. Some crazy dude started shooting at him and he hit a 15year-old girl be behind him. Not only is your framing way off from what you posted, but tries to blame Eric for a shooting someone else did. You just don't like him and you're grasping for something. Anything. I said, \"So, do you think that's Eric in the video?\" >> I was going to say a whole bunch of them are like, \"Yeah, it's him.\" Uh, but like, \"Shut up.\" Like, [laughter] >> reply to you on that one. Go go go go go back to where you said so sharing the link to the episode. >> Um, so what if he did? So someone else shot a 15y old girl and you tried to paint it as somehow Eric's fault. Are all Is this [ __ ] [clears throat] or are you a special breed? Special breed bro like",
+      "source_passage_ids": [
+        "passage:LdLy2G5TM4c:2838"
+      ],
+      "confidence": 0.74
+    },
+    {
+      "context_bundle_id": "bundle:LdLy2G5TM4c:3734",
+      "video_id": "LdLy2G5TM4c",
+      "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+      "channel": "Commi3 Mark",
+      "published_at": "2026-07-10T23:56:07+00:00",
+      "start_seconds": 3659.0,
+      "end_seconds": 3839.0,
+      "start_display": "01:00:59",
+      "end_display": "01:03:59",
+      "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=3659s",
+      "trigger_receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=3734s",
+      "trigger_excerpt": "Um,",
+      "involved_entity_ids": [
+        "person:johnny-rocket"
+      ],
+      "involved_entity_names": [
+        "Johnny Rocket"
+      ],
+      "topic_terms": [
+        "wouldn't",
+        "out",
+        "say",
+        "name",
+        "didn't",
+        "young",
+        "around",
+        "urban"
+      ],
+      "development_types": [
+        "new_claim"
+      ],
+      "uncertainty_flags": [
+        "contains_uncertain_language"
+      ],
+      "context_text": "young bucks that somehow strikes out with college [ __ ] and then hangs around the high school parking lot. >> And then have a look at this urban dictionary definition of the word ripper that was new to me. Like I learned this right then. >> Oo, this was around 2000. This was put in here 2011 when a man [ __ ] a virgin and rips her and she calls him Ripa. >> Yeah. So, uh, it makes you recontextualize the name Young Ripper, don't it? >> Oh my god. >> Yeah. And there's a good chance that the word was in use before it ever made it to Urban Dictionary. >> I would in I would if we're talking about courts and stuff, I would say that is speculation. >> Yeah, >> it is. But man, it does. It It >> This is the opinion of Johnny Rocket. >> Yes. >> This would be classed as speculation. >> Yeah. Yeah. But I always wondered why his name was that, but I didn't know anything about him that well until he hit the comic scene. I didn't pay attention to him. >> Yeah. Same. Same. Um, so we done that. Um, my take is that that's weird, isn't it? like hanging out with a 15year-old at a nightclub like um and calling her your baby sister like afterwards like because obviously you wouldn't you'd try to distance yourself from that in your public media article, wouldn't you? >> You wouldn't say that. >> You wouldn't want associated with Yeah. >> Oh, yeah. She was like my baby sister or whatever. You wouldn't say the real reason that you knew her or whatever. Um, >> also, why did they run away from the club and not into it if the bullets were outside? >> Yeah, good question. [laughter] Um, oh [ __ ] Uh, >> told, >> let me give you a little more of this. Oh god, I lost it. Oh, actually before we do that, I did want to show you as well that in the documentary like they blurred out like the place. Um, I can't help but notice they didn't blur out her friend's face, but I'm pretty sure instructed her not to say her own name. >> Maybe. All right. [snorts] Uh, I wanted to show you this. Can you see that on the screen? No, it's hidden. Uh, I went there on Google Maps. Like, um, this is where it happened. Like, can you see this big cigarette here? Like,",
+      "source_passage_ids": [
+        "passage:LdLy2G5TM4c:3734"
+      ],
+      "confidence": 0.66
+    }
+  ],
+  "narratives": [
+    {
+      "narrative_unit_id": "narrative:LdLy2G5TM4c:357",
+      "context_bundle_id": "bundle:LdLy2G5TM4c:357",
+      "headline": "Commi3 Mark: new claim around music / hello / see",
+      "summary": ">> Salam alalayikum [ __ ] It's me, your man Comey Mark, your friendly neighborhood communist. N2 paints for five great British pounds says, \"Under communism, everyone is equal, but the queue starts behind the party official.\" That's right. It is very hot because I'm up in the uh the uh what was [clears throat] it?",
+      "what_happened": ">> Salam alalayikum [ __ ] It's me, your man Comey Mark, your friendly neighborhood communist. N2 paints for five great British pounds says, \"Under communism, everyone is equal, but the queue starts behind the party official.\" That's right. It is very hot because I'm up in the uh the uh what was [clears throat] it?",
+      "people_involved": [
+        "Commi3 Mark"
+      ],
+      "topic_terms": [
+        "music",
+        "hello",
+        "see",
+        "get",
+        "all",
+        "let",
+        "first",
+        "doing"
+      ],
+      "development_types": [
+        "new_claim"
+      ],
+      "new_development": "The passage introduces or repeats a claim.",
+      "uncertainties": [
+        "The passage includes uncertain or speculative language."
+      ],
+      "evidence": {
+        "video_title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+        "channel": "Commi3 Mark",
+        "published_at": "2026-07-10T23:56:07+00:00",
+        "timestamp": "05:57",
+        "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=357s",
+        "context_receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=282s",
+        "trigger_excerpt": "to Russian Troll Factory episode 26%"
+      },
+      "confidence": 0.66,
+      "review_status": "automatic_extract"
+    },
+    {
+      "narrative_unit_id": "narrative:LdLy2G5TM4c:521",
+      "context_bundle_id": "bundle:LdLy2G5TM4c:521",
+      "headline": "Jon Del Arroz: new claim around today / laughter / get",
+      "summary": "Well, um Kenzo's mom wrote me a letter today like um he forgot his PE kit and he's not able to participate like in the show. Apparently, according to some people, it's months old story like um so you know this isn't a drama episode. Um I know Yan doesn't know anything about it because he doesn't um follow drama stuff.",
+      "what_happened": "Well, um Kenzo's mom wrote me a letter today like um he forgot his PE kit and he's not able to participate like in the show. Apparently, according to some people, it's months old story like um so you know this isn't a drama episode. Um I know Yan doesn't know anything about it because he doesn't um follow drama stuff.",
+      "people_involved": [
+        "Jon Del Arroz"
+      ],
+      "topic_terms": [
+        "today",
+        "laughter",
+        "get",
+        "all",
+        "let's",
+        "first",
+        "review",
+        "story"
+      ],
+      "development_types": [
+        "new_claim"
+      ],
+      "new_development": "The passage introduces or repeats a claim.",
+      "uncertainties": [
+        "The passage includes uncertain or speculative language."
+      ],
+      "evidence": {
+        "video_title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+        "channel": "Commi3 Mark",
+        "published_at": "2026-07-10T23:56:07+00:00",
+        "timestamp": "08:41",
+        "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=521s",
+        "context_receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=446s",
+        "trigger_excerpt": ">> Yeah. You know what these Californians"
+      },
+      "confidence": 0.74,
+      "review_status": "automatic_extract"
+    },
+    {
+      "narrative_unit_id": "narrative:LdLy2G5TM4c:738",
+      "context_bundle_id": "bundle:LdLy2G5TM4c:738",
+      "headline": "Jon Del Arroz: new claim around week / got / see",
+      "summary": "I thought you said major [ __ ] fan and I was so confused. I Wiggers Madlo said there's actually some pretty hilarious reviews from other people. One guy says he found JDA's books in the book bin at a thrift store.",
+      "what_happened": "I thought you said major [ __ ] fan and I was so confused. I Wiggers Madlo said there's actually some pretty hilarious reviews from other people. One guy says he found JDA's books in the book bin at a thrift store.",
+      "people_involved": [
+        "Jon Del Arroz"
+      ],
+      "topic_terms": [
+        "week",
+        "got",
+        "see",
+        "that's",
+        "one",
+        "get",
+        "tottenham",
+        "i'm"
+      ],
+      "development_types": [
+        "new_claim"
+      ],
+      "new_development": "The passage introduces or repeats a claim.",
+      "uncertainties": [
+        "The passage includes uncertain or speculative language."
+      ],
+      "evidence": {
+        "video_title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+        "channel": "Commi3 Mark",
+        "published_at": "2026-07-10T23:56:07+00:00",
+        "timestamp": "12:18",
+        "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=738s",
+        "context_receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=663s",
+        "trigger_excerpt": ">> that's your gift"
+      },
+      "confidence": 0.66,
+      "review_status": "automatic_extract"
+    },
+    {
+      "narrative_unit_id": "narrative:LdLy2G5TM4c:802",
+      "context_bundle_id": "bundle:LdLy2G5TM4c:802",
+      "headline": "Jon Del Arroz: new claim around week / show / one",
+      "summary": "I Wiggers Madlo said there's actually some pretty hilarious reviews from other people. One guy says he found JDA's books in the book bin at a thrift store. Um, I love like true crime stories and documentaries.",
+      "what_happened": "I Wiggers Madlo said there's actually some pretty hilarious reviews from other people. One guy says he found JDA's books in the book bin at a thrift store. Um, I love like true crime stories and documentaries.",
+      "people_involved": [
+        "Jon Del Arroz"
+      ],
+      "topic_terms": [
+        "week",
+        "show",
+        "one",
+        "all",
+        "laughter",
+        "did",
+        "see",
+        "can"
+      ],
+      "development_types": [
+        "new_claim"
+      ],
+      "new_development": "The passage introduces or repeats a claim.",
+      "uncertainties": [],
+      "evidence": {
+        "video_title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+        "channel": "Commi3 Mark",
+        "published_at": "2026-07-10T23:56:07+00:00",
+        "timestamp": "13:22",
+        "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=802s",
+        "context_receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=727s",
+        "trigger_excerpt": "this is one of my favorite formats of"
+      },
+      "confidence": 0.66,
+      "review_status": "automatic_extract"
+    },
+    {
+      "narrative_unit_id": "narrative:LdLy2G5TM4c:1370",
+      "context_bundle_id": "bundle:LdLy2G5TM4c:1370",
+      "headline": "Jon Del Arroz: new claim around week / get / make",
+      "summary": "All right, let's get back to this because we're I was said before the show there's only three of us. Uh it's on the flying I wanted to show at least the cover of his book. Flying Sparks 3.65 stars on good readads.",
+      "what_happened": "All right, let's get back to this because we're I was said before the show there's only three of us. Uh it's on the flying I wanted to show at least the cover of his book. Flying Sparks 3.65 stars on good readads.",
+      "people_involved": [
+        "Jon Del Arroz"
+      ],
+      "topic_terms": [
+        "week",
+        "get",
+        "make",
+        "book",
+        "last",
+        "every",
+        "all",
+        "good"
+      ],
+      "development_types": [
+        "new_claim"
+      ],
+      "new_development": "The passage introduces or repeats a claim.",
+      "uncertainties": [
+        "The passage includes uncertain or speculative language."
+      ],
+      "evidence": {
+        "video_title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+        "channel": "Commi3 Mark",
+        "published_at": "2026-07-10T23:56:07+00:00",
+        "timestamp": "22:50",
+        "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=1370s",
+        "context_receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=1295s",
+        "trigger_excerpt": "not sure like uh what I'm going to do"
+      },
+      "confidence": 0.74,
+      "review_status": "automatic_extract"
+    },
+    {
+      "narrative_unit_id": "narrative:LdLy2G5TM4c:1594",
+      "context_bundle_id": "bundle:LdLy2G5TM4c:1594",
+      "headline": "Johnny Rocket: new claim around show / good / i'm",
+      "summary": ">> Um, somebody I think it was NT Paint said it was on other books. But he wrote this incredible article where he drew a lot of conclusions about it. So, I'm not going to show it [clears throat] because I don't I'm not I don't agree with his conclusions.",
+      "what_happened": ">> Um, somebody I think it was NT Paint said it was on other books. But he wrote this incredible article where he drew a lot of conclusions about it. So, I'm not going to show it [clears throat] because I don't I'm not I don't agree with his conclusions.",
+      "people_involved": [
+        "Johnny Rocket"
+      ],
+      "topic_terms": [
+        "show",
+        "good",
+        "i'm",
+        "get",
+        "july",
+        "clears",
+        "throat",
+        "let"
+      ],
+      "development_types": [
+        "new_claim"
+      ],
+      "new_development": "The passage introduces or repeats a claim.",
+      "uncertainties": [
+        "The passage includes uncertain or speculative language."
+      ],
+      "evidence": {
+        "video_title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+        "channel": "Commi3 Mark",
+        "published_at": "2026-07-10T23:56:07+00:00",
+        "timestamp": "26:34",
+        "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=1594s",
+        "context_receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=1519s",
+        "trigger_excerpt": "immediately if you can't hear it. Here"
+      },
+      "confidence": 0.66,
+      "review_status": "automatic_extract"
+    },
+    {
+      "narrative_unit_id": "narrative:LdLy2G5TM4c:1926",
+      "context_bundle_id": "bundle:LdLy2G5TM4c:1926",
+      "headline": "Jon Del Arroz: new claim around now / week / eric",
+      "summary": "a series of bat says, \"Are we teasing the chat now?\" Yeah, I think so. You know, when the Liam stuff was at its peak like three, four weeks ago or whatever, uh my Liam and JDA video got like a huge spike in views because it was relevant again like and it's a high quality video, so YouTube keeps recommending it, right? Um, according to Eric, it's going to be a year before we know whether that was a success or not.",
+      "what_happened": "a series of bat says, \"Are we teasing the chat now?\" Yeah, I think so. You know, when the Liam stuff was at its peak like three, four weeks ago or whatever, uh my Liam and JDA video got like a huge spike in views because it was relevant again like and it's a high quality video, so YouTube keeps recommending it, right? Um, according to Eric, it's going to be a year before we know whether that was a success or not.",
+      "people_involved": [
+        "Jon Del Arroz"
+      ],
+      "topic_terms": [
+        "now",
+        "week",
+        "eric",
+        "three",
+        "middle",
+        "class",
+        "last",
+        "weeks"
+      ],
+      "development_types": [
+        "new_claim"
+      ],
+      "new_development": "The passage introduces or repeats a claim.",
+      "uncertainties": [
+        "The passage includes uncertain or speculative language."
+      ],
+      "evidence": {
+        "video_title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+        "channel": "Commi3 Mark",
+        "published_at": "2026-07-10T23:56:07+00:00",
+        "timestamp": "32:06",
+        "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=1926s",
+        "context_receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=1851s",
+        "trigger_excerpt": "watch like three chunks."
+      },
+      "confidence": 0.66,
+      "review_status": "automatic_extract"
+    },
+    {
+      "narrative_unit_id": "narrative:LdLy2G5TM4c:2052",
+      "context_bundle_id": "bundle:LdLy2G5TM4c:2052",
+      "headline": "Johnny Rocket: new claim around can / that's / see",
+      "summary": "Um, according to Eric, it's going to be a year before we know whether that was a success or not. So hashets [clears throat] uh okay so the story this week starts with this article by Johnny Rocket on his Substack right that says Wanita pain inspired ISO and um Oh Piper would you read this part for us? >> You may recall Eric July aka Young Ripa 59 once said, \"If this was 2008 me, I'd handle things differently.\" In the middle of one of his internet feuds.",
+      "what_happened": "Um, according to Eric, it's going to be a year before we know whether that was a success or not. So hashets [clears throat] uh okay so the story this week starts with this article by Johnny Rocket on his Substack right that says Wanita pain inspired ISO and um Oh Piper would you read this part for us? >> You may recall Eric July aka Young Ripa 59 once said, \"If this was 2008 me, I'd handle things differently.\" In the middle of one of his internet feuds.",
+      "people_involved": [
+        "Johnny Rocket"
+      ],
+      "topic_terms": [
+        "can",
+        "that's",
+        "see",
+        "i'm",
+        "before",
+        "eric",
+        "week",
+        "now"
+      ],
+      "development_types": [
+        "new_claim"
+      ],
+      "new_development": "The passage introduces or repeats a claim.",
+      "uncertainties": [
+        "The passage includes uncertain or speculative language."
+      ],
+      "evidence": {
+        "video_title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+        "channel": "Commi3 Mark",
+        "published_at": "2026-07-10T23:56:07+00:00",
+        "timestamp": "34:12",
+        "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=2052s",
+        "context_receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=1977s",
+        "trigger_excerpt": "like um"
+      },
+      "confidence": 0.66,
+      "review_status": "automatic_extract"
+    },
+    {
+      "narrative_unit_id": "narrative:LdLy2G5TM4c:2166",
+      "context_bundle_id": "bundle:LdLy2G5TM4c:2166",
+      "headline": "Ethan Van Sciver: new claim around can / that's / see",
+      "summary": ">> You may recall Eric July aka Young Ripa 59 once said, \"If this was 2008 me, I'd handle things differently.\" In the middle of one of his internet feuds. Um, like I said earlier, we're going to do the court format that we've done previously. I also [clears throat] realized this week I can click out the picturein picture thing and then change the size to the size of the window rather than the other way around.",
+      "what_happened": ">> You may recall Eric July aka Young Ripa 59 once said, \"If this was 2008 me, I'd handle things differently.\" In the middle of one of his internet feuds. Um, like I said earlier, we're going to do the court format that we've done previously. I also [clears throat] realized this week I can click out the picturein picture thing and then change the size to the size of the window rather than the other way around.",
+      "people_involved": [
+        "Ethan Van Sciver"
+      ],
+      "topic_terms": [
+        "can",
+        "that's",
+        "see",
+        "i'm",
+        "we're",
+        "clip",
+        "laughter",
+        "show"
+      ],
+      "development_types": [
+        "new_claim"
+      ],
+      "new_development": "The passage introduces or repeats a claim.",
+      "uncertainties": [
+        "The passage includes uncertain or speculative language."
+      ],
+      "evidence": {
+        "video_title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+        "channel": "Commi3 Mark",
+        "published_at": "2026-07-10T23:56:07+00:00",
+        "timestamp": "36:06",
+        "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=2166s",
+        "context_receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=2091s",
+        "trigger_excerpt": "hours a cop reality show like uh about"
+      },
+      "confidence": 0.66,
+      "review_status": "automatic_extract"
+    },
+    {
+      "narrative_unit_id": "narrative:LdLy2G5TM4c:2838",
+      "context_bundle_id": "bundle:LdLy2G5TM4c:2838",
+      "headline": "Riley: new claim around all / show / replies",
+      "summary": "So, what I want to show you is the replies to that message because I think uh I'll show you some and then I'll show you what I think that the replies mean, right? Douglas says, \"Incredible horseshit.\" more like uh knife school says incredible find that old cliff has been around for years now done the rounds more than Riley's [ __ ] sucker hooker mom as like tell me >> um this person Shantan says it's clearly not Eric there's no hair on his shoulders right that's the first person who says this is not Eric and it's to make a joke say he's not hairy Right.",
+      "what_happened": "So, what I want to show you is the replies to that message because I think uh I'll show you some and then I'll show you what I think that the replies mean, right? Douglas says, \"Incredible horseshit.\" more like uh knife school says incredible find that old cliff has been around for years now done the rounds more than Riley's [ __ ] sucker hooker mom as like tell me >> um this person Shantan says it's clearly not Eric there's no hair on his shoulders right that's the first person who says this is not Eric and it's to make a joke say he's not hairy Right.",
+      "people_involved": [
+        "Riley"
+      ],
+      "topic_terms": [
+        "all",
+        "show",
+        "replies",
+        "eric",
+        "gang",
+        "that's",
+        "say",
+        "don't"
+      ],
+      "development_types": [
+        "new_claim"
+      ],
+      "new_development": "The passage introduces or repeats a claim.",
+      "uncertainties": [
+        "The passage includes uncertain or speculative language."
+      ],
+      "evidence": {
+        "video_title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+        "channel": "Commi3 Mark",
+        "published_at": "2026-07-10T23:56:07+00:00",
+        "timestamp": "47:18",
+        "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=2838s",
+        "context_receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=2763s",
+        "trigger_excerpt": "think it's important. [snorts]"
+      },
+      "confidence": 0.74,
+      "review_status": "automatic_extract"
+    },
+    {
+      "narrative_unit_id": "narrative:LdLy2G5TM4c:3734",
+      "context_bundle_id": "bundle:LdLy2G5TM4c:3734",
+      "headline": "Johnny Rocket: new claim around wouldn't / out / say",
+      "summary": ">> This is the opinion of Johnny Rocket. like hanging out with a 15year-old at a nightclub like um and calling her your baby sister like afterwards like because obviously you wouldn't you'd try to distance yourself from that in your public media article, wouldn't you? Um, I can't help but notice they didn't blur out her friend's face, but I'm pretty sure instructed her not to say her own name.",
+      "what_happened": ">> This is the opinion of Johnny Rocket. like hanging out with a 15year-old at a nightclub like um and calling her your baby sister like afterwards like because obviously you wouldn't you'd try to distance yourself from that in your public media article, wouldn't you? Um, I can't help but notice they didn't blur out her friend's face, but I'm pretty sure instructed her not to say her own name.",
+      "people_involved": [
+        "Johnny Rocket"
+      ],
+      "topic_terms": [
+        "wouldn't",
+        "out",
+        "say",
+        "name",
+        "didn't",
+        "young",
+        "around",
+        "urban"
+      ],
+      "development_types": [
+        "new_claim"
+      ],
+      "new_development": "The passage introduces or repeats a claim.",
+      "uncertainties": [
+        "The passage includes uncertain or speculative language."
+      ],
+      "evidence": {
+        "video_title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+        "channel": "Commi3 Mark",
+        "published_at": "2026-07-10T23:56:07+00:00",
+        "timestamp": "01:02:14",
+        "receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=3734s",
+        "context_receipt_url": "https://www.youtube.com/watch?v=LdLy2G5TM4c&t=3659s",
+        "trigger_excerpt": "Um,"
+      },
+      "confidence": 0.66,
+      "review_status": "automatic_extract"
+    }
+  ]
+}

@@ -1,0 +1,376 @@
+{
+  "occurrences": [
+    {
+      "occurrence_id": "occurrence:O5BcX4ir3-0:69:person:katy",
+      "entity_id": "person:katy",
+      "matched_alias": "Katie",
+      "alias_strength": "weak",
+      "confidence": 0.68,
+      "video_id": "O5BcX4ir3-0",
+      "title": "The Tribunal of Liam Gray | DROPBOX DRAMA",
+      "source": "KatyDid",
+      "published": "2026-07-10T18:12:59+00:00",
+      "segment_index": 69,
+      "start": 163.92,
+      "timestamp": "02:43",
+      "quote": "say hello to Katie. I want to say hello",
+      "receipt_url": "https://www.youtube.com/watch?v=O5BcX4ir3-0&t=163s",
+      "transcript_file": "transcripts/2026-07/The Tribunal of Liam Gray DROPBOX DRAMA [O5BcX4ir3-0].json"
+    },
+    {
+      "occurrence_id": "occurrence:O5BcX4ir3-0:755:person:frog-tony",
+      "entity_id": "person:frog-tony",
+      "matched_alias": "Frog Tony",
+      "alias_strength": "strong",
+      "confidence": 1.0,
+      "video_id": "O5BcX4ir3-0",
+      "title": "The Tribunal of Liam Gray | DROPBOX DRAMA",
+      "source": "KatyDid",
+      "published": "2026-07-10T18:12:59+00:00",
+      "segment_index": 755,
+      "start": 1728.399,
+      "timestamp": "28:48",
+      "quote": "Frog Tony. So, you guys want to talk",
+      "receipt_url": "https://www.youtube.com/watch?v=O5BcX4ir3-0&t=1728s",
+      "transcript_file": "transcripts/2026-07/The Tribunal of Liam Gray DROPBOX DRAMA [O5BcX4ir3-0].json"
+    }
+  ],
+  "passages": [
+    {
+      "passage_id": "passage:O5BcX4ir3-0:144",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": ">> I'm saying the wrong thing.",
+      "context_before": ">> Now, on the FFS, did y'all say on panel to him? Like, did you verbally say this to him? >> Yeah, we said it on panel >> questions. Okay. >> Yeah. And then and then Synynic then goes and DMs them to him. Yeah. >> Okay. >> It's me and Stray Beans. How you guys doing?",
+      "context_after": ">> Hi. >> Welcome. Welcome. Boom. So, yeah. So, apparently you wanted to ask me some questions or some shit. Apparently, I've got to go on. I'm I'm on the firing line. Like, what's happening? [laughter] What's happening? Liam, this is First of all, I want to say hello to Katie. I want to say hello",
+      "full_context": ">> Now, on the FFS, did y'all say on panel to him? Like, did you verbally say this to him? >> Yeah, we said it on panel >> questions. Okay. >> Yeah. And then and then Synynic then goes and DMs them to him. Yeah. >> Okay. >> It's me and Stray Beans. How you guys doing? >> I'm saying the wrong thing. >> Hi. >> Welcome. Welcome. Boom. So, yeah. So, apparently you wanted to ask me some questions or some shit. Apparently, I've got to go on. I'm I'm on the firing line. Like, what's happening? [laughter] What's happening? Liam, this is First of all, I want to say hello to Katie. I want to say hello",
+      "involved_entity_ids": [
+        "person:katy"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:katy",
+          "matched_alias": "Katie",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 2,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "O5BcX4ir3-0",
+        "title": "The Tribunal of Liam Gray | DROPBOX DRAMA",
+        "channel": "KatyDid",
+        "published_at": "2026-07-10T18:12:59+00:00",
+        "timestamp_seconds": 144.48,
+        "timestamp_display": "02:24",
+        "url": "https://www.youtube.com/watch?v=O5BcX4ir3-0",
+        "receipt_url": "https://www.youtube.com/watch?v=O5BcX4ir3-0&t=144s",
+        "transcript_file": "transcripts/2026-07/The Tribunal of Liam Gray DROPBOX DRAMA [O5BcX4ir3-0].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:katy"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.79
+    },
+    {
+      "passage_id": "passage:O5BcX4ir3-0:151",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "So, yeah. So, apparently you wanted to",
+      "context_before": ">> Yeah, we said it on panel >> questions. Okay. >> Yeah. And then and then Synynic then goes and DMs them to him. Yeah. >> Okay. >> It's me and Stray Beans. How you guys doing? >> I'm saying the wrong thing. >> Hi. >> Welcome. Welcome. Boom.",
+      "context_after": "ask me some questions or some shit. Apparently, I've got to go on. I'm I'm on the firing line. Like, what's happening? [laughter] What's happening? Liam, this is First of all, I want to say hello to Katie. I want to say hello to Trashcast. How's this eup going? I hope it's going good. I hope you get those super chats.",
+      "full_context": ">> Yeah, we said it on panel >> questions. Okay. >> Yeah. And then and then Synynic then goes and DMs them to him. Yeah. >> Okay. >> It's me and Stray Beans. How you guys doing? >> I'm saying the wrong thing. >> Hi. >> Welcome. Welcome. Boom. So, yeah. So, apparently you wanted to ask me some questions or some shit. Apparently, I've got to go on. I'm I'm on the firing line. Like, what's happening? [laughter] What's happening? Liam, this is First of all, I want to say hello to Katie. I want to say hello to Trashcast. How's this eup going? I hope it's going good. I hope you get those super chats.",
+      "involved_entity_ids": [
+        "person:katy"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:katy",
+          "matched_alias": "Katie",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 1,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "O5BcX4ir3-0",
+        "title": "The Tribunal of Liam Gray | DROPBOX DRAMA",
+        "channel": "KatyDid",
+        "published_at": "2026-07-10T18:12:59+00:00",
+        "timestamp_seconds": 151.04,
+        "timestamp_display": "02:31",
+        "url": "https://www.youtube.com/watch?v=O5BcX4ir3-0",
+        "receipt_url": "https://www.youtube.com/watch?v=O5BcX4ir3-0&t=151s",
+        "transcript_file": "transcripts/2026-07/The Tribunal of Liam Gray DROPBOX DRAMA [O5BcX4ir3-0].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:katy"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.71
+    },
+    {
+      "passage_id": "passage:O5BcX4ir3-0:169",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "good. I hope you get those super chats.",
+      "context_before": "So, yeah. So, apparently you wanted to ask me some questions or some shit. Apparently, I've got to go on. I'm I'm on the firing line. Like, what's happening? [laughter] What's happening? Liam, this is First of all, I want to say hello to Katie. I want to say hello to Trashcast. How's this eup going? I hope it's going",
+      "context_after": "Let's go. That's >> right. Okay. I hope that's what this is going to be. All right. >> I think so. Second. Um, yeah, Liam, this is this is really serious stuff. Um, >> okay. >> There's a little guy and an old guy. They challenged They said I wouldn't do",
+      "full_context": "So, yeah. So, apparently you wanted to ask me some questions or some shit. Apparently, I've got to go on. I'm I'm on the firing line. Like, what's happening? [laughter] What's happening? Liam, this is First of all, I want to say hello to Katie. I want to say hello to Trashcast. How's this eup going? I hope it's going good. I hope you get those super chats. Let's go. That's >> right. Okay. I hope that's what this is going to be. All right. >> I think so. Second. Um, yeah, Liam, this is this is really serious stuff. Um, >> okay. >> There's a little guy and an old guy. They challenged They said I wouldn't do",
+      "involved_entity_ids": [
+        "person:katy"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:katy",
+          "matched_alias": "Katie",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 1,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "O5BcX4ir3-0",
+        "title": "The Tribunal of Liam Gray | DROPBOX DRAMA",
+        "channel": "KatyDid",
+        "published_at": "2026-07-10T18:12:59+00:00",
+        "timestamp_seconds": 169.36,
+        "timestamp_display": "02:49",
+        "url": "https://www.youtube.com/watch?v=O5BcX4ir3-0",
+        "receipt_url": "https://www.youtube.com/watch?v=O5BcX4ir3-0&t=169s",
+        "transcript_file": "transcripts/2026-07/The Tribunal of Liam Gray DROPBOX DRAMA [O5BcX4ir3-0].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:katy"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.71
+    },
+    {
+      "passage_id": "passage:O5BcX4ir3-0:180",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "is this is really serious stuff. Um,",
+      "context_before": "Liam, this is First of all, I want to say hello to Katie. I want to say hello to Trashcast. How's this eup going? I hope it's going good. I hope you get those super chats. Let's go. That's >> right. Okay. I hope that's what this is going to be. All right. >> I think so. Second. Um, yeah, Liam, this",
+      "context_after": ">> okay. >> There's a little guy and an old guy. They challenged They said I wouldn't do this. They said I wouldn't ask you three questions because our side of this shit fight is evil where we don't do things in good faith and uh you know we're the bad guys of",
+      "full_context": "Liam, this is First of all, I want to say hello to Katie. I want to say hello to Trashcast. How's this eup going? I hope it's going good. I hope you get those super chats. Let's go. That's >> right. Okay. I hope that's what this is going to be. All right. >> I think so. Second. Um, yeah, Liam, this is this is really serious stuff. Um, >> okay. >> There's a little guy and an old guy. They challenged They said I wouldn't do this. They said I wouldn't ask you three questions because our side of this shit fight is evil where we don't do things in good faith and uh you know we're the bad guys of",
+      "involved_entity_ids": [
+        "person:katy"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:katy",
+          "matched_alias": "Katie",
+          "alias_strength": "weak",
+          "confidence": 0.68
+        }
+      ],
+      "claim_term_count": 2,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "O5BcX4ir3-0",
+        "title": "The Tribunal of Liam Gray | DROPBOX DRAMA",
+        "channel": "KatyDid",
+        "published_at": "2026-07-10T18:12:59+00:00",
+        "timestamp_seconds": 180.319,
+        "timestamp_display": "03:00",
+        "url": "https://www.youtube.com/watch?v=O5BcX4ir3-0",
+        "receipt_url": "https://www.youtube.com/watch?v=O5BcX4ir3-0&t=180s",
+        "transcript_file": "transcripts/2026-07/The Tribunal of Liam Gray DROPBOX DRAMA [O5BcX4ir3-0].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:katy"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.79
+    },
+    {
+      "passage_id": "passage:O5BcX4ir3-0:1709",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "and hired me. You could have come and",
+      "context_before": "everyone's going to call me a cancel pig. and shit. So, like fucking it wasn't my problem. I just wanted nothing to fucking do with the guy. The guy done his time. I just wanted him blocked and away from me, far away from me. And like um you know, uh it's fucking I don't know. I'm sorry if you fucked your business up by hiring him, but you could have come",
+      "context_after": "said, \"Hey, Liam, you know, you got better art, too.\" But instead, all of the fucking people who I assume you're with, I'm going to assume that you're with, spent that entire time running around telling everyone I'm not a real artist. Instead of I said, \"If you pay me, I'll do art.\" And not one fucking person came forward to hire me until Frog Tony. So, you guys want to talk",
+      "full_context": "everyone's going to call me a cancel pig. and shit. So, like fucking it wasn't my problem. I just wanted nothing to fucking do with the guy. The guy done his time. I just wanted him blocked and away from me, far away from me. And like um you know, uh it's fucking I don't know. I'm sorry if you fucked your business up by hiring him, but you could have come and hired me. You could have come and said, \"Hey, Liam, you know, you got better art, too.\" But instead, all of the fucking people who I assume you're with, I'm going to assume that you're with, spent that entire time running around telling everyone I'm not a real artist. Instead of I said, \"If you pay me, I'll do art.\" And not one fucking person came forward to hire me until Frog Tony. So, you guys want to talk",
+      "involved_entity_ids": [
+        "person:frog-tony"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:frog-tony",
+          "matched_alias": "Frog Tony",
+          "alias_strength": "strong",
+          "confidence": 1.0
+        }
+      ],
+      "claim_term_count": 3,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "O5BcX4ir3-0",
+        "title": "The Tribunal of Liam Gray | DROPBOX DRAMA",
+        "channel": "KatyDid",
+        "published_at": "2026-07-10T18:12:59+00:00",
+        "timestamp_seconds": 1709.6,
+        "timestamp_display": "28:29",
+        "url": "https://www.youtube.com/watch?v=O5BcX4ir3-0",
+        "receipt_url": "https://www.youtube.com/watch?v=O5BcX4ir3-0&t=1709s",
+        "transcript_file": "transcripts/2026-07/The Tribunal of Liam Gray DROPBOX DRAMA [O5BcX4ir3-0].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:frog-tony"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.87
+    },
+    {
+      "passage_id": "passage:O5BcX4ir3-0:1711",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "said, \"Hey, Liam, you know, you got",
+      "context_before": "pig. and shit. So, like fucking it wasn't my problem. I just wanted nothing to fucking do with the guy. The guy done his time. I just wanted him blocked and away from me, far away from me. And like um you know, uh it's fucking I don't know. I'm sorry if you fucked your business up by hiring him, but you could have come and hired me. You could have come and",
+      "context_after": "better art, too.\" But instead, all of the fucking people who I assume you're with, I'm going to assume that you're with, spent that entire time running around telling everyone I'm not a real artist. Instead of I said, \"If you pay me, I'll do art.\" And not one fucking person came forward to hire me until Frog Tony. So, you guys want to talk shit? I've been in galleries. I've been",
+      "full_context": "pig. and shit. So, like fucking it wasn't my problem. I just wanted nothing to fucking do with the guy. The guy done his time. I just wanted him blocked and away from me, far away from me. And like um you know, uh it's fucking I don't know. I'm sorry if you fucked your business up by hiring him, but you could have come and hired me. You could have come and said, \"Hey, Liam, you know, you got better art, too.\" But instead, all of the fucking people who I assume you're with, I'm going to assume that you're with, spent that entire time running around telling everyone I'm not a real artist. Instead of I said, \"If you pay me, I'll do art.\" And not one fucking person came forward to hire me until Frog Tony. So, you guys want to talk shit? I've been in galleries. I've been",
+      "involved_entity_ids": [
+        "person:frog-tony"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:frog-tony",
+          "matched_alias": "Frog Tony",
+          "alias_strength": "strong",
+          "confidence": 1.0
+        }
+      ],
+      "claim_term_count": 3,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "O5BcX4ir3-0",
+        "title": "The Tribunal of Liam Gray | DROPBOX DRAMA",
+        "channel": "KatyDid",
+        "published_at": "2026-07-10T18:12:59+00:00",
+        "timestamp_seconds": 1711.039,
+        "timestamp_display": "28:31",
+        "url": "https://www.youtube.com/watch?v=O5BcX4ir3-0",
+        "receipt_url": "https://www.youtube.com/watch?v=O5BcX4ir3-0&t=1711s",
+        "transcript_file": "transcripts/2026-07/The Tribunal of Liam Gray DROPBOX DRAMA [O5BcX4ir3-0].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:frog-tony"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.87
+    },
+    {
+      "passage_id": "passage:O5BcX4ir3-0:1726",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "person came forward to hire me until",
+      "context_before": "by hiring him, but you could have come and hired me. You could have come and said, \"Hey, Liam, you know, you got better art, too.\" But instead, all of the fucking people who I assume you're with, I'm going to assume that you're with, spent that entire time running around telling everyone I'm not a real artist. Instead of I said, \"If you pay me, I'll do art.\" And not one fucking",
+      "context_after": "Frog Tony. So, you guys want to talk shit? I've been in galleries. I've been paid upwards of $3,000 for show art, you know, like um that's been displayed in in museums, you know? I've been doing this for like 16 years. And not in that entire time of ComicCate, like nearly 10 years. While all you motherfuckers were",
+      "full_context": "by hiring him, but you could have come and hired me. You could have come and said, \"Hey, Liam, you know, you got better art, too.\" But instead, all of the fucking people who I assume you're with, I'm going to assume that you're with, spent that entire time running around telling everyone I'm not a real artist. Instead of I said, \"If you pay me, I'll do art.\" And not one fucking person came forward to hire me until Frog Tony. So, you guys want to talk shit? I've been in galleries. I've been paid upwards of $3,000 for show art, you know, like um that's been displayed in in museums, you know? I've been doing this for like 16 years. And not in that entire time of ComicCate, like nearly 10 years. While all you motherfuckers were",
+      "involved_entity_ids": [
+        "person:frog-tony"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:frog-tony",
+          "matched_alias": "Frog Tony",
+          "alias_strength": "strong",
+          "confidence": 1.0
+        }
+      ],
+      "claim_term_count": 1,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "O5BcX4ir3-0",
+        "title": "The Tribunal of Liam Gray | DROPBOX DRAMA",
+        "channel": "KatyDid",
+        "published_at": "2026-07-10T18:12:59+00:00",
+        "timestamp_seconds": 1726.799,
+        "timestamp_display": "28:46",
+        "url": "https://www.youtube.com/watch?v=O5BcX4ir3-0",
+        "receipt_url": "https://www.youtube.com/watch?v=O5BcX4ir3-0&t=1726s",
+        "transcript_file": "transcripts/2026-07/The Tribunal of Liam Gray DROPBOX DRAMA [O5BcX4ir3-0].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:frog-tony"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.71
+    },
+    {
+      "passage_id": "passage:O5BcX4ir3-0:1741",
+      "passage_type": "single_person_claim_passage",
+      "claim_excerpt": "this for like 16 years. And not in that",
+      "context_before": "artist. Instead of I said, \"If you pay me, I'll do art.\" And not one fucking person came forward to hire me until Frog Tony. So, you guys want to talk shit? I've been in galleries. I've been paid upwards of $3,000 for show art, you know, like um that's been displayed in in museums, you know? I've been doing",
+      "context_after": "entire time of ComicCate, like nearly 10 years. While all you motherfuckers were running around saying, \"I'm not an artist.\" And I was saying, \"I'll only draw if you pay me.\" Not one motherfucker said, \"Hey, I'll hire you or will you draw something for me?\" Not one. So, it's like if you're like upset that you were like you",
+      "full_context": "artist. Instead of I said, \"If you pay me, I'll do art.\" And not one fucking person came forward to hire me until Frog Tony. So, you guys want to talk shit? I've been in galleries. I've been paid upwards of $3,000 for show art, you know, like um that's been displayed in in museums, you know? I've been doing this for like 16 years. And not in that entire time of ComicCate, like nearly 10 years. While all you motherfuckers were running around saying, \"I'm not an artist.\" And I was saying, \"I'll only draw if you pay me.\" Not one motherfucker said, \"Hey, I'll hire you or will you draw something for me?\" Not one. So, it's like if you're like upset that you were like you",
+      "involved_entity_ids": [
+        "person:frog-tony"
+      ],
+      "entity_matches": [
+        {
+          "entity_id": "person:frog-tony",
+          "matched_alias": "Frog Tony",
+          "alias_strength": "strong",
+          "confidence": 1.0
+        }
+      ],
+      "claim_term_count": 2,
+      "source": {
+        "source_type": "youtube",
+        "video_id": "O5BcX4ir3-0",
+        "title": "The Tribunal of Liam Gray | DROPBOX DRAMA",
+        "channel": "KatyDid",
+        "published_at": "2026-07-10T18:12:59+00:00",
+        "timestamp_seconds": 1741.44,
+        "timestamp_display": "29:01",
+        "url": "https://www.youtube.com/watch?v=O5BcX4ir3-0",
+        "receipt_url": "https://www.youtube.com/watch?v=O5BcX4ir3-0&t=1741s",
+        "transcript_file": "transcripts/2026-07/The Tribunal of Liam Gray DROPBOX DRAMA [O5BcX4ir3-0].json"
+      },
+      "interpretation": {
+        "speaker_entity_id": null,
+        "attributed_speaker_entity_id": null,
+        "recipient_entity_ids": [],
+        "subject_entity_ids": [
+          "person:frog-tony"
+        ],
+        "confidence": 0.0
+      },
+      "confidence": 0.79
+    }
+  ]
+}
