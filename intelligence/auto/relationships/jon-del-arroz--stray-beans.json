@@ -1,0 +1,32 @@
+{
+  "relationship_id": "jon-del-arroz--stray-beans",
+  "left": "Jon Del Arroz",
+  "right": "Stray Beans",
+  "signals": [
+    {
+      "video_id": "MmvMoleX9Ls",
+      "episode_title": "Gabbing With Ga......You Know",
+      "source": "FFS Cast",
+      "left": "Jon Del Arroz",
+      "right": "Stray Beans",
+      "signal_type": "criticised",
+      "timestamp": "01:00:01",
+      "confidence": 0.45,
+      "receipt": ">> YOU PEOPLE. I COME HERE EVERY WEEK, OKAY? [laughter] I come here every week as high energy as possible, as funny and as friendly and as caring as I can be, AND Y'ALL JUST SLING [ __ ] ALL OVER THE HOUSE. >> Every week. >> It's every goddamn day. >> Every night, night and day, I work my fingers to the bone. And for what? >> Shut up and answer me when I talk to you. >> Every day I slave away over this hot computer AND I GET NO [ __ ] R",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "ibGd2AqrEXg",
+      "episode_title": "JON DEL ARROZ: HERES THE ATTENTION YOU ORDERED - SHANE DAVIS BACK ME BRO INTERNET BEEF - EXTRA SALTY",
+      "source": "Commi3 Mark",
+      "left": "Jon Del Arroz",
+      "right": "Stray Beans",
+      "signal_type": "criticised",
+      "timestamp": "24:01",
+      "confidence": 0.45,
+      "receipt": "it. Like that's people who watched the video >> pause like um and then left again. So >> that's funny. Look how high it is. Like it's the highest point of the show. 40% of people tune in to watch. >> That's the only reason. >> This is why I'm saying you know what you need to do is you need to move that segment around. Uh, and like never have it in a regular spot for long. [laughter] >> So, people have to watch the whole thing in order t",
+      "warning": "co-mention plus language signal; requires interpretation"
+    }
+  ],
+  "updated_at": "2026-07-15T21:04:37.004200+00:00"
+}

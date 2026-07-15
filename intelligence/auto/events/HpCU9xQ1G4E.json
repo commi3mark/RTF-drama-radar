@@ -1,0 +1,73 @@
+{
+  "schema_version": "octopuss-auto-event-v0.1",
+  "event_id": "HpCU9xQ1G4E",
+  "title": "(RE-UPLOAD)The Aftermath Of Frog Tony's EMBARRASSING appearance on The Biggest Problem",
+  "source": "KatyDid",
+  "published": "2026-07-03T12:21:34+00:00",
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "06:45",
+      "title": "Frog Tony / Vito Gesualdi / Dick Masterson",
+      "entities": [
+        "Frog Tony",
+        "Vito Gesualdi",
+        "Dick Masterson",
+        "Liam Gray"
+      ],
+      "summary_seed": "Look at this. Comic book superstar. He's in here listening to this shit that you're talking about. >> Fantastic. Well, he knows what I'm talking about. >> What the fuck are you talking about? >> I'm talking about Star Wars uh Star Trek Academy is being torn down. >> Vito, you have TO SLOW DOWN. >> [laughter] >> YOU HAVE TO SLOW DOWN ON SUPER KILLER. YOU'RE working yourself into exhaustion and malnutrition. >> aggress",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Frog Tony",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.86,
+        "positive_hits": 40,
+        "negative_hits": 3
+      }
+    },
+    {
+      "entity": "Vito Gesualdi",
+      "importance": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.86,
+        "positive_hits": 40,
+        "negative_hits": 3
+      }
+    },
+    {
+      "entity": "Dick Masterson",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.86,
+        "positive_hits": 40,
+        "negative_hits": 3
+      }
+    },
+    {
+      "entity": "Liam Gray",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.86,
+        "positive_hits": 40,
+        "negative_hits": 3
+      }
+    }
+  ],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

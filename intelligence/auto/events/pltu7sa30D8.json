@@ -1,0 +1,155 @@
+{
+  "schema_version": "octopuss-auto-event-v0.1",
+  "event_id": "pltu7sa30D8",
+  "title": "Scarlett lives her best life | #932",
+  "source": "Ministry of Dude",
+  "published": "2026-07-08T21:44:21+00:00",
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "12:03",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": "Heat. [music] [music] [music] Heat. >> [music] >> Heat. Heat. [music] >> [music] [music] >> Heat. Heat. [music] >> [music] [music] [music] >> Heat. Heat. Heat. [music] Heat. N. [music] [music] >> [music] [music] >> Heat. Heat. >> [music] [music] >> Heat. Heat. [music] Heat. Heat. [music] Heat. Heat. Heat. Heat. [music] [music] >> [music] [music] >> Heat. [music] Heat. Heat. [music] [music] >> [music] >> Heat. Heat. [",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "12:01",
+      "end": "24:04",
+      "title": "Shane Davis",
+      "entities": [
+        "Shane Davis"
+      ],
+      "summary_seed": "like not even a lit cigarette. >> You get just get out of here, you [ __ ] kids. This is not play place. This is where people live and sleep. Get out of here. I'm practicing. I'm trying. [laughter] >> By the way, Stephen sent like three 3,800 juice. >> That might be a whole >> See, we got um what we got? We got We got to go all the way to the top. I just Oh, why am I not in the fan funding one? There we go. Oh my god",
+      "clip_likelihood": false,
+      "transition_markers": 2
+    },
+    {
+      "start": "24:01",
+      "end": "36:04",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": "litigating civil cases in federal courts all over the country, including many jury trials. So, let's get into the analysis. Just before 9:00 a.m. Utah time this morning, Judge David Barlo issued this order granting the party's joint motion for the preliminary injunction, which specifically removes the gag order. So, let's take a look at this. >> Reckless Ben [cheering] can talk again. >> I don't know if you guys have",
+      "clip_likelihood": false,
+      "transition_markers": 2
+    },
+    {
+      "start": "36:01",
+      "end": "46:50",
+      "title": "Dick Masterson",
+      "entities": [
+        "Dick Masterson"
+      ],
+      "summary_seed": "did to Law Gorman's and what they did to uh uh the Brian Mansel family. >> Oh god. pig face as a hell of a cam. >> Yeah, it seems like uh that's uh that's just the thing they do. Um so I was this is a short one. I just saw this today and I thought this was hilarious considering who it's coming from. You guys remember this guy? Oh, you guys remember this guy? [applause] this very short game, man. [applause] >> So, app",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    },
+    {
+      "start": "48:54",
+      "end": "01:00:02",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": "Yeah, dude. Were you not paying attention? >> I thought it was a She has a weapon. >> I thought she was holding a pull queue. >> No, she had a dur blow gun. They put a dart in a blow gun till >> I don't think that's a a thing the bar has. I think she brought that >> which means she owes a blow owns a blow dart gun. >> I I hope she brought it. >> Kyle, there is no dark scar bro. >> In hell this blowdart gun was at the",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    },
+    {
+      "start": "01:00:00",
+      "end": "01:12:02",
+      "title": "Ethan Van Sciver / Frog Tony",
+      "entities": [
+        "Ethan Van Sciver",
+        "Frog Tony"
+      ],
+      "summary_seed": "I think I heard it. >> I thought she was drinking alone. >> I I kind of skimmed this before the show and I cuz you never She never shows what guy she's with. >> True. >> I thought she was drinking alone the entire time. I'm honestly like I was more surprised that she was drinking alone. >> But now like some guy's trying to hit on her by letting her shoot his blow darts. It's a very odd he doesn't go to his voice befo",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    },
+    {
+      "start": "01:12:00",
+      "end": "01:24:03",
+      "title": "Ethan Van Sciver / Dick Masterson",
+      "entities": [
+        "Ethan Van Sciver",
+        "Dick Masterson"
+      ],
+      "summary_seed": "I'm sorry. No, that's that's wrong. We are $22 from the Charizard. >> Oh, [ __ ] >> Yeah. >> I don't know. [music] Miller life Milwaukee [music] Milwaukee. Anyways, I'm uh live but just for a minute uh uh I uh was just playing darts and I wanted to say happy 4th to everyone. I love everybody. >> Wow. >> But honestly, >> blow darts. This is me like pulling an Ethan on you >> cuz it's like, \"Hey, let's go IRL in a bar.",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "01:24:01",
+      "end": "01:31:04",
+      "title": "Ethan Van Sciver / Dick Masterson / Aaron Imholte",
+      "entities": [
+        "Ethan Van Sciver",
+        "Dick Masterson",
+        "Aaron Imholte"
+      ],
+      "summary_seed": "soil. I don't want to get my passport renewed cuz I want I want to be American forever. Um, >> you want to be American forever? That's cool. >> My friends are always responsible. Like they're telling me it's [music] time to go. And then >> what friends? Who are your friends? Are the friends in this room right now? You you speak up. >> Let's go to Miami. >> Do not ask her who else is in the room. [music] You might get",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Ethan Van Sciver",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.862,
+        "positive_hits": 135,
+        "negative_hits": 10
+      }
+    },
+    {
+      "entity": "Dick Masterson",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.895,
+        "positive_hits": 126,
+        "negative_hits": 7
+      }
+    },
+    {
+      "entity": "Frog Tony",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.818,
+        "positive_hits": 60,
+        "negative_hits": 6
+      }
+    },
+    {
+      "entity": "Aaron Imholte",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "positive_hits": 19,
+        "negative_hits": 0
+      }
+    },
+    {
+      "entity": "Shane Davis",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.708,
+        "positive_hits": 41,
+        "negative_hits": 7
+      }
+    }
+  ],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "schema_version": "octopuss-preanalysis-v0.1",
+  "generated_at": "2026-07-15T21:04:16.729397+00:00",
+  "video_id": "dcgJdp8BRKs",
+  "title": "Professional Streamer TheQuartering - Gooners Gonna Goon (Jul 14, 2026)",
+  "source": "Elissa Clips",
+  "published": "2026-07-14T22:21:40+00:00",
+  "packet_hash": "fdae0f5f099947753d5898e30a5278101183923fd2033204d00ce7df29cabf01",
+  "coverage": {
+    "first_caption_second": 0.24,
+    "last_caption_second": 688.24,
+    "timestamp_start": "00:00",
+    "timestamp_end": "11:28",
+    "caption_span_seconds": 688.0,
+    "status": "transcript_present",
+    "note": "This measures the caption span only. It does not prove complete coverage of the original video."
+  },
+  "participant_candidates": [
+    {
+      "entity": "Elissa Clips",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.72,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "TheQuartering",
+      "mentions": 3,
+      "block_count": 1,
+      "first_timestamp": "00:00",
+      "last_timestamp": "11:28",
+      "discussion_span_seconds": 688.0,
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.893,
+        "positive_hits": 53,
+        "negative_hits": 3
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "out of my country. [music] >> Hey, happy [screaming] >> happy Tuesday everybody. How's your Tuesday going? >> Good. It's going great. Happy to report, you heard it here first, guys. Walmart is not racist anymore. >> It's true. It's It's the end of an era. I think I just been mixing it up a little bit on the on the on the opener just because, you know, I'd like a new countdown eventually here once we get time. But, >> you know, I try to"
+        }
+      ],
+      "appearance_status": "uncertain"
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "11:28",
+      "title": "TheQuartering",
+      "entities": [
+        "TheQuartering"
+      ],
+      "summary_seed": "out of my country. [music] >> Hey, happy [screaming] >> happy Tuesday everybody. How's your Tuesday going? >> Good. It's going great. Happy to report, you heard it here first, guys. Walmart is not racist anymore. >> It's true. It's It's the end of an era. I think I just been mixing it up a little bit on the on the on the opener just because, you know, I'd like a new countdown eventually here once we get time. But, >>",
+      "clip_likelihood": false,
+      "transition_markers": 2
+    }
+  ],
+  "claim_candidates": [
+    {
+      "claimant": "unknown speaker",
+      "claim": "I just been mixing it up a little bit on the on the on the opener just because, you know, I'd like a new countdown eventually here once we get time.",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think I just been mixing it up a little bit on the on the on the opener just because, you know, I'd like a new countdown eventually here once we get time."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "I don't I think that's what it's called.",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "you can I think I don't I think that's what it's called."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that also the athletes just as long as And I think they are given the option with some of their outfits like",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "Um, and I think that also the athletes just as long as And I think they are given the option with some of their outfits like"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that's the more important thing uh for me is that the the athletes who are performing they're comfortable with it.",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think that's the more important thing uh for me is that the the athletes who are performing they're comfortable with it."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "the original competitors were nude.",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "And I think the original competitors were nude."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "we've come a long way.",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "So, I mean, I think we've come a long way."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "we have come a long way.",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think we have come a long way."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that as society, we have to find that balance between like",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "And that's that's the thing, too, is I think that as society, we have to find that balance between like"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "the problem I have with it is is really the implication of it.",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "And I think the problem I have with it is is really the implication of it."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that gooners are going to goon whether they wear long shorts or short shorts.",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "I mean, maybe, you know, I think that gooners are going to goon whether they wear long shorts or short shorts."
+    }
+  ],
+  "quote_candidates": [
+    {
+      "timestamp": "00:00",
+      "text": "And it's like, wow, this is, you know, it's pretty inspiring to see to see really fit people doing really cool things that we can never do.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "00:00",
+      "text": "if you're not saying I ever did this, okay, because I would never do this.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "00:00",
+      "text": "ycoin, I'm always like, \"Okay, well, you know, I'd say, you know, my not that I ever did this.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "00:00",
+      "text": "we won't always have the the blessing of being on the homepage.",
+      "significance_score": 1
+    }
+  ],
+  "relationship_signals": [],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

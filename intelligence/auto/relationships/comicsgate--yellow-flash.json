@@ -1,0 +1,20 @@
+{
+  "relationship_id": "comicsgate--yellow-flash",
+  "left": "ComicsGate",
+  "right": "Yellow Flash",
+  "signals": [
+    {
+      "video_id": "MOQPFnHJYR0",
+      "episode_title": "Cynic Got CATFISHED And EVS Continues To SPIRAL On Thirsty Thursday!",
+      "source": "Frog Tony",
+      "left": "ComicsGate",
+      "right": "Yellow Flash",
+      "signal_type": "defended",
+      "timestamp": "01:24:00",
+      "confidence": 0.45,
+      "receipt": "talking about the past. >> We were talking about two, three years ago. See, >> talk about the future. >> No. Okay. So, clearly either weren't listening. Carbon's going where we're having a conversation about the past of ComicsGate and he's like why? Who cares? Who cares about the past of comics? Talk about the future. >> That is the problem. Yeah. You don't care. >> You mean the future where he said uh 10 months ago that he was going to deliver c",
+      "warning": "co-mention plus language signal; requires interpretation"
+    }
+  ],
+  "updated_at": "2026-07-15T21:04:39.457542+00:00"
+}

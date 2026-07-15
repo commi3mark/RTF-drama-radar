@@ -1,0 +1,842 @@
+{
+  "schema_version": "octopuss-preanalysis-v0.1",
+  "generated_at": "2026-07-15T21:04:22.930110+00:00",
+  "video_id": "lYws0Rqt8Bs",
+  "title": "Supergirl BOMBS And Might END The DCU! - CG Suburbs",
+  "source": "Frog Tony",
+  "published": "2026-07-06T04:14:55+00:00",
+  "packet_hash": "f763f46a0535df17a99f39b527e192fd6371a6b9ef3abf1f11c8621beecbe583",
+  "coverage": {
+    "first_caption_second": 0.654,
+    "last_caption_second": 8525.52,
+    "timestamp_start": "00:00",
+    "timestamp_end": "02:22:05",
+    "caption_span_seconds": 8524.866,
+    "status": "transcript_present",
+    "note": "This measures the caption span only. It does not prove complete coverage of the original video."
+  },
+  "participant_candidates": [
+    {
+      "entity": "Frog Tony",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.72,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Frog Tony",
+      "mentions": 24,
+      "block_count": 2,
+      "first_timestamp": "00:00",
+      "last_timestamp": "24:04",
+      "discussion_span_seconds": 1444.0,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.832,
+        "positive_hits": 98,
+        "negative_hits": 9
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "king and my father told me it's okay [music] Get you dream. [music] [music] [music] >> [music] [music] >> What's up, meat bags, and welcome Welcome to the comic skate suburbs. We are your host. I am the ghetto superstar frog Tony. He is the odd toy fanboy and of course down below stray [ __ ] beans. What up everybody? How you going gentlemen? How's it going? >> Hi ho. >> That's teenag me for real. For real says TJ Vinbar says I've never appeared"
+        },
+        {
+          "timestamp": "12:00",
+          "excerpt": "Project Hail Mary. If you haven't seen that, you should. That was a [ __ ] great movie. Best thing I've seen all year. Great movie. >> What's the premise? I've seen I seen the um >> the poster for >> the premise is the premise is basically what the name is. It's last stitch [clears throat] effort to save Earth. And you know, they send in this team of you know, people to go on this mission to figure out like our sun is dimming. We figure"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Liam Gray",
+      "mentions": 19,
+      "block_count": 2,
+      "first_timestamp": "00:00",
+      "last_timestamp": "24:04",
+      "discussion_span_seconds": 1444.0,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.832,
+        "positive_hits": 98,
+        "negative_hits": 9
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "ght beans doesn't get a guest starring. Straight beans. >> Yeah, the total accurate thing of thin bar is really nice. >> Yeah, it really is. I mean, that is exactly what he looks like behind the avatar. And there he is. Liam Gray. I was demanding >> Liam Gray. Hold on. >> How you doing? >> I was demanding him. I wanted Liam Gray tonight because we have something super special for Mr. Gray. >> He's a terrible like everything else in my [ __ ] lif"
+        },
+        {
+          "timestamp": "12:00",
+          "excerpt": "en with the shitty internet.\" >> Uh >> Oh, sure. You weren't here for me or But you saw all the other people show up and then you just had to be a part of it. >> Exactly. Big reunion over here. >> Oh, and of course, Mr. Liam Gray, who I requested his presence. How you doing, Liam? >> Wasn't I'm sorry for the slow. I'm babysitting l at the same time while it's on pace and I'm solo parenting. But um yeah, I've had better days. I'm going be honest."
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Stray Beans",
+      "mentions": 4,
+      "block_count": 2,
+      "first_timestamp": "00:00",
+      "last_timestamp": "24:04",
+      "discussion_span_seconds": 1444.0,
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.832,
+        "positive_hits": 98,
+        "negative_hits": 9
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "[music] Hey everybody, my name is Eouble. Their name is PJ Harvey. Let's go. [music] Mama told me Yeah. [music] Mama told me. Yeah. Yeah. Come on. [music] Mama told me one day I'mma grow up big and I'mma be a king. And my papa told me it's okay to [music] say [ __ ] So forget your dreams cuz they'll get you through this. So life they call living but I call it [music] strange and I bet I'll do it cuz I'm on my way strong enough that I sh"
+        },
+        {
+          "timestamp": "12:00",
+          "excerpt": "at's going on there. And then, you know, things transpire. >> Maybe God didn't pay his electrical bill, you know. >> Yeah. But it it dude, it's so good. >> Really really like I've heard that, too. That looks awesome. >> Stray Beans, have you ever seen Tomorrow When the War Began? It's a Red Dawn movie, but in Australia. >> That's I've never seen it, but that novel is taught in pretty much all Australian schools. So, it's a it's a well-known >> it'"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Eric July",
+      "mentions": 3,
+      "block_count": 1,
+      "first_timestamp": "12:00",
+      "last_timestamp": "24:04",
+      "discussion_span_seconds": 724.6,
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.782,
+        "positive_hits": 49,
+        "negative_hits": 6
+      },
+      "receipts": [
+        {
+          "timestamp": "12:00",
+          "excerpt": "n the chats lurking that so that's the new the new narrative and and then to further hammer home that new narrative hold on to further hammer home that new narrative they then also said that I didn't start talking about Eric July until Comics Gate was already sick of Eric [ __ ] that I only talked about Eric July to cozy up to Comics Gate which is 100% % factually untrue. Go back. I was here talking about Eric July, talking about Ism, talking ab"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Dick Masterson",
+      "mentions": 2,
+      "block_count": 1,
+      "first_timestamp": "01:36:01",
+      "last_timestamp": "01:48:02",
+      "discussion_span_seconds": 721.5,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.789,
+        "positive_hits": 51,
+        "negative_hits": 6
+      },
+      "receipts": [
+        {
+          "timestamp": "01:36:01",
+          "excerpt": "Firefist to become a bastard like he is. Like I kind of wish Globo was like that with the girl >> in in either. >> Here's the thing. I I I actually uh failed to pay attention to she hands the murder weapon back to the girl. >> Well, because it's her sword. The dream of of prime general as Wonder Woman won't leave me. Says hobo vicious. >> You're a kid. You're a kid. >> In the original seven ending, it was Morgan Freeman that was suppose"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "ComicsGate",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "12:00",
+      "last_timestamp": "24:04",
+      "discussion_span_seconds": 724.6,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.782,
+        "positive_hits": 49,
+        "negative_hits": 6
+      },
+      "receipts": [
+        {
+          "timestamp": "12:00",
+          "excerpt": "Project Hail Mary. If you haven't seen that, you should. That was a [ __ ] great movie. Best thing I've seen all year. Great movie. >> What's the premise? I've seen I seen the um >> the poster for >> the premise is the premise is basically what the name is. It's last stitch [clears throat] effort to save Earth. And you know, they send in this team of you know, people to go on this mission to figure out like our sun is dimming. We figure"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Ethan Van Sciver",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "12:00",
+      "last_timestamp": "24:04",
+      "discussion_span_seconds": 724.6,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.782,
+        "positive_hits": 49,
+        "negative_hits": 6
+      },
+      "receipts": [
+        {
+          "timestamp": "12:00",
+          "excerpt": "Project Hail Mary. If you haven't seen that, you should. That was a [ __ ] great movie. Best thing I've seen all year. Great movie. >> What's the premise? I've seen I seen the um >> the poster for >> the premise is the premise is basically what the name is. It's last stitch [clears throat] effort to save Earth. And you know, they send in this team of you know, people to go on this mission to figure out like our sun is dimming. We figure"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Fencegate",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "02:12:00",
+      "last_timestamp": "02:22:05",
+      "discussion_span_seconds": 604.6,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.824,
+        "positive_hits": 62,
+        "negative_hits": 6
+      },
+      "receipts": [
+        {
+          "timestamp": "02:12:00",
+          "excerpt": "right? >> Yeah. >> I never heard of that. I never even heard of that. >> Know what I mean? Hey Vern, it's my family album. It's like an anthology movie, but it's not a theatrical movie, >> just all commercials. >> But you got Ernest goes to camp, Ernest saves Christmas, Ernest goes to jail, Ernest Scared Stupid, Ernest rides again, Ernest goes to school, slam dunk Ernest, Ernest goes to Africa, and then Ernest in the army. And [clears t"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Little Movie Perp",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "12:00",
+      "last_timestamp": "24:04",
+      "discussion_span_seconds": 724.6,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.782,
+        "positive_hits": 49,
+        "negative_hits": 6
+      },
+      "receipts": [
+        {
+          "timestamp": "12:00",
+          "excerpt": "Project Hail Mary. If you haven't seen that, you should. That was a [ __ ] great movie. Best thing I've seen all year. Great movie. >> What's the premise? I've seen I seen the um >> the poster for >> the premise is the premise is basically what the name is. It's last stitch [clears throat] effort to save Earth. And you know, they send in this team of you know, people to go on this mission to figure out like our sun is dimming. We figure"
+        }
+      ],
+      "appearance_status": "uncertain"
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "12:01",
+      "title": "Liam Gray / Stray Beans / Frog Tony",
+      "entities": [
+        "Liam Gray",
+        "Stray Beans",
+        "Frog Tony"
+      ],
+      "summary_seed": "[music] Hey everybody, my name is Eouble. Their name is PJ Harvey. Let's go. [music] Mama told me Yeah. [music] Mama told me. Yeah. Yeah. Come on. [music] Mama told me one day I'mma grow up big and I'mma be a king. And my papa told me it's okay to [music] say [ __ ] So forget your dreams cuz they'll get you through this. So life they call living but I call it [music] strange and I bet I'll do it cuz I'm on my way str",
+      "clip_likelihood": false,
+      "transition_markers": 2
+    },
+    {
+      "start": "12:00",
+      "end": "24:04",
+      "title": "Frog Tony / Liam Gray / Eric July",
+      "entities": [
+        "Frog Tony",
+        "Liam Gray",
+        "Eric July",
+        "Stray Beans",
+        "ComicsGate",
+        "Ethan Van Sciver",
+        "Little Movie Perp"
+      ],
+      "summary_seed": "Project Hail Mary. If you haven't seen that, you should. That was a [ __ ] great movie. Best thing I've seen all year. Great movie. >> What's the premise? I've seen I seen the um >> the poster for >> the premise is the premise is basically what the name is. It's last stitch [clears throat] effort to save Earth. And you know, they send in this team of you know, people to go on this mission to figure out like our sun i",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "24:02",
+      "end": "36:03",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": ">> Well, look at the bright side. If they didn't use them, it's probably because they wanted to give them good screen time for the second movie, which could still happen. Oh, they said that they're probably going to greenlight a second movie. >> Yeah, they said. Yeah, and I hope so. I mean, I I thought it would be better to go Horde for the second movie and then Snakeman for the third, but I don't know if we'll get a",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "36:00",
+      "end": "48:04",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": "was just like a big >> no one's no one's coming for Beastman though. You know what I mean? No one's tuning in for Beast Man. Though, here's some trivia for you guys. Do you know that Beastman was actually the first villain ever developed for the Master Universe franchise? He was like He-Man's main nemesis before >> the real the original trio of villain is Skeletor, Evelyn, and Beast Man. >> Oh [ __ ] look who this is",
+      "clip_likelihood": false,
+      "transition_markers": 3
+    },
+    {
+      "start": "48:00",
+      "end": "01:00:04",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": "Uh, so far the book is has 1500 illustrations. Uh, we're nearing 400 pages and uh, I'm about halfway. >> Nice. >> It's going to be beautiful. And >> so you can show us him opening the door. >> Oh, no, no, no, no. This is a series of pages. This is from uh, well, he's not the destroyer yet. So, uh this is 106. So, >> this is AI. >> Well, of course, >> we like to say AI plus. George takes AI and then does stuff to it.",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "01:00:01",
+      "end": "01:12:02",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": "the answer is, meaning the render. It actually said, \"Okay, so uh no problem. Here you go.\" >> Once I once I cracked that, everything else was just a matter of actually waiting for the renders to happen. I hit a lot of bottlenecks in this production. uh at at a certain point all the AIS all of them uh they will say I'm sorry you you capped it out you can't do any more renders until 24 hours from now it's like >> why'",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    },
+    {
+      "start": "01:12:01",
+      "end": "01:24:03",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": "has to wonder whether that's the right choice for the next DCU movie to move forward after Supergirl Squad. >> Says DC Studios is developing multiple villain projects, >> marking a rather strange decision given Sony >> Sony. NOW, WHAT'S GOING ON HERE? It seemed likely that the fate of Deathstroke and Bane's crossover won't be decided until after Clayface. Perhaps hinging on how the DCU's first villain focused movie p",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "01:24:01",
+      "end": "01:36:03",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": "anyway. OKAY. EVERYONE HAS >> WHOA, WHOA, WHOA. >> Everyone has a [ __ ] weird nostalgia boner for it. Wait [ __ ] good. >> Tony, wait. Tony. Tony. >> The originalers. Come on. >> Wait. Wait, hold a sec, Tony. If 2016 Ghostbusters wasn't actually titled Ghostbusters, it was titled um uh uh Chicks with Ray Guns, Do you think it would still be okay? >> Yeah. Wheeler would have loved >> No, no, no, no. Okay. You see, ok",
+      "clip_likelihood": false,
+      "transition_markers": 3
+    },
+    {
+      "start": "01:36:01",
+      "end": "01:48:02",
+      "title": "Dick Masterson",
+      "entities": [
+        "Dick Masterson"
+      ],
+      "summary_seed": "Firefist to become a bastard like he is. Like I kind of wish Globo was like that with the girl >> in in either. >> Here's the thing. I I I actually uh failed to pay attention to she hands the murder weapon back to the girl. >> Well, because it's her sword. The dream of of prime general as Wonder Woman won't leave me. Says hobo vicious. >> You're a kid. You're a kid. >> In the original seven ending, it was Morgan Free",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    },
+    {
+      "start": "01:48:01",
+      "end": "02:00:05",
+      "title": "Clip/reaction: General discussion",
+      "entities": [],
+      "summary_seed": "being a trailer for a movie up until now. >> WE WATCHED THE TRAILER. I THINK YOU WERE ON PANEL ONE. >> I was watching your show, man. I was doing something. >> YOU WERE ON THE PANEL WATCHING THE DAMN TRAILER WITH US. >> You said, \"Well, I can't wait to see that movie.\" >> George, what's happening? >> You said, \"I can't wait to see this is a movie.\" And he's like paying attention. >> I think that's what it was. James",
+      "clip_likelihood": true,
+      "transition_markers": 1
+    },
+    {
+      "start": "02:00:02",
+      "end": "02:12:02",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": ">> Um, I I don't know because you would have to get you'd have to get a really good child actress to play the character. And some of the stuff >> Yeah. Well, some of the things is like um you have to put her in like adult situations, not like sexual situations, but like she has to be out there like people >> stealing and >> there's precedent with that with Hit Girl and Kickass. Like can that be that age? >> No, but t",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "02:12:00",
+      "end": "02:22:05",
+      "title": "Fencegate",
+      "entities": [
+        "Fencegate"
+      ],
+      "summary_seed": "right? >> Yeah. >> I never heard of that. I never even heard of that. >> Know what I mean? Hey Vern, it's my family album. It's like an anthology movie, but it's not a theatrical movie, >> just all commercials. >> But you got Ernest goes to camp, Ernest saves Christmas, Ernest goes to jail, Ernest Scared Stupid, Ernest rides again, Ernest goes to school, slam dunk Ernest, Ernest goes to Africa, and then Ernest in the",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    }
+  ],
+  "claim_candidates": [
+    {
+      "claimant": "unknown speaker",
+      "claim": "I'll rebound like the boys with rhyme and I am [music] just exactly what I will be.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "But I know I'll rebound like the boys with rhyme and I am [music] just exactly what I will be."
+    },
+    {
+      "claimant": "We trying to live life while they signal",
+      "claim": "left, but they really [music] going right.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "We trying to live life while they signal says left, but they really [music] going right."
+    },
+    {
+      "claimant": "For real says TJ Vinbar",
+      "claim": "I've never appeared on an episode of this but I still made the intro.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "For real says TJ Vinbar says I've never appeared on an episode of this but I still made the intro."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that he got he lost his Twitter, you know what I mean?",
+      "timestamp": "00:00",
+      "status": "hearsay_candidate",
+      "receipt": "I heard that he got he lost his Twitter, you know what I mean?"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "three years, right?",
+      "timestamp": "12:00",
+      "status": "opinion_or_inference",
+      "receipt": "I don't we won't really talk drama, but I'm going to uh just briefly touch on this, but it was weird because this person had repeatedly over the last I think three years, right?"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "the other day uh they were on Finatra stream and they decided actually they were around for two years prior to Tony being in this community.",
+      "timestamp": "12:00",
+      "status": "hearsay_candidate",
+      "receipt": "But I heard the other day uh they were on Finatra stream and they decided actually they were around for two years prior to Tony being in this community."
+    },
+    {
+      "claimant": "home that new narrative they then also",
+      "claim": "that I didn't start talking about Eric July until Comics Gate was already sick of Eric [ __ ] that I only talked about Eric July to cozy up to Comics Gate which is 100% % factually untrue.",
+      "timestamp": "12:00",
+      "status": "candidate_claim",
+      "receipt": "they they were here for two years uh in the chats lurking that so that's the new the new narrative and and then to further hammer home that new narrative hold on to further hammer home that new narrative they then also said that I didn't start talking about Eric July until Comics Gate was already sick of Eric [ __ ] that I only talked about Eric July to cozy up to Comics Gate which is 100% % factually untrue."
+    },
+    {
+      "claimant": "It's kind of we've",
+      "claim": "it before multiple times.",
+      "timestamp": "12:00",
+      "status": "candidate_claim",
+      "receipt": "It's kind of we've said it before multiple times."
+    },
+    {
+      "claimant": "You've",
+      "claim": "it before multiple times, but it's like guys, if we were really that concerned about staying in the good graces of greater CG, would we be going out on the branches we're going out on now?",
+      "timestamp": "12:00",
+      "status": "candidate_claim",
+      "receipt": "You've said it before multiple times, but it's like guys, if we were really that concerned about staying in the good graces of greater CG, would we be going out on the branches we're going out on now?"
+    },
+    {
+      "claimant": "just today I had someone say Liam",
+      "claim": "X.",
+      "timestamp": "12:00",
+      "status": "candidate_claim",
+      "receipt": "But like just to [ __ ] today, right, just today I had someone say Liam said X."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that there was uh Rattler as the uh he was red.",
+      "timestamp": "12:00",
+      "status": "candidate_claim",
+      "receipt": "Uh and then uh I know that there was uh Rattler as the uh he was red."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "in the the He-Man Masters of the Universe 2000 cartoon, I think he was green cuz he was like General Rattler.",
+      "timestamp": "12:00",
+      "status": "opinion_or_inference",
+      "receipt": "But I think in the the He-Man Masters of the Universe 2000 cartoon, I think he was green cuz he was like General Rattler."
+    },
+    {
+      "claimant": "they",
+      "claim": "that they're probably going to greenlight a second movie.",
+      "timestamp": "24:02",
+      "status": "candidate_claim",
+      "receipt": "Oh, they said that they're probably going to greenlight a second movie."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "she might be from a mini comic, but I'm not sure.",
+      "timestamp": "24:02",
+      "status": "opinion_or_inference",
+      "receipt": "I think she might be from a mini comic, but I'm not sure."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "he's had a figure since like the guy that had like the big long snake neck.",
+      "timestamp": "24:02",
+      "status": "candidate_claim",
+      "receipt": "I know he's had a figure since like the guy that had like the big long snake neck."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "it would work as a toy.",
+      "timestamp": "24:02",
+      "status": "opinion_or_inference",
+      "receipt": "The fang guy things I think it would work as a toy."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "if Snakeman could have worked in the first movie if you just started off with He-Man fighting Skeletor defeats him.",
+      "timestamp": "24:02",
+      "status": "opinion_or_inference",
+      "receipt": "we could have had Snakeman and I think if Snakeman could have worked in the first movie if you just started off with He-Man fighting Skeletor defeats him."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "they did all right.",
+      "timestamp": "24:02",
+      "status": "opinion_or_inference",
+      "receipt": "no, I think they did all right."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "Save the Snake Man for later.",
+      "timestamp": "24:02",
+      "status": "opinion_or_inference",
+      "receipt": "I think Save the Snake Man for later."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that's it goes to this.",
+      "timestamp": "24:02",
+      "status": "opinion_or_inference",
+      "receipt": "I think that's it goes to this."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that's what's behind the the hood.",
+      "timestamp": "24:02",
+      "status": "opinion_or_inference",
+      "receipt": "I think that's what's behind the the hood."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "this right here, this looks better.",
+      "timestamp": "24:02",
+      "status": "opinion_or_inference",
+      "receipt": "I think this right here, this looks better."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "with the big [ __ ] red bat on his chest and the brown fur and",
+      "timestamp": "36:00",
+      "status": "candidate_claim",
+      "receipt": "Yeah, that's the Grior I know with the big [ __ ] red bat on his chest and the brown fur and"
+    },
+    {
+      "claimant": "right here it",
+      "claim": "uh Beastman.",
+      "timestamp": "36:00",
+      "status": "candidate_claim",
+      "receipt": "So yeah, right here it says uh Beastman."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that it looks gay and [ __ ] on the surface and everyone pays it the [ __ ] out, but like the comics are really cool and it's like I always feel like it's the least actualized and realized franchise out of all of the 80s because you've got like really good Turtles movies.",
+      "timestamp": "36:00",
+      "status": "candidate_claim",
+      "receipt": "Like, I know that it looks gay and [ __ ] on the surface and everyone pays it the [ __ ] out, but like the comics are really cool and it's like I always feel like it's the least actualized and realized franchise out of all of the 80s because you've got like really good Turtles movies."
+    },
+    {
+      "claimant": "Danny McBride turned in his script and he",
+      "claim": "it publicly.",
+      "timestamp": "36:00",
+      "status": "candidate_claim",
+      "receipt": "Danny, uh, speaking of GI Joe, Danny McBride turned in his script and he said it publicly."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "the other two maybe did a pass or something.",
+      "timestamp": "36:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think the other two maybe did a pass or something."
+    },
+    {
+      "claimant": "but real quick",
+      "claim": "anything about his little image here.",
+      "timestamp": "36:00",
+      "status": "candidate_claim",
+      "receipt": "[ __ ] Uh, but real quick says anything about his little image here."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "a little bit about the Ju movie was supposedly it's going to be like in a small town with like Cobra takes over the",
+      "timestamp": "36:00",
+      "status": "hearsay_candidate",
+      "receipt": "What I heard a little bit about the Ju movie was supposedly it's going to be like in a small town with like Cobra takes over the"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "in the comments depending on which",
+      "timestamp": "36:00",
+      "status": "candidate_claim",
+      "receipt": "Uh, I know in the comments depending on which"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "him just being a normal dude, right?",
+      "timestamp": "36:00",
+      "status": "opinion_or_inference",
+      "receipt": "The movie's good, but I think him just being a normal dude, right?"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "it's from the comic books.",
+      "timestamp": "36:00",
+      "status": "opinion_or_inference",
+      "receipt": "Uh, I believe it's from the comic books."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "the uh the Crimson Guard.",
+      "timestamp": "36:00",
+      "status": "candidate_claim",
+      "receipt": "And I know the uh the Crimson Guard."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "in the comics they say that the Crimson Guard are actually uh like uh Manurion candidates type, like they just have regular lives and stuff.",
+      "timestamp": "36:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think in the comics they say that the Crimson Guard are actually uh like uh Manurion candidates type, like they just have regular lives and stuff."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "what I'm going to do.\"",
+      "timestamp": "36:00",
+      "status": "candidate_claim",
+      "receipt": "They're going to show that in the movie where he like like he's walking by a pet store and he sees a snake and he's like, \"Yeah, yeah, I know what I'm going to do.\""
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "you've been waiting patiently.",
+      "timestamp": "36:00",
+      "status": "candidate_claim",
+      "receipt": "But anyway, George, I know you've been waiting patiently."
+    },
+    {
+      "claimant": "Marvel did that full month of like enough",
+      "claim": "comics.",
+      "timestamp": "48:00",
+      "status": "candidate_claim",
+      "receipt": "Marvel did that full month of like enough said comics."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "they're just trying to make a profit.",
+      "timestamp": "48:00",
+      "status": "opinion_or_inference",
+      "receipt": "Yeah, I think they're just trying to make a profit."
+    },
+    {
+      "claimant": "Hidden",
+      "claim": "it would be awesome if someone drew it.",
+      "timestamp": "01:00:01",
+      "status": "candidate_claim",
+      "receipt": "Hidden says it would be awesome if someone drew it."
+    },
+    {
+      "claimant": "Elon Musk",
+      "claim": "that you could do like soft.\"",
+      "timestamp": "01:00:01",
+      "status": "candidate_claim",
+      "receipt": "Like, \"Hey, go on GRE right now and uh see if you could take that lady's bikini off.\" I'm like, \"What?\" George like, \"Yeah, Elon Musk says that you could do like soft.\""
+    },
+    {
+      "claimant": "Elon Mus",
+      "claim": "if if if the if it's an R rating in the movies, you can do it with Why did you have us We're like, \"What the hell are you talking about, dude?",
+      "timestamp": "01:00:01",
+      "status": "candidate_claim",
+      "receipt": "No, Elon Mus said if if if the if it's an R rating in the movies, you can do it with Why did you have us We're like, \"What the hell are you talking about, dude?"
+    },
+    {
+      "claimant": "he",
+      "claim": "to critique him.",
+      "timestamp": "01:00:01",
+      "status": "candidate_claim",
+      "receipt": "Well, he said to critique him."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that.",
+      "timestamp": "01:00:01",
+      "status": "hearsay_candidate",
+      "receipt": "it was down here I heard that."
+    },
+    {
+      "claimant": "It",
+      "claim": "there's no denying that Devstroke has his fans in huge marketability.",
+      "timestamp": "01:00:01",
+      "status": "candidate_claim",
+      "receipt": "It says there's no denying that Devstroke has his fans in huge marketability."
+    }
+  ],
+  "quote_candidates": [
+    {
+      "timestamp": "12:00",
+      "text": "He was here telling me that I was wrong, that Eric is good.",
+      "significance_score": 3
+    },
+    {
+      "timestamp": "00:00",
+      "text": "I can strike them out with three [ __ ] in an arm sl.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "00:00",
+      "text": "Finally finished Secret Wars read uh issue number 12.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "00:00",
+      "text": "It was to catch anybody that up on what that might have missed an issue here or there.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "00:00",
+      "text": "Did you read every single tie-in issue though?",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "00:00",
+      "text": "No, this is just the regular issues 1 through 12 of Marvel Superheroes Secret Wars or whatever.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "36:00",
+      "text": "Yeah, but then DC will sue you because like that's a bat symbol.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "48:00",
+      "text": "[snorts] There's that famous GI There's that famous GI Joe Snake Eyes issue that was silent, but apparently that was a that was a printing error and it was meant to be dialogue, but they just sent it out without words.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "01:00:01",
+      "text": "Uh fraud Tony was uh threatening me.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "01:48:01",
+      "text": "Well, another movie that was cancelled with Batgirl was that Acme versus uh whatever.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "01:48:01",
+      "text": "That that that wasn't that wasn't cancelled in terms of a tax write off.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "02:12:00",
+      "text": "Otto, to life instead, chaos ensues.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "00:00",
+      "text": "They are on the test that they never really ready for.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "00:00",
+      "text": "For real says TJ Vinbar says I've never appeared on an episode of this but I still made the intro.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "12:00",
+      "text": "That's I've never seen it, but that novel is taught in pretty much all Australian schools.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "12:00",
+      "text": "It was like they're trying to frame it that I always was trying to court CG instead of the truth of the the reality is I just did my own thing and CG found me and they thought what I was saying was good.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "24:02",
+      "text": "So, I'm from my understanding, these were like going to be the next wave that never got released.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "24:02",
+      "text": "And you have a classic like Skeletor has to like team up with them and then of course he's going to betray them like he always does.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "36:00",
+      "text": "you know, even the GI Joe films feel accurate to sort of Joe, but like He-Man never had anything that just worked.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "36:00",
+      "text": "It It never quite represented what it was.",
+      "significance_score": 1
+    }
+  ],
+  "relationship_signals": [
+    {
+      "left": "Frog Tony",
+      "right": "Liam Gray",
+      "signal_type": "collaborated",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "king and my father told me it's okay [music] Get you dream. [music] [music] [music] >> [music] [music] >> What's up, meat bags, and welcome Welcome to the comic skate suburbs. We are your host. I am the ghetto superstar frog Tony. He is the odd toy fanboy and of course down below stray [ __ ] beans. What up everybody? How you going gentlemen? How's it going? >> Hi ho. >> That's teenag me for real. For real says TJ Vinbar says I've never appeared",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Stray Beans",
+      "signal_type": "collaborated",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "king and my father told me it's okay [music] Get you dream. [music] [music] [music] >> [music] [music] >> What's up, meat bags, and welcome Welcome to the comic skate suburbs. We are your host. I am the ghetto superstar frog Tony. He is the odd toy fanboy and of course down below stray [ __ ] beans. What up everybody? How you going gentlemen? How's it going? >> Hi ho. >> That's teenag me for real. For real says TJ Vinbar says I've never appeared",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Stray Beans",
+      "signal_type": "collaborated",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "ght beans doesn't get a guest starring. Straight beans. >> Yeah, the total accurate thing of thin bar is really nice. >> Yeah, it really is. I mean, that is exactly what he looks like behind the avatar. And there he is. Liam Gray. I was demanding >> Liam Gray. Hold on. >> How you doing? >> I was demanding him. I wanted Liam Gray tonight because we have something super special for Mr. Gray. >> He's a terrible like everything else in my [ __ ] lif",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Liam Gray",
+      "signal_type": "legal_conflict",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "king and my father told me it's okay [music] Get you dream. [music] [music] [music] >> [music] [music] >> What's up, meat bags, and welcome Welcome to the comic skate suburbs. We are your host. I am the ghetto superstar frog Tony. He is the odd toy fanboy and of course down below stray [ __ ] beans. What up everybody? How you going gentlemen? How's it going? >> Hi ho. >> That's teenag me for real. For real says TJ Vinbar says I've never appeared",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Stray Beans",
+      "signal_type": "legal_conflict",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "king and my father told me it's okay [music] Get you dream. [music] [music] [music] >> [music] [music] >> What's up, meat bags, and welcome Welcome to the comic skate suburbs. We are your host. I am the ghetto superstar frog Tony. He is the odd toy fanboy and of course down below stray [ __ ] beans. What up everybody? How you going gentlemen? How's it going? >> Hi ho. >> That's teenag me for real. For real says TJ Vinbar says I've never appeared",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Stray Beans",
+      "signal_type": "legal_conflict",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "ght beans doesn't get a guest starring. Straight beans. >> Yeah, the total accurate thing of thin bar is really nice. >> Yeah, it really is. I mean, that is exactly what he looks like behind the avatar. And there he is. Liam Gray. I was demanding >> Liam Gray. Hold on. >> How you doing? >> I was demanding him. I wanted Liam Gray tonight because we have something super special for Mr. Gray. >> He's a terrible like everything else in my [ __ ] lif",
+      "warning": "co-mention plus language signal; requires interpretation"
+    }
+  ],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

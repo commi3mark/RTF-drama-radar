@@ -1,0 +1,49 @@
+{
+  "schema_version": "octopuss-auto-event-v0.1",
+  "event_id": "YUpeiVaoNa0",
+  "title": "EVEN A STOPPED CLOCK IS CORRECT TWICE A DAY- Deniz Camp ACCURATELY Describes Right-Wing Comics Sites",
+  "source": "Ya Boi Zack",
+  "published": "2026-07-13T16:47:14+00:00",
+  "chapters": [
+    {
+      "start": "00:01",
+      "end": "12:03",
+      "title": "Friday Night Tights",
+      "entities": [
+        "Friday Night Tights"
+      ],
+      "summary_seed": "Hi everyone, it's your boy Zach. So yesterday uh I recorded uh was driving to the doctor's um the 8 billionth um I hate uh perches letter writers uh video. I was like I'll spare the world. This is kind of worthless. But um later I was going through some comments and I saw a tweet by Denise Camp and I think this one will be more focused especially since I have less time to make it and that please stop focusing on fail",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "12:00",
+      "end": "16:21",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": "What? What is this? Nations rise and fall. Businesses go out of business. Relationships end. Are you really in middle age just worrying about the Q3 deliverables in Koala Lumpur for Valiant? Are you driving right now? What are all the businesses you're driving by? Oh, oh, what what if that hotel what if I need to go to that hotel and and what if it's it's not open in 5 years? I need to know the CEO. I need to know if",
+      "clip_likelihood": false,
+      "transition_markers": 2
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Friday Night Tights",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.543,
+        "positive_hits": 54,
+        "negative_hits": 16
+      }
+    }
+  ],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

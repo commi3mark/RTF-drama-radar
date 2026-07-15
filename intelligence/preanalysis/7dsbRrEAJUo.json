@@ -1,0 +1,98 @@
+{
+  "schema_version": "octopuss-preanalysis-v0.1",
+  "generated_at": "2026-07-15T21:04:16.831077+00:00",
+  "video_id": "7dsbRrEAJUo",
+  "title": "DDayCobra Hopes Chrissie Mayr Makes a Million Dollars (Jul 13, 2026)",
+  "source": "Elissa Clips",
+  "published": "2026-07-14T00:43:09+00:00",
+  "packet_hash": "372a52ad54239737d7fea4609f8a631245fc9b8b01bfcebe36feb7abd439b330",
+  "coverage": {
+    "first_caption_second": 0.0,
+    "last_caption_second": 41.28,
+    "timestamp_start": "00:00",
+    "timestamp_end": "00:41",
+    "caption_span_seconds": 41.28,
+    "status": "transcript_present",
+    "note": "This measures the caption span only. It does not prove complete coverage of the original video."
+  },
+  "participant_candidates": [
+    {
+      "entity": "Elissa Clips",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.72,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Chrissie Mayr",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "00:00",
+      "last_timestamp": "00:41",
+      "discussion_span_seconds": 41.3,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.333,
+        "positive_hits": 2,
+        "negative_hits": 1
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "Chrissy's going to be on Timcast. Hope it goes well. Hope she makes a million dollars. Hope she makes a million dollars. I I I did see that there is like I'm not I'm not there's so much to respond to but I I'm honestly I'm not going to respond to any of it. Because I think the people that are talking should continue to talk. And I'll just continue to grift. Because that's what I do best and uh I think that the people out there talking s"
+        }
+      ],
+      "appearance_status": "uncertain"
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "00:41",
+      "title": "Chrissie Mayr",
+      "entities": [
+        "Chrissie Mayr"
+      ],
+      "summary_seed": "Chrissy's going to be on Timcast. Hope it goes well. Hope she makes a million dollars. Hope she makes a million dollars. I I I did see that there is like I'm not I'm not there's so much to respond to but I I'm honestly I'm not going to respond to any of it. Because I think the people that are talking should continue to talk. And I'll just continue to grift. Because that's what I do best and uh I think that the people",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    }
+  ],
+  "claim_candidates": [
+    {
+      "claimant": "unknown speaker",
+      "claim": "the people that are talking should continue to talk.",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "Because I think the people that are talking should continue to talk."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that the people out there talking should continue to talk.",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "Because that's what I do best and uh I think that the people out there talking should continue to talk."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "they are doing um they're doing me a a favor.",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think they are doing um they're doing me a a favor."
+    }
+  ],
+  "quote_candidates": [],
+  "relationship_signals": [],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

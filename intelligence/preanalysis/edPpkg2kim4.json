@@ -1,0 +1,668 @@
+{
+  "schema_version": "octopuss-preanalysis-v0.1",
+  "generated_at": "2026-07-15T21:04:23.530736+00:00",
+  "video_id": "edPpkg2kim4",
+  "title": "\"I REPORTED THE DROPBOX!\" Liam Gray Responds to EVS Reacting To A Viral Clip",
+  "source": "KatyDid",
+  "published": "2026-07-03T19:49:19+00:00",
+  "packet_hash": "cd03d033750e975fb6a2e71083612d886b6242db019bfd68ddab28eaa39036d1",
+  "coverage": {
+    "first_caption_second": 0.0,
+    "last_caption_second": 1930.44,
+    "timestamp_start": "00:00",
+    "timestamp_end": "32:10",
+    "caption_span_seconds": 1930.44,
+    "status": "transcript_present",
+    "note": "This measures the caption span only. It does not prove complete coverage of the original video."
+  },
+  "participant_candidates": [
+    {
+      "entity": "KatyDid",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.72,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Dropbox Drama",
+      "mentions": 30,
+      "block_count": 1,
+      "first_timestamp": "00:00",
+      "last_timestamp": "12:02",
+      "discussion_span_seconds": 722.3,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "positive_hits": 42,
+        "negative_hits": 0
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "Alan, you sent me a clip. Like, what is this clip of? It says, \"Whatever you do, don't show this clip of him.\" Uh what is this? Should I not show this clip? I don't know what it is. Like, I'm afraid to show it cuz I don't know what it what it involves. It's not anything uh uh horrendous, is it? All right, hold on. Let me watch it first. Let me see what it is. I'm watching it now. He's in his backyard. 12th issue of Xeno pipe. I remember"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Ethan Van Sciver",
+      "mentions": 30,
+      "block_count": 2,
+      "first_timestamp": "00:00",
+      "last_timestamp": "24:03",
+      "discussion_span_seconds": 1443.4,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.899,
+        "positive_hits": 75,
+        "negative_hits": 4
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "Alan, you sent me a clip. Like, what is this clip of? It says, \"Whatever you do, don't show this clip of him.\" Uh what is this? Should I not show this clip? I don't know what it is. Like, I'm afraid to show it cuz I don't know what it what it involves. It's not anything uh uh horrendous, is it? All right, hold on. Let me watch it first. Let me see what it is. I'm watching it now. He's in his backyard. 12th issue of Xeno pipe. I remember"
+        },
+        {
+          "timestamp": "12:00",
+          "excerpt": "usernames and everything. Access to the Dropbox and all of this who were you know other artists who you spoke about previously in that video. And there are other people as well. Like um And it's pretty fucking sick to rain shit man. This is the war I've been fighting. You know this is the war I've been fighting. But it's like I'm crazy. You know what I mean? And they're now currently trying to use this to try and imply that I've got chi"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Liam Gray",
+      "mentions": 26,
+      "block_count": 2,
+      "first_timestamp": "00:00",
+      "last_timestamp": "24:03",
+      "discussion_span_seconds": 1443.4,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.899,
+        "positive_hits": 75,
+        "negative_hits": 4
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "we go. Are you guys ready for this? >> Yeah. It happened a few days ago and um I haven't had work since. I haven't done anything extra. I've got a fair few of my files backed up and not all of them. >> Uh yeah, this is Liam Gray. This is my version of Liam Gray's clip. I'm transforming it with my voice. >> I mean, it had up to the >> I'm making it my own. This is my version of this clip. You can't get it anywhere else. This is free. >> And agai"
+        },
+        {
+          "timestamp": "12:00",
+          "excerpt": "sound true? You have evidence of severe child abuse material access >> and a and a conviction. >> on a computer. Lowfiwater said I thought you knew about this. How would I know about this video? There are 11,000 stupid Liam Gray videos. Now I knew that Liam had built up this CP fantasy in his mind um that regarded had to do with that one story I told about a live streamer group. Um who was working with >> This makes me angry. Now he's heard he"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "DarkGift Comics",
+      "mentions": 6,
+      "block_count": 2,
+      "first_timestamp": "00:00",
+      "last_timestamp": "24:03",
+      "discussion_span_seconds": 1443.4,
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.899,
+        "positive_hits": 75,
+        "negative_hits": 4
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "Alan, you sent me a clip. Like, what is this clip of? It says, \"Whatever you do, don't show this clip of him.\" Uh what is this? Should I not show this clip? I don't know what it is. Like, I'm afraid to show it cuz I don't know what it what it involves. It's not anything uh uh horrendous, is it? All right, hold on. Let me watch it first. Let me see what it is. I'm watching it now. He's in his backyard. 12th issue of Xeno pipe. I remember"
+        },
+        {
+          "timestamp": "12:00",
+          "excerpt": "usernames and everything. Access to the Dropbox and all of this who were you know other artists who you spoke about previously in that video. And there are other people as well. Like um And it's pretty fucking sick to rain shit man. This is the war I've been fighting. You know this is the war I've been fighting. But it's like I'm crazy. You know what I mean? And they're now currently trying to use this to try and imply that I've got chi"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Jon Del Arroz",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "12:00",
+      "last_timestamp": "24:03",
+      "discussion_span_seconds": 723.3,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.784,
+        "positive_hits": 33,
+        "negative_hits": 4
+      },
+      "receipts": [
+        {
+          "timestamp": "12:00",
+          "excerpt": "usernames and everything. Access to the Dropbox and all of this who were you know other artists who you spoke about previously in that video. And there are other people as well. Like um And it's pretty fucking sick to rain shit man. This is the war I've been fighting. You know this is the war I've been fighting. But it's like I'm crazy. You know what I mean? And they're now currently trying to use this to try and imply that I've got chi"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Little Movie Perp",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "12:00",
+      "last_timestamp": "24:03",
+      "discussion_span_seconds": 723.3,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.784,
+        "positive_hits": 33,
+        "negative_hits": 4
+      },
+      "receipts": [
+        {
+          "timestamp": "12:00",
+          "excerpt": "everything's a fucking lie. Check the fucking OD cover. Check the timeline. There are plenty of fucking people that will tell you the fucking truth about what happened. >> I must suck because somebody told the FBI that little movie perp said he wanted to shoot up Atlantic City and the FBI came to my house the next day. Can you imagine sitting there going, \"I'm aware of I've access to a Dropbox on the computer with CP in it. Can you please I don't know"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Nerdrotic",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "00:00",
+      "last_timestamp": "12:02",
+      "discussion_span_seconds": 722.3,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "positive_hits": 42,
+        "negative_hits": 0
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "Liam were friends in the '90s, says Toki Death Hammer. Yeah, not true at all. Never met Liam. Ever. Uh Arcane Stork says, \"I have to admit the people who ridicule Milly Alcock for her looks, but clutch their pearls over Nerdrotic's wife Miss Piggy comparison are hilarious.\" Um hm. Uh it's the pimp chalice she got for laying 1,000 bitches, says Joshua Thorau. Show it. 1 minute 40 seconds is where it starts, says Pete. Alpha Suma pull strings some"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "TheQuartering",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "24:00",
+      "last_timestamp": "32:10",
+      "discussion_span_seconds": 490.1,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.568,
+        "positive_hits": 29,
+        "negative_hits": 8
+      },
+      "receipts": [
+        {
+          "timestamp": "24:00",
+          "excerpt": "talking about Slick Jimmy. Uh, so weird. He's a retard. This is stupid. >> Yeah. >> I So, this is pretty old. So, this is like two at least two, three years old. >> But, um >> Law >> makes me sick. It's like these people are working in comic books and children's entertainment. Legitimately makes me fucking furious. >> Liam, get out of here. >> And like I blurted it all out. I look like a crazy person. >> Yeah, you are a crazy person. Ge"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Yellow Flash",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "00:00",
+      "last_timestamp": "12:02",
+      "discussion_span_seconds": 722.3,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "positive_hits": 42,
+        "negative_hits": 0
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "rt of the reason that I'm getting as much fucking dog piling as I am is because of tryna pedos. I think they're I think they're working together. We know we saw well, you know, I don't know if you saw. I think I believe Yellow Flash saw it back when we were in good graces, the gay fucking pedophilic bullshit that they were saying about Little Miss Umbrella Girl, Rebelle, and all of that gay shit. All of these guys were connected. And so like that w"
+        }
+      ],
+      "appearance_status": "uncertain"
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "12:02",
+      "title": "Dropbox Drama / Liam Gray / DarkGift Comics",
+      "entities": [
+        "Dropbox Drama",
+        "Liam Gray",
+        "DarkGift Comics",
+        "Ethan Van Sciver",
+        "Nerdrotic",
+        "Yellow Flash"
+      ],
+      "summary_seed": "Alan, you sent me a clip. Like, what is this clip of? It says, \"Whatever you do, don't show this clip of him.\" Uh what is this? Should I not show this clip? I don't know what it is. Like, I'm afraid to show it cuz I don't know what it what it involves. It's not anything uh uh horrendous, is it? All right, hold on. Let me watch it first. Let me see what it is. I'm watching it now. He's in his backyard. 12th issue of X",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    },
+    {
+      "start": "12:00",
+      "end": "24:03",
+      "title": "Ethan Van Sciver / Liam Gray / DarkGift Comics",
+      "entities": [
+        "Ethan Van Sciver",
+        "Liam Gray",
+        "DarkGift Comics",
+        "Jon Del Arroz",
+        "Little Movie Perp"
+      ],
+      "summary_seed": "usernames and everything. Access to the Dropbox and all of this who were you know other artists who you spoke about previously in that video. And there are other people as well. Like um And it's pretty fucking sick to rain shit man. This is the war I've been fighting. You know this is the war I've been fighting. But it's like I'm crazy. You know what I mean? And they're now currently trying to use this to try and imp",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "24:00",
+      "end": "32:10",
+      "title": "TheQuartering",
+      "entities": [
+        "TheQuartering"
+      ],
+      "summary_seed": "talking about Slick Jimmy. Uh, so weird. He's a retard. This is stupid. >> Yeah. >> I So, this is pretty old. So, this is like two at least two, three years old. >> But, um >> Law >> makes me sick. It's like these people are working in comic books and children's entertainment. Legitimately makes me fucking furious. >> Liam, get out of here. >> And like I blurted it all out. I look like a crazy person. >> Yeah, you ar",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    }
+  ],
+  "claim_candidates": [
+    {
+      "claimant": "It",
+      "claim": "that I reported that had all the child porn in it.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "It said that I reported that had all the child porn in it."
+    },
+    {
+      "claimant": "They reported it",
+      "claim": "fanart exhibit.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "They reported it says fanart exhibit."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "we still have the old one in a box somewhere and I can probably show it to you cuz we don't use that one anymore.",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "I'm not a tech person, so I can't fully explain it, but I think we still have the old one in a box somewhere and I can probably show it to you cuz we don't use that one anymore."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "this is when they took my Microsoft Word account, I believe.",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "I believe this is when they took my Microsoft Word account, I believe."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that's where it happened.",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think that's where it happened."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that a big part of the reason that to this day, if you if you want me to speak frankly, um I think that a big part of the reason that I'm getting as much fucking dog piling as I am is because of tryna pedos.",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "And I believe that a big part of the reason that to this day, if you if you want me to speak frankly, um I think that a big part of the reason that I'm getting as much fucking dog piling as I am is because of tryna pedos."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "they're I think they're working together.",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think they're I think they're working together."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "I believe Yellow Flash saw it back when we were in good graces, the gay fucking pedophilic bullshit that they were saying about Little Miss Umbrella Girl, Rebelle, and all of that gay shit.",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think I believe Yellow Flash saw it back when we were in good graces, the gay fucking pedophilic bullshit that they were saying about Little Miss Umbrella Girl, Rebelle, and all of that gay shit."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "it was like the second or third time.",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "So here I am being hacked for like I think it was like the second or third time."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "it was people covering for a network of pedos that were connected with Slick Jimmy.",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "And I believe it was people covering for a network of pedos that were connected with Slick Jimmy."
+    },
+    {
+      "claimant": "And he",
+      "claim": "that's not his voice whoever made this is a piece of shit.",
+      "timestamp": "12:00",
+      "status": "candidate_claim",
+      "receipt": "And he says that's not his voice whoever made this is a piece of shit."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "Liam helped you get started at DC, says Thor Odinson.",
+      "timestamp": "12:00",
+      "status": "hearsay_candidate",
+      "receipt": "Uh I heard Liam helped you get started at DC, says Thor Odinson."
+    },
+    {
+      "claimant": "he",
+      "claim": "a lot of weird things.",
+      "timestamp": "12:00",
+      "status": "candidate_claim",
+      "receipt": "Okay, he said a lot of weird things."
+    },
+    {
+      "claimant": "I never",
+      "claim": "that Ethan I helped Ethan get his start at DC.",
+      "timestamp": "12:00",
+      "status": "candidate_claim",
+      "receipt": "I never said that Ethan I helped Ethan get his start at DC."
+    },
+    {
+      "claimant": "I never",
+      "claim": "that I met Ethan in the '90s.",
+      "timestamp": "12:00",
+      "status": "candidate_claim",
+      "receipt": "I never said that I met Ethan in the '90s."
+    },
+    {
+      "claimant": "told the FBI that little movie perp",
+      "claim": "he wanted to shoot up Atlantic City and the FBI came to my house the next day.",
+      "timestamp": "12:00",
+      "status": "candidate_claim",
+      "receipt": "I must suck because somebody told the FBI that little movie perp said he wanted to shoot up Atlantic City and the FBI came to my house the next day."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "a year after this video.",
+      "timestamp": "12:00",
+      "status": "opinion_or_inference",
+      "receipt": "But it was like I think a year after this video."
+    },
+    {
+      "claimant": "Lowfiwater",
+      "claim": "I thought you knew about this.",
+      "timestamp": "12:00",
+      "status": "candidate_claim",
+      "receipt": "Lowfiwater said I thought you knew about this."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "about this video?",
+      "timestamp": "12:00",
+      "status": "candidate_claim",
+      "receipt": "How would I know about this video?"
+    },
+    {
+      "claimant": "Now he's heard he hasn't heard what I've",
+      "claim": "though.",
+      "timestamp": "12:00",
+      "status": "candidate_claim",
+      "receipt": "Now he's heard he hasn't heard what I've said though."
+    },
+    {
+      "claimant": "Maybe he'll hear what I",
+      "claim": "and go, \"Oh, okay.",
+      "timestamp": "12:00",
+      "status": "candidate_claim",
+      "receipt": "Maybe he'll hear what I said and go, \"Oh, okay."
+    },
+    {
+      "claimant": "don't need it cuz they don't know how",
+      "claim": "he needed photo reference pics for boy island.",
+      "timestamp": "12:00",
+      "status": "candidate_claim",
+      "receipt": "Pigs don't need it cuz they don't know how says he needed photo reference pics for boy island."
+    },
+    {
+      "claimant": "VPNs and other measures won't help",
+      "claim": "rhetorical giblets.",
+      "timestamp": "12:00",
+      "status": "candidate_claim",
+      "receipt": "VPNs and other measures won't help says rhetorical giblets."
+    },
+    {
+      "claimant": "Job of the Cocks",
+      "claim": "I helped Ethan into DC.",
+      "timestamp": "12:00",
+      "status": "candidate_claim",
+      "receipt": "Job of the Cocks says I helped Ethan into DC."
+    },
+    {
+      "claimant": "The local police",
+      "claim": "that I shouldn't discuss it um while this stuff is going on.",
+      "timestamp": "12:00",
+      "status": "candidate_claim",
+      "receipt": "The local police said that I shouldn't discuss it um while this stuff is going on."
+    },
+    {
+      "claimant": "Uh Ethan Dark Gift",
+      "claim": "it was part of that.",
+      "timestamp": "12:00",
+      "status": "candidate_claim",
+      "receipt": "Uh Ethan Dark Gift said it was part of that."
+    },
+    {
+      "claimant": "I thought you",
+      "claim": "they did at the beginning of the fucking stream.",
+      "timestamp": "24:00",
+      "status": "candidate_claim",
+      "receipt": "I thought you said they did at the beginning of the fucking stream."
+    },
+    {
+      "claimant": "I thought you",
+      "claim": "THAT THEY DID.",
+      "timestamp": "24:00",
+      "status": "candidate_claim",
+      "receipt": "I thought you said THAT THEY DID."
+    },
+    {
+      "claimant": "AlphaSumer",
+      "claim": "Pete Townshend.",
+      "timestamp": "24:00",
+      "status": "candidate_claim",
+      "receipt": "AlphaSumer says Pete Townshend."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that was a performance.",
+      "timestamp": "24:00",
+      "status": "opinion_or_inference",
+      "receipt": "I don't think it's real, but like uh I think that was a performance."
+    }
+  ],
+  "quote_candidates": [
+    {
+      "timestamp": "24:00",
+      "text": "You guys making threats against my fucking kids, telling everyone I'm a fucking crazy, trying to fucking make me out that I'm a fucking chomo, the very thing I'm biting?",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "24:00",
+      "text": "He sent me a bunch of threatening messages.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "12:00",
+      "text": "I never said that Ethan I helped Ethan get his start at DC.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "12:00",
+      "text": "I never said that I met Ethan in the '90s.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "24:00",
+      "text": "I am happy to go through the process, but when that happens and I am innocent and the truth is fucking out there, I expect that to be fucking covered.",
+      "significance_score": 1
+    }
+  ],
+  "relationship_signals": [
+    {
+      "left": "Dropbox Drama",
+      "right": "Ethan Van Sciver",
+      "signal_type": "friendship_claim",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "Alan, you sent me a clip. Like, what is this clip of? It says, \"Whatever you do, don't show this clip of him.\" Uh what is this? Should I not show this clip? I don't know what it is. Like, I'm afraid to show it cuz I don't know what it what it involves. It's not anything uh uh horrendous, is it? All right, hold on. Let me watch it first. Let me see what it is. I'm watching it now. He's in his backyard. 12th issue of Xeno pipe. I remember",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Dropbox Drama",
+      "right": "Liam Gray",
+      "signal_type": "friendship_claim",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "Alan, you sent me a clip. Like, what is this clip of? It says, \"Whatever you do, don't show this clip of him.\" Uh what is this? Should I not show this clip? I don't know what it is. Like, I'm afraid to show it cuz I don't know what it what it involves. It's not anything uh uh horrendous, is it? All right, hold on. Let me watch it first. Let me see what it is. I'm watching it now. He's in his backyard. 12th issue of Xeno pipe. I remember",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Dropbox Drama",
+      "right": "DarkGift Comics",
+      "signal_type": "friendship_claim",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "Alan, you sent me a clip. Like, what is this clip of? It says, \"Whatever you do, don't show this clip of him.\" Uh what is this? Should I not show this clip? I don't know what it is. Like, I'm afraid to show it cuz I don't know what it what it involves. It's not anything uh uh horrendous, is it? All right, hold on. Let me watch it first. Let me see what it is. I'm watching it now. He's in his backyard. 12th issue of Xeno pipe. I remember",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Dropbox Drama",
+      "right": "Nerdrotic",
+      "signal_type": "friendship_claim",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "Alan, you sent me a clip. Like, what is this clip of? It says, \"Whatever you do, don't show this clip of him.\" Uh what is this? Should I not show this clip? I don't know what it is. Like, I'm afraid to show it cuz I don't know what it what it involves. It's not anything uh uh horrendous, is it? All right, hold on. Let me watch it first. Let me see what it is. I'm watching it now. He's in his backyard. 12th issue of Xeno pipe. I remember",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Dropbox Drama",
+      "right": "Yellow Flash",
+      "signal_type": "friendship_claim",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "Alan, you sent me a clip. Like, what is this clip of? It says, \"Whatever you do, don't show this clip of him.\" Uh what is this? Should I not show this clip? I don't know what it is. Like, I'm afraid to show it cuz I don't know what it what it involves. It's not anything uh uh horrendous, is it? All right, hold on. Let me watch it first. Let me see what it is. I'm watching it now. He's in his backyard. 12th issue of Xeno pipe. I remember",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Liam Gray",
+      "signal_type": "friendship_claim",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "Alan, you sent me a clip. Like, what is this clip of? It says, \"Whatever you do, don't show this clip of him.\" Uh what is this? Should I not show this clip? I don't know what it is. Like, I'm afraid to show it cuz I don't know what it what it involves. It's not anything uh uh horrendous, is it? All right, hold on. Let me watch it first. Let me see what it is. I'm watching it now. He's in his backyard. 12th issue of Xeno pipe. I remember",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "DarkGift Comics",
+      "signal_type": "friendship_claim",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "Alan, you sent me a clip. Like, what is this clip of? It says, \"Whatever you do, don't show this clip of him.\" Uh what is this? Should I not show this clip? I don't know what it is. Like, I'm afraid to show it cuz I don't know what it what it involves. It's not anything uh uh horrendous, is it? All right, hold on. Let me watch it first. Let me see what it is. I'm watching it now. He's in his backyard. 12th issue of Xeno pipe. I remember",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Nerdrotic",
+      "signal_type": "friendship_claim",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "Alan, you sent me a clip. Like, what is this clip of? It says, \"Whatever you do, don't show this clip of him.\" Uh what is this? Should I not show this clip? I don't know what it is. Like, I'm afraid to show it cuz I don't know what it what it involves. It's not anything uh uh horrendous, is it? All right, hold on. Let me watch it first. Let me see what it is. I'm watching it now. He's in his backyard. 12th issue of Xeno pipe. I remember",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Yellow Flash",
+      "signal_type": "friendship_claim",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "Alan, you sent me a clip. Like, what is this clip of? It says, \"Whatever you do, don't show this clip of him.\" Uh what is this? Should I not show this clip? I don't know what it is. Like, I'm afraid to show it cuz I don't know what it what it involves. It's not anything uh uh horrendous, is it? All right, hold on. Let me watch it first. Let me see what it is. I'm watching it now. He's in his backyard. 12th issue of Xeno pipe. I remember",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "DarkGift Comics",
+      "signal_type": "friendship_claim",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "we go. Are you guys ready for this? >> Yeah. It happened a few days ago and um I haven't had work since. I haven't done anything extra. I've got a fair few of my files backed up and not all of them. >> Uh yeah, this is Liam Gray. This is my version of Liam Gray's clip. I'm transforming it with my voice. >> I mean, it had up to the >> I'm making it my own. This is my version of this clip. You can't get it anywhere else. This is free. >> And agai",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Nerdrotic",
+      "signal_type": "friendship_claim",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "we go. Are you guys ready for this? >> Yeah. It happened a few days ago and um I haven't had work since. I haven't done anything extra. I've got a fair few of my files backed up and not all of them. >> Uh yeah, this is Liam Gray. This is my version of Liam Gray's clip. I'm transforming it with my voice. >> I mean, it had up to the >> I'm making it my own. This is my version of this clip. You can't get it anywhere else. This is free. >> And agai",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Yellow Flash",
+      "signal_type": "friendship_claim",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "we go. Are you guys ready for this? >> Yeah. It happened a few days ago and um I haven't had work since. I haven't done anything extra. I've got a fair few of my files backed up and not all of them. >> Uh yeah, this is Liam Gray. This is my version of Liam Gray's clip. I'm transforming it with my voice. >> I mean, it had up to the >> I'm making it my own. This is my version of this clip. You can't get it anywhere else. This is free. >> And agai",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "DarkGift Comics",
+      "right": "Nerdrotic",
+      "signal_type": "friendship_claim",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "Alan, you sent me a clip. Like, what is this clip of? It says, \"Whatever you do, don't show this clip of him.\" Uh what is this? Should I not show this clip? I don't know what it is. Like, I'm afraid to show it cuz I don't know what it what it involves. It's not anything uh uh horrendous, is it? All right, hold on. Let me watch it first. Let me see what it is. I'm watching it now. He's in his backyard. 12th issue of Xeno pipe. I remember",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "DarkGift Comics",
+      "right": "Yellow Flash",
+      "signal_type": "friendship_claim",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "Alan, you sent me a clip. Like, what is this clip of? It says, \"Whatever you do, don't show this clip of him.\" Uh what is this? Should I not show this clip? I don't know what it is. Like, I'm afraid to show it cuz I don't know what it what it involves. It's not anything uh uh horrendous, is it? All right, hold on. Let me watch it first. Let me see what it is. I'm watching it now. He's in his backyard. 12th issue of Xeno pipe. I remember",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Nerdrotic",
+      "right": "Yellow Flash",
+      "signal_type": "friendship_claim",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "Liam were friends in the '90s, says Toki Death Hammer. Yeah, not true at all. Never met Liam. Ever. Uh Arcane Stork says, \"I have to admit the people who ridicule Milly Alcock for her looks, but clutch their pearls over Nerdrotic's wife Miss Piggy comparison are hilarious.\" Um hm. Uh it's the pimp chalice she got for laying 1,000 bitches, says Joshua Thorau. Show it. 1 minute 40 seconds is where it starts, says Pete. Alpha Suma pull strings some",
+      "warning": "co-mention plus language signal; requires interpretation"
+    }
+  ],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

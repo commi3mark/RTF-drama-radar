@@ -1,0 +1,40 @@
+{
+  "schema_version": "octopuss-auto-event-v0.1",
+  "event_id": "fSf1nYxE34A",
+  "title": "Friday Night Tights Wishes Chrissie Mayr the Best (Jul 10, 2026)",
+  "source": "Elissa Clips",
+  "published": "2026-07-11T00:30:28+00:00",
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "01:00",
+      "title": "Chrissie Mayr",
+      "entities": [
+        "Chrissie Mayr"
+      ],
+      "summary_seed": "Uh, Garfield's Bizarre Adventure for $50. What's [cheering] up, dude? Oh. It finally gets brought up. Okay. Uh, looks like Chrissy is still seething that she got the boot from F&T, and now she is doing the rounds claiming she got canceled. Uh, she dressed up as Frost so many times she became her. The house always wins. Well, thank you, Garfield. Um, Chrissy is is no longer on the show. I think that's been pretty obvi",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Chrissie Mayr",
+      "importance": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "positive_hits": 5,
+        "negative_hits": 0
+      }
+    }
+  ],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

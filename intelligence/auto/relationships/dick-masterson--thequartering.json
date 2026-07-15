@@ -1,0 +1,32 @@
+{
+  "relationship_id": "dick-masterson--thequartering",
+  "left": "TheQuartering",
+  "right": "Dick Masterson",
+  "signals": [
+    {
+      "video_id": "MmvMoleX9Ls",
+      "episode_title": "Gabbing With Ga......You Know",
+      "source": "FFS Cast",
+      "left": "TheQuartering",
+      "right": "Dick Masterson",
+      "signal_type": "criticised",
+      "timestamp": "00:03",
+      "confidence": 0.45,
+      "receipt": "I'm [ __ ] [music] [music] One [ __ ] rule. Shut the [ __ ] up. >> [music] [music] [music] >> and I miss you. [music] And now I wonder if I could fall into the [music] sky. You think time would pass me by. [music] Cuz you know I walk a thousand miles. I can just say [music] you when I see you I'mma put your [ __ ] back boy. Try to get the spin through your set. We don't fight boy. 12 paramedics [music] couldn't stay a [ __ ] life boy. R",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "episode_title": "Gabbing With Ga......You Know",
+      "source": "FFS Cast",
+      "left": "TheQuartering",
+      "right": "Dick Masterson",
+      "signal_type": "legal_conflict",
+      "timestamp": "00:03",
+      "confidence": 0.45,
+      "receipt": "I'm [ __ ] [music] [music] One [ __ ] rule. Shut the [ __ ] up. >> [music] [music] [music] >> and I miss you. [music] And now I wonder if I could fall into the [music] sky. You think time would pass me by. [music] Cuz you know I walk a thousand miles. I can just say [music] you when I see you I'mma put your [ __ ] back boy. Try to get the spin through your set. We don't fight boy. 12 paramedics [music] couldn't stay a [ __ ] life boy. R",
+      "warning": "co-mention plus language signal; requires interpretation"
+    }
+  ],
+  "updated_at": "2026-07-15T21:04:33.545392+00:00"
+}

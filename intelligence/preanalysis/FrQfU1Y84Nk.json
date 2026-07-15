@@ -1,0 +1,1345 @@
+{
+  "schema_version": "octopuss-preanalysis-v0.1",
+  "generated_at": "2026-07-15T21:04:24.426046+00:00",
+  "video_id": "FrQfU1Y84Nk",
+  "title": "DRAW-MUH STREAM! REIGNBOW THE BRUTE Death of Papa Smerc page 3 pt3",
+  "source": "Ethan Van Sciver",
+  "published": "2026-06-30T21:23:41+00:00",
+  "packet_hash": "eec4f198010a1512a47a96d67b6919e7550b75ab3aea173a7c7b18be1061397b",
+  "coverage": {
+    "first_caption_second": 0.0,
+    "last_caption_second": 9266.319,
+    "timestamp_start": "00:00",
+    "timestamp_end": "02:34:26",
+    "caption_span_seconds": 9266.319,
+    "status": "transcript_present",
+    "note": "This measures the caption span only. It does not prove complete coverage of the original video."
+  },
+  "participant_candidates": [
+    {
+      "entity": "Ethan Van Sciver",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.72,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    },
+    {
+      "entity": "Ethan Van Sciver",
+      "role_guess": "likely_participant",
+      "confidence": 0.43,
+      "signals": [
+        "appears in 7 distant transcript blocks"
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Liam Gray",
+      "mentions": 28,
+      "block_count": 2,
+      "first_timestamp": "48:01",
+      "last_timestamp": "01:12:02",
+      "discussion_span_seconds": 1441.2,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.704,
+        "positive_hits": 69,
+        "negative_hits": 12
+      },
+      "receipts": [
+        {
+          "timestamp": "48:01",
+          "excerpt": "cares. It's like it's not like uh oh no, you know, I've been in last place before. I've been in first place before. I've been in the middle most of the time. Um and it's not a big deal. We don't hate each other. You know, we're just kind of [ __ ] around. >> But John wants clearly defined rules and he wants everybody to play by them. Understood. I get it. and he says since like those rules aren't being followed, he won't he won't come o"
+        },
+        {
+          "timestamp": "01:00:02",
+          "excerpt": "in the evening. I'm looking for a freak. When I'm done blocked, take me to her house. >> Little force says, \"One added 30. It's a blowout.\" Yeah. Where are my super chats? I've been very entertaining. No super chats from you guys. I should just uh be quiet, I guess. [laughter] >> What is this? >> I love the way she looks like she [ __ ] herself. Get >> Wow. I'm in. Let me know uh the time. I'll be back in 30. Hell. All right. >> You wan"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Ethan Van Sciver",
+      "mentions": 12,
+      "block_count": 7,
+      "first_timestamp": "00:00",
+      "last_timestamp": "01:59:54",
+      "discussion_span_seconds": 7194.8,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.643,
+        "positive_hits": 267,
+        "negative_hits": 58
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "a couple of days ago uh with Gail Simone saying I don't know Andrew Farrago. Nobody does. Nobody knows the guy who knew everybody. I know the name. I checked my emails and we briefly spoke a couple times about interviews on two occasions. Once in 2016 and then again in 2018. The recent allegations of gross behavior, which I gather he has confirmed, don't shock me to my core because I don't know him and I'm not that aware. I really don't"
+        },
+        {
+          "timestamp": "12:01",
+          "excerpt": "um exaby? And it better be baby Wolverine. I'm fat and 60. Anyway, actually the fat thing that was unnecessary, but she is 60. So she's trying to rewrite her history after torturing people online, tattling on people, ruining lives. >> Oh, Zach has no idea. >> Reputations ruining career. Suddenly, she just know she's just a silly old gal. >> No, you're a huge [ __ ] and you were a terror in the industry for >> true >> decades. No, you're"
+        },
+        {
+          "timestamp": "24:01",
+          "excerpt": "getting better at Kasa Vanskyver. I hope Kasa Vans Skyver that would be my house you know. So she's fully aware that like I'm going through personal problems while we're doing uh Firestorm. I'm going through a divorce and she's asking me like are things okay? And then later on she's like something was wrong with Ethan. He just [ __ ] went crazy. And I I don't understand why. I think he was just like mentally ill. Um she's I mean she is"
+        },
+        {
+          "timestamp": "36:00",
+          "excerpt": ">> [music] >> Still again. [music] >> 200 W Studios says, \"I was a huge Firestorm fan since 1978. Was there on day one when Fury came out, Raymond was in the uh Justice League, 30-year hero. No way was he racist. How come we don't black friends? Mom, why? Because uh it'd be great if mom told him. [laughter] All right, Gail, you write that. I'm going to write the other part. Gail, you can have you can write the part where Ronnie uh asks"
+        },
+        {
+          "timestamp": "01:00:02",
+          "excerpt": "in the evening. I'm looking for a freak. When I'm done blocked, take me to her house. >> Little force says, \"One added 30. It's a blowout.\" Yeah. Where are my super chats? I've been very entertaining. No super chats from you guys. I should just uh be quiet, I guess. [laughter] >> What is this? >> I love the way she looks like she [ __ ] herself. Get >> Wow. I'm in. Let me know uh the time. I'll be back in 30. Hell. All right. >> You wan"
+        },
+        {
+          "timestamp": "01:24:01",
+          "excerpt": "Narwhal that >> what happened to Narwhal? Are you still streaming? I ain't seen heard. >> I got a bunch of Shing Samurai stuff. >> What happened in Norwalk? >> Y'all ain't got [laughter] Fraggle Rock. Y got no Fraggle Rock issue two. >> Oh, I got some I got some uh I got some [ __ ] that I bust >> Double Dragon issue one there. I love the black suit so much. >> Yeah, I love the black suit as well. >> What are they doing? >> Somebody gav"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Shane Davis",
+      "mentions": 6,
+      "block_count": 3,
+      "first_timestamp": "12:01",
+      "last_timestamp": "01:00:05",
+      "discussion_span_seconds": 2883.4,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.681,
+        "positive_hits": 153,
+        "negative_hits": 29
+      },
+      "receipts": [
+        {
+          "timestamp": "12:01",
+          "excerpt": "own opinions, man. His morality kind of just stays the same. uh he just kind of uh you know is talks about who is uh the most annoying to him at any given point and the zeros are annoying to him right now. Will JDA join Shane Davis in Back Me. What is this Katie clip? Do I watch that or do I put on music? I don't [clears throat] know. Yeah, that was great, man. Part of me, like for the longest time, I've been thinking about really illustrating wha"
+        },
+        {
+          "timestamp": "36:00",
+          "excerpt": ">> [music] >> Still again. [music] >> 200 W Studios says, \"I was a huge Firestorm fan since 1978. Was there on day one when Fury came out, Raymond was in the uh Justice League, 30-year hero. No way was he racist. How come we don't black friends? Mom, why? Because uh it'd be great if mom told him. [laughter] All right, Gail, you write that. I'm going to write the other part. Gail, you can have you can write the part where Ronnie uh asks"
+        },
+        {
+          "timestamp": "48:01",
+          "excerpt": "cares. It's like it's not like uh oh no, you know, I've been in last place before. I've been in first place before. I've been in the middle most of the time. Um and it's not a big deal. We don't hate each other. You know, we're just kind of [ __ ] around. >> But John wants clearly defined rules and he wants everybody to play by them. Understood. I get it. and he says since like those rules aren't being followed, he won't he won't come o"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Yellow Flash",
+      "mentions": 6,
+      "block_count": 2,
+      "first_timestamp": "48:01",
+      "last_timestamp": "01:36:01",
+      "discussion_span_seconds": 2879.7,
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.843,
+        "positive_hits": 117,
+        "negative_hits": 10
+      },
+      "receipts": [
+        {
+          "timestamp": "48:01",
+          "excerpt": "and they'll do like a proper docs of someone >> and it's like, holy [ __ ] But like uh >> you know my dude >> went through this time period where he sent me a dozen shitty [ __ ] messages uh under his real name. >> Now Yellow Flash has never done that. Yellow Flash has never sent me an email, not even one under his real name. Uh, neither has Umbrella guy. Anybody who actually wants to values their privacy has never done that before. You're that's"
+        },
+        {
+          "timestamp": "01:24:01",
+          "excerpt": "of these. >> I just wanted to hear Matt chimp out. He's not chimping out. Uh, who? Oh, Liam's live. Let's see what Liam's doing. Hold on a [snorts] second here. Uh, there it is. life with Liam >> either. But >> Anna and Yellow Flash hating on Liam makes no sense to me. What could Liam have possibly done to them to have such vitrial for him? >> The smallest. >> Oh, he's going to chimp. >> You know what I mean? It's like everyone else like you know l"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Cyberfrog",
+      "mentions": 3,
+      "block_count": 1,
+      "first_timestamp": "01:24:01",
+      "last_timestamp": "01:36:01",
+      "discussion_span_seconds": 720.1,
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.917,
+        "positive_hits": 69,
+        "negative_hits": 3
+      },
+      "receipts": [
+        {
+          "timestamp": "01:24:01",
+          "excerpt": "] day. Like they were the guys that were against me. So I was like there should be no one else. Like we should be we should have such strong bones of >> Chuckie says >> looking for an update on the expected delivery of Cyberfrog 3. >> Yeah, I got to finish it. Chucky, I'm working on Rainbow the Brute first. >> Cyber Frog 3. We are 13 pages into it. That's it. Just 13 pages. >> That never matters. >> It's going to be a while. Let's get Let's get"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Frog Tony",
+      "mentions": 2,
+      "block_count": 2,
+      "first_timestamp": "01:24:01",
+      "last_timestamp": "01:47:57",
+      "discussion_span_seconds": 1436.2,
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.874,
+        "positive_hits": 89,
+        "negative_hits": 6
+      },
+      "receipts": [
+        {
+          "timestamp": "01:24:01",
+          "excerpt": "Narwhal that >> what happened to Narwhal? Are you still streaming? I ain't seen heard. >> I got a bunch of Shing Samurai stuff. >> What happened in Norwalk? >> Y'all ain't got [laughter] Fraggle Rock. Y got no Fraggle Rock issue two. >> Oh, I got some I got some uh I got some [ __ ] that I bust >> Double Dragon issue one there. I love the black suit so much. >> Yeah, I love the black suit as well. >> What are they doing? >> Somebody gav"
+        },
+        {
+          "timestamp": "01:36:01",
+          "excerpt": "and I because I had nothing to do, I turned on a live stream and I went to the bar and uh I had comic skaters um super chat me to tip the bartender. The bartender had to create a drink called a Rose Tikico and he created this this um cocktail called the Rose Tikico and then you guys like duked him like 200 bucks in super chats. Uh it was really cool. It was fun. But there were no comic skaters there. It was just me by myself. I was all"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Aaron Imholte",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "48:01",
+      "last_timestamp": "01:00:05",
+      "discussion_span_seconds": 723.5,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.745,
+        "positive_hits": 48,
+        "negative_hits": 7
+      },
+      "receipts": [
+        {
+          "timestamp": "48:01",
+          "excerpt": "cares. It's like it's not like uh oh no, you know, I've been in last place before. I've been in first place before. I've been in the middle most of the time. Um and it's not a big deal. We don't hate each other. You know, we're just kind of [ __ ] around. >> But John wants clearly defined rules and he wants everybody to play by them. Understood. I get it. and he says since like those rules aren't being followed, he won't he won't come o"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Anna That Star Wars Girl",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "36:00",
+      "last_timestamp": "48:03",
+      "discussion_span_seconds": 722.8,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.707,
+        "positive_hits": 64,
+        "negative_hits": 11
+      },
+      "receipts": [
+        {
+          "timestamp": "36:00",
+          "excerpt": ">> [music] >> Still again. [music] >> 200 W Studios says, \"I was a huge Firestorm fan since 1978. Was there on day one when Fury came out, Raymond was in the uh Justice League, 30-year hero. No way was he racist. How come we don't black friends? Mom, why? Because uh it'd be great if mom told him. [laughter] All right, Gail, you write that. I'm going to write the other part. Gail, you can have you can write the part where Ronnie uh asks"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "ComicsGate",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "36:00",
+      "last_timestamp": "48:03",
+      "discussion_span_seconds": 722.8,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.707,
+        "positive_hits": 64,
+        "negative_hits": 11
+      },
+      "receipts": [
+        {
+          "timestamp": "36:00",
+          "excerpt": ">> [music] >> Still again. [music] >> 200 W Studios says, \"I was a huge Firestorm fan since 1978. Was there on day one when Fury came out, Raymond was in the uh Justice League, 30-year hero. No way was he racist. How come we don't black friends? Mom, why? Because uh it'd be great if mom told him. [laughter] All right, Gail, you write that. I'm going to write the other part. Gail, you can have you can write the part where Ronnie uh asks"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Eric July",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "02:24:05",
+      "last_timestamp": "02:34:26",
+      "discussion_span_seconds": 620.5,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "positive_hits": 11,
+        "negative_hits": 0
+      },
+      "receipts": [
+        {
+          "timestamp": "02:24:05",
+          "excerpt": "in just what happens. A winner, baby. That's the truth. >> That's the truth. >> Everyone's a winner, baby. That's no lie. >> You never fail to satisfy. >> I never knew what this song was called. A serious man says, \"How Eric July first hit my algo.\" My coworker was the drummer in this band. They open for a guy who did a collab with backwards, which I found when I Googled him. Message to the masses Blood and Bones. Wow, that's a long way to findi"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Jon Del Arroz",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "12:01",
+      "last_timestamp": "24:03",
+      "discussion_span_seconds": 722.2,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.577,
+        "positive_hits": 41,
+        "negative_hits": 11
+      },
+      "receipts": [
+        {
+          "timestamp": "12:01",
+          "excerpt": "um exaby? And it better be baby Wolverine. I'm fat and 60. Anyway, actually the fat thing that was unnecessary, but she is 60. So she's trying to rewrite her history after torturing people online, tattling on people, ruining lives. >> Oh, Zach has no idea. >> Reputations ruining career. Suddenly, she just know she's just a silly old gal. >> No, you're a huge [ __ ] and you were a terror in the industry for >> true >> decades. No, you're"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Trashcast",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "48:01",
+      "last_timestamp": "01:00:05",
+      "discussion_span_seconds": 723.5,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.745,
+        "positive_hits": 48,
+        "negative_hits": 7
+      },
+      "receipts": [
+        {
+          "timestamp": "48:01",
+          "excerpt": "cares. It's like it's not like uh oh no, you know, I've been in last place before. I've been in first place before. I've been in the middle most of the time. Um and it's not a big deal. We don't hate each other. You know, we're just kind of [ __ ] around. >> But John wants clearly defined rules and he wants everybody to play by them. Understood. I get it. and he says since like those rules aren't being followed, he won't he won't come o"
+        }
+      ],
+      "appearance_status": "uncertain"
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "12:05",
+      "title": "Ethan Van Sciver",
+      "entities": [
+        "Ethan Van Sciver"
+      ],
+      "summary_seed": "a couple of days ago uh with Gail Simone saying I don't know Andrew Farrago. Nobody does. Nobody knows the guy who knew everybody. I know the name. I checked my emails and we briefly spoke a couple times about interviews on two occasions. Once in 2016 and then again in 2018. The recent allegations of gross behavior, which I gather he has confirmed, don't shock me to my core because I don't know him and I'm not that a",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "12:01",
+      "end": "24:03",
+      "title": "Ethan Van Sciver / Shane Davis / Jon Del Arroz",
+      "entities": [
+        "Ethan Van Sciver",
+        "Shane Davis",
+        "Jon Del Arroz"
+      ],
+      "summary_seed": "um exaby? And it better be baby Wolverine. I'm fat and 60. Anyway, actually the fat thing that was unnecessary, but she is 60. So she's trying to rewrite her history after torturing people online, tattling on people, ruining lives. >> Oh, Zach has no idea. >> Reputations ruining career. Suddenly, she just know she's just a silly old gal. >> No, you're a huge [ __ ] and you were a terror in the industry for >> true >>",
+      "clip_likelihood": false,
+      "transition_markers": 3
+    },
+    {
+      "start": "24:01",
+      "end": "35:53",
+      "title": "Ethan Van Sciver",
+      "entities": [
+        "Ethan Van Sciver"
+      ],
+      "summary_seed": "getting better at Kasa Vanskyver. I hope Kasa Vans Skyver that would be my house you know. So she's fully aware that like I'm going through personal problems while we're doing uh Firestorm. I'm going through a divorce and she's asking me like are things okay? And then later on she's like something was wrong with Ethan. He just [ __ ] went crazy. And I I don't understand why. I think he was just like mentally ill. Um",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "36:00",
+      "end": "48:03",
+      "title": "Shane Davis / Ethan Van Sciver / Anna That Star Wars Girl",
+      "entities": [
+        "Shane Davis",
+        "Ethan Van Sciver",
+        "Anna That Star Wars Girl",
+        "ComicsGate"
+      ],
+      "summary_seed": ">> [music] >> Still again. [music] >> 200 W Studios says, \"I was a huge Firestorm fan since 1978. Was there on day one when Fury came out, Raymond was in the uh Justice League, 30-year hero. No way was he racist. How come we don't black friends? Mom, why? Because uh it'd be great if mom told him. [laughter] All right, Gail, you write that. I'm going to write the other part. Gail, you can have you can write the part w",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "48:01",
+      "end": "01:00:05",
+      "title": "Yellow Flash / Liam Gray / Shane Davis",
+      "entities": [
+        "Yellow Flash",
+        "Liam Gray",
+        "Shane Davis",
+        "Aaron Imholte",
+        "Trashcast"
+      ],
+      "summary_seed": "cares. It's like it's not like uh oh no, you know, I've been in last place before. I've been in first place before. I've been in the middle most of the time. Um and it's not a big deal. We don't hate each other. You know, we're just kind of [ __ ] around. >> But John wants clearly defined rules and he wants everybody to play by them. Understood. I get it. and he says since like those rules aren't being followed, he w",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "01:00:02",
+      "end": "01:12:02",
+      "title": "Liam Gray / Ethan Van Sciver",
+      "entities": [
+        "Liam Gray",
+        "Ethan Van Sciver"
+      ],
+      "summary_seed": "in the evening. I'm looking for a freak. When I'm done blocked, take me to her house. >> Little force says, \"One added 30. It's a blowout.\" Yeah. Where are my super chats? I've been very entertaining. No super chats from you guys. I should just uh be quiet, I guess. [laughter] >> What is this? >> I love the way she looks like she [ __ ] herself. Get >> Wow. I'm in. Let me know uh the time. I'll be back in 30. Hell. A",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "01:12:10",
+      "end": "01:24:04",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": ">> [music] >> Go commandos is some proby I have done. >> It's horrifying at first thing in the morning. Got to make sure like Haley's not home. She's got to be certain conditions have to apply. Has to be like 5:00 a.m. So, nobody's awake. Kayle's not home. Um, she's at her dad's. We're at college. And, uh, yeah, I just I'll take off my clothes, wake up, go out back door, take off my clothes, jump in the pool first th",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "01:24:01",
+      "end": "01:36:01",
+      "title": "Yellow Flash / Cyberfrog / Ethan Van Sciver",
+      "entities": [
+        "Yellow Flash",
+        "Cyberfrog",
+        "Ethan Van Sciver",
+        "Frog Tony"
+      ],
+      "summary_seed": "Narwhal that >> what happened to Narwhal? Are you still streaming? I ain't seen heard. >> I got a bunch of Shing Samurai stuff. >> What happened in Norwalk? >> Y'all ain't got [laughter] Fraggle Rock. Y got no Fraggle Rock issue two. >> Oh, I got some I got some uh I got some [ __ ] that I bust >> Double Dragon issue one there. I love the black suit so much. >> Yeah, I love the black suit as well. >> What are they do",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    },
+    {
+      "start": "01:36:01",
+      "end": "01:47:57",
+      "title": "Frog Tony",
+      "entities": [
+        "Frog Tony"
+      ],
+      "summary_seed": "and I because I had nothing to do, I turned on a live stream and I went to the bar and uh I had comic skaters um super chat me to tip the bartender. The bartender had to create a drink called a Rose Tikico and he created this this um cocktail called the Rose Tikico and then you guys like duked him like 200 bucks in super chats. Uh it was really cool. It was fun. But there were no comic skaters there. It was just me b",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    },
+    {
+      "start": "01:48:07",
+      "end": "01:59:54",
+      "title": "Ethan Van Sciver",
+      "entities": [
+        "Ethan Van Sciver"
+      ],
+      "summary_seed": "Aside obsession, you're wasting your time if you don't make a sound. Keep making mistakes, deflecting the pressure. Stop talking. This was what you Hold on. Abuse and oppression. A small price to pay the land of Keep watching. Stop talking. What you say? Uh, Ethan Medusa's hand. Right hand looks like a left hand or right hand. This one. >> It does. Why? It does. Not to me. It doesn't. Oh, cuz you think this is the th",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "02:00:03",
+      "end": "02:12:04",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": "Early morning to everything away. Uh, no. No. Future says, \"What's up, Ethan?\" Uh, Donut Swan here. Wow. Hey, Donut Swan. I was just looking for some of your old instructional videos for my nephew when I saw you were alive. I got him the full Michael's load out. Great to see you. Hey, tell him good luck. Good to see you, too. Glad you're still around. Um, this one's going out to Abacus Flinch. [laughter] All right, w",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "02:12:01",
+      "end": "02:23:43",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": "tonight. Heat. Heat. When you are dead, I die. break down. I am I know why. >> [snorts] >> I'll break my Oh my god. Don't break my Fire down. Heat. Heat. Heat. [music] Heat. Heat. Heat. Heat. Heat. Uh, suck out Lanca. Somebody start a fight or something. Tism. Is that like a actual group? Yeah, it is. Thanks Lynch up to here recollections and whistle reminisce. Excuse me while I go have a piss. If I want to pull on s",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "02:24:05",
+      "end": "02:34:26",
+      "title": "Eric July",
+      "entities": [
+        "Eric July"
+      ],
+      "summary_seed": "Never explain just what happens. A winner, baby. That's the truth. >> That's the truth. >> Everyone's a winner, baby. That's no lie. >> You never fail to satisfy. >> I never knew what this song was called. A serious man says, \"How Eric July first hit my algo.\" My coworker was the drummer in this band. They open for a guy who did a collab with backwards, which I found when I Googled him. Message to the masses Blood an",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    }
+  ],
+  "claim_candidates": [
+    {
+      "claimant": "a rolodex of you said this and you",
+      "claim": "this and you said this.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "And one of the things I hate is when people come, you know, a rolodex of you said this and you said this and you said this."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "they're gonna play this goooo gaga.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "Now, I know they're gonna play this goooo gaga."
+    },
+    {
+      "claimant": "We don't have a clubhouse that",
+      "claim": "whisper network.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "We don't have a clubhouse that says whisper network."
+    },
+    {
+      "claimant": "I should have",
+      "claim": "and over about 10 more times.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "I should have said and over about 10 more times."
+    },
+    {
+      "claimant": "he",
+      "claim": "so many things over 75 years.\" Rich Johnson did a death by hyperlink.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "Um, and it's one of those things where they're like, \"Oh, he said so many things over 75 years.\" Rich Johnson did a death by hyperlink."
+    },
+    {
+      "claimant": "He",
+      "claim": "a few politically incorrect things.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "He said a few politically incorrect things."
+    },
+    {
+      "claimant": "Ethan",
+      "claim": "that and she was going directly to Jim Lee.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "Well, Ethan said that and she was going directly to Jim Lee."
+    },
+    {
+      "claimant": "was commenting on this video and they",
+      "claim": "this thing and TW and they're friends with D.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "By the way, do you know this person was commenting on this video and they said this thing and TW and they're friends with D."
+    },
+    {
+      "claimant": "as a as a uh Whiplash",
+      "claim": "in uh Iron Man 2, you come from a family of thieves and butchers.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "She's an old fat lady trying to, as a as a uh Whiplash said in uh Iron Man 2, you come from a family of thieves and butchers."
+    },
+    {
+      "claimant": "remember when this person",
+      "claim": "this, this, this, this, and this, and I did this, this, this, this is, this, and this to harm you.",
+      "timestamp": "12:01",
+      "status": "candidate_claim",
+      "receipt": "I'll be talking about someone, give them a good review, they're like, remember when this person said this, this, this, this, and this, and I did this, this, this, this is, this, and this to harm you."
+    },
+    {
+      "claimant": "and she was talking about satists and she",
+      "claim": "that satists famously they know they're sadists.",
+      "timestamp": "12:01",
+      "status": "opinion_or_inference",
+      "receipt": "I got a really, really interesting comment by I believe it was and she was talking about satists and she said that satists famously they know they're sadists."
+    },
+    {
+      "claimant": "Uh which she",
+      "claim": "being uh a part of.",
+      "timestamp": "12:01",
+      "status": "candidate_claim",
+      "receipt": "Uh which she denies being uh a part of."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "you've gotten into a good habit with that on Backirl.",
+      "timestamp": "12:01",
+      "status": "opinion_or_inference",
+      "receipt": "I think you've gotten into a good habit with that on Backirl."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "he was just like mentally ill.",
+      "timestamp": "24:01",
+      "status": "opinion_or_inference",
+      "receipt": "I think he was just like mentally ill."
+    },
+    {
+      "claimant": "And when Zach",
+      "claim": "that she's a terror uh she was a terror to work with, he doesn't know the half of it.",
+      "timestamp": "24:01",
+      "status": "candidate_claim",
+      "receipt": "And when Zach says that she's a terror uh she was a terror to work with, he doesn't know the half of it."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "about that all the time and then like innocent like what what did I do?",
+      "timestamp": "24:01",
+      "status": "opinion_or_inference",
+      "receipt": "And then like you know as soon as I was getting cancelled she was right there right there to put her boot on my [ __ ] neck and I think about that all the time and then like innocent like what what did I do?"
+    },
+    {
+      "claimant": "that like she was without work and so I",
+      "claim": "how about Gail?",
+      "timestamp": "24:01",
+      "status": "candidate_claim",
+      "receipt": "I like the opportunity to work on Firestorm was because of me you know I was like I thought we were friends and I saw that like she was without work and so I said how about Gail?"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "who hate her.",
+      "timestamp": "24:01",
+      "status": "candidate_claim",
+      "receipt": "And then she give me a list of people like, you know, that I know who hate her."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that situation that we're looking at where it's like Rachel was like, \"I gave you the notes for issue three two days ago.",
+      "timestamp": "24:01",
+      "status": "opinion_or_inference",
+      "receipt": "But I think that situation that we're looking at where it's like Rachel was like, \"I gave you the notes for issue three two days ago."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that was part of that argument was part of what led to getting Gail off of the book and then suggesting that I plot not just uh what was I doing?",
+      "timestamp": "24:01",
+      "status": "opinion_or_inference",
+      "receipt": "I think that was part of that argument was part of what led to getting Gail off of the book and then suggesting that I plot not just uh what was I doing?"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "two issues write and draw Firestorm which I didn't even want to do.",
+      "timestamp": "24:01",
+      "status": "opinion_or_inference",
+      "receipt": "Did I think two issues write and draw Firestorm which I didn't even want to do."
+    },
+    {
+      "claimant": "Geralt",
+      "claim": "you can avoid these problems by having no friends.",
+      "timestamp": "24:01",
+      "status": "candidate_claim",
+      "receipt": "Geralt says you can avoid these problems by having no friends."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "it's funny.",
+      "timestamp": "36:00",
+      "status": "opinion_or_inference",
+      "receipt": "Uh, when I hear it sometimes, I think it's funny."
+    },
+    {
+      "claimant": "Gail said that I had black Gail",
+      "claim": "that I Wait, Gail said that I said Black Lightning is my black friend, and that makes me prejudice.",
+      "timestamp": "36:00",
+      "status": "candidate_claim",
+      "receipt": "Gail said that I had black Gail said that I Wait, Gail said that I said Black Lightning is my black friend, and that makes me prejudice."
+    },
+    {
+      "claimant": "he",
+      "claim": "I cheated and then Shane was like, \"Uh, John, you're walking down a lonely road right now.\" Which I took to mean that John is like, \"Fuck ES.\" And Shane's like, \"No, you can't say [ __ ] EVS.\" Like, it's you will walk down a lonely road if you do or something like that.",
+      "timestamp": "36:00",
+      "status": "candidate_claim",
+      "receipt": "Yeah, Melon called me a cheater and um yeah, he said I cheated and then Shane was like, \"Uh, John, you're walking down a lonely road right now.\" Which I took to mean that John is like, \"Fuck ES.\" And Shane's like, \"No, you can't say [ __ ] EVS.\" Like, it's you will walk down a lonely road if you do or something like that."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "it bothers Mike.",
+      "timestamp": "36:00",
+      "status": "candidate_claim",
+      "receipt": "Like he's like I want to win over and over again because I know it bothers Mike."
+    },
+    {
+      "claimant": "and he",
+      "claim": "since like those rules aren't being followed, he won't he won't come on the show.",
+      "timestamp": "48:01",
+      "status": "candidate_claim",
+      "receipt": "and he says since like those rules aren't being followed, he won't he won't come on the show."
+    },
+    {
+      "claimant": "cuz John",
+      "claim": "something, you know, it's appreciated, but I much rather have them on the show.",
+      "timestamp": "48:01",
+      "status": "candidate_claim",
+      "receipt": "You know, he does the kind of negging to get better sales of like this is never going to get to $250 and then it gets to $250 cuz John said something, you know, it's appreciated, but I much rather have them on the show."
+    },
+    {
+      "claimant": "I've",
+      "claim": "that to them before and they say ha [ __ ] girl says then don't cheat.",
+      "timestamp": "48:01",
+      "status": "candidate_claim",
+      "receipt": "I've said that to them before and they say ha [ __ ] girl says then don't cheat."
+    },
+    {
+      "claimant": "Grocery bagging has been really busy",
+      "claim": "Wilberforce booster.",
+      "timestamp": "48:01",
+      "status": "candidate_claim",
+      "receipt": "[music] Grocery bagging has been really busy says Wilberforce booster."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "I've been on there or I was on the professionals.",
+      "timestamp": "48:01",
+      "status": "opinion_or_inference",
+      "receipt": "I think I've been on there or I was on the professionals."
+    },
+    {
+      "claimant": "Somebody",
+      "claim": "you do or like maybe she told me it was Patrick T.",
+      "timestamp": "48:01",
+      "status": "candidate_claim",
+      "receipt": "Did you dox?\" Somebody said you do or like maybe she told me it was Patrick T."
+    },
+    {
+      "claimant": "that",
+      "claim": "uh um figure out what evil looks like, to me, you seem pretty comfortable.",
+      "timestamp": "48:01",
+      "status": "candidate_claim",
+      "receipt": "Once you send me [ __ ] that says uh um figure out what evil looks like, to me, you seem pretty comfortable."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "he's a psychopath.",
+      "timestamp": "01:00:02",
+      "status": "opinion_or_inference",
+      "receipt": "I told Anna that I think he's a psychopath."
+    },
+    {
+      "claimant": "but I",
+      "claim": "I understand that like, you know, he's uh dropping coin on your show.",
+      "timestamp": "01:00:02",
+      "status": "candidate_claim",
+      "receipt": "Um, but I said I understand that like, you know, he's uh dropping coin on your show."
+    },
+    {
+      "claimant": "Liam was put in this place by Nick",
+      "claim": "sworn rarer.",
+      "timestamp": "01:00:02",
+      "status": "candidate_claim",
+      "receipt": "[music] Liam was put in this place by Nick says sworn rarer."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "Liam got the better of that exchange.",
+      "timestamp": "01:00:02",
+      "status": "opinion_or_inference",
+      "receipt": "I think Liam got the better of that exchange."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "you in the beer hall back in 32.",
+      "timestamp": "01:12:10",
+      "status": "hearsay_candidate",
+      "receipt": "It'd be something like I heard you in the beer hall back in 32."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "they only printed like 8,000 copies of her first appearance.",
+      "timestamp": "01:12:10",
+      "status": "opinion_or_inference",
+      "receipt": "And NYX, I think they only printed like 8,000 copies of her first appearance."
+    },
+    {
+      "claimant": "I never",
+      "claim": "I was a geek girl.",
+      "timestamp": "01:12:10",
+      "status": "candidate_claim",
+      "receipt": "I never said I was a geek girl."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "everyone has that book in the world.",
+      "timestamp": "01:12:10",
+      "status": "opinion_or_inference",
+      "receipt": "I think everyone has that book in the world."
+    }
+  ],
+  "quote_candidates": [
+    {
+      "timestamp": "00:00",
+      "text": "My DMs sit empty of pro friends except for work issues for days at a time.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "00:00",
+      "text": "This is how men get fired every [ __ ] day for the last 30 plus years.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "00:00",
+      "text": "you decided to flap your gums and try to get a living legend cancelled at the swan song of his career and and what have you produced?",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "00:00",
+      "text": "That they cancelled doing um [laughter] they cancelled studying cultures in um high school science classes.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "12:01",
+      "text": "But we're going to need other options for issue four.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "12:01",
+      "text": "However, I thought the solution was that Ethan would plot issue 4.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "12:01",
+      "text": "I spent all the all day on this yesterday uh when I could easily have fixed the issue and moved on.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "24:01",
+      "text": "And then like you know as soon as I was getting cancelled she was right there right there to put her boot on my [ __ ] neck and I think about that all the time and then like innocent like what what did I do?",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "24:01",
+      "text": "But I think that situation that we're looking at where it's like Rachel was like, \"I gave you the notes for issue three two days ago.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "24:01",
+      "text": "I was like outlining it or something plot description or something but actually fully plot um a couple of issues of Firestorm and then eventually write them which is what I did.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "24:01",
+      "text": "Did I think two issues write and draw Firestorm which I didn't even want to do.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "24:01",
+      "text": "Gail [ __ ] it up with issue number one.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "24:01",
+      "text": "We got to deal with race issues in this book.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "24:01",
+      "text": "That was my favorite part of the first issue cuz it was something different and it made the uh made it feel like the book had potential to go somewhere beyond the Raymond Stein dynamic that was played out.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "01:00:02",
+      "text": "I don't have any copyright strikes.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "00:00",
+      "text": "She was always in the mix until about five years ago.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "12:01",
+      "text": "They just there was always the next target.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "12:01",
+      "text": "Um, and for decades, there was always somebody next.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "12:01",
+      "text": "There was never a time where she was just chill.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "12:01",
+      "text": "I can never understand the notion that saying something bizarre cheerily somehow makes it have meaning.",
+      "significance_score": 1
+    }
+  ],
+  "relationship_signals": [
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Shane Davis",
+      "signal_type": "criticised",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": "um exaby? And it better be baby Wolverine. I'm fat and 60. Anyway, actually the fat thing that was unnecessary, but she is 60. So she's trying to rewrite her history after torturing people online, tattling on people, ruining lives. >> Oh, Zach has no idea. >> Reputations ruining career. Suddenly, she just know she's just a silly old gal. >> No, you're a huge [ __ ] and you were a terror in the industry for >> true >> decades. No, you're",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Jon Del Arroz",
+      "signal_type": "criticised",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": "um exaby? And it better be baby Wolverine. I'm fat and 60. Anyway, actually the fat thing that was unnecessary, but she is 60. So she's trying to rewrite her history after torturing people online, tattling on people, ruining lives. >> Oh, Zach has no idea. >> Reputations ruining career. Suddenly, she just know she's just a silly old gal. >> No, you're a huge [ __ ] and you were a terror in the industry for >> true >> decades. No, you're",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Shane Davis",
+      "right": "Jon Del Arroz",
+      "signal_type": "criticised",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": "own opinions, man. His morality kind of just stays the same. uh he just kind of uh you know is talks about who is uh the most annoying to him at any given point and the zeros are annoying to him right now. Will JDA join Shane Davis in Back Me. What is this Katie clip? Do I watch that or do I put on music? I don't [clears throat] know. Yeah, that was great, man. Part of me, like for the longest time, I've been thinking about really illustrating wha",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Shane Davis",
+      "signal_type": "criticised",
+      "timestamp": "36:00",
+      "confidence": 0.45,
+      "receipt": ">> [music] >> Still again. [music] >> 200 W Studios says, \"I was a huge Firestorm fan since 1978. Was there on day one when Fury came out, Raymond was in the uh Justice League, 30-year hero. No way was he racist. How come we don't black friends? Mom, why? Because uh it'd be great if mom told him. [laughter] All right, Gail, you write that. I'm going to write the other part. Gail, you can have you can write the part where Ronnie uh asks",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Anna That Star Wars Girl",
+      "signal_type": "criticised",
+      "timestamp": "36:00",
+      "confidence": 0.45,
+      "receipt": ">> [music] >> Still again. [music] >> 200 W Studios says, \"I was a huge Firestorm fan since 1978. Was there on day one when Fury came out, Raymond was in the uh Justice League, 30-year hero. No way was he racist. How come we don't black friends? Mom, why? Because uh it'd be great if mom told him. [laughter] All right, Gail, you write that. I'm going to write the other part. Gail, you can have you can write the part where Ronnie uh asks",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "ComicsGate",
+      "signal_type": "criticised",
+      "timestamp": "36:00",
+      "confidence": 0.45,
+      "receipt": ">> [music] >> Still again. [music] >> 200 W Studios says, \"I was a huge Firestorm fan since 1978. Was there on day one when Fury came out, Raymond was in the uh Justice League, 30-year hero. No way was he racist. How come we don't black friends? Mom, why? Because uh it'd be great if mom told him. [laughter] All right, Gail, you write that. I'm going to write the other part. Gail, you can have you can write the part where Ronnie uh asks",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Shane Davis",
+      "right": "Anna That Star Wars Girl",
+      "signal_type": "criticised",
+      "timestamp": "36:00",
+      "confidence": 0.45,
+      "receipt": ">> [music] >> Still again. [music] >> 200 W Studios says, \"I was a huge Firestorm fan since 1978. Was there on day one when Fury came out, Raymond was in the uh Justice League, 30-year hero. No way was he racist. How come we don't black friends? Mom, why? Because uh it'd be great if mom told him. [laughter] All right, Gail, you write that. I'm going to write the other part. Gail, you can have you can write the part where Ronnie uh asks",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Shane Davis",
+      "right": "ComicsGate",
+      "signal_type": "criticised",
+      "timestamp": "36:00",
+      "confidence": 0.45,
+      "receipt": ">> [music] >> Still again. [music] >> 200 W Studios says, \"I was a huge Firestorm fan since 1978. Was there on day one when Fury came out, Raymond was in the uh Justice League, 30-year hero. No way was he racist. How come we don't black friends? Mom, why? Because uh it'd be great if mom told him. [laughter] All right, Gail, you write that. I'm going to write the other part. Gail, you can have you can write the part where Ronnie uh asks",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Anna That Star Wars Girl",
+      "right": "ComicsGate",
+      "signal_type": "criticised",
+      "timestamp": "36:00",
+      "confidence": 0.45,
+      "receipt": ">> [music] >> Still again. [music] >> 200 W Studios says, \"I was a huge Firestorm fan since 1978. Was there on day one when Fury came out, Raymond was in the uh Justice League, 30-year hero. No way was he racist. How come we don't black friends? Mom, why? Because uh it'd be great if mom told him. [laughter] All right, Gail, you write that. I'm going to write the other part. Gail, you can have you can write the part where Ronnie uh asks",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Shane Davis",
+      "signal_type": "friendship_claim",
+      "timestamp": "36:00",
+      "confidence": 0.45,
+      "receipt": ">> [music] >> Still again. [music] >> 200 W Studios says, \"I was a huge Firestorm fan since 1978. Was there on day one when Fury came out, Raymond was in the uh Justice League, 30-year hero. No way was he racist. How come we don't black friends? Mom, why? Because uh it'd be great if mom told him. [laughter] All right, Gail, you write that. I'm going to write the other part. Gail, you can have you can write the part where Ronnie uh asks",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Anna That Star Wars Girl",
+      "signal_type": "friendship_claim",
+      "timestamp": "36:00",
+      "confidence": 0.45,
+      "receipt": ">> [music] >> Still again. [music] >> 200 W Studios says, \"I was a huge Firestorm fan since 1978. Was there on day one when Fury came out, Raymond was in the uh Justice League, 30-year hero. No way was he racist. How come we don't black friends? Mom, why? Because uh it'd be great if mom told him. [laughter] All right, Gail, you write that. I'm going to write the other part. Gail, you can have you can write the part where Ronnie uh asks",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "ComicsGate",
+      "signal_type": "friendship_claim",
+      "timestamp": "36:00",
+      "confidence": 0.45,
+      "receipt": ">> [music] >> Still again. [music] >> 200 W Studios says, \"I was a huge Firestorm fan since 1978. Was there on day one when Fury came out, Raymond was in the uh Justice League, 30-year hero. No way was he racist. How come we don't black friends? Mom, why? Because uh it'd be great if mom told him. [laughter] All right, Gail, you write that. I'm going to write the other part. Gail, you can have you can write the part where Ronnie uh asks",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Shane Davis",
+      "right": "Anna That Star Wars Girl",
+      "signal_type": "friendship_claim",
+      "timestamp": "36:00",
+      "confidence": 0.45,
+      "receipt": ">> [music] >> Still again. [music] >> 200 W Studios says, \"I was a huge Firestorm fan since 1978. Was there on day one when Fury came out, Raymond was in the uh Justice League, 30-year hero. No way was he racist. How come we don't black friends? Mom, why? Because uh it'd be great if mom told him. [laughter] All right, Gail, you write that. I'm going to write the other part. Gail, you can have you can write the part where Ronnie uh asks",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Shane Davis",
+      "right": "ComicsGate",
+      "signal_type": "friendship_claim",
+      "timestamp": "36:00",
+      "confidence": 0.45,
+      "receipt": ">> [music] >> Still again. [music] >> 200 W Studios says, \"I was a huge Firestorm fan since 1978. Was there on day one when Fury came out, Raymond was in the uh Justice League, 30-year hero. No way was he racist. How come we don't black friends? Mom, why? Because uh it'd be great if mom told him. [laughter] All right, Gail, you write that. I'm going to write the other part. Gail, you can have you can write the part where Ronnie uh asks",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Anna That Star Wars Girl",
+      "right": "ComicsGate",
+      "signal_type": "friendship_claim",
+      "timestamp": "36:00",
+      "confidence": 0.45,
+      "receipt": ">> [music] >> Still again. [music] >> 200 W Studios says, \"I was a huge Firestorm fan since 1978. Was there on day one when Fury came out, Raymond was in the uh Justice League, 30-year hero. No way was he racist. How come we don't black friends? Mom, why? Because uh it'd be great if mom told him. [laughter] All right, Gail, you write that. I'm going to write the other part. Gail, you can have you can write the part where Ronnie uh asks",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Shane Davis",
+      "signal_type": "criticised",
+      "timestamp": "48:01",
+      "confidence": 0.45,
+      "receipt": "cares. It's like it's not like uh oh no, you know, I've been in last place before. I've been in first place before. I've been in the middle most of the time. Um and it's not a big deal. We don't hate each other. You know, we're just kind of [ __ ] around. >> But John wants clearly defined rules and he wants everybody to play by them. Understood. I get it. and he says since like those rules aren't being followed, he won't he won't come o",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Yellow Flash",
+      "signal_type": "criticised",
+      "timestamp": "48:01",
+      "confidence": 0.45,
+      "receipt": "cares. It's like it's not like uh oh no, you know, I've been in last place before. I've been in first place before. I've been in the middle most of the time. Um and it's not a big deal. We don't hate each other. You know, we're just kind of [ __ ] around. >> But John wants clearly defined rules and he wants everybody to play by them. Understood. I get it. and he says since like those rules aren't being followed, he won't he won't come o",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Aaron Imholte",
+      "signal_type": "criticised",
+      "timestamp": "48:01",
+      "confidence": 0.45,
+      "receipt": "cares. It's like it's not like uh oh no, you know, I've been in last place before. I've been in first place before. I've been in the middle most of the time. Um and it's not a big deal. We don't hate each other. You know, we're just kind of [ __ ] around. >> But John wants clearly defined rules and he wants everybody to play by them. Understood. I get it. and he says since like those rules aren't being followed, he won't he won't come o",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Trashcast",
+      "signal_type": "criticised",
+      "timestamp": "48:01",
+      "confidence": 0.45,
+      "receipt": "cares. It's like it's not like uh oh no, you know, I've been in last place before. I've been in first place before. I've been in the middle most of the time. Um and it's not a big deal. We don't hate each other. You know, we're just kind of [ __ ] around. >> But John wants clearly defined rules and he wants everybody to play by them. Understood. I get it. and he says since like those rules aren't being followed, he won't he won't come o",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Shane Davis",
+      "right": "Yellow Flash",
+      "signal_type": "criticised",
+      "timestamp": "48:01",
+      "confidence": 0.45,
+      "receipt": "cares. It's like it's not like uh oh no, you know, I've been in last place before. I've been in first place before. I've been in the middle most of the time. Um and it's not a big deal. We don't hate each other. You know, we're just kind of [ __ ] around. >> But John wants clearly defined rules and he wants everybody to play by them. Understood. I get it. and he says since like those rules aren't being followed, he won't he won't come o",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Shane Davis",
+      "right": "Aaron Imholte",
+      "signal_type": "criticised",
+      "timestamp": "48:01",
+      "confidence": 0.45,
+      "receipt": "cares. It's like it's not like uh oh no, you know, I've been in last place before. I've been in first place before. I've been in the middle most of the time. Um and it's not a big deal. We don't hate each other. You know, we're just kind of [ __ ] around. >> But John wants clearly defined rules and he wants everybody to play by them. Understood. I get it. and he says since like those rules aren't being followed, he won't he won't come o",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Shane Davis",
+      "right": "Trashcast",
+      "signal_type": "criticised",
+      "timestamp": "48:01",
+      "confidence": 0.45,
+      "receipt": "cares. It's like it's not like uh oh no, you know, I've been in last place before. I've been in first place before. I've been in the middle most of the time. Um and it's not a big deal. We don't hate each other. You know, we're just kind of [ __ ] around. >> But John wants clearly defined rules and he wants everybody to play by them. Understood. I get it. and he says since like those rules aren't being followed, he won't he won't come o",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Yellow Flash",
+      "right": "Aaron Imholte",
+      "signal_type": "criticised",
+      "timestamp": "48:01",
+      "confidence": 0.45,
+      "receipt": "and they'll do like a proper docs of someone >> and it's like, holy [ __ ] But like uh >> you know my dude >> went through this time period where he sent me a dozen shitty [ __ ] messages uh under his real name. >> Now Yellow Flash has never done that. Yellow Flash has never sent me an email, not even one under his real name. Uh, neither has Umbrella guy. Anybody who actually wants to values their privacy has never done that before. You're that's",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Yellow Flash",
+      "right": "Trashcast",
+      "signal_type": "criticised",
+      "timestamp": "48:01",
+      "confidence": 0.45,
+      "receipt": "and they'll do like a proper docs of someone >> and it's like, holy [ __ ] But like uh >> you know my dude >> went through this time period where he sent me a dozen shitty [ __ ] messages uh under his real name. >> Now Yellow Flash has never done that. Yellow Flash has never sent me an email, not even one under his real name. Uh, neither has Umbrella guy. Anybody who actually wants to values their privacy has never done that before. You're that's",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Aaron Imholte",
+      "right": "Trashcast",
+      "signal_type": "criticised",
+      "timestamp": "48:01",
+      "confidence": 0.45,
+      "receipt": "cares. It's like it's not like uh oh no, you know, I've been in last place before. I've been in first place before. I've been in the middle most of the time. Um and it's not a big deal. We don't hate each other. You know, we're just kind of [ __ ] around. >> But John wants clearly defined rules and he wants everybody to play by them. Understood. I get it. and he says since like those rules aren't being followed, he won't he won't come o",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Shane Davis",
+      "signal_type": "friendship_claim",
+      "timestamp": "48:01",
+      "confidence": 0.45,
+      "receipt": "cares. It's like it's not like uh oh no, you know, I've been in last place before. I've been in first place before. I've been in the middle most of the time. Um and it's not a big deal. We don't hate each other. You know, we're just kind of [ __ ] around. >> But John wants clearly defined rules and he wants everybody to play by them. Understood. I get it. and he says since like those rules aren't being followed, he won't he won't come o",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Yellow Flash",
+      "signal_type": "friendship_claim",
+      "timestamp": "48:01",
+      "confidence": 0.45,
+      "receipt": "cares. It's like it's not like uh oh no, you know, I've been in last place before. I've been in first place before. I've been in the middle most of the time. Um and it's not a big deal. We don't hate each other. You know, we're just kind of [ __ ] around. >> But John wants clearly defined rules and he wants everybody to play by them. Understood. I get it. and he says since like those rules aren't being followed, he won't he won't come o",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Aaron Imholte",
+      "signal_type": "friendship_claim",
+      "timestamp": "48:01",
+      "confidence": 0.45,
+      "receipt": "cares. It's like it's not like uh oh no, you know, I've been in last place before. I've been in first place before. I've been in the middle most of the time. Um and it's not a big deal. We don't hate each other. You know, we're just kind of [ __ ] around. >> But John wants clearly defined rules and he wants everybody to play by them. Understood. I get it. and he says since like those rules aren't being followed, he won't he won't come o",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Trashcast",
+      "signal_type": "friendship_claim",
+      "timestamp": "48:01",
+      "confidence": 0.45,
+      "receipt": "cares. It's like it's not like uh oh no, you know, I've been in last place before. I've been in first place before. I've been in the middle most of the time. Um and it's not a big deal. We don't hate each other. You know, we're just kind of [ __ ] around. >> But John wants clearly defined rules and he wants everybody to play by them. Understood. I get it. and he says since like those rules aren't being followed, he won't he won't come o",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Shane Davis",
+      "right": "Yellow Flash",
+      "signal_type": "friendship_claim",
+      "timestamp": "48:01",
+      "confidence": 0.45,
+      "receipt": "cares. It's like it's not like uh oh no, you know, I've been in last place before. I've been in first place before. I've been in the middle most of the time. Um and it's not a big deal. We don't hate each other. You know, we're just kind of [ __ ] around. >> But John wants clearly defined rules and he wants everybody to play by them. Understood. I get it. and he says since like those rules aren't being followed, he won't he won't come o",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Shane Davis",
+      "right": "Aaron Imholte",
+      "signal_type": "friendship_claim",
+      "timestamp": "48:01",
+      "confidence": 0.45,
+      "receipt": "cares. It's like it's not like uh oh no, you know, I've been in last place before. I've been in first place before. I've been in the middle most of the time. Um and it's not a big deal. We don't hate each other. You know, we're just kind of [ __ ] around. >> But John wants clearly defined rules and he wants everybody to play by them. Understood. I get it. and he says since like those rules aren't being followed, he won't he won't come o",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Shane Davis",
+      "right": "Trashcast",
+      "signal_type": "friendship_claim",
+      "timestamp": "48:01",
+      "confidence": 0.45,
+      "receipt": "cares. It's like it's not like uh oh no, you know, I've been in last place before. I've been in first place before. I've been in the middle most of the time. Um and it's not a big deal. We don't hate each other. You know, we're just kind of [ __ ] around. >> But John wants clearly defined rules and he wants everybody to play by them. Understood. I get it. and he says since like those rules aren't being followed, he won't he won't come o",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Yellow Flash",
+      "right": "Aaron Imholte",
+      "signal_type": "friendship_claim",
+      "timestamp": "48:01",
+      "confidence": 0.45,
+      "receipt": "and they'll do like a proper docs of someone >> and it's like, holy [ __ ] But like uh >> you know my dude >> went through this time period where he sent me a dozen shitty [ __ ] messages uh under his real name. >> Now Yellow Flash has never done that. Yellow Flash has never sent me an email, not even one under his real name. Uh, neither has Umbrella guy. Anybody who actually wants to values their privacy has never done that before. You're that's",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Yellow Flash",
+      "right": "Trashcast",
+      "signal_type": "friendship_claim",
+      "timestamp": "48:01",
+      "confidence": 0.45,
+      "receipt": "and they'll do like a proper docs of someone >> and it's like, holy [ __ ] But like uh >> you know my dude >> went through this time period where he sent me a dozen shitty [ __ ] messages uh under his real name. >> Now Yellow Flash has never done that. Yellow Flash has never sent me an email, not even one under his real name. Uh, neither has Umbrella guy. Anybody who actually wants to values their privacy has never done that before. You're that's",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Aaron Imholte",
+      "right": "Trashcast",
+      "signal_type": "friendship_claim",
+      "timestamp": "48:01",
+      "confidence": 0.45,
+      "receipt": "cares. It's like it's not like uh oh no, you know, I've been in last place before. I've been in first place before. I've been in the middle most of the time. Um and it's not a big deal. We don't hate each other. You know, we're just kind of [ __ ] around. >> But John wants clearly defined rules and he wants everybody to play by them. Understood. I get it. and he says since like those rules aren't being followed, he won't he won't come o",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Ethan Van Sciver",
+      "signal_type": "legal_conflict",
+      "timestamp": "01:00:02",
+      "confidence": 0.45,
+      "receipt": "in the evening. I'm looking for a freak. When I'm done blocked, take me to her house. >> Little force says, \"One added 30. It's a blowout.\" Yeah. Where are my super chats? I've been very entertaining. No super chats from you guys. I should just uh be quiet, I guess. [laughter] >> What is this? >> I love the way she looks like she [ __ ] herself. Get >> Wow. I'm in. Let me know uh the time. I'll be back in 30. Hell. All right. >> You wan",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Yellow Flash",
+      "signal_type": "defended",
+      "timestamp": "01:24:01",
+      "confidence": 0.45,
+      "receipt": "Narwhal that >> what happened to Narwhal? Are you still streaming? I ain't seen heard. >> I got a bunch of Shing Samurai stuff. >> What happened in Norwalk? >> Y'all ain't got [laughter] Fraggle Rock. Y got no Fraggle Rock issue two. >> Oh, I got some I got some uh I got some [ __ ] that I bust >> Double Dragon issue one there. I love the black suit so much. >> Yeah, I love the black suit as well. >> What are they doing? >> Somebody gav",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Cyberfrog",
+      "signal_type": "defended",
+      "timestamp": "01:24:01",
+      "confidence": 0.45,
+      "receipt": "Narwhal that >> what happened to Narwhal? Are you still streaming? I ain't seen heard. >> I got a bunch of Shing Samurai stuff. >> What happened in Norwalk? >> Y'all ain't got [laughter] Fraggle Rock. Y got no Fraggle Rock issue two. >> Oh, I got some I got some uh I got some [ __ ] that I bust >> Double Dragon issue one there. I love the black suit so much. >> Yeah, I love the black suit as well. >> What are they doing? >> Somebody gav",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Frog Tony",
+      "signal_type": "defended",
+      "timestamp": "01:24:01",
+      "confidence": 0.45,
+      "receipt": "Narwhal that >> what happened to Narwhal? Are you still streaming? I ain't seen heard. >> I got a bunch of Shing Samurai stuff. >> What happened in Norwalk? >> Y'all ain't got [laughter] Fraggle Rock. Y got no Fraggle Rock issue two. >> Oh, I got some I got some uh I got some [ __ ] that I bust >> Double Dragon issue one there. I love the black suit so much. >> Yeah, I love the black suit as well. >> What are they doing? >> Somebody gav",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Yellow Flash",
+      "right": "Cyberfrog",
+      "signal_type": "defended",
+      "timestamp": "01:24:01",
+      "confidence": 0.45,
+      "receipt": "of these. >> I just wanted to hear Matt chimp out. He's not chimping out. Uh, who? Oh, Liam's live. Let's see what Liam's doing. Hold on a [snorts] second here. Uh, there it is. life with Liam >> either. But >> Anna and Yellow Flash hating on Liam makes no sense to me. What could Liam have possibly done to them to have such vitrial for him? >> The smallest. >> Oh, he's going to chimp. >> You know what I mean? It's like everyone else like you know l",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Yellow Flash",
+      "right": "Frog Tony",
+      "signal_type": "defended",
+      "timestamp": "01:24:01",
+      "confidence": 0.45,
+      "receipt": "of these. >> I just wanted to hear Matt chimp out. He's not chimping out. Uh, who? Oh, Liam's live. Let's see what Liam's doing. Hold on a [snorts] second here. Uh, there it is. life with Liam >> either. But >> Anna and Yellow Flash hating on Liam makes no sense to me. What could Liam have possibly done to them to have such vitrial for him? >> The smallest. >> Oh, he's going to chimp. >> You know what I mean? It's like everyone else like you know l",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Cyberfrog",
+      "right": "Frog Tony",
+      "signal_type": "defended",
+      "timestamp": "01:24:01",
+      "confidence": 0.45,
+      "receipt": "] day. Like they were the guys that were against me. So I was like there should be no one else. Like we should be we should have such strong bones of >> Chuckie says >> looking for an update on the expected delivery of Cyberfrog 3. >> Yeah, I got to finish it. Chucky, I'm working on Rainbow the Brute first. >> Cyber Frog 3. We are 13 pages into it. That's it. Just 13 pages. >> That never matters. >> It's going to be a while. Let's get Let's get",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Yellow Flash",
+      "signal_type": "criticised",
+      "timestamp": "01:24:01",
+      "confidence": 0.45,
+      "receipt": "Narwhal that >> what happened to Narwhal? Are you still streaming? I ain't seen heard. >> I got a bunch of Shing Samurai stuff. >> What happened in Norwalk? >> Y'all ain't got [laughter] Fraggle Rock. Y got no Fraggle Rock issue two. >> Oh, I got some I got some uh I got some [ __ ] that I bust >> Double Dragon issue one there. I love the black suit so much. >> Yeah, I love the black suit as well. >> What are they doing? >> Somebody gav",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Cyberfrog",
+      "signal_type": "criticised",
+      "timestamp": "01:24:01",
+      "confidence": 0.45,
+      "receipt": "Narwhal that >> what happened to Narwhal? Are you still streaming? I ain't seen heard. >> I got a bunch of Shing Samurai stuff. >> What happened in Norwalk? >> Y'all ain't got [laughter] Fraggle Rock. Y got no Fraggle Rock issue two. >> Oh, I got some I got some uh I got some [ __ ] that I bust >> Double Dragon issue one there. I love the black suit so much. >> Yeah, I love the black suit as well. >> What are they doing? >> Somebody gav",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Frog Tony",
+      "signal_type": "criticised",
+      "timestamp": "01:24:01",
+      "confidence": 0.45,
+      "receipt": "Narwhal that >> what happened to Narwhal? Are you still streaming? I ain't seen heard. >> I got a bunch of Shing Samurai stuff. >> What happened in Norwalk? >> Y'all ain't got [laughter] Fraggle Rock. Y got no Fraggle Rock issue two. >> Oh, I got some I got some uh I got some [ __ ] that I bust >> Double Dragon issue one there. I love the black suit so much. >> Yeah, I love the black suit as well. >> What are they doing? >> Somebody gav",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Yellow Flash",
+      "right": "Cyberfrog",
+      "signal_type": "criticised",
+      "timestamp": "01:24:01",
+      "confidence": 0.45,
+      "receipt": "of these. >> I just wanted to hear Matt chimp out. He's not chimping out. Uh, who? Oh, Liam's live. Let's see what Liam's doing. Hold on a [snorts] second here. Uh, there it is. life with Liam >> either. But >> Anna and Yellow Flash hating on Liam makes no sense to me. What could Liam have possibly done to them to have such vitrial for him? >> The smallest. >> Oh, he's going to chimp. >> You know what I mean? It's like everyone else like you know l",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Yellow Flash",
+      "right": "Frog Tony",
+      "signal_type": "criticised",
+      "timestamp": "01:24:01",
+      "confidence": 0.45,
+      "receipt": "of these. >> I just wanted to hear Matt chimp out. He's not chimping out. Uh, who? Oh, Liam's live. Let's see what Liam's doing. Hold on a [snorts] second here. Uh, there it is. life with Liam >> either. But >> Anna and Yellow Flash hating on Liam makes no sense to me. What could Liam have possibly done to them to have such vitrial for him? >> The smallest. >> Oh, he's going to chimp. >> You know what I mean? It's like everyone else like you know l",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Cyberfrog",
+      "right": "Frog Tony",
+      "signal_type": "criticised",
+      "timestamp": "01:24:01",
+      "confidence": 0.45,
+      "receipt": "] day. Like they were the guys that were against me. So I was like there should be no one else. Like we should be we should have such strong bones of >> Chuckie says >> looking for an update on the expected delivery of Cyberfrog 3. >> Yeah, I got to finish it. Chucky, I'm working on Rainbow the Brute first. >> Cyber Frog 3. We are 13 pages into it. That's it. Just 13 pages. >> That never matters. >> It's going to be a while. Let's get Let's get",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Yellow Flash",
+      "signal_type": "promoted",
+      "timestamp": "01:24:01",
+      "confidence": 0.45,
+      "receipt": "Narwhal that >> what happened to Narwhal? Are you still streaming? I ain't seen heard. >> I got a bunch of Shing Samurai stuff. >> What happened in Norwalk? >> Y'all ain't got [laughter] Fraggle Rock. Y got no Fraggle Rock issue two. >> Oh, I got some I got some uh I got some [ __ ] that I bust >> Double Dragon issue one there. I love the black suit so much. >> Yeah, I love the black suit as well. >> What are they doing? >> Somebody gav",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Cyberfrog",
+      "signal_type": "promoted",
+      "timestamp": "01:24:01",
+      "confidence": 0.45,
+      "receipt": "Narwhal that >> what happened to Narwhal? Are you still streaming? I ain't seen heard. >> I got a bunch of Shing Samurai stuff. >> What happened in Norwalk? >> Y'all ain't got [laughter] Fraggle Rock. Y got no Fraggle Rock issue two. >> Oh, I got some I got some uh I got some [ __ ] that I bust >> Double Dragon issue one there. I love the black suit so much. >> Yeah, I love the black suit as well. >> What are they doing? >> Somebody gav",
+      "warning": "co-mention plus language signal; requires interpretation"
+    }
+  ],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

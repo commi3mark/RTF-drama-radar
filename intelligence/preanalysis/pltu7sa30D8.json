@@ -1,0 +1,565 @@
+{
+  "schema_version": "octopuss-preanalysis-v0.1",
+  "generated_at": "2026-07-15T21:04:20.789022+00:00",
+  "video_id": "pltu7sa30D8",
+  "title": "Scarlett lives her best life | #932",
+  "source": "Ministry of Dude",
+  "published": "2026-07-08T21:44:21+00:00",
+  "packet_hash": "e6a98934455996a283c4844217b378be49ee2475f9d550277560cf9c6060b5f6",
+  "coverage": {
+    "first_caption_second": 0.0,
+    "last_caption_second": 5464.679,
+    "timestamp_start": "00:00",
+    "timestamp_end": "01:31:04",
+    "caption_span_seconds": 5464.679,
+    "status": "transcript_present",
+    "note": "This measures the caption span only. It does not prove complete coverage of the original video."
+  },
+  "participant_candidates": [
+    {
+      "entity": "Ministry of Dude",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.72,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Ethan Van Sciver",
+      "mentions": 10,
+      "block_count": 3,
+      "first_timestamp": "01:00:00",
+      "last_timestamp": "01:31:04",
+      "discussion_span_seconds": 1864.0,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.862,
+        "positive_hits": 135,
+        "negative_hits": 10
+      },
+      "receipts": [
+        {
+          "timestamp": "01:00:00",
+          "excerpt": "I think I heard it. >> I thought she was drinking alone. >> I I kind of skimmed this before the show and I cuz you never She never shows what guy she's with. >> True. >> I thought she was drinking alone the entire time. I'm honestly like I was more surprised that she was drinking alone. >> But now like some guy's trying to hit on her by letting her shoot his blow darts. It's a very odd he doesn't go to his voice before. It's He sounds l"
+        },
+        {
+          "timestamp": "01:12:00",
+          "excerpt": "I'm sorry. No, that's that's wrong. We are $22 from the Charizard. >> Oh, [ __ ] >> Yeah. >> I don't know. [music] Miller life Milwaukee [music] Milwaukee. Anyways, I'm uh live but just for a minute uh uh I uh was just playing darts and I wanted to say happy 4th to everyone. I love everybody. >> Wow. >> But honestly, >> blow darts. This is me like pulling an Ethan on you >> cuz it's like, \"Hey, let's go IRL in a bar.\" >> Like she's just"
+        },
+        {
+          "timestamp": "01:24:01",
+          "excerpt": "soil. I don't want to get my passport renewed cuz I want I want to be American forever. Um, >> you want to be American forever? That's cool. >> My friends are always responsible. Like they're telling me it's [music] time to go. And then >> what friends? Who are your friends? Are the friends in this room right now? You you speak up. >> Let's go to Miami. >> Do not ask her who else is in the room. [music] You might get a few different ans"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Dick Masterson",
+      "mentions": 3,
+      "block_count": 3,
+      "first_timestamp": "36:01",
+      "last_timestamp": "01:31:04",
+      "discussion_span_seconds": 3303.1,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.895,
+        "positive_hits": 126,
+        "negative_hits": 7
+      },
+      "receipts": [
+        {
+          "timestamp": "36:01",
+          "excerpt": "did to Law Gorman's and what they did to uh uh the Brian Mansel family. >> Oh god. pig face as a hell of a cam. >> Yeah, it seems like uh that's uh that's just the thing they do. Um so I was this is a short one. I just saw this today and I thought this was hilarious considering who it's coming from. You guys remember this guy? Oh, you guys remember this guy? [applause] this very short game, man. [applause] >> So, apparently he's uh he's"
+        },
+        {
+          "timestamp": "01:12:00",
+          "excerpt": "I'm sorry. No, that's that's wrong. We are $22 from the Charizard. >> Oh, [ __ ] >> Yeah. >> I don't know. [music] Miller life Milwaukee [music] Milwaukee. Anyways, I'm uh live but just for a minute uh uh I uh was just playing darts and I wanted to say happy 4th to everyone. I love everybody. >> Wow. >> But honestly, >> blow darts. This is me like pulling an Ethan on you >> cuz it's like, \"Hey, let's go IRL in a bar.\" >> Like she's just"
+        },
+        {
+          "timestamp": "01:24:01",
+          "excerpt": "soil. I don't want to get my passport renewed cuz I want I want to be American forever. Um, >> you want to be American forever? That's cool. >> My friends are always responsible. Like they're telling me it's [music] time to go. And then >> what friends? Who are your friends? Are the friends in this room right now? You you speak up. >> Let's go to Miami. >> Do not ask her who else is in the room. [music] You might get a few different ans"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Frog Tony",
+      "mentions": 2,
+      "block_count": 1,
+      "first_timestamp": "01:00:00",
+      "last_timestamp": "01:12:02",
+      "discussion_span_seconds": 722.2,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.818,
+        "positive_hits": 60,
+        "negative_hits": 6
+      },
+      "receipts": [
+        {
+          "timestamp": "01:00:00",
+          "excerpt": "guy's trying to hit on her by letting her shoot his blow darts. It's a very odd he doesn't go to his voice before. It's He sounds like he has like 50% of his teeth in his mouth. >> Yeah, he sounds rough. >> Old [music] Frog Tony this time, >> dude. That would be funny, dude. What if Frog Tony was [ __ ] Scarlet all [laughter] of a sudden? be like, \"What? >> Whoa.\" [gasps] >> That's why he didn't want me to mention Ralph show. >> Weirdly enough,"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Aaron Imholte",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "01:24:01",
+      "last_timestamp": "01:31:04",
+      "discussion_span_seconds": 423.2,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "positive_hits": 19,
+        "negative_hits": 0
+      },
+      "receipts": [
+        {
+          "timestamp": "01:24:01",
+          "excerpt": "soil. I don't want to get my passport renewed cuz I want I want to be American forever. Um, >> you want to be American forever? That's cool. >> My friends are always responsible. Like they're telling me it's [music] time to go. And then >> what friends? Who are your friends? Are the friends in this room right now? You you speak up. >> Let's go to Miami. >> Do not ask her who else is in the room. [music] You might get a few different ans"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Shane Davis",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "12:01",
+      "last_timestamp": "24:04",
+      "discussion_span_seconds": 722.8,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.708,
+        "positive_hits": 41,
+        "negative_hits": 7
+      },
+      "receipts": [
+        {
+          "timestamp": "12:01",
+          "excerpt": "like not even a lit cigarette. >> You get just get out of here, you [ __ ] kids. This is not play place. This is where people live and sleep. Get out of here. I'm practicing. I'm trying. [laughter] >> By the way, Stephen sent like three 3,800 juice. >> That might be a whole >> See, we got um what we got? We got We got to go all the way to the top. I just Oh, why am I not in the fan funding one? There we go. Oh my god. Thank you very muc"
+        }
+      ],
+      "appearance_status": "uncertain"
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "12:03",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": "Heat. [music] [music] [music] Heat. >> [music] >> Heat. Heat. [music] >> [music] [music] >> Heat. Heat. [music] >> [music] [music] [music] >> Heat. Heat. Heat. [music] Heat. N. [music] [music] >> [music] [music] >> Heat. Heat. >> [music] [music] >> Heat. Heat. [music] Heat. Heat. [music] Heat. Heat. Heat. Heat. [music] [music] >> [music] [music] >> Heat. [music] Heat. Heat. [music] [music] >> [music] >> Heat. Heat. [",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "12:01",
+      "end": "24:04",
+      "title": "Shane Davis",
+      "entities": [
+        "Shane Davis"
+      ],
+      "summary_seed": "like not even a lit cigarette. >> You get just get out of here, you [ __ ] kids. This is not play place. This is where people live and sleep. Get out of here. I'm practicing. I'm trying. [laughter] >> By the way, Stephen sent like three 3,800 juice. >> That might be a whole >> See, we got um what we got? We got We got to go all the way to the top. I just Oh, why am I not in the fan funding one? There we go. Oh my god",
+      "clip_likelihood": false,
+      "transition_markers": 2
+    },
+    {
+      "start": "24:01",
+      "end": "36:04",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": "litigating civil cases in federal courts all over the country, including many jury trials. So, let's get into the analysis. Just before 9:00 a.m. Utah time this morning, Judge David Barlo issued this order granting the party's joint motion for the preliminary injunction, which specifically removes the gag order. So, let's take a look at this. >> Reckless Ben [cheering] can talk again. >> I don't know if you guys have",
+      "clip_likelihood": false,
+      "transition_markers": 2
+    },
+    {
+      "start": "36:01",
+      "end": "46:50",
+      "title": "Dick Masterson",
+      "entities": [
+        "Dick Masterson"
+      ],
+      "summary_seed": "did to Law Gorman's and what they did to uh uh the Brian Mansel family. >> Oh god. pig face as a hell of a cam. >> Yeah, it seems like uh that's uh that's just the thing they do. Um so I was this is a short one. I just saw this today and I thought this was hilarious considering who it's coming from. You guys remember this guy? Oh, you guys remember this guy? [applause] this very short game, man. [applause] >> So, app",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    },
+    {
+      "start": "48:54",
+      "end": "01:00:02",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": "Yeah, dude. Were you not paying attention? >> I thought it was a She has a weapon. >> I thought she was holding a pull queue. >> No, she had a dur blow gun. They put a dart in a blow gun till >> I don't think that's a a thing the bar has. I think she brought that >> which means she owes a blow owns a blow dart gun. >> I I hope she brought it. >> Kyle, there is no dark scar bro. >> In hell this blowdart gun was at the",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    },
+    {
+      "start": "01:00:00",
+      "end": "01:12:02",
+      "title": "Ethan Van Sciver / Frog Tony",
+      "entities": [
+        "Ethan Van Sciver",
+        "Frog Tony"
+      ],
+      "summary_seed": "I think I heard it. >> I thought she was drinking alone. >> I I kind of skimmed this before the show and I cuz you never She never shows what guy she's with. >> True. >> I thought she was drinking alone the entire time. I'm honestly like I was more surprised that she was drinking alone. >> But now like some guy's trying to hit on her by letting her shoot his blow darts. It's a very odd he doesn't go to his voice befo",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    },
+    {
+      "start": "01:12:00",
+      "end": "01:24:03",
+      "title": "Ethan Van Sciver / Dick Masterson",
+      "entities": [
+        "Ethan Van Sciver",
+        "Dick Masterson"
+      ],
+      "summary_seed": "I'm sorry. No, that's that's wrong. We are $22 from the Charizard. >> Oh, [ __ ] >> Yeah. >> I don't know. [music] Miller life Milwaukee [music] Milwaukee. Anyways, I'm uh live but just for a minute uh uh I uh was just playing darts and I wanted to say happy 4th to everyone. I love everybody. >> Wow. >> But honestly, >> blow darts. This is me like pulling an Ethan on you >> cuz it's like, \"Hey, let's go IRL in a bar.",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "01:24:01",
+      "end": "01:31:04",
+      "title": "Ethan Van Sciver / Dick Masterson / Aaron Imholte",
+      "entities": [
+        "Ethan Van Sciver",
+        "Dick Masterson",
+        "Aaron Imholte"
+      ],
+      "summary_seed": "soil. I don't want to get my passport renewed cuz I want I want to be American forever. Um, >> you want to be American forever? That's cool. >> My friends are always responsible. Like they're telling me it's [music] time to go. And then >> what friends? Who are your friends? Are the friends in this room right now? You you speak up. >> Let's go to Miami. >> Do not ask her who else is in the room. [music] You might get",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    }
+  ],
+  "claim_candidates": [
+    {
+      "claimant": "they",
+      "claim": "they're sending more jewels.",
+      "timestamp": "12:01",
+      "status": "candidate_claim",
+      "receipt": "Oh, they said they're sending more jewels."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "a lot of these are free, but I appreciate the free change either way.",
+      "timestamp": "12:01",
+      "status": "candidate_claim",
+      "receipt": "I know a lot of these are free, but I appreciate the free change either way."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "it was the one before that.",
+      "timestamp": "12:01",
+      "status": "opinion_or_inference",
+      "receipt": "No, I think it was the one before that."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "it was like $500, $600.",
+      "timestamp": "24:01",
+      "status": "opinion_or_inference",
+      "receipt": "But he's like, \"Okay, I'm even considering that they got to make the profit, you know, this is not like, you know, it's a business.\" So, I'm expecting at least, let's say, I don't know, I think it was like $500, $600."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "it's not fake.",
+      "timestamp": "24:01",
+      "status": "candidate_claim",
+      "receipt": "The guy's like, I I know it's not fake."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "it's like the old the old stone the old owners of the the store they were also suing bricks and mini figs and the thing was that they were alleging that they were completely like breaking contract not doing a bunch of stuff they were supposed to do and all of that and And all of a sudden they show up and say, \"Oh, you owe us hundreds of thousands of dollars.\" But look,",
+      "timestamp": "24:01",
+      "status": "opinion_or_inference",
+      "receipt": "cuz that's what I was like I saw something about the the old owners the whatever the name Garmin whatever the garments I think it's like the old the old stone the old owners of the the store they were also suing bricks and mini figs and the thing was that they were alleging that they were completely like breaking contract not doing a bunch of stuff they were supposed to do and all of that and And all of a sudden they show up and say, \"Oh, you owe us hundreds of thousands of dollars.\" But look,"
+    },
+    {
+      "claimant": "the judge",
+      "claim": "that based upon the party's joint motion to modify the TTRO and enter the preliminary injunction and for good cause shown, the court hereby grants the party's motion and modifies the temporary restraining order previously entered and enters the following preliminary injunction.",
+      "timestamp": "24:01",
+      "status": "candidate_claim",
+      "receipt": "So, they got the the thing kicked to a federal judge and immediately the federal judge said, \"This gagor is stupid.\" First, the judge says that based upon the party's joint motion to modify the TTRO and enter the preliminary injunction and for good cause shown, the court hereby grants the party's motion and modifies the temporary restraining order previously entered and enters the following preliminary injunction."
+    },
+    {
+      "claimant": "and he agreed with what the parties",
+      "claim": "in their joint motion.",
+      "timestamp": "24:01",
+      "status": "candidate_claim",
+      "receipt": "Well, first off, it means the judge read the papers and he agreed with what the parties said in their joint motion."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that's that's important subtext here and that gives us some important understanding as to how uh Judge Barlo thinks.",
+      "timestamp": "24:01",
+      "status": "opinion_or_inference",
+      "receipt": "So, I think that's that's important subtext here and that gives us some important understanding as to how uh Judge Barlo thinks."
+    },
+    {
+      "claimant": "like summarized everything that this guy",
+      "claim": "in this video about how they they're this is a mode of practice to do this to what they",
+      "timestamp": "24:01",
+      "status": "candidate_claim",
+      "receipt": "[laughter] Um, I don't know if this is the one where I basically like summarized everything that this guy says in this video about how they they're this is a mode of practice to do this to what they"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "how that fight would go, by the way.",
+      "timestamp": "36:01",
+      "status": "candidate_claim",
+      "receipt": "I know how that fight would go, by the way."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that this dude is like the aimmon human of wrestling.",
+      "timestamp": "36:01",
+      "status": "hearsay_candidate",
+      "receipt": "Anyway, so I heard that this dude is like the aimmon human of wrestling."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "he has a felony for domestic violence when he broke his uh ex-girlfriend's collar bone.",
+      "timestamp": "36:01",
+      "status": "opinion_or_inference",
+      "receipt": "Urgn says, \"Why can't he own a gun?\" Uh, because I believe he has a felony for domestic violence when he broke his uh ex-girlfriend's collar bone."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that I'm early tonight.",
+      "timestamp": "36:01",
+      "status": "opinion_or_inference",
+      "receipt": "I I'm gonna save that that one for tomorrow because uh I think that I'm early tonight."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "Scarlet uh I saw Scarlet doing this before, Ralph.",
+      "timestamp": "48:54",
+      "status": "opinion_or_inference",
+      "receipt": "Actually, I think Scarlet uh I saw Scarlet doing this before, Ralph."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "she's on the wrong end.",
+      "timestamp": "48:54",
+      "status": "opinion_or_inference",
+      "receipt": "I think she's on the wrong end."
+    },
+    {
+      "claimant": "you all that",
+      "claim": "anything bad about law enforcement in Wisconsin.",
+      "timestamp": "48:54",
+      "status": "candidate_claim",
+      "receipt": "So, [ __ ] you all that said anything bad about law enforcement in Wisconsin."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that's a healthy Oh, wait.",
+      "timestamp": "48:54",
+      "status": "opinion_or_inference",
+      "receipt": "That's a good That's I think that's a healthy Oh, wait."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "he would [ __ ] hate her.",
+      "timestamp": "01:00:00",
+      "status": "opinion_or_inference",
+      "receipt": "Honestly, I think he would [ __ ] hate her."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "something's going to happen.",
+      "timestamp": "01:00:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think something's going to happen."
+    },
+    {
+      "claimant": "Bri",
+      "claim": "maybe the piggy was practice for her clients.",
+      "timestamp": "01:12:00",
+      "status": "candidate_claim",
+      "receipt": "Bri says maybe the piggy was practice for her clients."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "he's black.",
+      "timestamp": "01:12:00",
+      "status": "opinion_or_inference",
+      "receipt": "He's kind of I think he's black."
+    },
+    {
+      "claimant": "to win because they uh they always",
+      "claim": "the truth.",
+      "timestamp": "01:12:00",
+      "status": "candidate_claim",
+      "receipt": "My friends deserve to win because they uh they always said the truth."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "the difference between the hotep [ __ ] and a little [ __ ] but they got the spirit.",
+      "timestamp": "01:12:00",
+      "status": "candidate_claim",
+      "receipt": "I know the difference between the hotep [ __ ] and a little [ __ ] but they got the spirit."
+    },
+    {
+      "claimant": "And then I",
+      "claim": "I said, \"Well, I like it cuz I'm a [ __ ] dark triad [ __ ] that just wants to watch the world burn around me as long as I have eyes looking at me.",
+      "timestamp": "01:12:00",
+      "status": "candidate_claim",
+      "receipt": "He's treating you terribly.\" And then I said I said, \"Well, I like it cuz I'm a [ __ ] dark triad [ __ ] that just wants to watch the world burn around me as long as I have eyes looking at me."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "a triad's too complex for her.",
+      "timestamp": "01:12:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think a triad's too complex for her."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "it's just like her body is riddled with",
+      "timestamp": "01:12:00",
+      "status": "opinion_or_inference",
+      "receipt": "No, I I think it's just like her body is riddled with"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "would be cool.",
+      "timestamp": "01:24:01",
+      "status": "opinion_or_inference",
+      "receipt": "I that's just a project that I think would be cool."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that [ __ ] counts.",
+      "timestamp": "01:24:01",
+      "status": "opinion_or_inference",
+      "receipt": "I mean, technically, we're a dollar from the Charizard, but I think that [ __ ] counts."
+    }
+  ],
+  "quote_candidates": [
+    {
+      "timestamp": "00:00",
+      "text": "I got fired for all [music] my lies and sexual assault.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "24:01",
+      "text": "Utah time this morning, Judge David Barlo issued this order granting the party's joint motion for the preliminary injunction, which specifically removes the gag order.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "12:01",
+      "text": "If you don't want to subscribe to Patreon, then you can always just wait until it's on YouTube in a couple days, but it's live.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "24:01",
+      "text": "Yeah, I saw I never watched it, but I saw the thumbnail,",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "48:54",
+      "text": "That that part of the song should just be on repeat whenever uh Scarlet goes into a bar of someone going, \"Watch out, watch out, watch out, watch out, watch out, watch out, watch out, watch out.\"",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "48:54",
+      "text": "why you always got to pick on the coders?",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "48:54",
+      "text": "I didn't have air conditioning in my apartment at the time and I had a heat stroke which I never had before but",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "01:00:00",
+      "text": "I I kind of skimmed this before the show and I cuz you never She never shows what guy she's with.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "01:00:00",
+      "text": "I didn't It that never occurred to me.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "01:12:00",
+      "text": "My friends deserve to win because they uh they always said the truth.",
+      "significance_score": 1
+    }
+  ],
+  "relationship_signals": [
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Frog Tony",
+      "signal_type": "criticised",
+      "timestamp": "01:00:00",
+      "confidence": 0.45,
+      "receipt": "I think I heard it. >> I thought she was drinking alone. >> I I kind of skimmed this before the show and I cuz you never She never shows what guy she's with. >> True. >> I thought she was drinking alone the entire time. I'm honestly like I was more surprised that she was drinking alone. >> But now like some guy's trying to hit on her by letting her shoot his blow darts. It's a very odd he doesn't go to his voice before. It's He sounds l",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Frog Tony",
+      "signal_type": "friendship_claim",
+      "timestamp": "01:00:00",
+      "confidence": 0.45,
+      "receipt": "I think I heard it. >> I thought she was drinking alone. >> I I kind of skimmed this before the show and I cuz you never She never shows what guy she's with. >> True. >> I thought she was drinking alone the entire time. I'm honestly like I was more surprised that she was drinking alone. >> But now like some guy's trying to hit on her by letting her shoot his blow darts. It's a very odd he doesn't go to his voice before. It's He sounds l",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Dick Masterson",
+      "signal_type": "friendship_claim",
+      "timestamp": "01:12:00",
+      "confidence": 0.45,
+      "receipt": "I'm sorry. No, that's that's wrong. We are $22 from the Charizard. >> Oh, [ __ ] >> Yeah. >> I don't know. [music] Miller life Milwaukee [music] Milwaukee. Anyways, I'm uh live but just for a minute uh uh I uh was just playing darts and I wanted to say happy 4th to everyone. I love everybody. >> Wow. >> But honestly, >> blow darts. This is me like pulling an Ethan on you >> cuz it's like, \"Hey, let's go IRL in a bar.\" >> Like she's just",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Dick Masterson",
+      "signal_type": "friendship_claim",
+      "timestamp": "01:24:01",
+      "confidence": 0.45,
+      "receipt": "soil. I don't want to get my passport renewed cuz I want I want to be American forever. Um, >> you want to be American forever? That's cool. >> My friends are always responsible. Like they're telling me it's [music] time to go. And then >> what friends? Who are your friends? Are the friends in this room right now? You you speak up. >> Let's go to Miami. >> Do not ask her who else is in the room. [music] You might get a few different ans",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Aaron Imholte",
+      "signal_type": "friendship_claim",
+      "timestamp": "01:24:01",
+      "confidence": 0.45,
+      "receipt": "soil. I don't want to get my passport renewed cuz I want I want to be American forever. Um, >> you want to be American forever? That's cool. >> My friends are always responsible. Like they're telling me it's [music] time to go. And then >> what friends? Who are your friends? Are the friends in this room right now? You you speak up. >> Let's go to Miami. >> Do not ask her who else is in the room. [music] You might get a few different ans",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Dick Masterson",
+      "right": "Aaron Imholte",
+      "signal_type": "friendship_claim",
+      "timestamp": "01:24:01",
+      "confidence": 0.45,
+      "receipt": "soil. I don't want to get my passport renewed cuz I want I want to be American forever. Um, >> you want to be American forever? That's cool. >> My friends are always responsible. Like they're telling me it's [music] time to go. And then >> what friends? Who are your friends? Are the friends in this room right now? You you speak up. >> Let's go to Miami. >> Do not ask her who else is in the room. [music] You might get a few different ans",
+      "warning": "co-mention plus language signal; requires interpretation"
+    }
+  ],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

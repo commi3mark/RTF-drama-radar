@@ -1,0 +1,236 @@
+{
+  "schema_version": "octopuss-preanalysis-v0.1",
+  "generated_at": "2026-07-15T21:04:18.061653+00:00",
+  "video_id": "AnfyGS7ozeM",
+  "title": "Kino Casino: JF Gariepy’s Love Quest Continues & an Obsession Review (Jul 8, 2026)",
+  "source": "Elissa Clips",
+  "published": "2026-07-13T00:56:25+00:00",
+  "packet_hash": "6c59d6504f02bc524c7a2841a73497c5c808f188c04599ce49b9c0dddbd04cbb",
+  "coverage": {
+    "first_caption_second": 0.4,
+    "last_caption_second": 1966.399,
+    "timestamp_start": "00:00",
+    "timestamp_end": "32:46",
+    "caption_span_seconds": 1965.999,
+    "status": "transcript_present",
+    "note": "This measures the caption span only. It does not prove complete coverage of the original video."
+  },
+  "participant_candidates": [
+    {
+      "entity": "Elissa Clips",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.72,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Dick Masterson",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "00:00",
+      "last_timestamp": "12:04",
+      "discussion_span_seconds": 723.8,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.9,
+        "positive_hits": 38,
+        "negative_hits": 2
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "JF Garppy. Now I have decided to make it my personal mission to felt JF because [laughter] there's gold in them hills. The thing is nobody can suffer through it because it's so boring. There's no human being on earth with the mental fortitude to actually >> What is going on everyone? DSP here with some absolutely amazing positive news tonight. >> It's DSP buddy. Phil's hijacking the broadcast. >> I swear to God there was the audio thing"
+        }
+      ],
+      "appearance_status": "uncertain"
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "12:04",
+      "title": "Dick Masterson",
+      "entities": [
+        "Dick Masterson"
+      ],
+      "summary_seed": "JF Garppy. Now I have decided to make it my personal mission to felt JF because [laughter] there's gold in them hills. The thing is nobody can suffer through it because it's so boring. There's no human being on earth with the mental fortitude to actually >> What is going on everyone? DSP here with some absolutely amazing positive news tonight. >> It's DSP buddy. Phil's hijacking the broadcast. >> I swear to God there",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "12:02",
+      "end": "24:04",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": "what? Like, there's just no standard. It's like, well, you won't accept this. You you DON'T WANT A JOB. >> WELL, SUCK MY I'LL GIVE YOU MONEY. IS THAT NOT A JOB, [screaming] SWAN? LIKE, WHAT? I'll tell you what happened. She probably is crazy or on pills. But then she searched his name and the first thing that popped up was missing woman in Canada like last drop like like ac like he's an accused murderer. She's probab",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "24:01",
+      "end": "32:46",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": "and not stop it. And then when he has a chance to end it, >> he's like, \"You'd rather be dead than with me.\" And you're like, >> \"Well, JF JF sympathizes with this.\" Like JF's sick in the head. Let's just let him go. Let's let him go. >> And she screams and she bangs on the wall. >> Um yeah, ju just regular female behavior. Anyone who's had a girlfriend knows that this is what females do. BUT I'M NOT SURE. >> THEY DO",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    }
+  ],
+  "claim_candidates": [
+    {
+      "claimant": "unknown speaker",
+      "claim": "we're at about 30 seconds.",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "ALL RIGHT, I think we're at about 30 seconds."
+    },
+    {
+      "claimant": "and I",
+      "claim": "I'm marrying you next month.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "and I said I'm marrying you next month."
+    },
+    {
+      "claimant": "Here's this girl who",
+      "claim": "she wants to be pregnant and married.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "Here's this girl who claims she wants to be pregnant and married."
+    },
+    {
+      "claimant": "Someone",
+      "claim": "JF is a [ __ ] Elon Musk.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "Someone said JF is a [ __ ] Elon Musk."
+    },
+    {
+      "claimant": "Defenistrator",
+      "claim": "she is going to the ovary graveyard.",
+      "timestamp": "12:02",
+      "status": "candidate_claim",
+      "receipt": "Defenistrator says she is going to the ovary graveyard."
+    },
+    {
+      "claimant": "Definitar",
+      "claim": "she is going to a very grave yard.",
+      "timestamp": "12:02",
+      "status": "candidate_claim",
+      "receipt": "Definitar says she is going to a very grave yard."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "it would threat to be honest.",
+      "timestamp": "12:02",
+      "status": "opinion_or_inference",
+      "receipt": "I think it would threat to be honest."
+    },
+    {
+      "claimant": "memes that I have",
+      "claim": "to shut the up about.",
+      "timestamp": "12:02",
+      "status": "candidate_claim",
+      "receipt": "memes that I have said to shut the up about."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "it is a very effective movie.",
+      "timestamp": "24:01",
+      "status": "opinion_or_inference",
+      "receipt": "And that's why I think it is a very effective movie."
+    },
+    {
+      "claimant": "HE",
+      "claim": "EVERY WOMAN HAS BORDERLINE [laughter] personality disorder.",
+      "timestamp": "24:01",
+      "status": "candidate_claim",
+      "receipt": "HE SAID EVERY WOMAN HAS BORDERLINE [laughter] personality disorder."
+    },
+    {
+      "claimant": "Like men like God",
+      "claim": "the director told her just act normal.",
+      "timestamp": "24:01",
+      "status": "candidate_claim",
+      "receipt": "Like men like God says the director told her just act normal."
+    },
+    {
+      "claimant": "movie that",
+      "claim": "your behavior is bad.",
+      "timestamp": "24:01",
+      "status": "candidate_claim",
+      "receipt": "movie that says your behavior is bad."
+    },
+    {
+      "claimant": "And that",
+      "claim": "that looks at the girl and says, \"Please stop.",
+      "timestamp": "24:01",
+      "status": "candidate_claim",
+      "receipt": "[ __ ] And that says that looks at the girl and says, \"Please stop."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "ultimately though the message of the movie was to not be a beta and to just be straightforward with women.",
+      "timestamp": "24:01",
+      "status": "opinion_or_inference",
+      "receipt": "I think ultimately though the message of the movie was to not be a beta and to just be straightforward with women."
+    },
+    {
+      "claimant": "I'm on desk",
+      "claim": "when women get inciminated they start the pro was that hangman on desk says the come on desk when women get inciminated they start the process of getting an excuse to leave you if there's no reason they hate it and turn it to the reason absolutely that's what women do but in exorcism see perhaps that's the difference in exorcism there is a moral we have to get the devil out of this",
+      "timestamp": "24:01",
+      "status": "candidate_claim",
+      "receipt": "I'm on desk says when women get inciminated they start the pro was that hangman on desk says the come on desk when women get inciminated they start the process of getting an excuse to leave you if there's no reason they hate it and turn it to the reason absolutely that's what women do but in exorcism see perhaps that's the difference in exorcism there is a moral we have to get the devil out of this"
+    }
+  ],
+  "quote_candidates": [
+    {
+      "timestamp": "12:02",
+      "text": "I think it would threat to be honest.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "00:00",
+      "text": "Everyone that we make fun of now [snorts] always starts the streams by saying they're a bit tired or very tired and their chores they did the previous day.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "00:00",
+      "text": "So, just some random profile on Twitter that you've never interacted with before.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "00:00",
+      "text": "or they've never interacted with you, you've never met them in real life or anything, YOU JUST IMMEDIATELY GO, I WILL PAY FOR THEIR PLANE TICKET to bring you TO MY HOME AND I WILL INSEMINATE YOU IMMEDIATELY.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "12:02",
+      "text": "She won'ting breed with JF so she'll never get anybody.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "24:01",
+      "text": "I will never speak to Jeff [laughter] ever until",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "24:01",
+      "text": "and just ask her out and get it over with rather than like be a creepy beta orbiter like pining and trying to manipulate some [ __ ] into loving you when she never will.",
+      "significance_score": 1
+    }
+  ],
+  "relationship_signals": [],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

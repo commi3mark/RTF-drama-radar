@@ -1,0 +1,165 @@
+{
+  "schema_version": "octopuss-auto-event-v0.1",
+  "event_id": "Sd_qKoB4Kjk",
+  "title": "Under New Management",
+  "source": "Liam Gray",
+  "published": "2026-07-09T02:57:16+00:00",
+  "chapters": [
+    {
+      "start": "00:05",
+      "end": "11:50",
+      "title": "Liam Gray / Ethan Van Sciver",
+      "entities": [
+        "Liam Gray",
+        "Ethan Van Sciver"
+      ],
+      "summary_seed": "[snorts] Hello. I'm having a few hardware issues, guys. Sorry I'm a little bit late. Um, I'm running I'm running this show just through YouTube at the moment because my hardware encoder is not working. So, I can't go on any uh Streamyards or anything like that. That's real pain. How are we this evening? We have a few people in the chat already. Only 64 says, \"Oi, oi, oi.\" Are you guys all able to hear me and everythi",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    },
+    {
+      "start": "12:00",
+      "end": "20:27",
+      "title": "Liam Gray",
+      "entities": [
+        "Liam Gray"
+      ],
+      "summary_seed": "Perth comic says, \"When is Titan God King coming out?\" That's not the name of my book. That was just a name place placeholder. That was just a name placeholder. Um, I really, really, really, really want to get it out this year. Um, I really appreciate that people are being very patient and that I haven't really shown anything from the book and that I've been working on it for a really, really long time and it's reall",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "24:58",
+      "end": "35:59",
+      "title": "Ethan Van Sciver / Anna That Star Wars Girl",
+      "entities": [
+        "Ethan Van Sciver",
+        "Anna That Star Wars Girl"
+      ],
+      "summary_seed": "All right. Am I back? Holy [ __ ] I had to click so many buttons. Um, yes. Back. Holy [ __ ] You wouldn't believe how many buttons I had to press. Yeah. Uh, kicked me off my audio. I'm telling you, YouTube's having some hardware problems. Still muted. [ __ ] It says I got a green bar here. Are you sure I'm muted? Oh, you can hear me. You [ __ ] You [ __ ] I lost four people because of that. I lost four four viewers.",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "36:08",
+      "end": "48:05",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": "window. All right. Do I even want to share that? No, I don't really just ignore that. [clears throat] Uh the allseeing in says you can edit away the numbers at the end. It just has to be unique. I used to have numbers too. Just hit the [ __ ] button. Hit the like. Yeah, you can hit the like if you like. It doesn't really bother me. [snorts] Hit the like. Tell me what you like. Tell me how you like it. So, is everyone",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "48:02",
+      "end": "01:00:02",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": "in the background. Um but yeah, I just came on to introduce myself to those that don't know me and just let you know that Liam is gone and that this is my channel now and that um I just wanted to know whether you guys were happy to do an Oz show on here and the general consensus seems to be yes. Um, as long as I allow people that Liam is upset with to be in the back rooms of the uh, what do we even call it? We're not",
+      "clip_likelihood": false,
+      "transition_markers": 2
+    },
+    {
+      "start": "01:00:04",
+      "end": "01:12:04",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": "The Gawk Turks [snorts] famous for their milking. I think World Red's gone. Well, Red is crying into the free cup of water at the coffee shop. He is stealing Wi-Fi from [laughter] Oh, you know what? Um Oh, this is fine. Yeah, now that I've drenched him u because I've made him invisible to me. Um I can't see any of his any of his chats in the chat. So he is effectively hidden from me. [snorts] So I can't So well read",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "01:12:02",
+      "end": "01:24:05",
+      "title": "Cecil / Chrissie Mayr / Friday Night Tights",
+      "entities": [
+        "Cecil",
+        "Chrissie Mayr",
+        "Friday Night Tights"
+      ],
+      "summary_seed": "yeah, that's really what I'm waiting for now. Uh, Brother Gay says, \"It's a good thing you took well Red's wrench before you launched your book, or he would have refunded you.\" He would have refunded me and taken me to court for littering. Let freedom ring. Bzos had a nice rocket explosion. Yeah, that was all right. That was all right, wasn't it? China just crashed a rocket. Yeah, that was cool, too. They uh they kee",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "01:24:02",
+      "end": "01:24:51",
+      "title": "Ethan Van Sciver",
+      "entities": [
+        "Ethan Van Sciver"
+      ],
+      "summary_seed": "The next show will be an O show on this channel and uh the link will be in the chat so everyone get your questions ready. We're going to have a grievance hour at some stage and everyone can come and express their grievances to me, about me, about Liam. Generally, it would be about Ethan. Um, yeah. And then you can tell me some uh pleasant things you're doing. You can come in and tell me one good thing about yourself.",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Liam Gray",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.778,
+        "positive_hits": 32,
+        "negative_hits": 4
+      }
+    },
+    {
+      "entity": "Cecil",
+      "importance": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "positive_hits": 12,
+        "negative_hits": 0
+      }
+    },
+    {
+      "entity": "Ethan Van Sciver",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75,
+        "positive_hits": 28,
+        "negative_hits": 4
+      }
+    },
+    {
+      "entity": "Anna That Star Wars Girl",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "positive_hits": 12,
+        "negative_hits": 0
+      }
+    },
+    {
+      "entity": "Chrissie Mayr",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "positive_hits": 12,
+        "negative_hits": 0
+      }
+    },
+    {
+      "entity": "Friday Night Tights",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "positive_hits": 12,
+        "negative_hits": 0
+      }
+    }
+  ],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

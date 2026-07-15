@@ -1,0 +1,207 @@
+{
+  "schema_version": "octopuss-preanalysis-v0.1",
+  "generated_at": "2026-07-15T21:04:23.013408+00:00",
+  "video_id": "x7BWNaTUIpQ",
+  "title": "Liam Gray and His Mighty Chalice | Anna TSWG, Cecil, Rekieta and more",
+  "source": "KatyDid",
+  "published": "2026-07-04T20:45:28+00:00",
+  "packet_hash": "12f94ee612acc024e970a080a73250ff1bb7bffb054d7008c7f2841075320ed7",
+  "coverage": {
+    "first_caption_second": 0.0,
+    "last_caption_second": 739.64,
+    "timestamp_start": "00:00",
+    "timestamp_end": "12:19",
+    "caption_span_seconds": 739.64,
+    "status": "transcript_present",
+    "note": "This measures the caption span only. It does not prove complete coverage of the original video."
+  },
+  "participant_candidates": [
+    {
+      "entity": "KatyDid",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.72,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Cecil",
+      "mentions": 9,
+      "block_count": 1,
+      "first_timestamp": "00:00",
+      "last_timestamp": "12:02",
+      "discussion_span_seconds": 722.3,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.808,
+        "positive_hits": 47,
+        "negative_hits": 5
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "e became that that calendar girl. Yeah, I mean, did she even do that on time? I don't know. >> And well, I mean, there's something else. I've got another wing coming up. Number of divorces Liam's had. Number of divorces Cecil's I won't do that. I won't do that. How many fingers would come up? I mean, I'm just a little down syndrome tubby little boy. What do I know? What do I know? Yeah, I can apparently hold a relationship together even whil"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Liam Gray",
+      "mentions": 8,
+      "block_count": 1,
+      "first_timestamp": "00:00",
+      "last_timestamp": "12:02",
+      "discussion_span_seconds": 722.3,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.808,
+        "positive_hits": 47,
+        "negative_hits": 5
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "Most of the ones that believe the BS are NSM's, really low IQ folks. Yeah, I mean what can I do? NS fans are down to Sims hoping to see her ass. Well, she'll shake it for a few bucks for you over on Rumble. Mother of two, ladies and gentlemen. Don't worry. She'll strip down to a thong and shake her ass for you for a couple of bucks on uh on Rumble. Very different to the first girl that I met that said, \"I'm I've got integrity. I'm never"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Jon Malin",
+      "mentions": 3,
+      "block_count": 1,
+      "first_timestamp": "00:00",
+      "last_timestamp": "12:02",
+      "discussion_span_seconds": 722.3,
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.808,
+        "positive_hits": 47,
+        "negative_hits": 5
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "Most of the ones that believe the BS are NSM's, really low IQ folks. Yeah, I mean what can I do? NS fans are down to Sims hoping to see her ass. Well, she'll shake it for a few bucks for you over on Rumble. Mother of two, ladies and gentlemen. Don't worry. She'll strip down to a thong and shake her ass for you for a couple of bucks on uh on Rumble. Very different to the first girl that I met that said, \"I'm I've got integrity. I'm never"
+        }
+      ],
+      "appearance_status": "uncertain"
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "12:02",
+      "title": "Cecil / Liam Gray / Jon Malin",
+      "entities": [
+        "Cecil",
+        "Liam Gray",
+        "Jon Malin"
+      ],
+      "summary_seed": "Most of the ones that believe the BS are NSM's, really low IQ folks. Yeah, I mean what can I do? NS fans are down to Sims hoping to see her ass. Well, she'll shake it for a few bucks for you over on Rumble. Mother of two, ladies and gentlemen. Don't worry. She'll strip down to a thong and shake her ass for you for a couple of bucks on uh on Rumble. Very different to the first girl that I met that said, \"I'm I've got",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    },
+    {
+      "start": "12:00",
+      "end": "12:19",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": "Don't want to get hit. Hyenas attack hippo and the hippo runs them into pack of crocodiles. Animal jujitsu. Yeah, it's awesome. I know you weren't trying to get me struck. I just know that they will. I've got to be I've got to be careful cuz I got guys coming at me. I'm like psh psh psh psh. Get out of here. Fuck off. You know, it's hard. It's hard being a little koala, though.",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    }
+  ],
+  "claim_candidates": [
+    {
+      "claimant": "unknown speaker",
+      "claim": "that we need to be civil towards one another.",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "I mean, I think that we need to be civil towards one another."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that until Liam is back down to like ratcheted down to like one, I think that we're in an era where now, unfortunately, kindness is now law.",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think that until Liam is back down to like ratcheted down to like one, I think that we're in an era where now, unfortunately, kindness is now law."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "you weren't trying to get me struck.",
+      "timestamp": "12:00",
+      "status": "candidate_claim",
+      "receipt": "I know you weren't trying to get me struck."
+    }
+  ],
+  "quote_candidates": [
+    {
+      "timestamp": "00:00",
+      "text": "They just kept making more and more threats against me.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "00:00",
+      "text": "I'm never going to do any of that stuff.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "00:00",
+      "text": "Um and she realized Liam was married and she could never have him.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "00:00",
+      "text": "I never understood why I was supposed to like Season 1 to begin with.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "00:00",
+      "text": "I mean, I bought all this shit and you know, in excessively large stacks, and I was never shown any gratitude or thanks, and I was called insane.",
+      "significance_score": 1
+    }
+  ],
+  "relationship_signals": [
+    {
+      "left": "Cecil",
+      "right": "Liam Gray",
+      "signal_type": "defended",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "e became that that calendar girl. Yeah, I mean, did she even do that on time? I don't know. >> And well, I mean, there's something else. I've got another wing coming up. Number of divorces Liam's had. Number of divorces Cecil's I won't do that. I won't do that. How many fingers would come up? I mean, I'm just a little down syndrome tubby little boy. What do I know? What do I know? Yeah, I can apparently hold a relationship together even whil",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Cecil",
+      "right": "Jon Malin",
+      "signal_type": "defended",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "e became that that calendar girl. Yeah, I mean, did she even do that on time? I don't know. >> And well, I mean, there's something else. I've got another wing coming up. Number of divorces Liam's had. Number of divorces Cecil's I won't do that. I won't do that. How many fingers would come up? I mean, I'm just a little down syndrome tubby little boy. What do I know? What do I know? Yeah, I can apparently hold a relationship together even whil",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Jon Malin",
+      "signal_type": "defended",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "Most of the ones that believe the BS are NSM's, really low IQ folks. Yeah, I mean what can I do? NS fans are down to Sims hoping to see her ass. Well, she'll shake it for a few bucks for you over on Rumble. Mother of two, ladies and gentlemen. Don't worry. She'll strip down to a thong and shake her ass for you for a couple of bucks on uh on Rumble. Very different to the first girl that I met that said, \"I'm I've got integrity. I'm never",
+      "warning": "co-mention plus language signal; requires interpretation"
+    }
+  ],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

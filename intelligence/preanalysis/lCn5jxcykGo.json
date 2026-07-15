@@ -1,0 +1,72 @@
+{
+  "schema_version": "octopuss-preanalysis-v0.1",
+  "generated_at": "2026-07-15T21:04:20.384392+00:00",
+  "video_id": "lCn5jxcykGo",
+  "title": "TheQuartering is Going to the Ren Fair (Jul 9, 2026)",
+  "source": "Elissa Clips",
+  "published": "2026-07-10T02:21:44+00:00",
+  "packet_hash": "97229eee0a438c4c2d8dd60af2fec092e4e5a63f6d37e524d9ce30b62bc886fd",
+  "coverage": {
+    "first_caption_second": 0.0,
+    "last_caption_second": 211.36,
+    "timestamp_start": "00:00",
+    "timestamp_end": "03:31",
+    "caption_span_seconds": 211.36,
+    "status": "transcript_present",
+    "note": "This measures the caption span only. It does not prove complete coverage of the original video."
+  },
+  "participant_candidates": [
+    {
+      "entity": "Elissa Clips",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.72,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subjects": [],
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "03:31",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": "I've I've sent my wife to pick up a bunch of meat, so I'm going to try to just do carnivore starting over the weekend. I did I did like carnivore light the last few days. Sometimes it's hard when you have like We had like a bunch of food in the fridge and freezer, and I'm like, \"Well, I don't want to waste that.\" Like I I bought, you know, orange chicken and stuff like that. Like I'm not going to throw it out, but um",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    }
+  ],
+  "claim_candidates": [
+    {
+      "claimant": "unknown speaker",
+      "claim": "I I read out like the results.",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think I I read out like the results."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "he's going to have a seizure.",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think he's going to have a seizure."
+    }
+  ],
+  "quote_candidates": [
+    {
+      "timestamp": "00:00",
+      "text": "It's always really really It's going to be really hot and humid there, but that's always a good time.",
+      "significance_score": 1
+    }
+  ],
+  "relationship_signals": [],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

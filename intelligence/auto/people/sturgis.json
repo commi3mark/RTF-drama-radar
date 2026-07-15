@@ -1,0 +1,290 @@
+{
+  "entity_id": "sturgis",
+  "name": "Sturgis",
+  "appearance_candidates": [
+    {
+      "video_id": "zkW4zLSQ7eQ",
+      "title": "You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto!",
+      "source": "Ethan Van Sciver",
+      "role_guess": "likely_participant",
+      "confidence": 0.4,
+      "signals": [
+        "directly addressed 6 times",
+        "possible clip voice rather than live participant"
+      ]
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "title": "The Ark Of Leem, LDA-King Stream",
+      "source": "FFS Cast",
+      "role_guess": "likely_participant",
+      "confidence": 0.43,
+      "signals": [
+        "directly addressed 2 times",
+        "appears in 3 distant transcript blocks"
+      ]
+    },
+    {
+      "video_id": "VBJwPPZ1LeY",
+      "title": "Sturgis Went To Japan On Thirsty Thursday!",
+      "source": "Frog Tony",
+      "role_guess": "likely_participant",
+      "confidence": 0.7,
+      "signals": [
+        "directly addressed 5 times",
+        "appears in 5 distant transcript blocks"
+      ]
+    }
+  ],
+  "discussions": [
+    {
+      "video_id": "LS_14uOaG2E",
+      "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "source": "Ethan Van Sciver",
+      "importance": "major",
+      "mentions": 14,
+      "sentiment": {
+        "label": "positive",
+        "score": 0.913,
+        "positive_hits": 175,
+        "negative_hits": 8
+      },
+      "receipts": [
+        {
+          "timestamp": "01:00:01",
+          "excerpt": "had my headphones too close to my microphone. That's what's causing that. >> That's what happens when I put my head down to draw. Yeah, I want to do a trash cast tonight if possible because I want to go back to watching Sturgis in Japan. Uh there are a whole bunch of more videos of Sturgis. He made all these vlogs of himself in Japan. I I want to watch them. They're really funny. >> Who? Ethan, can you >> Oh, okay. Sturgis is uh Oh, maybe we s"
+        },
+        {
+          "timestamp": "01:12:00",
+          "excerpt": "is for my Well, I mean, he's just like all my haters at home, they're not physically fit like I am. They're fat. Uh, and there's a lot of walking here and a lot of it's uphill. You guys couldn't handle it. I can cuz I'm Sturgis. And I I have to admit I look at this 30° incline and I'm like [clears throat] like I completely agree with him. I understand. I would be huffing and >> Is he talking about you then, Ethan? Is he Is he directing that to"
+        },
+        {
+          "timestamp": "01:24:00",
+          "excerpt": "w, this is the ride that you get in, Billy, with your little kids. Uh you're in there with your kids and your wife >> and they're like flipping out and having a great time and you're like, \"Okay, like this is, you know, Sturgis is in this ride and this is like his trip.\" Watch his face. [music] Look at this. Yeah. How do you like this? Right. We're in Japan. >> [music] [music] >> Delightful music. >> He is loving life. [music] [music] >> So ba"
+        }
+      ]
+    },
+    {
+      "video_id": "zkW4zLSQ7eQ",
+      "title": "You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto!",
+      "source": "Ethan Van Sciver",
+      "importance": "major",
+      "mentions": 42,
+      "sentiment": {
+        "label": "positive",
+        "score": 0.871,
+        "positive_hits": 58,
+        "negative_hits": 4
+      },
+      "receipts": [
+        {
+          "timestamp": "02:48:00",
+          "excerpt": "h a pocket in it and then you put the phone in the pocket and then cut a hole like a little rip in the towel where the camera is and then you hung it on the towel rack. That would do it for uh David L says, \"Please do a Sturgis in Japan video before lem videos.\" Okay, I will. I got that coming up too. That's the subject on the Joseph Smokelli says, \"For the next Kings, can we draw our next Can we draw our favorite heroes on the toilet? We neve"
+        }
+      ]
+    },
+    {
+      "video_id": "66FqtP0Wves",
+      "title": "It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on \"WOKE\"! LANTERNS Spoilers?!",
+      "source": "Ethan Van Sciver",
+      "importance": "major",
+      "mentions": 19,
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75,
+        "positive_hits": 98,
+        "negative_hits": 14
+      },
+      "receipts": [
+        {
+          "timestamp": "00:01",
+          "excerpt": "to like this stuff but at a certain age you should keep all that to yourself and friends who are interested in the hobby. It just looks sad when older men and women dress and act like a child. Uh this is in reference to Sturgis's Japanese excursion. I gotta say like um I was telling uh Andrea in the car today. For some reason I brought up Sturgis going to Japan. I got a lot of people who are like hating on Sturgis for going to Japan and saying"
+        },
+        {
+          "timestamp": "12:00",
+          "excerpt": "re it is. Look at this. He won nearly $21,000 on I can't tell the gems here. I think this is Momo Mummy here with the torches. It is. It's Momo Mommy. The Egyptian symbols there. He won $28,000. I mean, $20,800. Look at Sturgis holding the [ __ ] bands. 20 Vans for Sturgis. Now, uh the thing about this is I was telling Andrew, I was like, \"Listen, I've won. I don't think I've ever won 21,000. The most I've ever won at the casino was 20,000, bu"
+        }
+      ]
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "title": "The Ark Of Leem, LDA-King Stream",
+      "source": "FFS Cast",
+      "importance": "major",
+      "mentions": 9,
+      "sentiment": {
+        "label": "positive",
+        "score": 0.792,
+        "positive_hits": 172,
+        "negative_hits": 20
+      },
+      "receipts": [
+        {
+          "timestamp": "12:00",
+          "excerpt": "t make the loser see that.\" I did. I tried to fit as many of them as I could in there. Then a another five from Abacus Flinch says, \"Imagine all the back shots you would get with a raw gabbing with gays. Stal, bro, that Sturgis [ __ ] I need Sturgis to show me proof of ownership. For the love of God, Sturgis, bro. First of all, [ __ ] we don't go in on you that much because I find you boring. But it's very funny to watch you get dragged around"
+        },
+        {
+          "timestamp": "24:01",
+          "excerpt": "up for the [ __ ] Logan Paul did years ago like being a shitty tourist [laughter] and he just he went the other way and just made it [ __ ] worse >> way too hard. Yeah, he he Yeah, he he did it by accident. But no, like Sturgis did say first of all it pissed me off because as a grown man who loves investing and like buying property and doing like grown man [ __ ] Also, don't get me wrong, I like blowing money. I'd take a trip to Japan if I had"
+        },
+        {
+          "timestamp": "02:36:00",
+          "excerpt": "doesn't like water. So >> yeah, [snorts] he refuses. >> What he says, what he streams, what he makes. No one's [ __ ] checking his money. No one is [ __ ] clocking anything he does. >> YOU DO NOTHING BUT TALK ABOUT ME, STURGIS, and uh Eric July. That's your content, fat boy. You fat, lonely, sad [ __ ] That is all you do. That is all that is on your mind when you wake up. The only thing you're thinking about is me. You, Stray, Finnbar, and no"
+        }
+      ]
+    },
+    {
+      "video_id": "VBJwPPZ1LeY",
+      "title": "Sturgis Went To Japan On Thirsty Thursday!",
+      "source": "Frog Tony",
+      "importance": "major",
+      "mentions": 59,
+      "sentiment": {
+        "label": "positive",
+        "score": 0.726,
+        "positive_hits": 277,
+        "negative_hits": 44
+      },
+      "receipts": [
+        {
+          "timestamp": "00:03",
+          "excerpt": "rink some drinks. Smoke some smokes. I forgot to put the ask us anything question up. [ __ ] We got so many things to do. But Otoy, uh, how's it going? Before Before I get into how's it going with auto, we have to cover Sturgis' Japan trip. Obviously, that was in the thumbnail, right? >> Some people were confused that what I did use AI to uh put him in a kimono and a top knot and put some wafer pillows, right? >> That wasn't real. >> That wasn"
+        },
+        {
+          "timestamp": "12:01",
+          "excerpt": "STIRER. That's cool and perfectly fine. yada yada yada. Has some things on my mind. It's great. Happy being here walking and strolling on the SIDEWALKS OF CHICAGO. WOO! COOKING AND SMOKING. SAYS, \"HEY, I'm a fan. I'm a Sturgis fan now. He is great. An an above average American, well behaved, not annoying or disruptive.\" I mean, that's just what we see on video. I don't think Sturgis is stupid enough to actually film himself being disruptive."
+        },
+        {
+          "timestamp": "01:00:02",
+          "excerpt": "tream the other day, he said, \"When Riley gets on mic with me, he looks like a [ __ ] idiot.\" And he looks like a [ __ ] idiot. Straight up. >> Surprise. Yeah. >> Yes. >> That's true. >> I will unsub if you don't get to Sturgis in Japan. We We're going to get there, Pit. We're going to [laughter] get there. I promise. >> It might be a minute, >> but we will get there. Okay. Says, \"Leave your own comments on the Rumble page and you may get them"
+        },
+        {
+          "timestamp": "01:24:01",
+          "excerpt": "Yeah. >> [laughter] >> Jesus, Tony, you're so autistic. >> No, because I haven't seen it and I think I don't want spoilers. >> We're milking this. >> Is that what we do? I'm just having fun. >> We got to get to Samurai Sturgis. >> Yeah. >> What you mean? There are people who don't post full clips. >> No, no, Taggy. It's not a full clip. An hour and a half isn't a full clip. That's the show, right? That's like the entire [ __ ] show. Like Veto"
+        },
+        {
+          "timestamp": "01:48:00",
+          "excerpt": "d uh yeah, if I'm not around, go listen to someone else. And if I disappear, uh don't go looking for me. Just go [ __ ] >> the FBI. >> Yeah. >> And the only person I'll do whatever they tell me to do without question is Sturgis. No one. >> I thought you were going to say your wife, but apparently >> Stures [laughter] your wife's like, \"Who the [ __ ] is Sturgis?\" >> Sturgis. Is that That's what you call your old lady in bed. I know. I know. Yo"
+        }
+      ]
+    },
+    {
+      "video_id": "7LMz5W0-mLs",
+      "title": "Finbarr STOMPS A Dwarf! - OPEN PANEL MADHOUSE!!!!",
+      "source": "Frog Tony",
+      "importance": "passing",
+      "mentions": 2,
+      "sentiment": {
+        "label": "positive",
+        "score": 0.857,
+        "positive_hits": 39,
+        "negative_hits": 3
+      },
+      "receipts": [
+        {
+          "timestamp": "02:00:02",
+          "excerpt": "He's a cartoon character, man. He really is. >> You can't. >> He's a living me. >> You can't take him serious because he's so [ __ ] idiot. >> [ __ ] carton. He's caught, but >> like making fun of him is way better than Sturgis. Like Sturgis is, you know, he's calmed down. He's he's chilling. He's chilling in Japan. This guy on the other hand, he's like a few months ago. >> Disappear. >> He's having his best life. Stardust. >> His best life is"
+        }
+      ]
+    },
+    {
+      "video_id": "RxZ_OdBN2f0",
+      "title": "Katydid Caught LYING AGAIN! - Detractor Kings",
+      "source": "Frog Tony",
+      "importance": "major",
+      "mentions": 8,
+      "sentiment": {
+        "label": "positive",
+        "score": 0.755,
+        "positive_hits": 208,
+        "negative_hits": 29
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "he fourth? >> Lance. >> Maybe. Maybe. >> Does Lance get get >> Never seen Lance so recently? >> I know. Lance has been on MIA. >> Bring me Lance. if it isn't Lucifer himself. If you want to see something cringe as hell, Sturgis' travel blog. Yeah, we have them on the uh the list. You know, I have a playlist of what we're going to go over. Steven Lenudo says me on the fourth. [laughter] >> Yeah, there's Stephen or Cosmic Vader. >> I I think Ste"
+        },
+        {
+          "timestamp": "24:01",
+          "excerpt": "o the good graces of CG. I I see you in the chat, Mike. I'll address that in a second. Um, except Tony. Uh, except Tony. Tony, don't listen. He butchered Vic's name. Vicona, right? Manona. Vic uh Manion. Katie was a she Sturgis. Yeah. Weren't you going after uh anyway before way before Ethan? Yes. >> Minana whatever. Everyone says Vic Miniona. Okay. Who cares? Vic the guy who >> Miola like there are people who are saying Mnola then Miola and t"
+        },
+        {
+          "timestamp": "02:24:01",
+          "excerpt": "just the natural progression here. >> Welcome back to this week in the >> jump scared. >> Jump scare. >> Yeah. >> All right. We're gonna skip to this week in the ripper verse. We're just gonna we're gonna pull up a um a Sturgis. Man, we we uh we still got a couple of Eric's live videos to go through. >> Stures sturgees. >> I was say we're gonna we're going to go through it. >> Looks like we made it. >> We're going to watch uh this one because"
+        },
+        {
+          "timestamp": "02:36:01",
+          "excerpt": "e type of game with Gundam. That's going to be pretty cool. >> His backpack hangs. so low. I bet his lower back is all screwed up. It's that hump. >> I know. >> Can't put it on the hump. >> What is it with the dwarf and Sturgis wearing their hats backwards? Hello, fellow kids. They're cool, baby. >> Yeah. Hello. They're literally the meme. Yeah. [clears throat] >> Steve Bushi. >> Yeah, >> he could visit PewDiePie. They're best friends. I'm sur"
+        }
+      ]
+    },
+    {
+      "video_id": "MOQPFnHJYR0",
+      "title": "Cynic Got CATFISHED And EVS Continues To SPIRAL On Thirsty Thursday!",
+      "source": "Frog Tony",
+      "importance": "passing",
+      "mentions": 1,
+      "sentiment": {
+        "label": "positive",
+        "score": 0.719,
+        "positive_hits": 55,
+        "negative_hits": 9
+      },
+      "receipts": [
+        {
+          "timestamp": "02:12:00",
+          "excerpt": "in. Carbon has been around. He backs things. Who cares if he has a channel or not? Uh, his importance isn't dictated on whether or not he has a channel with a bunch of subscribers. Right. >> All right. >> Yeah. Sturgeis Sturgis logic. >> I actually read them. >> Where do you do this? Great commentary and review. >> Where where do you Does it matter where he does it? Like again, this is uh Synynic is [ __ ] on small craters. Katie, where are yo"
+        }
+      ]
+    },
+    {
+      "video_id": "MBKTh4fSITU",
+      "title": "\"MINISTRY OF UNGENTLEMANLY TWEETS\" EXPOSES COMMI3 MARK - OH NO!",
+      "source": "Commi3 Mark",
+      "importance": "secondary",
+      "mentions": 3,
+      "sentiment": {
+        "label": "positive",
+        "score": 0.941,
+        "positive_hits": 98,
+        "negative_hits": 3
+      },
+      "receipts": [
+        {
+          "timestamp": "24:02",
+          "excerpt": "s one is no longer like um on it, so we can remove that. Thanks for watching that. Uh, this is the this is my favorite Eric July thumbnail of all of them that I've ever [laughter] made. >> Uh, lie there with the hat. >> Sturgis crucified on bacon is such a good joke. if you go and watch the episode like uh so much context you need to get it but it's good. >> Uh this one with Kit Clarenburg he's a journalist who got arrested on landing in the c"
+        },
+        {
+          "timestamp": "02:00:02",
+          "excerpt": "So, let's go back to that Matthew Berdick tweet where he says it was about Matthew Berdick. Um, oh, where is it? There's so many. It's before this. That's after. Um, it's a reply to this. Maybe. Oh, now I'm really like Sturgis. I can't even find the thing that I'm looking for, but it's fine. >> I thought you were going to say I'm really like Sturgis. I have huge eraser sized nipples. >> Like that's weird. >> It doesn't. Um his argument that h"
+        }
+      ]
+    },
+    {
+      "video_id": "SlodiZOj8bE",
+      "title": "FROG TONY'S FREEDOM FIGHTING FORCE | FBI Investigation DRAMA Escalates",
+      "source": "Commi3 Mark",
+      "importance": "secondary",
+      "mentions": 2,
+      "sentiment": {
+        "label": "positive",
+        "score": 0.752,
+        "positive_hits": 127,
+        "negative_hits": 18
+      },
+      "receipts": [
+        {
+          "timestamp": "01:00:00",
+          "excerpt": "s. >> Like, I always use these people as a barometer to check myself against and to make sure that I'm not a [ __ ] which I'm [laughter] confident that I am. like, but I'm just trying to like stay ahead of Frog Pony and Sturgis and stuff like >> At least I'm not this level. [laughter] >> Uh, Tree Goblin says red wine and rum. That might actually work. Like >> I have not tried that and I like both of those things. >> That's something. He's a le"
+        },
+        {
+          "timestamp": "01:12:00",
+          "excerpt": "in the community are now uh worried about going to the event because of these false and defamatory allegations. And so that person when they're found out >> like I look at Frog Tony and I think [clears throat] that like Sturgis he probably has [ __ ] strength and it like uh and I wouldn't under I think a lot of guys on this team have that kind of strength. [laughter] should be held 100% responsible for if this event does not go through as well"
+        }
+      ]
+    }
+  ],
+  "claims_by_or_about": [],
+  "story_matches": [],
+  "updated_at": "2026-07-15T21:04:41.880931+00:00"
+}

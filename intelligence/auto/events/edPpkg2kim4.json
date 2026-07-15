@@ -1,0 +1,151 @@
+{
+  "schema_version": "octopuss-auto-event-v0.1",
+  "event_id": "edPpkg2kim4",
+  "title": "\"I REPORTED THE DROPBOX!\" Liam Gray Responds to EVS Reacting To A Viral Clip",
+  "source": "KatyDid",
+  "published": "2026-07-03T19:49:19+00:00",
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "12:02",
+      "title": "Dropbox Drama / Liam Gray / DarkGift Comics",
+      "entities": [
+        "Dropbox Drama",
+        "Liam Gray",
+        "DarkGift Comics",
+        "Ethan Van Sciver",
+        "Nerdrotic",
+        "Yellow Flash"
+      ],
+      "summary_seed": "Alan, you sent me a clip. Like, what is this clip of? It says, \"Whatever you do, don't show this clip of him.\" Uh what is this? Should I not show this clip? I don't know what it is. Like, I'm afraid to show it cuz I don't know what it what it involves. It's not anything uh uh horrendous, is it? All right, hold on. Let me watch it first. Let me see what it is. I'm watching it now. He's in his backyard. 12th issue of X",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    },
+    {
+      "start": "12:00",
+      "end": "24:03",
+      "title": "Ethan Van Sciver / Liam Gray / DarkGift Comics",
+      "entities": [
+        "Ethan Van Sciver",
+        "Liam Gray",
+        "DarkGift Comics",
+        "Jon Del Arroz",
+        "Little Movie Perp"
+      ],
+      "summary_seed": "usernames and everything. Access to the Dropbox and all of this who were you know other artists who you spoke about previously in that video. And there are other people as well. Like um And it's pretty fucking sick to rain shit man. This is the war I've been fighting. You know this is the war I've been fighting. But it's like I'm crazy. You know what I mean? And they're now currently trying to use this to try and imp",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "24:00",
+      "end": "32:10",
+      "title": "TheQuartering",
+      "entities": [
+        "TheQuartering"
+      ],
+      "summary_seed": "talking about Slick Jimmy. Uh, so weird. He's a retard. This is stupid. >> Yeah. >> I So, this is pretty old. So, this is like two at least two, three years old. >> But, um >> Law >> makes me sick. It's like these people are working in comic books and children's entertainment. Legitimately makes me fucking furious. >> Liam, get out of here. >> And like I blurted it all out. I look like a crazy person. >> Yeah, you ar",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Dropbox Drama",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "positive_hits": 42,
+        "negative_hits": 0
+      }
+    },
+    {
+      "entity": "Ethan Van Sciver",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.899,
+        "positive_hits": 75,
+        "negative_hits": 4
+      }
+    },
+    {
+      "entity": "Liam Gray",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.899,
+        "positive_hits": 75,
+        "negative_hits": 4
+      }
+    },
+    {
+      "entity": "DarkGift Comics",
+      "importance": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.899,
+        "positive_hits": 75,
+        "negative_hits": 4
+      }
+    },
+    {
+      "entity": "Jon Del Arroz",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.784,
+        "positive_hits": 33,
+        "negative_hits": 4
+      }
+    },
+    {
+      "entity": "Little Movie Perp",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.784,
+        "positive_hits": 33,
+        "negative_hits": 4
+      }
+    },
+    {
+      "entity": "Nerdrotic",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "positive_hits": 42,
+        "negative_hits": 0
+      }
+    },
+    {
+      "entity": "TheQuartering",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.568,
+        "positive_hits": 29,
+        "negative_hits": 8
+      }
+    },
+    {
+      "entity": "Yellow Flash",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "positive_hits": 42,
+        "negative_hits": 0
+      }
+    }
+  ],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

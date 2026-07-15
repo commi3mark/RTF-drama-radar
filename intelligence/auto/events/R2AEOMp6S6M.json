@@ -1,0 +1,73 @@
+{
+  "schema_version": "octopuss-auto-event-v0.1",
+  "event_id": "R2AEOMp6S6M",
+  "title": "Jer the Ren Fair Creeper Returns This Weekend! & a Coffee Brand Cope Session w/ TheQuartering",
+  "source": "Elissa Clips",
+  "published": "2026-07-10T22:48:52+00:00",
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "12:03",
+      "title": "TheQuartering",
+      "entities": [
+        "TheQuartering"
+      ],
+      "summary_seed": "Hope you guys are doing well this weekend. Uh going to try to get a little more mobile. Uh it's opening weekend for the Renf Fair, so that's always fun. It's very hot out, so it's supposed to be like 90°, so you know, I'm not sure. It's not very windy there, so when you get there, it gets just hot and it stays hot and uh it's it's not the best experience. There's also a ton of uh chores around the house because I've,",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "12:01",
+      "end": "18:52",
+      "title": "TheQuartering / Dick Masterson / Yellow Flash",
+      "entities": [
+        "TheQuartering",
+        "Dick Masterson",
+        "Yellow Flash"
+      ],
+      "summary_seed": "I don't care for them. They're very ugly. factory tour could be a good idea for the vlog jump, but I already did a factory tour. And the problem is when I do factory tours and stuff like that, people harass my employees and my contractors. Like, I had people going through the garbage, dudes. I had people showing up and harassing staff because of these retards. Going through our garbage. I'm not kidding. Caught on cam",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "TheQuartering",
+      "importance": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.87,
+        "positive_hits": 101,
+        "negative_hits": 7
+      }
+    },
+    {
+      "entity": "Dick Masterson",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.953,
+        "positive_hits": 42,
+        "negative_hits": 1
+      }
+    },
+    {
+      "entity": "Yellow Flash",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.953,
+        "positive_hits": 42,
+        "negative_hits": 1
+      }
+    }
+  ],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

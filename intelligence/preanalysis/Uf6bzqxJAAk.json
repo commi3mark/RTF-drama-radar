@@ -1,0 +1,755 @@
+{
+  "schema_version": "octopuss-preanalysis-v0.1",
+  "generated_at": "2026-07-15T21:04:22.964832+00:00",
+  "video_id": "Uf6bzqxJAAk",
+  "title": "TRASHCAST #265: The Khola King & Ethan Van Sciver Exchange",
+  "source": "KatyDid",
+  "published": "2026-07-06T01:43:35+00:00",
+  "packet_hash": "9ea66cf8f90a58c77f28724fb69ea993417c706b524a51ed5c4dec33b97ed2f2",
+  "coverage": {
+    "first_caption_second": 0.0,
+    "last_caption_second": 1169.44,
+    "timestamp_start": "00:00",
+    "timestamp_end": "19:29",
+    "caption_span_seconds": 1169.44,
+    "status": "transcript_present",
+    "note": "This measures the caption span only. It does not prove complete coverage of the original video."
+  },
+  "participant_candidates": [
+    {
+      "entity": "KatyDid",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.72,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Liam Gray",
+      "mentions": 34,
+      "block_count": 2,
+      "first_timestamp": "00:00",
+      "last_timestamp": "19:29",
+      "discussion_span_seconds": 1169.4,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.487,
+        "positive_hits": 58,
+        "negative_hits": 20
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "Okay, so we're that were made. That are fundamentally misguided and dishonest. And there's also a little part so I haven't seen the whole thing but there was a little part I saw where he said I don't want to start problems or anything like that and in the spirit of that I'm going and I know that everyone's going to yell at me Liam don't be merciful you got to go hard I'm going to try and be nice. Okay. >> Liam, you don't have to be merc"
+        },
+        {
+          "timestamp": "12:01",
+          "excerpt": "a weak statement of failure when somebody's asking you to just behave a certain way. Giving you a whole lot of things and you tried but you couldn't you couldn't succeed. Earlier today we watched Nick Roccata attacking Liam Gray. And Liam Gray also watched Nick Roccata attacking Liam Gray and he has there's a little clip of a video that Katie did made. Katie, thank you for this of Liam responding to Nick Roccata. It's only 13 minutes and a half"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Ethan Van Sciver",
+      "mentions": 5,
+      "block_count": 2,
+      "first_timestamp": "00:00",
+      "last_timestamp": "19:29",
+      "discussion_span_seconds": 1169.4,
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.487,
+        "positive_hits": 58,
+        "negative_hits": 20
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "at the end of the day, this is a different situation that we're dealing with here. I'm not dealing with some internet detritus. You know what I mean? I'm not dealing with like >> Detritus. >> some piece of scum. This is Ethan Van Sciver, creator of uh the well, the uh emotional spectrum. This is the guy that did Flash Reborn. >> I hear it loud and clear. Loud and clear. >> read my Donny Cates book and understood the message that was in it and appreciat"
+        },
+        {
+          "timestamp": "12:01",
+          "excerpt": "beyond shit. Your behavior's been ridiculous. You're like people are trying to drag me back to that moment. People just wanted you to go away. You know, I mean you're you're you're threatening to strike channels, taking people's channels down. You're saying, you know, that didn't lack. It didn't lack. Just that's how I'm going to I'm going to try this. Just be Just stop doing that. It's unbelievable that you're asking me to not do somet"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Nick Rekieta",
+      "mentions": 3,
+      "block_count": 1,
+      "first_timestamp": "12:01",
+      "last_timestamp": "19:29",
+      "discussion_span_seconds": 447.6,
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.222,
+        "positive_hits": 22,
+        "negative_hits": 14
+      },
+      "receipts": [
+        {
+          "timestamp": "12:01",
+          "excerpt": "beyond shit. Your behavior's been ridiculous. You're like people are trying to drag me back to that moment. People just wanted you to go away. You know, I mean you're you're you're threatening to strike channels, taking people's channels down. You're saying, you know, that didn't lack. It didn't lack. Just that's how I'm going to I'm going to try this. Just be Just stop doing that. It's unbelievable that you're asking me to not do somet"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Yellow Flash",
+      "mentions": 2,
+      "block_count": 1,
+      "first_timestamp": "00:00",
+      "last_timestamp": "12:04",
+      "discussion_span_seconds": 724.4,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.714,
+        "positive_hits": 36,
+        "negative_hits": 6
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "or or Nick Rocchetta who have the some negative value I want to instead be >> insane >> fair. >> Well, that's good that you're going to be fair. >> as a position of weakness and other shit, right? But I am not I am not Yellow Flash. I'm not one of these other scumbags that tries to tear other people down. >> Yellow Flash scumbag. We agree about that. >> he has a daughter. He has a wife. I want to make his life easier not harder. I don't want to ta"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "DarkGift Comics",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "00:00",
+      "last_timestamp": "12:04",
+      "discussion_span_seconds": 724.4,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.714,
+        "positive_hits": 36,
+        "negative_hits": 6
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "Okay, so we're that were made. That are fundamentally misguided and dishonest. And there's also a little part so I haven't seen the whole thing but there was a little part I saw where he said I don't want to start problems or anything like that and in the spirit of that I'm going and I know that everyone's going to yell at me Liam don't be merciful you got to go hard I'm going to try and be nice. Okay. >> Liam, you don't have to be merc"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Eric July",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "12:01",
+      "last_timestamp": "19:29",
+      "discussion_span_seconds": 447.6,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.222,
+        "positive_hits": 22,
+        "negative_hits": 14
+      },
+      "receipts": [
+        {
+          "timestamp": "12:01",
+          "excerpt": "stop doing that, stop striking channels, and we're okay. I'm not here to attack you. I'm not here to play clips that embarrass or humiliate you. I'm watching this clip now, even now, I'm watching this clip uh with what Eric July would call good faith. This is a good faith. I'm viewing the clip because I said some things yesterday. Liam is going to have a a chance to respond and we're not talking face to face anymore. Liam's blocked from this ch"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "TheQuartering",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "12:01",
+      "last_timestamp": "19:29",
+      "discussion_span_seconds": 447.6,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.222,
+        "positive_hits": 22,
+        "negative_hits": 14
+      },
+      "receipts": [
+        {
+          "timestamp": "12:01",
+          "excerpt": "beyond shit. Your behavior's been ridiculous. You're like people are trying to drag me back to that moment. People just wanted you to go away. You know, I mean you're you're you're threatening to strike channels, taking people's channels down. You're saying, you know, that didn't lack. It didn't lack. Just that's how I'm going to I'm going to try this. Just be Just stop doing that. It's unbelievable that you're asking me to not do somet"
+        }
+      ],
+      "appearance_status": "uncertain"
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "12:04",
+      "title": "Liam Gray / Ethan Van Sciver / Yellow Flash",
+      "entities": [
+        "Liam Gray",
+        "Ethan Van Sciver",
+        "Yellow Flash",
+        "DarkGift Comics"
+      ],
+      "summary_seed": "Okay, so we're that were made. That are fundamentally misguided and dishonest. And there's also a little part so I haven't seen the whole thing but there was a little part I saw where he said I don't want to start problems or anything like that and in the spirit of that I'm going and I know that everyone's going to yell at me Liam don't be merciful you got to go hard I'm going to try and be nice. Okay. >> Liam, you d",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "12:01",
+      "end": "19:29",
+      "title": "Nick Rekieta / Liam Gray / Ethan Van Sciver",
+      "entities": [
+        "Nick Rekieta",
+        "Liam Gray",
+        "Ethan Van Sciver",
+        "Eric July",
+        "TheQuartering"
+      ],
+      "summary_seed": "beyond shit. Your behavior's been ridiculous. You're like people are trying to drag me back to that moment. People just wanted you to go away. You know, I mean you're you're you're threatening to strike channels, taking people's channels down. You're saying, you know, that didn't lack. It didn't lack. Just that's how I'm going to I'm going to try this. Just be Just stop doing that. It's unbelievable that you're askin",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    }
+  ],
+  "claim_candidates": [
+    {
+      "claimant": "there was a little part I saw where he",
+      "claim": "I don't want to start problems or anything like that and in the spirit of that I'm going and I know that everyone's going to yell at me Liam don't be merciful you got to go hard I'm going to try and be nice.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "And there's also a little part so I haven't seen the whole thing but there was a little part I saw where he said I don't want to start problems or anything like that and in the spirit of that I'm going and I know that everyone's going to yell at me Liam don't be merciful you got to go hard I'm going to try and be nice."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that there's a lot of you guys that want me to hate it, okay?",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "You know um And I know that there's a lot of you guys that want me to hate it, okay?"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that would be like um reassuring for them to understand.",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "And people who are perplexed by your behavior, I think that would be like um reassuring for them to understand."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that would that would be something.",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "Uh you know, I think that would that would be something."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "you have a chemical imbalance.",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think you have a chemical imbalance."
+    },
+    {
+      "claimant": "As I",
+      "claim": "when I saw it, uh this isn't the behavior of somebody who's about to uh to go that route.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "As I said when I saw it, uh this isn't the behavior of somebody who's about to uh to go that route."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "it's very distasteful and insulting.",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think it's very distasteful and insulting."
+    },
+    {
+      "claimant": "You said that people who",
+      "claim": "that you're mentally unwell are lying and that you're fine and doctor said that you're fine.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "You said that people who said that you're mentally unwell are lying and that you're fine and doctor said that you're fine."
+    },
+    {
+      "claimant": "When I",
+      "claim": "I'm putting you on Kings, I'm putting you next to some of the people who uh get a lot of respect in this community, I'm I'm giving you this opportunity.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "When I said I'm putting you on Kings, I'm putting you next to some of the people who uh get a lot of respect in this community, I'm I'm giving you this opportunity."
+    },
+    {
+      "claimant": "Hail the River King",
+      "claim": "Crane style.",
+      "timestamp": "12:01",
+      "status": "candidate_claim",
+      "receipt": "Hail the River King says Crane style."
+    },
+    {
+      "claimant": "agree with the idea that Nick basically",
+      "claim": "if Liam, if you're swinging from the rafters nobody would care.",
+      "timestamp": "12:01",
+      "status": "candidate_claim",
+      "receipt": "By the way, I got people arguing in my messages about whether it's okay like do we agree with the idea that Nick basically said if Liam, if you're swinging from the rafters nobody would care."
+    },
+    {
+      "claimant": "do you think that I did or",
+      "claim": "anything to deliberately steer you guys towards disliking Liam Gray.",
+      "timestamp": "12:01",
+      "status": "candidate_claim",
+      "receipt": "Chat, do you think that I did or said anything to deliberately steer you guys towards disliking Liam Gray."
+    },
+    {
+      "claimant": "I'm viewing the clip because I",
+      "claim": "some things yesterday.",
+      "timestamp": "12:01",
+      "status": "candidate_claim",
+      "receipt": "I'm viewing the clip because I said some things yesterday."
+    },
+    {
+      "claimant": "I'm wrong in some way with the things I",
+      "claim": "yesterday, it was unintentional.",
+      "timestamp": "12:01",
+      "status": "candidate_claim",
+      "receipt": "If I'm wrong in some way with the things I said yesterday, it was unintentional."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that's a fair deal.",
+      "timestamp": "12:01",
+      "status": "opinion_or_inference",
+      "receipt": "So like um I think that's a fair deal."
+    },
+    {
+      "claimant": "Emberlin Burger",
+      "claim": "to no one's surprise it's everyone else's fault.",
+      "timestamp": "12:01",
+      "status": "candidate_claim",
+      "receipt": "Emberlin Burger says to no one's surprise it's everyone else's fault."
+    },
+    {
+      "claimant": "uh as I",
+      "claim": "yesterday, I don't want anything bad to happen to Liam.",
+      "timestamp": "12:01",
+      "status": "candidate_claim",
+      "receipt": "I understand your position on striking, but if something bad happened to Liam, was this all worth it?\" Well, Master Dark, uh as I said yesterday, I don't want anything bad to happen to Liam."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "if it really happened, you guys would feel terrible.",
+      "timestamp": "12:01",
+      "status": "opinion_or_inference",
+      "receipt": "I think if it really happened, you guys would feel terrible."
+    }
+  ],
+  "quote_candidates": [
+    {
+      "timestamp": "00:00",
+      "text": "I don't give a fuck about how you feel, the same way you don't give a fuck about how anybody else feels as you sit there and threaten people's channels.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "00:00",
+      "text": "Liam, if you want me to start treating you like a human being and with respect, uh the to not even consider mocking you and in your ridiculous moments, you'll stop threatening people about taking their channels down.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "00:00",
+      "text": "You threatening to strike everybody down and take their channels away from them, take their livelihoods away from them because they're making fun of you?",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "00:00",
+      "text": "The minute you stop threatening people that you don't like and saying that you're going to take their channels down, which is what you just did to me.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "12:01",
+      "text": "You know, I mean you're you're you're threatening to strike channels, taking people's channels down.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "12:01",
+      "text": "I don't want you to go on your channel and threaten people's YouTube channels anymore.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "12:01",
+      "text": "It's not a choice of we let Liam strike everybody's channel or else he's going to off himself.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "12:01",
+      "text": "I also don't want Liam to strike channels.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "00:00",
+      "text": "I tried to take advantage of these opportunities that were graciously given to me by people who've never met me before but wanted to see me succeed.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "00:00",
+      "text": "fucking and diminishing uh what is ultimately a a very very tragic point in my life that really honestly by your own words never should have been a public moment.",
+      "significance_score": 1
+    }
+  ],
+  "relationship_signals": [
+    {
+      "left": "Liam Gray",
+      "right": "Ethan Van Sciver",
+      "signal_type": "defended",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "Okay, so we're that were made. That are fundamentally misguided and dishonest. And there's also a little part so I haven't seen the whole thing but there was a little part I saw where he said I don't want to start problems or anything like that and in the spirit of that I'm going and I know that everyone's going to yell at me Liam don't be merciful you got to go hard I'm going to try and be nice. Okay. >> Liam, you don't have to be merc",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Yellow Flash",
+      "signal_type": "defended",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "Okay, so we're that were made. That are fundamentally misguided and dishonest. And there's also a little part so I haven't seen the whole thing but there was a little part I saw where he said I don't want to start problems or anything like that and in the spirit of that I'm going and I know that everyone's going to yell at me Liam don't be merciful you got to go hard I'm going to try and be nice. Okay. >> Liam, you don't have to be merc",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "DarkGift Comics",
+      "signal_type": "defended",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "Okay, so we're that were made. That are fundamentally misguided and dishonest. And there's also a little part so I haven't seen the whole thing but there was a little part I saw where he said I don't want to start problems or anything like that and in the spirit of that I'm going and I know that everyone's going to yell at me Liam don't be merciful you got to go hard I'm going to try and be nice. Okay. >> Liam, you don't have to be merc",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Yellow Flash",
+      "signal_type": "defended",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "at the end of the day, this is a different situation that we're dealing with here. I'm not dealing with some internet detritus. You know what I mean? I'm not dealing with like >> Detritus. >> some piece of scum. This is Ethan Van Sciver, creator of uh the well, the uh emotional spectrum. This is the guy that did Flash Reborn. >> I hear it loud and clear. Loud and clear. >> read my Donny Cates book and understood the message that was in it and appreciat",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "DarkGift Comics",
+      "signal_type": "defended",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "at the end of the day, this is a different situation that we're dealing with here. I'm not dealing with some internet detritus. You know what I mean? I'm not dealing with like >> Detritus. >> some piece of scum. This is Ethan Van Sciver, creator of uh the well, the uh emotional spectrum. This is the guy that did Flash Reborn. >> I hear it loud and clear. Loud and clear. >> read my Donny Cates book and understood the message that was in it and appreciat",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Yellow Flash",
+      "right": "DarkGift Comics",
+      "signal_type": "defended",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "or or Nick Rocchetta who have the some negative value I want to instead be >> insane >> fair. >> Well, that's good that you're going to be fair. >> as a position of weakness and other shit, right? But I am not I am not Yellow Flash. I'm not one of these other scumbags that tries to tear other people down. >> Yellow Flash scumbag. We agree about that. >> he has a daughter. He has a wife. I want to make his life easier not harder. I don't want to ta",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Ethan Van Sciver",
+      "signal_type": "criticised",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "Okay, so we're that were made. That are fundamentally misguided and dishonest. And there's also a little part so I haven't seen the whole thing but there was a little part I saw where he said I don't want to start problems or anything like that and in the spirit of that I'm going and I know that everyone's going to yell at me Liam don't be merciful you got to go hard I'm going to try and be nice. Okay. >> Liam, you don't have to be merc",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Yellow Flash",
+      "signal_type": "criticised",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "Okay, so we're that were made. That are fundamentally misguided and dishonest. And there's also a little part so I haven't seen the whole thing but there was a little part I saw where he said I don't want to start problems or anything like that and in the spirit of that I'm going and I know that everyone's going to yell at me Liam don't be merciful you got to go hard I'm going to try and be nice. Okay. >> Liam, you don't have to be merc",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "DarkGift Comics",
+      "signal_type": "criticised",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "Okay, so we're that were made. That are fundamentally misguided and dishonest. And there's also a little part so I haven't seen the whole thing but there was a little part I saw where he said I don't want to start problems or anything like that and in the spirit of that I'm going and I know that everyone's going to yell at me Liam don't be merciful you got to go hard I'm going to try and be nice. Okay. >> Liam, you don't have to be merc",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Yellow Flash",
+      "signal_type": "criticised",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "at the end of the day, this is a different situation that we're dealing with here. I'm not dealing with some internet detritus. You know what I mean? I'm not dealing with like >> Detritus. >> some piece of scum. This is Ethan Van Sciver, creator of uh the well, the uh emotional spectrum. This is the guy that did Flash Reborn. >> I hear it loud and clear. Loud and clear. >> read my Donny Cates book and understood the message that was in it and appreciat",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "DarkGift Comics",
+      "signal_type": "criticised",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "at the end of the day, this is a different situation that we're dealing with here. I'm not dealing with some internet detritus. You know what I mean? I'm not dealing with like >> Detritus. >> some piece of scum. This is Ethan Van Sciver, creator of uh the well, the uh emotional spectrum. This is the guy that did Flash Reborn. >> I hear it loud and clear. Loud and clear. >> read my Donny Cates book and understood the message that was in it and appreciat",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Yellow Flash",
+      "right": "DarkGift Comics",
+      "signal_type": "criticised",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "or or Nick Rocchetta who have the some negative value I want to instead be >> insane >> fair. >> Well, that's good that you're going to be fair. >> as a position of weakness and other shit, right? But I am not I am not Yellow Flash. I'm not one of these other scumbags that tries to tear other people down. >> Yellow Flash scumbag. We agree about that. >> he has a daughter. He has a wife. I want to make his life easier not harder. I don't want to ta",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Ethan Van Sciver",
+      "signal_type": "legal_conflict",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "Okay, so we're that were made. That are fundamentally misguided and dishonest. And there's also a little part so I haven't seen the whole thing but there was a little part I saw where he said I don't want to start problems or anything like that and in the spirit of that I'm going and I know that everyone's going to yell at me Liam don't be merciful you got to go hard I'm going to try and be nice. Okay. >> Liam, you don't have to be merc",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Yellow Flash",
+      "signal_type": "legal_conflict",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "Okay, so we're that were made. That are fundamentally misguided and dishonest. And there's also a little part so I haven't seen the whole thing but there was a little part I saw where he said I don't want to start problems or anything like that and in the spirit of that I'm going and I know that everyone's going to yell at me Liam don't be merciful you got to go hard I'm going to try and be nice. Okay. >> Liam, you don't have to be merc",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "DarkGift Comics",
+      "signal_type": "legal_conflict",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "Okay, so we're that were made. That are fundamentally misguided and dishonest. And there's also a little part so I haven't seen the whole thing but there was a little part I saw where he said I don't want to start problems or anything like that and in the spirit of that I'm going and I know that everyone's going to yell at me Liam don't be merciful you got to go hard I'm going to try and be nice. Okay. >> Liam, you don't have to be merc",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Yellow Flash",
+      "signal_type": "legal_conflict",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "at the end of the day, this is a different situation that we're dealing with here. I'm not dealing with some internet detritus. You know what I mean? I'm not dealing with like >> Detritus. >> some piece of scum. This is Ethan Van Sciver, creator of uh the well, the uh emotional spectrum. This is the guy that did Flash Reborn. >> I hear it loud and clear. Loud and clear. >> read my Donny Cates book and understood the message that was in it and appreciat",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "DarkGift Comics",
+      "signal_type": "legal_conflict",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "at the end of the day, this is a different situation that we're dealing with here. I'm not dealing with some internet detritus. You know what I mean? I'm not dealing with like >> Detritus. >> some piece of scum. This is Ethan Van Sciver, creator of uh the well, the uh emotional spectrum. This is the guy that did Flash Reborn. >> I hear it loud and clear. Loud and clear. >> read my Donny Cates book and understood the message that was in it and appreciat",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Yellow Flash",
+      "right": "DarkGift Comics",
+      "signal_type": "legal_conflict",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "or or Nick Rocchetta who have the some negative value I want to instead be >> insane >> fair. >> Well, that's good that you're going to be fair. >> as a position of weakness and other shit, right? But I am not I am not Yellow Flash. I'm not one of these other scumbags that tries to tear other people down. >> Yellow Flash scumbag. We agree about that. >> he has a daughter. He has a wife. I want to make his life easier not harder. I don't want to ta",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Ethan Van Sciver",
+      "signal_type": "criticised",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": "a weak statement of failure when somebody's asking you to just behave a certain way. Giving you a whole lot of things and you tried but you couldn't you couldn't succeed. Earlier today we watched Nick Roccata attacking Liam Gray. And Liam Gray also watched Nick Roccata attacking Liam Gray and he has there's a little clip of a video that Katie did made. Katie, thank you for this of Liam responding to Nick Roccata. It's only 13 minutes and a half",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Nick Rekieta",
+      "signal_type": "criticised",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": "a weak statement of failure when somebody's asking you to just behave a certain way. Giving you a whole lot of things and you tried but you couldn't you couldn't succeed. Earlier today we watched Nick Roccata attacking Liam Gray. And Liam Gray also watched Nick Roccata attacking Liam Gray and he has there's a little clip of a video that Katie did made. Katie, thank you for this of Liam responding to Nick Roccata. It's only 13 minutes and a half",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Eric July",
+      "signal_type": "criticised",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": "a weak statement of failure when somebody's asking you to just behave a certain way. Giving you a whole lot of things and you tried but you couldn't you couldn't succeed. Earlier today we watched Nick Roccata attacking Liam Gray. And Liam Gray also watched Nick Roccata attacking Liam Gray and he has there's a little clip of a video that Katie did made. Katie, thank you for this of Liam responding to Nick Roccata. It's only 13 minutes and a half",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "TheQuartering",
+      "signal_type": "criticised",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": "a weak statement of failure when somebody's asking you to just behave a certain way. Giving you a whole lot of things and you tried but you couldn't you couldn't succeed. Earlier today we watched Nick Roccata attacking Liam Gray. And Liam Gray also watched Nick Roccata attacking Liam Gray and he has there's a little clip of a video that Katie did made. Katie, thank you for this of Liam responding to Nick Roccata. It's only 13 minutes and a half",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Nick Rekieta",
+      "signal_type": "criticised",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": "beyond shit. Your behavior's been ridiculous. You're like people are trying to drag me back to that moment. People just wanted you to go away. You know, I mean you're you're you're threatening to strike channels, taking people's channels down. You're saying, you know, that didn't lack. It didn't lack. Just that's how I'm going to I'm going to try this. Just be Just stop doing that. It's unbelievable that you're asking me to not do somet",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Eric July",
+      "signal_type": "criticised",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": "beyond shit. Your behavior's been ridiculous. You're like people are trying to drag me back to that moment. People just wanted you to go away. You know, I mean you're you're you're threatening to strike channels, taking people's channels down. You're saying, you know, that didn't lack. It didn't lack. Just that's how I'm going to I'm going to try this. Just be Just stop doing that. It's unbelievable that you're asking me to not do somet",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "TheQuartering",
+      "signal_type": "criticised",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": "beyond shit. Your behavior's been ridiculous. You're like people are trying to drag me back to that moment. People just wanted you to go away. You know, I mean you're you're you're threatening to strike channels, taking people's channels down. You're saying, you know, that didn't lack. It didn't lack. Just that's how I'm going to I'm going to try this. Just be Just stop doing that. It's unbelievable that you're asking me to not do somet",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Nick Rekieta",
+      "right": "Eric July",
+      "signal_type": "criticised",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": "beyond shit. Your behavior's been ridiculous. You're like people are trying to drag me back to that moment. People just wanted you to go away. You know, I mean you're you're you're threatening to strike channels, taking people's channels down. You're saying, you know, that didn't lack. It didn't lack. Just that's how I'm going to I'm going to try this. Just be Just stop doing that. It's unbelievable that you're asking me to not do somet",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Nick Rekieta",
+      "right": "TheQuartering",
+      "signal_type": "criticised",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": "beyond shit. Your behavior's been ridiculous. You're like people are trying to drag me back to that moment. People just wanted you to go away. You know, I mean you're you're you're threatening to strike channels, taking people's channels down. You're saying, you know, that didn't lack. It didn't lack. Just that's how I'm going to I'm going to try this. Just be Just stop doing that. It's unbelievable that you're asking me to not do somet",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Eric July",
+      "right": "TheQuartering",
+      "signal_type": "criticised",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": "stop doing that, stop striking channels, and we're okay. I'm not here to attack you. I'm not here to play clips that embarrass or humiliate you. I'm watching this clip now, even now, I'm watching this clip uh with what Eric July would call good faith. This is a good faith. I'm viewing the clip because I said some things yesterday. Liam is going to have a a chance to respond and we're not talking face to face anymore. Liam's blocked from this ch",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Ethan Van Sciver",
+      "signal_type": "legal_conflict",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": "a weak statement of failure when somebody's asking you to just behave a certain way. Giving you a whole lot of things and you tried but you couldn't you couldn't succeed. Earlier today we watched Nick Roccata attacking Liam Gray. And Liam Gray also watched Nick Roccata attacking Liam Gray and he has there's a little clip of a video that Katie did made. Katie, thank you for this of Liam responding to Nick Roccata. It's only 13 minutes and a half",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Nick Rekieta",
+      "signal_type": "legal_conflict",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": "a weak statement of failure when somebody's asking you to just behave a certain way. Giving you a whole lot of things and you tried but you couldn't you couldn't succeed. Earlier today we watched Nick Roccata attacking Liam Gray. And Liam Gray also watched Nick Roccata attacking Liam Gray and he has there's a little clip of a video that Katie did made. Katie, thank you for this of Liam responding to Nick Roccata. It's only 13 minutes and a half",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Eric July",
+      "signal_type": "legal_conflict",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": "a weak statement of failure when somebody's asking you to just behave a certain way. Giving you a whole lot of things and you tried but you couldn't you couldn't succeed. Earlier today we watched Nick Roccata attacking Liam Gray. And Liam Gray also watched Nick Roccata attacking Liam Gray and he has there's a little clip of a video that Katie did made. Katie, thank you for this of Liam responding to Nick Roccata. It's only 13 minutes and a half",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "TheQuartering",
+      "signal_type": "legal_conflict",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": "a weak statement of failure when somebody's asking you to just behave a certain way. Giving you a whole lot of things and you tried but you couldn't you couldn't succeed. Earlier today we watched Nick Roccata attacking Liam Gray. And Liam Gray also watched Nick Roccata attacking Liam Gray and he has there's a little clip of a video that Katie did made. Katie, thank you for this of Liam responding to Nick Roccata. It's only 13 minutes and a half",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Nick Rekieta",
+      "signal_type": "legal_conflict",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": "beyond shit. Your behavior's been ridiculous. You're like people are trying to drag me back to that moment. People just wanted you to go away. You know, I mean you're you're you're threatening to strike channels, taking people's channels down. You're saying, you know, that didn't lack. It didn't lack. Just that's how I'm going to I'm going to try this. Just be Just stop doing that. It's unbelievable that you're asking me to not do somet",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Eric July",
+      "signal_type": "legal_conflict",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": "beyond shit. Your behavior's been ridiculous. You're like people are trying to drag me back to that moment. People just wanted you to go away. You know, I mean you're you're you're threatening to strike channels, taking people's channels down. You're saying, you know, that didn't lack. It didn't lack. Just that's how I'm going to I'm going to try this. Just be Just stop doing that. It's unbelievable that you're asking me to not do somet",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "TheQuartering",
+      "signal_type": "legal_conflict",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": "beyond shit. Your behavior's been ridiculous. You're like people are trying to drag me back to that moment. People just wanted you to go away. You know, I mean you're you're you're threatening to strike channels, taking people's channels down. You're saying, you know, that didn't lack. It didn't lack. Just that's how I'm going to I'm going to try this. Just be Just stop doing that. It's unbelievable that you're asking me to not do somet",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Nick Rekieta",
+      "right": "Eric July",
+      "signal_type": "legal_conflict",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": "beyond shit. Your behavior's been ridiculous. You're like people are trying to drag me back to that moment. People just wanted you to go away. You know, I mean you're you're you're threatening to strike channels, taking people's channels down. You're saying, you know, that didn't lack. It didn't lack. Just that's how I'm going to I'm going to try this. Just be Just stop doing that. It's unbelievable that you're asking me to not do somet",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Nick Rekieta",
+      "right": "TheQuartering",
+      "signal_type": "legal_conflict",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": "beyond shit. Your behavior's been ridiculous. You're like people are trying to drag me back to that moment. People just wanted you to go away. You know, I mean you're you're you're threatening to strike channels, taking people's channels down. You're saying, you know, that didn't lack. It didn't lack. Just that's how I'm going to I'm going to try this. Just be Just stop doing that. It's unbelievable that you're asking me to not do somet",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Eric July",
+      "right": "TheQuartering",
+      "signal_type": "legal_conflict",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": "stop doing that, stop striking channels, and we're okay. I'm not here to attack you. I'm not here to play clips that embarrass or humiliate you. I'm watching this clip now, even now, I'm watching this clip uh with what Eric July would call good faith. This is a good faith. I'm viewing the clip because I said some things yesterday. Liam is going to have a a chance to respond and we're not talking face to face anymore. Liam's blocked from this ch",
+      "warning": "co-mention plus language signal; requires interpretation"
+    }
+  ],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

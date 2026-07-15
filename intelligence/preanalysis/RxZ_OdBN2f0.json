@@ -1,0 +1,1614 @@
+{
+  "schema_version": "octopuss-preanalysis-v0.1",
+  "generated_at": "2026-07-15T21:04:22.407467+00:00",
+  "video_id": "RxZ_OdBN2f0",
+  "title": "Katydid Caught LYING AGAIN! - Detractor Kings",
+  "source": "Frog Tony",
+  "published": "2026-07-07T05:46:59+00:00",
+  "packet_hash": "d79b8ccdc62c2ec40e3d63bed1fe0bdff28fc9d6d404aca585c7b7aaeb5d9800",
+  "coverage": {
+    "first_caption_second": 0.08,
+    "last_caption_second": 14323.84,
+    "timestamp_start": "00:00",
+    "timestamp_end": "03:58:43",
+    "caption_span_seconds": 14323.76,
+    "status": "transcript_present",
+    "note": "This measures the caption span only. It does not prove complete coverage of the original video."
+  },
+  "participant_candidates": [
+    {
+      "entity": "Frog Tony",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.72,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    },
+    {
+      "entity": "Frog Tony",
+      "role_guess": "likely_participant",
+      "confidence": 0.4,
+      "signals": [
+        "directly addressed 5 times",
+        "possible clip voice rather than live participant"
+      ]
+    },
+    {
+      "entity": "Stray Beans",
+      "role_guess": "likely_participant",
+      "confidence": 0.43,
+      "signals": [
+        "directly addressed 1 times",
+        "appears in 5 distant transcript blocks"
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Frog Tony",
+      "mentions": 98,
+      "block_count": 2,
+      "first_timestamp": "00:00",
+      "last_timestamp": "24:04",
+      "discussion_span_seconds": 1444.7,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.644,
+        "positive_hits": 120,
+        "negative_hits": 26
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "ito says jokes are funny and the whole room [music] smokes. A thousand miles and running. THE FROG HAS GOT THE WHOLE TOWN BUZZING. THEY CRIED [music] OVER JOKES. NOW they're fussing. A thousand miles and running. >> I'M FROG TONY. Let me tell you who I be. Drink tequila WITH AN APPLE SITTING NEXT to me. Working [music] in the garbage factory all day long AND COMICS AND VIDEO GAMES TILL THE BREAK OF DAWN. Senate keeps barking. ANGRY LITTLE DWARF"
+        },
+        {
+          "timestamp": "12:00",
+          "excerpt": "he shows up. >> So, yeah. [snorts] So, I told Veto, you should do it. And uh if you're going to do it, you should do it with me because uh let's face it, the biggest bump in the biggest problem in the universe has been Frog Tony. People hate me. People love to hate me, right? Hate watchers uh would gather Do you understand the amount of hate? Like Veto doing the biggest problem without dick would be [ __ ] hate, right? Veto would get so much he"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Dick Masterson",
+      "mentions": 85,
+      "block_count": 1,
+      "first_timestamp": "00:00",
+      "last_timestamp": "12:05",
+      "discussion_span_seconds": 725.2,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5,
+        "positive_hits": 39,
+        "negative_hits": 13
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "lately. >> Whoa. >> And I think uh it's time for forgiveness, right? I got to forgive you people. >> And so, uh, Veto, I got to forgive them. Uh because I reached out to Veto and I said, \"Veto, you gotta take the deal. Dick Masterson has offered you a golden golden opportunity to take over the biggest problem in the universe. Um, Patreon right now. It's not about the brand. It's not about the name. It's not about uh any of that kind of thing, right?"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Ethan Van Sciver",
+      "mentions": 28,
+      "block_count": 2,
+      "first_timestamp": "24:01",
+      "last_timestamp": "48:02",
+      "discussion_span_seconds": 1441.0,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.617,
+        "positive_hits": 76,
+        "negative_hits": 18
+      },
+      "receipts": [
+        {
+          "timestamp": "24:01",
+          "excerpt": "a single god damn comics gate stream. What Katie did >> man I hate her name because like what Katie did did what Katie did did what she done did is uh >> Katie done she was watching Nick Ricada. She was watching uh Eric July Yellow Flash because you know the weeb wars [ __ ] right? So she was watching the weeb wars [ __ ] and all the [ __ ] >> What the hell? Okay, >> pause it. Pause it. What's the wee wars? >> Uh that was Vic Miona and"
+        },
+        {
+          "timestamp": "36:01",
+          "excerpt": "then claiming Vic was never in the slums. Vic was never a slum lord. Vic was never one of us. >> Right. Wow. Comic skate top promoter who is a CG king is lying about another CG member. I'm shocked. Yeah, Katie did came into CG because she's seen how much money made of his campaign. She was hoping that CG would fund her uh club duchin dujeni books. >> Jesus. >> In fairness, the people in CG, you did come out of nowhere, so they didn't kn"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Liam Gray",
+      "mentions": 26,
+      "block_count": 5,
+      "first_timestamp": "36:01",
+      "last_timestamp": "03:58:43",
+      "discussion_span_seconds": 12162.7,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.807,
+        "positive_hits": 366,
+        "negative_hits": 39
+      },
+      "receipts": [
+        {
+          "timestamp": "36:01",
+          "excerpt": "then claiming Vic was never in the slums. Vic was never a slum lord. Vic was never one of us. >> Right. Wow. Comic skate top promoter who is a CG king is lying about another CG member. I'm shocked. Yeah, Katie did came into CG because she's seen how much money made of his campaign. She was hoping that CG would fund her uh club duchin dujeni books. >> Jesus. >> In fairness, the people in CG, you did come out of nowhere, so they didn't kn"
+        },
+        {
+          "timestamp": "01:36:02",
+          "excerpt": "Angry Joe is trying to speak from a position of power. Angry Joe. >> Angry Joe people. [laughter] >> Yeah. Like this isn't like a mainstream critic. You're not like, \"Yeah, this mainstream critic is like calling us out and saying like a he hated it, but he hated it for like this is angry [ __ ] joke. The guy who yells and screams, right? That's his whole [ __ ] stick.\" And you're like, \"This guy thinks he's in a position of No, he doesn"
+        },
+        {
+          "timestamp": "03:12:00",
+          "excerpt": "be a classic. How many times do you watch the video of Skitzo Sean goes to Veto's house? It's like, ah, well, I guess he showed up. Veto wore a Honestly, the only funny part of it was Veto wore a Bluey t-shirt. I was the funny part of the whole thing. Yeah, I got that shirt. It's terrible. I should throw it out. Uh >> here here's what I want to know, Veto. So, you you were talking about like people trying to be part of the show and part"
+        },
+        {
+          "timestamp": "03:24:01",
+          "excerpt": "he fooled me because when we hung out, he was acting like a normal person and not like insulting Mint and [ __ ] >> Yeah. I don't know, man. Uh it but it got to the point where I said listen and and I think I said a very uh call me crazy but I'm like if a guy's gonna and multiple times I said to Dick I said listen if it's really important to you that Riley is part of the show cuz it seemed like it was. He's like this guy does content fo"
+        },
+        {
+          "timestamp": "03:48:00",
+          "excerpt": "you point out this guy's lying and for other people to go, \"Yeah, he is lying.\" Instead of >> Yeah, but it's really hard to prove a guy's lying. >> No, we're going to pretend like he like we didn't see that. >> It's really hard to prove a guy's lying. >> No, we've proven he's lied. We've literally >> But you got But Tony, you got to remember a lot of people do not care if they will just >> That's the problem. Like no one cares. >> Yeah,"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Eric July",
+      "mentions": 24,
+      "block_count": 1,
+      "first_timestamp": "24:01",
+      "last_timestamp": "36:03",
+      "discussion_span_seconds": 721.4,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.617,
+        "positive_hits": 38,
+        "negative_hits": 9
+      },
+      "receipts": [
+        {
+          "timestamp": "24:01",
+          "excerpt": "a single god damn comics gate stream. What Katie did >> man I hate her name because like what Katie did did what Katie did did what she done did is uh >> Katie done she was watching Nick Ricada. She was watching uh Eric July Yellow Flash because you know the weeb wars [ __ ] right? So she was watching the weeb wars [ __ ] and all the [ __ ] >> What the hell? Okay, >> pause it. Pause it. What's the wee wars? >> Uh that was Vic Miona and all"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Jon Del Arroz",
+      "mentions": 15,
+      "block_count": 1,
+      "first_timestamp": "03:48:00",
+      "last_timestamp": "03:58:43",
+      "discussion_span_seconds": 643.6,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.762,
+        "positive_hits": 89,
+        "negative_hits": 12
+      },
+      "receipts": [
+        {
+          "timestamp": "03:48:00",
+          "excerpt": "you point out this guy's lying and for other people to go, \"Yeah, he is lying.\" Instead of >> Yeah, but it's really hard to prove a guy's lying. >> No, we're going to pretend like he like we didn't see that. >> It's really hard to prove a guy's lying. >> No, we've proven he's lied. We've literally >> But you got But Tony, you got to remember a lot of people do not care if they will just >> That's the problem. Like no one cares. >> Yeah,"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "ComicsGate",
+      "mentions": 14,
+      "block_count": 3,
+      "first_timestamp": "00:00",
+      "last_timestamp": "36:03",
+      "discussion_span_seconds": 2163.0,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.637,
+        "positive_hits": 158,
+        "negative_hits": 35
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "Guess what I'm about TO DO? >> CATCH THOSE FROGGERS. CATCH THOSE [screaming] MOTHERFERS. NAH, WE'RE ALREADY GONE. LITTLE MOVIE PERP AND THE CREW JUST CROSSED THE COUNTY LINE. 1,000 miles [music] AND RUNNING. THE FROGGERS GOT THE WHOLE TOWN BUZZING. THEY CRIED OVER JOKES. Now they're fussing. A,000 miles and running. A,000 [music] miles and running. HER PLUT PATROL KEEPS BLUFFING. BREAK OUT RAGE [music] CROCODILE suffering a thousand mil"
+        },
+        {
+          "timestamp": "12:00",
+          "excerpt": ">> right? So he would get uh 2500 or 25% of the Patreon, whatever is less, right? So the most he could ever get is 2500, right? Because if Veto grows the show, if the Patreon suddenly surges up, right? >> Oh, okay. Yeah. >> That would be Veto's fans. Like Veto is bringing these people in, right? >> Right. New member. Yeah. Okay. Yeah. >> So I I would have some sort of like cap whereas like you know maybe even like say okay uh you can ge"
+        },
+        {
+          "timestamp": "24:01",
+          "excerpt": "a single god damn comics gate stream. What Katie did >> man I hate her name because like what Katie did did what Katie did did what she done did is uh >> Katie done she was watching Nick Ricada. She was watching uh Eric July Yellow Flash because you know the weeb wars [ __ ] right? So she was watching the weeb wars [ __ ] and all the [ __ ] >> What the hell? Okay, >> pause it. Pause it. What's the wee wars? >> Uh that was Vic Miona and"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Sturgis",
+      "mentions": 8,
+      "block_count": 4,
+      "first_timestamp": "00:00",
+      "last_timestamp": "02:48:04",
+      "discussion_span_seconds": 10084.2,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.755,
+        "positive_hits": 208,
+        "negative_hits": 29
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "he fourth? >> Lance. >> Maybe. Maybe. >> Does Lance get get >> Never seen Lance so recently? >> I know. Lance has been on MIA. >> Bring me Lance. if it isn't Lucifer himself. If you want to see something cringe as hell, Sturgis' travel blog. Yeah, we have them on the uh the list. You know, I have a playlist of what we're going to go over. Steven Lenudo says me on the fourth. [laughter] >> Yeah, there's Stephen or Cosmic Vader. >> I I think Ste"
+        },
+        {
+          "timestamp": "24:01",
+          "excerpt": "o the good graces of CG. I I see you in the chat, Mike. I'll address that in a second. Um, except Tony. Uh, except Tony. Tony, don't listen. He butchered Vic's name. Vicona, right? Manona. Vic uh Manion. Katie was a she Sturgis. Yeah. Weren't you going after uh anyway before way before Ethan? Yes. >> Minana whatever. Everyone says Vic Miniona. Okay. Who cares? Vic the guy who >> Miola like there are people who are saying Mnola then Miola and t"
+        },
+        {
+          "timestamp": "02:24:01",
+          "excerpt": "just the natural progression here. >> Welcome back to this week in the >> jump scared. >> Jump scare. >> Yeah. >> All right. We're gonna skip to this week in the ripper verse. We're just gonna we're gonna pull up a um a Sturgis. Man, we we uh we still got a couple of Eric's live videos to go through. >> Stures sturgees. >> I was say we're gonna we're going to go through it. >> Looks like we made it. >> We're going to watch uh this one because"
+        },
+        {
+          "timestamp": "02:36:01",
+          "excerpt": "e type of game with Gundam. That's going to be pretty cool. >> His backpack hangs. so low. I bet his lower back is all screwed up. It's that hump. >> I know. >> Can't put it on the hump. >> What is it with the dwarf and Sturgis wearing their hats backwards? Hello, fellow kids. They're cool, baby. >> Yeah. Hello. They're literally the meme. Yeah. [clears throat] >> Steve Bushi. >> Yeah, >> he could visit PewDiePie. They're best friends. I'm sur"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Nerdrotic",
+      "mentions": 6,
+      "block_count": 3,
+      "first_timestamp": "24:01",
+      "last_timestamp": "03:48:01",
+      "discussion_span_seconds": 12239.9,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.688,
+        "positive_hits": 157,
+        "negative_hits": 29
+      },
+      "receipts": [
+        {
+          "timestamp": "24:01",
+          "excerpt": "a single god damn comics gate stream. What Katie did >> man I hate her name because like what Katie did did what Katie did did what she done did is uh >> Katie done she was watching Nick Ricada. She was watching uh Eric July Yellow Flash because you know the weeb wars [ __ ] right? So she was watching the weeb wars [ __ ] and all the [ __ ] >> What the hell? Okay, >> pause it. Pause it. What's the wee wars? >> Uh that was Vic Miona and"
+        },
+        {
+          "timestamp": "36:01",
+          "excerpt": "then claiming Vic was never in the slums. Vic was never a slum lord. Vic was never one of us. >> Right. Wow. Comic skate top promoter who is a CG king is lying about another CG member. I'm shocked. Yeah, Katie did came into CG because she's seen how much money made of his campaign. She was hoping that CG would fund her uh club duchin dujeni books. >> Jesus. >> In fairness, the people in CG, you did come out of nowhere, so they didn't kn"
+        },
+        {
+          "timestamp": "03:36:01",
+          "excerpt": "goof on Gary Deabate. Gary Delbat is a great example. Baba Buouie. Okay. You go, \"Oh, Gary, you [ __ ] up the show. You [ __ ] up the guest again. You know, how could you?\" But at the end of the day, if anyone in the audience was going, \"Hey, I [ __ ] hate Gary. I'm going to go to his house and [ __ ] with him.\" Howard Stern would step in and go, \"Well, hold on. That's that's my monkey boy.\" You know, that's that's not your role. You ca"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Stray Beans",
+      "mentions": 6,
+      "block_count": 5,
+      "first_timestamp": "00:00",
+      "last_timestamp": "03:00:02",
+      "discussion_span_seconds": 10802.4,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.722,
+        "positive_hits": 316,
+        "negative_hits": 51
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "that I would say that needs to be done with that song, we need like a part two, right? like like I don't want to call it the B team, but like a part two with like >> Sure. >> It's got to have you in it. It's got to have Stray Beans in it, right? >> Uh Finn Bar. >> Who would be the fourth? >> Lance. >> Maybe. Maybe. >> Does Lance get get >> Never seen Lance so recently? >> I know. Lance has been on MIA. >> Bring me Lance. if it isn't Lucifer himsel"
+        },
+        {
+          "timestamp": "01:12:00",
+          "excerpt": "eology. Go and watch it and form your opinion for yourself. That's all Angry Joe did. And what and and what is Eric doing now? Like what is his argument even? >> Well, I'm I'm gonna I'm gonna slightly disagree with you, Stray Beans. >> Okay. >> I think that you can prejudge a movie, right? I don't think that you should prejudge a movie like you said on ideology. But like if you watch the trailer, that trailer looked like Right. No, but I'm saying"
+        },
+        {
+          "timestamp": "01:24:00",
+          "excerpt": "criticism, like you're like, \"Hey, like the [ __ ] uh the special effects in this new uh Jurassic Park look crappier than the [ __ ] Jurassic Park from [ __ ] you know, the 90s.\" Like that's legitimate criticism, right? You going, \"Oh, the new Jurassic Park's going to suck because it's about a woman in the woman's uh uh she's a [ __ ] badass. She's a [ __ ] girl boss woman. This movie's going to suck.\" >> Mary Sue. >> Yeah. Mary a Mary"
+        },
+        {
+          "timestamp": "01:48:00",
+          "excerpt": "out the alternative you're going to get a lot more of that and I think the readjustment if I can give advice to anybody like again it's been around as long as I have re >> he's going to give people advice because he's been around YouTube a long time so he he's a he's a the old guard he knows what's what's Who's wise? Who's wise? >> Recognize that readjustment and I don't think getting in the weeds of that is worth is worth your time. I"
+        },
+        {
+          "timestamp": "02:48:02",
+          "excerpt": ", \"Yeah, okay. Well, well, actually Dick gets to yell at him. Haha, we get to see him be.\" But if you are just on the show with whether it's you and Billy, you and [ __ ] Hack the Movies, you and whoever, you and [ __ ] Stray Beans, doesn't matter because now you're the guy. They can't. There's no one yelling at you on the show. You're the guy running their favorite podcast. their internet dad has given their drunken uncle control of the show that"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Vito Gesualdi",
+      "mentions": 6,
+      "block_count": 4,
+      "first_timestamp": "00:00",
+      "last_timestamp": "03:00:02",
+      "discussion_span_seconds": 10802.4,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.685,
+        "positive_hits": 214,
+        "negative_hits": 40
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "Guess what I'm about TO DO? >> CATCH THOSE FROGGERS. CATCH THOSE [screaming] MOTHERFERS. NAH, WE'RE ALREADY GONE. LITTLE MOVIE PERP AND THE CREW JUST CROSSED THE COUNTY LINE. 1,000 miles [music] AND RUNNING. THE FROGGERS GOT THE WHOLE TOWN BUZZING. THEY CRIED OVER JOKES. Now they're fussing. A,000 miles and running. A,000 [music] miles and running. HER PLUT PATROL KEEPS BLUFFING. BREAK OUT RAGE [music] CROCODILE suffering a thousand mil"
+        },
+        {
+          "timestamp": "12:00",
+          "excerpt": ">> right? So he would get uh 2500 or 25% of the Patreon, whatever is less, right? So the most he could ever get is 2500, right? Because if Veto grows the show, if the Patreon suddenly surges up, right? >> Oh, okay. Yeah. >> That would be Veto's fans. Like Veto is bringing these people in, right? >> Right. New member. Yeah. Okay. Yeah. >> So I I would have some sort of like cap whereas like you know maybe even like say okay uh you can ge"
+        },
+        {
+          "timestamp": "02:36:01",
+          "excerpt": ">> Yeah. Wink wink, nudge nudge. Yeah. Yeah. >> Oh, yeah. On the down low, you know. >> Yeah. Yeah. Yeah. Yeah. >> So, it's like Yeah. Yeah, they go like you go and they like they bathe you and they soap you up and oops, I accidentally soaked up your one spot enough to make you explode. [snorts] [clears throat] >> You went to a main camp. >> Looks like they're coming out [music] with some new Gundam assemble kits. Looks like some type o"
+        },
+        {
+          "timestamp": "02:48:02",
+          "excerpt": "it.\" >> So, you still get a paycheck. Take over. >> Yeah. Take the deal. do one show and say the biggest problem in the universe is all of you [ __ ] guys and just flip off the camera and turn it off. >> Look, I have not been sent any supposed deal. Uh, you know, if it would be one thing if it's like here's a bunch of papers to look over and think about. I'd go, okay, well, but at this point it's a guy on a podcast going 25%. They go 25"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "DarkGift Comics",
+      "mentions": 5,
+      "block_count": 1,
+      "first_timestamp": "00:00",
+      "last_timestamp": "12:05",
+      "discussion_span_seconds": 725.2,
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5,
+        "positive_hits": 39,
+        "negative_hits": 13
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "Guess what I'm about TO DO? >> CATCH THOSE FROGGERS. CATCH THOSE [screaming] MOTHERFERS. NAH, WE'RE ALREADY GONE. LITTLE MOVIE PERP AND THE CREW JUST CROSSED THE COUNTY LINE. 1,000 miles [music] AND RUNNING. THE FROGGERS GOT THE WHOLE TOWN BUZZING. THEY CRIED OVER JOKES. Now they're fussing. A,000 miles and running. A,000 [music] miles and running. HER PLUT PATROL KEEPS BLUFFING. BREAK OUT RAGE [music] CROCODILE suffering a thousand mil"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "KatyDid",
+      "mentions": 2,
+      "block_count": 1,
+      "first_timestamp": "00:00",
+      "last_timestamp": "12:05",
+      "discussion_span_seconds": 725.2,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5,
+        "positive_hits": 39,
+        "negative_hits": 13
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "Guess what I'm about TO DO? >> CATCH THOSE FROGGERS. CATCH THOSE [screaming] MOTHERFERS. NAH, WE'RE ALREADY GONE. LITTLE MOVIE PERP AND THE CREW JUST CROSSED THE COUNTY LINE. 1,000 miles [music] AND RUNNING. THE FROGGERS GOT THE WHOLE TOWN BUZZING. THEY CRIED OVER JOKES. Now they're fussing. A,000 miles and running. A,000 [music] miles and running. HER PLUT PATROL KEEPS BLUFFING. BREAK OUT RAGE [music] CROCODILE suffering a thousand mil"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Shane Davis",
+      "mentions": 2,
+      "block_count": 2,
+      "first_timestamp": "24:01",
+      "last_timestamp": "02:12:04",
+      "discussion_span_seconds": 6482.4,
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.814,
+        "positive_hits": 127,
+        "negative_hits": 13
+      },
+      "receipts": [
+        {
+          "timestamp": "24:01",
+          "excerpt": ", here look at three years ago ISO number one review. Ripverse or ripoff verse? Again, I coined the [ __ ] phrase ripoff verse. Okay, >> welcome to the riperverse. [snorts] I reviewed it. Imm number one. Ism number one. Shane Davis was doing a cover for Ism number two, which means they were still friendly with [ __ ] Eric July when I was talking about Ism. How would how would me [ __ ] on Ism get me friendly with CG when they were friendly with Er"
+        },
+        {
+          "timestamp": "02:00:00",
+          "excerpt": ">> that have creative uh again bones in their body. >> Was it >> I don't know. I don't think >> Mike >> Yeah. Yeah. Epic Mike. Yeah, is he suggesting that like uh Geeks and Gamers, Jeremy, uh [ __ ] Ryan Canel, they're all gonna like make movies and [ __ ] >> Sure. >> Look, I get that like a couple Okay, hold on. I get that like a couple YouTubers made some movies that made some money, >> but that is not the natural progression. Eric, n"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "TheQuartering",
+      "mentions": 2,
+      "block_count": 2,
+      "first_timestamp": "01:36:02",
+      "last_timestamp": "02:12:04",
+      "discussion_span_seconds": 2162.1,
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.89,
+        "positive_hits": 137,
+        "negative_hits": 8
+      },
+      "receipts": [
+        {
+          "timestamp": "01:36:02",
+          "excerpt": "Angry Joe is trying to speak from a position of power. Angry Joe. >> Angry Joe people. [laughter] >> Yeah. Like this isn't like a mainstream critic. You're not like, \"Yeah, this mainstream critic is like calling us out and saying like a he hated it, but he hated it for like this is angry [ __ ] joke. The guy who yells and screams, right? That's his whole [ __ ] stick.\" And you're like, \"This guy thinks he's in a position of No, he doesn"
+        },
+        {
+          "timestamp": "02:00:00",
+          "excerpt": ">> that have creative uh again bones in their body. >> Was it >> I don't know. I don't think >> Mike >> Yeah. Yeah. Epic Mike. Yeah, is he suggesting that like uh Geeks and Gamers, Jeremy, uh [ __ ] Ryan Canel, they're all gonna like make movies and [ __ ] >> Sure. >> Look, I get that like a couple Okay, hold on. I get that like a couple YouTubers made some movies that made some money, >> but that is not the natural progression. Eric, n"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Little Movie Perp",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "00:00",
+      "last_timestamp": "12:05",
+      "discussion_span_seconds": 725.2,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5,
+        "positive_hits": 39,
+        "negative_hits": 13
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "Guess what I'm about TO DO? >> CATCH THOSE FROGGERS. CATCH THOSE [screaming] MOTHERFERS. NAH, WE'RE ALREADY GONE. LITTLE MOVIE PERP AND THE CREW JUST CROSSED THE COUNTY LINE. 1,000 miles [music] AND RUNNING. THE FROGGERS GOT THE WHOLE TOWN BUZZING. THEY CRIED OVER JOKES. Now they're fussing. A,000 miles and running. A,000 [music] miles and running."
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Nick Rekieta",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "24:01",
+      "last_timestamp": "36:03",
+      "discussion_span_seconds": 721.4,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.617,
+        "positive_hits": 38,
+        "negative_hits": 9
+      },
+      "receipts": [
+        {
+          "timestamp": "24:01",
+          "excerpt": "a single god damn comics gate stream. What Katie did >> man I hate her name because like what Katie did did what Katie did did what she done did is uh >> Katie done she was watching Nick Ricada. She was watching uh Eric July Yellow Flash because you know the weeb wars [ __ ] right? So she was watching the weeb wars [ __ ] and all the [ __ ] >> What the hell? Okay, >> pause it. Pause it. What's the wee wars? >> Uh that was Vic Miona and"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Trashcast",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "36:01",
+      "last_timestamp": "48:02",
+      "discussion_span_seconds": 721.6,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.617,
+        "positive_hits": 38,
+        "negative_hits": 9
+      },
+      "receipts": [
+        {
+          "timestamp": "36:01",
+          "excerpt": "s the one we didn't watch, right? >> I don't know. >> I believe so. I believe that's the the one we did not get to. >> I see you. Uh Rotham says, \"Gonna catch this on replay, but don't forget EVS spent 20 hours total on Trashcast alone over the course of four days.\" But hey, late campaigns, am I right? >> That's right, >> man. 20 That's like almost a whole day. So, uh out of four days, you almost spent a whole day, uh on Dashcast. >> Stop harass"
+        }
+      ],
+      "appearance_status": "uncertain"
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "12:05",
+      "title": "Dick Masterson / Frog Tony / DarkGift Comics",
+      "entities": [
+        "Dick Masterson",
+        "Frog Tony",
+        "DarkGift Comics",
+        "KatyDid",
+        "ComicsGate",
+        "Sturgis",
+        "Stray Beans",
+        "Vito Gesualdi",
+        "Little Movie Perp"
+      ],
+      "summary_seed": "Guess what I'm about TO DO? >> CATCH THOSE FROGGERS. CATCH THOSE [screaming] MOTHERFERS. NAH, WE'RE ALREADY GONE. LITTLE MOVIE PERP AND THE CREW JUST CROSSED THE COUNTY LINE. 1,000 miles [music] AND RUNNING. THE FROGGERS GOT THE WHOLE TOWN BUZZING. THEY CRIED OVER JOKES. Now they're fussing. A,000 miles and running. A,000 [music] miles and running. HER PLUT PATROL KEEPS BLUFFING. BREAK OUT RAGE [music] CROCODILE suff",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    },
+    {
+      "start": "12:00",
+      "end": "24:04",
+      "title": "Clip/reaction: Frog Tony / ComicsGate / Vito Gesualdi",
+      "entities": [
+        "Frog Tony",
+        "ComicsGate",
+        "Vito Gesualdi"
+      ],
+      "summary_seed": ">> right? So he would get uh 2500 or 25% of the Patreon, whatever is less, right? So the most he could ever get is 2500, right? Because if Veto grows the show, if the Patreon suddenly surges up, right? >> Oh, okay. Yeah. >> That would be Veto's fans. Like Veto is bringing these people in, right? >> Right. New member. Yeah. Okay. Yeah. >> So I I would have some sort of like cap whereas like you know maybe even like sa",
+      "clip_likelihood": true,
+      "transition_markers": 2
+    },
+    {
+      "start": "24:01",
+      "end": "36:03",
+      "title": "Eric July / ComicsGate / Ethan Van Sciver",
+      "entities": [
+        "Eric July",
+        "ComicsGate",
+        "Ethan Van Sciver",
+        "Sturgis",
+        "Nerdrotic",
+        "Shane Davis",
+        "Nick Rekieta"
+      ],
+      "summary_seed": "a single god damn comics gate stream. What Katie did >> man I hate her name because like what Katie did did what Katie did did what she done did is uh >> Katie done she was watching Nick Ricada. She was watching uh Eric July Yellow Flash because you know the weeb wars [ __ ] right? So she was watching the weeb wars [ __ ] and all the [ __ ] >> What the hell? Okay, >> pause it. Pause it. What's the wee wars? >> Uh tha",
+      "clip_likelihood": false,
+      "transition_markers": 2
+    },
+    {
+      "start": "36:01",
+      "end": "48:02",
+      "title": "Ethan Van Sciver / Liam Gray / Nerdrotic",
+      "entities": [
+        "Ethan Van Sciver",
+        "Liam Gray",
+        "Nerdrotic",
+        "Trashcast"
+      ],
+      "summary_seed": "then claiming Vic was never in the slums. Vic was never a slum lord. Vic was never one of us. >> Right. Wow. Comic skate top promoter who is a CG king is lying about another CG member. I'm shocked. Yeah, Katie did came into CG because she's seen how much money made of his campaign. She was hoping that CG would fund her uh club duchin dujeni books. >> Jesus. >> In fairness, the people in CG, you did come out of nowher",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "48:00",
+      "end": "01:00:02",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": "you know the the New York Times writing a review. Is that what he's going to complain about? >> Yeah, I think so. >> Okay, good. >> Like, don't you understand screaming uh MCU is the same as writing a thorough in-depth review about the artistic qualities of a film? >> Yes. And it's unfair that people don't treat them the same. like >> I think many of you guys are making this far too complicated. And I wanted to follo",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "01:00:00",
+      "end": "01:12:02",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": "the the the [ __ ] guys at the top, right? Because we've seen it. We've seen it when someone steps out of line. When someone goes, \"Hey, you know what? Actually, Ripverse sucks, guys. Why are we promoting Ripverse?\" They're [ __ ] gone, right? geeks and gamers and them [ __ ] excommunicate you. >> Oh, straight away. >> You're no longer invited to the [ __ ] shows. You're no longer on panels. You're no longer in the g",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    },
+    {
+      "start": "01:12:00",
+      "end": "01:24:02",
+      "title": "Stray Beans",
+      "entities": [
+        "Stray Beans"
+      ],
+      "summary_seed": "education level like people who are talking at a fourth fifth sixth grade level confuse you and upset you right like these guys think they're better than me but like if people are talking to you on that third grade level you you see them at peers right again because >> what what people don't understand is we weren't really looking to [ __ ] critics for our [ __ ] recommendations. We were looking to our friends, right",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "01:24:00",
+      "end": "01:36:05",
+      "title": "Stray Beans",
+      "entities": [
+        "Stray Beans"
+      ],
+      "summary_seed": "criticism, like you're like, \"Hey, like the [ __ ] uh the special effects in this new uh Jurassic Park look crappier than the [ __ ] Jurassic Park from [ __ ] you know, the 90s.\" Like that's legitimate criticism, right? You going, \"Oh, the new Jurassic Park's going to suck because it's about a woman in the woman's uh uh she's a [ __ ] badass. She's a [ __ ] girl boss woman. This movie's going to suck.\" >> Mary Sue. >",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "01:36:02",
+      "end": "01:48:01",
+      "title": "Liam Gray / TheQuartering",
+      "entities": [
+        "Liam Gray",
+        "TheQuartering"
+      ],
+      "summary_seed": "Angry Joe is trying to speak from a position of power. Angry Joe. >> Angry Joe people. [laughter] >> Yeah. Like this isn't like a mainstream critic. You're not like, \"Yeah, this mainstream critic is like calling us out and saying like a he hated it, but he hated it for like this is angry [ __ ] joke. The guy who yells and screams, right? That's his whole [ __ ] stick.\" And you're like, \"This guy thinks he's in a posi",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "01:48:00",
+      "end": "02:00:03",
+      "title": "Stray Beans",
+      "entities": [
+        "Stray Beans"
+      ],
+      "summary_seed": "out the alternative you're going to get a lot more of that and I think the readjustment if I can give advice to anybody like again it's been around as long as I have re >> he's going to give people advice because he's been around YouTube a long time so he he's a he's a the old guard he knows what's what's Who's wise? Who's wise? >> Recognize that readjustment and I don't think getting in the weeds of that is worth is",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "02:00:00",
+      "end": "02:12:04",
+      "title": "Shane Davis / TheQuartering",
+      "entities": [
+        "Shane Davis",
+        "TheQuartering"
+      ],
+      "summary_seed": ">> that have creative uh again bones in their body. >> Was it >> I don't know. I don't think >> Mike >> Yeah. Yeah. Epic Mike. Yeah, is he suggesting that like uh Geeks and Gamers, Jeremy, uh [ __ ] Ryan Canel, they're all gonna like make movies and [ __ ] >> Sure. >> Look, I get that like a couple Okay, hold on. I get that like a couple YouTubers made some movies that made some money, >> but that is not the natural",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    },
+    {
+      "start": "02:12:02",
+      "end": "02:24:03",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": ">> and then everybody's focus and shift goes to it when they announce something new. Doesn't even matter what they put out before. So even if it doesn't, >> says, \"Follow me in my foolish attempt to force my way into getting mainstream attention perform, let's say, as well as maybe people think that it should. It still is part of the conversation, which is why I believe people need to understand if you are entering i",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "02:24:01",
+      "end": "02:36:02",
+      "title": "Clip/reaction: Sturgis",
+      "entities": [
+        "Sturgis"
+      ],
+      "summary_seed": "Captain Planet villains, but that's just a job, okay? I'm just doing my job, right? Not really polluting the world that much, okay? I don't even do that much work at the garbage factory. But like we're not rich. We're not like billionaires where like I'm like [ __ ] up the world or like causing wars to happen or some [ __ ] Like the world is not gonna be any different after I die, right? like my my [ __ ] legacy on t",
+      "clip_likelihood": true,
+      "transition_markers": 0
+    },
+    {
+      "start": "02:36:01",
+      "end": "02:48:04",
+      "title": "Sturgis / Vito Gesualdi",
+      "entities": [
+        "Sturgis",
+        "Vito Gesualdi"
+      ],
+      "summary_seed": ">> Yeah. Wink wink, nudge nudge. Yeah. Yeah. >> Oh, yeah. On the down low, you know. >> Yeah. Yeah. Yeah. Yeah. >> So, it's like Yeah. Yeah, they go like you go and they like they bathe you and they soap you up and oops, I accidentally soaked up your one spot enough to make you explode. [snorts] [clears throat] >> You went to a main camp. >> Looks like they're coming out [music] with some new Gundam assemble kits. Lo",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "02:48:02",
+      "end": "03:00:02",
+      "title": "Stray Beans / Vito Gesualdi",
+      "entities": [
+        "Stray Beans",
+        "Vito Gesualdi"
+      ],
+      "summary_seed": "it.\" >> So, you still get a paycheck. Take over. >> Yeah. Take the deal. do one show and say the biggest problem in the universe is all of you [ __ ] guys and just flip off the camera and turn it off. >> Look, I have not been sent any supposed deal. Uh, you know, if it would be one thing if it's like here's a bunch of papers to look over and think about. I'd go, okay, well, but at this point it's a guy on a podcast g",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    },
+    {
+      "start": "03:00:01",
+      "end": "03:12:02",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": "own show. Let's be clear. It was supposed to be a half and half thing. It wasn't. It was his show and I was a guest. Uh, and again, I don't hate the guy. I, you know, I wish him the best. He's a great guy. He's a very funny guy. I wish we could have done the show for, uh, another 10 [ __ ] years. >> Dick doesn't want to work with Veto, though. Tony does. That's what I'm saying. >> I I know, Tony, you're very eager. I",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "03:12:00",
+      "end": "03:24:03",
+      "title": "Liam Gray",
+      "entities": [
+        "Liam Gray"
+      ],
+      "summary_seed": "be a classic. How many times do you watch the video of Skitzo Sean goes to Veto's house? It's like, ah, well, I guess he showed up. Veto wore a Honestly, the only funny part of it was Veto wore a Bluey t-shirt. I was the funny part of the whole thing. Yeah, I got that shirt. It's terrible. I should throw it out. Uh >> here here's what I want to know, Veto. So, you you were talking about like people trying to be part",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "03:24:01",
+      "end": "03:36:04",
+      "title": "Liam Gray",
+      "entities": [
+        "Liam Gray"
+      ],
+      "summary_seed": "he fooled me because when we hung out, he was acting like a normal person and not like insulting Mint and [ __ ] >> Yeah. I don't know, man. Uh it but it got to the point where I said listen and and I think I said a very uh call me crazy but I'm like if a guy's gonna and multiple times I said to Dick I said listen if it's really important to you that Riley is part of the show cuz it seemed like it was. He's like this",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "03:36:01",
+      "end": "03:48:01",
+      "title": "Nerdrotic",
+      "entities": [
+        "Nerdrotic"
+      ],
+      "summary_seed": "goof on Gary Deabate. Gary Delbat is a great example. Baba Buouie. Okay. You go, \"Oh, Gary, you [ __ ] up the show. You [ __ ] up the guest again. You know, how could you?\" But at the end of the day, if anyone in the audience was going, \"Hey, I [ __ ] hate Gary. I'm going to go to his house and [ __ ] with him.\" Howard Stern would step in and go, \"Well, hold on. That's that's my monkey boy.\" You know, that's that's n",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "03:48:00",
+      "end": "03:58:43",
+      "title": "Jon Del Arroz / Liam Gray",
+      "entities": [
+        "Jon Del Arroz",
+        "Liam Gray"
+      ],
+      "summary_seed": "you point out this guy's lying and for other people to go, \"Yeah, he is lying.\" Instead of >> Yeah, but it's really hard to prove a guy's lying. >> No, we're going to pretend like he like we didn't see that. >> It's really hard to prove a guy's lying. >> No, we've proven he's lied. We've literally >> But you got But Tony, you got to remember a lot of people do not care if they will just >> That's the problem. Like no",
+      "clip_likelihood": false,
+      "transition_markers": 2
+    }
+  ],
+  "claim_candidates": [
+    {
+      "claimant": "trolls cry over obvious jokes while Vito",
+      "claim": "jokes are funny and the whole room [music] smokes.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "All these concerned trolls cry over obvious jokes while Vito says jokes are funny and the whole room [music] smokes."
+    },
+    {
+      "claimant": "Steven Lenudo",
+      "claim": "me on the fourth.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "Steven Lenudo says me on the fourth."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "Stephen Cosmic Lance uh there would be like in the third uh the third version, right?",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "I I think Stephen Cosmic Lance uh there would be like in the third uh the third version, right?"
+    },
+    {
+      "claimant": "She",
+      "claim": "something uh incredibly [ __ ] stupid.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "She said something uh incredibly [ __ ] stupid."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "uh it's time for forgiveness, right?",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "And I think uh it's time for forgiveness, right?"
+    },
+    {
+      "claimant": "let let's face it like like Dick even",
+      "claim": "himself the show isn't the name right he can you know him and Veto him and Maddox him and anyone else could do a show same format same everything just call it something",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "Because let let's face it like like Dick even said himself the show isn't the name right he can you know him and Veto him and Maddox him and anyone else could do a show same format same everything just call it something"
+    },
+    {
+      "claimant": "but you",
+      "claim": "it's even now.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "So, I wasn't sure how, you know, they disperse the money, but you said it's even now."
+    },
+    {
+      "claimant": "and I keep mine because clearly like you",
+      "claim": "uh they are Dick's fans.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "You keep yours and I keep mine because clearly like you said uh they are Dick's fans."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that would be the first thing, like if I countered offer, I told Veto, tell Dick, you'll take the deal, but you get to pick your own co-host, right?",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "And Dick had said, \"Uh, Veto, you and you and Billy do the show and I'll give you the show, blah, blah, blah.\" So, I think that would be the first thing, like if I countered offer, I told Veto, tell Dick, you'll take the deal, but you get to pick your own co-host, right?"
+    },
+    {
+      "claimant": "if he",
+      "claim": "no he gets zero dollars right?",
+      "timestamp": "12:00",
+      "status": "candidate_claim",
+      "receipt": "if he says no he gets zero dollars right?"
+    },
+    {
+      "claimant": "If he",
+      "claim": "yes, he gets 75% that he can distribute any way he wants.",
+      "timestamp": "12:00",
+      "status": "candidate_claim",
+      "receipt": "If he says yes, he gets 75% that he can distribute any way he wants."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "Dick was like auditioning for co-host,",
+      "timestamp": "12:00",
+      "status": "opinion_or_inference",
+      "receipt": "Dick was actually when when he got Veto involved, I think Dick was like auditioning for co-host,"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that's the magic, right?",
+      "timestamp": "12:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think that's the magic, right?"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that would play into it.",
+      "timestamp": "12:00",
+      "status": "opinion_or_inference",
+      "receipt": "Like, he gets on my nerves and I get on his nerves, and I think that would play into it."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "we again like uh when Veto comes here and we're like reacting to stuff or like going at it, that's one thing.",
+      "timestamp": "12:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think we again like uh when Veto comes here and we're like reacting to stuff or like going at it, that's one thing."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "if we were doing a show where it's like a format and like what's your problem?",
+      "timestamp": "12:00",
+      "status": "opinion_or_inference",
+      "receipt": "But I think if we were doing a show where it's like a format and like what's your problem?"
+    },
+    {
+      "claimant": "I told him I",
+      "claim": "I would fly out for the amount of money that uh that would generate.",
+      "timestamp": "12:00",
+      "status": "candidate_claim",
+      "receipt": "I told him I said I would fly out for the amount of money that uh that would generate."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "I crash on his couch or something.",
+      "timestamp": "12:00",
+      "status": "opinion_or_inference",
+      "receipt": "Oh, I think I crash on his couch or something."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "this is the right clip.",
+      "timestamp": "12:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think this is the right clip."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "it's on my Twitter, but I did not download it.",
+      "timestamp": "12:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think it's on my Twitter, but I did not download it."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "realistically Fincha doesn't actually eap most people.",
+      "timestamp": "12:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think realistically Fincha doesn't actually eap most people."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "he just plays the video.",
+      "timestamp": "12:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think he just plays the video."
+    },
+    {
+      "claimant": "he",
+      "claim": "that I that he brought me to Comics Gate.",
+      "timestamp": "12:00",
+      "status": "candidate_claim",
+      "receipt": "Yet, at the same time, he claims that I that he brought me to Comics Gate."
+    },
+    {
+      "claimant": "so she",
+      "claim": "she was watching Comics Gate two years prior to Katie ever hopping on my panel.",
+      "timestamp": "12:00",
+      "status": "candidate_claim",
+      "receipt": "so she said she was watching Comics Gate two years prior to Katie ever hopping on my panel."
+    },
+    {
+      "claimant": "was a big fan of Eric July because she",
+      "claim": "that, right?",
+      "timestamp": "24:01",
+      "status": "candidate_claim",
+      "receipt": "And we know that Katie was a big fan of Eric July because she said that, right?"
+    },
+    {
+      "claimant": "the fact that Katie repeatedly has",
+      "claim": "Frog Tony's the reason why I'm here.",
+      "timestamp": "24:01",
+      "status": "candidate_claim",
+      "receipt": "Uh, I mean, the fact that Katie repeatedly has said Frog Tony's the reason why I'm here."
+    },
+    {
+      "claimant": "Samogo",
+      "claim": "Katie's lying again.",
+      "timestamp": "24:01",
+      "status": "candidate_claim",
+      "receipt": "Samogo says Katie's lying again."
+    },
+    {
+      "claimant": "So she",
+      "claim": "two years prior to her ever hopping on my stream, she was involved in Comics Gate.",
+      "timestamp": "24:01",
+      "status": "candidate_claim",
+      "receipt": "So she said two years prior to her ever hopping on my stream, she was involved in Comics Gate."
+    },
+    {
+      "claimant": "she",
+      "claim": "by her own word that she was a fan of Eric.",
+      "timestamp": "24:01",
+      "status": "candidate_claim",
+      "receipt": "And remember, she said by her own word that she was a fan of Eric."
+    },
+    {
+      "claimant": "I don't know why it",
+      "claim": "four years.",
+      "timestamp": "24:01",
+      "status": "candidate_claim",
+      "receipt": "I don't know why it says four years."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "for a fact that the indie comics face the dislikes weeps.",
+      "timestamp": "24:01",
+      "status": "candidate_claim",
+      "receipt": "I know for a fact that the indie comics face the dislikes weeps."
+    },
+    {
+      "claimant": "what you just",
+      "claim": "was a giant load of [ __ ] Uh she was saying how great she thought he was doing in all this uh [ __ ] sucking up to him.",
+      "timestamp": "24:01",
+      "status": "candidate_claim",
+      "receipt": "what you just said was a giant load of [ __ ] Uh she was saying how great she thought he was doing in all this uh [ __ ] sucking up to him."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "this because I seen him do it.",
+      "timestamp": "24:01",
+      "status": "candidate_claim",
+      "receipt": "I know this because I seen him do it."
+    },
+    {
+      "claimant": "forget that Katie openly lied when she",
+      "claim": "having access content categorized as both underage and sexually explicit.",
+      "timestamp": "36:01",
+      "status": "candidate_claim",
+      "receipt": "Don't never forget that Katie openly lied when she denied having access content categorized as both underage and sexually explicit."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "I'm going to declare this is this is July, right?",
+      "timestamp": "36:01",
+      "status": "opinion_or_inference",
+      "receipt": "I think I'm going to declare this is this is July, right?"
+    },
+    {
+      "claimant": "Mike",
+      "claim": "he went to a steakhouse.",
+      "timestamp": "36:01",
+      "status": "candidate_claim",
+      "receipt": "Mike says he went to a steakhouse."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "what socially is acceptable and what I should feel,",
+      "timestamp": "36:01",
+      "status": "candidate_claim",
+      "receipt": "I know what socially is acceptable and what I should feel,"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "I should feel embarrassed for certain things,",
+      "timestamp": "36:01",
+      "status": "candidate_claim",
+      "receipt": "I know I should feel embarrassed for certain things,"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that's the the one we did not get to.",
+      "timestamp": "36:01",
+      "status": "opinion_or_inference",
+      "receipt": "I believe that's the the one we did not get to."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that I shouldn't that upset people, that piss people off.",
+      "timestamp": "36:01",
+      "status": "candidate_claim",
+      "receipt": "I do stupid [ __ ] Uh, I do things that I know that I shouldn't that upset people, that piss people off."
+    }
+  ],
+  "quote_candidates": [
+    {
+      "timestamp": "00:00",
+      "text": "Because uh what if Billy doesn't want to do it or if there's an issue uh somewhere down the road, right?",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "36:01",
+      "text": "You are a threat to that independence, Tony.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "48:00",
+      "text": "And I wanted to follow up on the video that I just did speaking about this specific issue.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "01:36:02",
+      "text": "I think this is an issue of of of of narrative control and people like you and I guess the certain types of folks that they dislike.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "03:12:00",
+      "text": "It was just one of these things where I'm like, \"Bro, I'm actually trying to help you and you're completely freaking out.\" And I don't know if it's like his ego felt threatened like taking advice from somebody else.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "03:24:01",
+      "text": "forcing the issue is not funny because you you've manufactured the drama.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "03:48:00",
+      "text": "If I'm late, veto, I will be fired.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "00:00",
+      "text": "It's the off imitated, never duplicated, chosen one CG.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "00:00",
+      "text": "There was always seem to be more of them than veto files.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "00:00",
+      "text": "I don't know if it was always like that.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "12:00",
+      "text": "You're unblocked on the phone whenever you need to [ __ ] hit me up.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "12:00",
+      "text": "If he's giving me 25% of the [ __ ] Patreon, he can call me uh whenever he's lonely, right?",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "36:01",
+      "text": "then claiming Vic was never in the slums.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "36:01",
+      "text": "Don't never forget that Katie openly lied when she denied having access content categorized as both underage and sexually explicit.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "36:01",
+      "text": "Like whenever's like, \"Well, I'm a good Christian.\" Like, \"Dude, you're a [ __ ] pagan, right?\"",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "48:00",
+      "text": "I've never heard anyone call it critic media.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "48:00",
+      "text": "And they basically like you had other people that were doing [ __ ] you know, he had all those Angry Video Game Nerd knockoffs, but they never were as popular as the Angry Video Game Nerd.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "01:00:00",
+      "text": "It's always going to be there, right?",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "01:00:00",
+      "text": "Maybe it's just me, but I never like even regular critics, even like [ __ ] Cisco and Eert.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "01:00:00",
+      "text": "I never thought that like these guys are like, \"Oh, if Cisco thinks it's good, that means the movie's good.\" Like I must be dumb for not liking Cisco said it was good, right?",
+      "significance_score": 1
+    }
+  ],
+  "relationship_signals": [
+    {
+      "left": "Frog Tony",
+      "right": "Dick Masterson",
+      "signal_type": "defended",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "ito says jokes are funny and the whole room [music] smokes. A thousand miles and running. THE FROG HAS GOT THE WHOLE TOWN BUZZING. THEY CRIED [music] OVER JOKES. NOW they're fussing. A thousand miles and running. >> I'M FROG TONY. Let me tell you who I be. Drink tequila WITH AN APPLE SITTING NEXT to me. Working [music] in the garbage factory all day long AND COMICS AND VIDEO GAMES TILL THE BREAK OF DAWN. Senate keeps barking. ANGRY LITTLE DWARF",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "ComicsGate",
+      "signal_type": "defended",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "ito says jokes are funny and the whole room [music] smokes. A thousand miles and running. THE FROG HAS GOT THE WHOLE TOWN BUZZING. THEY CRIED [music] OVER JOKES. NOW they're fussing. A thousand miles and running. >> I'M FROG TONY. Let me tell you who I be. Drink tequila WITH AN APPLE SITTING NEXT to me. Working [music] in the garbage factory all day long AND COMICS AND VIDEO GAMES TILL THE BREAK OF DAWN. Senate keeps barking. ANGRY LITTLE DWARF",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Sturgis",
+      "signal_type": "defended",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "ito says jokes are funny and the whole room [music] smokes. A thousand miles and running. THE FROG HAS GOT THE WHOLE TOWN BUZZING. THEY CRIED [music] OVER JOKES. NOW they're fussing. A thousand miles and running. >> I'M FROG TONY. Let me tell you who I be. Drink tequila WITH AN APPLE SITTING NEXT to me. Working [music] in the garbage factory all day long AND COMICS AND VIDEO GAMES TILL THE BREAK OF DAWN. Senate keeps barking. ANGRY LITTLE DWARF",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Stray Beans",
+      "signal_type": "defended",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "ito says jokes are funny and the whole room [music] smokes. A thousand miles and running. THE FROG HAS GOT THE WHOLE TOWN BUZZING. THEY CRIED [music] OVER JOKES. NOW they're fussing. A thousand miles and running. >> I'M FROG TONY. Let me tell you who I be. Drink tequila WITH AN APPLE SITTING NEXT to me. Working [music] in the garbage factory all day long AND COMICS AND VIDEO GAMES TILL THE BREAK OF DAWN. Senate keeps barking. ANGRY LITTLE DWARF",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Vito Gesualdi",
+      "signal_type": "defended",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "ito says jokes are funny and the whole room [music] smokes. A thousand miles and running. THE FROG HAS GOT THE WHOLE TOWN BUZZING. THEY CRIED [music] OVER JOKES. NOW they're fussing. A thousand miles and running. >> I'M FROG TONY. Let me tell you who I be. Drink tequila WITH AN APPLE SITTING NEXT to me. Working [music] in the garbage factory all day long AND COMICS AND VIDEO GAMES TILL THE BREAK OF DAWN. Senate keeps barking. ANGRY LITTLE DWARF",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "DarkGift Comics",
+      "signal_type": "defended",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "ito says jokes are funny and the whole room [music] smokes. A thousand miles and running. THE FROG HAS GOT THE WHOLE TOWN BUZZING. THEY CRIED [music] OVER JOKES. NOW they're fussing. A thousand miles and running. >> I'M FROG TONY. Let me tell you who I be. Drink tequila WITH AN APPLE SITTING NEXT to me. Working [music] in the garbage factory all day long AND COMICS AND VIDEO GAMES TILL THE BREAK OF DAWN. Senate keeps barking. ANGRY LITTLE DWARF",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "KatyDid",
+      "signal_type": "defended",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "ito says jokes are funny and the whole room [music] smokes. A thousand miles and running. THE FROG HAS GOT THE WHOLE TOWN BUZZING. THEY CRIED [music] OVER JOKES. NOW they're fussing. A thousand miles and running. >> I'M FROG TONY. Let me tell you who I be. Drink tequila WITH AN APPLE SITTING NEXT to me. Working [music] in the garbage factory all day long AND COMICS AND VIDEO GAMES TILL THE BREAK OF DAWN. Senate keeps barking. ANGRY LITTLE DWARF",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Dick Masterson",
+      "right": "ComicsGate",
+      "signal_type": "defended",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "lately. >> Whoa. >> And I think uh it's time for forgiveness, right? I got to forgive you people. >> And so, uh, Veto, I got to forgive them. Uh because I reached out to Veto and I said, \"Veto, you gotta take the deal. Dick Masterson has offered you a golden golden opportunity to take over the biggest problem in the universe. Um, Patreon right now. It's not about the brand. It's not about the name. It's not about uh any of that kind of thing, right?",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Dick Masterson",
+      "right": "Sturgis",
+      "signal_type": "defended",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "lately. >> Whoa. >> And I think uh it's time for forgiveness, right? I got to forgive you people. >> And so, uh, Veto, I got to forgive them. Uh because I reached out to Veto and I said, \"Veto, you gotta take the deal. Dick Masterson has offered you a golden golden opportunity to take over the biggest problem in the universe. Um, Patreon right now. It's not about the brand. It's not about the name. It's not about uh any of that kind of thing, right?",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Dick Masterson",
+      "right": "Stray Beans",
+      "signal_type": "defended",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "lately. >> Whoa. >> And I think uh it's time for forgiveness, right? I got to forgive you people. >> And so, uh, Veto, I got to forgive them. Uh because I reached out to Veto and I said, \"Veto, you gotta take the deal. Dick Masterson has offered you a golden golden opportunity to take over the biggest problem in the universe. Um, Patreon right now. It's not about the brand. It's not about the name. It's not about uh any of that kind of thing, right?",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Dick Masterson",
+      "right": "Vito Gesualdi",
+      "signal_type": "defended",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "lately. >> Whoa. >> And I think uh it's time for forgiveness, right? I got to forgive you people. >> And so, uh, Veto, I got to forgive them. Uh because I reached out to Veto and I said, \"Veto, you gotta take the deal. Dick Masterson has offered you a golden golden opportunity to take over the biggest problem in the universe. Um, Patreon right now. It's not about the brand. It's not about the name. It's not about uh any of that kind of thing, right?",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Dick Masterson",
+      "right": "DarkGift Comics",
+      "signal_type": "defended",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "lately. >> Whoa. >> And I think uh it's time for forgiveness, right? I got to forgive you people. >> And so, uh, Veto, I got to forgive them. Uh because I reached out to Veto and I said, \"Veto, you gotta take the deal. Dick Masterson has offered you a golden golden opportunity to take over the biggest problem in the universe. Um, Patreon right now. It's not about the brand. It's not about the name. It's not about uh any of that kind of thing, right?",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Dick Masterson",
+      "right": "KatyDid",
+      "signal_type": "defended",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "lately. >> Whoa. >> And I think uh it's time for forgiveness, right? I got to forgive you people. >> And so, uh, Veto, I got to forgive them. Uh because I reached out to Veto and I said, \"Veto, you gotta take the deal. Dick Masterson has offered you a golden golden opportunity to take over the biggest problem in the universe. Um, Patreon right now. It's not about the brand. It's not about the name. It's not about uh any of that kind of thing, right?",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "ComicsGate",
+      "right": "Sturgis",
+      "signal_type": "defended",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "Guess what I'm about TO DO? >> CATCH THOSE FROGGERS. CATCH THOSE [screaming] MOTHERFERS. NAH, WE'RE ALREADY GONE. LITTLE MOVIE PERP AND THE CREW JUST CROSSED THE COUNTY LINE. 1,000 miles [music] AND RUNNING. THE FROGGERS GOT THE WHOLE TOWN BUZZING. THEY CRIED OVER JOKES. Now they're fussing. A,000 miles and running. A,000 [music] miles and running. HER PLUT PATROL KEEPS BLUFFING. BREAK OUT RAGE [music] CROCODILE suffering a thousand mil",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "ComicsGate",
+      "right": "Stray Beans",
+      "signal_type": "defended",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "Guess what I'm about TO DO? >> CATCH THOSE FROGGERS. CATCH THOSE [screaming] MOTHERFERS. NAH, WE'RE ALREADY GONE. LITTLE MOVIE PERP AND THE CREW JUST CROSSED THE COUNTY LINE. 1,000 miles [music] AND RUNNING. THE FROGGERS GOT THE WHOLE TOWN BUZZING. THEY CRIED OVER JOKES. Now they're fussing. A,000 miles and running. A,000 [music] miles and running. HER PLUT PATROL KEEPS BLUFFING. BREAK OUT RAGE [music] CROCODILE suffering a thousand mil",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "ComicsGate",
+      "right": "Vito Gesualdi",
+      "signal_type": "defended",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "Guess what I'm about TO DO? >> CATCH THOSE FROGGERS. CATCH THOSE [screaming] MOTHERFERS. NAH, WE'RE ALREADY GONE. LITTLE MOVIE PERP AND THE CREW JUST CROSSED THE COUNTY LINE. 1,000 miles [music] AND RUNNING. THE FROGGERS GOT THE WHOLE TOWN BUZZING. THEY CRIED OVER JOKES. Now they're fussing. A,000 miles and running. A,000 [music] miles and running. HER PLUT PATROL KEEPS BLUFFING. BREAK OUT RAGE [music] CROCODILE suffering a thousand mil",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "ComicsGate",
+      "right": "DarkGift Comics",
+      "signal_type": "defended",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "Guess what I'm about TO DO? >> CATCH THOSE FROGGERS. CATCH THOSE [screaming] MOTHERFERS. NAH, WE'RE ALREADY GONE. LITTLE MOVIE PERP AND THE CREW JUST CROSSED THE COUNTY LINE. 1,000 miles [music] AND RUNNING. THE FROGGERS GOT THE WHOLE TOWN BUZZING. THEY CRIED OVER JOKES. Now they're fussing. A,000 miles and running. A,000 [music] miles and running. HER PLUT PATROL KEEPS BLUFFING. BREAK OUT RAGE [music] CROCODILE suffering a thousand mil",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "ComicsGate",
+      "right": "KatyDid",
+      "signal_type": "defended",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "Guess what I'm about TO DO? >> CATCH THOSE FROGGERS. CATCH THOSE [screaming] MOTHERFERS. NAH, WE'RE ALREADY GONE. LITTLE MOVIE PERP AND THE CREW JUST CROSSED THE COUNTY LINE. 1,000 miles [music] AND RUNNING. THE FROGGERS GOT THE WHOLE TOWN BUZZING. THEY CRIED OVER JOKES. Now they're fussing. A,000 miles and running. A,000 [music] miles and running. HER PLUT PATROL KEEPS BLUFFING. BREAK OUT RAGE [music] CROCODILE suffering a thousand mil",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Sturgis",
+      "right": "Stray Beans",
+      "signal_type": "defended",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "he fourth? >> Lance. >> Maybe. Maybe. >> Does Lance get get >> Never seen Lance so recently? >> I know. Lance has been on MIA. >> Bring me Lance. if it isn't Lucifer himself. If you want to see something cringe as hell, Sturgis' travel blog. Yeah, we have them on the uh the list. You know, I have a playlist of what we're going to go over. Steven Lenudo says me on the fourth. [laughter] >> Yeah, there's Stephen or Cosmic Vader. >> I I think Ste",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Sturgis",
+      "right": "Vito Gesualdi",
+      "signal_type": "defended",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "he fourth? >> Lance. >> Maybe. Maybe. >> Does Lance get get >> Never seen Lance so recently? >> I know. Lance has been on MIA. >> Bring me Lance. if it isn't Lucifer himself. If you want to see something cringe as hell, Sturgis' travel blog. Yeah, we have them on the uh the list. You know, I have a playlist of what we're going to go over. Steven Lenudo says me on the fourth. [laughter] >> Yeah, there's Stephen or Cosmic Vader. >> I I think Ste",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Sturgis",
+      "right": "DarkGift Comics",
+      "signal_type": "defended",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "he fourth? >> Lance. >> Maybe. Maybe. >> Does Lance get get >> Never seen Lance so recently? >> I know. Lance has been on MIA. >> Bring me Lance. if it isn't Lucifer himself. If you want to see something cringe as hell, Sturgis' travel blog. Yeah, we have them on the uh the list. You know, I have a playlist of what we're going to go over. Steven Lenudo says me on the fourth. [laughter] >> Yeah, there's Stephen or Cosmic Vader. >> I I think Ste",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Sturgis",
+      "right": "KatyDid",
+      "signal_type": "defended",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "he fourth? >> Lance. >> Maybe. Maybe. >> Does Lance get get >> Never seen Lance so recently? >> I know. Lance has been on MIA. >> Bring me Lance. if it isn't Lucifer himself. If you want to see something cringe as hell, Sturgis' travel blog. Yeah, we have them on the uh the list. You know, I have a playlist of what we're going to go over. Steven Lenudo says me on the fourth. [laughter] >> Yeah, there's Stephen or Cosmic Vader. >> I I think Ste",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Stray Beans",
+      "right": "Vito Gesualdi",
+      "signal_type": "defended",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "that I would say that needs to be done with that song, we need like a part two, right? like like I don't want to call it the B team, but like a part two with like >> Sure. >> It's got to have you in it. It's got to have Stray Beans in it, right? >> Uh Finn Bar. >> Who would be the fourth? >> Lance. >> Maybe. Maybe. >> Does Lance get get >> Never seen Lance so recently? >> I know. Lance has been on MIA. >> Bring me Lance. if it isn't Lucifer himsel",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Stray Beans",
+      "right": "DarkGift Comics",
+      "signal_type": "defended",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "that I would say that needs to be done with that song, we need like a part two, right? like like I don't want to call it the B team, but like a part two with like >> Sure. >> It's got to have you in it. It's got to have Stray Beans in it, right? >> Uh Finn Bar. >> Who would be the fourth? >> Lance. >> Maybe. Maybe. >> Does Lance get get >> Never seen Lance so recently? >> I know. Lance has been on MIA. >> Bring me Lance. if it isn't Lucifer himsel",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Stray Beans",
+      "right": "KatyDid",
+      "signal_type": "defended",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "that I would say that needs to be done with that song, we need like a part two, right? like like I don't want to call it the B team, but like a part two with like >> Sure. >> It's got to have you in it. It's got to have Stray Beans in it, right? >> Uh Finn Bar. >> Who would be the fourth? >> Lance. >> Maybe. Maybe. >> Does Lance get get >> Never seen Lance so recently? >> I know. Lance has been on MIA. >> Bring me Lance. if it isn't Lucifer himsel",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Vito Gesualdi",
+      "right": "DarkGift Comics",
+      "signal_type": "defended",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "Guess what I'm about TO DO? >> CATCH THOSE FROGGERS. CATCH THOSE [screaming] MOTHERFERS. NAH, WE'RE ALREADY GONE. LITTLE MOVIE PERP AND THE CREW JUST CROSSED THE COUNTY LINE. 1,000 miles [music] AND RUNNING. THE FROGGERS GOT THE WHOLE TOWN BUZZING. THEY CRIED OVER JOKES. Now they're fussing. A,000 miles and running. A,000 [music] miles and running. HER PLUT PATROL KEEPS BLUFFING. BREAK OUT RAGE [music] CROCODILE suffering a thousand mil",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Vito Gesualdi",
+      "right": "KatyDid",
+      "signal_type": "defended",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "Guess what I'm about TO DO? >> CATCH THOSE FROGGERS. CATCH THOSE [screaming] MOTHERFERS. NAH, WE'RE ALREADY GONE. LITTLE MOVIE PERP AND THE CREW JUST CROSSED THE COUNTY LINE. 1,000 miles [music] AND RUNNING. THE FROGGERS GOT THE WHOLE TOWN BUZZING. THEY CRIED OVER JOKES. Now they're fussing. A,000 miles and running. A,000 [music] miles and running. HER PLUT PATROL KEEPS BLUFFING. BREAK OUT RAGE [music] CROCODILE suffering a thousand mil",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "DarkGift Comics",
+      "right": "KatyDid",
+      "signal_type": "defended",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "Guess what I'm about TO DO? >> CATCH THOSE FROGGERS. CATCH THOSE [screaming] MOTHERFERS. NAH, WE'RE ALREADY GONE. LITTLE MOVIE PERP AND THE CREW JUST CROSSED THE COUNTY LINE. 1,000 miles [music] AND RUNNING. THE FROGGERS GOT THE WHOLE TOWN BUZZING. THEY CRIED OVER JOKES. Now they're fussing. A,000 miles and running. A,000 [music] miles and running. HER PLUT PATROL KEEPS BLUFFING. BREAK OUT RAGE [music] CROCODILE suffering a thousand mil",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Dick Masterson",
+      "signal_type": "collaborated",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "ito says jokes are funny and the whole room [music] smokes. A thousand miles and running. THE FROG HAS GOT THE WHOLE TOWN BUZZING. THEY CRIED [music] OVER JOKES. NOW they're fussing. A thousand miles and running. >> I'M FROG TONY. Let me tell you who I be. Drink tequila WITH AN APPLE SITTING NEXT to me. Working [music] in the garbage factory all day long AND COMICS AND VIDEO GAMES TILL THE BREAK OF DAWN. Senate keeps barking. ANGRY LITTLE DWARF",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "ComicsGate",
+      "signal_type": "collaborated",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "ito says jokes are funny and the whole room [music] smokes. A thousand miles and running. THE FROG HAS GOT THE WHOLE TOWN BUZZING. THEY CRIED [music] OVER JOKES. NOW they're fussing. A thousand miles and running. >> I'M FROG TONY. Let me tell you who I be. Drink tequila WITH AN APPLE SITTING NEXT to me. Working [music] in the garbage factory all day long AND COMICS AND VIDEO GAMES TILL THE BREAK OF DAWN. Senate keeps barking. ANGRY LITTLE DWARF",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Sturgis",
+      "signal_type": "collaborated",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "ito says jokes are funny and the whole room [music] smokes. A thousand miles and running. THE FROG HAS GOT THE WHOLE TOWN BUZZING. THEY CRIED [music] OVER JOKES. NOW they're fussing. A thousand miles and running. >> I'M FROG TONY. Let me tell you who I be. Drink tequila WITH AN APPLE SITTING NEXT to me. Working [music] in the garbage factory all day long AND COMICS AND VIDEO GAMES TILL THE BREAK OF DAWN. Senate keeps barking. ANGRY LITTLE DWARF",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Stray Beans",
+      "signal_type": "collaborated",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "ito says jokes are funny and the whole room [music] smokes. A thousand miles and running. THE FROG HAS GOT THE WHOLE TOWN BUZZING. THEY CRIED [music] OVER JOKES. NOW they're fussing. A thousand miles and running. >> I'M FROG TONY. Let me tell you who I be. Drink tequila WITH AN APPLE SITTING NEXT to me. Working [music] in the garbage factory all day long AND COMICS AND VIDEO GAMES TILL THE BREAK OF DAWN. Senate keeps barking. ANGRY LITTLE DWARF",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Vito Gesualdi",
+      "signal_type": "collaborated",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "ito says jokes are funny and the whole room [music] smokes. A thousand miles and running. THE FROG HAS GOT THE WHOLE TOWN BUZZING. THEY CRIED [music] OVER JOKES. NOW they're fussing. A thousand miles and running. >> I'M FROG TONY. Let me tell you who I be. Drink tequila WITH AN APPLE SITTING NEXT to me. Working [music] in the garbage factory all day long AND COMICS AND VIDEO GAMES TILL THE BREAK OF DAWN. Senate keeps barking. ANGRY LITTLE DWARF",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "DarkGift Comics",
+      "signal_type": "collaborated",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "ito says jokes are funny and the whole room [music] smokes. A thousand miles and running. THE FROG HAS GOT THE WHOLE TOWN BUZZING. THEY CRIED [music] OVER JOKES. NOW they're fussing. A thousand miles and running. >> I'M FROG TONY. Let me tell you who I be. Drink tequila WITH AN APPLE SITTING NEXT to me. Working [music] in the garbage factory all day long AND COMICS AND VIDEO GAMES TILL THE BREAK OF DAWN. Senate keeps barking. ANGRY LITTLE DWARF",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "KatyDid",
+      "signal_type": "collaborated",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "ito says jokes are funny and the whole room [music] smokes. A thousand miles and running. THE FROG HAS GOT THE WHOLE TOWN BUZZING. THEY CRIED [music] OVER JOKES. NOW they're fussing. A thousand miles and running. >> I'M FROG TONY. Let me tell you who I be. Drink tequila WITH AN APPLE SITTING NEXT to me. Working [music] in the garbage factory all day long AND COMICS AND VIDEO GAMES TILL THE BREAK OF DAWN. Senate keeps barking. ANGRY LITTLE DWARF",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Dick Masterson",
+      "right": "ComicsGate",
+      "signal_type": "collaborated",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "lately. >> Whoa. >> And I think uh it's time for forgiveness, right? I got to forgive you people. >> And so, uh, Veto, I got to forgive them. Uh because I reached out to Veto and I said, \"Veto, you gotta take the deal. Dick Masterson has offered you a golden golden opportunity to take over the biggest problem in the universe. Um, Patreon right now. It's not about the brand. It's not about the name. It's not about uh any of that kind of thing, right?",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Dick Masterson",
+      "right": "Sturgis",
+      "signal_type": "collaborated",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "lately. >> Whoa. >> And I think uh it's time for forgiveness, right? I got to forgive you people. >> And so, uh, Veto, I got to forgive them. Uh because I reached out to Veto and I said, \"Veto, you gotta take the deal. Dick Masterson has offered you a golden golden opportunity to take over the biggest problem in the universe. Um, Patreon right now. It's not about the brand. It's not about the name. It's not about uh any of that kind of thing, right?",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Dick Masterson",
+      "right": "Stray Beans",
+      "signal_type": "collaborated",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "lately. >> Whoa. >> And I think uh it's time for forgiveness, right? I got to forgive you people. >> And so, uh, Veto, I got to forgive them. Uh because I reached out to Veto and I said, \"Veto, you gotta take the deal. Dick Masterson has offered you a golden golden opportunity to take over the biggest problem in the universe. Um, Patreon right now. It's not about the brand. It's not about the name. It's not about uh any of that kind of thing, right?",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Dick Masterson",
+      "right": "Vito Gesualdi",
+      "signal_type": "collaborated",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "lately. >> Whoa. >> And I think uh it's time for forgiveness, right? I got to forgive you people. >> And so, uh, Veto, I got to forgive them. Uh because I reached out to Veto and I said, \"Veto, you gotta take the deal. Dick Masterson has offered you a golden golden opportunity to take over the biggest problem in the universe. Um, Patreon right now. It's not about the brand. It's not about the name. It's not about uh any of that kind of thing, right?",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Dick Masterson",
+      "right": "DarkGift Comics",
+      "signal_type": "collaborated",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "lately. >> Whoa. >> And I think uh it's time for forgiveness, right? I got to forgive you people. >> And so, uh, Veto, I got to forgive them. Uh because I reached out to Veto and I said, \"Veto, you gotta take the deal. Dick Masterson has offered you a golden golden opportunity to take over the biggest problem in the universe. Um, Patreon right now. It's not about the brand. It's not about the name. It's not about uh any of that kind of thing, right?",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Dick Masterson",
+      "right": "KatyDid",
+      "signal_type": "collaborated",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "lately. >> Whoa. >> And I think uh it's time for forgiveness, right? I got to forgive you people. >> And so, uh, Veto, I got to forgive them. Uh because I reached out to Veto and I said, \"Veto, you gotta take the deal. Dick Masterson has offered you a golden golden opportunity to take over the biggest problem in the universe. Um, Patreon right now. It's not about the brand. It's not about the name. It's not about uh any of that kind of thing, right?",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "ComicsGate",
+      "right": "Sturgis",
+      "signal_type": "collaborated",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "Guess what I'm about TO DO? >> CATCH THOSE FROGGERS. CATCH THOSE [screaming] MOTHERFERS. NAH, WE'RE ALREADY GONE. LITTLE MOVIE PERP AND THE CREW JUST CROSSED THE COUNTY LINE. 1,000 miles [music] AND RUNNING. THE FROGGERS GOT THE WHOLE TOWN BUZZING. THEY CRIED OVER JOKES. Now they're fussing. A,000 miles and running. A,000 [music] miles and running. HER PLUT PATROL KEEPS BLUFFING. BREAK OUT RAGE [music] CROCODILE suffering a thousand mil",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "ComicsGate",
+      "right": "Stray Beans",
+      "signal_type": "collaborated",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "Guess what I'm about TO DO? >> CATCH THOSE FROGGERS. CATCH THOSE [screaming] MOTHERFERS. NAH, WE'RE ALREADY GONE. LITTLE MOVIE PERP AND THE CREW JUST CROSSED THE COUNTY LINE. 1,000 miles [music] AND RUNNING. THE FROGGERS GOT THE WHOLE TOWN BUZZING. THEY CRIED OVER JOKES. Now they're fussing. A,000 miles and running. A,000 [music] miles and running. HER PLUT PATROL KEEPS BLUFFING. BREAK OUT RAGE [music] CROCODILE suffering a thousand mil",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "ComicsGate",
+      "right": "Vito Gesualdi",
+      "signal_type": "collaborated",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "Guess what I'm about TO DO? >> CATCH THOSE FROGGERS. CATCH THOSE [screaming] MOTHERFERS. NAH, WE'RE ALREADY GONE. LITTLE MOVIE PERP AND THE CREW JUST CROSSED THE COUNTY LINE. 1,000 miles [music] AND RUNNING. THE FROGGERS GOT THE WHOLE TOWN BUZZING. THEY CRIED OVER JOKES. Now they're fussing. A,000 miles and running. A,000 [music] miles and running. HER PLUT PATROL KEEPS BLUFFING. BREAK OUT RAGE [music] CROCODILE suffering a thousand mil",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "ComicsGate",
+      "right": "DarkGift Comics",
+      "signal_type": "collaborated",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "Guess what I'm about TO DO? >> CATCH THOSE FROGGERS. CATCH THOSE [screaming] MOTHERFERS. NAH, WE'RE ALREADY GONE. LITTLE MOVIE PERP AND THE CREW JUST CROSSED THE COUNTY LINE. 1,000 miles [music] AND RUNNING. THE FROGGERS GOT THE WHOLE TOWN BUZZING. THEY CRIED OVER JOKES. Now they're fussing. A,000 miles and running. A,000 [music] miles and running. HER PLUT PATROL KEEPS BLUFFING. BREAK OUT RAGE [music] CROCODILE suffering a thousand mil",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "ComicsGate",
+      "right": "KatyDid",
+      "signal_type": "collaborated",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "Guess what I'm about TO DO? >> CATCH THOSE FROGGERS. CATCH THOSE [screaming] MOTHERFERS. NAH, WE'RE ALREADY GONE. LITTLE MOVIE PERP AND THE CREW JUST CROSSED THE COUNTY LINE. 1,000 miles [music] AND RUNNING. THE FROGGERS GOT THE WHOLE TOWN BUZZING. THEY CRIED OVER JOKES. Now they're fussing. A,000 miles and running. A,000 [music] miles and running. HER PLUT PATROL KEEPS BLUFFING. BREAK OUT RAGE [music] CROCODILE suffering a thousand mil",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Sturgis",
+      "right": "Stray Beans",
+      "signal_type": "collaborated",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "he fourth? >> Lance. >> Maybe. Maybe. >> Does Lance get get >> Never seen Lance so recently? >> I know. Lance has been on MIA. >> Bring me Lance. if it isn't Lucifer himself. If you want to see something cringe as hell, Sturgis' travel blog. Yeah, we have them on the uh the list. You know, I have a playlist of what we're going to go over. Steven Lenudo says me on the fourth. [laughter] >> Yeah, there's Stephen or Cosmic Vader. >> I I think Ste",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Sturgis",
+      "right": "Vito Gesualdi",
+      "signal_type": "collaborated",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "he fourth? >> Lance. >> Maybe. Maybe. >> Does Lance get get >> Never seen Lance so recently? >> I know. Lance has been on MIA. >> Bring me Lance. if it isn't Lucifer himself. If you want to see something cringe as hell, Sturgis' travel blog. Yeah, we have them on the uh the list. You know, I have a playlist of what we're going to go over. Steven Lenudo says me on the fourth. [laughter] >> Yeah, there's Stephen or Cosmic Vader. >> I I think Ste",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Sturgis",
+      "right": "DarkGift Comics",
+      "signal_type": "collaborated",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "he fourth? >> Lance. >> Maybe. Maybe. >> Does Lance get get >> Never seen Lance so recently? >> I know. Lance has been on MIA. >> Bring me Lance. if it isn't Lucifer himself. If you want to see something cringe as hell, Sturgis' travel blog. Yeah, we have them on the uh the list. You know, I have a playlist of what we're going to go over. Steven Lenudo says me on the fourth. [laughter] >> Yeah, there's Stephen or Cosmic Vader. >> I I think Ste",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Sturgis",
+      "right": "KatyDid",
+      "signal_type": "collaborated",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "he fourth? >> Lance. >> Maybe. Maybe. >> Does Lance get get >> Never seen Lance so recently? >> I know. Lance has been on MIA. >> Bring me Lance. if it isn't Lucifer himself. If you want to see something cringe as hell, Sturgis' travel blog. Yeah, we have them on the uh the list. You know, I have a playlist of what we're going to go over. Steven Lenudo says me on the fourth. [laughter] >> Yeah, there's Stephen or Cosmic Vader. >> I I think Ste",
+      "warning": "co-mention plus language signal; requires interpretation"
+    }
+  ],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

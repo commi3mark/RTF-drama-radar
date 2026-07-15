@@ -1,0 +1,44 @@
+{
+  "relationship_id": "cecil--jon-malin",
+  "left": "Cecil",
+  "right": "Jon Malin",
+  "signals": [
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "episode_title": "Gabbing With Ga......You know",
+      "source": "FFS Cast",
+      "left": "Cecil",
+      "right": "Jon Malin",
+      "signal_type": "defended",
+      "timestamp": "02:36:02",
+      "confidence": 0.45,
+      "receipt": "n. >> That is very true. That is very true. Villas for two says uh oh I hear that John's no problems Jack shows. >> No I mean listen to be fair like yeah like I consider Shane to be one of my best friends since Anna and Cecil don't talk to me anymore you know. So like uh I you know or John Mailen you know so I do consider Shane to be like you know one of my best friends but what I'm saying is like he didn't do bad like last night he was fine",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "episode_title": "Gabbing With Ga......You know",
+      "source": "FFS Cast",
+      "left": "Cecil",
+      "right": "Jon Malin",
+      "signal_type": "criticised",
+      "timestamp": "02:36:02",
+      "confidence": 0.45,
+      "receipt": "n. >> That is very true. That is very true. Villas for two says uh oh I hear that John's no problems Jack shows. >> No I mean listen to be fair like yeah like I consider Shane to be one of my best friends since Anna and Cecil don't talk to me anymore you know. So like uh I you know or John Mailen you know so I do consider Shane to be like you know one of my best friends but what I'm saying is like he didn't do bad like last night he was fine",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "x7BWNaTUIpQ",
+      "episode_title": "Liam Gray and His Mighty Chalice | Anna TSWG, Cecil, Rekieta and more",
+      "source": "KatyDid",
+      "left": "Cecil",
+      "right": "Jon Malin",
+      "signal_type": "defended",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "e became that that calendar girl. Yeah, I mean, did she even do that on time? I don't know. >> And well, I mean, there's something else. I've got another wing coming up. Number of divorces Liam's had. Number of divorces Cecil's I won't do that. I won't do that. How many fingers would come up? I mean, I'm just a little down syndrome tubby little boy. What do I know? What do I know? Yeah, I can apparently hold a relationship together even whil",
+      "warning": "co-mention plus language signal; requires interpretation"
+    }
+  ],
+  "updated_at": "2026-07-15T21:04:36.019634+00:00"
+}

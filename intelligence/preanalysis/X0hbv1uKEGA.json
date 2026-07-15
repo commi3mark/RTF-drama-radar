@@ -1,0 +1,558 @@
+{
+  "schema_version": "octopuss-preanalysis-v0.1",
+  "generated_at": "2026-07-15T21:04:22.992607+00:00",
+  "video_id": "X0hbv1uKEGA",
+  "title": "Becoming All Powerful & the Ultimate Underdog!",
+  "source": "KatyDid",
+  "published": "2026-07-04T22:09:49+00:00",
+  "packet_hash": "f8df9d86ea071445c1e95f96e343baf17fc49365345f279c0fea98da50037348",
+  "coverage": {
+    "first_caption_second": 0.4,
+    "last_caption_second": 808.64,
+    "timestamp_start": "00:00",
+    "timestamp_end": "13:28",
+    "caption_span_seconds": 808.24,
+    "status": "transcript_present",
+    "note": "This measures the caption span only. It does not prove complete coverage of the original video."
+  },
+  "participant_candidates": [
+    {
+      "entity": "KatyDid",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.72,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Liam Gray",
+      "mentions": 16,
+      "block_count": 1,
+      "first_timestamp": "00:00",
+      "last_timestamp": "12:02",
+      "discussion_span_seconds": 722.0,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.739,
+        "positive_hits": 40,
+        "negative_hits": 6
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "uch the average fan that I have puts towards a campaign. Not my mega fans, just my average fan. Most of my backers don't just buy one $25 book. That's not what you're dealing with when you're dealing with no-name nobody Liam Gray. How many of you guys would have backed Ray Ray's book if I brought him onto this show and we joked around and I spoke to him maybe once a week for about 3 weeks. Just raise your hand in the chat. There's about a 30-sec"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Ethan Van Sciver",
+      "mentions": 5,
+      "block_count": 1,
+      "first_timestamp": "00:00",
+      "last_timestamp": "12:02",
+      "discussion_span_seconds": 722.0,
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.739,
+        "positive_hits": 40,
+        "negative_hits": 6
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "You got no control. That's really what this is about. For the longest time, Liam let other people control him. Even when I was sort of dropping the ball, I let other people control me. It's like, \"Hey, I'm going to play along, right?\" I said to Ethan, \"All right, I'll play ball. I'll do as you ask.\" But then I started getting punished even though I was playing ball. I wasn't doing anything. I start He started punishing me. And that's wh"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Stray Beans",
+      "mentions": 3,
+      "block_count": 1,
+      "first_timestamp": "12:01",
+      "last_timestamp": "13:28",
+      "discussion_span_seconds": 87.5,
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.647,
+        "positive_hits": 14,
+        "negative_hits": 3
+      },
+      "receipts": [
+        {
+          "timestamp": "12:01",
+          "excerpt": "everyone's going to be like, \"Holy shit, he did it.\" \"Holy shit, he actually did it, that crazy motherfucker.\" And then they're going to be quite careful about saying that because I know I don't like it. They'll be like, \"That wild guy.\" You know. Like, this is no different The difference is I'm more powerful than I've ever been. I'm more powerful than I've ever been. I have old allies appearing. Like, just today, Straight Beans has a b"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Shane Davis",
+      "mentions": 2,
+      "block_count": 1,
+      "first_timestamp": "00:00",
+      "last_timestamp": "12:02",
+      "discussion_span_seconds": 722.0,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.739,
+        "positive_hits": 40,
+        "negative_hits": 6
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "r does. I play with my fucking uh play with my fucking family like that. Everyone knew how important it was for me to be able to go. I was going to see people I loved that I haven't seen in like 20 years. You know, like Shane Davis said, I said on the stream, Shane Davis says, \"Oh, it's not a big deal even if you don't go.\" I was like, \"It's a big deal to me because I wanted to see people I haven't seen in 20 years. It's a grave I want to go to. T"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "ComicsGate",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "00:00",
+      "last_timestamp": "12:02",
+      "discussion_span_seconds": 722.0,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.739,
+        "positive_hits": 40,
+        "negative_hits": 6
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "or was it 300? The math doesn't lie. They'll lie to you. They think that there's business in this. They think that you're idiots. They think that they can exploit your outrage and anger to take advantage of you. This is Comicsgate. It's about comics. It's the reason we've survived where Gamergate died. It's the reason that all of these other spaces have withered up into fucking husks, but we continued on. And a big part of that was my guys. My gu"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Eric July",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "00:00",
+      "last_timestamp": "12:02",
+      "discussion_span_seconds": 722.0,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.739,
+        "positive_hits": 40,
+        "negative_hits": 6
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "you know, hater brains that take that and go, \"This is a W W good W dopamine.\" And, you know, then think that you've got to win on me. You understand? Everyone else understands this is fucking normal adult life, right? Eric July content tried up. So, yeah, Liam's going to be the content now. Oh, fucking don't don't think that's happening. Reminds me this song. I can't load it, unfortunately. JJ seems honest, too. Problem is he's going to go alo"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Jon Malin",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "00:00",
+      "last_timestamp": "12:02",
+      "discussion_span_seconds": 722.0,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.739,
+        "positive_hits": 40,
+        "negative_hits": 6
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "You got no control. That's really what this is about. For the longest time, Liam let other people control him. Even when I was sort of dropping the ball, I let other people control me. It's like, \"Hey, I'm going to play along, right?\" I said to Ethan, \"All right, I'll play ball. I'll do as you ask.\" But then I started getting punished even though I was playing ball. I wasn't doing anything. I start He started punishing me. And that's wh"
+        }
+      ],
+      "appearance_status": "uncertain"
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "12:02",
+      "title": "Liam Gray / Ethan Van Sciver / Shane Davis",
+      "entities": [
+        "Liam Gray",
+        "Ethan Van Sciver",
+        "Shane Davis",
+        "ComicsGate",
+        "Eric July",
+        "Jon Malin"
+      ],
+      "summary_seed": "You got no control. That's really what this is about. For the longest time, Liam let other people control him. Even when I was sort of dropping the ball, I let other people control me. It's like, \"Hey, I'm going to play along, right?\" I said to Ethan, \"All right, I'll play ball. I'll do as you ask.\" But then I started getting punished even though I was playing ball. I wasn't doing anything. I start He started punishi",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "12:01",
+      "end": "13:28",
+      "title": "Stray Beans",
+      "entities": [
+        "Stray Beans"
+      ],
+      "summary_seed": "everyone's going to be like, \"Holy shit, he did it.\" \"Holy shit, he actually did it, that crazy motherfucker.\" And then they're going to be quite careful about saying that because I know I don't like it. They'll be like, \"That wild guy.\" You know. Like, this is no different The difference is I'm more powerful than I've ever been. I'm more powerful than I've ever been. I have old allies appearing. Like, just today, St",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    }
+  ],
+  "claim_candidates": [
+    {
+      "claimant": "and a bunch of cowards that literally",
+      "claim": "they weren't even going to fucking go in the first place.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "And you fucked it for me out of some petty spite to some fucking weird woman-beating fuckwit that has some and a bunch of cowards that literally said they weren't even going to fucking go in the first place."
+    },
+    {
+      "claimant": "he um he did this video and he",
+      "claim": "he was frustrated and he was shitty and annoyed that, you know, he was doing extra work in the relationship.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "What's he doing?\" Oh, he um he did this video and he said he was frustrated and he was shitty and annoyed that, you know, he was doing extra work in the relationship."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "John Malin has a few, like Black Riding Hood that that are really high.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "I know John Malin has a few, like Black Riding Hood that that are really high."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "this will affect my sales at all?",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "So, like do I think this will affect my sales at all?"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "even though everyone else is running with propaganda to fucking make me out to be a monster.",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "You got the John Mailands of the world that were still willing to say I believe even though everyone else is running with propaganda to fucking make me out to be a monster."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that he's pushing cuz he knows I'll offer a little bit of grace, but I don't think he's a fucking idiot.",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "If you want me to be frank with you, I think that he's pushing cuz he knows I'll offer a little bit of grace, but I don't think he's a fucking idiot."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "he knows that I'm not fucking around.",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think he knows that I'm not fucking around."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "I don't like it.",
+      "timestamp": "12:01",
+      "status": "candidate_claim",
+      "receipt": "everyone's going to be like, \"Holy shit, he did it.\" \"Holy shit, he actually did it, that crazy motherfucker.\" And then they're going to be quite careful about saying that because I know I don't like it."
+    }
+  ],
+  "quote_candidates": [
+    {
+      "timestamp": "00:00",
+      "text": "Let's see if me never having another day's peace is more lucrative than having me around and getting along.",
+      "significance_score": 1
+    }
+  ],
+  "relationship_signals": [
+    {
+      "left": "Liam Gray",
+      "right": "Ethan Van Sciver",
+      "signal_type": "promoted",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "uch the average fan that I have puts towards a campaign. Not my mega fans, just my average fan. Most of my backers don't just buy one $25 book. That's not what you're dealing with when you're dealing with no-name nobody Liam Gray. How many of you guys would have backed Ray Ray's book if I brought him onto this show and we joked around and I spoke to him maybe once a week for about 3 weeks. Just raise your hand in the chat. There's about a 30-sec",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Shane Davis",
+      "signal_type": "promoted",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "uch the average fan that I have puts towards a campaign. Not my mega fans, just my average fan. Most of my backers don't just buy one $25 book. That's not what you're dealing with when you're dealing with no-name nobody Liam Gray. How many of you guys would have backed Ray Ray's book if I brought him onto this show and we joked around and I spoke to him maybe once a week for about 3 weeks. Just raise your hand in the chat. There's about a 30-sec",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "ComicsGate",
+      "signal_type": "promoted",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "uch the average fan that I have puts towards a campaign. Not my mega fans, just my average fan. Most of my backers don't just buy one $25 book. That's not what you're dealing with when you're dealing with no-name nobody Liam Gray. How many of you guys would have backed Ray Ray's book if I brought him onto this show and we joked around and I spoke to him maybe once a week for about 3 weeks. Just raise your hand in the chat. There's about a 30-sec",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Eric July",
+      "signal_type": "promoted",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "uch the average fan that I have puts towards a campaign. Not my mega fans, just my average fan. Most of my backers don't just buy one $25 book. That's not what you're dealing with when you're dealing with no-name nobody Liam Gray. How many of you guys would have backed Ray Ray's book if I brought him onto this show and we joked around and I spoke to him maybe once a week for about 3 weeks. Just raise your hand in the chat. There's about a 30-sec",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Jon Malin",
+      "signal_type": "promoted",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "uch the average fan that I have puts towards a campaign. Not my mega fans, just my average fan. Most of my backers don't just buy one $25 book. That's not what you're dealing with when you're dealing with no-name nobody Liam Gray. How many of you guys would have backed Ray Ray's book if I brought him onto this show and we joked around and I spoke to him maybe once a week for about 3 weeks. Just raise your hand in the chat. There's about a 30-sec",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Shane Davis",
+      "signal_type": "promoted",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "You got no control. That's really what this is about. For the longest time, Liam let other people control him. Even when I was sort of dropping the ball, I let other people control me. It's like, \"Hey, I'm going to play along, right?\" I said to Ethan, \"All right, I'll play ball. I'll do as you ask.\" But then I started getting punished even though I was playing ball. I wasn't doing anything. I start He started punishing me. And that's wh",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "ComicsGate",
+      "signal_type": "promoted",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "You got no control. That's really what this is about. For the longest time, Liam let other people control him. Even when I was sort of dropping the ball, I let other people control me. It's like, \"Hey, I'm going to play along, right?\" I said to Ethan, \"All right, I'll play ball. I'll do as you ask.\" But then I started getting punished even though I was playing ball. I wasn't doing anything. I start He started punishing me. And that's wh",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Eric July",
+      "signal_type": "promoted",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "You got no control. That's really what this is about. For the longest time, Liam let other people control him. Even when I was sort of dropping the ball, I let other people control me. It's like, \"Hey, I'm going to play along, right?\" I said to Ethan, \"All right, I'll play ball. I'll do as you ask.\" But then I started getting punished even though I was playing ball. I wasn't doing anything. I start He started punishing me. And that's wh",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Jon Malin",
+      "signal_type": "promoted",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "You got no control. That's really what this is about. For the longest time, Liam let other people control him. Even when I was sort of dropping the ball, I let other people control me. It's like, \"Hey, I'm going to play along, right?\" I said to Ethan, \"All right, I'll play ball. I'll do as you ask.\" But then I started getting punished even though I was playing ball. I wasn't doing anything. I start He started punishing me. And that's wh",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Shane Davis",
+      "right": "ComicsGate",
+      "signal_type": "promoted",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "r does. I play with my fucking uh play with my fucking family like that. Everyone knew how important it was for me to be able to go. I was going to see people I loved that I haven't seen in like 20 years. You know, like Shane Davis said, I said on the stream, Shane Davis says, \"Oh, it's not a big deal even if you don't go.\" I was like, \"It's a big deal to me because I wanted to see people I haven't seen in 20 years. It's a grave I want to go to. T",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Shane Davis",
+      "right": "Eric July",
+      "signal_type": "promoted",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "r does. I play with my fucking uh play with my fucking family like that. Everyone knew how important it was for me to be able to go. I was going to see people I loved that I haven't seen in like 20 years. You know, like Shane Davis said, I said on the stream, Shane Davis says, \"Oh, it's not a big deal even if you don't go.\" I was like, \"It's a big deal to me because I wanted to see people I haven't seen in 20 years. It's a grave I want to go to. T",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Shane Davis",
+      "right": "Jon Malin",
+      "signal_type": "promoted",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "r does. I play with my fucking uh play with my fucking family like that. Everyone knew how important it was for me to be able to go. I was going to see people I loved that I haven't seen in like 20 years. You know, like Shane Davis said, I said on the stream, Shane Davis says, \"Oh, it's not a big deal even if you don't go.\" I was like, \"It's a big deal to me because I wanted to see people I haven't seen in 20 years. It's a grave I want to go to. T",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "ComicsGate",
+      "right": "Eric July",
+      "signal_type": "promoted",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "or was it 300? The math doesn't lie. They'll lie to you. They think that there's business in this. They think that you're idiots. They think that they can exploit your outrage and anger to take advantage of you. This is Comicsgate. It's about comics. It's the reason we've survived where Gamergate died. It's the reason that all of these other spaces have withered up into fucking husks, but we continued on. And a big part of that was my guys. My gu",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "ComicsGate",
+      "right": "Jon Malin",
+      "signal_type": "promoted",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "or was it 300? The math doesn't lie. They'll lie to you. They think that there's business in this. They think that you're idiots. They think that they can exploit your outrage and anger to take advantage of you. This is Comicsgate. It's about comics. It's the reason we've survived where Gamergate died. It's the reason that all of these other spaces have withered up into fucking husks, but we continued on. And a big part of that was my guys. My gu",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Eric July",
+      "right": "Jon Malin",
+      "signal_type": "promoted",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "you know, hater brains that take that and go, \"This is a W W good W dopamine.\" And, you know, then think that you've got to win on me. You understand? Everyone else understands this is fucking normal adult life, right? Eric July content tried up. So, yeah, Liam's going to be the content now. Oh, fucking don't don't think that's happening. Reminds me this song. I can't load it, unfortunately. JJ seems honest, too. Problem is he's going to go alo",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Ethan Van Sciver",
+      "signal_type": "friendship_claim",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "uch the average fan that I have puts towards a campaign. Not my mega fans, just my average fan. Most of my backers don't just buy one $25 book. That's not what you're dealing with when you're dealing with no-name nobody Liam Gray. How many of you guys would have backed Ray Ray's book if I brought him onto this show and we joked around and I spoke to him maybe once a week for about 3 weeks. Just raise your hand in the chat. There's about a 30-sec",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Shane Davis",
+      "signal_type": "friendship_claim",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "uch the average fan that I have puts towards a campaign. Not my mega fans, just my average fan. Most of my backers don't just buy one $25 book. That's not what you're dealing with when you're dealing with no-name nobody Liam Gray. How many of you guys would have backed Ray Ray's book if I brought him onto this show and we joked around and I spoke to him maybe once a week for about 3 weeks. Just raise your hand in the chat. There's about a 30-sec",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "ComicsGate",
+      "signal_type": "friendship_claim",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "uch the average fan that I have puts towards a campaign. Not my mega fans, just my average fan. Most of my backers don't just buy one $25 book. That's not what you're dealing with when you're dealing with no-name nobody Liam Gray. How many of you guys would have backed Ray Ray's book if I brought him onto this show and we joked around and I spoke to him maybe once a week for about 3 weeks. Just raise your hand in the chat. There's about a 30-sec",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Eric July",
+      "signal_type": "friendship_claim",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "uch the average fan that I have puts towards a campaign. Not my mega fans, just my average fan. Most of my backers don't just buy one $25 book. That's not what you're dealing with when you're dealing with no-name nobody Liam Gray. How many of you guys would have backed Ray Ray's book if I brought him onto this show and we joked around and I spoke to him maybe once a week for about 3 weeks. Just raise your hand in the chat. There's about a 30-sec",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Jon Malin",
+      "signal_type": "friendship_claim",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "uch the average fan that I have puts towards a campaign. Not my mega fans, just my average fan. Most of my backers don't just buy one $25 book. That's not what you're dealing with when you're dealing with no-name nobody Liam Gray. How many of you guys would have backed Ray Ray's book if I brought him onto this show and we joked around and I spoke to him maybe once a week for about 3 weeks. Just raise your hand in the chat. There's about a 30-sec",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Shane Davis",
+      "signal_type": "friendship_claim",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "You got no control. That's really what this is about. For the longest time, Liam let other people control him. Even when I was sort of dropping the ball, I let other people control me. It's like, \"Hey, I'm going to play along, right?\" I said to Ethan, \"All right, I'll play ball. I'll do as you ask.\" But then I started getting punished even though I was playing ball. I wasn't doing anything. I start He started punishing me. And that's wh",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "ComicsGate",
+      "signal_type": "friendship_claim",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "You got no control. That's really what this is about. For the longest time, Liam let other people control him. Even when I was sort of dropping the ball, I let other people control me. It's like, \"Hey, I'm going to play along, right?\" I said to Ethan, \"All right, I'll play ball. I'll do as you ask.\" But then I started getting punished even though I was playing ball. I wasn't doing anything. I start He started punishing me. And that's wh",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Eric July",
+      "signal_type": "friendship_claim",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "You got no control. That's really what this is about. For the longest time, Liam let other people control him. Even when I was sort of dropping the ball, I let other people control me. It's like, \"Hey, I'm going to play along, right?\" I said to Ethan, \"All right, I'll play ball. I'll do as you ask.\" But then I started getting punished even though I was playing ball. I wasn't doing anything. I start He started punishing me. And that's wh",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Jon Malin",
+      "signal_type": "friendship_claim",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "You got no control. That's really what this is about. For the longest time, Liam let other people control him. Even when I was sort of dropping the ball, I let other people control me. It's like, \"Hey, I'm going to play along, right?\" I said to Ethan, \"All right, I'll play ball. I'll do as you ask.\" But then I started getting punished even though I was playing ball. I wasn't doing anything. I start He started punishing me. And that's wh",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Shane Davis",
+      "right": "ComicsGate",
+      "signal_type": "friendship_claim",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "r does. I play with my fucking uh play with my fucking family like that. Everyone knew how important it was for me to be able to go. I was going to see people I loved that I haven't seen in like 20 years. You know, like Shane Davis said, I said on the stream, Shane Davis says, \"Oh, it's not a big deal even if you don't go.\" I was like, \"It's a big deal to me because I wanted to see people I haven't seen in 20 years. It's a grave I want to go to. T",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Shane Davis",
+      "right": "Eric July",
+      "signal_type": "friendship_claim",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "r does. I play with my fucking uh play with my fucking family like that. Everyone knew how important it was for me to be able to go. I was going to see people I loved that I haven't seen in like 20 years. You know, like Shane Davis said, I said on the stream, Shane Davis says, \"Oh, it's not a big deal even if you don't go.\" I was like, \"It's a big deal to me because I wanted to see people I haven't seen in 20 years. It's a grave I want to go to. T",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Shane Davis",
+      "right": "Jon Malin",
+      "signal_type": "friendship_claim",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "r does. I play with my fucking uh play with my fucking family like that. Everyone knew how important it was for me to be able to go. I was going to see people I loved that I haven't seen in like 20 years. You know, like Shane Davis said, I said on the stream, Shane Davis says, \"Oh, it's not a big deal even if you don't go.\" I was like, \"It's a big deal to me because I wanted to see people I haven't seen in 20 years. It's a grave I want to go to. T",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "ComicsGate",
+      "right": "Eric July",
+      "signal_type": "friendship_claim",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "or was it 300? The math doesn't lie. They'll lie to you. They think that there's business in this. They think that you're idiots. They think that they can exploit your outrage and anger to take advantage of you. This is Comicsgate. It's about comics. It's the reason we've survived where Gamergate died. It's the reason that all of these other spaces have withered up into fucking husks, but we continued on. And a big part of that was my guys. My gu",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "ComicsGate",
+      "right": "Jon Malin",
+      "signal_type": "friendship_claim",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "or was it 300? The math doesn't lie. They'll lie to you. They think that there's business in this. They think that you're idiots. They think that they can exploit your outrage and anger to take advantage of you. This is Comicsgate. It's about comics. It's the reason we've survived where Gamergate died. It's the reason that all of these other spaces have withered up into fucking husks, but we continued on. And a big part of that was my guys. My gu",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Eric July",
+      "right": "Jon Malin",
+      "signal_type": "friendship_claim",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "you know, hater brains that take that and go, \"This is a W W good W dopamine.\" And, you know, then think that you've got to win on me. You understand? Everyone else understands this is fucking normal adult life, right? Eric July content tried up. So, yeah, Liam's going to be the content now. Oh, fucking don't don't think that's happening. Reminds me this song. I can't load it, unfortunately. JJ seems honest, too. Problem is he's going to go alo",
+      "warning": "co-mention plus language signal; requires interpretation"
+    }
+  ],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

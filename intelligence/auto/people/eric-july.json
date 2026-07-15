@@ -1,0 +1,642 @@
+{
+  "entity_id": "eric-july",
+  "name": "Eric July",
+  "appearance_candidates": [
+    {
+      "video_id": "zkW4zLSQ7eQ",
+      "title": "You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto!",
+      "source": "Ethan Van Sciver",
+      "role_guess": "likely_participant",
+      "confidence": 0.59,
+      "signals": [
+        "directly addressed 2 times",
+        "appears in 7 distant transcript blocks"
+      ]
+    },
+    {
+      "video_id": "66FqtP0Wves",
+      "title": "It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on \"WOKE\"! LANTERNS Spoilers?!",
+      "source": "Ethan Van Sciver",
+      "role_guess": "likely_participant",
+      "confidence": 0.51,
+      "signals": [
+        "directly addressed 2 times",
+        "appears in 5 distant transcript blocks"
+      ]
+    },
+    {
+      "video_id": "LdLy2G5TM4c",
+      "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+      "source": "Commi3 Mark",
+      "role_guess": "likely_participant",
+      "confidence": 0.62,
+      "signals": [
+        "directly addressed 9 times",
+        "appears in 3 distant transcript blocks"
+      ]
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "title": "Gabbing With Ga......You Know",
+      "source": "FFS Cast",
+      "role_guess": "likely_participant",
+      "confidence": 0.47,
+      "signals": [
+        "directly addressed 2 times",
+        "appears in 4 distant transcript blocks"
+      ]
+    },
+    {
+      "video_id": "IGwEBXZDVt0",
+      "title": "The Biggest Problem in the Universe Comes to an END!",
+      "source": "KatyDid",
+      "role_guess": "likely_participant",
+      "confidence": 0.55,
+      "signals": [
+        "directly addressed 3 times",
+        "appears in 4 distant transcript blocks"
+      ]
+    },
+    {
+      "video_id": "MOQPFnHJYR0",
+      "title": "Cynic Got CATFISHED And EVS Continues To SPIRAL On Thirsty Thursday!",
+      "source": "Frog Tony",
+      "role_guess": "likely_participant",
+      "confidence": 0.4,
+      "signals": [
+        "directly addressed 5 times",
+        "possible clip voice rather than live participant"
+      ]
+    }
+  ],
+  "discussions": [
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "title": "Gabbing With Ga......You know",
+      "source": "FFS Cast",
+      "importance": "secondary",
+      "mentions": 4,
+      "sentiment": {
+        "label": "positive",
+        "score": 0.871,
+        "positive_hits": 159,
+        "negative_hits": 11
+      },
+      "receipts": [
+        {
+          "timestamp": "01:48:00",
+          "excerpt": "re an [ __ ] It's Liam all over again. It's the same [ __ ] >> Like you would have fans you would have people who like appreciated what you guys did if you weren't so aggressively hostile. And if you looked at like what Eric July did, like you know the one good thing Eric did was he just kind of went okay now I the owner of a multi-million dollar business so I got to move differently. It is and it's like uh Wheelers the same thing for you like i"
+        },
+        {
+          "timestamp": "02:00:01",
+          "excerpt": "most of the websites you ever click on are WordPress websites. Nine lives comics is a WordPress website. RIP Rip Ascend is a WordPress >> website. He explained that it was Eric July. Did he say that? >> He did say that. >> Oh, I wasn't paying any goddamn attention. >> Well, I think you've only like absorbed Eric July stuff through Osmosis. Like when you did your Comics Gate >> um video and then whe"
+        }
+      ]
+    },
+    {
+      "video_id": "LS_14uOaG2E",
+      "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "source": "Ethan Van Sciver",
+      "importance": "passing",
+      "mentions": 1,
+      "sentiment": {
+        "label": "positive",
+        "score": 0.865,
+        "positive_hits": 83,
+        "negative_hits": 6
+      },
+      "receipts": [
+        {
+          "timestamp": "01:36:00",
+          "excerpt": "an island. What's he I don't understand who he is or I mean I see that he's creepy to be like that but who is that guy >> Sturgis? He's a YouTuber named Renowned Zero uh who was a comics gate critic and obsessive fan of Eric July. Uh he makes content all the time where it's like Ethan and Shane Davis coping and seething and it'll be like uh me with hold on let me show you like a lot of his stuff. Uh, and it'll be like me with like peanut butter"
+        }
+      ]
+    },
+    {
+      "video_id": "zkW4zLSQ7eQ",
+      "title": "You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto!",
+      "source": "Ethan Van Sciver",
+      "importance": "major",
+      "mentions": 13,
+      "sentiment": {
+        "label": "positive",
+        "score": 0.87,
+        "positive_hits": 433,
+        "negative_hits": 30
+      },
+      "receipts": [
+        {
+          "timestamp": "12:01",
+          "excerpt": "on't get mad at her for that. I always [clears throat] tell her everything down here is yours. Everything that belongs to daddy's to daddy's yours. Uh you know what's daddy's is Ava. Hi folks, how are you? Is it better? Eric July. Eric July says Tony Soprano. Uh it is Eric July right now. Uh this is the uh day after the 4-year anniversary of Ripverse, which uh [laughter] you got I had some people yelling at me saying uh hey uh you know you didn'"
+        },
+        {
+          "timestamp": "36:01",
+          "excerpt": "Eric July video, uh a big black square. I should have said that would have been better. Yeah, there's a little bit of that in Zach. Zach wants to be look back on history. Like I didn't take a side. I wasn't with the right or the"
+        },
+        {
+          "timestamp": "01:12:02",
+          "excerpt": "w. I'm not sure. John said, \"I'm not doing Trashcast a long time ago.\" Uh, even though he completely and fully agrees with almost everything we say here. I think early on Oh, I know. The thing is when I came out against Eric July, a lot of people said, \"Don't do that. It's going to be very costly.\" um you know in terms of uh you know fans and I knew that obviously I knew that godamn like you think I wanted to do this you think I wanted to come o"
+        },
+        {
+          "timestamp": "01:24:00",
+          "excerpt": "like the most budget [ __ ] Brazilian nobodies so that he can pump this [ __ ] out quicker, faster, cheaper for himself. Uh, and uh, that's who this guy is. So, you know, it's like I I think the difference between like Eric July and somebody like Liam Gray is that if Liam Gray is making his own books, which we've debated, I'm not sure, but if he Liam says he made Dino King, if Liam did make Dino King, it's a sincere effort. He's trying hard to"
+        },
+        {
+          "timestamp": "01:36:00",
+          "excerpt": "to why he doesn't do trash guys.\" I assume that, Yurashima, I'm asking you what you think though. Like, if if you think John doesn't think, well, I don't want to get, you know, I don't want to get in the weeds with the Eric July drama and that's why I don't do well, what's the reason in your opinion? Uh, here's Tommy Reviews. Uh, by the way, thank you. [music] None of you [ __ ] are Chuck Dixon. >> Tommy Review says, \"In Rocky 5, Rocky retires"
+        },
+        {
+          "timestamp": "01:48:00",
+          "excerpt": "worth of shipping money because of her ad. But then again, that $250,000 is probably exactly the amount of money that she received from the government that funded your whole enterprise to begin with. You really believe Eric July had $300,000 in the bank that he was just chilling with like from what? Unless his man all these guys, they're [ __ ] in-laws are rich every single time. Gash Matar says, \"Wait, Eric and his wife are black.\" Yeah. No, E"
+        }
+      ]
+    },
+    {
+      "video_id": "66FqtP0Wves",
+      "title": "It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on \"WOKE\"! LANTERNS Spoilers?!",
+      "source": "Ethan Van Sciver",
+      "importance": "major",
+      "mentions": 13,
+      "sentiment": {
+        "label": "positive",
+        "score": 0.654,
+        "positive_hits": 277,
+        "negative_hits": 58
+      },
+      "receipts": [
+        {
+          "timestamp": "00:01",
+          "excerpt": "ht of the last uh video that we did, the last live stream cuz uh everybody cares about you guys. Like everybody cares what you think. Why is you roboting? Says cool breeze. Am I roboting right now guys? Let me know. OVS Eric July in July is Eric July. Oh, you see Eric's talking about video games again says fan art exhibit. Oh no, he needs more money. I don't leave comments says anonymous. Well, you should start. Let's read the uh comments from p"
+        },
+        {
+          "timestamp": "12:00",
+          "excerpt": "Middle Ages. But um getting winning $20,000, what do you do with it when you're Sturgis? Now, a lot of people would say put it in the bank. You know what I mean? He could have spent it all. He could have given it all to Eric July, but he didn't give it to Eric July. What did he do with it? He took his boyfriend to Japan. [clears throat] And I just want to salute him for that. I think that is the greatest use of that money. You get a windfall lik"
+        },
+        {
+          "timestamp": "24:01",
+          "excerpt": "one of the most important Green Lantern artists of the 21st century and I am I am if there are how many Green Lantern artists are there that are of importance in the year 2000 moving to today 2026 I am in the top five. Eric July is in like number 74,950 on Amazon. I'm in the top five most important Green Lantern artists of the 21st century. I think I'm close to number one. I think I'm close to number one. Uh, of all time. Of all time. I'm top 2"
+        },
+        {
+          "timestamp": "36:02",
+          "excerpt": "swood, thank you for $20. He says, \"Regarding Eric Julian Amazon, I'm a nobody. I'm not Chuck Dixon. Uh, I released a sci-fi novel after a successful Kickstarter and initially sold 37 copies on Amazon for a rank of 35K. Eric July is not a nobody. It's embarrassing that I beat him. Yeah, people can't believe it that, you know, I'm saying uh to these ripards, I'm saying, uh, listen, uh, he, they're like, he sold tons of copies on Amazon. What do y"
+        },
+        {
+          "timestamp": "01:12:01",
+          "excerpt": "'s coming way too hard at her from a trash cat trash cast perspective. By the way, I changed my mind. Shout out Russell Hall. This is great. He's sitting there going, \"Uh, you had to stop saying racist [ __ ] because of Eric July, right?\" And Christiey's like, \"Uh, no. Uh, no, that's not it. That wasn't it. Oh, it's because of Eric July and uh, you know, you can't say racist stuff because that would make them uncomfortable around Eric July.\" No,"
+        }
+      ]
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "title": "The Ark Of Leem, LDA-King Stream",
+      "source": "FFS Cast",
+      "importance": "passing",
+      "mentions": 1,
+      "sentiment": {
+        "label": "positive",
+        "score": 0.509,
+        "positive_hits": 40,
+        "negative_hits": 13
+      },
+      "receipts": [
+        {
+          "timestamp": "02:36:00",
+          "excerpt": "ter. So >> yeah, [snorts] he refuses. >> What he says, what he streams, what he makes. No one's [ __ ] checking his money. No one is [ __ ] clocking anything he does. >> YOU DO NOTHING BUT TALK ABOUT ME, STURGIS, and uh Eric July. That's your content, fat boy. You fat, lonely, sad [ __ ] That is all you do. That is all that is on your mind when you wake up. The only thing you're thinking about is me. You, Stray, Finnbar, and now Rev Ruin. That's"
+        }
+      ]
+    },
+    {
+      "video_id": "LdLy2G5TM4c",
+      "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+      "source": "Commi3 Mark",
+      "importance": "major",
+      "mentions": 57,
+      "sentiment": {
+        "label": "positive",
+        "score": 0.952,
+        "positive_hits": 204,
+        "negative_hits": 5
+      },
+      "receipts": [
+        {
+          "timestamp": "12:00",
+          "excerpt": "the book bin at a thrift store. Another Yeah, we'll uh I already have the page loaded up, so we'll have a scroll through. I can see if there's some other great ones. So, this week we're going to be talking about this uh Eric July murder mystery crossover thing. Um, I love like true crime stories and documentaries. Like, so it's fun to like uh [snorts] play detective for the week. Uh, this week in fact on the show we're going to be playing judge,"
+        },
+        {
+          "timestamp": "24:00",
+          "excerpt": "nclusions. We're gonna show >> about this situation. Man, this is dark. Do I want to do this? >> It is dark. >> Man, I could I could talk about it. Uh, let's let's go to Tommy Mark the commentary. [clears throat] >> Uh, Eric July ran over a guy causing a 15year-old girl to get shot and killed and then snitched on TV. Incredible find by Johnny Rocket. I think this is in my opinion this is about as close to what happened as possible. >> Hey, so we"
+        },
+        {
+          "timestamp": "36:00",
+          "excerpt": "dge. You can see that kind. Yeah, I'm the uh judge. AIOC is going to be like my state prosecutor. She's going to bring us to evidence and you guys are going to be the jury like um you are going to decide uh the fates of Eric July who's on trial here like [laughter] but what for >> I think I think Billy and Kenzo should get fined for skipping jury duty. >> Yeah, [laughter] they definitely should. Oh, thank you for that for digging that out. Uh, t"
+        }
+      ]
+    },
+    {
+      "video_id": "VBJwPPZ1LeY",
+      "title": "Sturgis Went To Japan On Thirsty Thursday!",
+      "source": "Frog Tony",
+      "importance": "major",
+      "mentions": 5,
+      "sentiment": {
+        "label": "positive",
+        "score": 0.83,
+        "positive_hits": 258,
+        "negative_hits": 24
+      },
+      "receipts": [
+        {
+          "timestamp": "01:00:02",
+          "excerpt": "will they be changing? Yeah. How will they be changing? [laughter] >> I'M NO LONGER GOING TO BE clipping Liam Gray. Next day clips Liam Gray. I'm no longer going to be clipping uh CG drama. Ethan, I'm only going to clip Eric July for you. Next day, nothing but CG drama. When was the last time you clipped Eric July? You built your channel on clipping Eric July in the zeros. I don't think you've clipped them in [ __ ] months, right? I say that and"
+        },
+        {
+          "timestamp": "01:24:01",
+          "excerpt": "Veto's life, saying the only thing keeping you safe was being on Dick's leash, quote unquote. What What's Riley going to do to anybody? >> [ __ ] show up to your house and put bunny stickers on. You're scared of [ __ ] Eric July. You're scared of the entire state of Texas. You won't go to I'll just veto just move to Texas and Riley can't come anywhere near you. How's that sound? >> Oh, so I'm unsafe now. >> You've been unsafe. >> What's going t"
+        },
+        {
+          "timestamp": "02:00:01",
+          "excerpt": "Veto than [ __ ] Riley. Right [snorts] now all he has is he's depressed. He's just [ __ ] depressed. That's right. Uh, all right. Let me add the uh funds in. Let me do this shot. Uh, we're going to give you the extended Eric July song cuz you're a longtime supporter and a big fan. Salute. >> Well, um, you found me on Twitter posting about the [ __ ] book. I kind of was getting mixed thoughts as I looked into it. My thoughts kind of kind of chang"
+        },
+        {
+          "timestamp": "05:24:00",
+          "excerpt": "alerting me to the Kofi. Uh, he says, \"Hope that we will see more videos of Sturis traveling around the world for $20.\" That ain't cheap. >> Whoa, that ain't cheap. >> Uh, for that money, we're going to give you the uh Eric July special. >> Plus a couple of other things. Let me get my uh shot glass out. It's been a while. It's been a minute. >> Now you're sobering up. >> You're as spicy as you were earlier. >> Yeah, I know. [laughter] I'm telli"
+        }
+      ]
+    },
+    {
+      "video_id": "ims2nZAnn-s",
+      "title": "F - IT: We Are Soooooo Back (AGANE)",
+      "source": "Piper",
+      "importance": "passing",
+      "mentions": 1,
+      "sentiment": {
+        "label": "positive",
+        "score": 0.879,
+        "positive_hits": 62,
+        "negative_hits": 4
+      },
+      "receipts": [
+        {
+          "timestamp": "02:00:02",
+          "excerpt": "what? Like 5 in the morning. It's >> just past 4 11 in here. >> That was close. >> 23. It is 110 oh 9 here right now. >> Okay. So, I'm going by on Friday at 5:00 p.m. >> EST, 1000 p.m. GMT for Russian Troll Factory. Uh, Eric July special this week. It's going to be great. >> Hey, see you. Bye. Oh, wait. Wait. Your communist is [ __ ] Oh. Oh dear. >> Yeah. >> Bet Yanui Batman. >> Yeah. >> Yeah. We don't like that that kind of stuff, you know. >>"
+        }
+      ]
+    },
+    {
+      "video_id": "7LMz5W0-mLs",
+      "title": "Finbarr STOMPS A Dwarf! - OPEN PANEL MADHOUSE!!!!",
+      "source": "Frog Tony",
+      "importance": "major",
+      "mentions": 3,
+      "sentiment": {
+        "label": "positive",
+        "score": 0.735,
+        "positive_hits": 255,
+        "negative_hits": 39
+      },
+      "receipts": [
+        {
+          "timestamp": "48:00",
+          "excerpt": "cause he was quite good at it. We thought he was at the time. >> Yeah. Plus, I >> obviously didn't want to do it. He didn't really want to do it. So, >> hold on. I didn't want to do drama. I felt like doing uh attacking Eric July while we had a comic book out because we were supposed to get this out way earlier than we did. >> And so the idea was like I didn't want to, you know, promote my comic while [ __ ] on someone else's. So I was like, I'l"
+        },
+        {
+          "timestamp": "01:12:00",
+          "excerpt": "ght? >> Just clean up your act. That's it. >> But they don't. >> People are like, \"Oh, but Tony, you could get struck for X, Y, and Z.\" I go, \"Yeah, I know. I don't care.\" Right? Like I did it if I get struck. If [ __ ] Eric July said, \"Hey, Tony, [ __ ] striking you for [ __ ] efabing me all the time, right? For harassing me.\" I'd be like, \"Yeah, you're probably right.\" Like, like this is the same conversation I literally had with the HR people"
+        },
+        {
+          "timestamp": "02:48:01",
+          "excerpt": "ing it right now. You're like efapping him right now to [ __ ] with him and you're like he's complaining about me doing the thing that I'm literally doing right now. It's like are you [ __ ] Like again, when it comes to Eric July, like if you go, \"Yeah, you you probably harassed him.\" Like if he if Eric said, \"Hey, I feel like you harassed me.\" I'd like, \"Yeah, you're probably right. I said I said a lot of horrible [ __ ] about you and your comi"
+        }
+      ]
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "title": "Gabbing With Ga......You Know",
+      "source": "FFS Cast",
+      "importance": "major",
+      "mentions": 7,
+      "sentiment": {
+        "label": "positive",
+        "score": 0.836,
+        "positive_hits": 246,
+        "negative_hits": 22
+      },
+      "receipts": [
+        {
+          "timestamp": "01:12:01",
+          "excerpt": "t bar one time. That's it. And then the second time you thought, well, well, well, I'll go on Finch stream and drag him again. You got [ __ ] just blown out by Chris Stanley in my bar cuz all you wanted to do was hammer Eric July for two hours. You threatened to fight the guy. You got so out. You threatened the chat. You got You just want to talk about the stream that happened today. Fight me. BT. >> Okay. You're very quick to say I have no tale"
+        },
+        {
+          "timestamp": "01:36:01",
+          "excerpt": "nese artist depictions of tentacles throughout history. This actually didn't start after World War II like many people believe. >> Dude, I hate these people. I hate him so [ __ ] much. Wanita Payne was a young lady that Eric July claimed to have known uh growing up and she was killed outside of like a a like all ages nightclub and he had claimed that the reason why he turned his life around and started doing backwards and being all active in pol"
+        },
+        {
+          "timestamp": "02:36:01",
+          "excerpt": "trying to call people out, trying to ruin people, trying to uh take anything out of uh context that he can. I mean, you got to remember this is the guy that reached out to the ISM ministries and was talking [ __ ] about Eric July, quote unquote, got a big wig to tell him that they could never use in any of the books anymore after the the next one. And then come to find out, it was nobody at all. He claimed it was the uh the main guy out there at"
+        },
+        {
+          "timestamp": "02:48:02",
+          "excerpt": ", >> this this dude's in La La Land, man. Like, dude, the fact that they say I'm on drugs. Fine, cool, whatever. Bro, you have to either be [ __ ] nuclear [ __ ] or own drugs to sit there and go, \"Y'all don't talk about Eric July's looks or or like the content of his character or who he is or what he does that y'all strictly stick to the types of books he does and how good they are. What the fuck?\" >> They have stingers and bumpers that are lite"
+        }
+      ]
+    },
+    {
+      "video_id": "RxZ_OdBN2f0",
+      "title": "Katydid Caught LYING AGAIN! - Detractor Kings",
+      "source": "Frog Tony",
+      "importance": "major",
+      "mentions": 24,
+      "sentiment": {
+        "label": "positive",
+        "score": 0.617,
+        "positive_hits": 38,
+        "negative_hits": 9
+      },
+      "receipts": [
+        {
+          "timestamp": "24:01",
+          "excerpt": "a single god damn comics gate stream. What Katie did >> man I hate her name because like what Katie did did what Katie did did what she done did is uh >> Katie done she was watching Nick Ricada. She was watching uh Eric July Yellow Flash because you know the weeb wars [ __ ] right? So she was watching the weeb wars [ __ ] and all the [ __ ] >> What the hell? Okay, >> pause it. Pause it. What's the wee wars? >> Uh that was Vic Miona and all"
+        }
+      ]
+    },
+    {
+      "video_id": "lYws0Rqt8Bs",
+      "title": "Supergirl BOMBS And Might END The DCU! - CG Suburbs",
+      "source": "Frog Tony",
+      "importance": "secondary",
+      "mentions": 3,
+      "sentiment": {
+        "label": "positive",
+        "score": 0.782,
+        "positive_hits": 49,
+        "negative_hits": 6
+      },
+      "receipts": [
+        {
+          "timestamp": "12:00",
+          "excerpt": "n the chats lurking that so that's the new the new narrative and and then to further hammer home that new narrative hold on to further hammer home that new narrative they then also said that I didn't start talking about Eric July until Comics Gate was already sick of Eric [ __ ] that I only talked about Eric July to cozy up to Comics Gate which is 100% % factually untrue. Go back. I was here talking about Eric July, talking about Ism, talking ab"
+        }
+      ]
+    },
+    {
+      "video_id": "Uf6bzqxJAAk",
+      "title": "TRASHCAST #265: The Khola King & Ethan Van Sciver Exchange",
+      "source": "KatyDid",
+      "importance": "passing",
+      "mentions": 1,
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.222,
+        "positive_hits": 22,
+        "negative_hits": 14
+      },
+      "receipts": [
+        {
+          "timestamp": "12:01",
+          "excerpt": "stop doing that, stop striking channels, and we're okay. I'm not here to attack you. I'm not here to play clips that embarrass or humiliate you. I'm watching this clip now, even now, I'm watching this clip uh with what Eric July would call good faith. This is a good faith. I'm viewing the clip because I said some things yesterday. Liam is going to have a a chance to respond and we're not talking face to face anymore. Liam's blocked from this ch"
+        }
+      ]
+    },
+    {
+      "video_id": "X0hbv1uKEGA",
+      "title": "Becoming All Powerful & the Ultimate Underdog!",
+      "source": "KatyDid",
+      "importance": "passing",
+      "mentions": 1,
+      "sentiment": {
+        "label": "positive",
+        "score": 0.739,
+        "positive_hits": 40,
+        "negative_hits": 6
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "you know, hater brains that take that and go, \"This is a W W good W dopamine.\" And, you know, then think that you've got to win on me. You understand? Everyone else understands this is fucking normal adult life, right? Eric July content tried up. So, yeah, Liam's going to be the content now. Oh, fucking don't don't think that's happening. Reminds me this song. I can't load it, unfortunately. JJ seems honest, too. Problem is he's going to go alo"
+        }
+      ]
+    },
+    {
+      "video_id": "IGwEBXZDVt0",
+      "title": "The Biggest Problem in the Universe Comes to an END!",
+      "source": "KatyDid",
+      "importance": "major",
+      "mentions": 12,
+      "sentiment": {
+        "label": "positive",
+        "score": 0.839,
+        "positive_hits": 263,
+        "negative_hits": 23
+      },
+      "receipts": [
+        {
+          "timestamp": "12:02",
+          "excerpt": "have to be at odds with each other. I think we can just do a fun show.\" And people have been constantly needling this like drama. And at a certain point, it just became >> Wait, what do you mean needling the drama? Like Eric July? That's people loved the Eric July stuff. That was >> people going to you and going, \"Oh, Veto did this thing wrong. Veto said this, which is shitty.\" Just like trying to stir up this weird fucking animosity. >> People"
+        },
+        {
+          "timestamp": "24:00",
+          "excerpt": "guys are going like Veto is an absolute joke. He provides nothing. All of this is just comedy. >> When did I say that? I just funny. >> You're saying I'm Patrick Tomlinson. I'm Liam Gray. I'm I'm a what? I'm Boogie. >> Eric July. No, he didn't say Boogie. I I don't think that's that sphere really. Um the reference wouldn't make sense. Uh >> I don't understand. >> You don't think those guys are funny? I don't understand why me showing up every w"
+        },
+        {
+          "timestamp": "36:01",
+          "excerpt": "sting to see how little the second one makes? Like, do you understand why that's interesting to people? >> Dude, I cannot understand rooting for someone to fail who's just trying to make >> That's insane. You rooted for Eric July to fail for like two years. The best parts of the show. >> I did not root for Eric July fail. I very specifically said, dude, I very specifically said I got no problem with Eric making a comic. And if he was doing it in"
+        },
+        {
+          "timestamp": "48:00",
+          "excerpt": "at if we spent all our time obsessively telling the people who are making shit what fucking retards they are and how much they suck okay there's yeah there's room for criticism and I get that you you do it even the Eric Eric July stuff at some point started going to the point where I'm like, \"Okay, now we're getting pedantic. Now, now we're getting a little too retarded with the Eric July.\" Okay, so some of the >> Yeah, >> look, it's fun to get"
+        }
+      ]
+    },
+    {
+      "video_id": "ibGd2AqrEXg",
+      "title": "JON DEL ARROZ: HERES THE ATTENTION YOU ORDERED - SHANE DAVIS BACK ME BRO INTERNET BEEF - EXTRA SALTY",
+      "source": "Commi3 Mark",
+      "importance": "major",
+      "mentions": 12,
+      "sentiment": {
+        "label": "positive",
+        "score": 0.827,
+        "positive_hits": 296,
+        "negative_hits": 28
+      },
+      "receipts": [
+        {
+          "timestamp": "12:00",
+          "excerpt": "lking about JDA's in uh on my timeline this week like uh and I done a poll yesterday uh when I put up the link for the show and I did a poll saying what's people's preference to talk about Frog Tony's gang to talk about Eric July or talk about something else. So, it's your fault that we're covering JDA and it like people voted for something else. Like, that was the only other something else that I could think of. Um, [laughter] last week we had"
+        },
+        {
+          "timestamp": "01:12:03",
+          "excerpt": "er] and Dynamite Thor. >> Yep. And high school girl in the medieval times. Spectacular comics. Yeah, >> he did a reboot of Dynamite Thor as well at one point. All right, let's >> did their entire lives to just attacking Eric July over and over and over again. >> Entire lives. >> Well, this one came to me. >> Instead of spending your entire life attacking [clears throat] Eric July over and over again, what you should do is be alloies with Eric Ju"
+        },
+        {
+          "timestamp": "01:36:02",
+          "excerpt": "ike uh so there is the specific like allegation of >> uh faking numbers and it >> I thought those I thought the way that those websites like cuz he Shane has a Shopify website just like uh Michael Braftoft and just like Eric July or not Eric July, Eric Weathers and uh I've even made one for a couple comic book artists. Like, aren't those like, don't those numbers just you can't even control those because they're like backend Shopify aggregate nu"
+        },
+        {
+          "timestamp": "01:48:00",
+          "excerpt": "s or whatever >> but we did have this here. Now this is pretty interesting. Shane Davis is super mad at me for doubting the numbers on his website. Shane and the rest of the CG had no problem doubting the numbers on the Eric July campaign. Now, what's really really funny is when he talks, >> we never said anything about doubting Eric. >> I don't remember saying anything about the numbers on Eric July stuff. >> I thought it was always about the q"
+        }
+      ]
+    },
+    {
+      "video_id": "N52SC2cLnvY",
+      "title": "TRASHCAST # 267 BIGGEST PROBLEM was insane. Vito is a outta control. I pity him.",
+      "source": "Ethan Van Sciver",
+      "importance": "passing",
+      "mentions": 2,
+      "sentiment": {
+        "label": "positive",
+        "score": 0.781,
+        "positive_hits": 57,
+        "negative_hits": 7
+      },
+      "receipts": [
+        {
+          "timestamp": "00:01",
+          "excerpt": "ng Biggest Problem as long as Dick Masterson gets 25% of I guess whatever whatever the show earns uh in perpetuity because it's his brand like he veto was like what am I giving you money for? very similar uh reaction to Eric July's reaction. [clears throat] Hold on a second. When the ministry was like the international school of ministry uh said, \"Hey, you know, listen, you're using our brand like we own, you know, ISOM, ISO, we own that. Uh so,"
+        }
+      ]
+    },
+    {
+      "video_id": "MOQPFnHJYR0",
+      "title": "Cynic Got CATFISHED And EVS Continues To SPIRAL On Thirsty Thursday!",
+      "source": "Frog Tony",
+      "importance": "major",
+      "mentions": 33,
+      "sentiment": {
+        "label": "positive",
+        "score": 0.808,
+        "positive_hits": 113,
+        "negative_hits": 12
+      },
+      "receipts": [
+        {
+          "timestamp": "01:12:00",
+          "excerpt": "to reframe everything that we were the violent ones. >> Yeah. >> Yep. >> Um the Katie thing again because Synynic uh told Katie Ethan, do you want to know why Trashcast stopped happening? Because Katie stopped clipping Eric July. Why did Katie stop clipping Eric July? Oh, that's right. because Synynic convinced her that Air July was boring and that she should clip uh CG drama instead. CG drama is what's going to get you views, Katie. Right. >>"
+        },
+        {
+          "timestamp": "01:24:00",
+          "excerpt": "about Comics Gate or the history. How? Well, by you saying things that are clearly uh in opposite of the history of Comics Gate. >> How am I doing that? How am I doing that? Carbon >> trying to refute what I said about Eric July. >> Nobody gives a [ __ ] about Eric July anymore. NOBODY >> NOBODY GIVES A [ __ ] You know what's funny? Uh EBS just did a stream where he was talking about Eric July, right? [snorts] No one gives a [ __ ] about Eric J"
+        }
+      ]
+    },
+    {
+      "video_id": "FrQfU1Y84Nk",
+      "title": "DRAW-MUH STREAM! REIGNBOW THE BRUTE Death of Papa Smerc page 3 pt3",
+      "source": "Ethan Van Sciver",
+      "importance": "passing",
+      "mentions": 1,
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "positive_hits": 11,
+        "negative_hits": 0
+      },
+      "receipts": [
+        {
+          "timestamp": "02:24:05",
+          "excerpt": "in just what happens. A winner, baby. That's the truth. >> That's the truth. >> Everyone's a winner, baby. That's no lie. >> You never fail to satisfy. >> I never knew what this song was called. A serious man says, \"How Eric July first hit my algo.\" My coworker was the drummer in this band. They open for a guy who did a collab with backwards, which I found when I Googled him. Message to the masses Blood and Bones. Wow, that's a long way to findi"
+        }
+      ]
+    },
+    {
+      "video_id": "6GIxuFOICAI",
+      "title": "Catching Up With The Rippaverse! - Detractor Kings",
+      "source": "Frog Tony",
+      "importance": "major",
+      "mentions": 17,
+      "sentiment": {
+        "label": "positive",
+        "score": 0.882,
+        "positive_hits": 382,
+        "negative_hits": 24
+      },
+      "receipts": [
+        {
+          "timestamp": "12:03",
+          "excerpt": "Texas is able to do this [ __ ] but not it's not it's like that the rest of the country is still like you're you're bad Texas you got to listen to us I'm like why it's so weird like none of it makes sense of course it's Eric July writing or it's Chuck Dixon writing Eric July's silly nonsense right because he designed it >> right trying to make sense out of Eric's nonsense yeah I get it >> yeah the whole country being destroyed is such a tired tr"
+        },
+        {
+          "timestamp": "24:01",
+          "excerpt": "ecause this goes live July the 6th. You'll start to see um our entire back catalog appearing in the stores and so much you know I have to do as the owner of the company handling the editorial like I have now >> handling Eric July's handling the editorial. What happened to Carol Brown? I thought Carol Brown and um that other dude, the one that wrote the uh Speedster story. What the [ __ ] his name? Andrew. I thought Andrew was handling the the ed"
+        },
+        {
+          "timestamp": "48:00",
+          "excerpt": "g enough that the dollars make sense. Let's talk about econ. And that is a little bit of a throwback because there were many of you that had come to me for that material. And so that is differential. >> They all came to Eric July for his economical wisdoms. Come on. >> No, they didn't. They listened politely because they liked you. They didn't come to [laughter] you for that [ __ ] >> His business acumen. >> Yeah. Yeah. >> No, the the truth is a"
+        },
+        {
+          "timestamp": "01:24:01",
+          "excerpt": "ge Wolverine. Like, I was all over the place. So, hey, I gave something [ __ ] 10. Talent number 14. So, I did stuff and that was way back in the gap. That was like 2013, right? And then just because we're we're pausing Eric July real quick. I also want to show this. So, I found this. I stumbled upon this, right? This is a Neo Gaff uh thread. All right. from 2019. Now, this was taken from Reddit. Okay. Like my Reddit account is gone. All right."
+        },
+        {
+          "timestamp": "02:12:00",
+          "excerpt": "you know, I think that's also in part to, you know, the FFS crew over there sucking it all up with Liam. So, I don't know. Well, I think uh to be fair, I think that if Ethan wasn't covering Liam, if he was like covering Eric July or other things, there would be people super chatting him. I think him going, \"Oh, uh people want to [ __ ] on Liam and give give money. Let me cover Liam.\" And it's like, \"Oh, that that's already that niche has already"
+        }
+      ]
+    },
+    {
+      "video_id": "qLcrzaJJKiQ",
+      "title": "Supergirl BOMBED! - Comicsgate Suburbs",
+      "source": "Frog Tony",
+      "importance": "passing",
+      "mentions": 1,
+      "sentiment": {
+        "label": "positive",
+        "score": 0.692,
+        "positive_hits": 55,
+        "negative_hits": 10
+      },
+      "receipts": [
+        {
+          "timestamp": "02:00:01",
+          "excerpt": "ouldn't recognize them. What's up Ray? >> I said what's up Ray? You're in the middle of the show. >> Oh what you what what you talking about >> right now? I'm talking about the great war of separation number one and why Eric July's ripperverse comic was not good. >> Oh that that sounds fun. Yeah, it is. Leave leave a one in the chat if you care about Mexico, says Samogo. >> Wait, who's on the panel? >> Uh, me, George, Anttoy, Liam, and TJ. >> Wh"
+        }
+      ]
+    },
+    {
+      "video_id": "MBKTh4fSITU",
+      "title": "\"MINISTRY OF UNGENTLEMANLY TWEETS\" EXPOSES COMMI3 MARK - OH NO!",
+      "source": "Commi3 Mark",
+      "importance": "secondary",
+      "mentions": 2,
+      "sentiment": {
+        "label": "positive",
+        "score": 0.967,
+        "positive_hits": 120,
+        "negative_hits": 2
+      },
+      "receipts": [
+        {
+          "timestamp": "24:02",
+          "excerpt": "his is my playlist that's called less than three views away from a milestone. Um, [clears throat] this one is no longer like um on it, so we can remove that. Thanks for watching that. Uh, this is the this is my favorite Eric July thumbnail of all of them that I've ever [laughter] made. >> Uh, lie there with the hat. >> Sturgis crucified on bacon is such a good joke. if you go and watch the episode like uh so much context you need to get it but i"
+        },
+        {
+          "timestamp": "01:00:02",
+          "excerpt": "m, the analytics clearly show talk about an individual gets the best numbers and it like um that's obviously [snorts] apparent. Uh, so I was thinking who do we do it on? Like we've just done Frog Tony, Little Movie Pop, Eric July. Um, what's next? And um I got a notification that I've been added to a list um this list June 24th, 2026 by the Ministry of Ungentlemanly Tweets. So I click on the list, right? You can see it's got 31 members like and"
+        }
+      ]
+    },
+    {
+      "video_id": "SlodiZOj8bE",
+      "title": "FROG TONY'S FREEDOM FIGHTING FORCE | FBI Investigation DRAMA Escalates",
+      "source": "Commi3 Mark",
+      "importance": "secondary",
+      "mentions": 3,
+      "sentiment": {
+        "label": "positive",
+        "score": 0.923,
+        "positive_hits": 75,
+        "negative_hits": 3
+      },
+      "receipts": [
+        {
+          "timestamp": "48:00",
+          "excerpt": "allowed to say that stuff. They can't [clears throat] play with a fidget spinner. >> I know how the team game thing works. That's why I'm >> um because like your old boyfriend Dane or whatever. >> Yeah. Like he reported Eric July to Megaon for saying he would he didn't even say he was going to bring a gun. He said, \"Oh, I'll be wearing baggy.\" >> That was Dane that did that. >> You know what that means? Or something. >> Good job. Yeah, it was D"
+        }
+      ]
+    }
+  ],
+  "claims_by_or_about": [],
+  "story_matches": [],
+  "updated_at": "2026-07-15T21:04:41.850706+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "relationship_id": "friday-night-tights--nerdrotic",
+  "left": "Friday Night Tights",
+  "right": "Nerdrotic",
+  "signals": [
+    {
+      "video_id": "Uy8eHEmKNWY",
+      "episode_title": "Kino Casino: Nerdrotic Fires Chrissie Mayr from Friday Night Tights (Jul 10, 2026)",
+      "source": "Elissa Clips",
+      "left": "Friday Night Tights",
+      "right": "Nerdrotic",
+      "signal_type": "separation",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "So, Friday Night Tights today formally announced, and we'll go there in a minute, that they have fired Chrissy Mayor. If you click on that, if you click on that link I sent you, Andy, it should uh take us right there. By the way, THEY HAD SARG",
+      "warning": "co-mention plus language signal; requires interpretation"
+    }
+  ],
+  "updated_at": "2026-07-15T21:04:27.927943+00:00"
+}

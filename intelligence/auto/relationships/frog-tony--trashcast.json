@@ -1,0 +1,128 @@
+{
+  "relationship_id": "frog-tony--trashcast",
+  "left": "Frog Tony",
+  "right": "Trashcast",
+  "signals": [
+    {
+      "video_id": "zkW4zLSQ7eQ",
+      "episode_title": "You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto!",
+      "source": "Ethan Van Sciver",
+      "left": "Frog Tony",
+      "right": "Trashcast",
+      "signal_type": "defended",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": ">> [music] >> Welcome to 5XL FM where the trash flows. [music] >> There I am real small. Here I am real big. Ethan Van Skyver here. 5x LFM Philadelphia trash cast your show. You're the fan. You're the audience. You love this stuff. Can't get enough of it. And I'm here to serve it up. Nice big steaming plate of garbage for you tonight featuring some of your favorite characters. [music] >> Hello. Hi guys. [music] >> What is this? Hot Mike",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "zkW4zLSQ7eQ",
+      "episode_title": "You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto!",
+      "source": "Ethan Van Sciver",
+      "left": "Frog Tony",
+      "right": "Trashcast",
+      "signal_type": "criticised",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": ">> [music] >> Welcome to 5XL FM where the trash flows. [music] >> There I am real small. Here I am real big. Ethan Van Skyver here. 5x LFM Philadelphia trash cast your show. You're the fan. You're the audience. You love this stuff. Can't get enough of it. And I'm here to serve it up. Nice big steaming plate of garbage for you tonight featuring some of your favorite characters. [music] >> Hello. Hi guys. [music] >> What is this? Hot Mike",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "episode_title": "Gabbing With Ga......You Know",
+      "source": "FFS Cast",
+      "left": "Frog Tony",
+      "right": "Trashcast",
+      "signal_type": "friendship_claim",
+      "timestamp": "36:01",
+      "confidence": 0.45,
+      "receipt": "this, uh, author said, um, I [ __ ] hope not. [snorts] Yeah, >> of course, the the the speaker is a female, correct? The writer. >> Yes. Yeah, I'll give you that. The writer is a woman. Yeah. >> All right. So, I mean, that that makes it sound even more like it was Lean. >> That Well, that's just that that's what somebody was saying was like, I think Liam wrote this. And I was like, \"Yeah, but it it's it reads like a woman writes, right?",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "N52SC2cLnvY",
+      "episode_title": "TRASHCAST # 267 BIGGEST PROBLEM was insane. Vito is a outta control. I pity him.",
+      "source": "Ethan Van Sciver",
+      "left": "Frog Tony",
+      "right": "Trashcast",
+      "signal_type": "criticised",
+      "timestamp": "00:01",
+      "confidence": 0.45,
+      "receipt": "Welcome to 5XL FM where a trash flows. [music] [music] [music] Yo everybody, how are you? Ethan Van Skyber here on the Trash Cash Show. Late night tonight. Sorry about that. I was just stuck watching uh Dick Mastersonson and Veto [music] basically end they just ended their professional relationship on Biggest Problem in the Universe. And I I couldn't stop watching it, man. I was really into it. I thought it was cool. Uh good entertainme",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "N52SC2cLnvY",
+      "episode_title": "TRASHCAST # 267 BIGGEST PROBLEM was insane. Vito is a outta control. I pity him.",
+      "source": "Ethan Van Sciver",
+      "left": "Frog Tony",
+      "right": "Trashcast",
+      "signal_type": "criticised",
+      "timestamp": "12:00",
+      "confidence": 0.45,
+      "receipt": "ing today about the FBI coming to my house. Haven't heard from Little Movie Perp uh in a little while, but I remember like how people kind of reacted to that. Like I got I got some people that are in that crowd like the Frog Tony crowd. Those guys are really stupid. Like they're they're good at making fun of people, I guess. Um uh in some ways. Uh but uh they're really low IQ. And like those people are just like um what do you call the FBI over",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "MOQPFnHJYR0",
+      "episode_title": "Cynic Got CATFISHED And EVS Continues To SPIRAL On Thirsty Thursday!",
+      "source": "Frog Tony",
+      "left": "Frog Tony",
+      "right": "Trashcast",
+      "signal_type": "defended",
+      "timestamp": "36:00",
+      "confidence": 0.45,
+      "receipt": "space or even prox in close proximity to it and ever ever date anyone called Preston because I immediately think of Preston Palter and his wife and become uncomfortable immediately that's what goes to my mind so like how do you >> doesn't know any better you know >> maybe that's what it I I I mean when when I encountered Preston, I immediately thought it was a was a man because of the name, right? And then >> last night, man. >> And the",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "MOQPFnHJYR0",
+      "episode_title": "Cynic Got CATFISHED And EVS Continues To SPIRAL On Thirsty Thursday!",
+      "source": "Frog Tony",
+      "left": "Frog Tony",
+      "right": "Trashcast",
+      "signal_type": "criticised",
+      "timestamp": "36:00",
+      "confidence": 0.45,
+      "receipt": "space or even prox in close proximity to it and ever ever date anyone called Preston because I immediately think of Preston Palter and his wife and become uncomfortable immediately that's what goes to my mind so like how do you >> doesn't know any better you know >> maybe that's what it I I I mean when when I encountered Preston, I immediately thought it was a was a man because of the name, right? And then >> last night, man. >> And the",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "MOQPFnHJYR0",
+      "episode_title": "Cynic Got CATFISHED And EVS Continues To SPIRAL On Thirsty Thursday!",
+      "source": "Frog Tony",
+      "left": "Frog Tony",
+      "right": "Trashcast",
+      "signal_type": "friendship_claim",
+      "timestamp": "36:00",
+      "confidence": 0.45,
+      "receipt": "space or even prox in close proximity to it and ever ever date anyone called Preston because I immediately think of Preston Palter and his wife and become uncomfortable immediately that's what goes to my mind so like how do you >> doesn't know any better you know >> maybe that's what it I I I mean when when I encountered Preston, I immediately thought it was a was a man because of the name, right? And then >> last night, man. >> And the",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "SlodiZOj8bE",
+      "episode_title": "FROG TONY'S FREEDOM FIGHTING FORCE | FBI Investigation DRAMA Escalates",
+      "source": "Commi3 Mark",
+      "left": "Frog Tony",
+      "right": "Trashcast",
+      "signal_type": "promoted",
+      "timestamp": "36:02",
+      "confidence": 0.45,
+      "receipt": "is just for my own ego like to see everyone talking about the thing that we're on. It's not even about us. Like um >> but you know, I'm going to try and force it. So, here we go. >> Um I still don't even really know who Frog Tony is. Like I mean I know who he is, but like I I care so little about him that like he hasn't like his voice and like who he is as a person really hasn't imprinted on me like at all. He sounds like Kermit the Frog. >> Yea",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "SlodiZOj8bE",
+      "episode_title": "FROG TONY'S FREEDOM FIGHTING FORCE | FBI Investigation DRAMA Escalates",
+      "source": "Commi3 Mark",
+      "left": "Frog Tony",
+      "right": "Trashcast",
+      "signal_type": "friendship_claim",
+      "timestamp": "36:02",
+      "confidence": 0.45,
+      "receipt": "is just for my own ego like to see everyone talking about the thing that we're on. It's not even about us. Like um >> but you know, I'm going to try and force it. So, here we go. >> Um I still don't even really know who Frog Tony is. Like I mean I know who he is, but like I I care so little about him that like he hasn't like his voice and like who he is as a person really hasn't imprinted on me like at all. He sounds like Kermit the Frog. >> Yea",
+      "warning": "co-mention plus language signal; requires interpretation"
+    }
+  ],
+  "updated_at": "2026-07-15T21:04:42.059942+00:00"
+}

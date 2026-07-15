@@ -1,0 +1,40 @@
+{
+  "schema_version": "octopuss-auto-event-v0.1",
+  "event_id": "dcgJdp8BRKs",
+  "title": "Professional Streamer TheQuartering - Gooners Gonna Goon (Jul 14, 2026)",
+  "source": "Elissa Clips",
+  "published": "2026-07-14T22:21:40+00:00",
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "11:28",
+      "title": "TheQuartering",
+      "entities": [
+        "TheQuartering"
+      ],
+      "summary_seed": "out of my country. [music] >> Hey, happy [screaming] >> happy Tuesday everybody. How's your Tuesday going? >> Good. It's going great. Happy to report, you heard it here first, guys. Walmart is not racist anymore. >> It's true. It's It's the end of an era. I think I just been mixing it up a little bit on the on the on the opener just because, you know, I'd like a new countdown eventually here once we get time. But, >>",
+      "clip_likelihood": false,
+      "transition_markers": 2
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "TheQuartering",
+      "importance": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.893,
+        "positive_hits": 53,
+        "negative_hits": 3
+      }
+    }
+  ],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

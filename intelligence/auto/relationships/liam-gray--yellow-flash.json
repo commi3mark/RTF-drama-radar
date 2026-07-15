@@ -1,0 +1,80 @@
+{
+  "relationship_id": "liam-gray--yellow-flash",
+  "left": "Liam Gray",
+  "right": "Yellow Flash",
+  "signals": [
+    {
+      "video_id": "Uf6bzqxJAAk",
+      "episode_title": "TRASHCAST #265: The Khola King & Ethan Van Sciver Exchange",
+      "source": "KatyDid",
+      "left": "Liam Gray",
+      "right": "Yellow Flash",
+      "signal_type": "defended",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "Okay, so we're that were made. That are fundamentally misguided and dishonest. And there's also a little part so I haven't seen the whole thing but there was a little part I saw where he said I don't want to start problems or anything like that and in the spirit of that I'm going and I know that everyone's going to yell at me Liam don't be merciful you got to go hard I'm going to try and be nice. Okay. >> Liam, you don't have to be merc",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "Uf6bzqxJAAk",
+      "episode_title": "TRASHCAST #265: The Khola King & Ethan Van Sciver Exchange",
+      "source": "KatyDid",
+      "left": "Liam Gray",
+      "right": "Yellow Flash",
+      "signal_type": "criticised",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "Okay, so we're that were made. That are fundamentally misguided and dishonest. And there's also a little part so I haven't seen the whole thing but there was a little part I saw where he said I don't want to start problems or anything like that and in the spirit of that I'm going and I know that everyone's going to yell at me Liam don't be merciful you got to go hard I'm going to try and be nice. Okay. >> Liam, you don't have to be merc",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "Uf6bzqxJAAk",
+      "episode_title": "TRASHCAST #265: The Khola King & Ethan Van Sciver Exchange",
+      "source": "KatyDid",
+      "left": "Liam Gray",
+      "right": "Yellow Flash",
+      "signal_type": "legal_conflict",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "Okay, so we're that were made. That are fundamentally misguided and dishonest. And there's also a little part so I haven't seen the whole thing but there was a little part I saw where he said I don't want to start problems or anything like that and in the spirit of that I'm going and I know that everyone's going to yell at me Liam don't be merciful you got to go hard I'm going to try and be nice. Okay. >> Liam, you don't have to be merc",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "edPpkg2kim4",
+      "episode_title": "\"I REPORTED THE DROPBOX!\" Liam Gray Responds to EVS Reacting To A Viral Clip",
+      "source": "KatyDid",
+      "left": "Liam Gray",
+      "right": "Yellow Flash",
+      "signal_type": "friendship_claim",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "we go. Are you guys ready for this? >> Yeah. It happened a few days ago and um I haven't had work since. I haven't done anything extra. I've got a fair few of my files backed up and not all of them. >> Uh yeah, this is Liam Gray. This is my version of Liam Gray's clip. I'm transforming it with my voice. >> I mean, it had up to the >> I'm making it my own. This is my version of this clip. You can't get it anywhere else. This is free. >> And agai",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "FrQfU1Y84Nk",
+      "episode_title": "DRAW-MUH STREAM! REIGNBOW THE BRUTE Death of Papa Smerc page 3 pt3",
+      "source": "Ethan Van Sciver",
+      "left": "Liam Gray",
+      "right": "Yellow Flash",
+      "signal_type": "criticised",
+      "timestamp": "48:01",
+      "confidence": 0.45,
+      "receipt": "cares. It's like it's not like uh oh no, you know, I've been in last place before. I've been in first place before. I've been in the middle most of the time. Um and it's not a big deal. We don't hate each other. You know, we're just kind of [ __ ] around. >> But John wants clearly defined rules and he wants everybody to play by them. Understood. I get it. and he says since like those rules aren't being followed, he won't he won't come o",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "FrQfU1Y84Nk",
+      "episode_title": "DRAW-MUH STREAM! REIGNBOW THE BRUTE Death of Papa Smerc page 3 pt3",
+      "source": "Ethan Van Sciver",
+      "left": "Liam Gray",
+      "right": "Yellow Flash",
+      "signal_type": "friendship_claim",
+      "timestamp": "48:01",
+      "confidence": 0.45,
+      "receipt": "cares. It's like it's not like uh oh no, you know, I've been in last place before. I've been in first place before. I've been in the middle most of the time. Um and it's not a big deal. We don't hate each other. You know, we're just kind of [ __ ] around. >> But John wants clearly defined rules and he wants everybody to play by them. Understood. I get it. and he says since like those rules aren't being followed, he won't he won't come o",
+      "warning": "co-mention plus language signal; requires interpretation"
+    }
+  ],
+  "updated_at": "2026-07-15T21:04:39.907985+00:00"
+}

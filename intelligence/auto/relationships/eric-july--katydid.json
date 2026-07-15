@@ -1,0 +1,56 @@
+{
+  "relationship_id": "eric-july--katydid",
+  "left": "Eric July",
+  "right": "KatyDid",
+  "signals": [
+    {
+      "video_id": "7LMz5W0-mLs",
+      "episode_title": "Finbarr STOMPS A Dwarf! - OPEN PANEL MADHOUSE!!!!",
+      "source": "Frog Tony",
+      "left": "Eric July",
+      "right": "KatyDid",
+      "signal_type": "criticised",
+      "timestamp": "01:12:00",
+      "confidence": 0.45,
+      "receipt": "ght? >> Just clean up your act. That's it. >> But they don't. >> People are like, \"Oh, but Tony, you could get struck for X, Y, and Z.\" I go, \"Yeah, I know. I don't care.\" Right? Like I did it if I get struck. If [ __ ] Eric July said, \"Hey, Tony, [ __ ] striking you for [ __ ] efabing me all the time, right? For harassing me.\" I'd be like, \"Yeah, you're probably right.\" Like, like this is the same conversation I literally had with the HR people",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "7LMz5W0-mLs",
+      "episode_title": "Finbarr STOMPS A Dwarf! - OPEN PANEL MADHOUSE!!!!",
+      "source": "Frog Tony",
+      "left": "Eric July",
+      "right": "KatyDid",
+      "signal_type": "legal_conflict",
+      "timestamp": "01:12:00",
+      "confidence": 0.45,
+      "receipt": "ght? >> Just clean up your act. That's it. >> But they don't. >> People are like, \"Oh, but Tony, you could get struck for X, Y, and Z.\" I go, \"Yeah, I know. I don't care.\" Right? Like I did it if I get struck. If [ __ ] Eric July said, \"Hey, Tony, [ __ ] striking you for [ __ ] efabing me all the time, right? For harassing me.\" I'd be like, \"Yeah, you're probably right.\" Like, like this is the same conversation I literally had with the HR people",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "MBKTh4fSITU",
+      "episode_title": "\"MINISTRY OF UNGENTLEMANLY TWEETS\" EXPOSES COMMI3 MARK - OH NO!",
+      "source": "Commi3 Mark",
+      "left": "Eric July",
+      "right": "KatyDid",
+      "signal_type": "promoted",
+      "timestamp": "01:00:02",
+      "confidence": 0.45,
+      "receipt": "m, the analytics clearly show talk about an individual gets the best numbers and it like um that's obviously [snorts] apparent. Uh, so I was thinking who do we do it on? Like we've just done Frog Tony, Little Movie Pop, Eric July. Um, what's next? And um I got a notification that I've been added to a list um this list June 24th, 2026 by the Ministry of Ungentlemanly Tweets. So I click on the list, right? You can see it's got 31 members like and",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "MBKTh4fSITU",
+      "episode_title": "\"MINISTRY OF UNGENTLEMANLY TWEETS\" EXPOSES COMMI3 MARK - OH NO!",
+      "source": "Commi3 Mark",
+      "left": "Eric July",
+      "right": "KatyDid",
+      "signal_type": "friendship_claim",
+      "timestamp": "01:00:02",
+      "confidence": 0.45,
+      "receipt": "m, the analytics clearly show talk about an individual gets the best numbers and it like um that's obviously [snorts] apparent. Uh, so I was thinking who do we do it on? Like we've just done Frog Tony, Little Movie Pop, Eric July. Um, what's next? And um I got a notification that I've been added to a list um this list June 24th, 2026 by the Ministry of Ungentlemanly Tweets. So I click on the list, right? You can see it's got 31 members like and",
+      "warning": "co-mention plus language signal; requires interpretation"
+    }
+  ],
+  "updated_at": "2026-07-15T21:04:41.755463+00:00"
+}

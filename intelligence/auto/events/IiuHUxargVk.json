@@ -1,0 +1,62 @@
+{
+  "schema_version": "octopuss-auto-event-v0.1",
+  "event_id": "IiuHUxargVk",
+  "title": "Daddy Daughter Day (CG lies to you and why I am right)",
+  "source": "Liam Gray",
+  "published": "2026-07-15T02:57:09+00:00",
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "07:20",
+      "title": "Ethan Van Sciver / Liam Gray / Cyberfrog",
+      "entities": [
+        "Ethan Van Sciver",
+        "Liam Gray",
+        "Cyberfrog"
+      ],
+      "summary_seed": "Yeah. Uh, my daughter's just doing her thing. Uh Basically, the house is like 2/3 packed up. And uh we're just getting out and going to the park one last time. But I got messaged uh just now on my Facebook uh and a little bit earlier as well by a couple of uh viewers and stuff from uh from CG who told me that uh Ethan Van Sciver, Creative Sciver from, has been uh basically uh lying to you about like what's going on.",
+      "clip_likelihood": false,
+      "transition_markers": 2
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Ethan Van Sciver",
+      "importance": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.769,
+        "positive_hits": 23,
+        "negative_hits": 3
+      }
+    },
+    {
+      "entity": "Liam Gray",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.769,
+        "positive_hits": 23,
+        "negative_hits": 3
+      }
+    },
+    {
+      "entity": "Cyberfrog",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.769,
+        "positive_hits": 23,
+        "negative_hits": 3
+      }
+    }
+  ],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

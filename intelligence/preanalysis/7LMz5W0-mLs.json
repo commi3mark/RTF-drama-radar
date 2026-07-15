@@ -1,0 +1,1247 @@
+{
+  "schema_version": "octopuss-preanalysis-v0.1",
+  "generated_at": "2026-07-15T21:04:21.257711+00:00",
+  "video_id": "7LMz5W0-mLs",
+  "title": "Finbarr STOMPS A Dwarf! - OPEN PANEL MADHOUSE!!!!",
+  "source": "Frog Tony",
+  "published": "2026-07-08T05:22:18+00:00",
+  "packet_hash": "60ca89425729792e55f8246807094bb80e2fee349484c777e442a39ec0311151",
+  "coverage": {
+    "first_caption_second": 0.0,
+    "last_caption_second": 13309.04,
+    "timestamp_start": "00:00",
+    "timestamp_end": "03:41:49",
+    "caption_span_seconds": 13309.04,
+    "status": "transcript_present",
+    "note": "This measures the caption span only. It does not prove complete coverage of the original video."
+  },
+  "participant_candidates": [
+    {
+      "entity": "Frog Tony",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.72,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Liam Gray",
+      "mentions": 169,
+      "block_count": 3,
+      "first_timestamp": "00:00",
+      "last_timestamp": "36:02",
+      "discussion_span_seconds": 2162.2,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.628,
+        "positive_hits": 153,
+        "negative_hits": 35
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "He's going to bring you SOMETHING FUN. >> CATCH THOSE FROGGERS. CATCH THOSE MOTHERFERS. [screaming] NAH, WE'RE ALREADY GONE. LITTLE MOVIE PURP AND THE CREW JUST CROSSED THE COUNTY LINE. A,000 miles AND [music] RUNNING. THE FROGGERS GOT THE WHOLE TOWN BUZZING. THEY CRIED OVER JOKES. NOW they're fussing. [music] 1,000 miles and running. 1,000 miles and running. >> HER CLUTCH PATROL KEEPS BLUFFING. FREAK [music] OUT RAGE. Crocodile sufferi"
+        },
+        {
+          "timestamp": "12:00",
+          "excerpt": ">> Well, when you get out of it, you become an officer. So like Santo does in the UK, >> you know, boom, you're off. >> It says more about them than us where they have to assume everybody's lying about all of their achievements, don't you think? >> But I've never made a claim of an achievement straight. This is what I'm trying to >> No, but that's an achievement to them. You being in the army is an achievement. Like their lives are so b"
+        },
+        {
+          "timestamp": "24:01",
+          "excerpt": "hasn't seen an air nomad in over a hundred years. Like, it's the first time he's seen an air nomad. They're extinct.\" So, of course, he was going to hug one cuz he hasn't seen an air nomad in a long time. And the freaking lady even says it after he hugs her. She says, \"It must have been a long, you know, you haven't seen an air nomad a hundred years.\" And I'm like, \"How are people this ignorant to this stupid stuff?\" Like, are we seriou"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Frog Tony",
+      "mentions": 115,
+      "block_count": 2,
+      "first_timestamp": "00:00",
+      "last_timestamp": "24:03",
+      "discussion_span_seconds": 1443.3,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.487,
+        "positive_hits": 84,
+        "negative_hits": 29
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "es while Veto says jokes are funny and the whole room smokes, thousand miles [music] and running. THE FROG HAS GOT THE WHOLE TOWN BUZZING. THEY CRIED OVER JOKES. Now they're fussing. A thousand miles and running. >> I'M FROG TONY. [music] LET me tell you who I be. Drink tequila with an apple sitting next to me. Working in the garbage [music] factory all day long IN COMICS AND VIDEO GAMES TILL THE BREAK OF DAWN. Senate keep barking. ANGRY LITTLE"
+        },
+        {
+          "timestamp": "12:00",
+          "excerpt": ">> Well, when you get out of it, you become an officer. So like Santo does in the UK, >> you know, boom, you're off. >> It says more about them than us where they have to assume everybody's lying about all of their achievements, don't you think? >> But I've never made a claim of an achievement straight. This is what I'm trying to >> No, but that's an achievement to them. You being in the army is an achievement. Like their lives are so b"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "DarkGift Comics",
+      "mentions": 11,
+      "block_count": 5,
+      "first_timestamp": "00:00",
+      "last_timestamp": "03:36:02",
+      "discussion_span_seconds": 12962.7,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.733,
+        "positive_hits": 266,
+        "negative_hits": 41
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "He's going to bring you SOMETHING FUN. >> CATCH THOSE FROGGERS. CATCH THOSE MOTHERFERS. [screaming] NAH, WE'RE ALREADY GONE. LITTLE MOVIE PURP AND THE CREW JUST CROSSED THE COUNTY LINE. A,000 miles AND [music] RUNNING. THE FROGGERS GOT THE WHOLE TOWN BUZZING. THEY CRIED OVER JOKES. NOW they're fussing. [music] 1,000 miles and running. 1,000 miles and running. >> HER CLUTCH PATROL KEEPS BLUFFING. FREAK [music] OUT RAGE. Crocodile sufferi"
+        },
+        {
+          "timestamp": "01:36:00",
+          "excerpt": "Twitter and was like, \"Oh, what's Mandy tweeting? Let let me see what Mandy's tweeting.\" >> Yeah. >> As you do, right? Let me check on the check. No, day before yesterday was Yeah, day before yesterday got sent a clip of uh DG doing a stream like it's getting concerning. And Fimbar man in the last like week or so I've done nothing but just go to the cop shop. >> Wait, wait, wait, wait. >> I'm sorry. Did he say he got sent a clip of a a"
+        },
+        {
+          "timestamp": "02:12:03",
+          "excerpt": "I guess what I'm about to do to you. >> It's horrible. since Red's here, right? Well, Red's there in the chat. So, when the the quote unquote Larry docks happened, it was not long after that, I think Red had confirmed that was the guy's name, right? >> Yeah. >> So, we had it confirmed from two different places. I've had it also confirmed from a third place now that that's his name. Uh, >> Finnbar, I got to ask you. >> Yes. >> Is it true"
+        },
+        {
+          "timestamp": "02:36:00",
+          "excerpt": ">> I swear to God, I am [ __ ] talking, sir. I don't give a [ __ ] what he does, what he says, what he streams, what he makes. No one's [ __ ] checking his money. No one is [ __ ] clocking anything he does. However, we know for a fact that he is clocking everything we [ __ ] do. He's been caught watching us in [ __ ] Discords with a group of people, right? Uh he's 100% been confirmed to be [clears throat] a dwarf. He told Mike Wheeler i"
+        },
+        {
+          "timestamp": "03:24:01",
+          "excerpt": "he can't afford a plane ticket. I don't think that those words ever escaped Liam's mouth. Right. These people don't understand. Like when you when you have a family and you go, I could afford a plane ticket to go to America, but I don't want to spend that money because I have a family. Right? Like I could afford to take my entire family to America and spend thousands of dollars to go to for the fans fest. >> It was worth it, right? >> Y"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Dropbox Drama",
+      "mentions": 7,
+      "block_count": 2,
+      "first_timestamp": "01:36:00",
+      "last_timestamp": "03:12:05",
+      "discussion_span_seconds": 5764.6,
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.851,
+        "positive_hits": 112,
+        "negative_hits": 9
+      },
+      "receipts": [
+        {
+          "timestamp": "01:36:00",
+          "excerpt": "Twitter and was like, \"Oh, what's Mandy tweeting? Let let me see what Mandy's tweeting.\" >> Yeah. >> As you do, right? Let me check on the check. No, day before yesterday was Yeah, day before yesterday got sent a clip of uh DG doing a stream like it's getting concerning. And Fimbar man in the last like week or so I've done nothing but just go to the cop shop. >> Wait, wait, wait, wait. >> I'm sorry. Did he say he got sent a clip of a a"
+        },
+        {
+          "timestamp": "03:00:00",
+          "excerpt": "like, oh, you connect that to his stomach is upset because of the stress of you guys [ __ ] with him, right? Then then they would like but you're just completely just making something up like I I want to be able to poop again. Like did Liam say anything about pooping? About not being able to poop? Pooping too much? >> Yeah. I don't think he mentioned being constipated. >> I don't remember that. >> That's what I'm saying. Like like it's"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Dick Masterson",
+      "mentions": 5,
+      "block_count": 2,
+      "first_timestamp": "01:12:00",
+      "last_timestamp": "03:00:01",
+      "discussion_span_seconds": 6481.6,
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.712,
+        "positive_hits": 202,
+        "negative_hits": 34
+      },
+      "receipts": [
+        {
+          "timestamp": "01:12:00",
+          "excerpt": ">> Yeah. I got no idea. [laughter] >> Yeah. >> I'm so lost in the drug. Oh, >> dude. A normal amount is like 20 milligrams. Okay. So, I was doing 10 times the normal amount. That is a one. Rev was eating good. >> Yeah. But anyway, >> Angela Smokey, that's a lot. >> Anyway, I think we've uh we're getting way off. >> Way to eat. >> Yeah. Tooth. >> Tooth. Tooth. >> Real quick. Right. Imagine the um >> It's never real quick with you, Stray."
+        },
+        {
+          "timestamp": "02:48:01",
+          "excerpt": "what's going on. Uh the whole printing it at home thing is complete fabrication and lies. And uh thank you for everyone's support. Peace and love. Thanks for coming in, Liam. >> All right, before you leave, >> yeah, >> the the the clip because every everyone was [ __ ] arguing over this. The clip that you were sent, was it from a current stream or was it from a six-month old stream? >> I don't think it >> I have no idea. I honestly have"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Stray Beans",
+      "mentions": 5,
+      "block_count": 4,
+      "first_timestamp": "12:00",
+      "last_timestamp": "03:41:49",
+      "discussion_span_seconds": 12588.1,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.83,
+        "positive_hits": 215,
+        "negative_hits": 20
+      },
+      "receipts": [
+        {
+          "timestamp": "12:00",
+          "excerpt": ">> Well, when you get out of it, you become an officer. So like Santo does in the UK, >> you know, boom, you're off. >> It says more about them than us where they have to assume everybody's lying about all of their achievements, don't you think? >> But I've never made a claim of an achievement straight. This is what I'm trying to >> No, but that's an achievement to them. You being in the army is an achievement. Like their lives are so b"
+        },
+        {
+          "timestamp": "24:01",
+          "excerpt": "as what Knife School been popped for. No, no, Finnbar, you didn't because what you posted had absolutely no identifying information at all. It was completely >> I was going to get to that. Yes. >> Yeah. >> So, thanks to Stray Beans, he edited out all the the personal info. So, so Knife School had posted something pretty [ __ ] doxy, right? He doesn't give a [ __ ] >> Stray took it and then made a traumatic reading of it and took all the personal i"
+        },
+        {
+          "timestamp": "01:24:00",
+          "excerpt": "t. Yeah, but like these guys when just the mere utterance of the word dwarf gives these people a heart attack, not the dwarf. >> These people very [ __ ] cynic apologized to Matt Bar. Hold on. >> Uh Matt Bar says, \"What Stray Beans needs is a new mic. Dude streams with soap can and some string.\" Cynic says, \"This dude beans is an insane person. People are going to be pissed, but I apologize. Has I ever called you crazy after dealing with these clo"
+        },
+        {
+          "timestamp": "03:36:00",
+          "excerpt": ">> nice hats. >> This is Bigfoot. This is a baby Bigfoot that Liam has blocked out so you guys don't realize he's a Bigfoot hunter, right? >> Oh, yeah. >> Hey, wait. Same height. >> Oh, I thought that was Armis that killed Tashi. Okay. >> I think that's a black Grimace. You know, it's like a baby black grimace. Well, we know why we know why his name is Grimace. He's shaped like a butt plug. [laughter] >> Yo, >> uh that's me uh with the"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Ethan Van Sciver",
+      "mentions": 4,
+      "block_count": 4,
+      "first_timestamp": "00:00",
+      "last_timestamp": "03:36:02",
+      "discussion_span_seconds": 12962.7,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.751,
+        "positive_hits": 232,
+        "negative_hits": 33
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "He's going to bring you SOMETHING FUN. >> CATCH THOSE FROGGERS. CATCH THOSE MOTHERFERS. [screaming] NAH, WE'RE ALREADY GONE. LITTLE MOVIE PURP AND THE CREW JUST CROSSED THE COUNTY LINE. A,000 miles AND [music] RUNNING. THE FROGGERS GOT THE WHOLE TOWN BUZZING. THEY CRIED OVER JOKES. NOW they're fussing. [music] 1,000 miles and running. 1,000 miles and running. >> HER CLUTCH PATROL KEEPS BLUFFING. FREAK [music] OUT RAGE. Crocodile sufferi"
+        },
+        {
+          "timestamp": "36:00",
+          "excerpt": "said. Guy who likes >> Let's not downplay his nonsense. You people are trying to make him sound cool. This is a >> No, I'm just saying that's what I said. I didn't say he was sing. [laughter] I thought he was attempting to >> I don't really guy. He did say the word simp. Just saying. >> Anyway, black is based on ridicule, you know. >> Okay, REAL REAL QUICK. OKAY, EVERYBODY. ANYWAY, >> let talking about Summer Swan, right? I was in FFS c"
+        },
+        {
+          "timestamp": "03:00:00",
+          "excerpt": "like, oh, you connect that to his stomach is upset because of the stress of you guys [ __ ] with him, right? Then then they would like but you're just completely just making something up like I I want to be able to poop again. Like did Liam say anything about pooping? About not being able to poop? Pooping too much? >> Yeah. I don't think he mentioned being constipated. >> I don't remember that. >> That's what I'm saying. Like like it's"
+        },
+        {
+          "timestamp": "03:24:01",
+          "excerpt": "he can't afford a plane ticket. I don't think that those words ever escaped Liam's mouth. Right. These people don't understand. Like when you when you have a family and you go, I could afford a plane ticket to go to America, but I don't want to spend that money because I have a family. Right? Like I could afford to take my entire family to America and spend thousands of dollars to go to for the fans fest. >> It was worth it, right? >> Y"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Eric July",
+      "mentions": 3,
+      "block_count": 3,
+      "first_timestamp": "48:00",
+      "last_timestamp": "03:00:01",
+      "discussion_span_seconds": 7921.4,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.735,
+        "positive_hits": 255,
+        "negative_hits": 39
+      },
+      "receipts": [
+        {
+          "timestamp": "48:00",
+          "excerpt": "cause he was quite good at it. We thought he was at the time. >> Yeah. Plus, I >> obviously didn't want to do it. He didn't really want to do it. So, >> hold on. I didn't want to do drama. I felt like doing uh attacking Eric July while we had a comic book out because we were supposed to get this out way earlier than we did. >> And so the idea was like I didn't want to, you know, promote my comic while [ __ ] on someone else's. So I was like, I'l"
+        },
+        {
+          "timestamp": "01:12:00",
+          "excerpt": "ght? >> Just clean up your act. That's it. >> But they don't. >> People are like, \"Oh, but Tony, you could get struck for X, Y, and Z.\" I go, \"Yeah, I know. I don't care.\" Right? Like I did it if I get struck. If [ __ ] Eric July said, \"Hey, Tony, [ __ ] striking you for [ __ ] efabing me all the time, right? For harassing me.\" I'd be like, \"Yeah, you're probably right.\" Like, like this is the same conversation I literally had with the HR people"
+        },
+        {
+          "timestamp": "02:48:01",
+          "excerpt": "ing it right now. You're like efapping him right now to [ __ ] with him and you're like he's complaining about me doing the thing that I'm literally doing right now. It's like are you [ __ ] Like again, when it comes to Eric July, like if you go, \"Yeah, you you probably harassed him.\" Like if he if Eric said, \"Hey, I feel like you harassed me.\" I'd like, \"Yeah, you're probably right. I said I said a lot of horrible [ __ ] about you and your comi"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Fencegate",
+      "mentions": 3,
+      "block_count": 1,
+      "first_timestamp": "03:24:01",
+      "last_timestamp": "03:36:02",
+      "discussion_span_seconds": 721.0,
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.916,
+        "positive_hits": 91,
+        "negative_hits": 4
+      },
+      "receipts": [
+        {
+          "timestamp": "03:24:01",
+          "excerpt": "he can't afford a plane ticket. I don't think that those words ever escaped Liam's mouth. Right. These people don't understand. Like when you when you have a family and you go, I could afford a plane ticket to go to America, but I don't want to spend that money because I have a family. Right? Like I could afford to take my entire family to America and spend thousands of dollars to go to for the fans fest. >> It was worth it, right? >> Y"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "KatyDid",
+      "mentions": 3,
+      "block_count": 2,
+      "first_timestamp": "00:00",
+      "last_timestamp": "01:24:03",
+      "discussion_span_seconds": 5043.1,
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.502,
+        "positive_hits": 151,
+        "negative_hits": 50
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "He's going to bring you SOMETHING FUN. >> CATCH THOSE FROGGERS. CATCH THOSE MOTHERFERS. [screaming] NAH, WE'RE ALREADY GONE. LITTLE MOVIE PURP AND THE CREW JUST CROSSED THE COUNTY LINE. A,000 miles AND [music] RUNNING. THE FROGGERS GOT THE WHOLE TOWN BUZZING. THEY CRIED OVER JOKES. NOW they're fussing. [music] 1,000 miles and running. 1,000 miles and running. >> HER CLUTCH PATROL KEEPS BLUFFING. FREAK [music] OUT RAGE. Crocodile sufferi"
+        },
+        {
+          "timestamp": "01:12:00",
+          "excerpt": ">> Yeah. I got no idea. [laughter] >> Yeah. >> I'm so lost in the drug. Oh, >> dude. A normal amount is like 20 milligrams. Okay. So, I was doing 10 times the normal amount. That is a one. Rev was eating good. >> Yeah. But anyway, >> Angela Smokey, that's a lot. >> Anyway, I think we've uh we're getting way off. >> Way to eat. >> Yeah. Tooth. >> Tooth. Tooth. >> Real quick. Right. Imagine the um >> It's never real quick with you, Stray."
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Sturgis",
+      "mentions": 2,
+      "block_count": 1,
+      "first_timestamp": "02:00:02",
+      "last_timestamp": "02:12:07",
+      "discussion_span_seconds": 725.6,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.857,
+        "positive_hits": 39,
+        "negative_hits": 3
+      },
+      "receipts": [
+        {
+          "timestamp": "02:00:02",
+          "excerpt": "He's a cartoon character, man. He really is. >> You can't. >> He's a living me. >> You can't take him serious because he's so [ __ ] idiot. >> [ __ ] carton. He's caught, but >> like making fun of him is way better than Sturgis. Like Sturgis is, you know, he's calmed down. He's he's chilling. He's chilling in Japan. This guy on the other hand, he's like a few months ago. >> Disappear. >> He's having his best life. Stardust. >> His best life is"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Shane Davis",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "01:24:00",
+      "last_timestamp": "01:36:02",
+      "discussion_span_seconds": 721.7,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.924,
+        "positive_hits": 76,
+        "negative_hits": 3
+      },
+      "receipts": [
+        {
+          "timestamp": "01:24:00",
+          "excerpt": "take text out of it. it was flagged manually by somebody. And what Sonic says, and I don't know if he's already said it or he says it later, is that uh somebody's somebody's reviewed it already or something along them lines. No, they haven't. When you flag it, it gets taken down immediately and your account is locked. >> Yeah. >> Then you have a choice to take the tweet down, the one that's offending whoever it is that's popped it. You'"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Yellow Flash",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "48:00",
+      "last_timestamp": "01:00:01",
+      "discussion_span_seconds": 720.7,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.828,
+        "positive_hits": 53,
+        "negative_hits": 5
+      },
+      "receipts": [
+        {
+          "timestamp": "48:00",
+          "excerpt": "and uh I was I didn't I wasn't trying to be funny when I said the 40% of all profit stuff as well. I said that because that's what um Dard is that his name the artist. >> Yeah, Dylard. >> That's what he was getting from Yellow Flash. So, I thought it would be quite a funny number and everybody ran with that like I was getting 40% of all proceeds from this channel and nobody thought about but that's what Dillard was getting from from Yellow Flash as"
+        }
+      ],
+      "appearance_status": "uncertain"
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "12:02",
+      "title": "Clip/reaction: Frog Tony / DarkGift Comics / KatyDid",
+      "entities": [
+        "Frog Tony",
+        "DarkGift Comics",
+        "KatyDid",
+        "Liam Gray",
+        "Ethan Van Sciver"
+      ],
+      "summary_seed": "He's going to bring you SOMETHING FUN. >> CATCH THOSE FROGGERS. CATCH THOSE MOTHERFERS. [screaming] NAH, WE'RE ALREADY GONE. LITTLE MOVIE PURP AND THE CREW JUST CROSSED THE COUNTY LINE. A,000 miles AND [music] RUNNING. THE FROGGERS GOT THE WHOLE TOWN BUZZING. THEY CRIED OVER JOKES. NOW they're fussing. [music] 1,000 miles and running. 1,000 miles and running. >> HER CLUTCH PATROL KEEPS BLUFFING. FREAK [music] OUT RAG",
+      "clip_likelihood": true,
+      "transition_markers": 1
+    },
+    {
+      "start": "12:00",
+      "end": "24:03",
+      "title": "Liam Gray / Stray Beans / Frog Tony",
+      "entities": [
+        "Liam Gray",
+        "Stray Beans",
+        "Frog Tony"
+      ],
+      "summary_seed": ">> Well, when you get out of it, you become an officer. So like Santo does in the UK, >> you know, boom, you're off. >> It says more about them than us where they have to assume everybody's lying about all of their achievements, don't you think? >> But I've never made a claim of an achievement straight. This is what I'm trying to >> No, but that's an achievement to them. You being in the army is an achievement. Like",
+      "clip_likelihood": false,
+      "transition_markers": 2
+    },
+    {
+      "start": "24:01",
+      "end": "36:02",
+      "title": "Liam Gray / Stray Beans",
+      "entities": [
+        "Liam Gray",
+        "Stray Beans"
+      ],
+      "summary_seed": "hasn't seen an air nomad in over a hundred years. Like, it's the first time he's seen an air nomad. They're extinct.\" So, of course, he was going to hug one cuz he hasn't seen an air nomad in a long time. And the freaking lady even says it after he hugs her. She says, \"It must have been a long, you know, you haven't seen an air nomad a hundred years.\" And I'm like, \"How are people this ignorant to this stupid stuff?\"",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "36:00",
+      "end": "48:02",
+      "title": "Ethan Van Sciver",
+      "entities": [
+        "Ethan Van Sciver"
+      ],
+      "summary_seed": "said. Guy who likes >> Let's not downplay his nonsense. You people are trying to make him sound cool. This is a >> No, I'm just saying that's what I said. I didn't say he was sing. [laughter] I thought he was attempting to >> I don't really guy. He did say the word simp. Just saying. >> Anyway, black is based on ridicule, you know. >> Okay, REAL REAL QUICK. OKAY, EVERYBODY. ANYWAY, >> let talking about Summer Swan, r",
+      "clip_likelihood": false,
+      "transition_markers": 4
+    },
+    {
+      "start": "48:00",
+      "end": "01:00:01",
+      "title": "Eric July / Yellow Flash",
+      "entities": [
+        "Eric July",
+        "Yellow Flash"
+      ],
+      "summary_seed": ">> Hold on. You didn't lie that you quit the show. We got into a fake fight because you were going away. You were going on uh your your [ __ ] hiatus. You're you know, I'm going to go do army line, right? So, we said, \"Hey, we'll get into a fight, right? And Finnbar will storm off at the end of this fight and then you know he'll be gone for three months and people like oh [ __ ] Finnbar really and then he'll come bac",
+      "clip_likelihood": false,
+      "transition_markers": 3
+    },
+    {
+      "start": "01:00:00",
+      "end": "01:12:02",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": "[laughter] >> Very hard. >> Yeah, it was. And uh we had our discussions about that, [laughter] >> but we're we're cool now, you know. That's that's all that matters. You know, we're cool now. And you know, um, one of the accusations that has been levied levied at me is that I'm, you know, like a whipped curr or something like that, you know, that just wanted to stop the bleeding, I think, is what they said. And it's",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "01:12:00",
+      "end": "01:24:03",
+      "title": "Dick Masterson / Eric July / KatyDid",
+      "entities": [
+        "Dick Masterson",
+        "Eric July",
+        "KatyDid"
+      ],
+      "summary_seed": ">> Yeah. I got no idea. [laughter] >> Yeah. >> I'm so lost in the drug. Oh, >> dude. A normal amount is like 20 milligrams. Okay. So, I was doing 10 times the normal amount. That is a one. Rev was eating good. >> Yeah. But anyway, >> Angela Smokey, that's a lot. >> Anyway, I think we've uh we're getting way off. >> Way to eat. >> Yeah. Tooth. >> Tooth. Tooth. >> Real quick. Right. Imagine the um >> It's never real qu",
+      "clip_likelihood": false,
+      "transition_markers": 5
+    },
+    {
+      "start": "01:24:00",
+      "end": "01:36:02",
+      "title": "Stray Beans / Shane Davis",
+      "entities": [
+        "Stray Beans",
+        "Shane Davis"
+      ],
+      "summary_seed": "take text out of it. it was flagged manually by somebody. And what Sonic says, and I don't know if he's already said it or he says it later, is that uh somebody's somebody's reviewed it already or something along them lines. No, they haven't. When you flag it, it gets taken down immediately and your account is locked. >> Yeah. >> Then you have a choice to take the tweet down, the one that's offending whoever it is th",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    },
+    {
+      "start": "01:36:00",
+      "end": "01:48:02",
+      "title": "Dropbox Drama / DarkGift Comics",
+      "entities": [
+        "Dropbox Drama",
+        "DarkGift Comics"
+      ],
+      "summary_seed": "Twitter and was like, \"Oh, what's Mandy tweeting? Let let me see what Mandy's tweeting.\" >> Yeah. >> As you do, right? Let me check on the check. No, day before yesterday was Yeah, day before yesterday got sent a clip of uh DG doing a stream like it's getting concerning. And Fimbar man in the last like week or so I've done nothing but just go to the cop shop. >> Wait, wait, wait, wait. >> I'm sorry. Did he say he got",
+      "clip_likelihood": false,
+      "transition_markers": 2
+    },
+    {
+      "start": "01:48:01",
+      "end": "02:00:01",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": ">> [laughter] >> This This is not Kayfave. This is 100%. She literally typed in the chat, \"He's not a dwarf because I saw him in person.\" >> I saw him in person. What did she see exactly? >> I saw him from the right angle. >> No, no, but she didn't say, \"I saw him on camera.\" She said, \"I saw him in person.\" >> In person, >> which means they met up, they talked, they chatted, they had a conversation, right? In person",
+      "clip_likelihood": false,
+      "transition_markers": 2
+    },
+    {
+      "start": "02:00:02",
+      "end": "02:12:07",
+      "title": "Sturgis",
+      "entities": [
+        "Sturgis"
+      ],
+      "summary_seed": "Like come on. That sounds about right. [snorts] >> Andrew can verify as well. >> Uh he's in the chat sometime, so maybe maybe he can. >> Yeah, he'll verify. >> Uh hold on. I know that I Where did I put those tweets? Uh those screenshots, the ones from Vicki. >> While you're doing that, I'm going for a piss. I'll be right back. >> I thought you were gonna answer that question. Thank Thanks for not actually answering t",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "02:12:03",
+      "end": "02:24:02",
+      "title": "Clip/reaction: DarkGift Comics",
+      "entities": [
+        "DarkGift Comics"
+      ],
+      "summary_seed": "I guess what I'm about to do to you. >> It's horrible. since Red's here, right? Well, Red's there in the chat. So, when the the quote unquote Larry docks happened, it was not long after that, I think Red had confirmed that was the guy's name, right? >> Yeah. >> So, we had it confirmed from two different places. I've had it also confirmed from a third place now that that's his name. Uh, >> Finnbar, I got to ask you. >",
+      "clip_likelihood": true,
+      "transition_markers": 1
+    },
+    {
+      "start": "02:24:00",
+      "end": "02:36:02",
+      "title": "Clip/reaction: General discussion",
+      "entities": [],
+      "summary_seed": "want to hear. They're interpreting things the way they want. >> Right. >> Absolutely. >> Stray the the So, I've come on here with Liam for I think 20 minutes. This clip is 2 hours and 15 minutes long. And that's just because I've come on with him. Imagine being Liam every day. >> Absolutely, man. Absolutely. >> And he streams a lot because he's always on the internet because his business is on the internet. Imagine b",
+      "clip_likelihood": true,
+      "transition_markers": 1
+    },
+    {
+      "start": "02:36:00",
+      "end": "02:48:04",
+      "title": "DarkGift Comics",
+      "entities": [
+        "DarkGift Comics"
+      ],
+      "summary_seed": ">> I swear to God, I am [ __ ] talking, sir. I don't give a [ __ ] what he does, what he says, what he streams, what he makes. No one's [ __ ] checking his money. No one is [ __ ] clocking anything he does. However, we know for a fact that he is clocking everything we [ __ ] do. He's been caught watching us in [ __ ] Discords with a group of people, right? Uh he's 100% been confirmed to be [clears throat] a dwarf. He",
+      "clip_likelihood": false,
+      "transition_markers": 4
+    },
+    {
+      "start": "02:48:01",
+      "end": "03:00:01",
+      "title": "Dick Masterson / Eric July",
+      "entities": [
+        "Dick Masterson",
+        "Eric July"
+      ],
+      "summary_seed": "what's going on. Uh the whole printing it at home thing is complete fabrication and lies. And uh thank you for everyone's support. Peace and love. Thanks for coming in, Liam. >> All right, before you leave, >> yeah, >> the the the clip because every everyone was [ __ ] arguing over this. The clip that you were sent, was it from a current stream or was it from a six-month old stream? >> I don't think it >> I have no i",
+      "clip_likelihood": false,
+      "transition_markers": 5
+    },
+    {
+      "start": "03:00:00",
+      "end": "03:12:05",
+      "title": "Dropbox Drama / Ethan Van Sciver",
+      "entities": [
+        "Dropbox Drama",
+        "Ethan Van Sciver"
+      ],
+      "summary_seed": "like, oh, you connect that to his stomach is upset because of the stress of you guys [ __ ] with him, right? Then then they would like but you're just completely just making something up like I I want to be able to poop again. Like did Liam say anything about pooping? About not being able to poop? Pooping too much? >> Yeah. I don't think he mentioned being constipated. >> I don't remember that. >> That's what I'm say",
+      "clip_likelihood": false,
+      "transition_markers": 2
+    },
+    {
+      "start": "03:12:02",
+      "end": "03:24:04",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": "backers on your campaign and you got like six or seven uh comments on it? You know, he's been removing he been removing all the comments off his uh off his uh campaign. You >> know what I mean? >> Yeah. >> I think Liam's back again. >> This is [ __ ] infuriating. One, you cannot remove the [ __ ] comments from Indiegogo from >> I didn't think you could either. Yeah, >> I didn't know. [clears throat] Uh, I've got I th",
+      "clip_likelihood": false,
+      "transition_markers": 3
+    },
+    {
+      "start": "03:24:01",
+      "end": "03:36:02",
+      "title": "Fencegate / DarkGift Comics / Ethan Van Sciver",
+      "entities": [
+        "Fencegate",
+        "DarkGift Comics",
+        "Ethan Van Sciver"
+      ],
+      "summary_seed": "he can't afford a plane ticket. I don't think that those words ever escaped Liam's mouth. Right. These people don't understand. Like when you when you have a family and you go, I could afford a plane ticket to go to America, but I don't want to spend that money because I have a family. Right? Like I could afford to take my entire family to America and spend thousands of dollars to go to for the fans fest. >> It was w",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "03:36:00",
+      "end": "03:41:49",
+      "title": "Stray Beans",
+      "entities": [
+        "Stray Beans"
+      ],
+      "summary_seed": ">> nice hats. >> This is Bigfoot. This is a baby Bigfoot that Liam has blocked out so you guys don't realize he's a Bigfoot hunter, right? >> Oh, yeah. >> Hey, wait. Same height. >> Oh, I thought that was Armis that killed Tashi. Okay. >> I think that's a black Grimace. You know, it's like a baby black grimace. Well, we know why we know why his name is Grimace. He's shaped like a butt plug. [laughter] >> Yo, >> uh th",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    }
+  ],
+  "claim_candidates": [
+    {
+      "claimant": "over obvious jokes while Veto",
+      "claim": "jokes are funny and the whole room smokes, thousand miles [music] and running.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "All these concerned trolls cry [music] over obvious jokes while Veto says jokes are funny and the whole room smokes, thousand miles [music] and running."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "WE'RE losing bad men.",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "[music] I THINK WE'RE losing bad men."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "I'm in a [ __ ] but we're stuck in a war we shouldn't started [music] I'm getting yelled at by a teen I just keep my answers let me [music] show you my secret garden what the [ __ ] [music]",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "made dark the [ __ ] like he was on one of bad I think I'm in a [ __ ] but we're stuck in a war we shouldn't started [music] I'm getting yelled at by a teen I just keep my answers let me [music] show you my secret garden what the [ __ ] [music]"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "[music] we're living in a Mandela effect.",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think [music] we're living in a Mandela effect."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "he snuck in my room and hid under the bed.",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think he snuck in my room and hid under the bed."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "he waited till I knocked out dead and Australia [music] is where he went.",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think he waited till I knocked out dead and Australia [music] is where he went."
+    },
+    {
+      "claimant": "Yesterday I",
+      "claim": "that Frog [ __ ] Tony is on an island doing his own thing.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "Yesterday I said that Frog [ __ ] Tony is on an island doing his own thing."
+    },
+    {
+      "claimant": "There's a lot of things that he",
+      "claim": "later on as well that I'm a super sniper and I'm a super spy.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "There's a lot of things that he says later on as well that I'm a super sniper and I'm a super spy."
+    },
+    {
+      "claimant": "The only thing I've ever",
+      "claim": "is I'm in the British Army.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "The only thing I've ever said is I'm in the British Army."
+    },
+    {
+      "claimant": "The fact that I've",
+      "claim": "I'm a corporal, which is an O4, which is [ __ ] two ranks up from private.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "The fact that I've said I'm a corporal, which is an O4, which is [ __ ] two ranks up from private."
+    },
+    {
+      "claimant": "It",
+      "claim": "more about them than us where they have to assume everybody's lying about all of their achievements, don't you think?",
+      "timestamp": "12:00",
+      "status": "candidate_claim",
+      "receipt": "It says more about them than us where they have to assume everybody's lying about all of their achievements, don't you think?"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "Finnbar is just the janitor there and he's pretending to be the corporal.",
+      "timestamp": "12:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think Finnbar is just the janitor there and he's pretending to be the corporal."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "something else.",
+      "timestamp": "12:00",
+      "status": "hearsay_candidate",
+      "receipt": "Except for I heard something else."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "there's at least two non-white people on the panel.",
+      "timestamp": "12:00",
+      "status": "candidate_claim",
+      "receipt": "That's why it threw me off because I know there's at least two non-white people on the panel."
+    },
+    {
+      "claimant": "someone",
+      "claim": "in the chat, but I don't see him.",
+      "timestamp": "12:00",
+      "status": "candidate_claim",
+      "receipt": "[laughter] Sean, someone said in the chat, but I don't see him."
+    },
+    {
+      "claimant": "And then you",
+      "claim": "something about I love Finnbar and that's all I want to talk about.",
+      "timestamp": "12:00",
+      "status": "candidate_claim",
+      "receipt": "And then you said something about I love Finnbar and that's all I want to talk about."
+    },
+    {
+      "claimant": "And the freaking lady even",
+      "claim": "it after he hugs her.",
+      "timestamp": "24:01",
+      "status": "candidate_claim",
+      "receipt": "And the freaking lady even says it after he hugs her."
+    },
+    {
+      "claimant": "they don't pay attention to what's being",
+      "claim": "in the story.",
+      "timestamp": "24:01",
+      "status": "candidate_claim",
+      "receipt": "Because they don't pay attention to what's being said in the story."
+    },
+    {
+      "claimant": "hold on",
+      "claim": "Masters of the Universe is a children's cartoon in toy line Tony it is I'm not arguing with people on Twitter about it that's what I'm saying like I don't care like if some people on Twitter are like oh this is not accurate to the source material actually man's hair color is not that color blonde.",
+      "timestamp": "24:01",
+      "status": "candidate_claim",
+      "receipt": "hold on says Masters of the Universe is a children's cartoon in toy line Tony it is I'm not arguing with people on Twitter about it that's what I'm saying like I don't care like if some people on Twitter are like oh this is not accurate to the source material actually man's hair color is not that color blonde."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "how you sent it properly.",
+      "timestamp": "24:01",
+      "status": "candidate_claim",
+      "receipt": "I just know I know how you sent it properly."
+    },
+    {
+      "claimant": "She like but he",
+      "claim": "I'm like clear here's the record book in front of you.",
+      "timestamp": "24:01",
+      "status": "candidate_claim",
+      "receipt": "She like but he said I'm like clear here's the record book in front of you."
+    },
+    {
+      "claimant": "thing where like you see this card that",
+      "claim": "[ __ ] uh my name.",
+      "timestamp": "24:01",
+      "status": "candidate_claim",
+      "receipt": "He's like yeah you see how he's like that one [ __ ] Patrick thing where like you see this card that says [ __ ] uh my name."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "must have been like",
+      "timestamp": "24:01",
+      "status": "opinion_or_inference",
+      "receipt": "It was during the day because Liam was I think must have been like"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "nothing about it.",
+      "timestamp": "24:01",
+      "status": "candidate_claim",
+      "receipt": "Of course, Cynic always goes, I know nothing about it."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "sometimes he does because he has a bunch of alt accounts.",
+      "timestamp": "24:01",
+      "status": "opinion_or_inference",
+      "receipt": "I think sometimes he does because he has a bunch of alt accounts."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "specifically this time it was probably Boulder because I'd been going back and forth with him and had tweets reported.",
+      "timestamp": "24:01",
+      "status": "opinion_or_inference",
+      "receipt": "I think specifically this time it was probably Boulder because I'd been going back and forth with him and had tweets reported."
+    },
+    {
+      "claimant": "to start defending Synic and then he",
+      "claim": "that I started with him.",
+      "timestamp": "24:01",
+      "status": "candidate_claim",
+      "receipt": "Like he just decided to start defending Synic and then he claimed that I started with him."
+    },
+    {
+      "claimant": "just like he",
+      "claim": "it sounded like a girl, so it must be a girl.\"",
+      "timestamp": "24:01",
+      "status": "candidate_claim",
+      "receipt": "And Angel says, \"Yep, just like he said it sounded like a girl, so it must be a girl.\""
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "he went into Saggy's uh DMs trying to s for her.",
+      "timestamp": "24:01",
+      "status": "candidate_claim",
+      "receipt": "I mean, I know he went into Saggy's uh DMs trying to s for her."
+    },
+    {
+      "claimant": "I'm just saying he",
+      "claim": "things like that.",
+      "timestamp": "24:01",
+      "status": "candidate_claim",
+      "receipt": "I'm just saying he says things like that."
+    },
+    {
+      "claimant": "But he he",
+      "claim": "things to kind of like slink in, right?",
+      "timestamp": "24:01",
+      "status": "candidate_claim",
+      "receipt": "But he he says things to kind of like slink in, right?"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "people don't like you, but uh, I think you're okay.",
+      "timestamp": "24:01",
+      "status": "opinion_or_inference",
+      "receipt": "So, he doesn't go in there like, \"Oh, you're [ __ ] cute, Saggy.\" He'll be like, \"Oh, that was kind of cool what you did there.\" Or, \"Hey, uh, I know people don't like you, but uh, I think you're okay."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "got a problem with you, Saggy.\" That's his way to like weasel in.",
+      "timestamp": "24:01",
+      "status": "candidate_claim",
+      "receipt": "I know got a problem with you, Saggy.\" That's his way to like weasel in."
+    },
+    {
+      "claimant": "he wasn't Angel",
+      "claim": "yes.",
+      "timestamp": "24:01",
+      "status": "candidate_claim",
+      "receipt": "Like I said, he wasn't Angel says yes."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "you guys need to get your ears checked.",
+      "timestamp": "24:01",
+      "status": "opinion_or_inference",
+      "receipt": "I think you guys need to get your ears checked."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "you need to play the stream back.",
+      "timestamp": "24:01",
+      "status": "opinion_or_inference",
+      "receipt": "I think you need to play the stream back."
+    },
+    {
+      "claimant": "He still",
+      "claim": "this isn't him, though.",
+      "timestamp": "36:00",
+      "status": "candidate_claim",
+      "receipt": "He still says this isn't him, though."
+    },
+    {
+      "claimant": "He still",
+      "claim": "this is not him.",
+      "timestamp": "36:00",
+      "status": "candidate_claim",
+      "receipt": "He still says this is not him."
+    },
+    {
+      "claimant": "he",
+      "claim": "uh according to Yatafoui, he said um the dwarf uh didn't pay him but was trying to tell him what to [ __ ] make videos on that.",
+      "timestamp": "36:00",
+      "status": "candidate_claim",
+      "receipt": "he said uh according to Yatafoui, he said um the dwarf uh didn't pay him but was trying to tell him what to [ __ ] make videos on that."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "is funny and I make a video on it.",
+      "timestamp": "36:00",
+      "status": "opinion_or_inference",
+      "receipt": "Okay, I see something that I think is funny and I make a video on it."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "it's funny, but I only make a video a couple times and I move on.\" But the dwarf he said",
+      "timestamp": "36:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think it's funny, but I only make a video a couple times and I move on.\" But the dwarf he said"
+    },
+    {
+      "claimant": "he",
+      "claim": "to me how you say make many video on Tony and say he got bad teeth and Tony fat and like make another video and another and he don't pay me",
+      "timestamp": "36:00",
+      "status": "candidate_claim",
+      "receipt": "he said to me how you say make many video on Tony and say he got bad teeth and Tony fat and like make another video and another and he don't pay me"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "Liam is in another country.",
+      "timestamp": "36:00",
+      "status": "opinion_or_inference",
+      "receipt": "Uh I don't think Liam did an eight hour Christmas stream because I think Liam is in another country."
+    },
+    {
+      "claimant": "so he",
+      "claim": "it was a lot earlier than this, he mentioned something about me blaming him for popping me on Twitter, and it's the same as when Finatra was blaming Liam for something.",
+      "timestamp": "36:00",
+      "status": "candidate_claim",
+      "receipt": "Right, since you've mentioned Finatra, so he says it was a lot earlier than this, he mentioned something about me blaming him for popping me on Twitter, and it's the same as when Finatra was blaming Liam for something."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "Synic coordinates with Boulder.",
+      "timestamp": "36:00",
+      "status": "candidate_claim",
+      "receipt": "I know Synic coordinates with Boulder."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "he coordinates with people in his Discord.",
+      "timestamp": "36:00",
+      "status": "candidate_claim",
+      "receipt": "I know he coordinates with people in his Discord."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "you made use of them.",
+      "timestamp": "36:00",
+      "status": "candidate_claim",
+      "receipt": "So, I know you made use of them."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "he did cuz the the other guys retro.",
+      "timestamp": "36:00",
+      "status": "candidate_claim",
+      "receipt": "I I know he did cuz the the other guys retro."
+    },
+    {
+      "claimant": "you super",
+      "claim": "five seconds after I log on Tommy Tel Rico's invol invoked must be truly scummy behavior",
+      "timestamp": "36:00",
+      "status": "candidate_claim",
+      "receipt": "you super says five seconds after I log on Tommy Tel Rico's invol invoked must be truly scummy behavior"
+    },
+    {
+      "claimant": "as he",
+      "claim": "Yeah, he said that a couple of videos,",
+      "timestamp": "36:00",
+      "status": "candidate_claim",
+      "receipt": "as he said Yeah, he said that a couple of videos,"
+    },
+    {
+      "claimant": "but he literally",
+      "claim": "those words.",
+      "timestamp": "36:00",
+      "status": "candidate_claim",
+      "receipt": "No, but he literally said those words."
+    },
+    {
+      "claimant": "Deadly neurotoxin",
+      "claim": "you're banned uh from For the Fansfest.",
+      "timestamp": "36:00",
+      "status": "candidate_claim",
+      "receipt": "Deadly neurotoxin says you're banned uh from For the Fansfest."
+    }
+  ],
+  "quote_candidates": [
+    {
+      "timestamp": "36:00",
+      "text": "I lied to him, Wizard, Swan, and Samurai Snowman.",
+      "significance_score": 3
+    },
+    {
+      "timestamp": "01:48:01",
+      "text": "Told I admitted to being a pedophile by some [ __ ] idiot.",
+      "significance_score": 3
+    },
+    {
+      "timestamp": "01:48:01",
+      "text": "See the [ __ ] pretzel he has to twist into to make it sound like I admitted to something like that.",
+      "significance_score": 3
+    },
+    {
+      "timestamp": "24:01",
+      "text": "So, he'll use an alt account to like strike you or [ __ ] flag you.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "01:00:00",
+      "text": "Um, Synynic, when he was doing his threatening thing, he was talking about how you're a speed addict and all sorts of stuff.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "01:00:00",
+      "text": "Like is that is that completely just a crazy ass tactic to get you to shut up and to threaten you?",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "01:12:00",
+      "text": "I didn't Yeah, I didn't strike Katie.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "01:12:00",
+      "text": "But yeah, so like the idea that I would go like, \"Yeah, go [ __ ] uh strike her channel.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "01:12:00",
+      "text": "Like, if I was like encouraging Liam to strike somebody, why is the dwarf's channel still there?",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "01:12:00",
+      "text": "Nobody was actively encouraging Liam to strike anybody.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "01:12:00",
+      "text": "Katie clipped me talking to uh Liam and in that clip twice I go, \"Liam, do not strike anyone else.\" Right.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "01:12:00",
+      "text": "And she still interpreted that as me uh encouraging him to strike people like total.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "01:12:00",
+      "text": "Like like I'm not going to strike anyone's channel.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "01:12:00",
+      "text": "I made the joke strike them all and let God [ __ ] sort them out, right?",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "01:36:00",
+      "text": "I still don't get why it's an issue if [laughter] he got an old clip.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "01:48:01",
+      "text": "I I've seen like people threaten to like murder people and the the tweets like no this does not violate our terms of service and someone says munchkin they're like oh that definitely violates terms of service",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "02:12:03",
+      "text": "Who gives a [ __ ] What is the What is the issue?",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "02:48:01",
+      "text": "You'll be able to get like issue one.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "00:00",
+      "text": "It's the often imitated, never duplicated chosen one of CG.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "00:00",
+      "text": "We might not get into that later on, but there was uh incredility in Synic's voice when he he's like he has a holiday from the army like as if he can never have a [ __ ] day.",
+      "significance_score": 1
+    }
+  ],
+  "relationship_signals": [
+    {
+      "left": "Liam Gray",
+      "right": "Frog Tony",
+      "signal_type": "criticised",
+      "timestamp": "12:00",
+      "confidence": 0.45,
+      "receipt": ">> Well, when you get out of it, you become an officer. So like Santo does in the UK, >> you know, boom, you're off. >> It says more about them than us where they have to assume everybody's lying about all of their achievements, don't you think? >> But I've never made a claim of an achievement straight. This is what I'm trying to >> No, but that's an achievement to them. You being in the army is an achievement. Like their lives are so b",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Stray Beans",
+      "signal_type": "criticised",
+      "timestamp": "12:00",
+      "confidence": 0.45,
+      "receipt": ">> Well, when you get out of it, you become an officer. So like Santo does in the UK, >> you know, boom, you're off. >> It says more about them than us where they have to assume everybody's lying about all of their achievements, don't you think? >> But I've never made a claim of an achievement straight. This is what I'm trying to >> No, but that's an achievement to them. You being in the army is an achievement. Like their lives are so b",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Stray Beans",
+      "signal_type": "criticised",
+      "timestamp": "12:00",
+      "confidence": 0.45,
+      "receipt": ">> Well, when you get out of it, you become an officer. So like Santo does in the UK, >> you know, boom, you're off. >> It says more about them than us where they have to assume everybody's lying about all of their achievements, don't you think? >> But I've never made a claim of an achievement straight. This is what I'm trying to >> No, but that's an achievement to them. You being in the army is an achievement. Like their lives are so b",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Stray Beans",
+      "signal_type": "legal_conflict",
+      "timestamp": "24:01",
+      "confidence": 0.45,
+      "receipt": "hasn't seen an air nomad in over a hundred years. Like, it's the first time he's seen an air nomad. They're extinct.\" So, of course, he was going to hug one cuz he hasn't seen an air nomad in a long time. And the freaking lady even says it after he hugs her. She says, \"It must have been a long, you know, you haven't seen an air nomad a hundred years.\" And I'm like, \"How are people this ignorant to this stupid stuff?\" Like, are we seriou",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Eric July",
+      "right": "Yellow Flash",
+      "signal_type": "criticised",
+      "timestamp": "48:00",
+      "confidence": 0.45,
+      "receipt": "cause he was quite good at it. We thought he was at the time. >> Yeah. Plus, I >> obviously didn't want to do it. He didn't really want to do it. So, >> hold on. I didn't want to do drama. I felt like doing uh attacking Eric July while we had a comic book out because we were supposed to get this out way earlier than we did. >> And so the idea was like I didn't want to, you know, promote my comic while [ __ ] on someone else's. So I was like, I'l",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Eric July",
+      "right": "Yellow Flash",
+      "signal_type": "promoted",
+      "timestamp": "48:00",
+      "confidence": 0.45,
+      "receipt": "cause he was quite good at it. We thought he was at the time. >> Yeah. Plus, I >> obviously didn't want to do it. He didn't really want to do it. So, >> hold on. I didn't want to do drama. I felt like doing uh attacking Eric July while we had a comic book out because we were supposed to get this out way earlier than we did. >> And so the idea was like I didn't want to, you know, promote my comic while [ __ ] on someone else's. So I was like, I'l",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Eric July",
+      "right": "Yellow Flash",
+      "signal_type": "separation",
+      "timestamp": "48:00",
+      "confidence": 0.45,
+      "receipt": "cause he was quite good at it. We thought he was at the time. >> Yeah. Plus, I >> obviously didn't want to do it. He didn't really want to do it. So, >> hold on. I didn't want to do drama. I felt like doing uh attacking Eric July while we had a comic book out because we were supposed to get this out way earlier than we did. >> And so the idea was like I didn't want to, you know, promote my comic while [ __ ] on someone else's. So I was like, I'l",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Dick Masterson",
+      "right": "Eric July",
+      "signal_type": "criticised",
+      "timestamp": "01:12:00",
+      "confidence": 0.45,
+      "receipt": ">> Yeah. I got no idea. [laughter] >> Yeah. >> I'm so lost in the drug. Oh, >> dude. A normal amount is like 20 milligrams. Okay. So, I was doing 10 times the normal amount. That is a one. Rev was eating good. >> Yeah. But anyway, >> Angela Smokey, that's a lot. >> Anyway, I think we've uh we're getting way off. >> Way to eat. >> Yeah. Tooth. >> Tooth. Tooth. >> Real quick. Right. Imagine the um >> It's never real quick with you, Stray.",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Dick Masterson",
+      "right": "KatyDid",
+      "signal_type": "criticised",
+      "timestamp": "01:12:00",
+      "confidence": 0.45,
+      "receipt": ">> Yeah. I got no idea. [laughter] >> Yeah. >> I'm so lost in the drug. Oh, >> dude. A normal amount is like 20 milligrams. Okay. So, I was doing 10 times the normal amount. That is a one. Rev was eating good. >> Yeah. But anyway, >> Angela Smokey, that's a lot. >> Anyway, I think we've uh we're getting way off. >> Way to eat. >> Yeah. Tooth. >> Tooth. Tooth. >> Real quick. Right. Imagine the um >> It's never real quick with you, Stray.",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Eric July",
+      "right": "KatyDid",
+      "signal_type": "criticised",
+      "timestamp": "01:12:00",
+      "confidence": 0.45,
+      "receipt": "ght? >> Just clean up your act. That's it. >> But they don't. >> People are like, \"Oh, but Tony, you could get struck for X, Y, and Z.\" I go, \"Yeah, I know. I don't care.\" Right? Like I did it if I get struck. If [ __ ] Eric July said, \"Hey, Tony, [ __ ] striking you for [ __ ] efabing me all the time, right? For harassing me.\" I'd be like, \"Yeah, you're probably right.\" Like, like this is the same conversation I literally had with the HR people",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Dick Masterson",
+      "right": "Eric July",
+      "signal_type": "legal_conflict",
+      "timestamp": "01:12:00",
+      "confidence": 0.45,
+      "receipt": ">> Yeah. I got no idea. [laughter] >> Yeah. >> I'm so lost in the drug. Oh, >> dude. A normal amount is like 20 milligrams. Okay. So, I was doing 10 times the normal amount. That is a one. Rev was eating good. >> Yeah. But anyway, >> Angela Smokey, that's a lot. >> Anyway, I think we've uh we're getting way off. >> Way to eat. >> Yeah. Tooth. >> Tooth. Tooth. >> Real quick. Right. Imagine the um >> It's never real quick with you, Stray.",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Dick Masterson",
+      "right": "KatyDid",
+      "signal_type": "legal_conflict",
+      "timestamp": "01:12:00",
+      "confidence": 0.45,
+      "receipt": ">> Yeah. I got no idea. [laughter] >> Yeah. >> I'm so lost in the drug. Oh, >> dude. A normal amount is like 20 milligrams. Okay. So, I was doing 10 times the normal amount. That is a one. Rev was eating good. >> Yeah. But anyway, >> Angela Smokey, that's a lot. >> Anyway, I think we've uh we're getting way off. >> Way to eat. >> Yeah. Tooth. >> Tooth. Tooth. >> Real quick. Right. Imagine the um >> It's never real quick with you, Stray.",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Eric July",
+      "right": "KatyDid",
+      "signal_type": "legal_conflict",
+      "timestamp": "01:12:00",
+      "confidence": 0.45,
+      "receipt": "ght? >> Just clean up your act. That's it. >> But they don't. >> People are like, \"Oh, but Tony, you could get struck for X, Y, and Z.\" I go, \"Yeah, I know. I don't care.\" Right? Like I did it if I get struck. If [ __ ] Eric July said, \"Hey, Tony, [ __ ] striking you for [ __ ] efabing me all the time, right? For harassing me.\" I'd be like, \"Yeah, you're probably right.\" Like, like this is the same conversation I literally had with the HR people",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Stray Beans",
+      "right": "Shane Davis",
+      "signal_type": "friendship_claim",
+      "timestamp": "01:24:00",
+      "confidence": 0.45,
+      "receipt": "t. Yeah, but like these guys when just the mere utterance of the word dwarf gives these people a heart attack, not the dwarf. >> These people very [ __ ] cynic apologized to Matt Bar. Hold on. >> Uh Matt Bar says, \"What Stray Beans needs is a new mic. Dude streams with soap can and some string.\" Cynic says, \"This dude beans is an insane person. People are going to be pissed, but I apologize. Has I ever called you crazy after dealing with these clo",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "DarkGift Comics",
+      "right": "Dropbox Drama",
+      "signal_type": "criticised",
+      "timestamp": "01:36:00",
+      "confidence": 0.45,
+      "receipt": "Twitter and was like, \"Oh, what's Mandy tweeting? Let let me see what Mandy's tweeting.\" >> Yeah. >> As you do, right? Let me check on the check. No, day before yesterday was Yeah, day before yesterday got sent a clip of uh DG doing a stream like it's getting concerning. And Fimbar man in the last like week or so I've done nothing but just go to the cop shop. >> Wait, wait, wait, wait. >> I'm sorry. Did he say he got sent a clip of a a",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Dick Masterson",
+      "right": "Eric July",
+      "signal_type": "defended",
+      "timestamp": "02:48:01",
+      "confidence": 0.45,
+      "receipt": "what's going on. Uh the whole printing it at home thing is complete fabrication and lies. And uh thank you for everyone's support. Peace and love. Thanks for coming in, Liam. >> All right, before you leave, >> yeah, >> the the the clip because every everyone was [ __ ] arguing over this. The clip that you were sent, was it from a current stream or was it from a six-month old stream? >> I don't think it >> I have no idea. I honestly have",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Dick Masterson",
+      "right": "Eric July",
+      "signal_type": "collaborated",
+      "timestamp": "02:48:01",
+      "confidence": 0.45,
+      "receipt": "what's going on. Uh the whole printing it at home thing is complete fabrication and lies. And uh thank you for everyone's support. Peace and love. Thanks for coming in, Liam. >> All right, before you leave, >> yeah, >> the the the clip because every everyone was [ __ ] arguing over this. The clip that you were sent, was it from a current stream or was it from a six-month old stream? >> I don't think it >> I have no idea. I honestly have",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Dropbox Drama",
+      "right": "Ethan Van Sciver",
+      "signal_type": "promoted",
+      "timestamp": "03:00:00",
+      "confidence": 0.45,
+      "receipt": "like, oh, you connect that to his stomach is upset because of the stress of you guys [ __ ] with him, right? Then then they would like but you're just completely just making something up like I I want to be able to poop again. Like did Liam say anything about pooping? About not being able to poop? Pooping too much? >> Yeah. I don't think he mentioned being constipated. >> I don't remember that. >> That's what I'm saying. Like like it's",
+      "warning": "co-mention plus language signal; requires interpretation"
+    }
+  ],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

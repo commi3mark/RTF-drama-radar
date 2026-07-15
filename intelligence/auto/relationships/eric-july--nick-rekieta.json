@@ -1,0 +1,44 @@
+{
+  "relationship_id": "eric-july--nick-rekieta",
+  "left": "Nick Rekieta",
+  "right": "Eric July",
+  "signals": [
+    {
+      "video_id": "Uf6bzqxJAAk",
+      "episode_title": "TRASHCAST #265: The Khola King & Ethan Van Sciver Exchange",
+      "source": "KatyDid",
+      "left": "Nick Rekieta",
+      "right": "Eric July",
+      "signal_type": "criticised",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": "beyond shit. Your behavior's been ridiculous. You're like people are trying to drag me back to that moment. People just wanted you to go away. You know, I mean you're you're you're threatening to strike channels, taking people's channels down. You're saying, you know, that didn't lack. It didn't lack. Just that's how I'm going to I'm going to try this. Just be Just stop doing that. It's unbelievable that you're asking me to not do somet",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "Uf6bzqxJAAk",
+      "episode_title": "TRASHCAST #265: The Khola King & Ethan Van Sciver Exchange",
+      "source": "KatyDid",
+      "left": "Nick Rekieta",
+      "right": "Eric July",
+      "signal_type": "legal_conflict",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": "beyond shit. Your behavior's been ridiculous. You're like people are trying to drag me back to that moment. People just wanted you to go away. You know, I mean you're you're you're threatening to strike channels, taking people's channels down. You're saying, you know, that didn't lack. It didn't lack. Just that's how I'm going to I'm going to try this. Just be Just stop doing that. It's unbelievable that you're asking me to not do somet",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "N52SC2cLnvY",
+      "episode_title": "TRASHCAST # 267 BIGGEST PROBLEM was insane. Vito is a outta control. I pity him.",
+      "source": "Ethan Van Sciver",
+      "left": "Eric July",
+      "right": "Nick Rekieta",
+      "signal_type": "criticised",
+      "timestamp": "00:01",
+      "confidence": 0.45,
+      "receipt": "ng Biggest Problem as long as Dick Masterson gets 25% of I guess whatever whatever the show earns uh in perpetuity because it's his brand like he veto was like what am I giving you money for? very similar uh reaction to Eric July's reaction. [clears throat] Hold on a second. When the ministry was like the international school of ministry uh said, \"Hey, you know, listen, you're using our brand like we own, you know, ISOM, ISO, we own that. Uh so,",
+      "warning": "co-mention plus language signal; requires interpretation"
+    }
+  ],
+  "updated_at": "2026-07-15T21:04:38.558985+00:00"
+}

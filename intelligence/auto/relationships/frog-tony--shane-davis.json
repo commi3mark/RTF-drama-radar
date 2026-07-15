@@ -1,0 +1,44 @@
+{
+  "relationship_id": "frog-tony--shane-davis",
+  "left": "Shane Davis",
+  "right": "Frog Tony",
+  "signals": [
+    {
+      "video_id": "zkW4zLSQ7eQ",
+      "episode_title": "You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto!",
+      "source": "Ethan Van Sciver",
+      "left": "Shane Davis",
+      "right": "Frog Tony",
+      "signal_type": "defended",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": ">> [music] >> Welcome to 5XL FM where the trash flows. [music] >> There I am real small. Here I am real big. Ethan Van Skyver here. 5x LFM Philadelphia trash cast your show. You're the fan. You're the audience. You love this stuff. Can't get enough of it. And I'm here to serve it up. Nice big steaming plate of garbage for you tonight featuring some of your favorite characters. [music] >> Hello. Hi guys. [music] >> What is this? Hot Mike",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "zkW4zLSQ7eQ",
+      "episode_title": "You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto!",
+      "source": "Ethan Van Sciver",
+      "left": "Shane Davis",
+      "right": "Frog Tony",
+      "signal_type": "criticised",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": ">> [music] >> Welcome to 5XL FM where the trash flows. [music] >> There I am real small. Here I am real big. Ethan Van Skyver here. 5x LFM Philadelphia trash cast your show. You're the fan. You're the audience. You love this stuff. Can't get enough of it. And I'm here to serve it up. Nice big steaming plate of garbage for you tonight featuring some of your favorite characters. [music] >> Hello. Hi guys. [music] >> What is this? Hot Mike",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "N52SC2cLnvY",
+      "episode_title": "TRASHCAST # 267 BIGGEST PROBLEM was insane. Vito is a outta control. I pity him.",
+      "source": "Ethan Van Sciver",
+      "left": "Frog Tony",
+      "right": "Shane Davis",
+      "signal_type": "criticised",
+      "timestamp": "12:00",
+      "confidence": 0.45,
+      "receipt": "ing today about the FBI coming to my house. Haven't heard from Little Movie Perp uh in a little while, but I remember like how people kind of reacted to that. Like I got I got some people that are in that crowd like the Frog Tony crowd. Those guys are really stupid. Like they're they're good at making fun of people, I guess. Um uh in some ways. Uh but uh they're really low IQ. And like those people are just like um what do you call the FBI over",
+      "warning": "co-mention plus language signal; requires interpretation"
+    }
+  ],
+  "updated_at": "2026-07-15T21:04:38.621518+00:00"
+}

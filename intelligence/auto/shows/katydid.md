@@ -1,0 +1,106 @@
+# KatyDid
+
+## Episodes
+
+- **Ethan Van Sciver Learns The Truth of DRONES! | The Khola King Fear** (`haKM6g11LrM`)
+- **Chrissie Mayr Officially FIRED from FRIDAY NIGHT TIGHTS | j.A.C.k Show | July 9th 2026** (`fq2D80GqXqQ`)
+- **The Tribunal of Liam Gray | DROPBOX DRAMA** (`O5BcX4ir3-0`)
+- **SHOUT OUT TO ALPHACORE #3!! | Rippaverse | @Jon_Malin** (`atuAmOfu6no`)
+- **CG AFTER DARK #35** (`2m31Eip6Cmg`)
+- **Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! | TRASHCAST** (`V1nqAzwILiM`)
+- **TRASHCAST #265: The Khola King & Ethan Van Sciver Exchange** (`Uf6bzqxJAAk`)
+- **Becoming All Powerful & the Ultimate Underdog!** (`X0hbv1uKEGA`)
+- **Liam Gray and His Mighty Chalice | Anna TSWG, Cecil, Rekieta and more** (`x7BWNaTUIpQ`)
+- **The Biggest Problem in the Universe Comes to an END!** (`IGwEBXZDVt0`)
+- **"I REPORTED THE DROPBOX!" Liam Gray Responds to EVS Reacting To A Viral Clip** (`edPpkg2kim4`)
+- **FFS: Shane Davis Stops By! Discusses JDA & BACKmeBro** (`7JzZNez4ZBE`)
+- **(RE-UPLOAD)The Aftermath Of Frog Tony's EMBARRASSING appearance on The Biggest Problem** (`HpCU9xQ1G4E`)
+
+## Participant candidates
+
+- **KatyDid** — host_or_channel_identity (72%) in `haKM6g11LrM`
+- **KatyDid** — host_or_channel_identity (72%) in `fq2D80GqXqQ`
+- **KatyDid** — host_or_channel_identity (72%) in `O5BcX4ir3-0`
+- **KatyDid** — host_or_channel_identity (72%) in `atuAmOfu6no`
+- **KatyDid** — host_or_channel_identity (72%) in `2m31Eip6Cmg`
+- **KatyDid** — host_or_channel_identity (72%) in `V1nqAzwILiM`
+- **KatyDid** — host_or_channel_identity (72%) in `Uf6bzqxJAAk`
+- **KatyDid** — host_or_channel_identity (72%) in `X0hbv1uKEGA`
+- **KatyDid** — host_or_channel_identity (72%) in `x7BWNaTUIpQ`
+- **KatyDid** — host_or_channel_identity (72%) in `IGwEBXZDVt0`
+- **Eric July** — likely_participant (55%) in `IGwEBXZDVt0`
+- **KatyDid** — host_or_channel_identity (72%) in `edPpkg2kim4`
+- **KatyDid** — host_or_channel_identity (72%) in `7JzZNez4ZBE`
+- **KatyDid** — host_or_channel_identity (72%) in `HpCU9xQ1G4E`
+
+## Subject history
+
+- **Liam Gray** — major; positive in `haKM6g11LrM`
+- **Chrissie Mayr** — secondary; positive in `fq2D80GqXqQ`
+- **TheQuartering** — secondary; positive in `fq2D80GqXqQ`
+- **Nerdrotic** — secondary; positive in `fq2D80GqXqQ`
+- **Cecil** — secondary; positive in `fq2D80GqXqQ`
+- **Ethan Van Sciver** — passing; positive in `fq2D80GqXqQ`
+- **Liam Gray** — major; positive in `O5BcX4ir3-0`
+- **Dropbox Drama** — major; positive in `O5BcX4ir3-0`
+- **Stray Beans** — secondary; positive in `O5BcX4ir3-0`
+- **Trashcast** — passing; positive in `O5BcX4ir3-0`
+- **Yellow Flash** — passing; positive in `O5BcX4ir3-0`
+- **Ethan Van Sciver** — passing; positive in `O5BcX4ir3-0`
+- **Frog Tony** — passing; positive in `O5BcX4ir3-0`
+- **Alpha Core** — major; positive in `atuAmOfu6no`
+- **Ethan Van Sciver** — passing; positive in `atuAmOfu6no`
+- **Vito Gesualdi** — major; positive in `2m31Eip6Cmg`
+- **Dick Masterson** — major; positive in `2m31Eip6Cmg`
+- **Liam Gray** — secondary; positive in `2m31Eip6Cmg`
+- **Frog Tony** — secondary; mixed in `2m31Eip6Cmg`
+- **Cecil** — passing; positive in `2m31Eip6Cmg`
+- **ComicsGate** — passing; mixed in `2m31Eip6Cmg`
+- **Liam Gray** — major; positive in `V1nqAzwILiM`
+- **Fencegate** — major; positive in `V1nqAzwILiM`
+- **Yellow Flash** — passing; positive in `V1nqAzwILiM`
+- **Ethan Van Sciver** — passing; positive in `V1nqAzwILiM`
+- **Liam Gray** — major; positive in `Uf6bzqxJAAk`
+- **Ethan Van Sciver** — secondary; positive in `Uf6bzqxJAAk`
+- **Nick Rekieta** — secondary; mixed in `Uf6bzqxJAAk`
+- **Yellow Flash** — passing; positive in `Uf6bzqxJAAk`
+- **DarkGift Comics** — passing; positive in `Uf6bzqxJAAk`
+- **Eric July** — passing; mixed in `Uf6bzqxJAAk`
+- **TheQuartering** — passing; mixed in `Uf6bzqxJAAk`
+- **Liam Gray** — major; positive in `X0hbv1uKEGA`
+- **Ethan Van Sciver** — secondary; positive in `X0hbv1uKEGA`
+- **Stray Beans** — secondary; positive in `X0hbv1uKEGA`
+- **Shane Davis** — passing; positive in `X0hbv1uKEGA`
+- **ComicsGate** — passing; positive in `X0hbv1uKEGA`
+- **Eric July** — passing; positive in `X0hbv1uKEGA`
+- **Jon Malin** — passing; positive in `X0hbv1uKEGA`
+- **Cecil** — major; positive in `x7BWNaTUIpQ`
+- **Liam Gray** — major; positive in `x7BWNaTUIpQ`
+- **Jon Malin** — secondary; positive in `x7BWNaTUIpQ`
+- **Dick Masterson** — major; positive in `IGwEBXZDVt0`
+- **Eric July** — major; positive in `IGwEBXZDVt0`
+- **Frog Tony** — major; positive in `IGwEBXZDVt0`
+- **Ethan Van Sciver** — secondary; positive in `IGwEBXZDVt0`
+- **Liam Gray** — secondary; positive in `IGwEBXZDVt0`
+- **Vito Gesualdi** — passing; positive in `IGwEBXZDVt0`
+- **Cyberfrog** — passing; positive in `IGwEBXZDVt0`
+- **Dropbox Drama** — major; positive in `edPpkg2kim4`
+- **Ethan Van Sciver** — major; positive in `edPpkg2kim4`
+- **Liam Gray** — major; positive in `edPpkg2kim4`
+- **DarkGift Comics** — secondary; positive in `edPpkg2kim4`
+- **Jon Del Arroz** — passing; positive in `edPpkg2kim4`
+- **Little Movie Perp** — passing; positive in `edPpkg2kim4`
+- **Nerdrotic** — passing; positive in `edPpkg2kim4`
+- **TheQuartering** — passing; positive in `edPpkg2kim4`
+- **Yellow Flash** — passing; positive in `edPpkg2kim4`
+- **Shane Davis** — major; positive in `7JzZNez4ZBE`
+- **BackMeBro** — major; positive in `7JzZNez4ZBE`
+- **Jon Del Arroz** — major; positive in `7JzZNez4ZBE`
+- **Ethan Van Sciver** — secondary; positive in `7JzZNez4ZBE`
+- **ComicsGate** — secondary; positive in `7JzZNez4ZBE`
+- **Dick Masterson** — passing; positive in `7JzZNez4ZBE`
+- **Rippaverse** — passing; positive in `7JzZNez4ZBE`
+- **Frog Tony** — major; positive in `HpCU9xQ1G4E`
+- **Vito Gesualdi** — secondary; positive in `HpCU9xQ1G4E`
+- **Dick Masterson** — passing; positive in `HpCU9xQ1G4E`
+- **Liam Gray** — passing; positive in `HpCU9xQ1G4E`

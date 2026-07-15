@@ -1,0 +1,32 @@
+{
+  "relationship_id": "backmebro--cecil",
+  "left": "Cecil",
+  "right": "BackMeBro",
+  "signals": [
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "episode_title": "Gabbing With Ga......You know",
+      "source": "FFS Cast",
+      "left": "Cecil",
+      "right": "BackMeBro",
+      "signal_type": "defended",
+      "timestamp": "02:36:02",
+      "confidence": 0.45,
+      "receipt": "n. >> That is very true. That is very true. Villas for two says uh oh I hear that John's no problems Jack shows. >> No I mean listen to be fair like yeah like I consider Shane to be one of my best friends since Anna and Cecil don't talk to me anymore you know. So like uh I you know or John Mailen you know so I do consider Shane to be like you know one of my best friends but what I'm saying is like he didn't do bad like last night he was fine",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "episode_title": "Gabbing With Ga......You know",
+      "source": "FFS Cast",
+      "left": "Cecil",
+      "right": "BackMeBro",
+      "signal_type": "criticised",
+      "timestamp": "02:36:02",
+      "confidence": 0.45,
+      "receipt": "n. >> That is very true. That is very true. Villas for two says uh oh I hear that John's no problems Jack shows. >> No I mean listen to be fair like yeah like I consider Shane to be one of my best friends since Anna and Cecil don't talk to me anymore you know. So like uh I you know or John Mailen you know so I do consider Shane to be like you know one of my best friends but what I'm saying is like he didn't do bad like last night he was fine",
+      "warning": "co-mention plus language signal; requires interpretation"
+    }
+  ],
+  "updated_at": "2026-07-15T21:04:26.003320+00:00"
+}

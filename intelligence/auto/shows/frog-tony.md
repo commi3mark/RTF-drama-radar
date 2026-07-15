@@ -1,0 +1,145 @@
+# Frog Tony
+
+## Episodes
+
+- **JCW Lunacy #90 Watch Party** (`9OJNBEVnTBk`)
+- **Sturgis Went To Japan On Thirsty Thursday!** (`VBJwPPZ1LeY`)
+- **Finbarr STOMPS A Dwarf! - OPEN PANEL MADHOUSE!!!!** (`7LMz5W0-mLs`)
+- **Katydid Caught LYING AGAIN! - Detractor Kings** (`RxZ_OdBN2f0`)
+- **Supergirl BOMBS And Might END The DCU! - CG Suburbs** (`lYws0Rqt8Bs`)
+- **JCW Lunacy #89 Watch Party** (`odC_ijF0FE4`)
+- **Cynic Got CATFISHED And EVS Continues To SPIRAL On Thirsty Thursday!** (`MOQPFnHJYR0`)
+- **Catching Up With The Rippaverse! - Detractor Kings** (`6GIxuFOICAI`)
+- **Supergirl BOMBED! - Comicsgate Suburbs** (`qLcrzaJJKiQ`)
+- **JCW Lunacy #88 Watch Party!** (`F1ouqRPhAdM`)
+
+## Participant candidates
+
+- **Frog Tony** — host_or_channel_identity (72%) in `9OJNBEVnTBk`
+- **Frog Tony** — host_or_channel_identity (72%) in `VBJwPPZ1LeY`
+- **Sturgis** — likely_participant (70%) in `VBJwPPZ1LeY`
+- **Stray Beans** — likely_participant (51%) in `VBJwPPZ1LeY`
+- **Frog Tony** — host_or_channel_identity (72%) in `7LMz5W0-mLs`
+- **Frog Tony** — host_or_channel_identity (72%) in `RxZ_OdBN2f0`
+- **Stray Beans** — likely_participant (43%) in `RxZ_OdBN2f0`
+- **Frog Tony** — host_or_channel_identity (72%) in `lYws0Rqt8Bs`
+- **Frog Tony** — host_or_channel_identity (72%) in `odC_ijF0FE4`
+- **Frog Tony** — host_or_channel_identity (72%) in `MOQPFnHJYR0`
+- **Eric July** — likely_participant (40%) in `MOQPFnHJYR0`
+- **Stray Beans** — likely_participant (47%) in `MOQPFnHJYR0`
+- **Frog Tony** — host_or_channel_identity (72%) in `6GIxuFOICAI`
+- **Frog Tony** — host_or_channel_identity (72%) in `qLcrzaJJKiQ`
+- **Cyberfrog** — likely_participant (51%) in `qLcrzaJJKiQ`
+- **Liam Gray** — likely_participant (53%) in `qLcrzaJJKiQ`
+- **Frog Tony** — host_or_channel_identity (72%) in `F1ouqRPhAdM`
+
+## Subject history
+
+- **Frog Tony** — major; positive in `9OJNBEVnTBk`
+- **Dick Masterson** — secondary; positive in `9OJNBEVnTBk`
+- **Vito Gesualdi** — passing; positive in `9OJNBEVnTBk`
+- **Dick Masterson** — major; positive in `VBJwPPZ1LeY`
+- **Sturgis** — major; positive in `VBJwPPZ1LeY`
+- **Liam Gray** — major; positive in `VBJwPPZ1LeY`
+- **Frog Tony** — major; positive in `VBJwPPZ1LeY`
+- **Vito Gesualdi** — major; positive in `VBJwPPZ1LeY`
+- **Ethan Van Sciver** — major; positive in `VBJwPPZ1LeY`
+- **Stray Beans** — major; positive in `VBJwPPZ1LeY`
+- **Eric July** — major; positive in `VBJwPPZ1LeY`
+- **ComicsGate** — major; positive in `VBJwPPZ1LeY`
+- **Shane Davis** — secondary; positive in `VBJwPPZ1LeY`
+- **Jon Del Arroz** — secondary; positive in `VBJwPPZ1LeY`
+- **Cecil** — passing; positive in `VBJwPPZ1LeY`
+- **DarkGift Comics** — passing; positive in `VBJwPPZ1LeY`
+- **Fencegate** — passing; positive in `VBJwPPZ1LeY`
+- **Liam Gray** — major; positive in `7LMz5W0-mLs`
+- **Frog Tony** — major; positive in `7LMz5W0-mLs`
+- **DarkGift Comics** — major; positive in `7LMz5W0-mLs`
+- **Dropbox Drama** — secondary; positive in `7LMz5W0-mLs`
+- **Dick Masterson** — secondary; positive in `7LMz5W0-mLs`
+- **Stray Beans** — major; positive in `7LMz5W0-mLs`
+- **Ethan Van Sciver** — major; positive in `7LMz5W0-mLs`
+- **Eric July** — major; positive in `7LMz5W0-mLs`
+- **Fencegate** — secondary; positive in `7LMz5W0-mLs`
+- **KatyDid** — secondary; positive in `7LMz5W0-mLs`
+- **Sturgis** — passing; positive in `7LMz5W0-mLs`
+- **Shane Davis** — passing; positive in `7LMz5W0-mLs`
+- **Yellow Flash** — passing; positive in `7LMz5W0-mLs`
+- **Frog Tony** — major; positive in `RxZ_OdBN2f0`
+- **Dick Masterson** — major; positive in `RxZ_OdBN2f0`
+- **Ethan Van Sciver** — major; positive in `RxZ_OdBN2f0`
+- **Liam Gray** — major; positive in `RxZ_OdBN2f0`
+- **Eric July** — major; positive in `RxZ_OdBN2f0`
+- **Jon Del Arroz** — major; positive in `RxZ_OdBN2f0`
+- **ComicsGate** — major; positive in `RxZ_OdBN2f0`
+- **Sturgis** — major; positive in `RxZ_OdBN2f0`
+- **Nerdrotic** — major; positive in `RxZ_OdBN2f0`
+- **Stray Beans** — major; positive in `RxZ_OdBN2f0`
+- **Vito Gesualdi** — major; positive in `RxZ_OdBN2f0`
+- **DarkGift Comics** — secondary; positive in `RxZ_OdBN2f0`
+- **KatyDid** — passing; positive in `RxZ_OdBN2f0`
+- **Shane Davis** — secondary; positive in `RxZ_OdBN2f0`
+- **TheQuartering** — secondary; positive in `RxZ_OdBN2f0`
+- **Little Movie Perp** — passing; positive in `RxZ_OdBN2f0`
+- **Nick Rekieta** — passing; positive in `RxZ_OdBN2f0`
+- **Trashcast** — passing; positive in `RxZ_OdBN2f0`
+- **Frog Tony** — major; positive in `lYws0Rqt8Bs`
+- **Liam Gray** — major; positive in `lYws0Rqt8Bs`
+- **Stray Beans** — secondary; positive in `lYws0Rqt8Bs`
+- **Eric July** — secondary; positive in `lYws0Rqt8Bs`
+- **Dick Masterson** — passing; positive in `lYws0Rqt8Bs`
+- **ComicsGate** — passing; positive in `lYws0Rqt8Bs`
+- **Ethan Van Sciver** — passing; positive in `lYws0Rqt8Bs`
+- **Fencegate** — passing; positive in `lYws0Rqt8Bs`
+- **Little Movie Perp** — passing; positive in `lYws0Rqt8Bs`
+- **Frog Tony** — major; positive in `odC_ijF0FE4`
+- **Dick Masterson** — major; positive in `odC_ijF0FE4`
+- **Vito Gesualdi** — major; positive in `odC_ijF0FE4`
+- **Ethan Van Sciver** — secondary; positive in `odC_ijF0FE4`
+- **Liam Gray** — secondary; positive in `odC_ijF0FE4`
+- **Shane Davis** — passing; positive in `odC_ijF0FE4`
+- **TheQuartering** — passing; positive in `odC_ijF0FE4`
+- **Liam Gray** — major; positive in `MOQPFnHJYR0`
+- **Frog Tony** — major; positive in `MOQPFnHJYR0`
+- **Ethan Van Sciver** — major; positive in `MOQPFnHJYR0`
+- **Eric July** — major; positive in `MOQPFnHJYR0`
+- **Cyberfrog** — major; positive in `MOQPFnHJYR0`
+- **ComicsGate** — major; positive in `MOQPFnHJYR0`
+- **Stray Beans** — major; positive in `MOQPFnHJYR0`
+- **Cecil** — secondary; positive in `MOQPFnHJYR0`
+- **Trashcast** — secondary; positive in `MOQPFnHJYR0`
+- **Fencegate** — secondary; positive in `MOQPFnHJYR0`
+- **Nerdrotic** — passing; positive in `MOQPFnHJYR0`
+- **Yellow Flash** — secondary; positive in `MOQPFnHJYR0`
+- **DarkGift Comics** — passing; positive in `MOQPFnHJYR0`
+- **Little Movie Perp** — passing; positive in `MOQPFnHJYR0`
+- **Shane Davis** — passing; mixed in `MOQPFnHJYR0`
+- **Sturgis** — passing; positive in `MOQPFnHJYR0`
+- **Frog Tony** — major; positive in `6GIxuFOICAI`
+- **Liam Gray** — major; positive in `6GIxuFOICAI`
+- **Ethan Van Sciver** — major; positive in `6GIxuFOICAI`
+- **Eric July** — major; positive in `6GIxuFOICAI`
+- **Nerdrotic** — major; positive in `6GIxuFOICAI`
+- **TheQuartering** — major; positive in `6GIxuFOICAI`
+- **ComicsGate** — major; positive in `6GIxuFOICAI`
+- **Cyberfrog** — major; positive in `6GIxuFOICAI`
+- **Fencegate** — secondary; positive in `6GIxuFOICAI`
+- **Jon Del Arroz** — secondary; positive in `6GIxuFOICAI`
+- **DarkGift Comics** — secondary; positive in `6GIxuFOICAI`
+- **Shane Davis** — passing; positive in `6GIxuFOICAI`
+- **Stray Beans** — secondary; positive in `6GIxuFOICAI`
+- **Trashcast** — passing; positive in `6GIxuFOICAI`
+- **Aaron Imholte** — passing; positive in `6GIxuFOICAI`
+- **BackMeBro** — passing; positive in `6GIxuFOICAI`
+- **Chrissie Mayr** — passing; positive in `6GIxuFOICAI`
+- **Dick Masterson** — passing; positive in `6GIxuFOICAI`
+- **Little Movie Perp** — passing; positive in `6GIxuFOICAI`
+- **Yellow Flash** — passing; positive in `6GIxuFOICAI`
+- **Cyberfrog** — major; positive in `qLcrzaJJKiQ`
+- **Frog Tony** — major; positive in `qLcrzaJJKiQ`
+- **Liam Gray** — major; positive in `qLcrzaJJKiQ`
+- **Ethan Van Sciver** — major; positive in `qLcrzaJJKiQ`
+- **ComicsGate** — passing; positive in `qLcrzaJJKiQ`
+- **Eric July** — passing; positive in `qLcrzaJJKiQ`
+- **Frog Tony** — major; positive in `F1ouqRPhAdM`
+- **Vito Gesualdi** — secondary; positive in `F1ouqRPhAdM`

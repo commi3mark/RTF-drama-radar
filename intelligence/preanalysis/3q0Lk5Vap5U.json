@@ -1,0 +1,769 @@
+{
+  "schema_version": "octopuss-preanalysis-v0.1",
+  "generated_at": "2026-07-15T21:04:18.203510+00:00",
+  "video_id": "3q0Lk5Vap5U",
+  "title": "It's All Fine - Friday Special | #935",
+  "source": "Ministry of Dude",
+  "published": "2026-07-11T16:52:27+00:00",
+  "packet_hash": "a966d279ce9cc151605f20bf8ce5067c9e389066dad63770ae0a2d89172aae86",
+  "coverage": {
+    "first_caption_second": 8.88,
+    "last_caption_second": 9543.92,
+    "timestamp_start": "00:08",
+    "timestamp_end": "02:39:03",
+    "caption_span_seconds": 9535.04,
+    "status": "transcript_present",
+    "note": "This measures the caption span only. It does not prove complete coverage of the original video."
+  },
+  "participant_candidates": [
+    {
+      "entity": "Ministry of Dude",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.72,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Dick Masterson",
+      "mentions": 6,
+      "block_count": 4,
+      "first_timestamp": "36:00",
+      "last_timestamp": "02:36:02",
+      "discussion_span_seconds": 7201.0,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.782,
+        "positive_hits": 147,
+        "negative_hits": 18
+      },
+      "receipts": [
+        {
+          "timestamp": "36:00",
+          "excerpt": "this to Tyler. Tyler, figure out figure out who this is. >> Figure out.\" >> Man, I wish Do you remember when like >> we should send you like other skits ops who were like after >> attacking him? Yeah. >> Yeah. I wish we could find them. They weren't that entertaining. They were mostly just crazy people. But >> well, that's what's entertaining. the the the people who who who said he was Timothy McVey, >> he never proved it otherwise, Tyl"
+        },
+        {
+          "timestamp": "01:12:02",
+          "excerpt": "good. Like after the release and got it got patched and all the DLCs and all that, I bought it I bought it two times cuz I'm [ __ ] [ __ ] I bought it on Origin and then I bought it the the whole pack with the DLC. It was easier. It was cheaper to buy the whole pack with every DLC, whatever, whenever I wanted to play it again a couple years ago than to just buy one DLC. So I'm like whatever. I'll buy it again on EA. Whatever. It was a g"
+        },
+        {
+          "timestamp": "01:24:00",
+          "excerpt": "happen, Scarlet? >> Wait, so a therapist hired her to [ __ ] her and then he [ __ ] her and she's like, \"Okay, instead of paying me, can I just have therapy [laughter] with you?\" >> No, I think the guy offered to give her therapy. >> Oh. Or or >> Oh my god, that's so funny. You >> be right. Oh my [laughter] god. >> I can imagine somebody a therapist [ __ ] her and going like, \"Honey, we got a >> I think you could really use some therapy"
+        },
+        {
+          "timestamp": "02:24:00",
+          "excerpt": "Ministry of Dude, folks. And that's why you can support us. We're doing going extra folks. We're almost at the end of this, but you can still go on super tip.gg GG/ministry and by the way the the Pilzilla says are genters and also yeah the a lot of these women are stupid and I'm serious when I say like the Harvey Weinstein stuff. He was a [ __ ] pig but he wasn't a rapist. He was just being a [ __ ] fat pig using his power to [ __ ] all"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Chrissie Mayr",
+      "mentions": 3,
+      "block_count": 2,
+      "first_timestamp": "48:01",
+      "last_timestamp": "01:36:03",
+      "discussion_span_seconds": 2881.4,
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.759,
+        "positive_hits": 73,
+        "negative_hits": 10
+      },
+      "receipts": [
+        {
+          "timestamp": "48:01",
+          "excerpt": "looking at? >> Why is he Why is he talking about cows? What? >> Uh, Taylor. Her name is Taylor. That's a No spelling errors. God damn it. >> Taylor. Let's try to guess what? [laughter] What is he going to say? He made a big point. Taylor. Her name is Taylor. Get it? >> He's about to tell us. >> It's like men. >> Do we have any guesses? >> Clothes. Men make clothes. So, she tailor. She's a tailor. dude's name. >> Oh, it's a Oh, come on,"
+        },
+        {
+          "timestamp": "01:24:00",
+          "excerpt": "happen, Scarlet? >> Wait, so a therapist hired her to [ __ ] her and then he [ __ ] her and she's like, \"Okay, instead of paying me, can I just have therapy [laughter] with you?\" >> No, I think the guy offered to give her therapy. >> Oh. Or or >> Oh my god, that's so funny. You >> be right. Oh my [laughter] god. >> I can imagine somebody a therapist [ __ ] her and going like, \"Honey, we got a >> I think you could really use some therapy"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Frog Tony",
+      "mentions": 3,
+      "block_count": 3,
+      "first_timestamp": "01:48:01",
+      "last_timestamp": "02:36:02",
+      "discussion_span_seconds": 2880.8,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.811,
+        "positive_hits": 115,
+        "negative_hits": 12
+      },
+      "receipts": [
+        {
+          "timestamp": "01:48:01",
+          "excerpt": "mall all crazy and stuff like that's what the kids want to see. And he's right. >> What I what I like here is they've juxosed. Sorry, I've been drinking. >> Can you say you speak English? >> The the chimp monks. Shut the [ __ ] up, Brazilian. You barely speak English, too. [laughter] [ __ ] Uh, >> but I can just juxtapose things, you know. >> He's got you there. >> [ __ ] [ __ ] [ __ ] >> Sorry. Go ahead. >> But the chipmunks it on the"
+        },
+        {
+          "timestamp": "02:00:00",
+          "excerpt": "the whole picture, but that make like going back all the way to the 40s and 50s like having the big people in Hollywood being pro- Israel and the big people in Hollywood having influence in the government, you know. >> Mhm. It's like the early beginnings of the entrenchment of Israel interests in the government, you know, the early some of part of the early stages. >> The Israeli American billionaire Heim Saban who brought Power Rangers"
+        },
+        {
+          "timestamp": "02:24:00",
+          "excerpt": "Ministry of Dude, folks. And that's why you can support us. We're doing going extra folks. We're almost at the end of this, but you can still go on super tip.gg GG/ministry and by the way the the Pilzilla says are genters and also yeah the a lot of these women are stupid and I'm serious when I say like the Harvey Weinstein stuff. He was a [ __ ] pig but he wasn't a rapist. He was just being a [ __ ] fat pig using his power to [ __ ] all"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Ethan Van Sciver",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "01:00:00",
+      "last_timestamp": "01:12:05",
+      "discussion_span_seconds": 725.2,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.839,
+        "positive_hits": 57,
+        "negative_hits": 5
+      },
+      "receipts": [
+        {
+          "timestamp": "01:00:00",
+          "excerpt": "direction though. And then I feel like then then >> you know uh [laughter] have like a a historic saying sometimes we get pointed at our own direction. Scarlet >> the universe Scarlet says >> the universe took me to this bar and told me to talk into my phone. Sometimes Destiny points it right back at your face and you're like, >> \"Yeah, why you pointing at me, Destiny?\" [laughter] >> Sometimes Destiny points with this finger, >> things"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Liam Gray",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "02:00:00",
+      "last_timestamp": "02:12:05",
+      "discussion_span_seconds": 725.3,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.833,
+        "positive_hits": 33,
+        "negative_hits": 3
+      },
+      "receipts": [
+        {
+          "timestamp": "02:00:00",
+          "excerpt": "the whole picture, but that make like going back all the way to the 40s and 50s like having the big people in Hollywood being pro- Israel and the big people in Hollywood having influence in the government, you know. >> Mhm. It's like the early beginnings of the entrenchment of Israel interests in the government, you know, the early some of part of the early stages. >> The Israeli American billionaire Heim Saban who brought Power Rangers"
+        }
+      ],
+      "appearance_status": "uncertain"
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:08",
+      "end": "12:05",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": "We'll start by taking our bowl and we'll pop it in the microwave. We'll set it for in the [music] microwave. In the microwave, [music] 2 minutes. [music] >> [music] >> 2 minutes. And while that's cooking, we'll two minutes open our package. [music] 2 minutes. 2 minutes. 2 minutes. 2 minutes. We'll pour [music] this thing. 2 minutes. [music] 2 minutes. We'll pull it out of the microwave [music] and we'll add in our 2",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    },
+    {
+      "start": "12:02",
+      "end": "24:02",
+      "title": "Clip/reaction: General discussion",
+      "entities": [],
+      "summary_seed": "find out about it. >> Anyway, >> explosion. >> Yeah. So, how about we look at the first thing? This is some dumbass [ __ ] This is real quick one, but I saw it and I'm like, is this for real? Look at this [ __ ] So, so the US uh soccer team just like all the the other ones, just like ours and all of that, they get a prize for getting to a certain part of the World Cup. So, they got 16 million to for getting to the ro",
+      "clip_likelihood": true,
+      "transition_markers": 4
+    },
+    {
+      "start": "24:01",
+      "end": "36:03",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": ">> unless they were black. >> It was funny. >> And that was humiliating. >> Sorry, kids. They took that away from you. >> Could they? Definitely not. Definitely not. Definitely not. And well, maybe you're not familiar with my work. Maybe you're new here. >> Yeah, maybe you're new here and you don't know I'm schizophrenic. Let me introduce you to my diagnostic [laughter] and my list of medications that I refuse to tak",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "36:00",
+      "end": "48:02",
+      "title": "Dick Masterson",
+      "entities": [
+        "Dick Masterson"
+      ],
+      "summary_seed": "this to Tyler. Tyler, figure out figure out who this is. >> Figure out.\" >> Man, I wish Do you remember when like >> we should send you like other skits ops who were like after >> attacking him? Yeah. >> Yeah. I wish we could find them. They weren't that entertaining. They were mostly just crazy people. But >> well, that's what's entertaining. the the the people who who who said he was Timothy McVey, >> he never prov",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "48:01",
+      "end": "01:00:01",
+      "title": "Chrissie Mayr",
+      "entities": [
+        "Chrissie Mayr"
+      ],
+      "summary_seed": "looking at? >> Why is he Why is he talking about cows? What? >> Uh, Taylor. Her name is Taylor. That's a No spelling errors. God damn it. >> Taylor. Let's try to guess what? [laughter] What is he going to say? He made a big point. Taylor. Her name is Taylor. Get it? >> He's about to tell us. >> It's like men. >> Do we have any guesses? >> Clothes. Men make clothes. So, she tailor. She's a tailor. dude's name. >> Oh,",
+      "clip_likelihood": false,
+      "transition_markers": 7
+    },
+    {
+      "start": "01:00:00",
+      "end": "01:12:05",
+      "title": "Ethan Van Sciver",
+      "entities": [
+        "Ethan Van Sciver"
+      ],
+      "summary_seed": "direction though. And then I feel like then then >> you know uh [laughter] have like a a historic saying sometimes we get pointed at our own direction. Scarlet >> the universe Scarlet says >> the universe took me to this bar and told me to talk into my phone. Sometimes Destiny points it right back at your face and you're like, >> \"Yeah, why you pointing at me, Destiny?\" [laughter] >> Sometimes Destiny points with thi",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "01:12:02",
+      "end": "01:24:02",
+      "title": "Dick Masterson",
+      "entities": [
+        "Dick Masterson"
+      ],
+      "summary_seed": "good. Like after the release and got it got patched and all the DLCs and all that, I bought it I bought it two times cuz I'm [ __ ] [ __ ] I bought it on Origin and then I bought it the the whole pack with the DLC. It was easier. It was cheaper to buy the whole pack with every DLC, whatever, whenever I wanted to play it again a couple years ago than to just buy one DLC. So I'm like whatever. I'll buy it again on EA.",
+      "clip_likelihood": false,
+      "transition_markers": 2
+    },
+    {
+      "start": "01:24:00",
+      "end": "01:36:03",
+      "title": "Clip/reaction: Dick Masterson / Chrissie Mayr",
+      "entities": [
+        "Dick Masterson",
+        "Chrissie Mayr"
+      ],
+      "summary_seed": "happen, Scarlet? >> Wait, so a therapist hired her to [ __ ] her and then he [ __ ] her and she's like, \"Okay, instead of paying me, can I just have therapy [laughter] with you?\" >> No, I think the guy offered to give her therapy. >> Oh. Or or >> Oh my god, that's so funny. You >> be right. Oh my [laughter] god. >> I can imagine somebody a therapist [ __ ] her and going like, \"Honey, we got a >> I think you could rea",
+      "clip_likelihood": true,
+      "transition_markers": 4
+    },
+    {
+      "start": "01:36:00",
+      "end": "01:48:03",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": "piece of a much bigger operation and one most remarkably little about. And I was surprised again and again to find just how much effort and care and thought had been put in by Israeli government officials, by Israeli IDF officers into bringing over to Israel's cause what is uh the global entertainment capitalism. >> It involves >> cool. >> Okay. In the 1970s, a man knew what he wanted. Thick sideburns, thicker confid",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    },
+    {
+      "start": "01:48:01",
+      "end": "02:00:03",
+      "title": "Frog Tony",
+      "entities": [
+        "Frog Tony"
+      ],
+      "summary_seed": "mall all crazy and stuff like that's what the kids want to see. And he's right. >> What I what I like here is they've juxosed. Sorry, I've been drinking. >> Can you say you speak English? >> The the chimp monks. Shut the [ __ ] up, Brazilian. You barely speak English, too. [laughter] [ __ ] Uh, >> but I can just juxtapose things, you know. >> He's got you there. >> [ __ ] [ __ ] [ __ ] >> Sorry. Go ahead. >> But the",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "02:00:00",
+      "end": "02:12:05",
+      "title": "Frog Tony / Liam Gray",
+      "entities": [
+        "Frog Tony",
+        "Liam Gray"
+      ],
+      "summary_seed": "the whole picture, but that make like going back all the way to the 40s and 50s like having the big people in Hollywood being pro- Israel and the big people in Hollywood having influence in the government, you know. >> Mhm. It's like the early beginnings of the entrenchment of Israel interests in the government, you know, the early some of part of the early stages. >> The Israeli American billionaire Heim Saban who b",
+      "clip_likelihood": false,
+      "transition_markers": 3
+    },
+    {
+      "start": "02:12:02",
+      "end": "02:24:02",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": ">> just launches him. [laughter] >> What was that? >> Nissan. It was directed. >> Yeah. Apparently, Bobby maybe >> and produced by Israeli filmmakers, financed through their American studio. Before the film was shot, the Israeli military's PR department wrote an internal memo, which according to the book concluded that the film will work in favor of Israel. The chief of staff signed off on the script, and the Israeli",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "02:24:00",
+      "end": "02:36:02",
+      "title": "Dick Masterson / Frog Tony",
+      "entities": [
+        "Dick Masterson",
+        "Frog Tony"
+      ],
+      "summary_seed": "Ministry of Dude, folks. And that's why you can support us. We're doing going extra folks. We're almost at the end of this, but you can still go on super tip.gg GG/ministry and by the way the the Pilzilla says are genters and also yeah the a lot of these women are stupid and I'm serious when I say like the Harvey Weinstein stuff. He was a [ __ ] pig but he wasn't a rapist. He was just being a [ __ ] fat pig using his",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "02:36:00",
+      "end": "02:39:03",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": "screenplay. The film they made follows a lead Mossad operative, AA Kaufman, played by Eric Banner, and is loosely based on a real life Mossad agent. It shows that his certainty about the morality of his actions slowly breaks down and decays. He starts the film as a patriot. He ends it as a man who can't sleep, can't trust anyone, and isn't even sure if the targets are right, >> which is wholly unrealistic. They would",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    }
+  ],
+  "claim_candidates": [
+    {
+      "claimant": "You",
+      "claim": "that you'd never be.",
+      "timestamp": "00:08",
+      "status": "candidate_claim",
+      "receipt": "[music] You said that you'd never be."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "it was the last ministry of Kyle.",
+      "timestamp": "00:08",
+      "status": "opinion_or_inference",
+      "receipt": "I think it was the last ministry of Kyle."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "a number of it's rigged.",
+      "timestamp": "12:02",
+      "status": "opinion_or_inference",
+      "receipt": "Personally, I I think a number of it's rigged."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "how you guys are.",
+      "timestamp": "12:02",
+      "status": "candidate_claim",
+      "receipt": "Like you would like I know how you guys are."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "we can do a little homage so we remember our friend Till.",
+      "timestamp": "12:02",
+      "status": "opinion_or_inference",
+      "receipt": "And since he's not here, I think we can do a little homage so we remember our friend Till."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "he ju he just finds a connection and he goes that's true.",
+      "timestamp": "24:01",
+      "status": "opinion_or_inference",
+      "receipt": "I think he ju he just finds a connection and he goes that's true."
+    },
+    {
+      "claimant": "are",
+      "claim": "to have fallen and well angels are known",
+      "timestamp": "24:01",
+      "status": "candidate_claim",
+      "receipt": "are said to have fallen and well angels are known"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "his life his wife left him I haven't seen",
+      "timestamp": "24:01",
+      "status": "opinion_or_inference",
+      "receipt": "by the way I think his life his wife left him I haven't seen"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "he's crazy are known to have the name L for Elohim and well Samuel L screech powers you see they want you stuck on thinking that there's some trans stuff going on, but there's no trans stuff going on.",
+      "timestamp": "24:01",
+      "status": "opinion_or_inference",
+      "receipt": "I think he's crazy are known to have the name L for Elohim and well Samuel L screech powers you see they want you stuck on thinking that there's some trans stuff going on, but there's no trans stuff going on."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "there might be some kind of fan.",
+      "timestamp": "24:01",
+      "status": "opinion_or_inference",
+      "receipt": "I think there might be some kind of fan."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "someone who is.",
+      "timestamp": "24:01",
+      "status": "candidate_claim",
+      "receipt": "is a liar, but I know someone who is."
+    },
+    {
+      "claimant": "the the the people who who who",
+      "claim": "he was Timothy McVey,",
+      "timestamp": "36:00",
+      "status": "candidate_claim",
+      "receipt": "the the the people who who who said he was Timothy McVey,"
+    },
+    {
+      "claimant": "I can't believe you",
+      "claim": "that.",
+      "timestamp": "36:00",
+      "status": "candidate_claim",
+      "receipt": "Tyler, [laughter] I can't believe you said that."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "it's all working.",
+      "timestamp": "48:01",
+      "status": "opinion_or_inference",
+      "receipt": "But anyway, I think it's all working."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "it's cool that they're playing uh Chrissy Mayor's special in this bar.",
+      "timestamp": "48:01",
+      "status": "opinion_or_inference",
+      "receipt": "Hey, by the way, I think it's cool that they're playing uh Chrissy Mayor's special in this bar."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that guy.",
+      "timestamp": "48:01",
+      "status": "candidate_claim",
+      "receipt": "I still don't get it, but I know that guy."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "it was like during the cuz he was a flagger too.",
+      "timestamp": "48:01",
+      "status": "opinion_or_inference",
+      "receipt": "I think it was like during the cuz he was a flagger too."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "when they were I don't remember exactly.",
+      "timestamp": "48:01",
+      "status": "opinion_or_inference",
+      "receipt": "So I think when they were I don't remember exactly."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "when they were inquiring him and pressing him, he's like, \"Guys, I've been busy.",
+      "timestamp": "48:01",
+      "status": "opinion_or_inference",
+      "receipt": "I think when they were inquiring him and pressing him, he's like, \"Guys, I've been busy."
+    },
+    {
+      "claimant": "I don't know the way he the way he",
+      "claim": "it and it was something like he was [ __ ] like a weird thing to say.",
+      "timestamp": "48:01",
+      "status": "candidate_claim",
+      "receipt": "I don't know the way he the way he said it and it was something like he was [ __ ] like a weird thing to say."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "it was supposed to be like a premium episode.",
+      "timestamp": "01:00:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think it was supposed to be like a premium episode."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "it's [laughter] I think it's cute.",
+      "timestamp": "01:00:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think it's [laughter] I think it's cute."
+    },
+    {
+      "claimant": "he",
+      "claim": "last night he doesn't care so much for the building of the coasters.",
+      "timestamp": "01:00:00",
+      "status": "candidate_claim",
+      "receipt": "He wants to play his roller coaster game and he wants to he wants Well, he said last night he doesn't care so much for the building of the coasters."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "there was some game that was really impressive that one guy made that just had really good simulation and they just",
+      "timestamp": "01:12:02",
+      "status": "opinion_or_inference",
+      "receipt": "I think there was some game that was really impressive that one guy made that just had really good simulation and they just"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "I don't know if it's another one but Roller Coaster Tycoon itself",
+      "timestamp": "01:12:02",
+      "status": "opinion_or_inference",
+      "receipt": "I think I don't know if it's another one but Roller Coaster Tycoon itself"
+    },
+    {
+      "claimant": "have You should have interrupted and",
+      "claim": "games are for kids.",
+      "timestamp": "01:12:02",
+      "status": "candidate_claim",
+      "receipt": "Johnny, you should have You should have interrupted and said games are for kids."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "we will be talking about games.",
+      "timestamp": "01:12:02",
+      "status": "candidate_claim",
+      "receipt": "I know we will be talking about games."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "the guy offered to give her therapy.",
+      "timestamp": "01:24:00",
+      "status": "opinion_or_inference",
+      "receipt": "No, I think the guy offered to give her therapy."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "you could really use some therapy.",
+      "timestamp": "01:24:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think you could really use some therapy."
+    },
+    {
+      "claimant": "anybody that",
+      "claim": "take her back,",
+      "timestamp": "01:24:00",
+      "status": "candidate_claim",
+      "receipt": "So, anybody that says take her back,"
+    },
+    {
+      "claimant": "is that why Carrie C",
+      "claim": "she's got a tick where it sounds like like sounds like she's saying [ __ ]",
+      "timestamp": "01:24:00",
+      "status": "candidate_claim",
+      "receipt": "Oh, is that why Carrie C says she's got a tick where it sounds like like sounds like she's saying [ __ ]"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "she's rubbing her [ __ ] finger on the microphone.",
+      "timestamp": "01:24:00",
+      "status": "opinion_or_inference",
+      "receipt": "Yeah, I think she's rubbing her [ __ ] finger on the microphone."
+    },
+    {
+      "claimant": "I might have",
+      "claim": "something in a stupid uh accent that sounded like that.",
+      "timestamp": "01:24:00",
+      "status": "candidate_claim",
+      "receipt": "I might have said something in a stupid uh accent that sounded like that."
+    },
+    {
+      "claimant": "My doctor",
+      "claim": "it's the probiotics.",
+      "timestamp": "01:36:00",
+      "status": "candidate_claim",
+      "receipt": "My doctor says it's the probiotics."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "it's I think it's cool Israel is helping out Hollywood.",
+      "timestamp": "01:36:00",
+      "status": "opinion_or_inference",
+      "receipt": "I just want to find I think it's I think it's cool Israel is helping out Hollywood."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "they should help more.",
+      "timestamp": "01:36:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think they should help more."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "you could really develop it into something wholesome that reaches every heart in every household of America.",
+      "timestamp": "01:36:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think you could really develop it into something wholesome that reaches every heart in every household of America."
+    },
+    {
+      "claimant": "Glitz and Andles Sheiggles",
+      "claim": "that's not a slogan.",
+      "timestamp": "01:36:00",
+      "status": "candidate_claim",
+      "receipt": "Uh, Glitz and Andles Sheiggles says that's not a slogan."
+    },
+    {
+      "claimant": "and Fight Club",
+      "claim": "he spent years as an Israeli secret agent and arms dealer.",
+      "timestamp": "01:36:00",
+      "status": "candidate_claim",
+      "receipt": "Hits like 12 Years a Slave, Pretty Woman, and Fight Club says he spent years as an Israeli secret agent and arms dealer."
+    },
+    {
+      "claimant": "Milchin",
+      "claim": "what had been rumored for years.",
+      "timestamp": "01:36:00",
+      "status": "candidate_claim",
+      "receipt": "In a recent interview for an Israeli documentary, Milchin confirmed what had been rumored for years."
+    },
+    {
+      "claimant": "He",
+      "claim": "he'd shared these stories with his friend, Robert Dairo.",
+      "timestamp": "01:36:00",
+      "status": "candidate_claim",
+      "receipt": "He said he'd shared these stories with his friend, Robert Dairo."
+    },
+    {
+      "claimant": "he",
+      "claim": "it.",
+      "timestamp": "01:36:00",
+      "status": "candidate_claim",
+      "receipt": "When he'd been asked about his background before, he denied it."
+    },
+    {
+      "claimant": "he",
+      "claim": "everything.",
+      "timestamp": "01:36:00",
+      "status": "candidate_claim",
+      "receipt": "In 200 Minutes, he denied everything."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "it was the other way around.",
+      "timestamp": "01:36:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think it was the other way around."
+    }
+  ],
+  "quote_candidates": [
+    {
+      "timestamp": "01:36:00",
+      "text": "They don't care what you think of them because for them it's an issue of survival.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "02:00:00",
+      "text": "He then explains that Israel is great at predicting and intercepting threats.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "02:12:02",
+      "text": "When activists threatened to boycott,",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "02:12:02",
+      "text": "The agents pursued the women and journalists involved.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "02:24:00",
+      "text": "For that, an Oscar-winning actress was being threatened outside an awards ceremony.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "02:24:00",
+      "text": "Melissa Barrera was fired from Scream 7 the same week for an",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "00:08",
+      "text": "[music] You said that you'd never be.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "00:08",
+      "text": "But [music] now that you're in, you'll never go away.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "00:08",
+      "text": "But anyway, uh, and as always on the Ministry of Kyle, your donations on Super Tip, they go in when you click send.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "12:02",
+      "text": "It's like the world finally figured out what we always knew that the Argentinians are like literally the worst people on planet Earth [laughter] and it's like a picture of uh I show speed, you know, I show Speed.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "24:01",
+      "text": "And well, let's take it all the way back to the beginning for a minute where they always tell us.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "36:00",
+      "text": "he never proved it otherwise, Tyler.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "01:12:02",
+      "text": "It was cheaper to buy the whole pack with every DLC, whatever, whenever I wanted to play it again a couple years ago than to just buy one DLC.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "01:24:00",
+      "text": "[laughter] I've never done coke in my life.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "01:36:00",
+      "text": "I've never had a positive encounter with Mossad.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "01:36:00",
+      "text": "I have never met a CIA officer who has",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "01:36:00",
+      "text": "I've never had a positive encounter with Mossad.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "01:36:00",
+      "text": "I have never met a CIA officer who has had a positive encounter with Mossad.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "02:12:02",
+      "text": "We'll really never know by name how many films and TV shows have run their scripts through ex Mossad offices for review.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "02:12:02",
+      "text": "The the US would never have a policy like that.",
+      "significance_score": 1
+    }
+  ],
+  "relationship_signals": [
+    {
+      "left": "Dick Masterson",
+      "right": "Chrissie Mayr",
+      "signal_type": "criticised",
+      "timestamp": "01:24:00",
+      "confidence": 0.45,
+      "receipt": "happen, Scarlet? >> Wait, so a therapist hired her to [ __ ] her and then he [ __ ] her and she's like, \"Okay, instead of paying me, can I just have therapy [laughter] with you?\" >> No, I think the guy offered to give her therapy. >> Oh. Or or >> Oh my god, that's so funny. You >> be right. Oh my [laughter] god. >> I can imagine somebody a therapist [ __ ] her and going like, \"Honey, we got a >> I think you could really use some therapy",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Dick Masterson",
+      "right": "Frog Tony",
+      "signal_type": "defended",
+      "timestamp": "02:24:00",
+      "confidence": 0.45,
+      "receipt": "Ministry of Dude, folks. And that's why you can support us. We're doing going extra folks. We're almost at the end of this, but you can still go on super tip.gg GG/ministry and by the way the the Pilzilla says are genters and also yeah the a lot of these women are stupid and I'm serious when I say like the Harvey Weinstein stuff. He was a [ __ ] pig but he wasn't a rapist. He was just being a [ __ ] fat pig using his power to [ __ ] all",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Dick Masterson",
+      "right": "Frog Tony",
+      "signal_type": "criticised",
+      "timestamp": "02:24:00",
+      "confidence": 0.45,
+      "receipt": "Ministry of Dude, folks. And that's why you can support us. We're doing going extra folks. We're almost at the end of this, but you can still go on super tip.gg GG/ministry and by the way the the Pilzilla says are genters and also yeah the a lot of these women are stupid and I'm serious when I say like the Harvey Weinstein stuff. He was a [ __ ] pig but he wasn't a rapist. He was just being a [ __ ] fat pig using his power to [ __ ] all",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Dick Masterson",
+      "right": "Frog Tony",
+      "signal_type": "separation",
+      "timestamp": "02:24:00",
+      "confidence": 0.45,
+      "receipt": "Ministry of Dude, folks. And that's why you can support us. We're doing going extra folks. We're almost at the end of this, but you can still go on super tip.gg GG/ministry and by the way the the Pilzilla says are genters and also yeah the a lot of these women are stupid and I'm serious when I say like the Harvey Weinstein stuff. He was a [ __ ] pig but he wasn't a rapist. He was just being a [ __ ] fat pig using his power to [ __ ] all",
+      "warning": "co-mention plus language signal; requires interpretation"
+    }
+  ],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

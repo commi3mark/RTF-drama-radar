@@ -1,0 +1,102 @@
+{
+  "schema_version": "octopuss-preanalysis-v0.1",
+  "generated_at": "2026-07-15T21:04:18.040822+00:00",
+  "video_id": "9NJQwnK7qJg",
+  "title": "TheQuartering’s Mobility Scooter w/ Tuesday Night’s Main Event (Jul 7, 2026)",
+  "source": "Elissa Clips",
+  "published": "2026-07-13T02:56:01+00:00",
+  "packet_hash": "4e6f11dd726fdfa454aaee2500cc9988b5e3d232a2a05c6bbfa3354c5271b921",
+  "coverage": {
+    "first_caption_second": 0.0,
+    "last_caption_second": 204.959,
+    "timestamp_start": "00:00",
+    "timestamp_end": "03:24",
+    "caption_span_seconds": 204.959,
+    "status": "transcript_present",
+    "note": "This measures the caption span only. It does not prove complete coverage of the original video."
+  },
+  "participant_candidates": [
+    {
+      "entity": "Elissa Clips",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.72,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "TheQuartering",
+      "mentions": 8,
+      "block_count": 1,
+      "first_timestamp": "00:00",
+      "last_timestamp": "03:24",
+      "discussion_span_seconds": 205.0,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "positive_hits": 19,
+        "negative_hits": 0
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "ANDRE CR WITH A 10,000. BEARDO, did you fit in the mobility scooter? I understood that joke. Thank you for the >> It's a Quartering joke. Uh thank you for the $10,000, Andre CR. Shout out. Uh Justin Alabaño, what happened? >> What happened, Jeremy? >> Nothing. All the [ __ ] Quartering memes I've been seeing is [ __ ] great. >> guys hear what happened? >> I mean, I heard he had an injury or something like that. >> He blew out his knee."
+        }
+      ],
+      "appearance_status": "uncertain"
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "03:24",
+      "title": "TheQuartering",
+      "entities": [
+        "TheQuartering"
+      ],
+      "summary_seed": "ANDRE CR WITH A 10,000. BEARDO, did you fit in the mobility scooter? I understood that joke. Thank you for the >> It's a Quartering joke. Uh thank you for the $10,000, Andre CR. Shout out. Uh Justin Alabaño, what happened? >> What happened, Jeremy? >> Nothing. All the [ __ ] Quartering memes I've been seeing is [ __ ] great. >> guys hear what happened? >> I mean, I heard he had an injury or something like that. >> He",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    }
+  ],
+  "claim_candidates": [
+    {
+      "claimant": "unknown speaker",
+      "claim": "he had an injury or something like that.",
+      "timestamp": "00:00",
+      "status": "hearsay_candidate",
+      "receipt": "I mean, I heard he had an injury or something like that."
+    },
+    {
+      "claimant": "So he he",
+      "claim": "new Quartering stream uh rig just dropped.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "So he he says new Quartering stream uh rig just dropped."
+    }
+  ],
+  "quote_candidates": [
+    {
+      "timestamp": "00:00",
+      "text": "Maybe an excuse to get some painkillers, I don't know, but blew out his knee and he's going to have to have surgery and he had to upgrade the hospital-issued scooter.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "00:00",
+      "text": "Just randomly be like, \"Dude, you'll never guess.",
+      "significance_score": 1
+    }
+  ],
+  "relationship_signals": [],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

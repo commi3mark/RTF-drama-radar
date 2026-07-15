@@ -1,0 +1,56 @@
+{
+  "relationship_id": "aaron-imholte--ethan-van-sciver",
+  "left": "Aaron Imholte",
+  "right": "Ethan Van Sciver",
+  "signals": [
+    {
+      "video_id": "3VGvnr2bjKw",
+      "episode_title": "Potentially Criminal on Nick Rekieta’s Downfall (Jul 12, 2026)",
+      "source": "Elissa Clips",
+      "left": "Aaron Imholte",
+      "right": "Ethan Van Sciver",
+      "signal_type": "legal_conflict",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "Can we talk about Nick? How open are you to talking about Nick? I suppose like it's probably a good starting point because like >> I mean I I guess we can talk about it and I'll tell you what I feel like telling you. >> That's fair. That's fair >> more or less in that regard. Um, so I mean we when the Nick stuff happened, uh, like when Rakita got arrested and was going downhill, he'd been going downhill for a while. >> Um, like my under",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "3VGvnr2bjKw",
+      "episode_title": "Potentially Criminal on Nick Rekieta’s Downfall (Jul 12, 2026)",
+      "source": "Elissa Clips",
+      "left": "Aaron Imholte",
+      "right": "Ethan Van Sciver",
+      "signal_type": "friendship_claim",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "Can we talk about Nick? How open are you to talking about Nick? I suppose like it's probably a good starting point because like >> I mean I I guess we can talk about it and I'll tell you what I feel like telling you. >> That's fair. That's fair >> more or less in that regard. Um, so I mean we when the Nick stuff happened, uh, like when Rakita got arrested and was going downhill, he'd been going downhill for a while. >> Um, like my under",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "3VGvnr2bjKw",
+      "episode_title": "Potentially Criminal on Nick Rekieta’s Downfall (Jul 12, 2026)",
+      "source": "Elissa Clips",
+      "left": "Aaron Imholte",
+      "right": "Ethan Van Sciver",
+      "signal_type": "separation",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "Can we talk about Nick? How open are you to talking about Nick? I suppose like it's probably a good starting point because like >> I mean I I guess we can talk about it and I'll tell you what I feel like telling you. >> That's fair. That's fair >> more or less in that regard. Um, so I mean we when the Nick stuff happened, uh, like when Rakita got arrested and was going downhill, he'd been going downhill for a while. >> Um, like my under",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "pltu7sa30D8",
+      "episode_title": "Scarlett lives her best life | #932",
+      "source": "Ministry of Dude",
+      "left": "Ethan Van Sciver",
+      "right": "Aaron Imholte",
+      "signal_type": "friendship_claim",
+      "timestamp": "01:24:01",
+      "confidence": 0.45,
+      "receipt": "soil. I don't want to get my passport renewed cuz I want I want to be American forever. Um, >> you want to be American forever? That's cool. >> My friends are always responsible. Like they're telling me it's [music] time to go. And then >> what friends? Who are your friends? Are the friends in this room right now? You you speak up. >> Let's go to Miami. >> Do not ask her who else is in the room. [music] You might get a few different ans",
+      "warning": "co-mention plus language signal; requires interpretation"
+    }
+  ],
+  "updated_at": "2026-07-15T21:04:32.664826+00:00"
+}

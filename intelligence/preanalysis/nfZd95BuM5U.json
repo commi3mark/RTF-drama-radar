@@ -1,0 +1,227 @@
+{
+  "schema_version": "octopuss-preanalysis-v0.1",
+  "generated_at": "2026-07-15T21:04:19.558551+00:00",
+  "video_id": "nfZd95BuM5U",
+  "title": "TONIGHT ON KINO CASINO!! TheQuartering CBC Dropship Confirmed! Total DSP Victory! Angry Joe & More!!",
+  "source": "Elissa Clips",
+  "published": "2026-07-10T20:05:26+00:00",
+  "packet_hash": "40cefce273b57415662def1241de784ba26de185f02db37799350e3ce67f71cb",
+  "coverage": {
+    "first_caption_second": 0.654,
+    "last_caption_second": 952.435,
+    "timestamp_start": "00:00",
+    "timestamp_end": "15:52",
+    "caption_span_seconds": 951.781,
+    "status": "transcript_present",
+    "note": "This measures the caption span only. It does not prove complete coverage of the original video."
+  },
+  "participant_candidates": [
+    {
+      "entity": "Elissa Clips",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.72,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Kino Casino",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "12:01",
+      "last_timestamp": "15:52",
+      "discussion_span_seconds": 230.5,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.913,
+        "positive_hits": 22,
+        "negative_hits": 1
+      },
+      "receipts": [
+        {
+          "timestamp": "12:01",
+          "excerpt": "ent and clipped this up and man, it was like a welcome home. It's like J with like the dead air technical issues. [laughter] Then Joe, like it was honestly one of the most surreal moments of my life. Uttered the words, \"KINO CASINO, >> LET'S GO.\" [screaming] >> AT ONE POINT HE was tricked into saying, \"Whoa, buddy.\" And then Alex is saying, \"Whoa, buddy.\" >> He said it like that, though. >> Yeah. In the back. And it's like, \"Oh, boy.\" >> Why do th"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "TheQuartering",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "00:00",
+      "last_timestamp": "12:05",
+      "discussion_span_seconds": 724.8,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.826,
+        "positive_hits": 42,
+        "negative_hits": 4
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "[screaming] IT'S JAG AGAIN. SUFFISH. [screaming] IT'S FINALLY OVER. THE COFFEE FACTORY MYSTERY HAS BEEN SOLVED. NOT BY LUTHER MORGAN, Misty Mochi, Return of the Mac and Cheese, the internet. Not us. NO ONE. >> NO, NOT US. IT WAS Jared [laughter] in his own stupidity. drunk out of his mind, high oning pills, zoning out on his own show, proving, by the way, that he obviously doesn't have any employees because he's fulfilling the shipping"
+        }
+      ],
+      "appearance_status": "uncertain"
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "12:05",
+      "title": "TheQuartering",
+      "entities": [
+        "TheQuartering"
+      ],
+      "summary_seed": "[screaming] IT'S JAG AGAIN. SUFFISH. [screaming] IT'S FINALLY OVER. THE COFFEE FACTORY MYSTERY HAS BEEN SOLVED. NOT BY LUTHER MORGAN, Misty Mochi, Return of the Mac and Cheese, the internet. Not us. NO ONE. >> NO, NOT US. IT WAS Jared [laughter] in his own stupidity. drunk out of his mind, high oning pills, zoning out on his own show, proving, by the way, that he obviously doesn't have any employees because he's fulf",
+      "clip_likelihood": false,
+      "transition_markers": 2
+    },
+    {
+      "start": "12:01",
+      "end": "15:52",
+      "title": "Kino Casino",
+      "entities": [
+        "Kino Casino"
+      ],
+      "summary_seed": "like every day for a while before this. >> So I think Phil >> I think he was but I think Phil snitched anyway. >> So I'm pretty sure Phil snitched to Kickstaff but they do have like a zero tolerance policy on rereaming and they always have. >> Yeah. Yeah. >> So now he's over on Twitch but how long is this going to last on Twitch? >> I think there was a a clip I have to find it still but it it was And so now him like",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    }
+  ],
+  "claim_candidates": [
+    {
+      "claimant": "unknown speaker",
+      "claim": "that all of the labels",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "I don't think I I thought at first it was customers, but I think that all of the labels"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "so because it was starting to like slow down where it's like, okay, J's going to be phased out here.",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "I I think so because it was starting to like slow down where it's like, okay, J's going to be phased out here."
+    },
+    {
+      "claimant": "and I",
+      "claim": "this [ __ ] and I got him banned.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "and I said this [ __ ] and I got him banned."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "this is going to backfire against Phil and we've seen this with Ralph",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "but now honestly I think this is going to backfire against Phil and we've seen this with Ralph"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "NO I DON'T I DON'T THINK THIS is going to backfire it's short term right because his gains.",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "I THINK NO I DON'T I DON'T THINK THIS is going to backfire it's short term right because his gains."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that those viewers that came in, they were people who were just curious about the Raw Phil's controversy and how Phil was going to address it.",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "But I think that those viewers that came in, they were people who were just curious about the Raw Phil's controversy and how Phil was going to address it."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "he was on kick",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "Although he was able to go I think he was on kick"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "he was but I think Phil snitched anyway.",
+      "timestamp": "12:01",
+      "status": "opinion_or_inference",
+      "receipt": "I think he was but I think Phil snitched anyway."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "there was a a clip I have to find it still but it it was And so now him like winking at that there was the twitch and wink wink",
+      "timestamp": "12:01",
+      "status": "opinion_or_inference",
+      "receipt": "I think there was a a clip I have to find it still but it it was And so now him like winking at that there was the twitch and wink wink"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that in the long term, Phil is going to hurt himself if the detractor space was forced to fully close shop.",
+      "timestamp": "12:01",
+      "status": "opinion_or_inference",
+      "receipt": "And so, I think that in the long term, Phil is going to hurt himself if the detractor space was forced to fully close shop."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "Phil would be done inside six months to a year.",
+      "timestamp": "12:01",
+      "status": "opinion_or_inference",
+      "receipt": "I think Phil would be done inside six months to a year."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "people would just get completely bored",
+      "timestamp": "12:01",
+      "status": "opinion_or_inference",
+      "receipt": "I think people would just get completely bored"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that Phil really shouldn't disturb the balance of his ecosystem of the vortex and once you starting with it, it's just not going to be good for him.",
+      "timestamp": "12:01",
+      "status": "opinion_or_inference",
+      "receipt": "And so I think that Phil really shouldn't disturb the balance of his ecosystem of the vortex and once you starting with it, it's just not going to be good for him."
+    }
+  ],
+  "quote_candidates": [
+    {
+      "timestamp": "00:00",
+      "text": "the exact same playbook where it's like you threaten to sue somebody, you threaten to take down their channel, then two days later it goes down, right?",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "12:01",
+      "text": "It's like J with like the dead air technical issues.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "00:00",
+      "text": "This should never have been allowed.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "00:00",
+      "text": "I mean it's all it's always been a slowly sinking ship on the Philanic right",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "12:01",
+      "text": "So I'm pretty sure Phil snitched to Kickstaff but they do have like a zero tolerance policy on rereaming and they always have.",
+      "significance_score": 1
+    }
+  ],
+  "relationship_signals": [],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

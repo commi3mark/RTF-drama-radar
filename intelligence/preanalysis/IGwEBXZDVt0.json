@@ -1,0 +1,1144 @@
+{
+  "schema_version": "octopuss-preanalysis-v0.1",
+  "generated_at": "2026-07-15T21:04:23.143884+00:00",
+  "video_id": "IGwEBXZDVt0",
+  "title": "The Biggest Problem in the Universe Comes to an END!",
+  "source": "KatyDid",
+  "published": "2026-07-04T15:15:35+00:00",
+  "packet_hash": "ffc3b4c39ff2c8e6711219acf540231be5307e65d9eb5c2f531c89f69e9d3de8",
+  "coverage": {
+    "first_caption_second": 0.48,
+    "last_caption_second": 4067.16,
+    "timestamp_start": "00:00",
+    "timestamp_end": "01:07:47",
+    "caption_span_seconds": 4066.68,
+    "status": "transcript_present",
+    "note": "This measures the caption span only. It does not prove complete coverage of the original video."
+  },
+  "participant_candidates": [
+    {
+      "entity": "KatyDid",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.72,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    },
+    {
+      "entity": "Eric July",
+      "role_guess": "likely_participant",
+      "confidence": 0.55,
+      "signals": [
+        "directly addressed 3 times",
+        "appears in 4 distant transcript blocks"
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Dick Masterson",
+      "mentions": 21,
+      "block_count": 2,
+      "first_timestamp": "00:00",
+      "last_timestamp": "24:02",
+      "discussion_span_seconds": 1441.8,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.805,
+        "positive_hits": 74,
+        "negative_hits": 8
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "Yeah. So, that's my second problem is jail should be a little more fun. It still can be jail. >> Wait, is that your problem? Jail should be more fun or having to be nice to cops? >> I think it's a double. It's a twofer. Cuz now I'm realizing >> do this shit. >> What? I'm realizing that the problem is that a black lady heals you got to go to jail. The >> problem is having to be nice to cops is funny all problem. All right. >> All right."
+        },
+        {
+          "timestamp": "12:02",
+          "excerpt": ">> you're going to fix the focal length issue. >> The focal length is great. >> Mr. Jicky for 10. The next week I'll be reading my physical copy of Superkillers shipped to my house for free. How much is it going to cost to get my coloring book? beat up. >> I mean, I knew this was coming. I just didn't know you were going to ask for 25% for nothing. It's crazy. I know. If I was if I was giving something, it'd be more. [laughter] Cameron"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Eric July",
+      "mentions": 12,
+      "block_count": 4,
+      "first_timestamp": "12:02",
+      "last_timestamp": "01:00:02",
+      "discussion_span_seconds": 2879.3,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.839,
+        "positive_hits": 263,
+        "negative_hits": 23
+      },
+      "receipts": [
+        {
+          "timestamp": "12:02",
+          "excerpt": "have to be at odds with each other. I think we can just do a fun show.\" And people have been constantly needling this like drama. And at a certain point, it just became >> Wait, what do you mean needling the drama? Like Eric July? That's people loved the Eric July stuff. That was >> people going to you and going, \"Oh, Veto did this thing wrong. Veto said this, which is shitty.\" Just like trying to stir up this weird fucking animosity. >> People"
+        },
+        {
+          "timestamp": "24:00",
+          "excerpt": "guys are going like Veto is an absolute joke. He provides nothing. All of this is just comedy. >> When did I say that? I just funny. >> You're saying I'm Patrick Tomlinson. I'm Liam Gray. I'm I'm a what? I'm Boogie. >> Eric July. No, he didn't say Boogie. I I don't think that's that sphere really. Um the reference wouldn't make sense. Uh >> I don't understand. >> You don't think those guys are funny? I don't understand why me showing up every w"
+        },
+        {
+          "timestamp": "36:01",
+          "excerpt": "sting to see how little the second one makes? Like, do you understand why that's interesting to people? >> Dude, I cannot understand rooting for someone to fail who's just trying to make >> That's insane. You rooted for Eric July to fail for like two years. The best parts of the show. >> I did not root for Eric July fail. I very specifically said, dude, I very specifically said I got no problem with Eric making a comic. And if he was doing it in"
+        },
+        {
+          "timestamp": "48:00",
+          "excerpt": "at if we spent all our time obsessively telling the people who are making shit what fucking retards they are and how much they suck okay there's yeah there's room for criticism and I get that you you do it even the Eric Eric July stuff at some point started going to the point where I'm like, \"Okay, now we're getting pedantic. Now, now we're getting a little too retarded with the Eric July.\" Okay, so some of the >> Yeah, >> look, it's fun to get"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Frog Tony",
+      "mentions": 11,
+      "block_count": 3,
+      "first_timestamp": "36:01",
+      "last_timestamp": "01:07:47",
+      "discussion_span_seconds": 1905.6,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.834,
+        "positive_hits": 155,
+        "negative_hits": 14
+      },
+      "receipts": [
+        {
+          "timestamp": "36:01",
+          "excerpt": "he was working on a different book. We've talked about this. He thought that book was going to wrap up quickly, but that first year pages were not coming in, and it's whatever. That's part of making an indie comic, man, is like, I don't have the money. >> Color it fast enough. >> And then I got a letterer, and the letterer didn't do a good job. And then I got a different colorist before I brought on the current colorist, and they weren'"
+        },
+        {
+          "timestamp": "48:00",
+          "excerpt": "this week? >> I cut Veto off so I could run my very successful hack [clears throat] the movie show. >> See, there you go. Now it's about how other people are failures. Like it's you have a fixation on success and failure that you insult people with >> always. I have a fixation on I don't understand why we're not just work all working together to promote each other. >> I love promoting my friends and I love seeing them succeed. When I wa"
+        },
+        {
+          "timestamp": "01:00:00",
+          "excerpt": "I MEAN, DUDE, I LOOK AT HOWARD STERN. Arty Lang was fucking high on heroin. Okay. He got kicked off the show. >> It's funny that you're comparing yourself to Arty Lang. Like even that is presumptuous. Arty Lang is a thousand times the entertainer you are. >> But you're saying the show ended because Veto is such a massive crash out fuckup. And I go great entertainers of all time of fucking heroin. What did I do? I had a late comic book."
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Ethan Van Sciver",
+      "mentions": 6,
+      "block_count": 2,
+      "first_timestamp": "36:01",
+      "last_timestamp": "01:00:02",
+      "discussion_span_seconds": 1440.7,
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.879,
+        "positive_hits": 124,
+        "negative_hits": 8
+      },
+      "receipts": [
+        {
+          "timestamp": "36:01",
+          "excerpt": "he was working on a different book. We've talked about this. He thought that book was going to wrap up quickly, but that first year pages were not coming in, and it's whatever. That's part of making an indie comic, man, is like, I don't have the money. >> Color it fast enough. >> And then I got a letterer, and the letterer didn't do a good job. And then I got a different colorist before I brought on the current colorist, and they weren'"
+        },
+        {
+          "timestamp": "48:00",
+          "excerpt": "this week? >> I cut Veto off so I could run my very successful hack [clears throat] the movie show. >> See, there you go. Now it's about how other people are failures. Like it's you have a fixation on success and failure that you insult people with >> always. I have a fixation on I don't understand why we're not just work all working together to promote each other. >> I love promoting my friends and I love seeing them succeed. When I wa"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Liam Gray",
+      "mentions": 4,
+      "block_count": 2,
+      "first_timestamp": "24:00",
+      "last_timestamp": "48:00",
+      "discussion_span_seconds": 1440.6,
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.856,
+        "positive_hits": 155,
+        "negative_hits": 12
+      },
+      "receipts": [
+        {
+          "timestamp": "24:00",
+          "excerpt": "'s name in vain. Your Plums were your only supporters. Uh Cameron for two. Veto, why are you shaking? This is Cameron. I'm just bouncing my leg. Comic artist pro secrets for five. It's crazy how Veto became exactly like Liam Gray or July [laughter] Patrick S. Tomlin with this shit. Riley broke him. I don't agree. I [laughter] think I just kept making stuff. Guys, I don't understand. Don't say the N word. >> Guys, I know you're trying to manufact"
+        },
+        {
+          "timestamp": "36:01",
+          "excerpt": "So, where are we going with this? >> How does it go for them? Like what do people think about that? What do you think about them? >> I give me an example of somebody. >> You can't think of anybody who's obsessed with >> Liam Gray. How about Liam Gray? >> Yeah, he's a good example. Sure. Sure. Okay. And you know what he does with with his obsessiveness over his haters is he streams about him all the time. He tweets about him all the time. He brin"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Vito Gesualdi",
+      "mentions": 2,
+      "block_count": 1,
+      "first_timestamp": "48:00",
+      "last_timestamp": "01:00:02",
+      "discussion_span_seconds": 722.1,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.839,
+        "positive_hits": 57,
+        "negative_hits": 5
+      },
+      "receipts": [
+        {
+          "timestamp": "48:00",
+          "excerpt": "this week? >> I cut Veto off so I could run my very successful hack [clears throat] the movie show. >> See, there you go. Now it's about how other people are failures. Like it's you have a fixation on success and failure that you insult people with >> always. I have a fixation on I don't understand why we're not just work all working together to promote each other. >> I love promoting my friends and I love seeing them succeed. When I wa"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Cyberfrog",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "48:00",
+      "last_timestamp": "01:00:02",
+      "discussion_span_seconds": 722.1,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.839,
+        "positive_hits": 57,
+        "negative_hits": 5
+      },
+      "receipts": [
+        {
+          "timestamp": "48:00",
+          "excerpt": "e being helpful. I really do. And all the other guys out there comics gan if you're watching this. >> I like being helpful. I like being useful. You know what the most useful you could ask me? You asking me for notes on Cyberfrog and then going, \"Hey, those are pretty useful notes was >> really cool and I really took some pride in that.\" >> But then you called him a hasbin. >> When did I ever call him a hasbin? What do you >> When me and EVs Whe"
+        }
+      ],
+      "appearance_status": "uncertain"
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "12:04",
+      "title": "Dick Masterson",
+      "entities": [
+        "Dick Masterson"
+      ],
+      "summary_seed": "Yeah. So, that's my second problem is jail should be a little more fun. It still can be jail. >> Wait, is that your problem? Jail should be more fun or having to be nice to cops? >> I think it's a double. It's a twofer. Cuz now I'm realizing >> do this shit. >> What? I'm realizing that the problem is that a black lady heals you got to go to jail. The >> problem is having to be nice to cops is funny all problem. All r",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    },
+    {
+      "start": "12:02",
+      "end": "24:02",
+      "title": "Dick Masterson / Eric July",
+      "entities": [
+        "Dick Masterson",
+        "Eric July"
+      ],
+      "summary_seed": ">> you're going to fix the focal length issue. >> The focal length is great. >> Mr. Jicky for 10. The next week I'll be reading my physical copy of Superkillers shipped to my house for free. How much is it going to cost to get my coloring book? beat up. >> I mean, I knew this was coming. I just didn't know you were going to ask for 25% for nothing. It's crazy. I know. If I was if I was giving something, it'd be more.",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    },
+    {
+      "start": "24:00",
+      "end": "36:02",
+      "title": "Eric July / Liam Gray",
+      "entities": [
+        "Eric July",
+        "Liam Gray"
+      ],
+      "summary_seed": "fucking panicking.\" L >> I'm not panicking. My strongest soldier. He look, dude, I've known for a year that you would eventually end the show over something. I mean, honestly, >> I'm not ending it. I'm just I'm giving you I'm saying it could go on in this version. You're saying that's not enough money for you. So, it's not it's not me ending it. I'm saying this version could continue with this these guys that you lov",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "36:01",
+      "end": "48:00",
+      "title": "Eric July / Frog Tony / Ethan Van Sciver",
+      "entities": [
+        "Eric July",
+        "Frog Tony",
+        "Ethan Van Sciver",
+        "Liam Gray"
+      ],
+      "summary_seed": "he was working on a different book. We've talked about this. He thought that book was going to wrap up quickly, but that first year pages were not coming in, and it's whatever. That's part of making an indie comic, man, is like, I don't have the money. >> Color it fast enough. >> And then I got a letterer, and the letterer didn't do a good job. And then I got a different colorist before I brought on the current color",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "48:00",
+      "end": "01:00:02",
+      "title": "Ethan Van Sciver / Eric July / Frog Tony",
+      "entities": [
+        "Ethan Van Sciver",
+        "Eric July",
+        "Frog Tony",
+        "Vito Gesualdi",
+        "Cyberfrog"
+      ],
+      "summary_seed": "this week? >> I cut Veto off so I could run my very successful hack [clears throat] the movie show. >> See, there you go. Now it's about how other people are failures. Like it's you have a fixation on success and failure that you insult people with >> always. I have a fixation on I don't understand why we're not just work all working together to promote each other. >> I love promoting my friends and I love seeing the",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    },
+    {
+      "start": "01:00:00",
+      "end": "01:07:47",
+      "title": "Frog Tony",
+      "entities": [
+        "Frog Tony"
+      ],
+      "summary_seed": "I MEAN, DUDE, I LOOK AT HOWARD STERN. Arty Lang was fucking high on heroin. Okay. He got kicked off the show. >> It's funny that you're comparing yourself to Arty Lang. Like even that is presumptuous. Arty Lang is a thousand times the entertainer you are. >> But you're saying the show ended because Veto is such a massive crash out fuckup. And I go great entertainers of all time of fucking heroin. What did I do? I had",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    }
+  ],
+  "claim_candidates": [
+    {
+      "claimant": "unknown speaker",
+      "claim": "you're a you're I know you're very emotional.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "I know you're a you're I know you're very emotional."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "it's a tiny reduction and he gets to continue the show.",
+      "timestamp": "12:02",
+      "status": "candidate_claim",
+      "receipt": "I know it's a tiny reduction and he gets to continue the show."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "it's got to be you and Billy.",
+      "timestamp": "12:02",
+      "status": "opinion_or_inference",
+      "receipt": "I think it's got to be you and Billy."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "me and Billy are good together.",
+      "timestamp": "12:02",
+      "status": "opinion_or_inference",
+      "receipt": "I think me and Billy are good together."
+    },
+    {
+      "claimant": "that's you",
+      "claim": "you wanted your copy.",
+      "timestamp": "12:02",
+      "status": "candidate_claim",
+      "receipt": "Well, that's you said you wanted your copy."
+    },
+    {
+      "claimant": "You",
+      "claim": "whoever gets me my copy, so you're getting your copy.",
+      "timestamp": "12:02",
+      "status": "candidate_claim",
+      "receipt": "You said whoever gets me my copy, so you're getting your copy."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "we can just do a fun show.\" And people have been constantly needling this like drama.",
+      "timestamp": "12:02",
+      "status": "opinion_or_inference",
+      "receipt": "I think we can just do a fun show.\" And people have been constantly needling this like drama."
+    },
+    {
+      "claimant": "Veto",
+      "claim": "this, which is shitty.\" Just like trying to stir up this weird fucking animosity.",
+      "timestamp": "12:02",
+      "status": "candidate_claim",
+      "receipt": "Veto said this, which is shitty.\" Just like trying to stir up this weird fucking animosity."
+    },
+    {
+      "claimant": "When all I",
+      "claim": "to you was",
+      "timestamp": "12:02",
+      "status": "candidate_claim",
+      "receipt": "egging basically egging him on going, \"I can't believe Veto would bother me with this.\" When all I said to you was"
+    },
+    {
+      "claimant": "When all I",
+      "claim": "to you was, \"Hey, I'm not going to promote guys who are coming to film shit at my house.",
+      "timestamp": "12:02",
+      "status": "candidate_claim",
+      "receipt": "When all I said to you was, \"Hey, I'm not going to promote guys who are coming to film shit at my house."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "he knew whose kids Sean was.",
+      "timestamp": "12:02",
+      "status": "opinion_or_inference",
+      "receipt": "I think he knew whose kids Sean was."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "it's a pretty good deal.",
+      "timestamp": "24:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think it's a pretty good deal."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "I'm a great podcaster.",
+      "timestamp": "24:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think I'm a great podcaster."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "I'm a funny guy and I think I will find a home continuing to podcast.",
+      "timestamp": "24:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think I'm a funny guy and I think I will find a home continuing to podcast."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "if there's an audience out there that likes when the show was just about having fun and doing comedy.",
+      "timestamp": "24:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think if there's an audience out there that likes when the show was just about having fun and doing comedy."
+    },
+    {
+      "claimant": "Uh Johnny Rocket for five",
+      "claim": "Veto will regret not taking the 25% in a year.",
+      "timestamp": "24:00",
+      "status": "candidate_claim",
+      "receipt": "Uh Johnny Rocket for five says Veto will regret not taking the 25% in a year."
+    },
+    {
+      "claimant": "Tobs uh comic book pro secrets for twos",
+      "claim": "I'm crying laughing.",
+      "timestamp": "24:00",
+      "status": "candidate_claim",
+      "receipt": "Tobs uh comic book pro secrets for twos says I'm crying laughing."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "you're trying to manufacture me into like some sort of low account character and you just never got it.",
+      "timestamp": "24:00",
+      "status": "candidate_claim",
+      "receipt": "Guys, I know you're trying to manufacture me into like some sort of low account character and you just never got it."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "you are trying to manufacture like this Maddox character.",
+      "timestamp": "24:00",
+      "status": "opinion_or_inference",
+      "receipt": "No, I think you are trying to manufacture like this Maddox character."
+    },
+    {
+      "claimant": "All the only thing I've ever",
+      "claim": "is",
+      "timestamp": "24:00",
+      "status": "candidate_claim",
+      "receipt": "All the only thing I've ever said is"
+    },
+    {
+      "claimant": "I mean what I",
+      "claim": "is accurate.",
+      "timestamp": "24:00",
+      "status": "candidate_claim",
+      "receipt": "I mean what I said is accurate."
+    },
+    {
+      "claimant": "What I",
+      "claim": "is an accurate explanation of why we",
+      "timestamp": "24:00",
+      "status": "candidate_claim",
+      "receipt": "What I said is an accurate explanation of why we"
+    },
+    {
+      "claimant": "I think I've very clearly",
+      "claim": "from day one, I said, \"Hey, listen, man.",
+      "timestamp": "24:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think I've very clearly said from day one, I said, \"Hey, listen, man."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "I've done I think I've done okay.",
+      "timestamp": "24:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think I've done I think I've done okay."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "I make okay shit.",
+      "timestamp": "24:00",
+      "status": "opinion_or_inference",
+      "receipt": "I've made a lot of content that I look at it and I go even from a a personal standpoint of uh yeah, obviously I'm going to be biased towards my own works, but I look at it, I go, I don't know, man, I think I make okay shit."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "I can make something happen.",
+      "timestamp": "24:00",
+      "status": "opinion_or_inference",
+      "receipt": "I have to be reckless enough to say I think I can make something happen."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "you know we had another month of shows and you and Billy can continue doing it after that for a measly 25 are very good at just ending things and to me I go this will always be a part of me and it's something that yes I took very seriously.",
+      "timestamp": "24:00",
+      "status": "candidate_claim",
+      "receipt": "Uh I know you know we had another month of shows and you and Billy can continue doing it after that for a measly 25 are very good at just ending things and to me I go this will always be a part of me and it's something that yes I took very seriously."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "Skizosan's another guy who just got fucking irony poisoned and now it seems like Skizan realizes, \"Oh shit, I was so caught up in the fucking manufactured frenzy",
+      "timestamp": "24:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think Skizosan's another guy who just got fucking irony poisoned and now it seems like Skizan realizes, \"Oh shit, I was so caught up in the fucking manufactured frenzy"
+    },
+    {
+      "claimant": "just wearing a blue shirt that day and I",
+      "claim": "I'm not going to change the shirt just because a guy I I don't like the idea that my life is being dictated by other assholes that like I have to change my shirt because a guy's coming.",
+      "timestamp": "24:00",
+      "status": "candidate_claim",
+      "receipt": "I was just wearing a blue shirt that day and I said I'm not going to change the shirt just because a guy I I don't like the idea that my life is being dictated by other assholes that like I have to change my shirt because a guy's coming."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "for the most part I've I've basically stopped a lot of what I was doing.",
+      "timestamp": "24:00",
+      "status": "opinion_or_inference",
+      "receipt": "Well, I think for the most part I've I've basically stopped a lot of what I was doing."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "if anything, the show has shown me that podcasting is one of the things I'm good at.",
+      "timestamp": "24:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think if anything, the show has shown me that podcasting is one of the things I'm good at."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "the shit",
+      "timestamp": "36:01",
+      "status": "opinion_or_inference",
+      "receipt": "Like honestly, I think the shit"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "I've already failed at a lot of stuff.",
+      "timestamp": "36:01",
+      "status": "opinion_or_inference",
+      "receipt": "I think I've already failed at a lot of stuff."
+    },
+    {
+      "claimant": "I very specifically",
+      "claim": "I got no problem with Eric making a comic.",
+      "timestamp": "36:01",
+      "status": "candidate_claim",
+      "receipt": "I very specifically said, dude, I very specifically said I got no problem with Eric making a comic."
+    },
+    {
+      "claimant": "But people constantly",
+      "claim": "that you blocked them or an asshole to them about uh even asking for updates about the comic.",
+      "timestamp": "36:01",
+      "status": "candidate_claim",
+      "receipt": "But people constantly said that you blocked them or an asshole to them about uh even asking for updates about the comic."
+    },
+    {
+      "claimant": "And you",
+      "claim": "it is.",
+      "timestamp": "36:01",
+      "status": "candidate_claim",
+      "receipt": "\"Hey, is there any updates?\" And you said it is."
+    },
+    {
+      "claimant": "once because you show up on my feed and I",
+      "claim": "hi.",
+      "timestamp": "36:01",
+      "status": "opinion_or_inference",
+      "receipt": "I think I showed up exactly once because you show up on my feed and I said hi."
+    },
+    {
+      "claimant": "do I have like a cool background and I",
+      "claim": "this is a great guy and I ran into",
+      "timestamp": "48:00",
+      "status": "candidate_claim",
+      "receipt": "excited about promoting my friends and trying to see them succeed and giving them opportunities and if I have work that I can possibly give them or they have work that they need or something I can you know I had a guy he had a little YouTube channel and he goes how do I have like a cool background and I said this is a great guy and I ran into"
+    },
+    {
+      "claimant": "no I ran into fucking Premiere and I",
+      "claim": "well you could try animating the background like this or whatever else and",
+      "timestamp": "48:00",
+      "status": "candidate_claim",
+      "receipt": "no I ran into fucking Premiere and I said well you could try animating the background like this or whatever else and"
+    },
+    {
+      "claimant": "And if I",
+      "claim": "that, I that would be the only time I said that.",
+      "timestamp": "48:00",
+      "status": "candidate_claim",
+      "receipt": "It's two hasbins.\" [laughter] And if I said that, I that would be the only time I said that."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "I think you guys were razing me.",
+      "timestamp": "48:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think I think you guys were razing me."
+    },
+    {
+      "claimant": "It's It",
+      "claim": "there was three, but there was four shots.",
+      "timestamp": "48:00",
+      "status": "candidate_claim",
+      "receipt": "It's It said there was three, but there was four shots."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "how many times the gun shoots me on Reddit that shows the whole comic with a gun that shoots more than three times.",
+      "timestamp": "48:00",
+      "status": "candidate_claim",
+      "receipt": "like a mistake cuz I know how many times the gun shoots me on Reddit that shows the whole comic with a gun that shoots more than three times."
+    },
+    {
+      "claimant": "I tried to express at one point was I",
+      "claim": "listen guys",
+      "timestamp": "48:00",
+      "status": "candidate_claim",
+      "receipt": "what I tried to express at one point was I said listen guys"
+    },
+    {
+      "claimant": "I understand veto's a fuck up veto",
+      "claim": "shit that pisses me off I want to raz veto there's a certain level at which the fuck veto veto is a piece of shit trick bra actually impacts my my motivation where I'm like, well, why am I doing",
+      "timestamp": "48:00",
+      "status": "candidate_claim",
+      "receipt": "I understand veto's a fuck up veto says shit that pisses me off I want to raz veto there's a certain level at which the fuck veto veto is a piece of shit trick bra actually impacts my my motivation where I'm like, well, why am I doing"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "there's different spa.",
+      "timestamp": "48:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think there's different spa."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "there's different",
+      "timestamp": "48:00",
+      "status": "opinion_or_inference",
+      "receipt": "Look, I think there's different"
+    },
+    {
+      "claimant": "is a perfect example of a guy who I",
+      "claim": "I really like this guy.",
+      "timestamp": "48:00",
+      "status": "candidate_claim",
+      "receipt": "Tony from Hack the Movies is a perfect example of a guy who I said I really like this guy."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "we get very limited chances in life to build something meaningful.",
+      "timestamp": "48:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think we get very limited chances in life to build something meaningful."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "for a brief moment, we built something meaningful with this show.",
+      "timestamp": "48:00",
+      "status": "opinion_or_inference",
+      "receipt": "And I think for a brief moment, we built something meaningful with this show."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "they really want that from me and I was never able to give it to you guys.",
+      "timestamp": "48:00",
+      "status": "candidate_claim",
+      "receipt": "And I know they really want that from me and I was never able to give it to you guys."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "it's delusional that you guys have to pretend IT'S THIS ONGOING, OH MY GOD, HE COMPLETELY CRASHED OUT.",
+      "timestamp": "48:00",
+      "status": "opinion_or_inference",
+      "receipt": "dude, [laughter] I think it's delusional that you guys have to pretend IT'S THIS ONGOING, OH MY GOD, HE COMPLETELY CRASHED OUT."
+    }
+  ],
+  "quote_candidates": [
+    {
+      "timestamp": "12:02",
+      "text": "you're going to fix the focal length issue.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "12:02",
+      "text": "Like, you really wanted some blow up where I betray Dick and I go nuts and I sue him.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "24:00",
+      "text": "No, we're we definitely have huge issues.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "01:00:00",
+      "text": "You took issue with the fact that I was managing it and then you decided to just not manage it at all, which has made it considerably worse.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "12:02",
+      "text": "The comic was never part of the show.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "12:02",
+      "text": "Dude, it's it's the same shit they always do, like where they go, well, if we just harass him over and over, eventually he'll freak out.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "12:02",
+      "text": "I will never be a great comic creator.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "12:02",
+      "text": "As far as I knew, he was like always around.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "24:00",
+      "text": "Guys, I know you're trying to manufacture me into like some sort of low account character and you just never got it.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "24:00",
+      "text": "Like your the success of your comic that you you always throw that in people's faces who are lesser than you.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "24:00",
+      "text": "When everybody's telling me you're a complete failure, you'll never make anything of yourself.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "24:00",
+      "text": "there was there was always some new thing or veto did this thing wrong and we're going to this week we're going to focus on this thing Veto did wrong",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "36:01",
+      "text": "You never got to make me into a local cow, guys.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "36:01",
+      "text": "You never uh you have never gotten multiple streams right now in circles.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "48:00",
+      "text": "Do you have a gun that when you shoot the clip, the clip's empty forever and you can never put more bullets in it?",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "48:00",
+      "text": "Vito, you cry and cry and cry, pretending you're never responsible for your actions.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "48:00",
+      "text": "And I know they really want that from me and I was never able to give it to you guys.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "01:00:00",
+      "text": "That's the most important part is that I never I never I never asked you for any gratitude on any of it.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "01:00:00",
+      "text": "never tried to talk to me for seconds.",
+      "significance_score": 1
+    }
+  ],
+  "relationship_signals": [
+    {
+      "left": "Dick Masterson",
+      "right": "Eric July",
+      "signal_type": "criticised",
+      "timestamp": "12:02",
+      "confidence": 0.45,
+      "receipt": ">> you're going to fix the focal length issue. >> The focal length is great. >> Mr. Jicky for 10. The next week I'll be reading my physical copy of Superkillers shipped to my house for free. How much is it going to cost to get my coloring book? beat up. >> I mean, I knew this was coming. I just didn't know you were going to ask for 25% for nothing. It's crazy. I know. If I was if I was giving something, it'd be more. [laughter] Cameron",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Dick Masterson",
+      "right": "Eric July",
+      "signal_type": "promoted",
+      "timestamp": "12:02",
+      "confidence": 0.45,
+      "receipt": ">> you're going to fix the focal length issue. >> The focal length is great. >> Mr. Jicky for 10. The next week I'll be reading my physical copy of Superkillers shipped to my house for free. How much is it going to cost to get my coloring book? beat up. >> I mean, I knew this was coming. I just didn't know you were going to ask for 25% for nothing. It's crazy. I know. If I was if I was giving something, it'd be more. [laughter] Cameron",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Dick Masterson",
+      "right": "Eric July",
+      "signal_type": "collaborated",
+      "timestamp": "12:02",
+      "confidence": 0.45,
+      "receipt": ">> you're going to fix the focal length issue. >> The focal length is great. >> Mr. Jicky for 10. The next week I'll be reading my physical copy of Superkillers shipped to my house for free. How much is it going to cost to get my coloring book? beat up. >> I mean, I knew this was coming. I just didn't know you were going to ask for 25% for nothing. It's crazy. I know. If I was if I was giving something, it'd be more. [laughter] Cameron",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Dick Masterson",
+      "right": "Eric July",
+      "signal_type": "legal_conflict",
+      "timestamp": "12:02",
+      "confidence": 0.45,
+      "receipt": ">> you're going to fix the focal length issue. >> The focal length is great. >> Mr. Jicky for 10. The next week I'll be reading my physical copy of Superkillers shipped to my house for free. How much is it going to cost to get my coloring book? beat up. >> I mean, I knew this was coming. I just didn't know you were going to ask for 25% for nothing. It's crazy. I know. If I was if I was giving something, it'd be more. [laughter] Cameron",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Eric July",
+      "right": "Liam Gray",
+      "signal_type": "criticised",
+      "timestamp": "24:00",
+      "confidence": 0.45,
+      "receipt": "guys are going like Veto is an absolute joke. He provides nothing. All of this is just comedy. >> When did I say that? I just funny. >> You're saying I'm Patrick Tomlinson. I'm Liam Gray. I'm I'm a what? I'm Boogie. >> Eric July. No, he didn't say Boogie. I I don't think that's that sphere really. Um the reference wouldn't make sense. Uh >> I don't understand. >> You don't think those guys are funny? I don't understand why me showing up every w",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Eric July",
+      "right": "Frog Tony",
+      "signal_type": "defended",
+      "timestamp": "36:01",
+      "confidence": 0.45,
+      "receipt": "sting to see how little the second one makes? Like, do you understand why that's interesting to people? >> Dude, I cannot understand rooting for someone to fail who's just trying to make >> That's insane. You rooted for Eric July to fail for like two years. The best parts of the show. >> I did not root for Eric July fail. I very specifically said, dude, I very specifically said I got no problem with Eric making a comic. And if he was doing it in",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Eric July",
+      "right": "Ethan Van Sciver",
+      "signal_type": "defended",
+      "timestamp": "36:01",
+      "confidence": 0.45,
+      "receipt": "sting to see how little the second one makes? Like, do you understand why that's interesting to people? >> Dude, I cannot understand rooting for someone to fail who's just trying to make >> That's insane. You rooted for Eric July to fail for like two years. The best parts of the show. >> I did not root for Eric July fail. I very specifically said, dude, I very specifically said I got no problem with Eric making a comic. And if he was doing it in",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Eric July",
+      "right": "Liam Gray",
+      "signal_type": "defended",
+      "timestamp": "36:01",
+      "confidence": 0.45,
+      "receipt": "sting to see how little the second one makes? Like, do you understand why that's interesting to people? >> Dude, I cannot understand rooting for someone to fail who's just trying to make >> That's insane. You rooted for Eric July to fail for like two years. The best parts of the show. >> I did not root for Eric July fail. I very specifically said, dude, I very specifically said I got no problem with Eric making a comic. And if he was doing it in",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Ethan Van Sciver",
+      "signal_type": "defended",
+      "timestamp": "36:01",
+      "confidence": 0.45,
+      "receipt": "he was working on a different book. We've talked about this. He thought that book was going to wrap up quickly, but that first year pages were not coming in, and it's whatever. That's part of making an indie comic, man, is like, I don't have the money. >> Color it fast enough. >> And then I got a letterer, and the letterer didn't do a good job. And then I got a different colorist before I brought on the current colorist, and they weren'",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Liam Gray",
+      "signal_type": "defended",
+      "timestamp": "36:01",
+      "confidence": 0.45,
+      "receipt": "he was working on a different book. We've talked about this. He thought that book was going to wrap up quickly, but that first year pages were not coming in, and it's whatever. That's part of making an indie comic, man, is like, I don't have the money. >> Color it fast enough. >> And then I got a letterer, and the letterer didn't do a good job. And then I got a different colorist before I brought on the current colorist, and they weren'",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Liam Gray",
+      "signal_type": "defended",
+      "timestamp": "36:01",
+      "confidence": 0.45,
+      "receipt": "he was working on a different book. We've talked about this. He thought that book was going to wrap up quickly, but that first year pages were not coming in, and it's whatever. That's part of making an indie comic, man, is like, I don't have the money. >> Color it fast enough. >> And then I got a letterer, and the letterer didn't do a good job. And then I got a different colorist before I brought on the current colorist, and they weren'",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Eric July",
+      "right": "Frog Tony",
+      "signal_type": "criticised",
+      "timestamp": "48:00",
+      "confidence": 0.45,
+      "receipt": "at if we spent all our time obsessively telling the people who are making shit what fucking retards they are and how much they suck okay there's yeah there's room for criticism and I get that you you do it even the Eric Eric July stuff at some point started going to the point where I'm like, \"Okay, now we're getting pedantic. Now, now we're getting a little too retarded with the Eric July.\" Okay, so some of the >> Yeah, >> look, it's fun to get",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Eric July",
+      "right": "Ethan Van Sciver",
+      "signal_type": "criticised",
+      "timestamp": "48:00",
+      "confidence": 0.45,
+      "receipt": "at if we spent all our time obsessively telling the people who are making shit what fucking retards they are and how much they suck okay there's yeah there's room for criticism and I get that you you do it even the Eric Eric July stuff at some point started going to the point where I'm like, \"Okay, now we're getting pedantic. Now, now we're getting a little too retarded with the Eric July.\" Okay, so some of the >> Yeah, >> look, it's fun to get",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Eric July",
+      "right": "Vito Gesualdi",
+      "signal_type": "criticised",
+      "timestamp": "48:00",
+      "confidence": 0.45,
+      "receipt": "at if we spent all our time obsessively telling the people who are making shit what fucking retards they are and how much they suck okay there's yeah there's room for criticism and I get that you you do it even the Eric Eric July stuff at some point started going to the point where I'm like, \"Okay, now we're getting pedantic. Now, now we're getting a little too retarded with the Eric July.\" Okay, so some of the >> Yeah, >> look, it's fun to get",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Eric July",
+      "right": "Cyberfrog",
+      "signal_type": "criticised",
+      "timestamp": "48:00",
+      "confidence": 0.45,
+      "receipt": "at if we spent all our time obsessively telling the people who are making shit what fucking retards they are and how much they suck okay there's yeah there's room for criticism and I get that you you do it even the Eric Eric July stuff at some point started going to the point where I'm like, \"Okay, now we're getting pedantic. Now, now we're getting a little too retarded with the Eric July.\" Okay, so some of the >> Yeah, >> look, it's fun to get",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Ethan Van Sciver",
+      "signal_type": "criticised",
+      "timestamp": "48:00",
+      "confidence": 0.45,
+      "receipt": "this week? >> I cut Veto off so I could run my very successful hack [clears throat] the movie show. >> See, there you go. Now it's about how other people are failures. Like it's you have a fixation on success and failure that you insult people with >> always. I have a fixation on I don't understand why we're not just work all working together to promote each other. >> I love promoting my friends and I love seeing them succeed. When I wa",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Vito Gesualdi",
+      "signal_type": "criticised",
+      "timestamp": "48:00",
+      "confidence": 0.45,
+      "receipt": "this week? >> I cut Veto off so I could run my very successful hack [clears throat] the movie show. >> See, there you go. Now it's about how other people are failures. Like it's you have a fixation on success and failure that you insult people with >> always. I have a fixation on I don't understand why we're not just work all working together to promote each other. >> I love promoting my friends and I love seeing them succeed. When I wa",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Cyberfrog",
+      "signal_type": "criticised",
+      "timestamp": "48:00",
+      "confidence": 0.45,
+      "receipt": "this week? >> I cut Veto off so I could run my very successful hack [clears throat] the movie show. >> See, there you go. Now it's about how other people are failures. Like it's you have a fixation on success and failure that you insult people with >> always. I have a fixation on I don't understand why we're not just work all working together to promote each other. >> I love promoting my friends and I love seeing them succeed. When I wa",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Vito Gesualdi",
+      "signal_type": "criticised",
+      "timestamp": "48:00",
+      "confidence": 0.45,
+      "receipt": "this week? >> I cut Veto off so I could run my very successful hack [clears throat] the movie show. >> See, there you go. Now it's about how other people are failures. Like it's you have a fixation on success and failure that you insult people with >> always. I have a fixation on I don't understand why we're not just work all working together to promote each other. >> I love promoting my friends and I love seeing them succeed. When I wa",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Cyberfrog",
+      "signal_type": "criticised",
+      "timestamp": "48:00",
+      "confidence": 0.45,
+      "receipt": "this week? >> I cut Veto off so I could run my very successful hack [clears throat] the movie show. >> See, there you go. Now it's about how other people are failures. Like it's you have a fixation on success and failure that you insult people with >> always. I have a fixation on I don't understand why we're not just work all working together to promote each other. >> I love promoting my friends and I love seeing them succeed. When I wa",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Vito Gesualdi",
+      "right": "Cyberfrog",
+      "signal_type": "criticised",
+      "timestamp": "48:00",
+      "confidence": 0.45,
+      "receipt": "this week? >> I cut Veto off so I could run my very successful hack [clears throat] the movie show. >> See, there you go. Now it's about how other people are failures. Like it's you have a fixation on success and failure that you insult people with >> always. I have a fixation on I don't understand why we're not just work all working together to promote each other. >> I love promoting my friends and I love seeing them succeed. When I wa",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Eric July",
+      "right": "Frog Tony",
+      "signal_type": "promoted",
+      "timestamp": "48:00",
+      "confidence": 0.45,
+      "receipt": "at if we spent all our time obsessively telling the people who are making shit what fucking retards they are and how much they suck okay there's yeah there's room for criticism and I get that you you do it even the Eric Eric July stuff at some point started going to the point where I'm like, \"Okay, now we're getting pedantic. Now, now we're getting a little too retarded with the Eric July.\" Okay, so some of the >> Yeah, >> look, it's fun to get",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Eric July",
+      "right": "Ethan Van Sciver",
+      "signal_type": "promoted",
+      "timestamp": "48:00",
+      "confidence": 0.45,
+      "receipt": "at if we spent all our time obsessively telling the people who are making shit what fucking retards they are and how much they suck okay there's yeah there's room for criticism and I get that you you do it even the Eric Eric July stuff at some point started going to the point where I'm like, \"Okay, now we're getting pedantic. Now, now we're getting a little too retarded with the Eric July.\" Okay, so some of the >> Yeah, >> look, it's fun to get",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Eric July",
+      "right": "Vito Gesualdi",
+      "signal_type": "promoted",
+      "timestamp": "48:00",
+      "confidence": 0.45,
+      "receipt": "at if we spent all our time obsessively telling the people who are making shit what fucking retards they are and how much they suck okay there's yeah there's room for criticism and I get that you you do it even the Eric Eric July stuff at some point started going to the point where I'm like, \"Okay, now we're getting pedantic. Now, now we're getting a little too retarded with the Eric July.\" Okay, so some of the >> Yeah, >> look, it's fun to get",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Eric July",
+      "right": "Cyberfrog",
+      "signal_type": "promoted",
+      "timestamp": "48:00",
+      "confidence": 0.45,
+      "receipt": "at if we spent all our time obsessively telling the people who are making shit what fucking retards they are and how much they suck okay there's yeah there's room for criticism and I get that you you do it even the Eric Eric July stuff at some point started going to the point where I'm like, \"Okay, now we're getting pedantic. Now, now we're getting a little too retarded with the Eric July.\" Okay, so some of the >> Yeah, >> look, it's fun to get",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Ethan Van Sciver",
+      "signal_type": "promoted",
+      "timestamp": "48:00",
+      "confidence": 0.45,
+      "receipt": "this week? >> I cut Veto off so I could run my very successful hack [clears throat] the movie show. >> See, there you go. Now it's about how other people are failures. Like it's you have a fixation on success and failure that you insult people with >> always. I have a fixation on I don't understand why we're not just work all working together to promote each other. >> I love promoting my friends and I love seeing them succeed. When I wa",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Vito Gesualdi",
+      "signal_type": "promoted",
+      "timestamp": "48:00",
+      "confidence": 0.45,
+      "receipt": "this week? >> I cut Veto off so I could run my very successful hack [clears throat] the movie show. >> See, there you go. Now it's about how other people are failures. Like it's you have a fixation on success and failure that you insult people with >> always. I have a fixation on I don't understand why we're not just work all working together to promote each other. >> I love promoting my friends and I love seeing them succeed. When I wa",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Cyberfrog",
+      "signal_type": "promoted",
+      "timestamp": "48:00",
+      "confidence": 0.45,
+      "receipt": "this week? >> I cut Veto off so I could run my very successful hack [clears throat] the movie show. >> See, there you go. Now it's about how other people are failures. Like it's you have a fixation on success and failure that you insult people with >> always. I have a fixation on I don't understand why we're not just work all working together to promote each other. >> I love promoting my friends and I love seeing them succeed. When I wa",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Vito Gesualdi",
+      "signal_type": "promoted",
+      "timestamp": "48:00",
+      "confidence": 0.45,
+      "receipt": "this week? >> I cut Veto off so I could run my very successful hack [clears throat] the movie show. >> See, there you go. Now it's about how other people are failures. Like it's you have a fixation on success and failure that you insult people with >> always. I have a fixation on I don't understand why we're not just work all working together to promote each other. >> I love promoting my friends and I love seeing them succeed. When I wa",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Cyberfrog",
+      "signal_type": "promoted",
+      "timestamp": "48:00",
+      "confidence": 0.45,
+      "receipt": "this week? >> I cut Veto off so I could run my very successful hack [clears throat] the movie show. >> See, there you go. Now it's about how other people are failures. Like it's you have a fixation on success and failure that you insult people with >> always. I have a fixation on I don't understand why we're not just work all working together to promote each other. >> I love promoting my friends and I love seeing them succeed. When I wa",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Vito Gesualdi",
+      "right": "Cyberfrog",
+      "signal_type": "promoted",
+      "timestamp": "48:00",
+      "confidence": 0.45,
+      "receipt": "this week? >> I cut Veto off so I could run my very successful hack [clears throat] the movie show. >> See, there you go. Now it's about how other people are failures. Like it's you have a fixation on success and failure that you insult people with >> always. I have a fixation on I don't understand why we're not just work all working together to promote each other. >> I love promoting my friends and I love seeing them succeed. When I wa",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Eric July",
+      "right": "Frog Tony",
+      "signal_type": "friendship_claim",
+      "timestamp": "48:00",
+      "confidence": 0.45,
+      "receipt": "at if we spent all our time obsessively telling the people who are making shit what fucking retards they are and how much they suck okay there's yeah there's room for criticism and I get that you you do it even the Eric Eric July stuff at some point started going to the point where I'm like, \"Okay, now we're getting pedantic. Now, now we're getting a little too retarded with the Eric July.\" Okay, so some of the >> Yeah, >> look, it's fun to get",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Eric July",
+      "right": "Ethan Van Sciver",
+      "signal_type": "friendship_claim",
+      "timestamp": "48:00",
+      "confidence": 0.45,
+      "receipt": "at if we spent all our time obsessively telling the people who are making shit what fucking retards they are and how much they suck okay there's yeah there's room for criticism and I get that you you do it even the Eric Eric July stuff at some point started going to the point where I'm like, \"Okay, now we're getting pedantic. Now, now we're getting a little too retarded with the Eric July.\" Okay, so some of the >> Yeah, >> look, it's fun to get",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Eric July",
+      "right": "Vito Gesualdi",
+      "signal_type": "friendship_claim",
+      "timestamp": "48:00",
+      "confidence": 0.45,
+      "receipt": "at if we spent all our time obsessively telling the people who are making shit what fucking retards they are and how much they suck okay there's yeah there's room for criticism and I get that you you do it even the Eric Eric July stuff at some point started going to the point where I'm like, \"Okay, now we're getting pedantic. Now, now we're getting a little too retarded with the Eric July.\" Okay, so some of the >> Yeah, >> look, it's fun to get",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Eric July",
+      "right": "Cyberfrog",
+      "signal_type": "friendship_claim",
+      "timestamp": "48:00",
+      "confidence": 0.45,
+      "receipt": "at if we spent all our time obsessively telling the people who are making shit what fucking retards they are and how much they suck okay there's yeah there's room for criticism and I get that you you do it even the Eric Eric July stuff at some point started going to the point where I'm like, \"Okay, now we're getting pedantic. Now, now we're getting a little too retarded with the Eric July.\" Okay, so some of the >> Yeah, >> look, it's fun to get",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Ethan Van Sciver",
+      "signal_type": "friendship_claim",
+      "timestamp": "48:00",
+      "confidence": 0.45,
+      "receipt": "this week? >> I cut Veto off so I could run my very successful hack [clears throat] the movie show. >> See, there you go. Now it's about how other people are failures. Like it's you have a fixation on success and failure that you insult people with >> always. I have a fixation on I don't understand why we're not just work all working together to promote each other. >> I love promoting my friends and I love seeing them succeed. When I wa",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Vito Gesualdi",
+      "signal_type": "friendship_claim",
+      "timestamp": "48:00",
+      "confidence": 0.45,
+      "receipt": "this week? >> I cut Veto off so I could run my very successful hack [clears throat] the movie show. >> See, there you go. Now it's about how other people are failures. Like it's you have a fixation on success and failure that you insult people with >> always. I have a fixation on I don't understand why we're not just work all working together to promote each other. >> I love promoting my friends and I love seeing them succeed. When I wa",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Cyberfrog",
+      "signal_type": "friendship_claim",
+      "timestamp": "48:00",
+      "confidence": 0.45,
+      "receipt": "this week? >> I cut Veto off so I could run my very successful hack [clears throat] the movie show. >> See, there you go. Now it's about how other people are failures. Like it's you have a fixation on success and failure that you insult people with >> always. I have a fixation on I don't understand why we're not just work all working together to promote each other. >> I love promoting my friends and I love seeing them succeed. When I wa",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Vito Gesualdi",
+      "signal_type": "friendship_claim",
+      "timestamp": "48:00",
+      "confidence": 0.45,
+      "receipt": "this week? >> I cut Veto off so I could run my very successful hack [clears throat] the movie show. >> See, there you go. Now it's about how other people are failures. Like it's you have a fixation on success and failure that you insult people with >> always. I have a fixation on I don't understand why we're not just work all working together to promote each other. >> I love promoting my friends and I love seeing them succeed. When I wa",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Cyberfrog",
+      "signal_type": "friendship_claim",
+      "timestamp": "48:00",
+      "confidence": 0.45,
+      "receipt": "this week? >> I cut Veto off so I could run my very successful hack [clears throat] the movie show. >> See, there you go. Now it's about how other people are failures. Like it's you have a fixation on success and failure that you insult people with >> always. I have a fixation on I don't understand why we're not just work all working together to promote each other. >> I love promoting my friends and I love seeing them succeed. When I wa",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Vito Gesualdi",
+      "right": "Cyberfrog",
+      "signal_type": "friendship_claim",
+      "timestamp": "48:00",
+      "confidence": 0.45,
+      "receipt": "this week? >> I cut Veto off so I could run my very successful hack [clears throat] the movie show. >> See, there you go. Now it's about how other people are failures. Like it's you have a fixation on success and failure that you insult people with >> always. I have a fixation on I don't understand why we're not just work all working together to promote each other. >> I love promoting my friends and I love seeing them succeed. When I wa",
+      "warning": "co-mention plus language signal; requires interpretation"
+    }
+  ],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

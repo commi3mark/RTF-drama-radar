@@ -1,0 +1,40 @@
+{
+  "schema_version": "octopuss-auto-event-v0.1",
+  "event_id": "Zmx83V8vKSU",
+  "title": "MATI: TheQuartering’s Dropship Brand Dropship (Jul 10, 2026)",
+  "source": "Elissa Clips",
+  "published": "2026-07-14T16:57:04+00:00",
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "09:32",
+      "title": "Clip/reaction: TheQuartering",
+      "entities": [
+        "TheQuartering"
+      ],
+      "summary_seed": "We got a clip from the The Quartering. I love The Quartering, starring Jeremy Hamblely, also known as The Quartering. Uh, let's watch this clip of my boy, The Quartering. You can tell it's The Quartering because he has that microphone end piece that faces the camera. And I'm sorry, but his weird microphone thing. I don't know what the he's trying to do to this logo to try and make it look distinct from the original,",
+      "clip_likelihood": true,
+      "transition_markers": 0
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "TheQuartering",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.767,
+        "positive_hits": 38,
+        "negative_hits": 5
+      }
+    }
+  ],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

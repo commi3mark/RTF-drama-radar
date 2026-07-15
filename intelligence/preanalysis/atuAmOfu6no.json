@@ -1,0 +1,99 @@
+{
+  "schema_version": "octopuss-preanalysis-v0.1",
+  "generated_at": "2026-07-15T21:04:20.397782+00:00",
+  "video_id": "atuAmOfu6no",
+  "title": "SHOUT OUT TO ALPHACORE #3!! | Rippaverse | @Jon_Malin",
+  "source": "KatyDid",
+  "published": "2026-07-09T23:07:14+00:00",
+  "packet_hash": "6eccf0b9ccd4790285c0c6a4f9bd6fe909d520d62b884f53ca256ccf0e9f8971",
+  "coverage": {
+    "first_caption_second": 0.0,
+    "last_caption_second": 199.177,
+    "timestamp_start": "00:00",
+    "timestamp_end": "03:19",
+    "caption_span_seconds": 199.177,
+    "status": "transcript_present",
+    "note": "This measures the caption span only. It does not prove complete coverage of the original video."
+  },
+  "participant_candidates": [
+    {
+      "entity": "KatyDid",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.72,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Alpha Core",
+      "mentions": 8,
+      "block_count": 1,
+      "first_timestamp": "00:00",
+      "last_timestamp": "03:19",
+      "discussion_span_seconds": 199.2,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "positive_hits": 5,
+        "negative_hits": 0
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "No, in the art is just showing his frustration, but uh yeah, you can put the uh balloon there. You can do that. Uh Comic Artists Pro Secrets for $100. Shout out to Alpha Core 3. Alpha Core 3 from the Ripperverse because it released date and hit 1,305 in superhero comics and graphic novels. Uh That's the Billboard Top 1500 and for comics, John, that means there are 1,304 comics that came out"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Ethan Van Sciver",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "00:00",
+      "last_timestamp": "03:19",
+      "discussion_span_seconds": 199.2,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "positive_hits": 5,
+        "negative_hits": 0
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "No, in the art is just showing his frustration, but uh yeah, you can put the uh balloon there. You can do that. Uh Comic Artists Pro Secrets for $100. Shout out to Alpha Core 3. Alpha Core 3 from the Ripperverse because it released date and hit 1,305 in superhero comics and graphic novels. Uh That's the Billboard Top 1500 and for comics, John, that means there are 1,304 comics that came out this week that are better than Alpha Core 3. W"
+        }
+      ],
+      "appearance_status": "uncertain"
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "03:19",
+      "title": "Alpha Core / Ethan Van Sciver",
+      "entities": [
+        "Alpha Core",
+        "Ethan Van Sciver"
+      ],
+      "summary_seed": "No, in the art is just showing his frustration, but uh yeah, you can put the uh balloon there. You can do that. Uh Comic Artists Pro Secrets for $100. Shout out to Alpha Core 3. Alpha Core 3 from the Ripperverse because it released date and hit 1,305 in superhero comics and graphic novels. Uh That's the Billboard Top 1500 and for comics, John, that means there are 1,304 comics that came out this week that are better",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    }
+  ],
+  "claim_candidates": [],
+  "quote_candidates": [],
+  "relationship_signals": [],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

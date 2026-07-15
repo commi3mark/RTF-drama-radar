@@ -1,0 +1,785 @@
+{
+  "schema_version": "octopuss-preanalysis-v0.1",
+  "generated_at": "2026-07-15T21:04:19.800133+00:00",
+  "video_id": "HTrcwhelzCU",
+  "title": "Chrissie Mayr Officially Fired from Friday Night Tights (Jul 9, 2026)",
+  "source": "Elissa Clips",
+  "published": "2026-07-10T13:42:14+00:00",
+  "packet_hash": "be5553f7976201789f061730593f0babef00404a014c72c24cf29d2ad30ebfbd",
+  "coverage": {
+    "first_caption_second": 0.24,
+    "last_caption_second": 892.56,
+    "timestamp_start": "00:00",
+    "timestamp_end": "14:52",
+    "caption_span_seconds": 892.32,
+    "status": "transcript_present",
+    "note": "This measures the caption span only. It does not prove complete coverage of the original video."
+  },
+  "participant_candidates": [
+    {
+      "entity": "Elissa Clips",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.72,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Chrissie Mayr",
+      "mentions": 7,
+      "block_count": 2,
+      "first_timestamp": "00:00",
+      "last_timestamp": "14:52",
+      "discussion_span_seconds": 892.3,
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.712,
+        "positive_hits": 125,
+        "negative_hits": 21
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "I went to a neurologist and because I was forgetting so much stuff and she was like she did a test with me like all the all these things and she was like uh yeah you're chronically sleepd deprived. >> Oh yeah. Wow. >> Cool. >> X I was like please explain to me you just have a [ __ ] kid. >> Why I forgot a podcast I was on and then I was on another podcast weeks later I forgot everything that we talked about. >> I would love to take one"
+        },
+        {
+          "timestamp": "12:01",
+          "excerpt": ">> or even like a fellow friend or anyone that you've ever like done stuff with. I just Yeah. I I don't I don't want anything to do with that. That's [ __ ] exhausting and I don't know how people they I don't get it. Oh >> yeah. I'm so I was I was I was legitimately surprised that he did that. I was like, \"Wow, holy [ __ ] >> That sucks.\" >> Cuz Yeah. >> It uh Yeah. And then Gary's like, \"You should call him.\" I'm like, \"Why on earth wo"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "TheQuartering",
+      "mentions": 7,
+      "block_count": 2,
+      "first_timestamp": "00:00",
+      "last_timestamp": "14:52",
+      "discussion_span_seconds": 892.3,
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.712,
+        "positive_hits": 125,
+        "negative_hits": 21
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "I went to a neurologist and because I was forgetting so much stuff and she was like she did a test with me like all the all these things and she was like uh yeah you're chronically sleepd deprived. >> Oh yeah. Wow. >> Cool. >> X I was like please explain to me you just have a [ __ ] kid. >> Why I forgot a podcast I was on and then I was on another podcast weeks later I forgot everything that we talked about. >> I would love to take one"
+        },
+        {
+          "timestamp": "12:01",
+          "excerpt": ">> or even like a fellow friend or anyone that you've ever like done stuff with. I just Yeah. I I don't I don't want anything to do with that. That's [ __ ] exhausting and I don't know how people they I don't get it. Oh >> yeah. I'm so I was I was I was legitimately surprised that he did that. I was like, \"Wow, holy [ __ ] >> That sucks.\" >> Cuz Yeah. >> It uh Yeah. And then Gary's like, \"You should call him.\" I'm like, \"Why on earth wo"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Nerdrotic",
+      "mentions": 5,
+      "block_count": 2,
+      "first_timestamp": "00:00",
+      "last_timestamp": "14:52",
+      "discussion_span_seconds": 892.3,
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.712,
+        "positive_hits": 125,
+        "negative_hits": 21
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "I went to a neurologist and because I was forgetting so much stuff and she was like she did a test with me like all the all these things and she was like uh yeah you're chronically sleepd deprived. >> Oh yeah. Wow. >> Cool. >> X I was like please explain to me you just have a [ __ ] kid. >> Why I forgot a podcast I was on and then I was on another podcast weeks later I forgot everything that we talked about. >> I would love to take one"
+        },
+        {
+          "timestamp": "12:01",
+          "excerpt": ">> or even like a fellow friend or anyone that you've ever like done stuff with. I just Yeah. I I don't I don't want anything to do with that. That's [ __ ] exhausting and I don't know how people they I don't get it. Oh >> yeah. I'm so I was I was I was legitimately surprised that he did that. I was like, \"Wow, holy [ __ ] >> That sucks.\" >> Cuz Yeah. >> It uh Yeah. And then Gary's like, \"You should call him.\" I'm like, \"Why on earth wo"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Cecil",
+      "mentions": 3,
+      "block_count": 2,
+      "first_timestamp": "00:00",
+      "last_timestamp": "14:52",
+      "discussion_span_seconds": 892.3,
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.712,
+        "positive_hits": 125,
+        "negative_hits": 21
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "ituation. >> I don't think either one of us >> really [clears throat] can't handle not having the spotlight. >> Sorry. No, >> either one of us dare to try to handle sharing focus for a minute. Um, so let's say let's say Cecil, one of you is fine. You're in the timeout. Anna put you in a timeout. Okay. >> Would you then think it's it's your job to contact her about letting you out of the timeout or do you think it's her job to let you know >>"
+        },
+        {
+          "timestamp": "12:01",
+          "excerpt": "ust go be a dad. Like I hate to sound like >> No, you're right though. That's crazy. >> Like, yeah, I'm not I'm not gonna not be a mom, but to be told, >> of course, these two chicks are getting emotional, [laughter] >> Cecil. I'm going to start crying. Okay. >> Thanks for the warning. >> You're welcome. >> Solid advice, though. >> I don't mean to uh be uh negative. It was a It was an overall like really great experience. Like who who gets t"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Ethan Van Sciver",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "00:00",
+      "last_timestamp": "12:03",
+      "discussion_span_seconds": 723.1,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.669,
+        "positive_hits": 101,
+        "negative_hits": 20
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "I went to a neurologist and because I was forgetting so much stuff and she was like she did a test with me like all the all these things and she was like uh yeah you're chronically sleepd deprived. >> Oh yeah. Wow. >> Cool. >> X I was like please explain to me you just have a [ __ ] kid. >> Why I forgot a podcast I was on and then I was on another podcast weeks later I forgot everything that we talked about. >> I would love to take one"
+        }
+      ],
+      "appearance_status": "uncertain"
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "12:03",
+      "title": "Chrissie Mayr / TheQuartering / Nerdrotic",
+      "entities": [
+        "Chrissie Mayr",
+        "TheQuartering",
+        "Nerdrotic",
+        "Cecil",
+        "Ethan Van Sciver"
+      ],
+      "summary_seed": "I went to a neurologist and because I was forgetting so much stuff and she was like she did a test with me like all the all these things and she was like uh yeah you're chronically sleepd deprived. >> Oh yeah. Wow. >> Cool. >> X I was like please explain to me you just have a [ __ ] kid. >> Why I forgot a podcast I was on and then I was on another podcast weeks later I forgot everything that we talked about. >> I wou",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "12:01",
+      "end": "14:52",
+      "title": "TheQuartering / Nerdrotic / Cecil",
+      "entities": [
+        "TheQuartering",
+        "Nerdrotic",
+        "Cecil",
+        "Chrissie Mayr"
+      ],
+      "summary_seed": ">> or even like a fellow friend or anyone that you've ever like done stuff with. I just Yeah. I I don't I don't want anything to do with that. That's [ __ ] exhausting and I don't know how people they I don't get it. Oh >> yeah. I'm so I was I was I was legitimately surprised that he did that. I was like, \"Wow, holy [ __ ] >> That sucks.\" >> Cuz Yeah. >> It uh Yeah. And then Gary's like, \"You should call him.\" I'm li",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    }
+  ],
+  "claim_candidates": [
+    {
+      "claimant": "but Ethan Van Skyber",
+      "claim": "something a long time ago and we all know why it started a feud, but we also kind of knew that it was a little bit true.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "I Yeah, we don't want to drag this back up, but Ethan Van Skyber said something a long time ago and we all know why it started a feud, but we also kind of knew that it was a little bit true."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "to stop making as many like racial jokes you know like when I was getting ready to do a",
+      "timestamp": "00:00",
+      "status": "hearsay_candidate",
+      "receipt": "he stopped taking risks like at one point I was told to stop making as many like racial jokes you know like when I was getting ready to do a"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "to like tone it down tone down.",
+      "timestamp": "00:00",
+      "status": "hearsay_candidate",
+      "receipt": "It was one of the characters I had done one of the impressions and like I was told to like tone it down tone down."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "these guys, you know, I don't problem with anybody, but um is that we were the anti-cancel culture guys.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "See, the thing is the the the whole premise of the movement of these guys and I like I know these guys, you know, I don't problem with anybody, but um is that we were the anti-cancel culture guys."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "the thing is if if you were doing stuff that was too racy for them and he was kind of iffy about it he was looking for a reason and that Was it?",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "did she endorse strike no she had somebody on who worked for somebody who did I'm like how many [ __ ] degrees of separation can we get here it's like really going to but I think the thing is if if you were doing stuff that was too racy for them and he was kind of iffy about it he was looking for a reason and that Was it?"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "the thing was is is quartering was not giving him the reaction they wanted so they just went after softer targets that would hurt",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "We should have known Chrissy like okay like every I think the thing was is is quartering was not giving him the reaction they wanted so they just went after softer targets that would hurt"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "going and he's going to just keep going and chugging along and nothing",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "screamed today I think going and he's going to just keep going and chugging along and nothing"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "he he did about as it was a [ __ ] up situation But he he handled it",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "he actually he played it the best that he possibly could if I'm honest I think he he did about as it was a [ __ ] up situation But he he handled it"
+    },
+    {
+      "claimant": "Hiroshima",
+      "claim": "call Harry directly.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "Hiroshima says call Harry directly."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "it would be a good way.",
+      "timestamp": "12:01",
+      "status": "opinion_or_inference",
+      "receipt": "Uh I think it would be a good way."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "you're not going to do it, but it would be a really baller move if you if you hooked up with Jeremy and went on his show.",
+      "timestamp": "12:01",
+      "status": "candidate_claim",
+      "receipt": "Look, I know you're not going to do it, but it would be a really baller move if you if you hooked up with Jeremy and went on his show."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "a lot of us are are pretty sad to have seen that happen.",
+      "timestamp": "12:01",
+      "status": "opinion_or_inference",
+      "receipt": "And we're I think a lot of us are are pretty sad to have seen that happen."
+    }
+  ],
+  "quote_candidates": [
+    {
+      "timestamp": "00:00",
+      "text": "We're just we're doing that like Chrissy's been cancelled already.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "00:00",
+      "text": "Chrissy's been cancelled for being, you know, a January 6er, for being on the right, for being an anti-COVID vacer, you know, antivaxer.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "00:00",
+      "text": "Like she's already been cancelled 10 times over.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "00:00",
+      "text": "did she did she did she strike a channel no did she",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "00:00",
+      "text": "Like that's that's how I knew I was fired is because I had to call him",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "00:00",
+      "text": "Well, we love you here on this little channel and always will.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "00:00",
+      "text": "Chrissy's always been good to me and I'll always be good to Christ.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "00:00",
+      "text": "If this had happened to somebody else on the show, I would never make videos about about a fellow co-host, fellow pan.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "12:01",
+      "text": "Like I would never I would never say that to a man.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "12:01",
+      "text": "Like I would never if I was if I was having a problem with a guy who was a dad, I would never say just go be a dad.",
+      "significance_score": 1
+    }
+  ],
+  "relationship_signals": [
+    {
+      "left": "Chrissie Mayr",
+      "right": "TheQuartering",
+      "signal_type": "criticised",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "I went to a neurologist and because I was forgetting so much stuff and she was like she did a test with me like all the all these things and she was like uh yeah you're chronically sleepd deprived. >> Oh yeah. Wow. >> Cool. >> X I was like please explain to me you just have a [ __ ] kid. >> Why I forgot a podcast I was on and then I was on another podcast weeks later I forgot everything that we talked about. >> I would love to take one",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Chrissie Mayr",
+      "right": "Nerdrotic",
+      "signal_type": "criticised",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "I went to a neurologist and because I was forgetting so much stuff and she was like she did a test with me like all the all these things and she was like uh yeah you're chronically sleepd deprived. >> Oh yeah. Wow. >> Cool. >> X I was like please explain to me you just have a [ __ ] kid. >> Why I forgot a podcast I was on and then I was on another podcast weeks later I forgot everything that we talked about. >> I would love to take one",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Chrissie Mayr",
+      "right": "Cecil",
+      "signal_type": "criticised",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "I went to a neurologist and because I was forgetting so much stuff and she was like she did a test with me like all the all these things and she was like uh yeah you're chronically sleepd deprived. >> Oh yeah. Wow. >> Cool. >> X I was like please explain to me you just have a [ __ ] kid. >> Why I forgot a podcast I was on and then I was on another podcast weeks later I forgot everything that we talked about. >> I would love to take one",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Chrissie Mayr",
+      "right": "Ethan Van Sciver",
+      "signal_type": "criticised",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "I went to a neurologist and because I was forgetting so much stuff and she was like she did a test with me like all the all these things and she was like uh yeah you're chronically sleepd deprived. >> Oh yeah. Wow. >> Cool. >> X I was like please explain to me you just have a [ __ ] kid. >> Why I forgot a podcast I was on and then I was on another podcast weeks later I forgot everything that we talked about. >> I would love to take one",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "TheQuartering",
+      "right": "Nerdrotic",
+      "signal_type": "criticised",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "I went to a neurologist and because I was forgetting so much stuff and she was like she did a test with me like all the all these things and she was like uh yeah you're chronically sleepd deprived. >> Oh yeah. Wow. >> Cool. >> X I was like please explain to me you just have a [ __ ] kid. >> Why I forgot a podcast I was on and then I was on another podcast weeks later I forgot everything that we talked about. >> I would love to take one",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "TheQuartering",
+      "right": "Cecil",
+      "signal_type": "criticised",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "I went to a neurologist and because I was forgetting so much stuff and she was like she did a test with me like all the all these things and she was like uh yeah you're chronically sleepd deprived. >> Oh yeah. Wow. >> Cool. >> X I was like please explain to me you just have a [ __ ] kid. >> Why I forgot a podcast I was on and then I was on another podcast weeks later I forgot everything that we talked about. >> I would love to take one",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "TheQuartering",
+      "right": "Ethan Van Sciver",
+      "signal_type": "criticised",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "I went to a neurologist and because I was forgetting so much stuff and she was like she did a test with me like all the all these things and she was like uh yeah you're chronically sleepd deprived. >> Oh yeah. Wow. >> Cool. >> X I was like please explain to me you just have a [ __ ] kid. >> Why I forgot a podcast I was on and then I was on another podcast weeks later I forgot everything that we talked about. >> I would love to take one",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Nerdrotic",
+      "right": "Cecil",
+      "signal_type": "criticised",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "I went to a neurologist and because I was forgetting so much stuff and she was like she did a test with me like all the all these things and she was like uh yeah you're chronically sleepd deprived. >> Oh yeah. Wow. >> Cool. >> X I was like please explain to me you just have a [ __ ] kid. >> Why I forgot a podcast I was on and then I was on another podcast weeks later I forgot everything that we talked about. >> I would love to take one",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Nerdrotic",
+      "right": "Ethan Van Sciver",
+      "signal_type": "criticised",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "I went to a neurologist and because I was forgetting so much stuff and she was like she did a test with me like all the all these things and she was like uh yeah you're chronically sleepd deprived. >> Oh yeah. Wow. >> Cool. >> X I was like please explain to me you just have a [ __ ] kid. >> Why I forgot a podcast I was on and then I was on another podcast weeks later I forgot everything that we talked about. >> I would love to take one",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Cecil",
+      "right": "Ethan Van Sciver",
+      "signal_type": "criticised",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "ituation. >> I don't think either one of us >> really [clears throat] can't handle not having the spotlight. >> Sorry. No, >> either one of us dare to try to handle sharing focus for a minute. Um, so let's say let's say Cecil, one of you is fine. You're in the timeout. Anna put you in a timeout. Okay. >> Would you then think it's it's your job to contact her about letting you out of the timeout or do you think it's her job to let you know >>",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Chrissie Mayr",
+      "right": "TheQuartering",
+      "signal_type": "collaborated",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "I went to a neurologist and because I was forgetting so much stuff and she was like she did a test with me like all the all these things and she was like uh yeah you're chronically sleepd deprived. >> Oh yeah. Wow. >> Cool. >> X I was like please explain to me you just have a [ __ ] kid. >> Why I forgot a podcast I was on and then I was on another podcast weeks later I forgot everything that we talked about. >> I would love to take one",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Chrissie Mayr",
+      "right": "Nerdrotic",
+      "signal_type": "collaborated",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "I went to a neurologist and because I was forgetting so much stuff and she was like she did a test with me like all the all these things and she was like uh yeah you're chronically sleepd deprived. >> Oh yeah. Wow. >> Cool. >> X I was like please explain to me you just have a [ __ ] kid. >> Why I forgot a podcast I was on and then I was on another podcast weeks later I forgot everything that we talked about. >> I would love to take one",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Chrissie Mayr",
+      "right": "Cecil",
+      "signal_type": "collaborated",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "I went to a neurologist and because I was forgetting so much stuff and she was like she did a test with me like all the all these things and she was like uh yeah you're chronically sleepd deprived. >> Oh yeah. Wow. >> Cool. >> X I was like please explain to me you just have a [ __ ] kid. >> Why I forgot a podcast I was on and then I was on another podcast weeks later I forgot everything that we talked about. >> I would love to take one",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Chrissie Mayr",
+      "right": "Ethan Van Sciver",
+      "signal_type": "collaborated",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "I went to a neurologist and because I was forgetting so much stuff and she was like she did a test with me like all the all these things and she was like uh yeah you're chronically sleepd deprived. >> Oh yeah. Wow. >> Cool. >> X I was like please explain to me you just have a [ __ ] kid. >> Why I forgot a podcast I was on and then I was on another podcast weeks later I forgot everything that we talked about. >> I would love to take one",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "TheQuartering",
+      "right": "Nerdrotic",
+      "signal_type": "collaborated",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "I went to a neurologist and because I was forgetting so much stuff and she was like she did a test with me like all the all these things and she was like uh yeah you're chronically sleepd deprived. >> Oh yeah. Wow. >> Cool. >> X I was like please explain to me you just have a [ __ ] kid. >> Why I forgot a podcast I was on and then I was on another podcast weeks later I forgot everything that we talked about. >> I would love to take one",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "TheQuartering",
+      "right": "Cecil",
+      "signal_type": "collaborated",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "I went to a neurologist and because I was forgetting so much stuff and she was like she did a test with me like all the all these things and she was like uh yeah you're chronically sleepd deprived. >> Oh yeah. Wow. >> Cool. >> X I was like please explain to me you just have a [ __ ] kid. >> Why I forgot a podcast I was on and then I was on another podcast weeks later I forgot everything that we talked about. >> I would love to take one",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "TheQuartering",
+      "right": "Ethan Van Sciver",
+      "signal_type": "collaborated",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "I went to a neurologist and because I was forgetting so much stuff and she was like she did a test with me like all the all these things and she was like uh yeah you're chronically sleepd deprived. >> Oh yeah. Wow. >> Cool. >> X I was like please explain to me you just have a [ __ ] kid. >> Why I forgot a podcast I was on and then I was on another podcast weeks later I forgot everything that we talked about. >> I would love to take one",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Nerdrotic",
+      "right": "Cecil",
+      "signal_type": "collaborated",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "I went to a neurologist and because I was forgetting so much stuff and she was like she did a test with me like all the all these things and she was like uh yeah you're chronically sleepd deprived. >> Oh yeah. Wow. >> Cool. >> X I was like please explain to me you just have a [ __ ] kid. >> Why I forgot a podcast I was on and then I was on another podcast weeks later I forgot everything that we talked about. >> I would love to take one",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Nerdrotic",
+      "right": "Ethan Van Sciver",
+      "signal_type": "collaborated",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "I went to a neurologist and because I was forgetting so much stuff and she was like she did a test with me like all the all these things and she was like uh yeah you're chronically sleepd deprived. >> Oh yeah. Wow. >> Cool. >> X I was like please explain to me you just have a [ __ ] kid. >> Why I forgot a podcast I was on and then I was on another podcast weeks later I forgot everything that we talked about. >> I would love to take one",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Cecil",
+      "right": "Ethan Van Sciver",
+      "signal_type": "collaborated",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "ituation. >> I don't think either one of us >> really [clears throat] can't handle not having the spotlight. >> Sorry. No, >> either one of us dare to try to handle sharing focus for a minute. Um, so let's say let's say Cecil, one of you is fine. You're in the timeout. Anna put you in a timeout. Okay. >> Would you then think it's it's your job to contact her about letting you out of the timeout or do you think it's her job to let you know >>",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Chrissie Mayr",
+      "right": "TheQuartering",
+      "signal_type": "legal_conflict",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "I went to a neurologist and because I was forgetting so much stuff and she was like she did a test with me like all the all these things and she was like uh yeah you're chronically sleepd deprived. >> Oh yeah. Wow. >> Cool. >> X I was like please explain to me you just have a [ __ ] kid. >> Why I forgot a podcast I was on and then I was on another podcast weeks later I forgot everything that we talked about. >> I would love to take one",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Chrissie Mayr",
+      "right": "Nerdrotic",
+      "signal_type": "legal_conflict",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "I went to a neurologist and because I was forgetting so much stuff and she was like she did a test with me like all the all these things and she was like uh yeah you're chronically sleepd deprived. >> Oh yeah. Wow. >> Cool. >> X I was like please explain to me you just have a [ __ ] kid. >> Why I forgot a podcast I was on and then I was on another podcast weeks later I forgot everything that we talked about. >> I would love to take one",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Chrissie Mayr",
+      "right": "Cecil",
+      "signal_type": "legal_conflict",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "I went to a neurologist and because I was forgetting so much stuff and she was like she did a test with me like all the all these things and she was like uh yeah you're chronically sleepd deprived. >> Oh yeah. Wow. >> Cool. >> X I was like please explain to me you just have a [ __ ] kid. >> Why I forgot a podcast I was on and then I was on another podcast weeks later I forgot everything that we talked about. >> I would love to take one",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Chrissie Mayr",
+      "right": "Ethan Van Sciver",
+      "signal_type": "legal_conflict",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "I went to a neurologist and because I was forgetting so much stuff and she was like she did a test with me like all the all these things and she was like uh yeah you're chronically sleepd deprived. >> Oh yeah. Wow. >> Cool. >> X I was like please explain to me you just have a [ __ ] kid. >> Why I forgot a podcast I was on and then I was on another podcast weeks later I forgot everything that we talked about. >> I would love to take one",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "TheQuartering",
+      "right": "Nerdrotic",
+      "signal_type": "legal_conflict",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "I went to a neurologist and because I was forgetting so much stuff and she was like she did a test with me like all the all these things and she was like uh yeah you're chronically sleepd deprived. >> Oh yeah. Wow. >> Cool. >> X I was like please explain to me you just have a [ __ ] kid. >> Why I forgot a podcast I was on and then I was on another podcast weeks later I forgot everything that we talked about. >> I would love to take one",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "TheQuartering",
+      "right": "Cecil",
+      "signal_type": "legal_conflict",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "I went to a neurologist and because I was forgetting so much stuff and she was like she did a test with me like all the all these things and she was like uh yeah you're chronically sleepd deprived. >> Oh yeah. Wow. >> Cool. >> X I was like please explain to me you just have a [ __ ] kid. >> Why I forgot a podcast I was on and then I was on another podcast weeks later I forgot everything that we talked about. >> I would love to take one",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "TheQuartering",
+      "right": "Ethan Van Sciver",
+      "signal_type": "legal_conflict",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "I went to a neurologist and because I was forgetting so much stuff and she was like she did a test with me like all the all these things and she was like uh yeah you're chronically sleepd deprived. >> Oh yeah. Wow. >> Cool. >> X I was like please explain to me you just have a [ __ ] kid. >> Why I forgot a podcast I was on and then I was on another podcast weeks later I forgot everything that we talked about. >> I would love to take one",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Nerdrotic",
+      "right": "Cecil",
+      "signal_type": "legal_conflict",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "I went to a neurologist and because I was forgetting so much stuff and she was like she did a test with me like all the all these things and she was like uh yeah you're chronically sleepd deprived. >> Oh yeah. Wow. >> Cool. >> X I was like please explain to me you just have a [ __ ] kid. >> Why I forgot a podcast I was on and then I was on another podcast weeks later I forgot everything that we talked about. >> I would love to take one",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Nerdrotic",
+      "right": "Ethan Van Sciver",
+      "signal_type": "legal_conflict",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "I went to a neurologist and because I was forgetting so much stuff and she was like she did a test with me like all the all these things and she was like uh yeah you're chronically sleepd deprived. >> Oh yeah. Wow. >> Cool. >> X I was like please explain to me you just have a [ __ ] kid. >> Why I forgot a podcast I was on and then I was on another podcast weeks later I forgot everything that we talked about. >> I would love to take one",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Cecil",
+      "right": "Ethan Van Sciver",
+      "signal_type": "legal_conflict",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "ituation. >> I don't think either one of us >> really [clears throat] can't handle not having the spotlight. >> Sorry. No, >> either one of us dare to try to handle sharing focus for a minute. Um, so let's say let's say Cecil, one of you is fine. You're in the timeout. Anna put you in a timeout. Okay. >> Would you then think it's it's your job to contact her about letting you out of the timeout or do you think it's her job to let you know >>",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Chrissie Mayr",
+      "right": "TheQuartering",
+      "signal_type": "separation",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "I went to a neurologist and because I was forgetting so much stuff and she was like she did a test with me like all the all these things and she was like uh yeah you're chronically sleepd deprived. >> Oh yeah. Wow. >> Cool. >> X I was like please explain to me you just have a [ __ ] kid. >> Why I forgot a podcast I was on and then I was on another podcast weeks later I forgot everything that we talked about. >> I would love to take one",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Chrissie Mayr",
+      "right": "Nerdrotic",
+      "signal_type": "separation",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "I went to a neurologist and because I was forgetting so much stuff and she was like she did a test with me like all the all these things and she was like uh yeah you're chronically sleepd deprived. >> Oh yeah. Wow. >> Cool. >> X I was like please explain to me you just have a [ __ ] kid. >> Why I forgot a podcast I was on and then I was on another podcast weeks later I forgot everything that we talked about. >> I would love to take one",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Chrissie Mayr",
+      "right": "Cecil",
+      "signal_type": "separation",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "I went to a neurologist and because I was forgetting so much stuff and she was like she did a test with me like all the all these things and she was like uh yeah you're chronically sleepd deprived. >> Oh yeah. Wow. >> Cool. >> X I was like please explain to me you just have a [ __ ] kid. >> Why I forgot a podcast I was on and then I was on another podcast weeks later I forgot everything that we talked about. >> I would love to take one",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Chrissie Mayr",
+      "right": "Ethan Van Sciver",
+      "signal_type": "separation",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "I went to a neurologist and because I was forgetting so much stuff and she was like she did a test with me like all the all these things and she was like uh yeah you're chronically sleepd deprived. >> Oh yeah. Wow. >> Cool. >> X I was like please explain to me you just have a [ __ ] kid. >> Why I forgot a podcast I was on and then I was on another podcast weeks later I forgot everything that we talked about. >> I would love to take one",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "TheQuartering",
+      "right": "Nerdrotic",
+      "signal_type": "separation",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "I went to a neurologist and because I was forgetting so much stuff and she was like she did a test with me like all the all these things and she was like uh yeah you're chronically sleepd deprived. >> Oh yeah. Wow. >> Cool. >> X I was like please explain to me you just have a [ __ ] kid. >> Why I forgot a podcast I was on and then I was on another podcast weeks later I forgot everything that we talked about. >> I would love to take one",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "TheQuartering",
+      "right": "Cecil",
+      "signal_type": "separation",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "I went to a neurologist and because I was forgetting so much stuff and she was like she did a test with me like all the all these things and she was like uh yeah you're chronically sleepd deprived. >> Oh yeah. Wow. >> Cool. >> X I was like please explain to me you just have a [ __ ] kid. >> Why I forgot a podcast I was on and then I was on another podcast weeks later I forgot everything that we talked about. >> I would love to take one",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "TheQuartering",
+      "right": "Ethan Van Sciver",
+      "signal_type": "separation",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "I went to a neurologist and because I was forgetting so much stuff and she was like she did a test with me like all the all these things and she was like uh yeah you're chronically sleepd deprived. >> Oh yeah. Wow. >> Cool. >> X I was like please explain to me you just have a [ __ ] kid. >> Why I forgot a podcast I was on and then I was on another podcast weeks later I forgot everything that we talked about. >> I would love to take one",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Nerdrotic",
+      "right": "Cecil",
+      "signal_type": "separation",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "I went to a neurologist and because I was forgetting so much stuff and she was like she did a test with me like all the all these things and she was like uh yeah you're chronically sleepd deprived. >> Oh yeah. Wow. >> Cool. >> X I was like please explain to me you just have a [ __ ] kid. >> Why I forgot a podcast I was on and then I was on another podcast weeks later I forgot everything that we talked about. >> I would love to take one",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Nerdrotic",
+      "right": "Ethan Van Sciver",
+      "signal_type": "separation",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "I went to a neurologist and because I was forgetting so much stuff and she was like she did a test with me like all the all these things and she was like uh yeah you're chronically sleepd deprived. >> Oh yeah. Wow. >> Cool. >> X I was like please explain to me you just have a [ __ ] kid. >> Why I forgot a podcast I was on and then I was on another podcast weeks later I forgot everything that we talked about. >> I would love to take one",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Cecil",
+      "right": "Ethan Van Sciver",
+      "signal_type": "separation",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "ituation. >> I don't think either one of us >> really [clears throat] can't handle not having the spotlight. >> Sorry. No, >> either one of us dare to try to handle sharing focus for a minute. Um, so let's say let's say Cecil, one of you is fine. You're in the timeout. Anna put you in a timeout. Okay. >> Would you then think it's it's your job to contact her about letting you out of the timeout or do you think it's her job to let you know >>",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Chrissie Mayr",
+      "right": "TheQuartering",
+      "signal_type": "criticised",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": ">> or even like a fellow friend or anyone that you've ever like done stuff with. I just Yeah. I I don't I don't want anything to do with that. That's [ __ ] exhausting and I don't know how people they I don't get it. Oh >> yeah. I'm so I was I was I was legitimately surprised that he did that. I was like, \"Wow, holy [ __ ] >> That sucks.\" >> Cuz Yeah. >> It uh Yeah. And then Gary's like, \"You should call him.\" I'm like, \"Why on earth wo",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Chrissie Mayr",
+      "right": "Nerdrotic",
+      "signal_type": "criticised",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": ">> or even like a fellow friend or anyone that you've ever like done stuff with. I just Yeah. I I don't I don't want anything to do with that. That's [ __ ] exhausting and I don't know how people they I don't get it. Oh >> yeah. I'm so I was I was I was legitimately surprised that he did that. I was like, \"Wow, holy [ __ ] >> That sucks.\" >> Cuz Yeah. >> It uh Yeah. And then Gary's like, \"You should call him.\" I'm like, \"Why on earth wo",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Chrissie Mayr",
+      "right": "Cecil",
+      "signal_type": "criticised",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": ">> or even like a fellow friend or anyone that you've ever like done stuff with. I just Yeah. I I don't I don't want anything to do with that. That's [ __ ] exhausting and I don't know how people they I don't get it. Oh >> yeah. I'm so I was I was I was legitimately surprised that he did that. I was like, \"Wow, holy [ __ ] >> That sucks.\" >> Cuz Yeah. >> It uh Yeah. And then Gary's like, \"You should call him.\" I'm like, \"Why on earth wo",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "TheQuartering",
+      "right": "Nerdrotic",
+      "signal_type": "criticised",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": ">> or even like a fellow friend or anyone that you've ever like done stuff with. I just Yeah. I I don't I don't want anything to do with that. That's [ __ ] exhausting and I don't know how people they I don't get it. Oh >> yeah. I'm so I was I was I was legitimately surprised that he did that. I was like, \"Wow, holy [ __ ] >> That sucks.\" >> Cuz Yeah. >> It uh Yeah. And then Gary's like, \"You should call him.\" I'm like, \"Why on earth wo",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "TheQuartering",
+      "right": "Cecil",
+      "signal_type": "criticised",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": ">> or even like a fellow friend or anyone that you've ever like done stuff with. I just Yeah. I I don't I don't want anything to do with that. That's [ __ ] exhausting and I don't know how people they I don't get it. Oh >> yeah. I'm so I was I was I was legitimately surprised that he did that. I was like, \"Wow, holy [ __ ] >> That sucks.\" >> Cuz Yeah. >> It uh Yeah. And then Gary's like, \"You should call him.\" I'm like, \"Why on earth wo",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Nerdrotic",
+      "right": "Cecil",
+      "signal_type": "criticised",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": ">> or even like a fellow friend or anyone that you've ever like done stuff with. I just Yeah. I I don't I don't want anything to do with that. That's [ __ ] exhausting and I don't know how people they I don't get it. Oh >> yeah. I'm so I was I was I was legitimately surprised that he did that. I was like, \"Wow, holy [ __ ] >> That sucks.\" >> Cuz Yeah. >> It uh Yeah. And then Gary's like, \"You should call him.\" I'm like, \"Why on earth wo",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Chrissie Mayr",
+      "right": "TheQuartering",
+      "signal_type": "friendship_claim",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": ">> or even like a fellow friend or anyone that you've ever like done stuff with. I just Yeah. I I don't I don't want anything to do with that. That's [ __ ] exhausting and I don't know how people they I don't get it. Oh >> yeah. I'm so I was I was I was legitimately surprised that he did that. I was like, \"Wow, holy [ __ ] >> That sucks.\" >> Cuz Yeah. >> It uh Yeah. And then Gary's like, \"You should call him.\" I'm like, \"Why on earth wo",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Chrissie Mayr",
+      "right": "Nerdrotic",
+      "signal_type": "friendship_claim",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": ">> or even like a fellow friend or anyone that you've ever like done stuff with. I just Yeah. I I don't I don't want anything to do with that. That's [ __ ] exhausting and I don't know how people they I don't get it. Oh >> yeah. I'm so I was I was I was legitimately surprised that he did that. I was like, \"Wow, holy [ __ ] >> That sucks.\" >> Cuz Yeah. >> It uh Yeah. And then Gary's like, \"You should call him.\" I'm like, \"Why on earth wo",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Chrissie Mayr",
+      "right": "Cecil",
+      "signal_type": "friendship_claim",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": ">> or even like a fellow friend or anyone that you've ever like done stuff with. I just Yeah. I I don't I don't want anything to do with that. That's [ __ ] exhausting and I don't know how people they I don't get it. Oh >> yeah. I'm so I was I was I was legitimately surprised that he did that. I was like, \"Wow, holy [ __ ] >> That sucks.\" >> Cuz Yeah. >> It uh Yeah. And then Gary's like, \"You should call him.\" I'm like, \"Why on earth wo",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "TheQuartering",
+      "right": "Nerdrotic",
+      "signal_type": "friendship_claim",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": ">> or even like a fellow friend or anyone that you've ever like done stuff with. I just Yeah. I I don't I don't want anything to do with that. That's [ __ ] exhausting and I don't know how people they I don't get it. Oh >> yeah. I'm so I was I was I was legitimately surprised that he did that. I was like, \"Wow, holy [ __ ] >> That sucks.\" >> Cuz Yeah. >> It uh Yeah. And then Gary's like, \"You should call him.\" I'm like, \"Why on earth wo",
+      "warning": "co-mention plus language signal; requires interpretation"
+    }
+  ],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

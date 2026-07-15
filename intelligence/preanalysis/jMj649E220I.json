@@ -1,0 +1,112 @@
+{
+  "schema_version": "octopuss-preanalysis-v0.1",
+  "generated_at": "2026-07-15T21:04:20.392853+00:00",
+  "video_id": "jMj649E220I",
+  "title": "Kino Casino: Brad Cool’s Offer to TheQuartering & Jer’s DEFINITELY Banned from the Ren Fair Jul 2026",
+  "source": "Elissa Clips",
+  "published": "2026-07-10T00:33:20+00:00",
+  "packet_hash": "dc6a2e52be60deb1353896e363e8907babb90c5a02756c39d84ad4cbd6ba17d0",
+  "coverage": {
+    "first_caption_second": 0.0,
+    "last_caption_second": 506.04,
+    "timestamp_start": "00:00",
+    "timestamp_end": "08:26",
+    "caption_span_seconds": 506.04,
+    "status": "transcript_present",
+    "note": "This measures the caption span only. It does not prove complete coverage of the original video."
+  },
+  "participant_candidates": [
+    {
+      "entity": "Elissa Clips",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.72,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "TheQuartering",
+      "mentions": 8,
+      "block_count": 1,
+      "first_timestamp": "00:00",
+      "last_timestamp": "08:26",
+      "discussion_span_seconds": 506.0,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.771,
+        "positive_hits": 31,
+        "negative_hits": 4
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "Here we have a lazy show illustration of J Air on his mobility scooter. You >> [laughter] >> can see he's shattered it under his tremendous girth and weight there. He's tasting the colors. >> OH, BRAD CRUEL. >> SO, Brad cool is reiterating his offer to Quartering to live in his garage. Okay. Look. >> All right. >> I've been >> I like his jean jacket. >> an acquaintance. Yeah. A friend I thought Jeremy's Jeremy's for a long time. >> Okay"
+        }
+      ],
+      "appearance_status": "uncertain"
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "08:26",
+      "title": "TheQuartering",
+      "entities": [
+        "TheQuartering"
+      ],
+      "summary_seed": "Here we have a lazy show illustration of J Air on his mobility scooter. You >> [laughter] >> can see he's shattered it under his tremendous girth and weight there. He's tasting the colors. >> OH, BRAD CRUEL. >> SO, Brad cool is reiterating his offer to Quartering to live in his garage. Okay. Look. >> All right. >> I've been >> I like his jean jacket. >> an acquaintance. Yeah. A friend I thought Jeremy's Jeremy's for",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    }
+  ],
+  "claim_candidates": [
+    {
+      "claimant": "unknown speaker",
+      "claim": "that he's probably",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "Like I know that he's probably"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "he's selling a lot of stuff.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "I know he's selling a lot of stuff."
+    }
+  ],
+  "quote_candidates": [
+    {
+      "timestamp": "00:00",
+      "text": "He'll always be there, J Air, when Heather divorces you and takes everything.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "00:00",
+      "text": "YOU'LL [screaming] NEVER GO TO THE REN FAIR NOW, [ __ ]",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "00:00",
+      "text": "They're like we're never going to get this thing",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "00:00",
+      "text": "Like we're never going to get the onion ring grease out of this chair.",
+      "significance_score": 1
+    }
+  ],
+  "relationship_signals": [],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

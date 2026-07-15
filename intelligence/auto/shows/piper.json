@@ -1,0 +1,102 @@
+{
+  "show_id": "piper",
+  "name": "Piper",
+  "episodes": [
+    {
+      "video_id": "ims2nZAnn-s",
+      "title": "F - IT: We Are Soooooo Back (AGANE)",
+      "published": "2026-07-09T03:55:54+00:00"
+    }
+  ],
+  "participant_candidates": [
+    {
+      "video_id": "ims2nZAnn-s",
+      "entity": "Piper",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.72,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subject_history": [
+    {
+      "video_id": "ims2nZAnn-s",
+      "entity": "Liam Gray",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.882,
+        "positive_hits": 223,
+        "negative_hits": 14
+      }
+    },
+    {
+      "video_id": "ims2nZAnn-s",
+      "entity": "Frog Tony",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.937,
+        "positive_hits": 154,
+        "negative_hits": 5
+      }
+    },
+    {
+      "video_id": "ims2nZAnn-s",
+      "entity": "Ethan Van Sciver",
+      "importance": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.862,
+        "positive_hits": 81,
+        "negative_hits": 6
+      }
+    },
+    {
+      "video_id": "ims2nZAnn-s",
+      "entity": "Jon Del Arroz",
+      "importance": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.89,
+        "positive_hits": 103,
+        "negative_hits": 6
+      }
+    },
+    {
+      "video_id": "ims2nZAnn-s",
+      "entity": "ComicsGate",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.889,
+        "positive_hits": 51,
+        "negative_hits": 3
+      }
+    },
+    {
+      "video_id": "ims2nZAnn-s",
+      "entity": "Cyberfrog",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.959,
+        "positive_hits": 48,
+        "negative_hits": 1
+      }
+    },
+    {
+      "video_id": "ims2nZAnn-s",
+      "entity": "Eric July",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.879,
+        "positive_hits": 62,
+        "negative_hits": 4
+      }
+    }
+  ],
+  "updated_at": "2026-07-15T21:04:31.914423+00:00"
+}

@@ -1,0 +1,666 @@
+{
+  "schema_version": "octopuss-preanalysis-v0.1",
+  "generated_at": "2026-07-15T21:04:18.289785+00:00",
+  "video_id": "9OJNBEVnTBk",
+  "title": "JCW Lunacy #90 Watch Party",
+  "source": "Frog Tony",
+  "published": "2026-07-11T15:39:46+00:00",
+  "packet_hash": "04db2b7a116f663160d95632bec41ccc3c82c1a6a7f00c4ff9841b80b2d2ad74",
+  "coverage": {
+    "first_caption_second": 0.64,
+    "last_caption_second": 6198.239,
+    "timestamp_start": "00:00",
+    "timestamp_end": "01:43:18",
+    "caption_span_seconds": 6197.599,
+    "status": "transcript_present",
+    "note": "This measures the caption span only. It does not prove complete coverage of the original video."
+  },
+  "participant_candidates": [
+    {
+      "entity": "Frog Tony",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.72,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Frog Tony",
+      "mentions": 28,
+      "block_count": 3,
+      "first_timestamp": "00:00",
+      "last_timestamp": "36:00",
+      "discussion_span_seconds": 2159.6,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.759,
+        "positive_hits": 124,
+        "negative_hits": 17
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "n my way strong enough that I can shake the pain [music] one day. I'mma grow up big and I'mma be a king. And my papers [music] sh [music] [music] yeah yeah yeah. [music] In the middle of the night he hopping thinking OF FROG TONY THERE'S NO STOPPING. [music] He speaks the truth and leaves you balling. He's the corker that laughs as you're falling. Rock Tony [music] haunts your dreams. Can't you see? Hopping [music] through the shadows quite eage"
+        },
+        {
+          "timestamp": "12:01",
+          "excerpt": "the spirit of JRod and grace us with her presence. >> JRod is on the show. >> Hell yeah. >> That's one step in the right direction. >> How you doing uh Kendrick? >> First of all, I want to give many many many thanks to Frog Tony. Froony's channel at Fanboy Steve and TJ because I understand what JCW means and what it is for Fronton's channel. How are you all doing tonight gentlemen? >> Doing great. Uh is doing fine. I think uh Steven's having pr"
+        },
+        {
+          "timestamp": "24:00",
+          "excerpt": "in the ring. >> I like that that drum break that latch with Danny Mo. I know a good thing when I see it >> and you know how competitive they in the women's division doesn't go by JR American coming with something to prove >> super angry and ready for action tonight and sag >> it's got to be like marketing and >> yes it's it's a branding thing >> they weren't going to let them >> starting off hot here too >> kick her in the dick >> JR [l"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Dick Masterson",
+      "mentions": 2,
+      "block_count": 2,
+      "first_timestamp": "24:00",
+      "last_timestamp": "01:12:04",
+      "discussion_span_seconds": 2884.4,
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.627,
+        "positive_hits": 48,
+        "negative_hits": 11
+      },
+      "receipts": [
+        {
+          "timestamp": "24:00",
+          "excerpt": "in the ring. >> I like that that drum break that latch with Danny Mo. I know a good thing when I see it >> and you know how competitive they in the women's division doesn't go by JR American coming with something to prove >> super angry and ready for action tonight and sag >> it's got to be like marketing and >> yes it's it's a branding thing >> they weren't going to let them >> starting off hot here too >> kick her in the dick >> JR [l"
+        },
+        {
+          "timestamp": "01:00:01",
+          "excerpt": "diversion really really sold that just now. >> They might be number one contenders coming up right here. >> BACK SEATS ARE >> these guys want to go to the full ghetto fill up with the mayo sandwiches and saltine lunchables. >> That's Daddy Mac right there. The DAA MAC >> rooting for Willie M. I think you guys can appreciate the fact correct me if I'm wrong. If Willie and Tony beat you, that's all respect based. They they could be the be"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Vito Gesualdi",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "01:00:01",
+      "last_timestamp": "01:12:04",
+      "discussion_span_seconds": 723.7,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.655,
+        "positive_hits": 24,
+        "negative_hits": 5
+      },
+      "receipts": [
+        {
+          "timestamp": "01:00:01",
+          "excerpt": "diversion really really sold that just now. >> They might be number one contenders coming up right here. >> BACK SEATS ARE >> these guys want to go to the full ghetto fill up with the mayo sandwiches and saltine lunchables. >> That's Daddy Mac right there. The DAA MAC >> rooting for Willie M. I think you guys can appreciate the fact correct me if I'm wrong. If Willie and Tony beat you, that's all respect based. They they could be the be"
+        }
+      ],
+      "appearance_status": "uncertain"
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "12:04",
+      "title": "Frog Tony",
+      "entities": [
+        "Frog Tony"
+      ],
+      "summary_seed": "Yeah. Hey everybody, my name is Eouble. [music] Their name is PJ Harvey. Let's go. Mama told [music] me. Yeah. Life. Mama told me. [music] Yeah. Yeah. Come on. Mama told me one day I'mma grow up big and I'mma be a king. And my papa [music] told me it's okay to sit. Don't forget your dreams cuz they'll get you through this. I call life [music] they call living but I call it strange enough that I'll do it cuz I'm on my",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "12:01",
+      "end": "24:00",
+      "title": "Frog Tony",
+      "entities": [
+        "Frog Tony"
+      ],
+      "summary_seed": "time.\" O Yeah, I didn't I didn't catch any of it. No one caught any of it, Ray. Sorry. Uh, what up TJ? And we got Stephen Lenudo joining us. Uh, maybe Cosmic Vader will pop in. Uh, before we got derailed. Uh, what were we uh talking about? Oh, yeah. Melissa Rouch being [ __ ] hot and all you guys being >> Yeah, I think that's what the gist of it was. >> I saw that movie and she does I saw that movie where she and she",
+      "clip_likelihood": false,
+      "transition_markers": 2
+    },
+    {
+      "start": "24:00",
+      "end": "36:00",
+      "title": "Frog Tony / Dick Masterson",
+      "entities": [
+        "Frog Tony",
+        "Dick Masterson"
+      ],
+      "summary_seed": "in the ring. >> I like that that drum break that latch with Danny Mo. I know a good thing when I see it >> and you know how competitive they in the women's division doesn't go by JR American coming with something to prove >> super angry and ready for action tonight and sag >> it's got to be like marketing and >> yes it's it's a branding thing >> they weren't going to let them >> starting off hot here too >> kick her",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    },
+    {
+      "start": "36:00",
+      "end": "48:03",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": ">> They're going to speak of your name. >> Oh yes. >> Oh yeah. This is going to be the DAY RED LOVE WAS BORN. OH, THE DAY IS GONE. >> LOOK AT US SING SONGS. LOOK AT THE RAP POEMS. AND LOOK AT THE REST OF >> HALLELUJAH. HALLELUJAH. [laughter] >> Red will still be there after the dust clears. Yes, baby. Hand settles. >> Easy with the >> He's doing the joker thing where he's looking at his gums >> in interrupt a celebra",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "48:00",
+      "end": "01:00:04",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": ">> It's the life. What are you going to do? Forget about it. I don't know. >> Following the devil's favorite dealer, cocaine. No doubt he's searching for Big Al, Alice Crowley. Alice hasn't been seen since a week ago. Cocaine's on the hunt. Is he going to track her down? And now Big Alone. Yeah, >> it's funny that Cocaine is really polite and knocked on the door versus Mark Mac Davis who just barges into the ladies r",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "01:00:01",
+      "end": "01:12:04",
+      "title": "Dick Masterson / Vito Gesualdi",
+      "entities": [
+        "Dick Masterson",
+        "Vito Gesualdi"
+      ],
+      "summary_seed": "diversion really really sold that just now. >> They might be number one contenders coming up right here. >> BACK SEATS ARE >> these guys want to go to the full ghetto fill up with the mayo sandwiches and saltine lunchables. >> That's Daddy Mac right there. The DAA MAC >> rooting for Willie M. I think you guys can appreciate the fact correct me if I'm wrong. If Willie and Tony beat you, that's all respect based. They",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "01:12:02",
+      "end": "01:24:04",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": ">> CALL ME A [ __ ] [ __ ] DAD. >> She [laughter] can barely swing the >> She could get out. >> [ __ ] you. Oh, more more more felonies being committed. >> There's two two little uh >> I refuse to believe your daughter, Danny Mo. It's a real piece of work. She's outside beating the [ __ ] out of your CAR WITH A SLEDGEHAMMER. >> I [ __ ] KNEW IT. THAT LITTLE [ __ ] [ __ ] TOOK A SLEDGEHAMMER AND DESTROYED MY [ __ ] CA",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "01:24:01",
+      "end": "01:36:02",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": ">> When were [music] they? Were they in after 95, right? >> Uh, I think they were on the first uh, Rock. >> They used to fly. >> Yeah, it would have been 94 then, right? Because on 94 Randy Savage was wearing the Raw was about to get launched or was launching by the time Randy was leaving and his last show 96. >> 96. Oh, that was hot because Hall and Nash were out by then. So in a way that the the the locker room got",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "01:36:03",
+      "end": "01:43:18",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": ">> It works better than baby face versus face. But I mean again, just go classic. >> It's like cocaine is just completely out of the picture. is like not doing anything to one. >> He's doing the whole thing. >> He should have something for himself. >> Definitely. >> What's going on here? >> Speaking of >> Oh [ __ ] >> She should have done the the the feeling he sent like he was HERE >> LOOKING FOR ME. Very dangerous",
+      "clip_likelihood": false,
+      "transition_markers": 3
+    }
+  ],
+  "claim_candidates": [
+    {
+      "claimant": "unknown speaker",
+      "claim": "I'll rebound like the boys with rhyme and I am just exactly what I will be just a guy who can rhyme and chop [music] ill beats.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "I'm feeling pretty low [music] like I'm stuck at the bottom, but I know I'll rebound like the boys with rhyme and I am just exactly what I will be just a guy who can rhyme and chop [music] ill beats."
+    },
+    {
+      "claimant": "We trying to live life while they signal",
+      "claim": "left but they really going right.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "We trying to live life while they signal says left but they really going right."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "like it kind of destroyed nerd culture.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "I I mean, I know like it kind of destroyed nerd culture."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "there's also an argument to be made if we're honest with ourselves that it is how we are.",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "But I think there's also an argument to be made if we're honest with ourselves that it is how we are."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "the movie with Melissa Rous where she's like Yeah, she's like a It's like uh what is it called?",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "Yeah, I know the movie with Melissa Rous where she's like Yeah, she's like a It's like uh what is it called?"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "she didn't want to talk.",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think she didn't want to talk."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that's what the gist of it was.",
+      "timestamp": "12:01",
+      "status": "opinion_or_inference",
+      "receipt": "Yeah, I think that's what the gist of it was."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "uh Steven's having problems with the family, but with the fishes now, so it's okay.",
+      "timestamp": "12:01",
+      "status": "opinion_or_inference",
+      "receipt": "I think uh Steven's having problems with the family, but with the fishes now, so it's okay."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "the thumbnail didn't really get me excited.",
+      "timestamp": "12:01",
+      "status": "candidate_claim",
+      "receipt": "Oh man, you got me into I know the thumbnail didn't really get me excited."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "NOW, I WOULD HAVE BEGGED BARBARA TO HAVE AN ABORTION.",
+      "timestamp": "12:01",
+      "status": "candidate_claim",
+      "receipt": "If I knew then WHAT I KNOW NOW, I WOULD HAVE BEGGED BARBARA TO HAVE AN ABORTION."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "maybe [laughter] as we continue to check this welcome you to Lunacy.",
+      "timestamp": "12:01",
+      "status": "opinion_or_inference",
+      "receipt": "I THINK maybe [laughter] as we continue to check this welcome you to Lunacy."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "a good thing when I see it",
+      "timestamp": "24:00",
+      "status": "candidate_claim",
+      "receipt": "I know a good thing when I see it"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "Mickey Knuckles would be on the list.",
+      "timestamp": "24:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think Mickey Knuckles would be on the list."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "Ripley reasserting her dominance.",
+      "timestamp": "24:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think Ripley reasserting her dominance."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "was out before she hit the ground.",
+      "timestamp": "24:00",
+      "status": "opinion_or_inference",
+      "receipt": "Sunny kiss I think was out before she hit the ground."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "this is going to be the one, y'all.",
+      "timestamp": "36:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think this is going to be the one, y'all."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "Flo is using the cape around the neck of Purple Phantom.",
+      "timestamp": "36:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think Flo is using the cape around the neck of Purple Phantom."
+    },
+    {
+      "claimant": "But BB",
+      "claim": "I think it's the butt around [laughter] for me.",
+      "timestamp": "36:00",
+      "status": "opinion_or_inference",
+      "receipt": "But BB says I think it's the butt around [laughter] for me."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "they had to like interview with them handle",
+      "timestamp": "36:00",
+      "status": "candidate_claim",
+      "receipt": "I know they had to like interview with them handle"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "is also cool.",
+      "timestamp": "48:00",
+      "status": "opinion_or_inference",
+      "receipt": "business because usually what Willie does is he paints half of a face which I think is also cool."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "Bruce it speaks so much to the mutual respect that you Willie and Tony have earned with one another and it speaks so much to the fact that you guys aren't cowering from a fight the fact you're so willing to face the former champions and let's face it too bonafide JCW pillars and legends like Willie Macon.",
+      "timestamp": "48:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think Bruce it speaks so much to the mutual respect that you Willie and Tony have earned with one another and it speaks so much to the fact that you guys aren't cowering from a fight the fact you're so willing to face the former champions and let's face it too bonafide JCW pillars and legends like Willie Macon."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "they wanted THE RED CARPET.",
+      "timestamp": "48:00",
+      "status": "opinion_or_inference",
+      "receipt": "seen a wishbone in a while, but I think they wanted THE RED CARPET."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "you guys would love",
+      "timestamp": "48:00",
+      "status": "opinion_or_inference",
+      "receipt": "And certainly I think you guys would love"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "you guys can appreciate the fact correct me if I'm wrong.",
+      "timestamp": "01:00:01",
+      "status": "opinion_or_inference",
+      "receipt": "I think you guys can appreciate the fact correct me if I'm wrong."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "can break it easily with a with a hard enough strike.",
+      "timestamp": "01:00:01",
+      "status": "opinion_or_inference",
+      "receipt": "Yeah, I think can break it easily with a with a hard enough strike."
+    },
+    {
+      "claimant": "earlier today",
+      "claim": "in the graphic above",
+      "timestamp": "01:00:01",
+      "status": "candidate_claim",
+      "receipt": "earlier today said in the graphic above"
+    },
+    {
+      "claimant": "I'm sorry it said it said two weeks ago",
+      "claim": "two weeks ago and somewhere else you don't want to be",
+      "timestamp": "01:00:01",
+      "status": "candidate_claim",
+      "receipt": "I'm sorry it said it said two weeks ago said two weeks ago and somewhere else you don't want to be"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "it would be hilarious if it the purple phantom had his had his cape on and he couldn't see while he was having sex with Jasmine.",
+      "timestamp": "01:00:01",
+      "status": "opinion_or_inference",
+      "receipt": "I think it would be hilarious if it the purple phantom had his had his cape on and he couldn't see while he was having sex with Jasmine."
+    },
+    {
+      "claimant": "He",
+      "claim": "it [laughter] welcome home my my friend.",
+      "timestamp": "01:00:01",
+      "status": "candidate_claim",
+      "receipt": "He said it [laughter] welcome home my my friend."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "she would let him beat him off.",
+      "timestamp": "01:12:02",
+      "status": "opinion_or_inference",
+      "receipt": "I think she would let him beat him off."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "he want another doover.",
+      "timestamp": "01:12:02",
+      "status": "opinion_or_inference",
+      "receipt": "I think he want another doover."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "they just had uh they weren't the best and they weren't really good on the mic.",
+      "timestamp": "01:12:02",
+      "status": "opinion_or_inference",
+      "receipt": "I think they just had uh they weren't the best and they weren't really good on the mic."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "they were on the first uh, Rock.",
+      "timestamp": "01:24:01",
+      "status": "opinion_or_inference",
+      "receipt": "Uh, I think they were on the first uh, Rock."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "you're just being redundant now.",
+      "timestamp": "01:24:01",
+      "status": "opinion_or_inference",
+      "receipt": "I think you're just being redundant now."
+    },
+    {
+      "claimant": "Vince",
+      "claim": "yes.",
+      "timestamp": "01:24:01",
+      "status": "candidate_claim",
+      "receipt": "Everything we saw on TV, Vince said yes."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "one thing's for certain.",
+      "timestamp": "01:24:01",
+      "status": "candidate_claim",
+      "receipt": "I know one thing's for certain."
+    },
+    {
+      "claimant": "The way you",
+      "claim": "that all about",
+      "timestamp": "01:24:01",
+      "status": "candidate_claim",
+      "receipt": "Oh [ __ ] The way you said that all about"
+    },
+    {
+      "claimant": "but you KNOW VINCE RUSSO",
+      "claim": "THAT JACK TY RULE ONCE A MONTH Caleb is up week CALEB CONLEY HAS SET A VERY very down who's hurt who's motionless",
+      "timestamp": "01:24:01",
+      "status": "candidate_claim",
+      "receipt": "but you KNOW VINCE RUSSO SAID THAT JACK TY RULE ONCE A MONTH Caleb is up week CALEB CONLEY HAS SET A VERY very down who's hurt who's motionless"
+    },
+    {
+      "claimant": "air Bloody Mania 19 live on Triller TV as",
+      "claim": "by Jeff Lane.\" Nice.",
+      "timestamp": "01:36:03",
+      "status": "candidate_claim",
+      "receipt": "JCW is going to air Bloody Mania 19 live on Triller TV as confirmed by Jeff Lane.\" Nice."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that's a possibility.",
+      "timestamp": "01:36:03",
+      "status": "opinion_or_inference",
+      "receipt": "I I think that's a possibility."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "the uh original Cracket Cup was two nights",
+      "timestamp": "01:36:03",
+      "status": "opinion_or_inference",
+      "receipt": "Well, I mean, there there was some uh if you go way back in in the gap, I think the uh original Cracket Cup was two nights"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "there there is because I I need to like I would rather sit down for one day and watch wrestling come back two days in a row.",
+      "timestamp": "01:36:03",
+      "status": "opinion_or_inference",
+      "receipt": "I think there there is because I I need to like I would rather sit down for one day and watch wrestling come back two days in a row."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "before the week before that was almost two.",
+      "timestamp": "01:36:03",
+      "status": "opinion_or_inference",
+      "receipt": "It was an hour and 45 and I think before the week before that was almost two."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "it started when we first started watching, I'm pretty sure it was 90 minutes.",
+      "timestamp": "01:36:03",
+      "status": "opinion_or_inference",
+      "receipt": "Well, I mean, I think it started when we first started watching, I'm pretty sure it was 90 minutes."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "it was a time when the the promotion had a more influx of talent because around that same time, you had Mr.",
+      "timestamp": "01:36:03",
+      "status": "opinion_or_inference",
+      "receipt": "Well, I I think it was a time when the the promotion had a more influx of talent because around that same time, you had Mr."
+    }
+  ],
+  "quote_candidates": [
+    {
+      "timestamp": "00:00",
+      "text": "I can strike out with three [ __ ] in an arm sling.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "12:01",
+      "text": "I mean like I only had one issue and it's like a me issue.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "24:00",
+      "text": "Danny, a whole host of personal issues with Barnabas.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "01:00:01",
+      "text": "Yeah, I think can break it easily with a with a hard enough strike.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "01:12:02",
+      "text": "She was like threatening him like like trashing cracking her ass.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "01:36:03",
+      "text": "Yeah, hopefully uh they don't have any issues with the audio like they did last time.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "00:00",
+      "text": "They are on piss that they never really ready for.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "00:00",
+      "text": "Never miss when you [music] attack the king.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "00:00",
+      "text": "You never had [music] a chance to win this race.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "00:00",
+      "text": "It's the imitated, never duplicated, chosen one of CG.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "12:01",
+      "text": "I don't know how we always end up on those weird topics.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "12:01",
+      "text": "but never in my wildest dreams did I ever think he would be revealed to be my own flesh and blood.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "24:00",
+      "text": "You can never count out Sunny Kiss.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "24:00",
+      "text": "And Haley Jay never backs down a fight.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "24:00",
+      "text": "I've never seen SOME STUPID [ __ ] IN MY [ __ ] LIFE.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "24:00",
+      "text": "Stupid son of a [ __ ] Dude, I I ALWAYS THOUGHT THAT CHRIS M should have been [ __ ]",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "36:00",
+      "text": "That's why I never wore cape in the ring, baby.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "36:00",
+      "text": "Like he's he's really good, but he always gets foiled.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "48:00",
+      "text": "Never thought I'd be rooting for I never thought they tough Tony.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "01:00:01",
+      "text": "Triple H never getting the lawsuits ready because filing the paperwork.",
+      "significance_score": 1
+    }
+  ],
+  "relationship_signals": [
+    {
+      "left": "Frog Tony",
+      "right": "Dick Masterson",
+      "signal_type": "criticised",
+      "timestamp": "24:00",
+      "confidence": 0.45,
+      "receipt": "in the ring. >> I like that that drum break that latch with Danny Mo. I know a good thing when I see it >> and you know how competitive they in the women's division doesn't go by JR American coming with something to prove >> super angry and ready for action tonight and sag >> it's got to be like marketing and >> yes it's it's a branding thing >> they weren't going to let them >> starting off hot here too >> kick her in the dick >> JR [l",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Dick Masterson",
+      "signal_type": "friendship_claim",
+      "timestamp": "24:00",
+      "confidence": 0.45,
+      "receipt": "in the ring. >> I like that that drum break that latch with Danny Mo. I know a good thing when I see it >> and you know how competitive they in the women's division doesn't go by JR American coming with something to prove >> super angry and ready for action tonight and sag >> it's got to be like marketing and >> yes it's it's a branding thing >> they weren't going to let them >> starting off hot here too >> kick her in the dick >> JR [l",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Dick Masterson",
+      "right": "Vito Gesualdi",
+      "signal_type": "legal_conflict",
+      "timestamp": "01:00:01",
+      "confidence": 0.45,
+      "receipt": "diversion really really sold that just now. >> They might be number one contenders coming up right here. >> BACK SEATS ARE >> these guys want to go to the full ghetto fill up with the mayo sandwiches and saltine lunchables. >> That's Daddy Mac right there. The DAA MAC >> rooting for Willie M. I think you guys can appreciate the fact correct me if I'm wrong. If Willie and Tony beat you, that's all respect based. They they could be the be",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Dick Masterson",
+      "right": "Vito Gesualdi",
+      "signal_type": "friendship_claim",
+      "timestamp": "01:00:01",
+      "confidence": 0.45,
+      "receipt": "diversion really really sold that just now. >> They might be number one contenders coming up right here. >> BACK SEATS ARE >> these guys want to go to the full ghetto fill up with the mayo sandwiches and saltine lunchables. >> That's Daddy Mac right there. The DAA MAC >> rooting for Willie M. I think you guys can appreciate the fact correct me if I'm wrong. If Willie and Tony beat you, that's all respect based. They they could be the be",
+      "warning": "co-mention plus language signal; requires interpretation"
+    }
+  ],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

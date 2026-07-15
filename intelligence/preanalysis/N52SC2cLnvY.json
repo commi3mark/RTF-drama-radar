@@ -1,0 +1,1447 @@
+{
+  "schema_version": "octopuss-preanalysis-v0.1",
+  "generated_at": "2026-07-15T21:04:23.850685+00:00",
+  "video_id": "N52SC2cLnvY",
+  "title": "TRASHCAST # 267 BIGGEST PROBLEM was insane. Vito is a outta control. I pity him.",
+  "source": "Ethan Van Sciver",
+  "published": "2026-07-03T06:25:18+00:00",
+  "packet_hash": "427d31b0fb8fab69dd4f8f16fa036afaa10f3455e962f1129493823acf02dd51",
+  "coverage": {
+    "first_caption_second": 1.04,
+    "last_caption_second": 9908.0,
+    "timestamp_start": "00:01",
+    "timestamp_end": "02:45:08",
+    "caption_span_seconds": 9906.96,
+    "status": "transcript_present",
+    "note": "This measures the caption span only. It does not prove complete coverage of the original video."
+  },
+  "participant_candidates": [
+    {
+      "entity": "Ethan Van Sciver",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.72,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    },
+    {
+      "entity": "Frog Tony",
+      "role_guess": "likely_participant",
+      "confidence": 0.43,
+      "signals": [
+        "directly addressed 2 times",
+        "appears in 3 distant transcript blocks"
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Ethan Van Sciver",
+      "mentions": 33,
+      "block_count": 3,
+      "first_timestamp": "00:01",
+      "last_timestamp": "36:02",
+      "discussion_span_seconds": 2161.9,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.772,
+        "positive_hits": 163,
+        "negative_hits": 21
+      },
+      "receipts": [
+        {
+          "timestamp": "00:01",
+          "excerpt": "Welcome to 5XL FM where a trash flows. [music] [music] [music] Yo everybody, how are you? Ethan Van Skyber here on the Trash Cash Show. Late night tonight. Sorry about that. I was just stuck watching uh Dick Mastersonson and Veto [music] basically end they just ended their professional relationship on Biggest Problem in the Universe. And I I couldn't stop watching it, man. I was really into it. I thought it was cool. Uh good entertainme"
+        },
+        {
+          "timestamp": "12:00",
+          "excerpt": "he was an [ __ ] Did his work. One of those two things. you guys. I'm fortunate to have some of you who are just kind of like, uh, yeah, I like you now and I like your work. But most of you are like, [ __ ] you and your work. Where is your work, by the way? Good. Because I've learned to hate you, says Pound. See, that's just typical. I mean, that's what uh that's what you get. But, you know, I so I I can deal with being hated. Uh, I don"
+        },
+        {
+          "timestamp": "24:01",
+          "excerpt": ">> What's this guy? >> Looks like Super Killer. >> What's this guy right here? This is Super Killer. This is the black and white variant. The color variant will also be printed. There's our nice title page. Eric Weathers. Love that guy. You work with Eric, right? >> Yeah. >> Letterer to the stars is what I call this man cuz he uh knocked it out of the park. And I I even got him to print the two-page spread correctly after arguing with t"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Dick Masterson",
+      "mentions": 20,
+      "block_count": 3,
+      "first_timestamp": "00:01",
+      "last_timestamp": "47:56",
+      "discussion_span_seconds": 2875.8,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.85,
+        "positive_hits": 173,
+        "negative_hits": 14
+      },
+      "receipts": [
+        {
+          "timestamp": "00:01",
+          "excerpt": "Welcome to 5XL FM where a trash flows. [music] [music] [music] Yo everybody, how are you? Ethan Van Skyber here on the Trash Cash Show. Late night tonight. Sorry about that. I was just stuck watching uh Dick Mastersonson and Veto [music] basically end they just ended their professional relationship on Biggest Problem in the Universe. And I I couldn't stop watching it, man. I was really into it. I thought it was cool. Uh good entertai"
+        },
+        {
+          "timestamp": "24:01",
+          "excerpt": "of all >> I'm not rushed. I don't feel rushed. Go ahead. >> You're the the context of tonight's episode of Biggest Problem in the Universe um is that uh all of the fans of Biggest Problem in the Universe have now pushed Dick Mastersonson. I believe I think it's clear and I'm sure you agree um to some feelings of negativity about this show uh and working specifically with you. Uh I think it's the fans fault. Uh biggest problem in the universe fans. Th"
+        },
+        {
+          "timestamp": "36:00",
+          "excerpt": "doing 100% of the work with my partner, another fat man.\" Probably >> very possibly. >> Yeah. uh why would I give you 25%. And Dick just said that's cuz you didn't really understand that you were uh upset at the idea of Dick Mastersonson taking 25% of the show when uh he was doing no he would be doing no work. It would all be you which it practically is now anyway. You know if you added up all the words that were uttered on tonight's show >> I think"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Frog Tony",
+      "mentions": 14,
+      "block_count": 3,
+      "first_timestamp": "00:01",
+      "last_timestamp": "47:56",
+      "discussion_span_seconds": 2875.8,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.738,
+        "positive_hits": 159,
+        "negative_hits": 24
+      },
+      "receipts": [
+        {
+          "timestamp": "00:01",
+          "excerpt": "Welcome to 5XL FM where a trash flows. [music] [music] [music] Yo everybody, how are you? Ethan Van Skyber here on the Trash Cash Show. Late night tonight. Sorry about that. I was just stuck watching uh Dick Mastersonson and Veto [music] basically end they just ended their professional relationship on Biggest Problem in the Universe. And I I couldn't stop watching it, man. I was really into it. I thought it was cool. Uh good entertainme"
+        },
+        {
+          "timestamp": "12:00",
+          "excerpt": "ing today about the FBI coming to my house. Haven't heard from Little Movie Perp uh in a little while, but I remember like how people kind of reacted to that. Like I got I got some people that are in that crowd like the Frog Tony crowd. Those guys are really stupid. Like they're they're good at making fun of people, I guess. Um uh in some ways. Uh but uh they're really low IQ. And like those people are just like um what do you call the FBI over"
+        },
+        {
+          "timestamp": "36:00",
+          "excerpt": "wanted to watch this video about you. >> Please fix my audio. Is my audio [ __ ] Do I sound okay? >> I sound okay. >> Test 112. Test 112. Yeah, I think I don't know. >> Uh all right, this is uh Veto weighs in. He hates Frog Tony, too. >> They tried to say this was Somebody was trying to spread the rumor that this was me talking [ __ ] about you. This is crazy. I defended you in this video. >> I didn't watch it yet. >> I defended you. >> All rig"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Trashcast",
+      "mentions": 4,
+      "block_count": 3,
+      "first_timestamp": "00:01",
+      "last_timestamp": "01:36:04",
+      "discussion_span_seconds": 5763.4,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.686,
+        "positive_hits": 134,
+        "negative_hits": 25
+      },
+      "receipts": [
+        {
+          "timestamp": "00:01",
+          "excerpt": "t show. I mean, I'm I'm just sitting there in the audience as a fan watching the show and I'm like I mean, I'm just watching the show. Uh, and it is a absolute splitting headache for me. Uh, and oh my god, this show uh, Trashcast was supposed to go an hour earlier, but uh, I got hooked on that show. I'm a big fan of that show. So, I think that's a really good combination of talent. Uh, but Veto has just become such a whiny kind of baby. Like, wh"
+        },
+        {
+          "timestamp": "12:00",
+          "excerpt": "ld get a medal, says Thuggish Thuggish Stone. I agree with that definitely. Um, okay. Hold on a second. Do we get all the super chats? Intro is giving me gout. Uh, says internet uh guy. Days of clarity says, \"Hell yeah. Trashcast, as I said on X, I really liked how you played the Patrick T after the Liam video and pointed out similarities. They're very there there are a lot of them.\" And I actually pointed some out about Veto tonight, too. There"
+        },
+        {
+          "timestamp": "01:24:01",
+          "excerpt": ">> you know, like I got to get these guys back to work. I'm like, look at this schedule here. Come on. So, you're going to get a lot of good comedy out of me there. [snorts] Um, okay. Uh, let's uh you and me. Uh, hold on a second. Since we're >> Let's analyze the the beginning of the end. >> Uh, no, no, no. I just think you and me could run a scene together. >> Oh, we're going to run a scene. Oh, this is great. Yeah, bring it up. >> Oka"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Shane Davis",
+      "mentions": 3,
+      "block_count": 1,
+      "first_timestamp": "12:00",
+      "last_timestamp": "24:02",
+      "discussion_span_seconds": 721.8,
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.586,
+        "positive_hits": 46,
+        "negative_hits": 12
+      },
+      "receipts": [
+        {
+          "timestamp": "12:00",
+          "excerpt": "r phone and led cops to it where it was parked in a garage at Sunset Station Hotel. All right. As officers approached the vehicle, Howlet blasted music over the car stereo. I wonder if the music was AI music threatening Shane Davis and refused commands to exit. He did, however, ask cops for a drink of water. Shocking video. The ensuing reaction, insuring reaction shows the officer surrounding the vehicle dragging howlet from the car as he reached"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "ComicsGate",
+      "mentions": 2,
+      "block_count": 2,
+      "first_timestamp": "36:00",
+      "last_timestamp": "01:36:04",
+      "discussion_span_seconds": 3604.4,
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.776,
+        "positive_hits": 87,
+        "negative_hits": 11
+      },
+      "receipts": [
+        {
+          "timestamp": "36:00",
+          "excerpt": ">> No. No. >> I I don't understand why he's been doing it this long at all. >> Yeah. >> I thought he would have been gone like six months ago, a year ago. >> You really feel that way? >> Oh, yeah. I think he's uh I don't I that's Yeah, I know he's got other more important things going on in his life. the show's not uh his main uh gig, >> you know, so you know, he's kind of doing it cuz it's a little bit of extra money in the pocket, but"
+        },
+        {
+          "timestamp": "01:24:01",
+          "excerpt": ">> you know, like I got to get these guys back to work. I'm like, look at this schedule here. Come on. So, you're going to get a lot of good comedy out of me there. [snorts] Um, okay. Uh, let's uh you and me. Uh, hold on a second. Since we're >> Let's analyze the the beginning of the end. >> Uh, no, no, no. I just think you and me could run a scene together. >> Oh, we're going to run a scene. Oh, this is great. Yeah, bring it up. >> Oka"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Eric July",
+      "mentions": 2,
+      "block_count": 1,
+      "first_timestamp": "00:01",
+      "last_timestamp": "12:04",
+      "discussion_span_seconds": 723.0,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.781,
+        "positive_hits": 57,
+        "negative_hits": 7
+      },
+      "receipts": [
+        {
+          "timestamp": "00:01",
+          "excerpt": "ng Biggest Problem as long as Dick Masterson gets 25% of I guess whatever whatever the show earns uh in perpetuity because it's his brand like he veto was like what am I giving you money for? very similar uh reaction to Eric July's reaction. [clears throat] Hold on a second. When the ministry was like the international school of ministry uh said, \"Hey, you know, listen, you're using our brand like we own, you know, ISOM, ISO, we own that. Uh so,"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Liam Gray",
+      "mentions": 2,
+      "block_count": 2,
+      "first_timestamp": "00:01",
+      "last_timestamp": "24:02",
+      "discussion_span_seconds": 1441.8,
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.689,
+        "positive_hits": 103,
+        "negative_hits": 19
+      },
+      "receipts": [
+        {
+          "timestamp": "00:01",
+          "excerpt": "ou know, you're you're going to have to uh give us percentage of the money that you make using it.\" And uh Veto just like Veto has become in so many different ways like I actually said like Veto you are a combination of Liam Gray, Eric July and Patrick S. Tomlinson and it's it's bizarre that you became that way and I only really realized it like um when Riley [ __ ] with him. [laughter] All right, hold on a second. I got to start a super chat. I"
+        },
+        {
+          "timestamp": "12:00",
+          "excerpt": "he was an [ __ ] Did his work. One of those two things. you guys. I'm fortunate to have some of you who are just kind of like, uh, yeah, I like you now and I like your work. But most of you are like, [ __ ] you and your work. Where is your work, by the way? Good. Because I've learned to hate you, says Pound. See, that's just typical. I mean, that's what uh that's what you get. But, you know, I so I I can deal with being hated. Uh, I don"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Cyberfrog",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "01:12:02",
+      "last_timestamp": "01:24:02",
+      "discussion_span_seconds": 720.6,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.981,
+        "positive_hits": 102,
+        "negative_hits": 1
+      },
+      "receipts": [
+        {
+          "timestamp": "01:12:02",
+          "excerpt": "the like you you pull them up at their like uh what do they call their banners behind you? But you pull them up and then you set them up at conventions and it might look like this towel here, you know, and it might say Cyberfrog. Ethan Van Cyber. >> Oh, it's a banner. Yeah, >> it's a banner, but you >> display show display. >> I told DC I I had this I wanted two of these behind me uh for San Diego ComicCon like right here like this. Uh and uh t"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "DarkGift Comics",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "24:01",
+      "last_timestamp": "36:02",
+      "discussion_span_seconds": 721.8,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.935,
+        "positive_hits": 60,
+        "negative_hits": 2
+      },
+      "receipts": [
+        {
+          "timestamp": "24:01",
+          "excerpt": ">> What's this guy? >> Looks like Super Killer. >> What's this guy right here? This is Super Killer. This is the black and white variant. The color variant will also be printed. There's our nice title page. Eric Weathers. Love that guy. You work with Eric, right? >> Yeah. >> Letterer to the stars is what I call this man cuz he uh knocked it out of the park. And I I even got him to print the two-page spread correctly after arguing with t"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Fencegate",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "02:36:00",
+      "last_timestamp": "02:45:08",
+      "discussion_span_seconds": 547.4,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.368,
+        "positive_hits": 13,
+        "negative_hits": 6
+      },
+      "receipts": [
+        {
+          "timestamp": "02:36:00",
+          "excerpt": "finds the different platforms he uses. The three main ones being Twitter, Blue Sky, and Threads. In this, he compares how the same post that he made about ice deportation formed on all three platforms with him concluding that Blue Sky was not a sustainable platform due to him not getting much interaction. This enraged a lot of the Blue Sky users with many of them arguing with Pat that he doesn't understand the point of Blue Sky. Ironica"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Nerdrotic",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "01:24:01",
+      "last_timestamp": "01:36:04",
+      "discussion_span_seconds": 723.1,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.676,
+        "positive_hits": 31,
+        "negative_hits": 6
+      },
+      "receipts": [
+        {
+          "timestamp": "01:24:01",
+          "excerpt": ">> you know, like I got to get these guys back to work. I'm like, look at this schedule here. Come on. So, you're going to get a lot of good comedy out of me there. [snorts] Um, okay. Uh, let's uh you and me. Uh, hold on a second. Since we're >> Let's analyze the the beginning of the end. >> Uh, no, no, no. I just think you and me could run a scene together. >> Oh, we're going to run a scene. Oh, this is great. Yeah, bring it up. >> Oka"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Nick Rekieta",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "00:01",
+      "last_timestamp": "12:04",
+      "discussion_span_seconds": 723.0,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.781,
+        "positive_hits": 57,
+        "negative_hits": 7
+      },
+      "receipts": [
+        {
+          "timestamp": "00:01",
+          "excerpt": "Welcome to 5XL FM where a trash flows. [music] [music] [music] Yo everybody, how are you? Ethan Van Skyber here on the Trash Cash Show. Late night tonight. Sorry about that. I was just stuck watching uh Dick Mastersonson and Veto [music] basically end they just ended their professional relationship on Biggest Problem in the Universe. And I I couldn't stop watching it, man. I was really into it. I thought it was cool. Uh good entertainme"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Vito Gesualdi",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "48:00",
+      "last_timestamp": "01:00:01",
+      "discussion_span_seconds": 721.8,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.902,
+        "positive_hits": 58,
+        "negative_hits": 3
+      },
+      "receipts": [
+        {
+          "timestamp": "48:00",
+          "excerpt": "[music] at the top of the season. Pen house rooftop birds. No deceiving, nothing, no teasing. I need you to get up again. [music] >> All right, hold on. Listen. >> All right, hold on a second. We have some uh we got another super chat. I think this one's from Johnny Rocket here. Johnny Rocket, who by the way, no connection to no connection. Uh elephant. He did write elephant though. Veto is arguing uh in the biggest problem discord righ"
+        }
+      ],
+      "appearance_status": "uncertain"
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:01",
+      "end": "12:04",
+      "title": "Dick Masterson / Ethan Van Sciver / Trashcast",
+      "entities": [
+        "Dick Masterson",
+        "Ethan Van Sciver",
+        "Trashcast",
+        "Eric July",
+        "Frog Tony",
+        "Liam Gray",
+        "Nick Rekieta"
+      ],
+      "summary_seed": "Welcome to 5XL FM where a trash flows. [music] [music] [music] Yo everybody, how are you? Ethan Van Skyber here on the Trash Cash Show. Late night tonight. Sorry about that. I was just stuck watching uh Dick Mastersonson and Veto [music] basically end they just ended their professional relationship on Biggest Problem in the Universe. And I I couldn't stop watching it, man. I was really into it. I thought it was cool.",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "12:00",
+      "end": "24:02",
+      "title": "Ethan Van Sciver / Shane Davis / Frog Tony",
+      "entities": [
+        "Ethan Van Sciver",
+        "Shane Davis",
+        "Frog Tony",
+        "Trashcast",
+        "Liam Gray"
+      ],
+      "summary_seed": "he was an [ __ ] Did his work. One of those two things. you guys. I'm fortunate to have some of you who are just kind of like, uh, yeah, I like you now and I like your work. But most of you are like, [ __ ] you and your work. Where is your work, by the way? Good. Because I've learned to hate you, says Pound. See, that's just typical. I mean, that's what uh that's what you get. But, you know, I so I I can deal with be",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "24:01",
+      "end": "36:02",
+      "title": "Dick Masterson / Ethan Van Sciver / DarkGift Comics",
+      "entities": [
+        "Dick Masterson",
+        "Ethan Van Sciver",
+        "DarkGift Comics"
+      ],
+      "summary_seed": ">> What's this guy? >> Looks like Super Killer. >> What's this guy right here? This is Super Killer. This is the black and white variant. The color variant will also be printed. There's our nice title page. Eric Weathers. Love that guy. You work with Eric, right? >> Yeah. >> Letterer to the stars is what I call this man cuz he uh knocked it out of the park. And I I even got him to print the two-page spread correctly",
+      "clip_likelihood": false,
+      "transition_markers": 3
+    },
+    {
+      "start": "36:00",
+      "end": "47:56",
+      "title": "Clip/reaction: Frog Tony / Dick Masterson / ComicsGate",
+      "entities": [
+        "Frog Tony",
+        "Dick Masterson",
+        "ComicsGate"
+      ],
+      "summary_seed": ">> No. No. >> I I don't understand why he's been doing it this long at all. >> Yeah. >> I thought he would have been gone like six months ago, a year ago. >> You really feel that way? >> Oh, yeah. I think he's uh I don't I that's Yeah, I know he's got other more important things going on in his life. the show's not uh his main uh gig, >> you know, so you know, he's kind of doing it cuz it's a little bit of extra mone",
+      "clip_likelihood": true,
+      "transition_markers": 1
+    },
+    {
+      "start": "48:00",
+      "end": "01:00:01",
+      "title": "Vito Gesualdi",
+      "entities": [
+        "Vito Gesualdi"
+      ],
+      "summary_seed": "[music] at the top of the season. Pen house rooftop birds. No deceiving, nothing, no teasing. I need you to get up again. [music] >> All right, hold on. Listen. >> All right, hold on a second. We have some uh we got another super chat. I think this one's from Johnny Rocket here. Johnny Rocket, who by the way, no connection to no connection. Uh elephant. He did write elephant though. Veto is arguing uh in the biggest",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "01:00:00",
+      "end": "01:12:05",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": ">> Storm 11 argued says, \"Get it together, Veto. Act normal like you're doing now.\" >> I'm trying. [laughter] Nobody just give me an opportunity to act normal. >> I TRIED SO HARD and got so far, but at the end IT DOESN'T EVEN MATTER. >> Tommy Review says, \"Yes, she is a woman.\" Okay, good. Is she hot? >> Okay. You know, >> my old friend uh tipster is now a trans lady and I I don't know how to deal with it. >> CVS wor",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "01:12:02",
+      "end": "01:24:02",
+      "title": "Cyberfrog",
+      "entities": [
+        "Cyberfrog"
+      ],
+      "summary_seed": "people have those the like you you pull them up at their like uh what do they call their banners behind you? But you pull them up and then you set them up at conventions and it might look like this towel here, you know, and it might say Cyberfrog. Ethan Van Cyber. >> Oh, it's a banner. Yeah, >> it's a banner, but you >> display show display. >> I told DC I I had this I wanted two of these behind me uh for San Diego C",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    },
+    {
+      "start": "01:24:01",
+      "end": "01:36:04",
+      "title": "Trashcast / ComicsGate / Nerdrotic",
+      "entities": [
+        "Trashcast",
+        "ComicsGate",
+        "Nerdrotic"
+      ],
+      "summary_seed": ">> you know, like I got to get these guys back to work. I'm like, look at this schedule here. Come on. So, you're going to get a lot of good comedy out of me there. [snorts] Um, okay. Uh, let's uh you and me. Uh, hold on a second. Since we're >> Let's analyze the the beginning of the end. >> Uh, no, no, no. I just think you and me could run a scene together. >> Oh, we're going to run a scene. Oh, this is great. Yeah,",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    },
+    {
+      "start": "01:36:02",
+      "end": "01:48:05",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": "photo of his driving license, which is a weird detail. The pest turned up to the bar, but sadly Patrick was nowhere to be found. instead opting to file a restraining order against this pesky troll. So only a few weeks after his filed lawsuit, Pat was back in court again, but this time he could actually identify the person that he was taking to court. Thankfully for us, there are audio recordings of these proceedings",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    },
+    {
+      "start": "01:48:02",
+      "end": "02:00:03",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": "trying to talk when you've already know anything >> at this address. Shut up. I'm still tired. >> Do you have any idea HOW MANY TIMES I CALLED YOU? >> This is 2:00 in the morning on the streets outside his house. keeps happening. You get an idea more than once saying that I might bang on my door. We've been over this. Never come to this address. If I need any of you, I'll call >> if I need any of you, I'll call you.",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "02:00:01",
+      "end": "02:12:03",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": "police now actually entering his home with guns drawn. In one of these videos, Patrick was led out of his home by the police in the middle of the night. And as we already know that he doesn't like to wear underwear, the blurry footage caught him in a state of undress. The pests then set to work trying to decode the outline of his manhood with them tracing around what could be seen on the pixelated footage. This micro",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "02:12:00",
+      "end": "02:24:02",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": "another ice cream truck driving hitman named the Iceman who had a movie made about him. Patrick proudly posted this to his Twitter account accompanied with a photo of Bumier. The photo was in fact of an actor from the hit TV show The Sopranos. Remember that Patrick claims to have an IQ of 140. It then seems that Pat did in fact pay quasi the amount of $41,8487, but still owed him much more due to all of the interest",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "02:24:00",
+      "end": "02:36:02",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": "very interesting twist if Patrick turned out to be the mastermind of all of this, but sadly I don't think that this is the case. He thinks that [clears throat] Patrick has a master plan to target the black and brown community with a dangerous Airbnb scheme. I'm guessing the pests have been feeding this woman fake information. >> A white woman doing a course on blackness is the leader of the pests. Jackie has repeated",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "02:36:00",
+      "end": "02:45:08",
+      "title": "Fencegate",
+      "entities": [
+        "Fencegate"
+      ],
+      "summary_seed": "finds the different platforms he uses. The three main ones being Twitter, Blue Sky, and Threads. In this, he compares how the same post that he made about ice deportation formed on all three platforms with him concluding that Blue Sky was not a sustainable platform due to him not getting much interaction. This enraged a lot of the Blue Sky users with many of them arguing with Pat that he doesn't understand the point",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    }
+  ],
+  "claim_candidates": [
+    {
+      "claimant": "unknown speaker",
+      "claim": "that's a really good combination of talent.",
+      "timestamp": "00:01",
+      "status": "opinion_or_inference",
+      "receipt": "So, I think that's a really good combination of talent."
+    },
+    {
+      "claimant": "Dick Masterson",
+      "claim": "that like the show is going to end, but uh in a month, but Veto can continue doing Biggest Problem as long as Dick Masterson gets 25% of I guess whatever whatever the show earns uh in perpetuity because it's his brand like he veto was like what am I giving you money for?",
+      "timestamp": "00:01",
+      "status": "candidate_claim",
+      "receipt": "Well, first of all, Dick Masterson says that like the show is going to end, but uh in a month, but Veto can continue doing Biggest Problem as long as Dick Masterson gets 25% of I guess whatever whatever the show earns uh in perpetuity because it's his brand like he veto was like what am I giving you money for?"
+    },
+    {
+      "claimant": "in so many different ways like I actually",
+      "claim": "like Veto you are a combination of Liam Gray, Eric July and Patrick S.",
+      "timestamp": "00:01",
+      "status": "candidate_claim",
+      "receipt": "Uh so, um you know, you're you're going to have to uh give us percentage of the money that you make using it.\" And uh Veto just like Veto has become in so many different ways like I actually said like Veto you are a combination of Liam Gray, Eric July and Patrick S."
+    },
+    {
+      "claimant": "Neato Workshop",
+      "claim": "Dick and Veto were simultaneously the scorpion and the frog.",
+      "timestamp": "00:01",
+      "status": "candidate_claim",
+      "receipt": "Neato Workshop says Dick and Veto were simultaneously the scorpion and the frog."
+    },
+    {
+      "claimant": "Uh Scumpron",
+      "claim": "corpse is still warm.",
+      "timestamp": "00:01",
+      "status": "candidate_claim",
+      "receipt": "Uh Scumpron says corpse is still warm."
+    },
+    {
+      "claimant": "EVS",
+      "claim": "ain't got time to bleed.",
+      "timestamp": "00:01",
+      "status": "candidate_claim",
+      "receipt": "EVS says ain't got time to bleed."
+    },
+    {
+      "claimant": "I told Andrea I",
+      "claim": "I live streamed for like seven hours last night and I did a fake out like it's six I I stopped at 6 hours and I did like a close out and then I'm I'm sitting there listen to the music and I got like I don't know.",
+      "timestamp": "00:01",
+      "status": "candidate_claim",
+      "receipt": "I told Andrea I said I live streamed for like seven hours last night and I did a fake out like it's six I I stopped at 6 hours and I did like a close out and then I'm I'm sitting there listen to the music and I got like I don't know."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "it was a hundred memberships, but it felt like a thousand memberships.",
+      "timestamp": "00:01",
+      "status": "opinion_or_inference",
+      "receipt": "I think it was a hundred memberships, but it felt like a thousand memberships."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "an established pest who gave me one of his fake he gave me one of his fake screen like they have multiple screen names.",
+      "timestamp": "00:01",
+      "status": "candidate_claim",
+      "receipt": "And uh I I know an established pest who gave me one of his fake he gave me one of his fake screen like they have multiple screen names."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "it's going to happen to us.",
+      "timestamp": "00:01",
+      "status": "candidate_claim",
+      "receipt": "I know it's going to happen to us."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "if people are flying drones around your house in Hawaii or in Australia, it's cuz, you know, you're an [ __ ] Uh and it's not just cuz you're an [ __ ] on the internet.",
+      "timestamp": "00:01",
+      "status": "opinion_or_inference",
+      "receipt": "I think if people are flying drones around your house in Hawaii or in Australia, it's cuz, you know, you're an [ __ ] Uh and it's not just cuz you're an [ __ ] on the internet."
+    },
+    {
+      "claimant": "Meyer said some of the things that comics",
+      "claim": "and it was a big problem like all of his talent quit on him and uh Pete Zatti didn't really have the constitution to deal with any of that like unpopularity.",
+      "timestamp": "00:01",
+      "status": "candidate_claim",
+      "receipt": "Meyer said some of the things that comics said and it was a big problem like all of his talent quit on him and uh Pete Zatti didn't really have the constitution to deal with any of that like unpopularity."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "at the same time like respect me for what I I've done but that's it.",
+      "timestamp": "12:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think at the same time like respect me for what I I've done but that's it."
+    },
+    {
+      "claimant": "your camera fixed but it's bad tonight",
+      "claim": "laser beak.",
+      "timestamp": "12:00",
+      "status": "candidate_claim",
+      "receipt": "Thought you got your camera fixed but it's bad tonight says laser beak."
+    },
+    {
+      "claimant": "as I",
+      "claim": "on X, I really liked how you played the Patrick T after the Liam video and pointed out similarities.",
+      "timestamp": "12:00",
+      "status": "candidate_claim",
+      "receipt": "Trashcast, as I said on X, I really liked how you played the Patrick T after the Liam video and pointed out similarities."
+    },
+    {
+      "claimant": "Trans gunman caught in",
+      "claim": "casino terror plot with huge cache of weapons.",
+      "timestamp": "12:00",
+      "status": "candidate_claim",
+      "receipt": "Trans gunman caught in alleged casino terror plot with huge cache of weapons."
+    },
+    {
+      "claimant": "Was",
+      "claim": "you've become the very thing you hate, Ethan.",
+      "timestamp": "12:00",
+      "status": "candidate_claim",
+      "receipt": "Was says you've become the very thing you hate, Ethan."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "I think that's right.",
+      "timestamp": "12:00",
+      "status": "opinion_or_inference",
+      "receipt": "Yeah, I think I think that's right."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "he would be kind of tired.",
+      "timestamp": "12:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think he would be kind of tired."
+    },
+    {
+      "claimant": "Former spouse",
+      "claim": "Howlet intended to commit suicide by cop carried a mass shooting.",
+      "timestamp": "12:00",
+      "status": "candidate_claim",
+      "receipt": "Former spouse said Howlet intended to commit suicide by cop carried a mass shooting."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "I think you kind of [ __ ] me over with that.",
+      "timestamp": "12:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think I think you kind of [ __ ] me over with that."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "a lot of people uh are happy for you, Veto.",
+      "timestamp": "24:01",
+      "status": "opinion_or_inference",
+      "receipt": "I think a lot of people uh are happy for you, Veto."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "who sings this song.",
+      "timestamp": "24:01",
+      "status": "candidate_claim",
+      "receipt": "I hate that I know who sings this song."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "people didn't understand it at Well, they understood when it first came out.",
+      "timestamp": "24:01",
+      "status": "opinion_or_inference",
+      "receipt": "I think people didn't understand it at Well, they understood when it first came out."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "Spinal Tap was based on them.",
+      "timestamp": "24:01",
+      "status": "opinion_or_inference",
+      "receipt": "I think Spinal Tap was based on them."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "the like I I kind of like Pinball Wizard except the part where he gets raped.",
+      "timestamp": "24:01",
+      "status": "opinion_or_inference",
+      "receipt": "Well, I I think the like I I kind of like Pinball Wizard except the part where he gets raped."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "you're thinking of a different movie.",
+      "timestamp": "24:01",
+      "status": "opinion_or_inference",
+      "receipt": "Did he get thrown up on a pinball machine and they ra I think you're thinking of a different movie."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "you're on to something.",
+      "timestamp": "24:01",
+      "status": "opinion_or_inference",
+      "receipt": "I think you're on to something."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "you will want to.",
+      "timestamp": "24:01",
+      "status": "opinion_or_inference",
+      "receipt": "You won't see or hear me as I fiddle about me [music] here to remind you that I'm doing exactly what I believe you will want to."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "everything about everything.",
+      "timestamp": "24:01",
+      "status": "candidate_claim",
+      "receipt": "Uh I know everything about everything."
+    },
+    {
+      "claimant": "He",
+      "claim": "you've got Gro set to expert.",
+      "timestamp": "24:01",
+      "status": "candidate_claim",
+      "receipt": "He says you've got Gro set to expert."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "I think it's clear and I'm sure you agree um to some feelings of negativity about this show uh and working specifically with you.",
+      "timestamp": "24:01",
+      "status": "opinion_or_inference",
+      "receipt": "I believe I think it's clear and I'm sure you agree um to some feelings of negativity about this show uh and working specifically with you."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "it's the fans fault.",
+      "timestamp": "24:01",
+      "status": "opinion_or_inference",
+      "receipt": "Uh I think it's the fans fault."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "probably is uh going on there.",
+      "timestamp": "24:01",
+      "status": "opinion_or_inference",
+      "receipt": "That's what I think probably is uh going on there."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "he's uh I don't I that's Yeah, I know he's got other more important things going on in his life.",
+      "timestamp": "36:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think he's uh I don't I that's Yeah, I know he's got other more important things going on in his life."
+    },
+    {
+      "claimant": "And Dick just",
+      "claim": "that's cuz you didn't really understand that you were uh upset at the idea of Dick Mastersonson taking 25% of the show when uh he was doing no he would be doing no work.",
+      "timestamp": "36:00",
+      "status": "candidate_claim",
+      "receipt": "And Dick just said that's cuz you didn't really understand that you were uh upset at the idea of Dick Mastersonson taking 25% of the show when uh he was doing no he would be doing no work."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "it would be 1,000 to one.",
+      "timestamp": "36:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think it would be 1,000 to one."
+    },
+    {
+      "claimant": "You you",
+      "claim": "a thousand words for every one word that Dick Mastersonson said.",
+      "timestamp": "36:00",
+      "status": "candidate_claim",
+      "receipt": "You you said a thousand words for every one word that Dick Mastersonson said."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "uh we could crowdfund it.",
+      "timestamp": "36:00",
+      "status": "opinion_or_inference",
+      "receipt": "I would do a one-time payout and I think uh we could crowdfund it."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "it would just make more financial sense to just start another show cuz all we got to do is figure out a show that makes 75% of what it's making now and then we're making the same amount of money without having to sign a check over every month.",
+      "timestamp": "36:00",
+      "status": "opinion_or_inference",
+      "receipt": "But, uh, giving him 25% in perpetuity for a show that is already on the way out, I think it would just make more financial sense to just start another show cuz all we got to do is figure out a show that makes 75% of what it's making now and then we're making the same amount of money without having to sign a check over every month."
+    },
+    {
+      "claimant": "Uh Com Drama",
+      "claim": "you have to purchase their supplies, too.",
+      "timestamp": "36:00",
+      "status": "candidate_claim",
+      "receipt": "Uh Com Drama says you have to purchase their supplies, too."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "Mint Salad is somewhere in this picture.",
+      "timestamp": "36:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think Mint Salad is somewhere in this picture."
+    },
+    {
+      "claimant": "You",
+      "claim": "all those things about wanting to uh gra.",
+      "timestamp": "36:00",
+      "status": "candidate_claim",
+      "receipt": "You said all those things about wanting to uh gra."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "something about that and I go, \"Can you guys just stop fighting with it?\" Everybody's fighting.",
+      "timestamp": "36:00",
+      "status": "hearsay_candidate",
+      "receipt": "I saw I saw I heard something about that and I go, \"Can you guys just stop fighting with it?\" Everybody's fighting."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "like that's what's in my head.",
+      "timestamp": "36:00",
+      "status": "opinion_or_inference",
+      "receipt": "Well, I mean that's just I'm you know that's that's what I think like that's what's in my head."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "about them if I think",
+      "timestamp": "36:00",
+      "status": "opinion_or_inference",
+      "receipt": "Like that's just what I picture like when I think about them if I think"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "how to get views.",
+      "timestamp": "36:00",
+      "status": "candidate_claim",
+      "receipt": "And then he decided like a lot of people a lot of people decide, \"Oh, I know how to get views."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "it was better when we just did the show together because, you know, you can have me on and I'm funny and we have a good time.\" Oh well.",
+      "timestamp": "36:00",
+      "status": "opinion_or_inference",
+      "receipt": "I'll fight with Veto and I'll be his enemy and I'll talk [ __ ] about him all the time.\" And I went, \"Ah, I think it was better when we just did the show together because, you know, you can have me on and I'm funny and we have a good time.\" Oh well."
+    }
+  ],
+  "quote_candidates": [
+    {
+      "timestamp": "01:36:02",
+      "text": "One of the sticking points for this case was that Patrick claimed he had never threatened the pest, while the troll, who is named Andrew Nadski, claims that Patrick did threaten him.",
+      "significance_score": 3
+    },
+    {
+      "timestamp": "02:12:00",
+      "text": "Like Patrick, she also has a history of always replying to trolls, no matter how silly the comment and having her accounts banned for threatening people.",
+      "significance_score": 3
+    },
+    {
+      "timestamp": "00:01",
+      "text": "I don't have like, you know, uh, any ear issues like Dick Mastersonson does.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "12:00",
+      "text": "Was arrested Saturday on charges of making terrorist threats, assault with a deadly weapon, autotheft, gun theft, and other offenses.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "12:00",
+      "text": "I wonder if the music was AI music threatening Shane Davis and refused commands to exit.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "01:12:02",
+      "text": "The Henire Strikes Back Poultry Gist.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "01:36:02",
+      "text": "And after he threatened me, then basically I went to the bar just see if he was going to follow up on his threats.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "01:36:02",
+      "text": "So, what is the threat you say that he sent you?",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "01:36:02",
+      "text": "Not sure exactly what he meant with it, but it sounded pretty threatening to me.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "01:36:02",
+      "text": "Did you send a text message that a threat?",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "01:36:02",
+      "text": "that is after he had already threatened me.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "01:48:02",
+      "text": "Then there are the very graphic tweets that Pat does that sadly I can't go over on YouTube, but he threatens or wishes very extreme acts to happen to people or their family members.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "02:00:01",
+      "text": "So Pat began threatening to sue Samson unless they replaced the phone due to him thinking there was fake advertising.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "02:00:01",
+      "text": "Uh well, I belong to a sci-fi group called the SFWA and they loaned me $100,000 to try to sue these people.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "02:12:00",
+      "text": "She posted this letter to Twitter with Patrick commenting, \"This is how you get sued into poverty, Leslie.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "02:12:00",
+      "text": "Another troll has stayed at the Airbnb taking a video from inside and discovering that a kitchen knife Pat once used in a photo kind of threatening trolls is at the Airbnb for customers to use.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "02:24:00",
+      "text": "In the court documents, she lists years of harassment, including tweets and letters that Patrick had sent to her employees trying to get her fired.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "02:24:00",
+      "text": "This happened so much that Pat threatened to sue Dominoes and Pizza Hut if they didn't stop delivering pizzas to him.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "02:24:00",
+      "text": "Then he threatens them with legal action.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "02:24:00",
+      "text": "Then states that if he gets another text message, the employee will get fired.",
+      "significance_score": 2
+    }
+  ],
+  "relationship_signals": [
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Dick Masterson",
+      "signal_type": "criticised",
+      "timestamp": "00:01",
+      "confidence": 0.45,
+      "receipt": "Welcome to 5XL FM where a trash flows. [music] [music] [music] Yo everybody, how are you? Ethan Van Skyber here on the Trash Cash Show. Late night tonight. Sorry about that. I was just stuck watching uh Dick Mastersonson and Veto [music] basically end they just ended their professional relationship on Biggest Problem in the Universe. And I I couldn't stop watching it, man. I was really into it. I thought it was cool. Uh good entertainme",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Frog Tony",
+      "signal_type": "criticised",
+      "timestamp": "00:01",
+      "confidence": 0.45,
+      "receipt": "Welcome to 5XL FM where a trash flows. [music] [music] [music] Yo everybody, how are you? Ethan Van Skyber here on the Trash Cash Show. Late night tonight. Sorry about that. I was just stuck watching uh Dick Mastersonson and Veto [music] basically end they just ended their professional relationship on Biggest Problem in the Universe. And I I couldn't stop watching it, man. I was really into it. I thought it was cool. Uh good entertainme",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Trashcast",
+      "signal_type": "criticised",
+      "timestamp": "00:01",
+      "confidence": 0.45,
+      "receipt": "Welcome to 5XL FM where a trash flows. [music] [music] [music] Yo everybody, how are you? Ethan Van Skyber here on the Trash Cash Show. Late night tonight. Sorry about that. I was just stuck watching uh Dick Mastersonson and Veto [music] basically end they just ended their professional relationship on Biggest Problem in the Universe. And I I couldn't stop watching it, man. I was really into it. I thought it was cool. Uh good entertainme",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Eric July",
+      "signal_type": "criticised",
+      "timestamp": "00:01",
+      "confidence": 0.45,
+      "receipt": "Welcome to 5XL FM where a trash flows. [music] [music] [music] Yo everybody, how are you? Ethan Van Skyber here on the Trash Cash Show. Late night tonight. Sorry about that. I was just stuck watching uh Dick Mastersonson and Veto [music] basically end they just ended their professional relationship on Biggest Problem in the Universe. And I I couldn't stop watching it, man. I was really into it. I thought it was cool. Uh good entertainme",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Liam Gray",
+      "signal_type": "criticised",
+      "timestamp": "00:01",
+      "confidence": 0.45,
+      "receipt": "Welcome to 5XL FM where a trash flows. [music] [music] [music] Yo everybody, how are you? Ethan Van Skyber here on the Trash Cash Show. Late night tonight. Sorry about that. I was just stuck watching uh Dick Mastersonson and Veto [music] basically end they just ended their professional relationship on Biggest Problem in the Universe. And I I couldn't stop watching it, man. I was really into it. I thought it was cool. Uh good entertainme",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Nick Rekieta",
+      "signal_type": "criticised",
+      "timestamp": "00:01",
+      "confidence": 0.45,
+      "receipt": "Welcome to 5XL FM where a trash flows. [music] [music] [music] Yo everybody, how are you? Ethan Van Skyber here on the Trash Cash Show. Late night tonight. Sorry about that. I was just stuck watching uh Dick Mastersonson and Veto [music] basically end they just ended their professional relationship on Biggest Problem in the Universe. And I I couldn't stop watching it, man. I was really into it. I thought it was cool. Uh good entertainme",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Dick Masterson",
+      "right": "Frog Tony",
+      "signal_type": "criticised",
+      "timestamp": "00:01",
+      "confidence": 0.45,
+      "receipt": "Welcome to 5XL FM where a trash flows. [music] [music] [music] Yo everybody, how are you? Ethan Van Skyber here on the Trash Cash Show. Late night tonight. Sorry about that. I was just stuck watching uh Dick Mastersonson and Veto [music] basically end they just ended their professional relationship on Biggest Problem in the Universe. And I I couldn't stop watching it, man. I was really into it. I thought it was cool. Uh good entertai",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Dick Masterson",
+      "right": "Trashcast",
+      "signal_type": "criticised",
+      "timestamp": "00:01",
+      "confidence": 0.45,
+      "receipt": "Welcome to 5XL FM where a trash flows. [music] [music] [music] Yo everybody, how are you? Ethan Van Skyber here on the Trash Cash Show. Late night tonight. Sorry about that. I was just stuck watching uh Dick Mastersonson and Veto [music] basically end they just ended their professional relationship on Biggest Problem in the Universe. And I I couldn't stop watching it, man. I was really into it. I thought it was cool. Uh good entertai",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Dick Masterson",
+      "right": "Eric July",
+      "signal_type": "criticised",
+      "timestamp": "00:01",
+      "confidence": 0.45,
+      "receipt": "Welcome to 5XL FM where a trash flows. [music] [music] [music] Yo everybody, how are you? Ethan Van Skyber here on the Trash Cash Show. Late night tonight. Sorry about that. I was just stuck watching uh Dick Mastersonson and Veto [music] basically end they just ended their professional relationship on Biggest Problem in the Universe. And I I couldn't stop watching it, man. I was really into it. I thought it was cool. Uh good entertai",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Dick Masterson",
+      "right": "Liam Gray",
+      "signal_type": "criticised",
+      "timestamp": "00:01",
+      "confidence": 0.45,
+      "receipt": "Welcome to 5XL FM where a trash flows. [music] [music] [music] Yo everybody, how are you? Ethan Van Skyber here on the Trash Cash Show. Late night tonight. Sorry about that. I was just stuck watching uh Dick Mastersonson and Veto [music] basically end they just ended their professional relationship on Biggest Problem in the Universe. And I I couldn't stop watching it, man. I was really into it. I thought it was cool. Uh good entertai",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Dick Masterson",
+      "right": "Nick Rekieta",
+      "signal_type": "criticised",
+      "timestamp": "00:01",
+      "confidence": 0.45,
+      "receipt": "Welcome to 5XL FM where a trash flows. [music] [music] [music] Yo everybody, how are you? Ethan Van Skyber here on the Trash Cash Show. Late night tonight. Sorry about that. I was just stuck watching uh Dick Mastersonson and Veto [music] basically end they just ended their professional relationship on Biggest Problem in the Universe. And I I couldn't stop watching it, man. I was really into it. I thought it was cool. Uh good entertai",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Trashcast",
+      "signal_type": "criticised",
+      "timestamp": "00:01",
+      "confidence": 0.45,
+      "receipt": "Welcome to 5XL FM where a trash flows. [music] [music] [music] Yo everybody, how are you? Ethan Van Skyber here on the Trash Cash Show. Late night tonight. Sorry about that. I was just stuck watching uh Dick Mastersonson and Veto [music] basically end they just ended their professional relationship on Biggest Problem in the Universe. And I I couldn't stop watching it, man. I was really into it. I thought it was cool. Uh good entertainme",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Eric July",
+      "signal_type": "criticised",
+      "timestamp": "00:01",
+      "confidence": 0.45,
+      "receipt": "Welcome to 5XL FM where a trash flows. [music] [music] [music] Yo everybody, how are you? Ethan Van Skyber here on the Trash Cash Show. Late night tonight. Sorry about that. I was just stuck watching uh Dick Mastersonson and Veto [music] basically end they just ended their professional relationship on Biggest Problem in the Universe. And I I couldn't stop watching it, man. I was really into it. I thought it was cool. Uh good entertainme",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Liam Gray",
+      "signal_type": "criticised",
+      "timestamp": "00:01",
+      "confidence": 0.45,
+      "receipt": "Welcome to 5XL FM where a trash flows. [music] [music] [music] Yo everybody, how are you? Ethan Van Skyber here on the Trash Cash Show. Late night tonight. Sorry about that. I was just stuck watching uh Dick Mastersonson and Veto [music] basically end they just ended their professional relationship on Biggest Problem in the Universe. And I I couldn't stop watching it, man. I was really into it. I thought it was cool. Uh good entertainme",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Nick Rekieta",
+      "signal_type": "criticised",
+      "timestamp": "00:01",
+      "confidence": 0.45,
+      "receipt": "Welcome to 5XL FM where a trash flows. [music] [music] [music] Yo everybody, how are you? Ethan Van Skyber here on the Trash Cash Show. Late night tonight. Sorry about that. I was just stuck watching uh Dick Mastersonson and Veto [music] basically end they just ended their professional relationship on Biggest Problem in the Universe. And I I couldn't stop watching it, man. I was really into it. I thought it was cool. Uh good entertainme",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Trashcast",
+      "right": "Eric July",
+      "signal_type": "criticised",
+      "timestamp": "00:01",
+      "confidence": 0.45,
+      "receipt": "t show. I mean, I'm I'm just sitting there in the audience as a fan watching the show and I'm like I mean, I'm just watching the show. Uh, and it is a absolute splitting headache for me. Uh, and oh my god, this show uh, Trashcast was supposed to go an hour earlier, but uh, I got hooked on that show. I'm a big fan of that show. So, I think that's a really good combination of talent. Uh, but Veto has just become such a whiny kind of baby. Like, wh",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Trashcast",
+      "right": "Liam Gray",
+      "signal_type": "criticised",
+      "timestamp": "00:01",
+      "confidence": 0.45,
+      "receipt": "t show. I mean, I'm I'm just sitting there in the audience as a fan watching the show and I'm like I mean, I'm just watching the show. Uh, and it is a absolute splitting headache for me. Uh, and oh my god, this show uh, Trashcast was supposed to go an hour earlier, but uh, I got hooked on that show. I'm a big fan of that show. So, I think that's a really good combination of talent. Uh, but Veto has just become such a whiny kind of baby. Like, wh",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Trashcast",
+      "right": "Nick Rekieta",
+      "signal_type": "criticised",
+      "timestamp": "00:01",
+      "confidence": 0.45,
+      "receipt": "t show. I mean, I'm I'm just sitting there in the audience as a fan watching the show and I'm like I mean, I'm just watching the show. Uh, and it is a absolute splitting headache for me. Uh, and oh my god, this show uh, Trashcast was supposed to go an hour earlier, but uh, I got hooked on that show. I'm a big fan of that show. So, I think that's a really good combination of talent. Uh, but Veto has just become such a whiny kind of baby. Like, wh",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Eric July",
+      "right": "Liam Gray",
+      "signal_type": "criticised",
+      "timestamp": "00:01",
+      "confidence": 0.45,
+      "receipt": "ng Biggest Problem as long as Dick Masterson gets 25% of I guess whatever whatever the show earns uh in perpetuity because it's his brand like he veto was like what am I giving you money for? very similar uh reaction to Eric July's reaction. [clears throat] Hold on a second. When the ministry was like the international school of ministry uh said, \"Hey, you know, listen, you're using our brand like we own, you know, ISOM, ISO, we own that. Uh so,",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Eric July",
+      "right": "Nick Rekieta",
+      "signal_type": "criticised",
+      "timestamp": "00:01",
+      "confidence": 0.45,
+      "receipt": "ng Biggest Problem as long as Dick Masterson gets 25% of I guess whatever whatever the show earns uh in perpetuity because it's his brand like he veto was like what am I giving you money for? very similar uh reaction to Eric July's reaction. [clears throat] Hold on a second. When the ministry was like the international school of ministry uh said, \"Hey, you know, listen, you're using our brand like we own, you know, ISOM, ISO, we own that. Uh so,",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Nick Rekieta",
+      "signal_type": "criticised",
+      "timestamp": "00:01",
+      "confidence": 0.45,
+      "receipt": "ou know, you're you're going to have to uh give us percentage of the money that you make using it.\" And uh Veto just like Veto has become in so many different ways like I actually said like Veto you are a combination of Liam Gray, Eric July and Patrick S. Tomlinson and it's it's bizarre that you became that way and I only really realized it like um when Riley [ __ ] with him. [laughter] All right, hold on a second. I got to start a super chat. I",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Frog Tony",
+      "signal_type": "criticised",
+      "timestamp": "12:00",
+      "confidence": 0.45,
+      "receipt": "he was an [ __ ] Did his work. One of those two things. you guys. I'm fortunate to have some of you who are just kind of like, uh, yeah, I like you now and I like your work. But most of you are like, [ __ ] you and your work. Where is your work, by the way? Good. Because I've learned to hate you, says Pound. See, that's just typical. I mean, that's what uh that's what you get. But, you know, I so I I can deal with being hated. Uh, I don",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Trashcast",
+      "signal_type": "criticised",
+      "timestamp": "12:00",
+      "confidence": 0.45,
+      "receipt": "he was an [ __ ] Did his work. One of those two things. you guys. I'm fortunate to have some of you who are just kind of like, uh, yeah, I like you now and I like your work. But most of you are like, [ __ ] you and your work. Where is your work, by the way? Good. Because I've learned to hate you, says Pound. See, that's just typical. I mean, that's what uh that's what you get. But, you know, I so I I can deal with being hated. Uh, I don",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Shane Davis",
+      "signal_type": "criticised",
+      "timestamp": "12:00",
+      "confidence": 0.45,
+      "receipt": "he was an [ __ ] Did his work. One of those two things. you guys. I'm fortunate to have some of you who are just kind of like, uh, yeah, I like you now and I like your work. But most of you are like, [ __ ] you and your work. Where is your work, by the way? Good. Because I've learned to hate you, says Pound. See, that's just typical. I mean, that's what uh that's what you get. But, you know, I so I I can deal with being hated. Uh, I don",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Liam Gray",
+      "signal_type": "criticised",
+      "timestamp": "12:00",
+      "confidence": 0.45,
+      "receipt": "he was an [ __ ] Did his work. One of those two things. you guys. I'm fortunate to have some of you who are just kind of like, uh, yeah, I like you now and I like your work. But most of you are like, [ __ ] you and your work. Where is your work, by the way? Good. Because I've learned to hate you, says Pound. See, that's just typical. I mean, that's what uh that's what you get. But, you know, I so I I can deal with being hated. Uh, I don",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Trashcast",
+      "signal_type": "criticised",
+      "timestamp": "12:00",
+      "confidence": 0.45,
+      "receipt": "ing today about the FBI coming to my house. Haven't heard from Little Movie Perp uh in a little while, but I remember like how people kind of reacted to that. Like I got I got some people that are in that crowd like the Frog Tony crowd. Those guys are really stupid. Like they're they're good at making fun of people, I guess. Um uh in some ways. Uh but uh they're really low IQ. And like those people are just like um what do you call the FBI over",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Shane Davis",
+      "signal_type": "criticised",
+      "timestamp": "12:00",
+      "confidence": 0.45,
+      "receipt": "ing today about the FBI coming to my house. Haven't heard from Little Movie Perp uh in a little while, but I remember like how people kind of reacted to that. Like I got I got some people that are in that crowd like the Frog Tony crowd. Those guys are really stupid. Like they're they're good at making fun of people, I guess. Um uh in some ways. Uh but uh they're really low IQ. And like those people are just like um what do you call the FBI over",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Liam Gray",
+      "signal_type": "criticised",
+      "timestamp": "12:00",
+      "confidence": 0.45,
+      "receipt": "ing today about the FBI coming to my house. Haven't heard from Little Movie Perp uh in a little while, but I remember like how people kind of reacted to that. Like I got I got some people that are in that crowd like the Frog Tony crowd. Those guys are really stupid. Like they're they're good at making fun of people, I guess. Um uh in some ways. Uh but uh they're really low IQ. And like those people are just like um what do you call the FBI over",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Trashcast",
+      "right": "Shane Davis",
+      "signal_type": "criticised",
+      "timestamp": "12:00",
+      "confidence": 0.45,
+      "receipt": "ld get a medal, says Thuggish Thuggish Stone. I agree with that definitely. Um, okay. Hold on a second. Do we get all the super chats? Intro is giving me gout. Uh, says internet uh guy. Days of clarity says, \"Hell yeah. Trashcast, as I said on X, I really liked how you played the Patrick T after the Liam video and pointed out similarities. They're very there there are a lot of them.\" And I actually pointed some out about Veto tonight, too. There",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Trashcast",
+      "right": "Liam Gray",
+      "signal_type": "criticised",
+      "timestamp": "12:00",
+      "confidence": 0.45,
+      "receipt": "ld get a medal, says Thuggish Thuggish Stone. I agree with that definitely. Um, okay. Hold on a second. Do we get all the super chats? Intro is giving me gout. Uh, says internet uh guy. Days of clarity says, \"Hell yeah. Trashcast, as I said on X, I really liked how you played the Patrick T after the Liam video and pointed out similarities. They're very there there are a lot of them.\" And I actually pointed some out about Veto tonight, too. There",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Shane Davis",
+      "right": "Liam Gray",
+      "signal_type": "criticised",
+      "timestamp": "12:00",
+      "confidence": 0.45,
+      "receipt": "r phone and led cops to it where it was parked in a garage at Sunset Station Hotel. All right. As officers approached the vehicle, Howlet blasted music over the car stereo. I wonder if the music was AI music threatening Shane Davis and refused commands to exit. He did, however, ask cops for a drink of water. Shocking video. The ensuing reaction, insuring reaction shows the officer surrounding the vehicle dragging howlet from the car as he reached",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Dick Masterson",
+      "signal_type": "criticised",
+      "timestamp": "24:01",
+      "confidence": 0.45,
+      "receipt": ">> What's this guy? >> Looks like Super Killer. >> What's this guy right here? This is Super Killer. This is the black and white variant. The color variant will also be printed. There's our nice title page. Eric Weathers. Love that guy. You work with Eric, right? >> Yeah. >> Letterer to the stars is what I call this man cuz he uh knocked it out of the park. And I I even got him to print the two-page spread correctly after arguing with t",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "DarkGift Comics",
+      "signal_type": "criticised",
+      "timestamp": "24:01",
+      "confidence": 0.45,
+      "receipt": ">> What's this guy? >> Looks like Super Killer. >> What's this guy right here? This is Super Killer. This is the black and white variant. The color variant will also be printed. There's our nice title page. Eric Weathers. Love that guy. You work with Eric, right? >> Yeah. >> Letterer to the stars is what I call this man cuz he uh knocked it out of the park. And I I even got him to print the two-page spread correctly after arguing with t",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Dick Masterson",
+      "right": "DarkGift Comics",
+      "signal_type": "criticised",
+      "timestamp": "24:01",
+      "confidence": 0.45,
+      "receipt": "of all >> I'm not rushed. I don't feel rushed. Go ahead. >> You're the the context of tonight's episode of Biggest Problem in the Universe um is that uh all of the fans of Biggest Problem in the Universe have now pushed Dick Mastersonson. I believe I think it's clear and I'm sure you agree um to some feelings of negativity about this show uh and working specifically with you. Uh I think it's the fans fault. Uh biggest problem in the universe fans. Th",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Dick Masterson",
+      "signal_type": "friendship_claim",
+      "timestamp": "24:01",
+      "confidence": 0.45,
+      "receipt": ">> What's this guy? >> Looks like Super Killer. >> What's this guy right here? This is Super Killer. This is the black and white variant. The color variant will also be printed. There's our nice title page. Eric Weathers. Love that guy. You work with Eric, right? >> Yeah. >> Letterer to the stars is what I call this man cuz he uh knocked it out of the park. And I I even got him to print the two-page spread correctly after arguing with t",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "DarkGift Comics",
+      "signal_type": "friendship_claim",
+      "timestamp": "24:01",
+      "confidence": 0.45,
+      "receipt": ">> What's this guy? >> Looks like Super Killer. >> What's this guy right here? This is Super Killer. This is the black and white variant. The color variant will also be printed. There's our nice title page. Eric Weathers. Love that guy. You work with Eric, right? >> Yeah. >> Letterer to the stars is what I call this man cuz he uh knocked it out of the park. And I I even got him to print the two-page spread correctly after arguing with t",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Dick Masterson",
+      "right": "DarkGift Comics",
+      "signal_type": "friendship_claim",
+      "timestamp": "24:01",
+      "confidence": 0.45,
+      "receipt": "of all >> I'm not rushed. I don't feel rushed. Go ahead. >> You're the the context of tonight's episode of Biggest Problem in the Universe um is that uh all of the fans of Biggest Problem in the Universe have now pushed Dick Mastersonson. I believe I think it's clear and I'm sure you agree um to some feelings of negativity about this show uh and working specifically with you. Uh I think it's the fans fault. Uh biggest problem in the universe fans. Th",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Dick Masterson",
+      "right": "Frog Tony",
+      "signal_type": "defended",
+      "timestamp": "36:00",
+      "confidence": 0.45,
+      "receipt": "doing 100% of the work with my partner, another fat man.\" Probably >> very possibly. >> Yeah. uh why would I give you 25%. And Dick just said that's cuz you didn't really understand that you were uh upset at the idea of Dick Mastersonson taking 25% of the show when uh he was doing no he would be doing no work. It would all be you which it practically is now anyway. You know if you added up all the words that were uttered on tonight's show >> I think",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Dick Masterson",
+      "right": "ComicsGate",
+      "signal_type": "defended",
+      "timestamp": "36:00",
+      "confidence": 0.45,
+      "receipt": "doing 100% of the work with my partner, another fat man.\" Probably >> very possibly. >> Yeah. uh why would I give you 25%. And Dick just said that's cuz you didn't really understand that you were uh upset at the idea of Dick Mastersonson taking 25% of the show when uh he was doing no he would be doing no work. It would all be you which it practically is now anyway. You know if you added up all the words that were uttered on tonight's show >> I think",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "ComicsGate",
+      "signal_type": "defended",
+      "timestamp": "36:00",
+      "confidence": 0.45,
+      "receipt": "wanted to watch this video about you. >> Please fix my audio. Is my audio [ __ ] Do I sound okay? >> I sound okay. >> Test 112. Test 112. Yeah, I think I don't know. >> Uh all right, this is uh Veto weighs in. He hates Frog Tony, too. >> They tried to say this was Somebody was trying to spread the rumor that this was me talking [ __ ] about you. This is crazy. I defended you in this video. >> I didn't watch it yet. >> I defended you. >> All rig",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Dick Masterson",
+      "right": "Frog Tony",
+      "signal_type": "criticised",
+      "timestamp": "36:00",
+      "confidence": 0.45,
+      "receipt": "doing 100% of the work with my partner, another fat man.\" Probably >> very possibly. >> Yeah. uh why would I give you 25%. And Dick just said that's cuz you didn't really understand that you were uh upset at the idea of Dick Mastersonson taking 25% of the show when uh he was doing no he would be doing no work. It would all be you which it practically is now anyway. You know if you added up all the words that were uttered on tonight's show >> I think",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Dick Masterson",
+      "right": "ComicsGate",
+      "signal_type": "criticised",
+      "timestamp": "36:00",
+      "confidence": 0.45,
+      "receipt": "doing 100% of the work with my partner, another fat man.\" Probably >> very possibly. >> Yeah. uh why would I give you 25%. And Dick just said that's cuz you didn't really understand that you were uh upset at the idea of Dick Mastersonson taking 25% of the show when uh he was doing no he would be doing no work. It would all be you which it practically is now anyway. You know if you added up all the words that were uttered on tonight's show >> I think",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "ComicsGate",
+      "signal_type": "criticised",
+      "timestamp": "36:00",
+      "confidence": 0.45,
+      "receipt": "wanted to watch this video about you. >> Please fix my audio. Is my audio [ __ ] Do I sound okay? >> I sound okay. >> Test 112. Test 112. Yeah, I think I don't know. >> Uh all right, this is uh Veto weighs in. He hates Frog Tony, too. >> They tried to say this was Somebody was trying to spread the rumor that this was me talking [ __ ] about you. This is crazy. I defended you in this video. >> I didn't watch it yet. >> I defended you. >> All rig",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Trashcast",
+      "right": "ComicsGate",
+      "signal_type": "criticised",
+      "timestamp": "01:24:01",
+      "confidence": 0.45,
+      "receipt": ">> you know, like I got to get these guys back to work. I'm like, look at this schedule here. Come on. So, you're going to get a lot of good comedy out of me there. [snorts] Um, okay. Uh, let's uh you and me. Uh, hold on a second. Since we're >> Let's analyze the the beginning of the end. >> Uh, no, no, no. I just think you and me could run a scene together. >> Oh, we're going to run a scene. Oh, this is great. Yeah, bring it up. >> Oka",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Trashcast",
+      "right": "Nerdrotic",
+      "signal_type": "criticised",
+      "timestamp": "01:24:01",
+      "confidence": 0.45,
+      "receipt": ">> you know, like I got to get these guys back to work. I'm like, look at this schedule here. Come on. So, you're going to get a lot of good comedy out of me there. [snorts] Um, okay. Uh, let's uh you and me. Uh, hold on a second. Since we're >> Let's analyze the the beginning of the end. >> Uh, no, no, no. I just think you and me could run a scene together. >> Oh, we're going to run a scene. Oh, this is great. Yeah, bring it up. >> Oka",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "ComicsGate",
+      "right": "Nerdrotic",
+      "signal_type": "criticised",
+      "timestamp": "01:24:01",
+      "confidence": 0.45,
+      "receipt": ">> you know, like I got to get these guys back to work. I'm like, look at this schedule here. Come on. So, you're going to get a lot of good comedy out of me there. [snorts] Um, okay. Uh, let's uh you and me. Uh, hold on a second. Since we're >> Let's analyze the the beginning of the end. >> Uh, no, no, no. I just think you and me could run a scene together. >> Oh, we're going to run a scene. Oh, this is great. Yeah, bring it up. >> Oka",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Trashcast",
+      "right": "ComicsGate",
+      "signal_type": "collaborated",
+      "timestamp": "01:24:01",
+      "confidence": 0.45,
+      "receipt": ">> you know, like I got to get these guys back to work. I'm like, look at this schedule here. Come on. So, you're going to get a lot of good comedy out of me there. [snorts] Um, okay. Uh, let's uh you and me. Uh, hold on a second. Since we're >> Let's analyze the the beginning of the end. >> Uh, no, no, no. I just think you and me could run a scene together. >> Oh, we're going to run a scene. Oh, this is great. Yeah, bring it up. >> Oka",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Trashcast",
+      "right": "Nerdrotic",
+      "signal_type": "collaborated",
+      "timestamp": "01:24:01",
+      "confidence": 0.45,
+      "receipt": ">> you know, like I got to get these guys back to work. I'm like, look at this schedule here. Come on. So, you're going to get a lot of good comedy out of me there. [snorts] Um, okay. Uh, let's uh you and me. Uh, hold on a second. Since we're >> Let's analyze the the beginning of the end. >> Uh, no, no, no. I just think you and me could run a scene together. >> Oh, we're going to run a scene. Oh, this is great. Yeah, bring it up. >> Oka",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "ComicsGate",
+      "right": "Nerdrotic",
+      "signal_type": "collaborated",
+      "timestamp": "01:24:01",
+      "confidence": 0.45,
+      "receipt": ">> you know, like I got to get these guys back to work. I'm like, look at this schedule here. Come on. So, you're going to get a lot of good comedy out of me there. [snorts] Um, okay. Uh, let's uh you and me. Uh, hold on a second. Since we're >> Let's analyze the the beginning of the end. >> Uh, no, no, no. I just think you and me could run a scene together. >> Oh, we're going to run a scene. Oh, this is great. Yeah, bring it up. >> Oka",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Trashcast",
+      "right": "ComicsGate",
+      "signal_type": "legal_conflict",
+      "timestamp": "01:24:01",
+      "confidence": 0.45,
+      "receipt": ">> you know, like I got to get these guys back to work. I'm like, look at this schedule here. Come on. So, you're going to get a lot of good comedy out of me there. [snorts] Um, okay. Uh, let's uh you and me. Uh, hold on a second. Since we're >> Let's analyze the the beginning of the end. >> Uh, no, no, no. I just think you and me could run a scene together. >> Oh, we're going to run a scene. Oh, this is great. Yeah, bring it up. >> Oka",
+      "warning": "co-mention plus language signal; requires interpretation"
+    }
+  ],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

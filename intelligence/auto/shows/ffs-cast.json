@@ -1,0 +1,586 @@
+{
+  "show_id": "ffs-cast",
+  "name": "FFS Cast",
+  "episodes": [
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "title": "Gabbing With Ga......You know",
+      "published": "2026-07-15T03:34:34+00:00"
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "title": "The Ark Of Leem, LDA-King Stream",
+      "published": "2026-07-11T04:18:29+00:00"
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "title": "Gabbing With Ga......You Know",
+      "published": "2026-07-08T03:33:10+00:00"
+    }
+  ],
+  "participant_candidates": [
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "entity": "FFS Cast",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.72,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "entity": "FFS Cast",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.72,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "entity": "Liam Gray",
+      "role_guess": "likely_participant",
+      "confidence": 0.43,
+      "signals": [
+        "directly addressed 2 times",
+        "appears in 3 distant transcript blocks"
+      ]
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "entity": "Sturgis",
+      "role_guess": "likely_participant",
+      "confidence": 0.43,
+      "signals": [
+        "directly addressed 2 times",
+        "appears in 3 distant transcript blocks"
+      ]
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "entity": "FFS Cast",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.72,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "entity": "Frog Tony",
+      "role_guess": "likely_participant",
+      "confidence": 0.51,
+      "signals": [
+        "directly addressed 2 times",
+        "appears in 5 distant transcript blocks"
+      ]
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "entity": "Shane Davis",
+      "role_guess": "likely_participant",
+      "confidence": 0.43,
+      "signals": [
+        "directly addressed 2 times",
+        "appears in 3 distant transcript blocks"
+      ]
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "entity": "Stray Beans",
+      "role_guess": "likely_participant",
+      "confidence": 0.47,
+      "signals": [
+        "directly addressed 2 times",
+        "appears in 4 distant transcript blocks"
+      ]
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "entity": "Eric July",
+      "role_guess": "likely_participant",
+      "confidence": 0.47,
+      "signals": [
+        "directly addressed 2 times",
+        "appears in 4 distant transcript blocks"
+      ]
+    }
+  ],
+  "subject_history": [
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "entity": "Shane Davis",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.8,
+        "positive_hits": 108,
+        "negative_hits": 12
+      }
+    },
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "entity": "Ethan Van Sciver",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.918,
+        "positive_hits": 141,
+        "negative_hits": 6
+      }
+    },
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "entity": "Liam Gray",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.63,
+        "positive_hits": 66,
+        "negative_hits": 15
+      }
+    },
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "entity": "Frog Tony",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.687,
+        "positive_hits": 140,
+        "negative_hits": 26
+      }
+    },
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "entity": "ComicsGate",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.886,
+        "positive_hits": 396,
+        "negative_hits": 24
+      }
+    },
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "entity": "Cecil",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.908,
+        "positive_hits": 227,
+        "negative_hits": 11
+      }
+    },
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "entity": "Stray Beans",
+      "importance": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.687,
+        "positive_hits": 140,
+        "negative_hits": 26
+      }
+    },
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "entity": "Eric July",
+      "importance": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.871,
+        "positive_hits": 159,
+        "negative_hits": 11
+      }
+    },
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "entity": "BackMeBro",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.909,
+        "positive_hits": 188,
+        "negative_hits": 9
+      }
+    },
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "entity": "DarkGift Comics",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.841,
+        "positive_hits": 151,
+        "negative_hits": 13
+      }
+    },
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "entity": "Trashcast",
+      "importance": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.88,
+        "positive_hits": 157,
+        "negative_hits": 10
+      }
+    },
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "entity": "Jon Malin",
+      "importance": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.843,
+        "positive_hits": 129,
+        "negative_hits": 11
+      }
+    },
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "entity": "Cyberfrog",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.843,
+        "positive_hits": 47,
+        "negative_hits": 4
+      }
+    },
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "entity": "Dick Masterson",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.841,
+        "positive_hits": 58,
+        "negative_hits": 5
+      }
+    },
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "entity": "Jon Del Arroz",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.902,
+        "positive_hits": 78,
+        "negative_hits": 4
+      }
+    },
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "entity": "Yanzi Lin",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.91,
+        "positive_hits": 64,
+        "negative_hits": 3
+      }
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "entity": "Liam Gray",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.879,
+        "positive_hits": 171,
+        "negative_hits": 11
+      }
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "entity": "Frog Tony",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.895,
+        "positive_hits": 181,
+        "negative_hits": 10
+      }
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "entity": "Ethan Van Sciver",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.81,
+        "positive_hits": 228,
+        "negative_hits": 24
+      }
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "entity": "Dick Masterson",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75,
+        "positive_hits": 154,
+        "negative_hits": 22
+      }
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "entity": "DarkGift Comics",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.743,
+        "positive_hits": 176,
+        "negative_hits": 26
+      }
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "entity": "Sturgis",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.792,
+        "positive_hits": 172,
+        "negative_hits": 20
+      }
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "entity": "Shane Davis",
+      "importance": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.811,
+        "positive_hits": 86,
+        "negative_hits": 9
+      }
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "entity": "Stray Beans",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.685,
+        "positive_hits": 123,
+        "negative_hits": 23
+      }
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "entity": "Jon Del Arroz",
+      "importance": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.857,
+        "positive_hits": 91,
+        "negative_hits": 7
+      }
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "entity": "ComicsGate",
+      "importance": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.818,
+        "positive_hits": 70,
+        "negative_hits": 7
+      }
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "entity": "Eric July",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.509,
+        "positive_hits": 40,
+        "negative_hits": 13
+      }
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "entity": "Fencegate",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.862,
+        "positive_hits": 27,
+        "negative_hits": 2
+      }
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "entity": "Nick Rekieta",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.814,
+        "positive_hits": 39,
+        "negative_hits": 4
+      }
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "entity": "Liam Gray",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.736,
+        "positive_hits": 46,
+        "negative_hits": 7
+      }
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "entity": "Frog Tony",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.816,
+        "positive_hits": 188,
+        "negative_hits": 19
+      }
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "entity": "Ethan Van Sciver",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.765,
+        "positive_hits": 158,
+        "negative_hits": 21
+      }
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "entity": "Shane Davis",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.751,
+        "positive_hits": 162,
+        "negative_hits": 23
+      }
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "entity": "Jon Del Arroz",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.858,
+        "positive_hits": 340,
+        "negative_hits": 26
+      }
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "entity": "Stray Beans",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.845,
+        "positive_hits": 286,
+        "negative_hits": 24
+      }
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "entity": "Eric July",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.836,
+        "positive_hits": 246,
+        "negative_hits": 22
+      }
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "entity": "ComicsGate",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.837,
+        "positive_hits": 259,
+        "negative_hits": 23
+      }
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "entity": "DarkGift Comics",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.853,
+        "positive_hits": 214,
+        "negative_hits": 17
+      }
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "entity": "TheQuartering",
+      "importance": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.697,
+        "positive_hits": 28,
+        "negative_hits": 5
+      }
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "entity": "Trashcast",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.872,
+        "positive_hits": 220,
+        "negative_hits": 15
+      }
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "entity": "Dick Masterson",
+      "importance": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.802,
+        "positive_hits": 91,
+        "negative_hits": 10
+      }
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "entity": "Little Movie Perp",
+      "importance": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.813,
+        "positive_hits": 136,
+        "negative_hits": 14
+      }
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "entity": "Nerdrotic",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.932,
+        "positive_hits": 57,
+        "negative_hits": 2
+      }
+    }
+  ],
+  "updated_at": "2026-07-15T21:04:33.266552+00:00"
+}

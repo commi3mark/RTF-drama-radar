@@ -1,0 +1,72 @@
+{
+  "schema_version": "octopuss-auto-event-v0.1",
+  "event_id": "3VGvnr2bjKw",
+  "title": "Potentially Criminal on Nick Rekieta’s Downfall (Jul 12, 2026)",
+  "source": "Elissa Clips",
+  "published": "2026-07-13T13:12:53+00:00",
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "12:02",
+      "title": "Aaron Imholte / Ethan Van Sciver",
+      "entities": [
+        "Aaron Imholte",
+        "Ethan Van Sciver"
+      ],
+      "summary_seed": "Can we talk about Nick? How open are you to talking about Nick? I suppose like it's probably a good starting point because like >> I mean I I guess we can talk about it and I'll tell you what I feel like telling you. >> That's fair. That's fair >> more or less in that regard. Um, so I mean we when the Nick stuff happened, uh, like when Rakita got arrested and was going downhill, he'd been going downhill for a while.",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "12:01",
+      "end": "20:47",
+      "title": "TheQuartering",
+      "entities": [
+        "TheQuartering"
+      ],
+      "summary_seed": "didn't even really speak about quartering or Jeremy or anything else. He seems to have tried to both stay like I see his tweets every now and again and they seem to be talking like >> Are you talking about Nick? >> Yeah. Yeah. >> Oh, I mean Oh, okay. Yes. Well, I was say you're talking about Aaron, it's like well that's the thing. Um if no for Nick um I I think for I mean he's obviously like not like you know he's al",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Aaron Imholte",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.867,
+        "positive_hits": 84,
+        "negative_hits": 6
+      }
+    },
+    {
+      "entity": "Ethan Van Sciver",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.867,
+        "positive_hits": 84,
+        "negative_hits": 6
+      }
+    },
+    {
+      "entity": "TheQuartering",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.831,
+        "positive_hits": 54,
+        "negative_hits": 5
+      }
+    }
+  ],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

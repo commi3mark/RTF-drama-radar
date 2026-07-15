@@ -1,0 +1,129 @@
+{
+  "schema_version": "octopuss-auto-event-v0.1",
+  "event_id": "O5BcX4ir3-0",
+  "title": "The Tribunal of Liam Gray | DROPBOX DRAMA",
+  "source": "KatyDid",
+  "published": "2026-07-10T18:12:59+00:00",
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "12:02",
+      "title": "Liam Gray / Dropbox Drama / Stray Beans",
+      "entities": [
+        "Liam Gray",
+        "Dropbox Drama",
+        "Stray Beans",
+        "Trashcast",
+        "Yellow Flash"
+      ],
+      "summary_seed": "K. >> Hey, what's up? >> Good morning. >> Good morning. So, I I just now tuned in. So, I watched Trashcast last night and and then I was then I noticed the stream this this Wow, let me start all over. Jesus Christ. The stream you're watching apparently you could not watch it and I have been told I need to go and take a look at it. So, what is Give me the download of what this is. >> Uh, Straight Beans trying to ignit",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "12:00",
+      "end": "24:03",
+      "title": "Dropbox Drama / Liam Gray",
+      "entities": [
+        "Dropbox Drama",
+        "Liam Gray"
+      ],
+      "summary_seed": ">> One minute. One more time. One more time. That's it. >> Hello. >> Hang on. Hang on. Can you hear me? >> Yeah. Yeah. One more time. What was that? Sorry. If this is an open case and you can't tell the names, I think they mean you can't say the names. Why are you talking about it? Because you know the people were in the group and can hide evidence. >> Okay. Well, that's pretty easy that one if you sort of think abou",
+      "clip_likelihood": false,
+      "transition_markers": 4
+    },
+    {
+      "start": "24:02",
+      "end": "31:51",
+      "title": "Liam Gray / Ethan Van Sciver / Frog Tony",
+      "entities": [
+        "Liam Gray",
+        "Ethan Van Sciver",
+        "Frog Tony"
+      ],
+      "summary_seed": "you're like one of the wall campaign guys, then you already know who the people on that list are. Like Pan would for sure. Like you guys would know. So, like this wasn't a secret. Like this isn't something I kept like hush hush. Like I said, I told Flash, I told Tug, I told like I've told everyone that I sort of knew that was going on. Like how cuz I was I was angry and I was angry as shit about it because I felt lik",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Liam Gray",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.841,
+        "positive_hits": 139,
+        "negative_hits": 12
+      }
+    },
+    {
+      "entity": "Dropbox Drama",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.845,
+        "positive_hits": 95,
+        "negative_hits": 8
+      }
+    },
+    {
+      "entity": "Stray Beans",
+      "importance": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.83,
+        "positive_hits": 43,
+        "negative_hits": 4
+      }
+    },
+    {
+      "entity": "Trashcast",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.83,
+        "positive_hits": 43,
+        "negative_hits": 4
+      }
+    },
+    {
+      "entity": "Yellow Flash",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.83,
+        "positive_hits": 43,
+        "negative_hits": 4
+      }
+    },
+    {
+      "entity": "Ethan Van Sciver",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.833,
+        "positive_hits": 44,
+        "negative_hits": 4
+      }
+    },
+    {
+      "entity": "Frog Tony",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.833,
+        "positive_hits": 44,
+        "negative_hits": 4
+      }
+    }
+  ],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

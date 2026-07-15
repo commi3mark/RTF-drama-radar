@@ -1,0 +1,32 @@
+{
+  "relationship_id": "backmebro--jon-malin",
+  "left": "BackMeBro",
+  "right": "Jon Malin",
+  "signals": [
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "episode_title": "Gabbing With Ga......You know",
+      "source": "FFS Cast",
+      "left": "BackMeBro",
+      "right": "Jon Malin",
+      "signal_type": "defended",
+      "timestamp": "02:36:02",
+      "confidence": 0.45,
+      "receipt": "don't know, man. >> Buddy, >> I wasn't. >> If that's your If that's called perfectly good friend right there, I would hate to have enemies like you. Jesus Christ. >> What the [ __ ] >> More crumbs in my pockets. Reason. Thank you, Bang for the $2. Um, I get it, Shane. Like, you're stressed out by back me, bro. You didn't get to launch this weekend. I will say the site looks fantastic, and the only thing I could tell that you stole from",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "Zd9PVsLAD5c",
+      "episode_title": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
+      "source": "Ethan Van Sciver",
+      "left": "BackMeBro",
+      "right": "Jon Malin",
+      "signal_type": "friendship_claim",
+      "timestamp": "02:12:01",
+      "confidence": 0.45,
+      "receipt": "I mean, >> give them back to the people, Shane. They should be happy fans. You know, they should be happy. And >> you know, you shouldn't buy you shouldn't buy your your Christmas presents uh for Terry too with that. >> Shouldn't leave >> your profits either. That's right. >> Should die. This is >> tell you what to do with your profits. >> Sean type of >> Seant Shant over here has read in Glorious Rex 3. >> Yes, I have. >> The only pers",
+      "warning": "co-mention plus language signal; requires interpretation"
+    }
+  ],
+  "updated_at": "2026-07-15T21:04:34.895709+00:00"
+}

@@ -1,0 +1,32 @@
+{
+  "relationship_id": "nick-rekieta--thequartering",
+  "left": "Nick Rekieta",
+  "right": "TheQuartering",
+  "signals": [
+    {
+      "video_id": "Uf6bzqxJAAk",
+      "episode_title": "TRASHCAST #265: The Khola King & Ethan Van Sciver Exchange",
+      "source": "KatyDid",
+      "left": "Nick Rekieta",
+      "right": "TheQuartering",
+      "signal_type": "criticised",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": "beyond shit. Your behavior's been ridiculous. You're like people are trying to drag me back to that moment. People just wanted you to go away. You know, I mean you're you're you're threatening to strike channels, taking people's channels down. You're saying, you know, that didn't lack. It didn't lack. Just that's how I'm going to I'm going to try this. Just be Just stop doing that. It's unbelievable that you're asking me to not do somet",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "Uf6bzqxJAAk",
+      "episode_title": "TRASHCAST #265: The Khola King & Ethan Van Sciver Exchange",
+      "source": "KatyDid",
+      "left": "Nick Rekieta",
+      "right": "TheQuartering",
+      "signal_type": "legal_conflict",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": "beyond shit. Your behavior's been ridiculous. You're like people are trying to drag me back to that moment. People just wanted you to go away. You know, I mean you're you're you're threatening to strike channels, taking people's channels down. You're saying, you know, that didn't lack. It didn't lack. Just that's how I'm going to I'm going to try this. Just be Just stop doing that. It's unbelievable that you're asking me to not do somet",
+      "warning": "co-mention plus language signal; requires interpretation"
+    }
+  ],
+  "updated_at": "2026-07-15T21:04:35.596536+00:00"
+}

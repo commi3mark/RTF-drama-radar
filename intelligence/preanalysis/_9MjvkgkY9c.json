@@ -1,0 +1,186 @@
+{
+  "schema_version": "octopuss-preanalysis-v0.1",
+  "generated_at": "2026-07-15T21:04:16.717961+00:00",
+  "video_id": "_9MjvkgkY9c",
+  "title": "TheQuartering’s K Cup Crisis PR & Crying Victim After Starting War with Kino Casino (Jul 14, 2026)",
+  "source": "Elissa Clips",
+  "published": "2026-07-15T00:23:47+00:00",
+  "packet_hash": "19b3ea097d2d81aa12ebce5f75b15a49b67aa812973c0e795019a9f91b23f410",
+  "coverage": {
+    "first_caption_second": 0.08,
+    "last_caption_second": 1605.44,
+    "timestamp_start": "00:00",
+    "timestamp_end": "26:45",
+    "caption_span_seconds": 1605.36,
+    "status": "transcript_present",
+    "note": "This measures the caption span only. It does not prove complete coverage of the original video."
+  },
+  "participant_candidates": [
+    {
+      "entity": "Elissa Clips",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.72,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "TheQuartering",
+      "mentions": 2,
+      "block_count": 2,
+      "first_timestamp": "00:00",
+      "last_timestamp": "24:02",
+      "discussion_span_seconds": 1442.8,
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.375,
+        "positive_hits": 55,
+        "negative_hits": 25
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "We're going to talk a little bit about uh I guess my biggest lie that's uh been exposed by termally online weirdos. And I guess I have to come clean and um you know I hope that you all still will uh stick around afterwards uh because uh it is a a wild tale. It's a wild tale. So the internet is very very interested in my coffee business. very interesting and uh I don't know why there's really nothing that interesting about it. It's reall"
+        },
+        {
+          "timestamp": "12:01",
+          "excerpt": "anything. They're not my customers. You know, they leave hundreds and hundreds of fake reviews on Amazon that all end up getting deleted. any way it is. I don't know why they're like this, but I I just feel like some of them are very smart and then they could figure out like a better way to use their time, you know, like a more productive way to use their time. But they're not actually interested in that. They're only interested in tryi"
+        }
+      ],
+      "appearance_status": "uncertain"
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "12:04",
+      "title": "TheQuartering",
+      "entities": [
+        "TheQuartering"
+      ],
+      "summary_seed": "We're going to talk a little bit about uh I guess my biggest lie that's uh been exposed by termally online weirdos. And I guess I have to come clean and um you know I hope that you all still will uh stick around afterwards uh because uh it is a a wild tale. It's a wild tale. So the internet is very very interested in my coffee business. very interesting and uh I don't know why there's really nothing that interesting",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    },
+    {
+      "start": "12:01",
+      "end": "24:02",
+      "title": "TheQuartering",
+      "entities": [
+        "TheQuartering"
+      ],
+      "summary_seed": "anything. They're not my customers. You know, they leave hundreds and hundreds of fake reviews on Amazon that all end up getting deleted. any way it is. I don't know why they're like this, but I I just feel like some of them are very smart and then they could figure out like a better way to use their time, you know, like a more productive way to use their time. But they're not actually interested in that. They're onl",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "24:00",
+      "end": "26:45",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": "something like that, there just isn't. They're just mad. They're mad at the world. They're mad that I don't know, things didn't work out for them the way they wanted. And I get that. But what I don't get is harassing employee, you know, people that I do business with, going after my sponsors, you know, losing sponsors, that's an actionable item. Defam defamation, right? They were emailing uh my sponsor saying that I",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    }
+  ],
+  "claim_candidates": [
+    {
+      "claimant": "unknown speaker",
+      "claim": "there's a lot of people that think it's unique.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "I know there's a lot of people that think it's unique."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "I know who sells coffee to all your favorite YouTubers.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "I know I know who sells coffee to all your favorite YouTubers."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "is pretty fun.",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "But I want to explain before I explain the big expose that happened and then I've got a little tip later in the video to share uh that I think is pretty fun."
+    },
+    {
+      "claimant": "And so everyone thought wow this",
+      "claim": "that his coffeey's drop shipped which by the way if it was no big deal but I have made it a point to say it isn't because it isn't.",
+      "timestamp": "12:01",
+      "status": "candidate_claim",
+      "receipt": "And so everyone thought wow this confirms that his coffeey's drop shipped which by the way if it was no big deal but I have made it a point to say it isn't because it isn't."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that bothers people, but that's okay.",
+      "timestamp": "12:01",
+      "status": "opinion_or_inference",
+      "receipt": "And I think that bothers people, but that's okay."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "I'll ever be Black Rifle?",
+      "timestamp": "24:00",
+      "status": "opinion_or_inference",
+      "receipt": "Do I think I'll ever be Black Rifle?"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "I can grow it into a multi-million dollar business?",
+      "timestamp": "24:00",
+      "status": "opinion_or_inference",
+      "receipt": "But do I think I can grow it into a multi-million dollar business?"
+    }
+  ],
+  "quote_candidates": [
+    {
+      "timestamp": "00:00",
+      "text": "And people say, \"Jeremy, why don't you just sue them?",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "12:01",
+      "text": "Now, at some point, the issue is it's they know it's not worth it for me.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "00:00",
+      "text": "Uh the truth is uh these people are dumb and they're just they don't like me.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "12:01",
+      "text": "So then I went to my partners and I said, \"Hey, why don't we sell Kup services, you know, to other people?\" Again, all things that a drop ship coffee company could never do, by the way.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "12:01",
+      "text": "It's better to just stay positive and not so you know these people were never my customers in the first place.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "12:01",
+      "text": "They're caping for people that don't exist and have never existed.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "24:00",
+      "text": "There's new people every day who buy my coffee that have never seen one of my YouTube videos.",
+      "significance_score": 1
+    }
+  ],
+  "relationship_signals": [],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

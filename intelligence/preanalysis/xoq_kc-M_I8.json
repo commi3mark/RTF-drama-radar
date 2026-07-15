@@ -1,0 +1,123 @@
+{
+  "schema_version": "octopuss-preanalysis-v0.1",
+  "generated_at": "2026-07-15T21:04:19.658247+00:00",
+  "video_id": "xoq_kc-M_I8",
+  "title": "MATI: The Rekieta Segment - Nontent Skelly’s Daily Mail Article (Jul 10, 2026)",
+  "source": "Elissa Clips",
+  "published": "2026-07-10T18:12:57+00:00",
+  "packet_hash": "7b8432e108f135d39c8914f0da982372b933a4d1dc7c5b219e672c9b2a04d3f9",
+  "coverage": {
+    "first_caption_second": 0.48,
+    "last_caption_second": 335.84,
+    "timestamp_start": "00:00",
+    "timestamp_end": "05:35",
+    "caption_span_seconds": 335.36,
+    "status": "transcript_present",
+    "note": "This measures the caption span only. It does not prove complete coverage of the original video."
+  },
+  "participant_candidates": [
+    {
+      "entity": "Elissa Clips",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.72,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Nick Rekieta",
+      "mentions": 5,
+      "block_count": 1,
+      "first_timestamp": "00:00",
+      "last_timestamp": "05:35",
+      "discussion_span_seconds": 335.4,
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.846,
+        "positive_hits": 12,
+        "negative_hits": 1
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "i Farms users enjoying the 250th anniversary of the United States in the capital. Uh possibly looking for a place to score weed and black girls. And while they were out cruising around, um the man in the pickle suit saw Nick Rekieta uh with his family and was nice enough, kind enough to censor um the children from the photo, but sure enough he was there in DC, which left people wondering, \"Why is Nick Rekieta in DC?\" And uh as the Daily Mail would"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Aaron Imholte",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "00:00",
+      "last_timestamp": "05:35",
+      "discussion_span_seconds": 335.4,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.846,
+        "positive_hits": 12,
+        "negative_hits": 1
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "Unfortunately, against my wishes, I have Rekieta news. So, Rekieta and this was I made the decision when I first saw this, I was not going to feature this or talk about it, but then the other shoe dropped. Rekieta says, \"Hey, Cat Davies, you and Daily Mail are going to have an issue with me. I suggest you call me.\" So, [ __ ] What what I need like a derogatory name for him? How about non-tense skelly? He's a [ __ ] skelly and everything"
+        }
+      ],
+      "appearance_status": "uncertain"
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "05:35",
+      "title": "Nick Rekieta / Aaron Imholte",
+      "entities": [
+        "Nick Rekieta",
+        "Aaron Imholte"
+      ],
+      "summary_seed": "Unfortunately, against my wishes, I have Rekieta news. So, Rekieta and this was I made the decision when I first saw this, I was not going to feature this or talk about it, but then the other shoe dropped. Rekieta says, \"Hey, Cat Davies, you and Daily Mail are going to have an issue with me. I suggest you call me.\" So, [ __ ] What what I need like a derogatory name for him? How about non-tense skelly? He's a [ __ ] s",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    }
+  ],
+  "claim_candidates": [
+    {
+      "claimant": "unknown speaker",
+      "claim": "that's an entire lifetime of events for one person, but she's managed to fit it in It's an accelerated course, okay?",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think that's an entire lifetime of events for one person, but she's managed to fit it in It's an accelerated course, okay?"
+    }
+  ],
+  "quote_candidates": [
+    {
+      "timestamp": "00:00",
+      "text": "Rekieta says, \"Hey, Cat Davies, you and Daily Mail are going to have an issue with me.",
+      "significance_score": 2
+    }
+  ],
+  "relationship_signals": [
+    {
+      "left": "Nick Rekieta",
+      "right": "Aaron Imholte",
+      "signal_type": "friendship_claim",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "i Farms users enjoying the 250th anniversary of the United States in the capital. Uh possibly looking for a place to score weed and black girls. And while they were out cruising around, um the man in the pickle suit saw Nick Rekieta uh with his family and was nice enough, kind enough to censor um the children from the photo, but sure enough he was there in DC, which left people wondering, \"Why is Nick Rekieta in DC?\" And uh as the Daily Mail would",
+      "warning": "co-mention plus language signal; requires interpretation"
+    }
+  ],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

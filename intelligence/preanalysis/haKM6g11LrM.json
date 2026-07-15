@@ -1,0 +1,144 @@
+{
+  "schema_version": "octopuss-preanalysis-v0.1",
+  "generated_at": "2026-07-15T21:04:18.073060+00:00",
+  "video_id": "haKM6g11LrM",
+  "title": "Ethan Van Sciver Learns The Truth of DRONES! | The Khola King Fear",
+  "source": "KatyDid",
+  "published": "2026-07-12T14:33:02+00:00",
+  "packet_hash": "52323a3e18ada0ac2ed643a077e5b30dff8092f12a8f328b111e608a60b14726",
+  "coverage": {
+    "first_caption_second": 0.0,
+    "last_caption_second": 507.44,
+    "timestamp_start": "00:00",
+    "timestamp_end": "08:27",
+    "caption_span_seconds": 507.44,
+    "status": "transcript_present",
+    "note": "This measures the caption span only. It does not prove complete coverage of the original video."
+  },
+  "participant_candidates": [
+    {
+      "entity": "KatyDid",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.72,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Liam Gray",
+      "mentions": 9,
+      "block_count": 1,
+      "first_timestamp": "00:00",
+      "last_timestamp": "08:27",
+      "discussion_span_seconds": 507.4,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.586,
+        "positive_hits": 23,
+        "negative_hits": 6
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "I was like, well, what can I What could have I done better? What could I do? And when the drone stuff was happening that everyone's making fun of and says didn't happen like when that stuff was happening and the death threats and all of that and the race traitor stuff, real heinous stuff. I was shaken up and I was calling Liam a race traitor. Poor mental health that ended up with me just standing up. >> So, I I don't know. Let me just t"
+        }
+      ],
+      "appearance_status": "uncertain"
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "08:27",
+      "title": "Liam Gray",
+      "entities": [
+        "Liam Gray"
+      ],
+      "summary_seed": "I was like, well, what can I What could have I done better? What could I do? And when the drone stuff was happening that everyone's making fun of and says didn't happen like when that stuff was happening and the death threats and all of that and the race traitor stuff, real heinous stuff. I was shaken up and I was calling Liam a race traitor. Poor mental health that ended up with me just standing up. >> So, I I don't",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    }
+  ],
+  "claim_candidates": [
+    {
+      "claimant": "that everyone's making fun of and",
+      "claim": "didn't happen like when that stuff was happening and the death threats and all of that and the race traitor stuff, real heinous stuff.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "And when the drone stuff was happening that everyone's making fun of and says didn't happen like when that stuff was happening and the death threats and all of that and the race traitor stuff, real heinous stuff."
+    },
+    {
+      "claimant": "me ask AI real quick and just see what AI",
+      "claim": "about this.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "Let me ask AI real quick and just see what AI says about this."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "he's just being paranoid.",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "Um I think he's just being paranoid."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "this is the best thing that This is what AI is actually for.",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think this is the best thing that This is what AI is actually for."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "it Liam would probably agree with that.",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "I don't know if that's a real phrase, but it it's I think it Liam would probably agree with that."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "is happening here.",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "Now, this is what I think is happening here."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "this is a good assessment of what's going on with Liam.",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think this is a good assessment of what's going on with Liam."
+    },
+    {
+      "claimant": "he he",
+      "claim": "nobody believes him.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "But, he he says nobody believes him."
+    }
+  ],
+  "quote_candidates": [
+    {
+      "timestamp": "00:00",
+      "text": "And when the drone stuff was happening that everyone's making fun of and says didn't happen like when that stuff was happening and the death threats and all of that and the race traitor stuff, real heinous stuff.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "00:00",
+      "text": "US-based people cannot realistically pilot a drone in real-time from America due to massive latency, signal issues, and legal barriers.",
+      "significance_score": 2
+    }
+  ],
+  "relationship_signals": [],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

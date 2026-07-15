@@ -1,0 +1,20 @@
+{
+  "relationship_id": "fencegate--nerdrotic",
+  "left": "Nerdrotic",
+  "right": "Fencegate",
+  "signals": [
+    {
+      "video_id": "6GIxuFOICAI",
+      "episode_title": "Catching Up With The Rippaverse! - Detractor Kings",
+      "source": "Frog Tony",
+      "left": "Nerdrotic",
+      "right": "Fencegate",
+      "signal_type": "criticised",
+      "timestamp": "01:36:01",
+      "confidence": 0.45,
+      "receipt": "realize that they can no longer really dictate how people should feel about a given medium. This is why I said that the age of mass appeal is over. There are far too many options out there, not just in people that create. Obviously, >> uh the the days of mass appeal is over and then Toy Story uh 5 came out and crushed it. >> Yep. >> So, yeah, Eric, you're completely wrong on this. Like, mass appeal still exists. The problem is you want",
+      "warning": "co-mention plus language signal; requires interpretation"
+    }
+  ],
+  "updated_at": "2026-07-15T21:04:40.503567+00:00"
+}

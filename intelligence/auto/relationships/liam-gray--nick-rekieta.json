@@ -1,0 +1,44 @@
+{
+  "relationship_id": "liam-gray--nick-rekieta",
+  "left": "Liam Gray",
+  "right": "Nick Rekieta",
+  "signals": [
+    {
+      "video_id": "Uf6bzqxJAAk",
+      "episode_title": "TRASHCAST #265: The Khola King & Ethan Van Sciver Exchange",
+      "source": "KatyDid",
+      "left": "Liam Gray",
+      "right": "Nick Rekieta",
+      "signal_type": "criticised",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": "a weak statement of failure when somebody's asking you to just behave a certain way. Giving you a whole lot of things and you tried but you couldn't you couldn't succeed. Earlier today we watched Nick Roccata attacking Liam Gray. And Liam Gray also watched Nick Roccata attacking Liam Gray and he has there's a little clip of a video that Katie did made. Katie, thank you for this of Liam responding to Nick Roccata. It's only 13 minutes and a half",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "Uf6bzqxJAAk",
+      "episode_title": "TRASHCAST #265: The Khola King & Ethan Van Sciver Exchange",
+      "source": "KatyDid",
+      "left": "Liam Gray",
+      "right": "Nick Rekieta",
+      "signal_type": "legal_conflict",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": "a weak statement of failure when somebody's asking you to just behave a certain way. Giving you a whole lot of things and you tried but you couldn't you couldn't succeed. Earlier today we watched Nick Roccata attacking Liam Gray. And Liam Gray also watched Nick Roccata attacking Liam Gray and he has there's a little clip of a video that Katie did made. Katie, thank you for this of Liam responding to Nick Roccata. It's only 13 minutes and a half",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "N52SC2cLnvY",
+      "episode_title": "TRASHCAST # 267 BIGGEST PROBLEM was insane. Vito is a outta control. I pity him.",
+      "source": "Ethan Van Sciver",
+      "left": "Liam Gray",
+      "right": "Nick Rekieta",
+      "signal_type": "criticised",
+      "timestamp": "00:01",
+      "confidence": 0.45,
+      "receipt": "ou know, you're you're going to have to uh give us percentage of the money that you make using it.\" And uh Veto just like Veto has become in so many different ways like I actually said like Veto you are a combination of Liam Gray, Eric July and Patrick S. Tomlinson and it's it's bizarre that you became that way and I only really realized it like um when Riley [ __ ] with him. [laughter] All right, hold on a second. I got to start a super chat. I",
+      "warning": "co-mention plus language signal; requires interpretation"
+    }
+  ],
+  "updated_at": "2026-07-15T21:04:38.566895+00:00"
+}

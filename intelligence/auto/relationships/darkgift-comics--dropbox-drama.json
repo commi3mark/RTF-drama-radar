@@ -1,0 +1,32 @@
+{
+  "relationship_id": "darkgift-comics--dropbox-drama",
+  "left": "DarkGift Comics",
+  "right": "Dropbox Drama",
+  "signals": [
+    {
+      "video_id": "7LMz5W0-mLs",
+      "episode_title": "Finbarr STOMPS A Dwarf! - OPEN PANEL MADHOUSE!!!!",
+      "source": "Frog Tony",
+      "left": "DarkGift Comics",
+      "right": "Dropbox Drama",
+      "signal_type": "criticised",
+      "timestamp": "01:36:00",
+      "confidence": 0.45,
+      "receipt": "Twitter and was like, \"Oh, what's Mandy tweeting? Let let me see what Mandy's tweeting.\" >> Yeah. >> As you do, right? Let me check on the check. No, day before yesterday was Yeah, day before yesterday got sent a clip of uh DG doing a stream like it's getting concerning. And Fimbar man in the last like week or so I've done nothing but just go to the cop shop. >> Wait, wait, wait, wait. >> I'm sorry. Did he say he got sent a clip of a a",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "edPpkg2kim4",
+      "episode_title": "\"I REPORTED THE DROPBOX!\" Liam Gray Responds to EVS Reacting To A Viral Clip",
+      "source": "KatyDid",
+      "left": "Dropbox Drama",
+      "right": "DarkGift Comics",
+      "signal_type": "friendship_claim",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "Alan, you sent me a clip. Like, what is this clip of? It says, \"Whatever you do, don't show this clip of him.\" Uh what is this? Should I not show this clip? I don't know what it is. Like, I'm afraid to show it cuz I don't know what it what it involves. It's not anything uh uh horrendous, is it? All right, hold on. Let me watch it first. Let me see what it is. I'm watching it now. He's in his backyard. 12th issue of Xeno pipe. I remember",
+      "warning": "co-mention plus language signal; requires interpretation"
+    }
+  ],
+  "updated_at": "2026-07-15T21:04:37.579982+00:00"
+}

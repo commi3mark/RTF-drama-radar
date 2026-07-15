@@ -1,0 +1,68 @@
+{
+  "relationship_id": "eric-july--vito-gesualdi",
+  "left": "Vito Gesualdi",
+  "right": "Eric July",
+  "signals": [
+    {
+      "video_id": "VBJwPPZ1LeY",
+      "episode_title": "Sturgis Went To Japan On Thirsty Thursday!",
+      "source": "Frog Tony",
+      "left": "Vito Gesualdi",
+      "right": "Eric July",
+      "signal_type": "criticised",
+      "timestamp": "01:00:02",
+      "confidence": 0.45,
+      "receipt": ">> there's no um biggest problem tonight. I know Dick Dick said that he was going to do Biggest Problem for the rest of the month, right? >> Till July, but uh the first show after he made the announcement, uh he's called off. >> You think they'll have a big blowout final episode or No, >> no, I think he's going to call off for the rest of the rest of July. >> I think that's it. I think we already had a last episode. >> Wow, that would b",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "VBJwPPZ1LeY",
+      "episode_title": "Sturgis Went To Japan On Thirsty Thursday!",
+      "source": "Frog Tony",
+      "left": "Vito Gesualdi",
+      "right": "Eric July",
+      "signal_type": "promoted",
+      "timestamp": "01:00:02",
+      "confidence": 0.45,
+      "receipt": ">> there's no um biggest problem tonight. I know Dick Dick said that he was going to do Biggest Problem for the rest of the month, right? >> Till July, but uh the first show after he made the announcement, uh he's called off. >> You think they'll have a big blowout final episode or No, >> no, I think he's going to call off for the rest of the rest of July. >> I think that's it. I think we already had a last episode. >> Wow, that would b",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "IGwEBXZDVt0",
+      "episode_title": "The Biggest Problem in the Universe Comes to an END!",
+      "source": "KatyDid",
+      "left": "Eric July",
+      "right": "Vito Gesualdi",
+      "signal_type": "criticised",
+      "timestamp": "48:00",
+      "confidence": 0.45,
+      "receipt": "at if we spent all our time obsessively telling the people who are making shit what fucking retards they are and how much they suck okay there's yeah there's room for criticism and I get that you you do it even the Eric Eric July stuff at some point started going to the point where I'm like, \"Okay, now we're getting pedantic. Now, now we're getting a little too retarded with the Eric July.\" Okay, so some of the >> Yeah, >> look, it's fun to get",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "IGwEBXZDVt0",
+      "episode_title": "The Biggest Problem in the Universe Comes to an END!",
+      "source": "KatyDid",
+      "left": "Eric July",
+      "right": "Vito Gesualdi",
+      "signal_type": "promoted",
+      "timestamp": "48:00",
+      "confidence": 0.45,
+      "receipt": "at if we spent all our time obsessively telling the people who are making shit what fucking retards they are and how much they suck okay there's yeah there's room for criticism and I get that you you do it even the Eric Eric July stuff at some point started going to the point where I'm like, \"Okay, now we're getting pedantic. Now, now we're getting a little too retarded with the Eric July.\" Okay, so some of the >> Yeah, >> look, it's fun to get",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "IGwEBXZDVt0",
+      "episode_title": "The Biggest Problem in the Universe Comes to an END!",
+      "source": "KatyDid",
+      "left": "Eric July",
+      "right": "Vito Gesualdi",
+      "signal_type": "friendship_claim",
+      "timestamp": "48:00",
+      "confidence": 0.45,
+      "receipt": "at if we spent all our time obsessively telling the people who are making shit what fucking retards they are and how much they suck okay there's yeah there's room for criticism and I get that you you do it even the Eric Eric July stuff at some point started going to the point where I'm like, \"Okay, now we're getting pedantic. Now, now we're getting a little too retarded with the Eric July.\" Okay, so some of the >> Yeah, >> look, it's fun to get",
+      "warning": "co-mention plus language signal; requires interpretation"
+    }
+  ],
+  "updated_at": "2026-07-15T21:04:36.468425+00:00"
+}

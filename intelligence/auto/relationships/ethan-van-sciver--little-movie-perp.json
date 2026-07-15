@@ -1,0 +1,68 @@
+{
+  "relationship_id": "ethan-van-sciver--little-movie-perp",
+  "left": "Ethan Van Sciver",
+  "right": "Little Movie Perp",
+  "signals": [
+    {
+      "video_id": "MmvMoleX9Ls",
+      "episode_title": "Gabbing With Ga......You Know",
+      "source": "FFS Cast",
+      "left": "Ethan Van Sciver",
+      "right": "Little Movie Perp",
+      "signal_type": "defended",
+      "timestamp": "01:12:01",
+      "confidence": 0.45,
+      "receipt": "\"Oh, fuck.\" And he said, \"My DMs are open if anybody needs to send me info on these people.\" So I sent it to him, right? And then this [ __ ] [ __ ] Tony was like, \"Oh yeah, SITTING SENT THAT HE'S JUST GOT ALL THIS RAPPORT WITH ETHAN and it came off so [ __ ] jealous and smarmy.\" And I'm like, \"Dude, I honestly I talk to people that DM me. I respond as like quickly and as as uh you know, respectfully and as like business-like as possibl",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "episode_title": "Gabbing With Ga......You Know",
+      "source": "FFS Cast",
+      "left": "Ethan Van Sciver",
+      "right": "Little Movie Perp",
+      "signal_type": "criticised",
+      "timestamp": "01:12:01",
+      "confidence": 0.45,
+      "receipt": "\"Oh, fuck.\" And he said, \"My DMs are open if anybody needs to send me info on these people.\" So I sent it to him, right? And then this [ __ ] [ __ ] Tony was like, \"Oh yeah, SITTING SENT THAT HE'S JUST GOT ALL THIS RAPPORT WITH ETHAN and it came off so [ __ ] jealous and smarmy.\" And I'm like, \"Dude, I honestly I talk to people that DM me. I respond as like quickly and as as uh you know, respectfully and as like business-like as possibl",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "episode_title": "Gabbing With Ga......You Know",
+      "source": "FFS Cast",
+      "left": "Ethan Van Sciver",
+      "right": "Little Movie Perp",
+      "signal_type": "promoted",
+      "timestamp": "01:12:01",
+      "confidence": 0.45,
+      "receipt": "\"Oh, fuck.\" And he said, \"My DMs are open if anybody needs to send me info on these people.\" So I sent it to him, right? And then this [ __ ] [ __ ] Tony was like, \"Oh yeah, SITTING SENT THAT HE'S JUST GOT ALL THIS RAPPORT WITH ETHAN and it came off so [ __ ] jealous and smarmy.\" And I'm like, \"Dude, I honestly I talk to people that DM me. I respond as like quickly and as as uh you know, respectfully and as like business-like as possibl",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "SlodiZOj8bE",
+      "episode_title": "FROG TONY'S FREEDOM FIGHTING FORCE | FBI Investigation DRAMA Escalates",
+      "source": "Commi3 Mark",
+      "left": "Ethan Van Sciver",
+      "right": "Little Movie Perp",
+      "signal_type": "promoted",
+      "timestamp": "36:02",
+      "confidence": 0.45,
+      "receipt": ">> yeah, like and >> we all have our own forms of currency. The problem is we don't all know what each other like accepts as currency. That's the issue, >> you know. >> That's true. I guess [laughter] [snorts] [sighs] >> uh I watched a bunch of like EAPs and stuff this week and it made me really realize how much um slower our show is. like um that I don't have to talk really fast. I think what I realized is that some of the other shows",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "SlodiZOj8bE",
+      "episode_title": "FROG TONY'S FREEDOM FIGHTING FORCE | FBI Investigation DRAMA Escalates",
+      "source": "Commi3 Mark",
+      "left": "Ethan Van Sciver",
+      "right": "Little Movie Perp",
+      "signal_type": "friendship_claim",
+      "timestamp": "36:02",
+      "confidence": 0.45,
+      "receipt": ">> yeah, like and >> we all have our own forms of currency. The problem is we don't all know what each other like accepts as currency. That's the issue, >> you know. >> That's true. I guess [laughter] [snorts] [sighs] >> uh I watched a bunch of like EAPs and stuff this week and it made me really realize how much um slower our show is. like um that I don't have to talk really fast. I think what I realized is that some of the other shows",
+      "warning": "co-mention plus language signal; requires interpretation"
+    }
+  ],
+  "updated_at": "2026-07-15T21:04:42.079782+00:00"
+}

@@ -1,0 +1,131 @@
+{
+  "schema_version": "octopuss-auto-event-v0.1",
+  "event_id": "7JzZNez4ZBE",
+  "title": "FFS: Shane Davis Stops By! Discusses JDA & BACKmeBro",
+  "source": "KatyDid",
+  "published": "2026-07-03T16:57:45+00:00",
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "12:01",
+      "title": "Shane Davis / Jon Del Arroz / ComicsGate",
+      "entities": [
+        "Shane Davis",
+        "Jon Del Arroz",
+        "ComicsGate",
+        "Dick Masterson",
+        "BackMeBro",
+        "Ethan Van Sciver"
+      ],
+      "summary_seed": "true or not. So, we'll see. There he is. What's up, Shane? >> I got I don't know what shit is going on over here, but I am here for a few minutes, so >> Yeah, yeah. Well, I mean, you don't have to be. I heard tonight's the >> shit? HIT ME WITH THE HARD QUESTIONS. >> WELL, WE WE'VE CAUGHT YOU SLURRING, so we caught you slurring. We caught you slurring. >> Cynic, I'm going to need you to come at me like a pipe hitting",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "12:00",
+      "end": "24:01",
+      "title": "BackMeBro / Ethan Van Sciver / Jon Del Arroz",
+      "entities": [
+        "BackMeBro",
+        "Ethan Van Sciver",
+        "Jon Del Arroz",
+        "Rippaverse"
+      ],
+      "summary_seed": ">> But that's the other thing I don't understand. >> Mhm. >> I don't really have anything bad to say about Mike Wiler or Mindy Wiler. I don't know them. >> Yeah, of course. Yeah. >> I I but and everybody like go use their site. I mean, you know, I I you know, whatever. But the thing I don't understand is people tagging Ethan to tell me what to do. >> That was weird. Yeah, that was fucking weird. >> I wait wait wait.",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "24:00",
+      "end": "32:43",
+      "title": "BackMeBro / Jon Del Arroz",
+      "entities": [
+        "BackMeBro",
+        "Jon Del Arroz"
+      ],
+      "summary_seed": "You're going to bring it back to the drama. What an asshole. >> Yeah, I'm sorry. >> That's nice. I don't know I mean how I feel. I mean like discounts come with cutting my bushes. I know. >> [laughter] >> Well, I don't know. All right. No, that's okay. >> You know, you're taking me [laughter] for a ride. Those sort of things. Yeah. >> I get it, man. They throw a real nice quinceanera. Maybe, you know. I I do think th",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Shane Davis",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.797,
+        "positive_hits": 53,
+        "negative_hits": 6
+      }
+    },
+    {
+      "entity": "BackMeBro",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.74,
+        "positive_hits": 127,
+        "negative_hits": 19
+      }
+    },
+    {
+      "entity": "Jon Del Arroz",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.74,
+        "positive_hits": 127,
+        "negative_hits": 19
+      }
+    },
+    {
+      "entity": "Ethan Van Sciver",
+      "importance": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.784,
+        "positive_hits": 91,
+        "negative_hits": 11
+      }
+    },
+    {
+      "entity": "ComicsGate",
+      "importance": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.797,
+        "positive_hits": 53,
+        "negative_hits": 6
+      }
+    },
+    {
+      "entity": "Dick Masterson",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.797,
+        "positive_hits": 53,
+        "negative_hits": 6
+      }
+    },
+    {
+      "entity": "Rippaverse",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.767,
+        "positive_hits": 38,
+        "negative_hits": 5
+      }
+    }
+  ],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

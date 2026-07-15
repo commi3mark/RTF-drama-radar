@@ -1,0 +1,27 @@
+{
+  "schema_version": "octopuss-auto-event-v0.1",
+  "event_id": "k3BD76GAF6I",
+  "title": "Nice and Easy - tunes with q",
+  "source": "ComicsGate Commandos",
+  "published": "2026-07-09T03:22:48+00:00",
+  "chapters": [
+    {
+      "start": "00:05",
+      "end": "02:43",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": "[music] >> Let's take it nice and easy. It's going to be so easy for us to fall in love. >> [music] >> Hey, baby, what's your hurry? Relax. Don't you worry. We're going to fall in love. We're on the road to romance. [music] That's safe to say, but let's make all the stops [music] along the way. The problem now, of course, [music] is to simply hold your horses. To rush would be a crime. >> [singing] >> Cuz nice [music",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    }
+  ],
+  "subjects": [],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

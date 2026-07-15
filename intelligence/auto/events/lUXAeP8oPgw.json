@@ -1,0 +1,131 @@
+{
+  "schema_version": "octopuss-auto-event-v0.1",
+  "event_id": "lUXAeP8oPgw",
+  "title": "Kino Casino: TheQuartering Vlogs Ep. 1 (Jul 8, 2026)",
+  "source": "Elissa Clips",
+  "published": "2026-07-09T22:58:59+00:00",
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "12:03",
+      "title": "TheQuartering",
+      "entities": [
+        "TheQuartering"
+      ],
+      "summary_seed": "I'm driving yesterday and I get a text, right? And I play it out loud on my car cuz I'm driving and it's from PPP. He posted the video. I replied, >> \"Okay, >> Siri, no way. Send the >> me and Andy were of the like sincere belief that since it turned out that J didn't need to actually have knee surgery that he would quietly abort his plans for a vlog channel.\" >> Yes. and pretend that it never happened. And we would",
+      "clip_likelihood": false,
+      "transition_markers": 2
+    },
+    {
+      "start": "12:00",
+      "end": "24:02",
+      "title": "Clip/reaction: General discussion",
+      "entities": [],
+      "summary_seed": "Like, he's like, I don't know what day it is. I don't know how I did it. I don't know what. Okay, what's your point? >> I'm pretty sure it was uh I was moving my dog's agility course. So you have a big outdoor agility course. >> Agility course. >> You have to take down theility course. >> So this is the thing, right? Because Heather forced him to take down all of his [ __ ] Now he had to put up the dog agility course",
+      "clip_likelihood": true,
+      "transition_markers": 0
+    },
+    {
+      "start": "24:01",
+      "end": "36:04",
+      "title": "Clip/reaction: General discussion",
+      "entities": [],
+      "summary_seed": "[ __ ] >> Could you believe I had to drive for MRI? Yes. >> But like the good news for him is he got it basically right away. >> He's going to complain about the wait times and all this stuff, but it's like the wait times are a lot longer for a lot of other countries in the world, J. Like it's not America's the devil on the wait times, bro. And a lot of people don't have insurance period. But you know, we all have to",
+      "clip_likelihood": true,
+      "transition_markers": 0
+    },
+    {
+      "start": "36:02",
+      "end": "48:04",
+      "title": "TheQuartering",
+      "entities": [
+        "TheQuartering"
+      ],
+      "summary_seed": ">> See, because I don't want to sacrifice summer. I live in Wisconsin and basically everything, you know, if I had a knee injury in December, it'd be fine. I get to skip Christmas. Why would you skip Christmas? >> I get to skip Christmas. Like that's a positive to skip Christmas. Like, so like all of his family hate him and treat him like [ __ ] I guess. Like, >> what do you mean skip Christmas? >> He gets to skip Ch",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "48:00",
+      "end": "01:00:03",
+      "title": "TheQuartering",
+      "entities": [
+        "TheQuartering"
+      ],
+      "summary_seed": "probably completely everything's like every single system in his body is completely destroyed. and he's addicted to so many substances like it's over. Like he's just basically waiting to die. It's over. >> His debuffs this that and the other thing. Turns out other than being >> by the way, yes, the energy drinks, those have so many calories, dude. And they don't fill you up at all. So, you're still hungry. >> Overwei",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    },
+    {
+      "start": "01:00:03",
+      "end": "01:12:06",
+      "title": "Ethan Van Sciver",
+      "entities": [
+        "Ethan Van Sciver"
+      ],
+      "summary_seed": ">> HE'S BETA. HE'S EMASCULATED. WOOHOO. LET'S GET SUBS FOR JERRY. HE'S EMASCULATED. HE'S INCOMPETENT. HE'S USELESS. HE SERVES NO PURPOSE. HE'S DONE CRAP. >> YOU KNOW, like calling somebody and be like, >> \"Hey man, can you come take my garbage cans down?\" >> He called another man. >> He had to be his neighbor on THE >> NO, THE BULL. >> THE BULL. The garbage bowl. >> Really emasculating, you know, like calling somebod",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    },
+    {
+      "start": "01:12:03",
+      "end": "01:24:03",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": "IT'S SO GOOD TO see him sad, depressed. >> IT'S NOT EVEN A spiral he never recovers from. >> Well, it's not even about this. that his whole life is falling apart. >> Oh, it's like an addon to the Okay. Yeah, >> to be honest, you know, like, dang, man. It's the 4th of July. Summer's really just kicking off. >> I'm going to miss all of July, all of August. Almost certainly care. He's He's acting like he has terminal ca",
+      "clip_likelihood": false,
+      "transition_markers": 2
+    },
+    {
+      "start": "01:24:01",
+      "end": "01:34:24",
+      "title": "Kino Casino",
+      "entities": [
+        "Kino Casino"
+      ],
+      "summary_seed": "times oversharing on the internet turns into you know ammun ammunition for people to ridicule you. That stuff's never really bothered me. >> Oh, it hasn't, >> right? >> I'm not just pressing X to doubt. I'm pressing Y that he lied. >> Yeah, it's pure Y. Press Y. >> Lied. We're presenting evidence him flagging down the clip channel because he's a little [ __ ] that couldn't handle that he was being made fun of on the",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "TheQuartering",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.828,
+        "positive_hits": 245,
+        "negative_hits": 23
+      }
+    },
+    {
+      "entity": "Ethan Van Sciver",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.921,
+        "positive_hits": 73,
+        "negative_hits": 3
+      }
+    },
+    {
+      "entity": "Kino Casino",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.657,
+        "positive_hits": 29,
+        "negative_hits": 6
+      }
+    }
+  ],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

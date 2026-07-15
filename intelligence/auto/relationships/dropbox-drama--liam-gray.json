@@ -1,0 +1,44 @@
+{
+  "relationship_id": "dropbox-drama--liam-gray",
+  "left": "Liam Gray",
+  "right": "Dropbox Drama",
+  "signals": [
+    {
+      "video_id": "O5BcX4ir3-0",
+      "episode_title": "The Tribunal of Liam Gray | DROPBOX DRAMA",
+      "source": "KatyDid",
+      "left": "Liam Gray",
+      "right": "Dropbox Drama",
+      "signal_type": "friendship_claim",
+      "timestamp": "12:00",
+      "confidence": 0.45,
+      "receipt": ">> One minute. One more time. One more time. That's it. >> Hello. >> Hang on. Hang on. Can you hear me? >> Yeah. Yeah. One more time. What was that? Sorry. If this is an open case and you can't tell the names, I think they mean you can't say the names. Why are you talking about it? Because you know the people were in the group and can hide evidence. >> Okay. Well, that's pretty easy that one if you sort of think about it. For a starter,",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "T80sgrQa_kA",
+      "episode_title": "Is Leem throwing in the towel?! | #934",
+      "source": "Ministry of Dude",
+      "left": "Liam Gray",
+      "right": "Dropbox Drama",
+      "signal_type": "legal_conflict",
+      "timestamp": "01:36:01",
+      "confidence": 0.45,
+      "receipt": "head, bro? >> Is it the light or is he >> Oh, have you not seen his new haircut? >> Saying goodbye. >> Is he dressed like is he trying to be like a German artist? Like, hello, my name is Hans. I only wear black turtlenecks and I like to paint on walls. >> I think I think someone told him kids like that haircut. >> Can you give me like the Zoomer haircut, the Jin Alpha broccoli cut bra? >> And essentially, um I just don't have the time.",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "edPpkg2kim4",
+      "episode_title": "\"I REPORTED THE DROPBOX!\" Liam Gray Responds to EVS Reacting To A Viral Clip",
+      "source": "KatyDid",
+      "left": "Dropbox Drama",
+      "right": "Liam Gray",
+      "signal_type": "friendship_claim",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "Alan, you sent me a clip. Like, what is this clip of? It says, \"Whatever you do, don't show this clip of him.\" Uh what is this? Should I not show this clip? I don't know what it is. Like, I'm afraid to show it cuz I don't know what it what it involves. It's not anything uh uh horrendous, is it? All right, hold on. Let me watch it first. Let me see what it is. I'm watching it now. He's in his backyard. 12th issue of Xeno pipe. I remember",
+      "warning": "co-mention plus language signal; requires interpretation"
+    }
+  ],
+  "updated_at": "2026-07-15T21:04:37.570048+00:00"
+}

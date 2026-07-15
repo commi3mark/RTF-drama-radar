@@ -1,0 +1,32 @@
+{
+  "relationship_id": "anna-that-star-wars-girl--comicsgate",
+  "left": "Anna That Star Wars Girl",
+  "right": "ComicsGate",
+  "signals": [
+    {
+      "video_id": "FrQfU1Y84Nk",
+      "episode_title": "DRAW-MUH STREAM! REIGNBOW THE BRUTE Death of Papa Smerc page 3 pt3",
+      "source": "Ethan Van Sciver",
+      "left": "Anna That Star Wars Girl",
+      "right": "ComicsGate",
+      "signal_type": "criticised",
+      "timestamp": "36:00",
+      "confidence": 0.45,
+      "receipt": ">> [music] >> Still again. [music] >> 200 W Studios says, \"I was a huge Firestorm fan since 1978. Was there on day one when Fury came out, Raymond was in the uh Justice League, 30-year hero. No way was he racist. How come we don't black friends? Mom, why? Because uh it'd be great if mom told him. [laughter] All right, Gail, you write that. I'm going to write the other part. Gail, you can have you can write the part where Ronnie uh asks",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "FrQfU1Y84Nk",
+      "episode_title": "DRAW-MUH STREAM! REIGNBOW THE BRUTE Death of Papa Smerc page 3 pt3",
+      "source": "Ethan Van Sciver",
+      "left": "Anna That Star Wars Girl",
+      "right": "ComicsGate",
+      "signal_type": "friendship_claim",
+      "timestamp": "36:00",
+      "confidence": 0.45,
+      "receipt": ">> [music] >> Still again. [music] >> 200 W Studios says, \"I was a huge Firestorm fan since 1978. Was there on day one when Fury came out, Raymond was in the uh Justice League, 30-year hero. No way was he racist. How come we don't black friends? Mom, why? Because uh it'd be great if mom told him. [laughter] All right, Gail, you write that. I'm going to write the other part. Gail, you can have you can write the part where Ronnie uh asks",
+      "warning": "co-mention plus language signal; requires interpretation"
+    }
+  ],
+  "updated_at": "2026-07-15T21:04:39.773756+00:00"
+}

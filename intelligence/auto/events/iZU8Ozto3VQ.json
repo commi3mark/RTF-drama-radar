@@ -1,0 +1,40 @@
+{
+  "schema_version": "octopuss-auto-event-v0.1",
+  "event_id": "iZU8Ozto3VQ",
+  "title": "MATI: Metokur & Cog Bend Over for Ethan Ralph (Jul 10, 2026)",
+  "source": "Elissa Clips",
+  "published": "2026-07-14T21:56:51+00:00",
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "09:25",
+      "title": "Ethan Van Sciver",
+      "entities": [
+        "Ethan Van Sciver"
+      ],
+      "summary_seed": "So, uh Ralph says, \"How the [ __ ] is your heart failed but not mine, brother?\" In all seriousness, laughing crying emoji. So, Ralph is like, \"Haha, you're dying of cardiac failure, but I, despite being a fat, slovenly piece of [ __ ] who has open contempt for my own well-being in life, I'm doing fine.\" So, Jim decided to put this video out. Now, you know, as the first Jim log, as no Jim log preceded me, um I have ne",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Ethan Van Sciver",
+      "importance": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.902,
+        "positive_hits": 39,
+        "negative_hits": 2
+      }
+    }
+  ],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

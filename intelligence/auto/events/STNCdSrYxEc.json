@@ -1,0 +1,27 @@
+{
+  "schema_version": "octopuss-auto-event-v0.1",
+  "event_id": "STNCdSrYxEc",
+  "title": "Are People ACTUALLY Tired of \"Wokeness?\"",
+  "source": "Eric July",
+  "published": "2026-07-09T15:47:15+00:00",
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "08:17",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": "Are people tired of wokeness? It's a really It's a >> [music] >> deep question. And before we get into the answer, I think that we need to start [music] from the beginning. Otherwise, we end up talking right past each other. Oddly enough, [music] the term wokeness or woke, it did not originate from [music] people that are involved in this culture war. It's more so used as a term for someone that is seeing beyond what",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    }
+  ],
+  "subjects": [],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

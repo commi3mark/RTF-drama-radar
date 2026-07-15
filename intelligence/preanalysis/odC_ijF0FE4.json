@@ -1,0 +1,828 @@
+{
+  "schema_version": "octopuss-preanalysis-v0.1",
+  "generated_at": "2026-07-15T21:04:23.270833+00:00",
+  "video_id": "odC_ijF0FE4",
+  "title": "JCW Lunacy #89 Watch Party",
+  "source": "Frog Tony",
+  "published": "2026-07-04T14:28:36+00:00",
+  "packet_hash": "8cf422867ef091cbcf52204175f75f96cfa30860dc4d52574262ed936687b056",
+  "coverage": {
+    "first_caption_second": 4.799,
+    "last_caption_second": 6729.599,
+    "timestamp_start": "00:04",
+    "timestamp_end": "01:52:09",
+    "caption_span_seconds": 6724.8,
+    "status": "transcript_present",
+    "note": "This measures the caption span only. It does not prove complete coverage of the original video."
+  },
+  "participant_candidates": [
+    {
+      "entity": "Frog Tony",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.72,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Frog Tony",
+      "mentions": 37,
+      "block_count": 3,
+      "first_timestamp": "00:04",
+      "last_timestamp": "36:03",
+      "discussion_span_seconds": 2158.9,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.868,
+        "positive_hits": 141,
+        "negative_hits": 10
+      },
+      "receipts": [
+        {
+          "timestamp": "00:04",
+          "excerpt": "Yeah, yeah, yeah, [music] yeah, yeah, yeah, yeah. In the middle of the night, he's hopping. Thinking of Frog Tony, there's no stopping. He speaks the truth and leaves you balling. He's [music] the corker that laughs as you're falling. Frog Tony haunts your dreams. Can't you see? Hopping through the shadows [music] quite eagerly. Sc"
+        },
+        {
+          "timestamp": "12:01",
+          "excerpt": "her Jalo World. >> Them law boys. Bring the law boys. >> That'll neutralize any situation. >> And the key. The key. >> I almost forgot. is the dealer. Yeah. >> Has been unlocked. >> Here's the pitch. Oh my god. Liam and Frog Tony problem. >> Sally boys up in smoke. >> Where's my brother? >> Device in the merchandise you stole. It led to an abandoned warehouse where we found your brother. Okay. You know where we found him? He's fine. He's on his"
+        },
+        {
+          "timestamp": "24:00",
+          "excerpt": ">> They're just doing vignettes. >> You got to be prepared for surprises. In fact, after so long, you learn to expect the unexpected. Expect the unexpected. Yeah. This >> is what brings me to the ring right now. >> Ladies and gentlemen, general and general, the unexpected has taken place in the locker room of JCW Lunacy. >> Somebody got knocked up. >> A bit of a surprise, >> a bit a bit of a surprise >> that has popped up out of nowhere"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Dick Masterson",
+      "mentions": 14,
+      "block_count": 2,
+      "first_timestamp": "00:04",
+      "last_timestamp": "24:01",
+      "discussion_span_seconds": 1436.8,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.884,
+        "positive_hits": 114,
+        "negative_hits": 7
+      },
+      "receipts": [
+        {
+          "timestamp": "00:04",
+          "excerpt": "s before the show started with >> he said no because he wants to keep doing the show with Dick >> yeah or >> or I know I I want it All it was the first it's the first >> he said he doesn't want to be financially tied to Dick Mastersonson that it would be a a nightmare a headache for him >> but but he's already is. >> Yeah. And he would keep doing the show with Dick and be financially tied to him if Dick was still doing the show. So it makes no sense."
+        },
+        {
+          "timestamp": "12:01",
+          "excerpt": "just make a new one. >> You can call the show Biggest Problem in the Bluey. [snorts] >> I'm telling you, I even got a great pitch. I said, Veto, the first episode of the new uh the new regime would be Biggest Problem in Dick Masterson. So, there it is. [snorts] Veto should do it with Boogie. No, Angela, stop trying to get me out of a job. Veto should not do it with anyone but me. Okay. I was on uh some of the biggest episodes in the last two years. O"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Vito Gesualdi",
+      "mentions": 8,
+      "block_count": 4,
+      "first_timestamp": "12:01",
+      "last_timestamp": "01:48:02",
+      "discussion_span_seconds": 5760.6,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.827,
+        "positive_hits": 148,
+        "negative_hits": 14
+      },
+      "receipts": [
+        {
+          "timestamp": "12:01",
+          "excerpt": "Hell, have a rotating cast of guest, right? >> Right. >> There's so many things he could do. He could do a [ __ ] biggest problem in the universe guest uh you know, permanent host search or whatever. Right. >> Right. that for a year. >> Yeah. >> Yeah. >> There's so many things that he could do that I I just don't understand why. Like Veto's allergic to money. Veto's allergic to like comedy, >> right? >> Maybe he's got a great cornboy id"
+        },
+        {
+          "timestamp": "24:00",
+          "excerpt": ">> They're just doing vignettes. >> You got to be prepared for surprises. In fact, after so long, you learn to expect the unexpected. Expect the unexpected. Yeah. This >> is what brings me to the ring right now. >> Ladies and gentlemen, general and general, the unexpected has taken place in the locker room of JCW Lunacy. >> Somebody got knocked up. >> A bit of a surprise, >> a bit a bit of a surprise >> that has popped up out of nowhere"
+        },
+        {
+          "timestamp": "36:00",
+          "excerpt": "Danielle in over 25 years. >> Has he not been watching the show? She's done the [laughter] show. >> What? >> She's been there every week. >> Oh, God. >> What the [ __ ] [laughter] >> Wait a minute. Wait a wait a minute. That That can't be right. Barnabas, you've been working with her in this company. >> Thank you. Thank you. [laughter] Where are you, man? >> Exactly. >> I didn't know. I mean, I knew that there was something. Any any tim"
+        },
+        {
+          "timestamp": "01:36:01",
+          "excerpt": "background. >> Get up, idiot. >> Bishop has crossed the two. >> Look at it, man. Bishop >> very mad cross. Well, at least Cross got was the one pinned. >> Yeah, but they they did kind of like a running. >> Maybe we need to leave with both. Maybe I'm sweating a little bit more because >> Yeah, they got the out of using the the title belt's future endeavors together couldn't take the pin. >> What's going to happen? Well, don't pin merly s"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Ethan Van Sciver",
+      "mentions": 3,
+      "block_count": 1,
+      "first_timestamp": "01:36:01",
+      "last_timestamp": "01:48:02",
+      "discussion_span_seconds": 721.2,
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.652,
+        "positive_hits": 19,
+        "negative_hits": 4
+      },
+      "receipts": [
+        {
+          "timestamp": "01:36:01",
+          "excerpt": "background. >> Get up, idiot. >> Bishop has crossed the two. >> Look at it, man. Bishop >> very mad cross. Well, at least Cross got was the one pinned. >> Yeah, but they they did kind of like a running. >> Maybe we need to leave with both. Maybe I'm sweating a little bit more because >> Yeah, they got the out of using the the title belt's future endeavors together couldn't take the pin. >> What's going to happen? Well, don't pin merly s"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Liam Gray",
+      "mentions": 2,
+      "block_count": 2,
+      "first_timestamp": "12:01",
+      "last_timestamp": "36:03",
+      "discussion_span_seconds": 1442.0,
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.838,
+        "positive_hits": 91,
+        "negative_hits": 8
+      },
+      "receipts": [
+        {
+          "timestamp": "12:01",
+          "excerpt": "Hell, have a rotating cast of guest, right? >> Right. >> There's so many things he could do. He could do a [ __ ] biggest problem in the universe guest uh you know, permanent host search or whatever. Right. >> Right. that for a year. >> Yeah. >> Yeah. >> There's so many things that he could do that I I just don't understand why. Like Veto's allergic to money. Veto's allergic to like comedy, >> right? >> Maybe he's got a great cornboy id"
+        },
+        {
+          "timestamp": "24:00",
+          "excerpt": ">> They're just doing vignettes. >> You got to be prepared for surprises. In fact, after so long, you learn to expect the unexpected. Expect the unexpected. Yeah. This >> is what brings me to the ring right now. >> Ladies and gentlemen, general and general, the unexpected has taken place in the locker room of JCW Lunacy. >> Somebody got knocked up. >> A bit of a surprise, >> a bit a bit of a surprise >> that has popped up out of nowhere"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Shane Davis",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "01:48:00",
+      "last_timestamp": "01:52:09",
+      "discussion_span_seconds": 249.1,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "positive_hits": 19,
+        "negative_hits": 0
+      },
+      "receipts": [
+        {
+          "timestamp": "01:48:00",
+          "excerpt": ">> I think it's a way to feel good for violent >> keep the heat on onto >> too tough. Tony following >> beating him up. >> You're beating up Tonyy's most at home in his neck of the woods now. >> And there's nothing any of the Luchas can do. Veto's reaching out, but he must feel 100 miles away. Break your thumb. Break your thumb. That's how we escape. Escape technique. Break the thumb. >> That's how you do it. >> Yeah. Break the thumb. S"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "TheQuartering",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "01:24:00",
+      "last_timestamp": "01:36:02",
+      "discussion_span_seconds": 721.1,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.714,
+        "positive_hits": 24,
+        "negative_hits": 4
+      },
+      "receipts": [
+        {
+          "timestamp": "01:24:00",
+          "excerpt": ">> Oh. >> Oh. >> Well, not again. >> Sonic the Hedgehog music. >> I think Jasmine was chopping that morning wood. Chop chop chop. He is your champion. >> Man, he changed out his outfit real quick. >> Chris left Jerry Connley. >> When Vince Russo said that Caleb wasn't gonna >> he should change his intro song. >> Only going to defend the title once a month >> and make the make the lyrics. >> Well, Caleb Conley those cuff is like, \"Nope,"
+        }
+      ],
+      "appearance_status": "uncertain"
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:04",
+      "end": "12:04",
+      "title": "Dick Masterson / Frog Tony",
+      "entities": [
+        "Dick Masterson",
+        "Frog Tony"
+      ],
+      "summary_seed": "Yeah, yeah, yeah, [music] yeah, yeah, yeah, yeah. In the middle of the night, he's hopping. Thinking of Frog Tony, there's no stopping. He speaks the truth and leaves you balling. He's [music] the corker that laughs as you're falling. Frog Tony haunts your dreams. Can't you see? Hopping through the shadows [music] quite eagerly. Scared to close your eyes and go to sleep. You [music] s chaos, but Frog Tony is here to",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "12:01",
+      "end": "24:01",
+      "title": "Frog Tony / Dick Masterson / Vito Gesualdi",
+      "entities": [
+        "Frog Tony",
+        "Dick Masterson",
+        "Vito Gesualdi",
+        "Liam Gray"
+      ],
+      "summary_seed": "Hell, have a rotating cast of guest, right? >> Right. >> There's so many things he could do. He could do a [ __ ] biggest problem in the universe guest uh you know, permanent host search or whatever. Right. >> Right. that for a year. >> Yeah. >> Yeah. >> There's so many things that he could do that I I just don't understand why. Like Veto's allergic to money. Veto's allergic to like comedy, >> right? >> Maybe he's go",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "24:00",
+      "end": "36:03",
+      "title": "Frog Tony / Vito Gesualdi / Liam Gray",
+      "entities": [
+        "Frog Tony",
+        "Vito Gesualdi",
+        "Liam Gray"
+      ],
+      "summary_seed": ">> They're just doing vignettes. >> You got to be prepared for surprises. In fact, after so long, you learn to expect the unexpected. Expect the unexpected. Yeah. This >> is what brings me to the ring right now. >> Ladies and gentlemen, general and general, the unexpected has taken place in the locker room of JCW Lunacy. >> Somebody got knocked up. >> A bit of a surprise, >> a bit a bit of a surprise >> that has popp",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "36:00",
+      "end": "48:02",
+      "title": "Vito Gesualdi",
+      "entities": [
+        "Vito Gesualdi"
+      ],
+      "summary_seed": "Danielle in over 25 years. >> Has he not been watching the show? She's done the [laughter] show. >> What? >> She's been there every week. >> Oh, God. >> What the [ __ ] [laughter] >> Wait a minute. Wait a wait a minute. That That can't be right. Barnabas, you've been working with her in this company. >> Thank you. Thank you. [laughter] Where are you, man? >> Exactly. >> I didn't know. I mean, I knew that there was so",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "48:00",
+      "end": "01:00:05",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": "you to make him listen. And you don't [ __ ] pay attention. You're going to be on the first [ __ ] plane back to Sicily cuz I don't need you anymore. You understand, Damish? Aboard goapish. [laughter] >> The following contest is a tag team match scheduled for >> a small man on a thumbnail once said a cake with a candle is still >> tag. [laughter] [screaming] >> No. >> Oh [ __ ] Who's backstage? >> Introducing first.",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "01:00:00",
+      "end": "01:12:03",
+      "title": "Clip/reaction: General discussion",
+      "entities": [],
+      "summary_seed": ">> have rebounded the chocolate. >> Oh no, >> his sonary July is an athlete too, Tony. So [laughter] >> it's understandable running wild here. Jugalo July >> going X factor >> looking to play the hits but Choa City >> got him with that double chop close line. >> I wonder if Eric will make more wrestling comics or that was it >> the sauce and that was it for wrestling. >> Meanwhile, that's the character that everybody",
+      "clip_likelihood": true,
+      "transition_markers": 1
+    },
+    {
+      "start": "01:12:01",
+      "end": "01:24:01",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": "real the most human I've ever seen. Barnabas. >> I I TJ, I would want to >> That looks like >> TJ, I would want to see you in an outfit like that. I would pay to see you. >> I thought TJ has a little curly beard like that. his little mustache. >> He had his little curled up like >> many tombstone mustache >> ago, >> I was forced to make an incredibly difficult decision >> to not wear a condom. >> Easily the most diff",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "01:24:00",
+      "end": "01:36:02",
+      "title": "TheQuartering",
+      "entities": [
+        "TheQuartering"
+      ],
+      "summary_seed": ">> Oh. >> Oh. >> Well, not again. >> Sonic the Hedgehog music. >> I think Jasmine was chopping that morning wood. Chop chop chop. He is your champion. >> Man, he changed out his outfit real quick. >> Chris left Jerry Connley. >> When Vince Russo said that Caleb wasn't gonna >> he should change his intro song. >> Only going to defend the title once a month >> and make the make the lyrics. >> Well, Caleb Conley those c",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "01:36:01",
+      "end": "01:48:02",
+      "title": "Vito Gesualdi / Ethan Van Sciver",
+      "entities": [
+        "Vito Gesualdi",
+        "Ethan Van Sciver"
+      ],
+      "summary_seed": "background. >> Get up, idiot. >> Bishop has crossed the two. >> Look at it, man. Bishop >> very mad cross. Well, at least Cross got was the one pinned. >> Yeah, but they they did kind of like a running. >> Maybe we need to leave with both. Maybe I'm sweating a little bit more because >> Yeah, they got the out of using the the title belt's future endeavors together couldn't take the pin. >> What's going to happen? Wel",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "01:48:00",
+      "end": "01:52:09",
+      "title": "Shane Davis",
+      "entities": [
+        "Shane Davis"
+      ],
+      "summary_seed": ">> I think it's a way to feel good for violent >> keep the heat on onto >> too tough. Tony following >> beating him up. >> You're beating up Tonyy's most at home in his neck of the woods now. >> And there's nothing any of the Luchas can do. Veto's reaching out, but he must feel 100 miles away. Break your thumb. Break your thumb. That's how we escape. Escape technique. Break the thumb. >> That's how you do it. >> Yeah",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    }
+  ],
+  "claim_candidates": [
+    {
+      "claimant": "unknown speaker",
+      "claim": "this neighborhood.",
+      "timestamp": "00:04",
+      "status": "candidate_claim",
+      "receipt": "Even though it's only the third, I know this neighborhood."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "you sound like super excited about I like like you were like you weren't paying attention and then you got called on like like [laughter] who's like wandering off and then gets called on.",
+      "timestamp": "00:04",
+      "status": "opinion_or_inference",
+      "receipt": "I think you sound like super excited about I like like you were like you weren't paying attention and then you got called on like like [laughter] who's like wandering off and then gets called on."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that was on uh The Mask.",
+      "timestamp": "00:04",
+      "status": "hearsay_candidate",
+      "receipt": "First time [laughter] I heard that was on uh The Mask."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "maybe that's what he meant.",
+      "timestamp": "00:04",
+      "status": "opinion_or_inference",
+      "receipt": "I think maybe that's what he meant."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "a great that biggest problem in the universe is coming",
+      "timestamp": "00:04",
+      "status": "hearsay_candidate",
+      "receipt": "I heard a great that biggest problem in the universe is coming"
+    },
+    {
+      "claimant": "Dick said Dick",
+      "claim": "on the show that after this month, that's it.",
+      "timestamp": "00:04",
+      "status": "candidate_claim",
+      "receipt": "Well, Dick said Dick said on the show that after this month, that's it."
+    },
+    {
+      "claimant": "his licensing agreement right and Veto",
+      "claim": "no said no and I think that's the dumbest move ever I was talking about this before the show started with",
+      "timestamp": "00:04",
+      "status": "opinion_or_inference",
+      "receipt": "So you you just give me you know you do the show whatever you guys are making 25% from the super chats I guess in the uh Patreon right basically for the brand that would be like his licensing agreement right and Veto said no said no and I think that's the dumbest move ever I was talking about this before the show started with"
+    },
+    {
+      "claimant": "he",
+      "claim": "no because he wants to keep doing the show with Dick",
+      "timestamp": "00:04",
+      "status": "candidate_claim",
+      "receipt": "he said no because he wants to keep doing the show with Dick"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "I I want it All it was the first it's the first",
+      "timestamp": "00:04",
+      "status": "candidate_claim",
+      "receipt": "or I know I I want it All it was the first it's the first"
+    },
+    {
+      "claimant": "he",
+      "claim": "he doesn't want to be financially tied to Dick Mastersonson that it would be a a nightmare a headache for him",
+      "timestamp": "00:04",
+      "status": "candidate_claim",
+      "receipt": "he said he doesn't want to be financially tied to Dick Mastersonson that it would be a a nightmare a headache for him"
+    },
+    {
+      "claimant": "He",
+      "claim": "that would be pretty funny.",
+      "timestamp": "12:01",
+      "status": "candidate_claim",
+      "receipt": "He said that would be pretty funny."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "we we do have a good dynamic.",
+      "timestamp": "12:01",
+      "status": "opinion_or_inference",
+      "receipt": "and I think we we do have a good dynamic."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "they're like going too fast and then like",
+      "timestamp": "12:01",
+      "status": "opinion_or_inference",
+      "receipt": "I think they're like going too fast and then like"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "Russo is sticking his book in in terms of of TV format like quarters.",
+      "timestamp": "12:01",
+      "status": "opinion_or_inference",
+      "receipt": "But I think Russo is sticking his book in in terms of of TV format like quarters."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that's why it's funny cuz she's old.",
+      "timestamp": "24:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think that's why it's funny cuz she's old."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "it's on purpose.",
+      "timestamp": "24:00",
+      "status": "opinion_or_inference",
+      "receipt": "Yeah, I I think it's on purpose."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that help like in small like small doses.",
+      "timestamp": "24:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think that help like in small like small doses."
+    },
+    {
+      "claimant": "apparently",
+      "claim": "like, \"I'm going to call eyes on that bitch.\" And he just snapped.",
+      "timestamp": "24:00",
+      "status": "candidate_claim",
+      "receipt": "apparently said like, \"I'm going to call eyes on that bitch.\" And he just snapped."
+    },
+    {
+      "claimant": "But I've always said I've always",
+      "claim": "that Sunny Kiss stuff looks better when wrestling women, not men.",
+      "timestamp": "24:00",
+      "status": "candidate_claim",
+      "receipt": "But I've always said I've always said that Sunny Kiss stuff looks better when wrestling women, not men."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "it's a very emotional time for you.",
+      "timestamp": "24:00",
+      "status": "candidate_claim",
+      "receipt": "And Barnabas, I know it's a very emotional time for you."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "you have your questions.",
+      "timestamp": "36:00",
+      "status": "candidate_claim",
+      "receipt": "Listen, I know you have your questions."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "everybody watching at home has their questions.",
+      "timestamp": "36:00",
+      "status": "candidate_claim",
+      "receipt": "I know everybody watching at home has their questions."
+    },
+    {
+      "claimant": "I don't know her package",
+      "claim": "otherwise.",
+      "timestamp": "36:00",
+      "status": "candidate_claim",
+      "receipt": "I don't know her package says otherwise."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "it's funny that Sunny Case is more feminine than this.",
+      "timestamp": "36:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think it's funny that Sunny Case is more feminine than this."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "she was She had a birthday.",
+      "timestamp": "36:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think she was She had a birthday."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "you've been wrestling all over the place.",
+      "timestamp": "36:00",
+      "status": "candidate_claim",
+      "receipt": "I know you've been wrestling all over the place."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "they never brought it in.",
+      "timestamp": "36:00",
+      "status": "opinion_or_inference",
+      "receipt": "No, I [clears throat] I think they never brought it in."
+    },
+    {
+      "claimant": "a small man on a thumbnail once",
+      "claim": "a cake with a candle is still",
+      "timestamp": "48:00",
+      "status": "candidate_claim",
+      "receipt": "a small man on a thumbnail once said a cake with a candle is still"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "they're DIY chops out in the crowd.",
+      "timestamp": "48:00",
+      "status": "opinion_or_inference",
+      "receipt": "I believe they're DIY chops out in the crowd."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "why Tony's looking over here.",
+      "timestamp": "48:00",
+      "status": "candidate_claim",
+      "receipt": "I know why Tony's looking over here."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "you could eliminate Sunny Kiss for Colorado.",
+      "timestamp": "48:00",
+      "status": "opinion_or_inference",
+      "receipt": "So I think you could eliminate Sunny Kiss for Colorado."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "he pretty much like uh abandon all those guys and all those.",
+      "timestamp": "01:00:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think he pretty much like uh abandon all those guys and all those."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "his name is Epic Mike, but the Epic versus Josiah Rising.",
+      "timestamp": "01:00:00",
+      "status": "candidate_claim",
+      "receipt": "I know his name is Epic Mike, but the Epic versus Josiah Rising."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "it was more like a jazz because there was the time there was a a convention in in the state where Mike lives.",
+      "timestamp": "01:00:00",
+      "status": "opinion_or_inference",
+      "receipt": "But I think it was more like a jazz because there was the time there was a a convention in in the state where Mike lives."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that's because uh they had quarter black Garrett on there.",
+      "timestamp": "01:00:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think that's because uh they had quarter black Garrett on there."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that's really what this hype package was.",
+      "timestamp": "01:00:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think that's really what this hype package was."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "one day that old Barnabas will have to atone for his sins.",
+      "timestamp": "01:12:01",
+      "status": "candidate_claim",
+      "receipt": "And I know one day that old Barnabas will have to atone for his sins."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "Danny Mo is in her late 20s.",
+      "timestamp": "01:12:01",
+      "status": "opinion_or_inference",
+      "receipt": "I think Danny Mo is in her late 20s."
+    },
+    {
+      "claimant": "but people",
+      "claim": "they couldn't go and I went and other people want to go and they haven't come.",
+      "timestamp": "01:12:01",
+      "status": "candidate_claim",
+      "receipt": "Hey bud, I went to Japan, but people said they couldn't go and I went and other people want to go and they haven't come."
+    },
+    {
+      "claimant": "He",
+      "claim": "something like that in his videos.",
+      "timestamp": "01:12:01",
+      "status": "candidate_claim",
+      "receipt": "He says something like that in his videos."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "now, I would have begged Barbara to have an abortion.",
+      "timestamp": "01:12:01",
+      "status": "candidate_claim",
+      "receipt": "And if I knew then what I know now, I would have begged Barbara to have an abortion."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "it's far overdue that you were introduced to the real Barnabas.",
+      "timestamp": "01:12:01",
+      "status": "opinion_or_inference",
+      "receipt": "I think it's far overdue that you were introduced to the real Barnabas."
+    },
+    {
+      "claimant": "would have been better if they would have",
+      "claim": "that Danny Mo had ran away or that like she got lost.",
+      "timestamp": "01:12:01",
+      "status": "candidate_claim",
+      "receipt": "It would have been better if they would have said that Danny Mo had ran away or that like she got lost."
+    }
+  ],
+  "quote_candidates": [
+    {
+      "timestamp": "24:00",
+      "text": "who apparently threatened to call eyes on his girlfriend because they were making out a little too hot in the elevator.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "48:00",
+      "text": "between uh the JWO and Choppa City as they exchange strike center ring",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "01:12:01",
+      "text": "Danny Mo, I resurrected your mom issues.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "00:04",
+      "text": "[music] Never miss when you attack the king.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "00:04",
+      "text": "You never had a chance to win this race.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "12:01",
+      "text": "That way you get some audience participation and always throw like a curveball in there, right?",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "12:01",
+      "text": "You would never touch a monster ever again.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "12:01",
+      "text": "If Boogie had never live streamed, the world would have not know who he is.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "24:00",
+      "text": "But I've always said I've always said that Sunny Kiss stuff looks better when wrestling women, not men.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "36:00",
+      "text": "I I always thought if AW was a little bit risky, they would have put the women's title on Nyla Rose, but have Tessa Blanchard as a heel to go take it from her.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "36:00",
+      "text": "No, I [clears throat] I think they never brought it in.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "48:00",
+      "text": "Words and phrases that have never been put together before.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "01:00:00",
+      "text": "So they always they always use that to tease Mike.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "01:12:01",
+      "text": "But never in my wildest dreams did I ever think that the Russo would be revealed",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "01:12:01",
+      "text": "I knew instantly this was never going to work.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "01:24:00",
+      "text": "They are the future and never implied earlier.",
+      "significance_score": 1
+    }
+  ],
+  "relationship_signals": [
+    {
+      "left": "Frog Tony",
+      "right": "Dick Masterson",
+      "signal_type": "collaborated",
+      "timestamp": "00:04",
+      "confidence": 0.45,
+      "receipt": "Yeah, yeah, yeah, [music] yeah, yeah, yeah, yeah. In the middle of the night, he's hopping. Thinking of Frog Tony, there's no stopping. He speaks the truth and leaves you balling. He's [music] the corker that laughs as you're falling. Frog Tony haunts your dreams. Can't you see? Hopping through the shadows [music] quite eagerly. Sc",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Dick Masterson",
+      "signal_type": "friendship_claim",
+      "timestamp": "00:04",
+      "confidence": 0.45,
+      "receipt": "Yeah, yeah, yeah, [music] yeah, yeah, yeah, yeah. In the middle of the night, he's hopping. Thinking of Frog Tony, there's no stopping. He speaks the truth and leaves you balling. He's [music] the corker that laughs as you're falling. Frog Tony haunts your dreams. Can't you see? Hopping through the shadows [music] quite eagerly. Sc",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Dick Masterson",
+      "signal_type": "criticised",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": "her Jalo World. >> Them law boys. Bring the law boys. >> That'll neutralize any situation. >> And the key. The key. >> I almost forgot. is the dealer. Yeah. >> Has been unlocked. >> Here's the pitch. Oh my god. Liam and Frog Tony problem. >> Sally boys up in smoke. >> Where's my brother? >> Device in the merchandise you stole. It led to an abandoned warehouse where we found your brother. Okay. You know where we found him? He's fine. He's on his",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Vito Gesualdi",
+      "signal_type": "criticised",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": "her Jalo World. >> Them law boys. Bring the law boys. >> That'll neutralize any situation. >> And the key. The key. >> I almost forgot. is the dealer. Yeah. >> Has been unlocked. >> Here's the pitch. Oh my god. Liam and Frog Tony problem. >> Sally boys up in smoke. >> Where's my brother? >> Device in the merchandise you stole. It led to an abandoned warehouse where we found your brother. Okay. You know where we found him? He's fine. He's on his",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Liam Gray",
+      "signal_type": "criticised",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": "her Jalo World. >> Them law boys. Bring the law boys. >> That'll neutralize any situation. >> And the key. The key. >> I almost forgot. is the dealer. Yeah. >> Has been unlocked. >> Here's the pitch. Oh my god. Liam and Frog Tony problem. >> Sally boys up in smoke. >> Where's my brother? >> Device in the merchandise you stole. It led to an abandoned warehouse where we found your brother. Okay. You know where we found him? He's fine. He's on his",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Dick Masterson",
+      "right": "Vito Gesualdi",
+      "signal_type": "criticised",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": "just make a new one. >> You can call the show Biggest Problem in the Bluey. [snorts] >> I'm telling you, I even got a great pitch. I said, Veto, the first episode of the new uh the new regime would be Biggest Problem in Dick Masterson. So, there it is. [snorts] Veto should do it with Boogie. No, Angela, stop trying to get me out of a job. Veto should not do it with anyone but me. Okay. I was on uh some of the biggest episodes in the last two years. O",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Dick Masterson",
+      "right": "Liam Gray",
+      "signal_type": "criticised",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": "just make a new one. >> You can call the show Biggest Problem in the Bluey. [snorts] >> I'm telling you, I even got a great pitch. I said, Veto, the first episode of the new uh the new regime would be Biggest Problem in Dick Masterson. So, there it is. [snorts] Veto should do it with Boogie. No, Angela, stop trying to get me out of a job. Veto should not do it with anyone but me. Okay. I was on uh some of the biggest episodes in the last two years. O",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Vito Gesualdi",
+      "right": "Liam Gray",
+      "signal_type": "criticised",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": "Hell, have a rotating cast of guest, right? >> Right. >> There's so many things he could do. He could do a [ __ ] biggest problem in the universe guest uh you know, permanent host search or whatever. Right. >> Right. that for a year. >> Yeah. >> Yeah. >> There's so many things that he could do that I I just don't understand why. Like Veto's allergic to money. Veto's allergic to like comedy, >> right? >> Maybe he's got a great cornboy id",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Vito Gesualdi",
+      "signal_type": "separation",
+      "timestamp": "24:00",
+      "confidence": 0.45,
+      "receipt": ">> They're just doing vignettes. >> You got to be prepared for surprises. In fact, after so long, you learn to expect the unexpected. Expect the unexpected. Yeah. This >> is what brings me to the ring right now. >> Ladies and gentlemen, general and general, the unexpected has taken place in the locker room of JCW Lunacy. >> Somebody got knocked up. >> A bit of a surprise, >> a bit a bit of a surprise >> that has popped up out of nowhere",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Liam Gray",
+      "signal_type": "separation",
+      "timestamp": "24:00",
+      "confidence": 0.45,
+      "receipt": ">> They're just doing vignettes. >> You got to be prepared for surprises. In fact, after so long, you learn to expect the unexpected. Expect the unexpected. Yeah. This >> is what brings me to the ring right now. >> Ladies and gentlemen, general and general, the unexpected has taken place in the locker room of JCW Lunacy. >> Somebody got knocked up. >> A bit of a surprise, >> a bit a bit of a surprise >> that has popped up out of nowhere",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Vito Gesualdi",
+      "right": "Liam Gray",
+      "signal_type": "separation",
+      "timestamp": "24:00",
+      "confidence": 0.45,
+      "receipt": ">> They're just doing vignettes. >> You got to be prepared for surprises. In fact, after so long, you learn to expect the unexpected. Expect the unexpected. Yeah. This >> is what brings me to the ring right now. >> Ladies and gentlemen, general and general, the unexpected has taken place in the locker room of JCW Lunacy. >> Somebody got knocked up. >> A bit of a surprise, >> a bit a bit of a surprise >> that has popped up out of nowhere",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Vito Gesualdi",
+      "right": "Ethan Van Sciver",
+      "signal_type": "friendship_claim",
+      "timestamp": "01:36:01",
+      "confidence": 0.45,
+      "receipt": "background. >> Get up, idiot. >> Bishop has crossed the two. >> Look at it, man. Bishop >> very mad cross. Well, at least Cross got was the one pinned. >> Yeah, but they they did kind of like a running. >> Maybe we need to leave with both. Maybe I'm sweating a little bit more because >> Yeah, they got the out of using the the title belt's future endeavors together couldn't take the pin. >> What's going to happen? Well, don't pin merly s",
+      "warning": "co-mention plus language signal; requires interpretation"
+    }
+  ],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

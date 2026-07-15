@@ -1,0 +1,68 @@
+{
+  "relationship_id": "eric-july--shane-davis",
+  "left": "Shane Davis",
+  "right": "Eric July",
+  "signals": [
+    {
+      "video_id": "zkW4zLSQ7eQ",
+      "episode_title": "You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto!",
+      "source": "Ethan Van Sciver",
+      "left": "Shane Davis",
+      "right": "Eric July",
+      "signal_type": "defended",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": ">> [music] >> Welcome to 5XL FM where the trash flows. [music] >> There I am real small. Here I am real big. Ethan Van Skyver here. 5x LFM Philadelphia trash cast your show. You're the fan. You're the audience. You love this stuff. Can't get enough of it. And I'm here to serve it up. Nice big steaming plate of garbage for you tonight featuring some of your favorite characters. [music] >> Hello. Hi guys. [music] >> What is this? Hot Mike",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "zkW4zLSQ7eQ",
+      "episode_title": "You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto!",
+      "source": "Ethan Van Sciver",
+      "left": "Shane Davis",
+      "right": "Eric July",
+      "signal_type": "criticised",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": ">> [music] >> Welcome to 5XL FM where the trash flows. [music] >> There I am real small. Here I am real big. Ethan Van Skyver here. 5x LFM Philadelphia trash cast your show. You're the fan. You're the audience. You love this stuff. Can't get enough of it. And I'm here to serve it up. Nice big steaming plate of garbage for you tonight featuring some of your favorite characters. [music] >> Hello. Hi guys. [music] >> What is this? Hot Mike",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "LdLy2G5TM4c",
+      "episode_title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+      "source": "Commi3 Mark",
+      "left": "Eric July",
+      "right": "Shane Davis",
+      "signal_type": "promoted",
+      "timestamp": "12:00",
+      "confidence": 0.45,
+      "receipt": "the book bin at a thrift store. Another Yeah, we'll uh I already have the page loaded up, so we'll have a scroll through. I can see if there's some other great ones. So, this week we're going to be talking about this uh Eric July murder mystery crossover thing. Um, I love like true crime stories and documentaries. Like, so it's fun to like uh [snorts] play detective for the week. Uh, this week in fact on the show we're going to be playing judge,",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "X0hbv1uKEGA",
+      "episode_title": "Becoming All Powerful & the Ultimate Underdog!",
+      "source": "KatyDid",
+      "left": "Shane Davis",
+      "right": "Eric July",
+      "signal_type": "promoted",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "r does. I play with my fucking uh play with my fucking family like that. Everyone knew how important it was for me to be able to go. I was going to see people I loved that I haven't seen in like 20 years. You know, like Shane Davis said, I said on the stream, Shane Davis says, \"Oh, it's not a big deal even if you don't go.\" I was like, \"It's a big deal to me because I wanted to see people I haven't seen in 20 years. It's a grave I want to go to. T",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "X0hbv1uKEGA",
+      "episode_title": "Becoming All Powerful & the Ultimate Underdog!",
+      "source": "KatyDid",
+      "left": "Shane Davis",
+      "right": "Eric July",
+      "signal_type": "friendship_claim",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "r does. I play with my fucking uh play with my fucking family like that. Everyone knew how important it was for me to be able to go. I was going to see people I loved that I haven't seen in like 20 years. You know, like Shane Davis said, I said on the stream, Shane Davis says, \"Oh, it's not a big deal even if you don't go.\" I was like, \"It's a big deal to me because I wanted to see people I haven't seen in 20 years. It's a grave I want to go to. T",
+      "warning": "co-mention plus language signal; requires interpretation"
+    }
+  ],
+  "updated_at": "2026-07-15T21:04:35.922005+00:00"
+}

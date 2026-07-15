@@ -1,0 +1,161 @@
+{
+  "schema_version": "octopuss-preanalysis-v0.1",
+  "generated_at": "2026-07-15T21:04:20.707648+00:00",
+  "video_id": "ErvISz34rtE",
+  "title": "Coffee Brand Coffee’s Wednesday Meeting w/ Jeremy Hambly TheQuartering (Jul 8, 2026)",
+  "source": "Elissa Clips",
+  "published": "2026-07-09T00:21:23+00:00",
+  "packet_hash": "19ec8036f632e2c556fbf24996f073508fb4ee52d1c2a317c7ffca58d84eb3a9",
+  "coverage": {
+    "first_caption_second": 0.24,
+    "last_caption_second": 1024.486,
+    "timestamp_start": "00:00",
+    "timestamp_end": "17:04",
+    "caption_span_seconds": 1024.246,
+    "status": "transcript_present",
+    "note": "This measures the caption span only. It does not prove complete coverage of the original video."
+  },
+  "participant_candidates": [
+    {
+      "entity": "Elissa Clips",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.72,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "TheQuartering",
+      "mentions": 4,
+      "block_count": 1,
+      "first_timestamp": "00:00",
+      "last_timestamp": "12:01",
+      "discussion_span_seconds": 721.7,
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.969,
+        "positive_hits": 64,
+        "negative_hits": 1
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "] >> Jeremy, do you have a mod on YouTube? Uh, I normally don't even stream to YouTube. Today, I accidentally did. Um, I'm Rumble exclusive, so if you happen to be watching on on YouTube, move over to Rumble. rumble.com/thequartering. I have no connection with Jeremy. I will say CBC is some of the smoothest coffee I've ever had. Really, really good stuff. [snorts] If you're a Cuban coffee snob like me, you'll agree. Yeah. I mean, all the people who"
+        }
+      ],
+      "appearance_status": "uncertain"
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "12:01",
+      "title": "TheQuartering",
+      "entities": [
+        "TheQuartering"
+      ],
+      "summary_seed": "How is everyone doing? Live at 2:00 p.m. Eastern right now. Probably um just this week's a little messed up because I have doctor's appointments and stuff like that in the mornings. Should be back on the regular schedule uh next week. What day is it even? Wednesday. Weden's day. Shout out. Wednesday, July 8th. How's the knee? Nia's um it it it it got better like over the weekend almost every day it got better like by",
+      "clip_likelihood": false,
+      "transition_markers": 2
+    },
+    {
+      "start": "12:00",
+      "end": "17:04",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": "hopefully people will, you know, we'll have better conversion rates, stuff like that. [snorts] Can you do that? Or maybe on your vlog channel spreadsheet would clear up a lot. No, I don't really have anything to prove to anybody. Uh, the fact that I even know how it's done proves I do it. Black [snorts] Rifle is trying to be neutral politics-wise. I mean, look, hey, obviously I compete with them for people's dollars",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    }
+  ],
+  "claim_candidates": [
+    {
+      "claimant": "whatever date it",
+      "claim": "on Amazon.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "It's because everything's getting checked in [snorts] whatever date it says on Amazon."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "the pool water is just a meme.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "So, I'm pretty sure I saw people I I know the pool water is just a meme."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "I think the biggest mistake content creators make when they when they start brands is they tie the brand to themselves.",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "You know, that's why I didn't want to I think I think the biggest mistake content creators make when they when they start brands is they tie the brand to themselves."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "I have 5,000 lbs left.",
+      "timestamp": "12:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think I have 5,000 lbs left."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "I know our Colombians great.",
+      "timestamp": "12:00",
+      "status": "candidate_claim",
+      "receipt": "Like I know I know our Colombians great."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "when we did the advent calendar, my wife appreciated the regular coffee in there over the flavored.",
+      "timestamp": "12:00",
+      "status": "candidate_claim",
+      "receipt": "I know when we did the advent calendar, my wife appreciated the regular coffee in there over the flavored."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "I think Chad is right that uh I I probably just have to stick to the flavors because that's what we sell best.",
+      "timestamp": "12:00",
+      "status": "opinion_or_inference",
+      "receipt": "I I think I think Chad is right that uh I I probably just have to stick to the flavors because that's what we sell best."
+    }
+  ],
+  "quote_candidates": [
+    {
+      "timestamp": "00:00",
+      "text": "I'm pretty sure I ordered some and I never got it.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "00:00",
+      "text": "I want, you know, my greatest day will be to see some normie buying it in a store who's never heard of my YouTube channel, who's never heard of anything about me.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "00:00",
+      "text": "So, like at a moment's no notice, I could call either one of those guys and ask them a question about the business and they're 100% always open to talk to me about it.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "00:00",
+      "text": "But I yeah, I've got nothing bad to say about Black Rifle because they have always looked out for me.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "00:00",
+      "text": "I mean, all the people who have strong critiques for my coffee have never tried it.",
+      "significance_score": 1
+    }
+  ],
+  "relationship_signals": [],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

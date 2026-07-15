@@ -1,0 +1,1637 @@
+{
+  "schema_version": "octopuss-preanalysis-v0.1",
+  "generated_at": "2026-07-15T21:04:24.292622+00:00",
+  "video_id": "MOQPFnHJYR0",
+  "title": "Cynic Got CATFISHED And EVS Continues To SPIRAL On Thirsty Thursday!",
+  "source": "Frog Tony",
+  "published": "2026-07-03T05:32:32+00:00",
+  "packet_hash": "a9fc0dba9d317abdb13e49d5c3d69ea5f49bddafb0d3eae541f1386b9a696ce6",
+  "coverage": {
+    "first_caption_second": 0.654,
+    "last_caption_second": 13752.8,
+    "timestamp_start": "00:00",
+    "timestamp_end": "03:49:12",
+    "caption_span_seconds": 13752.146,
+    "status": "transcript_present",
+    "note": "This measures the caption span only. It does not prove complete coverage of the original video."
+  },
+  "participant_candidates": [
+    {
+      "entity": "Frog Tony",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.72,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    },
+    {
+      "entity": "Eric July",
+      "role_guess": "likely_participant",
+      "confidence": 0.4,
+      "signals": [
+        "directly addressed 5 times",
+        "possible clip voice rather than live participant"
+      ]
+    },
+    {
+      "entity": "Stray Beans",
+      "role_guess": "likely_participant",
+      "confidence": 0.47,
+      "signals": [
+        "directly addressed 1 times",
+        "appears in 6 distant transcript blocks"
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Liam Gray",
+      "mentions": 101,
+      "block_count": 6,
+      "first_timestamp": "12:00",
+      "last_timestamp": "01:24:02",
+      "discussion_span_seconds": 4321.7,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.736,
+        "positive_hits": 257,
+        "negative_hits": 39
+      },
+      "receipts": [
+        {
+          "timestamp": "12:00",
+          "excerpt": "Uh, not like the [ __ ] on this chat. We don't got to be professional. We ain't got [ __ ] to worry about. >> Whoa, the end bomb's coming out already. Damn. >> Oh my lord. $50 super chat. >> 50 BUCKS. DJ, HIT THE MUSIC. >> I love that little Finnbar. We We got to We got to definitely animate some silly [ __ ] with the uh with the guys. All right, I'm gonna do this last shot. Uh, I'm going to take Lifted Monster chat off just so we can u"
+        },
+        {
+          "timestamp": "24:00",
+          "excerpt": ">> this is the tweet that says, \"Hey guys.\" Hey guys, uh I'm sorry for uh catfishing. Uh Preston Moore is not a girl. Preston Moore is a boy. Is a man >> picture. Y >> I use someone's picture to create it. That's what that tweet is. >> No. Well, so much for that. >> Liam, you remember Preston Moore, right? >> I almost didn't make it. What? Preston Moore? No. Who's Preston Moore? >> Well, Preston Moore was a chick, quote unquote, that wa"
+        },
+        {
+          "timestamp": "36:00",
+          "excerpt": "space or even prox in close proximity to it and ever ever date anyone called Preston because I immediately think of Preston Palter and his wife and become uncomfortable immediately that's what goes to my mind so like how do you >> doesn't know any better you know >> maybe that's what it I I I mean when when I encountered Preston, I immediately thought it was a was a man because of the name, right? And then >> last night, man. >> And the"
+        },
+        {
+          "timestamp": "48:00",
+          "excerpt": "ever made. Right. Exactly. >> I mean, literally, I've uh I think in the DMs, I'm telling her like, \"Yeah, I don't want a relationship. I'm not looking for a girlfriend. I'm not looking to be your [ __ ] boyfriend.\" Right? It's cool to [ __ ] flirt with you. It's cool to [ __ ] be cool and talk and whatever. Uh but there was never a hint of me trying to have a relationship with this person. But they have to invent these things, right? Th"
+        },
+        {
+          "timestamp": "01:00:00",
+          "excerpt": "What else we got? Mike, you should have put some music to this. You should have put like in the arms of an angel. >> Look how tall he is, guys. That's the fence. It might be hard to see for you guys, but that's the fence line right there. And that's Ruby's head. >> Can you zoom in? Can you >> Can I zoom in? It's a video. >> What a pity. They were using fence lines to measure me. So, this seems like some sort of comic justice. >> But yea"
+        },
+        {
+          "timestamp": "01:12:00",
+          "excerpt": "tried to reframe everything that we were the violent ones. >> Yeah. >> Yep. >> Um the Katie thing again because Synynic uh told Katie Ethan, do you want to know why Trashcast stopped happening? Because Katie stopped clipping Eric July. Why did Katie stop clipping Eric July? Oh, that's right. because Synynic convinced her that Air July was boring and that she should clip uh CG drama instead. CG drama is what's going to get you views, Kat"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Frog Tony",
+      "mentions": 50,
+      "block_count": 3,
+      "first_timestamp": "00:00",
+      "last_timestamp": "59:59",
+      "discussion_span_seconds": 3599.0,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.671,
+        "positive_hits": 122,
+        "negative_hits": 24
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "[laughter] Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. [laughter] Yeah. Represent. [music] [screaming] >> Yeah. Time for another village [music] speech, y'all. Tumble [music] out of bed and you stumble to the string. Pour yourself a cup of hate for yawn and stretch and roll yourself a spliff. You never read a comic. Hey, what's the diff [music] without your home monitor and how could we survive with folks like you drinking from 9 to five? [musi"
+        },
+        {
+          "timestamp": "36:00",
+          "excerpt": "space or even prox in close proximity to it and ever ever date anyone called Preston because I immediately think of Preston Palter and his wife and become uncomfortable immediately that's what goes to my mind so like how do you >> doesn't know any better you know >> maybe that's what it I I I mean when when I encountered Preston, I immediately thought it was a was a man because of the name, right? And then >> last night, man. >> And the"
+        },
+        {
+          "timestamp": "48:00",
+          "excerpt": "ever made. Right. Exactly. >> I mean, literally, I've uh I think in the DMs, I'm telling her like, \"Yeah, I don't want a relationship. I'm not looking for a girlfriend. I'm not looking to be your [ __ ] boyfriend.\" Right? It's cool to [ __ ] flirt with you. It's cool to [ __ ] be cool and talk and whatever. Uh but there was never a hint of me trying to have a relationship with this person. But they have to invent these things, right? Th"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Ethan Van Sciver",
+      "mentions": 44,
+      "block_count": 1,
+      "first_timestamp": "36:00",
+      "last_timestamp": "48:02",
+      "discussion_span_seconds": 722.1,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.746,
+        "positive_hits": 62,
+        "negative_hits": 9
+      },
+      "receipts": [
+        {
+          "timestamp": "36:00",
+          "excerpt": "space or even prox in close proximity to it and ever ever date anyone called Preston because I immediately think of Preston Palter and his wife and become uncomfortable immediately that's what goes to my mind so like how do you >> doesn't know any better you know >> maybe that's what it I I I mean when when I encountered Preston, I immediately thought it was a was a man because of the name, right? And then >> last night, man. >> And the"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Eric July",
+      "mentions": 33,
+      "block_count": 2,
+      "first_timestamp": "01:12:00",
+      "last_timestamp": "01:36:00",
+      "discussion_span_seconds": 1440.1,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.808,
+        "positive_hits": 113,
+        "negative_hits": 12
+      },
+      "receipts": [
+        {
+          "timestamp": "01:12:00",
+          "excerpt": "to reframe everything that we were the violent ones. >> Yeah. >> Yep. >> Um the Katie thing again because Synynic uh told Katie Ethan, do you want to know why Trashcast stopped happening? Because Katie stopped clipping Eric July. Why did Katie stop clipping Eric July? Oh, that's right. because Synynic convinced her that Air July was boring and that she should clip uh CG drama instead. CG drama is what's going to get you views, Katie. Right. >>"
+        },
+        {
+          "timestamp": "01:24:00",
+          "excerpt": "about Comics Gate or the history. How? Well, by you saying things that are clearly uh in opposite of the history of Comics Gate. >> How am I doing that? How am I doing that? Carbon >> trying to refute what I said about Eric July. >> Nobody gives a [ __ ] about Eric July anymore. NOBODY >> NOBODY GIVES A [ __ ] You know what's funny? Uh EBS just did a stream where he was talking about Eric July, right? [snorts] No one gives a [ __ ] about Eric J"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Cyberfrog",
+      "mentions": 17,
+      "block_count": 3,
+      "first_timestamp": "02:24:01",
+      "last_timestamp": "03:36:04",
+      "discussion_span_seconds": 4323.0,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.91,
+        "positive_hits": 213,
+        "negative_hits": 10
+      },
+      "receipts": [
+        {
+          "timestamp": "02:24:01",
+          "excerpt": "] hats. >> Like, if if Ethan, how dumb are you? How how how much of a stupid son of a [ __ ] can you be that you didn't give the merchandise to your fans so they can wear it on the street so people can walk around with Cyberfrog and [ __ ] all cabs comic stuff and like other people will see that. Oh, what's that? That's like free promotion. You're turning those people into [ __ ] billboards and you're like, \"No, I'm not going to give them their"
+        },
+        {
+          "timestamp": "03:12:00",
+          "excerpt": "d I'm like you didn't have to watch the review like it like like they were really upset and I didn't when when I say I spoiled it all I said was spoiler alert. Okay, I didn't say that, but spoiler alert, it ends with uh Cyberfrog uh having lost, right? Like he he's he's no there's no triumphant victory for Cyberfrog. Like he's on the down, right? And they were really upset by that by me just saying that. >> All right, let's uh refresh this. Four"
+        },
+        {
+          "timestamp": "03:24:02",
+          "excerpt": "Honey, like they don't you don't find out who [ __ ] Rumblebee and Pollinate are, right? Like you don't know why they're important or not important, you know? Are they like they're the the only villains that show up for Cyberfrog to fight. So like are they his main villain? Are they like a secondary villain? Are they like low-level villains? Are they highlevel villains? Like, you don't know anything about them. And there's not even like any ment"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "ComicsGate",
+      "mentions": 13,
+      "block_count": 6,
+      "first_timestamp": "24:00",
+      "last_timestamp": "02:24:02",
+      "discussion_span_seconds": 7202.6,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.72,
+        "positive_hits": 283,
+        "negative_hits": 46
+      },
+      "receipts": [
+        {
+          "timestamp": "24:00",
+          "excerpt": ">> this is the tweet that says, \"Hey guys.\" Hey guys, uh I'm sorry for uh catfishing. Uh Preston Moore is not a girl. Preston Moore is a boy. Is a man >> picture. Y >> I use someone's picture to create it. That's what that tweet is. >> No. Well, so much for that. >> Liam, you remember Preston Moore, right? >> I almost didn't make it. What? Preston Moore? No. Who's Preston Moore? >> Well, Preston Moore was a chick, quote unquote, that wa"
+        },
+        {
+          "timestamp": "01:00:00",
+          "excerpt": "What else we got? Mike, you should have put some music to this. You should have put like in the arms of an angel. >> Look how tall he is, guys. That's the fence. It might be hard to see for you guys, but that's the fence line right there. And that's Ruby's head. >> Can you zoom in? Can you >> Can I zoom in? It's a video. >> What a pity. They were using fence lines to measure me. So, this seems like some sort of comic justice. >> But yea"
+        },
+        {
+          "timestamp": "01:24:00",
+          "excerpt": "talking about the past. >> We were talking about two, three years ago. See, >> talk about the future. >> No. Okay. So, clearly either weren't listening. Carbon's going where we're having a conversation about the past of ComicsGate and he's like why? Who cares? Who cares about the past of comics? Talk about the future. >> That is the problem. Yeah. You don't care. >> You mean the future where he said uh 10 months ago that he was going to deliver c"
+        },
+        {
+          "timestamp": "01:36:00",
+          "excerpt": "[laughter] >> Well, because again, he's he's trying to put uh he's trying to put Carbon down like you're a nobody. No one listens to you. You don't have a channel. Uh why do you think that you're important? Why do you think that your voice matters, >> S? Okay, hold on. Hold on. >> Cynic thinks that having a channel or having numbers is how your importance in comics gate is dictated. Like, oh, you don't have a channel, Carbon, or your ch"
+        },
+        {
+          "timestamp": "01:48:01",
+          "excerpt": "remember when nobody knew who I swear the [ __ ] up >> you guys. >> You going to let you You're constantly complaining about people not letting you finish and won't let me get a [ __ ] word out. >> I remember either. >> I swear to [ __ ] God, TJ. Shut the [ __ ] up. Let me finish. I was here doing my own thing. I didn't go into comics chats. I wasn't [ __ ] in in Shane's chat. I wasn't in Ethan's chat. I wasn't in mailing chat. I wasn't"
+        },
+        {
+          "timestamp": "02:12:00",
+          "excerpt": "everyone, but he's shown time and time again that he's not [ __ ] honest. Hey, >> I know. I know. It's just got to face facts. It's a problem in me. Move on. >> I mean, God bless you, Liam. Like, this guy is a piece of [ __ ] to you and you're still like, \"Well, I want to try to help him, support him in making comics.\" >> Yeah. Well, I mean, that's, you know, God's not going to judge me at the end of days for how I treat my friends. You"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Stray Beans",
+      "mentions": 6,
+      "block_count": 6,
+      "first_timestamp": "01:24:00",
+      "last_timestamp": "03:00:02",
+      "discussion_span_seconds": 5761.5,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.729,
+        "positive_hits": 319,
+        "negative_hits": 50
+      },
+      "receipts": [
+        {
+          "timestamp": "01:24:00",
+          "excerpt": "ink it's for attention. He is doing this for attention. No other reason, right? Think about how fundamentally sad that is, dude. It is so sad that someone does this does this just for attention. >> No, I agree, man. And Stray Beans, like I I've sort of figured that out as well a little bit because like you'll notice that they always confess through their accusation. And so like they'll accuse me, Liam wants attention. Liam wants attention. I just"
+        },
+        {
+          "timestamp": "01:36:00",
+          "excerpt": "[laughter] >> Well, because again, he's he's trying to put uh he's trying to put Carbon down like you're a nobody. No one listens to you. You don't have a channel. Uh why do you think that you're important? Why do you think that your voice matters, >> S? Okay, hold on. Hold on. >> Cynic thinks that having a channel or having numbers is how your importance in comics gate is dictated. Like, oh, you don't have a channel, Carbon, or your ch"
+        },
+        {
+          "timestamp": "01:48:01",
+          "excerpt": "ot Eric July You do not have the subscribers. You don't have the reach. You don't have the impact that Eric July had. Eric July was part of that. >> I've said as much like 10% he does, you know? I wish Hold on. Hold on. Stray beans like like you're you're you're not even in the right [ __ ] realm. Okay. Because even if Liam and Eric July were on equal footing, right? Let's let's say that Eric July and Liam are the same, right? Yep. >> What we're w"
+        },
+        {
+          "timestamp": "02:24:01",
+          "excerpt": "tting two million in your golden years when you're practically retired. Just write out that money. >> I know I knew someone who finally got all the stuff except Rainbow the Group Book. It's crazy. Crazy. Who do we lose? Stray Beans. I think his internet died. >> Synic knockoff won't come out unlike Synynic. Damn, >> he came out of the closet. Yeah. [laughter] >> Uh, some people like to wonder why supervisor roles exist. All they do is watch and pa"
+        },
+        {
+          "timestamp": "02:36:00",
+          "excerpt": "out with his buddies and talks comic books. >> That's it. >> Did you mean to say anything else? >> Yeah. Yeah. Because Veto calls himself the talent. >> Yeah. That That was I'm sorry you didn't get the reference there, Stray Beans. >> No, I got it. I got it. [laughter] >> This is why you're a fourth chair. You're not even third chair. Carbon's better than your fifth chair. >> At least I'm not in a booster seat. >> I'm getting kind of big and I ha"
+        },
+        {
+          "timestamp": "02:48:00",
+          "excerpt": "ingrained in the culture of uh the Japanese people since ancient times. As you can see from this old drawing of a samurai lady being raped by a octopus during the 13th century. He wouldn't say rape. That's far too low class. violent. [laughter] >> Bravo. >> The tentacles are an allegory for the state invading the privacy of its citizens. >> Yeah. Just like Godzilla represents the atomic bomb, these tentacles represent the hands of the u"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Cecil",
+      "mentions": 4,
+      "block_count": 1,
+      "first_timestamp": "02:24:01",
+      "last_timestamp": "02:36:03",
+      "discussion_span_seconds": 722.3,
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.875,
+        "positive_hits": 45,
+        "negative_hits": 3
+      },
+      "receipts": [
+        {
+          "timestamp": "02:24:01",
+          "excerpt": "-hosts and according to your logic do nothing. >> They do nothing. Yeah. Especially Ruby. Yeah. Well, you stole his channel. >> That's not true. Their presence makes him feel big about himself. >> Uh, don't forget about Cecil says over on Fun My Comic. People are complaining about him scamming me, too. >> Are they? >> Oh, been a while for that campaign, too. Yeah, I'm all for going and digging into that on account of the fact that he called"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Trashcast",
+      "mentions": 4,
+      "block_count": 2,
+      "first_timestamp": "36:00",
+      "last_timestamp": "01:24:02",
+      "discussion_span_seconds": 2881.8,
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.672,
+        "positive_hits": 107,
+        "negative_hits": 21
+      },
+      "receipts": [
+        {
+          "timestamp": "36:00",
+          "excerpt": "bit of an audience in relation to this. So, I cannot confirm this. Okay. I don't know because it was just a clip that was sent to me. It was either by Angela or someone else. can't remember um was sent to me today from Trashcast short little video saying that uh in it Ethan is talking about me claiming that there were international drones sent to my house um and debunking that claim. Uh I've never claimed that drones were sent to my house from"
+        },
+        {
+          "timestamp": "01:12:00",
+          "excerpt": "tried to reframe everything that we were the violent ones. >> Yeah. >> Yep. >> Um the Katie thing again because Synynic uh told Katie Ethan, do you want to know why Trashcast stopped happening? Because Katie stopped clipping Eric July. Why did Katie stop clipping Eric July? Oh, that's right. because Synynic convinced her that Air July was boring and that she should clip uh CG drama instead."
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Fencegate",
+      "mentions": 2,
+      "block_count": 2,
+      "first_timestamp": "24:00",
+      "last_timestamp": "01:12:02",
+      "discussion_span_seconds": 2882.5,
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.798,
+        "positive_hits": 80,
+        "negative_hits": 9
+      },
+      "receipts": [
+        {
+          "timestamp": "24:00",
+          "excerpt": ">> this is the tweet that says, \"Hey guys.\" Hey guys, uh I'm sorry for uh catfishing. Uh Preston Moore is not a girl. Preston Moore is a boy. Is a man >> picture. Y >> I use someone's picture to create it. That's what that tweet is. >> No. Well, so much for that. >> Liam, you remember Preston Moore, right? >> I almost didn't make it. What? Preston Moore? No. Who's Preston Moore? >> Well, Preston Moore was a chick, quote unquote, that wa"
+        },
+        {
+          "timestamp": "01:00:00",
+          "excerpt": "What else we got? Mike, you should have put some music to this. You should have put like in the arms of an angel. >> Look how tall he is, guys. That's the fence. It might be hard to see for you guys, but that's the fence line right there. And that's Ruby's head. >> Can you zoom in? Can you >> Can I zoom in? It's a video. >> What a pity. They were using fence lines to measure me. So, this seems like some sort of comic justice. >> But yea"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Nerdrotic",
+      "mentions": 2,
+      "block_count": 1,
+      "first_timestamp": "03:00:00",
+      "last_timestamp": "03:12:03",
+      "discussion_span_seconds": 723.3,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.957,
+        "positive_hits": 91,
+        "negative_hits": 2
+      },
+      "receipts": [
+        {
+          "timestamp": "03:00:00",
+          "excerpt": ">> I do not always go to hentai but when I do it's loi right that's what he says [laughter] >> wow Um, so, uh, I don't think I have a go-to YouTuber, right? Because for me, like I subscribe to a bunch of channels and then like every day I just go to like my subscription fee and like anyone that you know puts out a video, >> whatever you want. Yeah. >> Yeah. >> Same. >> But so there's not like a go-to and favorite. It's the same thing li"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Yellow Flash",
+      "mentions": 2,
+      "block_count": 2,
+      "first_timestamp": "01:24:00",
+      "last_timestamp": "03:12:03",
+      "discussion_span_seconds": 6482.6,
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.975,
+        "positive_hits": 159,
+        "negative_hits": 2
+      },
+      "receipts": [
+        {
+          "timestamp": "01:24:00",
+          "excerpt": "S convinced himself that retards are attracted to him. It seems he just chooses to keep them around. It's time to go with the opposite of your instincts, EBS. >> Remember what? No, no, no, no, no, no, no. Go back to the Yellow Flash files. Remember what he said about Yellow Flash? >> He was a [ __ ] but he was our [ __ ] He said that >> was saying crowdfunding. Seriously? >> Yeah. You're making yourself look even worse soon. >> Am I? >> Yeah. Provi"
+        },
+        {
+          "timestamp": "03:00:00",
+          "excerpt": "g to be able to like hang out with the guy. I thought they'd have like Chad and everything there as well, you know, and Chad and Sam and stuff and I was so excited. But uh but then like not even a month later, there was Yellow Flash. like as soon as I did that video was in the chat and then a month later is on the panel and I was blocked from the chat and couldn't super chat even though I hadn't said or done anything. So I lost my community guys. I"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "DarkGift Comics",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "02:36:00",
+      "last_timestamp": "02:48:02",
+      "discussion_span_seconds": 722.6,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.658,
+        "positive_hits": 63,
+        "negative_hits": 13
+      },
+      "receipts": [
+        {
+          "timestamp": "02:36:00",
+          "excerpt": "not How do you raise $91,000 and not produce a [ __ ] comic? >> I can see you barely. >> Hold on. Hold on. Like the guys that are raising like $4,000. Uh you could be like, \"Oh, they didn't raise any money.\" BUT THEY STILL PUT OUT A [ __ ] COMIC, RIGHT? I don't like Dark Gift. I think he's a piece of [ __ ] Uh but he still, you know, he raises like a thousand bucks and goes, \"Here you go. Here's your shitty comic.\" Right? Except for Hun"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Little Movie Perp",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "02:48:00",
+      "last_timestamp": "03:00:02",
+      "discussion_span_seconds": 722.0,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.826,
+        "positive_hits": 63,
+        "negative_hits": 6
+      },
+      "receipts": [
+        {
+          "timestamp": "02:48:00",
+          "excerpt": "gist of it. >> Yeah, I think so, too, because I want to get to the uh ask us anything questions. >> Yeah, we gota do that. I forgot. >> And then uh I'm gonna take my drunk ass home. >> Take it home, daddy. >> Uh oh. Uh, little movie perp uh from San Quinton says, \"Favorite War Girls of Edo song or member or moment or whatever you think is cool or can be cool about them. It can't be whatever.\" Question for the whole panel. >> Oh, straight away I have an"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Shane Davis",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "01:48:01",
+      "last_timestamp": "02:00:02",
+      "discussion_span_seconds": 720.7,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.294,
+        "positive_hits": 33,
+        "negative_hits": 18
+      },
+      "receipts": [
+        {
+          "timestamp": "01:48:01",
+          "excerpt": "remember when nobody knew who I swear the [ __ ] up >> you guys. >> You going to let you You're constantly complaining about people not letting you finish and won't let me get a [ __ ] word out. >> I remember either. >> I swear to [ __ ] God, TJ. Shut the [ __ ] up. Let me finish. I was here doing my own thing. I didn't go into comics chats. I wasn't [ __ ] in in Shane's chat. I wasn't in Ethan's chat. I wasn't in mailing chat. I wasn't"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Sturgis",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "02:12:00",
+      "last_timestamp": "02:24:02",
+      "discussion_span_seconds": 721.8,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.719,
+        "positive_hits": 55,
+        "negative_hits": 9
+      },
+      "receipts": [
+        {
+          "timestamp": "02:12:00",
+          "excerpt": "in. Carbon has been around. He backs things. Who cares if he has a channel or not? Uh, his importance isn't dictated on whether or not he has a channel with a bunch of subscribers. Right. >> All right. >> Yeah. Sturgeis Sturgis logic. >> I actually read them. >> Where do you do this? Great commentary and review. >> Where where do you Does it matter where he does it? Like again, this is uh Synynic is [ __ ] on small craters. Katie, where are yo"
+        }
+      ],
+      "appearance_status": "uncertain"
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "11:59",
+      "title": "Frog Tony",
+      "entities": [
+        "Frog Tony"
+      ],
+      "summary_seed": "[laughter] Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. [laughter] Yeah. Represent. [music] [screaming] >> Yeah. Time for another village [music] speech, y'all. Tumble [music] out of bed and you stumble to the string. Pour yourself a cup of hate for yawn and stretch and roll yourself a spliff. You never read a comic. Hey, what's the diff [music] without your home monitor and how could we survive with folks like you drinking f",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "12:00",
+      "end": "24:01",
+      "title": "Liam Gray",
+      "entities": [
+        "Liam Gray"
+      ],
+      "summary_seed": "Uh, not like the [ __ ] on this chat. We don't got to be professional. We ain't got [ __ ] to worry about. >> Whoa, the end bomb's coming out already. Damn. >> Oh my lord. $50 super chat. >> 50 BUCKS. DJ, HIT THE MUSIC. >> I love that little Finnbar. We We got to We got to definitely animate some silly [ __ ] with the uh with the guys. All right, I'm gonna do this last shot. Uh, I'm going to take Lifted Monster chat",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    },
+    {
+      "start": "24:00",
+      "end": "36:03",
+      "title": "Liam Gray / ComicsGate / Fencegate",
+      "entities": [
+        "Liam Gray",
+        "ComicsGate",
+        "Fencegate"
+      ],
+      "summary_seed": ">> this is the tweet that says, \"Hey guys.\" Hey guys, uh I'm sorry for uh catfishing. Uh Preston Moore is not a girl. Preston Moore is a boy. Is a man >> picture. Y >> I use someone's picture to create it. That's what that tweet is. >> No. Well, so much for that. >> Liam, you remember Preston Moore, right? >> I almost didn't make it. What? Preston Moore? No. Who's Preston Moore? >> Well, Preston Moore was a chick, qu",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "36:00",
+      "end": "48:02",
+      "title": "Ethan Van Sciver / Frog Tony / Liam Gray",
+      "entities": [
+        "Ethan Van Sciver",
+        "Frog Tony",
+        "Liam Gray",
+        "Trashcast"
+      ],
+      "summary_seed": "space or even prox in close proximity to it and ever ever date anyone called Preston because I immediately think of Preston Palter and his wife and become uncomfortable immediately that's what goes to my mind so like how do you >> doesn't know any better you know >> maybe that's what it I I I mean when when I encountered Preston, I immediately thought it was a was a man because of the name, right? And then >> last ni",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "48:00",
+      "end": "59:59",
+      "title": "Liam Gray / Frog Tony",
+      "entities": [
+        "Liam Gray",
+        "Frog Tony"
+      ],
+      "summary_seed": "ever made. Right. Exactly. >> I mean, literally, I've uh I think in the DMs, I'm telling her like, \"Yeah, I don't want a relationship. I'm not looking for a girlfriend. I'm not looking to be your [ __ ] boyfriend.\" Right? It's cool to [ __ ] flirt with you. It's cool to [ __ ] be cool and talk and whatever. Uh but there was never a hint of me trying to have a relationship with this person. But they have to invent the",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "01:00:00",
+      "end": "01:12:02",
+      "title": "Liam Gray / ComicsGate / Fencegate",
+      "entities": [
+        "Liam Gray",
+        "ComicsGate",
+        "Fencegate"
+      ],
+      "summary_seed": "What else we got? Mike, you should have put some music to this. You should have put like in the arms of an angel. >> Look how tall he is, guys. That's the fence. It might be hard to see for you guys, but that's the fence line right there. And that's Ruby's head. >> Can you zoom in? Can you >> Can I zoom in? It's a video. >> What a pity. They were using fence lines to measure me. So, this seems like some sort of comic",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "01:12:00",
+      "end": "01:24:02",
+      "title": "Eric July / Liam Gray / Trashcast",
+      "entities": [
+        "Eric July",
+        "Liam Gray",
+        "Trashcast"
+      ],
+      "summary_seed": "tried to reframe everything that we were the violent ones. >> Yeah. >> Yep. >> Um the Katie thing again because Synynic uh told Katie Ethan, do you want to know why Trashcast stopped happening? Because Katie stopped clipping Eric July. Why did Katie stop clipping Eric July? Oh, that's right. because Synynic convinced her that Air July was boring and that she should clip uh CG drama instead. CG drama is what's going t",
+      "clip_likelihood": false,
+      "transition_markers": 3
+    },
+    {
+      "start": "01:24:00",
+      "end": "01:36:00",
+      "title": "Clip/reaction: ComicsGate / Eric July / Stray Beans",
+      "entities": [
+        "ComicsGate",
+        "Eric July",
+        "Stray Beans",
+        "Yellow Flash"
+      ],
+      "summary_seed": "dwarf.\" >> Yep. >> What's up, Finn? Finn, thanks for having me back on. >> Oh, lord. Here we go. >> Let's go. [laughter] Let's go. the real tough uh five five foot two guy who decided to come on >> after I left the stream decided to come on >> man you know what's funny like the dwarf will say oh why is Tony always talking over people Tony doesn't let me talk and that's what Tony's a spur but now he's making he's not",
+      "clip_likelihood": true,
+      "transition_markers": 0
+    },
+    {
+      "start": "01:36:00",
+      "end": "01:48:05",
+      "title": "ComicsGate / Stray Beans",
+      "entities": [
+        "ComicsGate",
+        "Stray Beans"
+      ],
+      "summary_seed": "[laughter] >> Well, because again, he's he's trying to put uh he's trying to put Carbon down like you're a nobody. No one listens to you. You don't have a channel. Uh why do you think that you're important? Why do you think that your voice matters, >> S? Okay, hold on. Hold on. >> Cynic thinks that having a channel or having numbers is how your importance in comics gate is dictated. Like, oh, you don't have a channel",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "01:48:01",
+      "end": "02:00:02",
+      "title": "ComicsGate / Stray Beans / Shane Davis",
+      "entities": [
+        "ComicsGate",
+        "Stray Beans",
+        "Shane Davis"
+      ],
+      "summary_seed": "remember when nobody knew who I swear the [ __ ] up >> you guys. >> You going to let you You're constantly complaining about people not letting you finish and won't let me get a [ __ ] word out. >> I remember either. >> I swear to [ __ ] God, TJ. Shut the [ __ ] up. Let me finish. I was here doing my own thing. I didn't go into comics chats. I wasn't [ __ ] in in Shane's chat. I wasn't in Ethan's chat. I wasn't in ma",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "02:00:00",
+      "end": "02:12:02",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": "said I'm a veteran, they go you're lying Liam because you said you're in the Army Reserves. So if you're not a veteran, that means you're not in the army reserves. Instead of just the obvious, Liam doesn't consider himself a veteran because he never was in active duty and he was just in the [ __ ] reserves. And they go, \"That's what they send China over.\" You know what I mean? Like get the koala guy in the [ __ ] >>",
+      "clip_likelihood": false,
+      "transition_markers": 2
+    },
+    {
+      "start": "02:12:00",
+      "end": "02:24:02",
+      "title": "ComicsGate / Sturgis",
+      "entities": [
+        "ComicsGate",
+        "Sturgis"
+      ],
+      "summary_seed": "everyone, but he's shown time and time again that he's not [ __ ] honest. Hey, >> I know. I know. It's just got to face facts. It's a problem in me. Move on. >> I mean, God bless you, Liam. Like, this guy is a piece of [ __ ] to you and you're still like, \"Well, I want to try to help him, support him in making comics.\" >> Yeah. Well, I mean, that's, you know, God's not going to judge me at the end of days for how I t",
+      "clip_likelihood": false,
+      "transition_markers": 3
+    },
+    {
+      "start": "02:24:01",
+      "end": "02:36:03",
+      "title": "Cecil / Cyberfrog / Stray Beans",
+      "entities": [
+        "Cecil",
+        "Cyberfrog",
+        "Stray Beans"
+      ],
+      "summary_seed": "going to be like five years later I'm still waiting on the [ __ ] book, right? >> You might get something drawn by Bart Sears at least. You know there. So there's that. >> I don't Again, uh you It's not like he's lying to you about what he's giving you. He's not like, \"Hey, this is the other artist.\" And he tricks you. He's like, \"Oh, it's actually someone else.\" Again, his books are shitty. The stories suck. Uh the",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    },
+    {
+      "start": "02:36:00",
+      "end": "02:48:02",
+      "title": "Stray Beans / DarkGift Comics",
+      "entities": [
+        "Stray Beans",
+        "DarkGift Comics"
+      ],
+      "summary_seed": "not How do you raise $91,000 and not produce a [ __ ] comic? >> I can see you barely. >> Hold on. Hold on. Like the guys that are raising like $4,000. Uh you could be like, \"Oh, they didn't raise any money.\" BUT THEY STILL PUT OUT A [ __ ] COMIC, RIGHT? I don't like Dark Gift. I think he's a piece of [ __ ] Uh but he still, you know, he raises like a thousand bucks and goes, \"Here you go. Here's your shitty comic.\" R",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "02:48:00",
+      "end": "03:00:02",
+      "title": "Stray Beans / Little Movie Perp",
+      "entities": [
+        "Stray Beans",
+        "Little Movie Perp"
+      ],
+      "summary_seed": "ingrained in the culture of uh the Japanese people since ancient times. As you can see from this old drawing of a samurai lady being raped by a octopus during the 13th century. He wouldn't say rape. That's far too low class. violent. [laughter] >> Bravo. >> The tentacles are an allegory for the state invading the privacy of its citizens. >> Yeah. Just like Godzilla represents the atomic bomb, these tentacles represen",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "03:00:00",
+      "end": "03:12:03",
+      "title": "Nerdrotic / Yellow Flash",
+      "entities": [
+        "Nerdrotic",
+        "Yellow Flash"
+      ],
+      "summary_seed": ">> I do not always go to hentai but when I do it's loi right that's what he says [laughter] >> wow Um, so, uh, I don't think I have a go-to YouTuber, right? Because for me, like I subscribe to a bunch of channels and then like every day I just go to like my subscription fee and like anyone that you know puts out a video, >> whatever you want. Yeah. >> Yeah. >> Same. >> But so there's not like a go-to and favorite. It",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    },
+    {
+      "start": "03:12:00",
+      "end": "03:24:01",
+      "title": "Cyberfrog",
+      "entities": [
+        "Cyberfrog"
+      ],
+      "summary_seed": "[ __ ] Bruce does some [ __ ] and then we get like Venom symbiate Batman running around like black costume Spider-Man, you know, like as an homage to Secret Wars. And then I would have the symbiot removed from Venom, removed from Batman and pumped into the veins of Bane in a >> No, no, Batman's got to get the antivenenom. So, he's like in a white suit and he's like, \"I don't like this. Why am I so happy?\" [laughter]",
+      "clip_likelihood": false,
+      "transition_markers": 2
+    },
+    {
+      "start": "03:24:02",
+      "end": "03:36:04",
+      "title": "Cyberfrog",
+      "entities": [
+        "Cyberfrog"
+      ],
+      "summary_seed": "Why can I not open this in a new tab? There we go. Share this instead. Seasons launching soon. One through three fall 150 page. What is seasons about? The hit supernatural series is back. Fletcher is a new man with old wounds. Will he find healing in his darkest days to come? This is a Nandor Fox Schaefer joint. Why does that name sound familiar? >> Perhaps you've heard it before. >> Perhaps I have, but I'm trying to",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    },
+    {
+      "start": "03:36:01",
+      "end": "03:48:02",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": "[laughter] of the greatest nation. >> This is our Independence Day. >> It's 250. It's square. It's the square flat 250 this year. >> Yep. >> Yeah. If you should buy [ __ ] a memorial coin or some [ __ ] like if they got anything like you know we should buy we should buy a coin >> that's like imagine like a coin like it's 99% silver and then like it's stamped with like a picture of like a frog like a cybernetic frog a",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    },
+    {
+      "start": "03:48:00",
+      "end": "03:49:12",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": "JCW. And apparently there's 50 candidates for the baby daddy. Woohoo. >> What? What? Baby daddy? What? I'm Wait a minute. What? >> Oh, yeah. That's right. You weren't here last week, Liam. >> Yeah, I just zoned out. I was just in my own little world. I was about like, what? What? Baby daddy. >> So, >> it's not mine. >> Jasmine St. Claire, the adult film actress who's also a wrestling um manager. She came back to JCW",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    }
+  ],
+  "claim_candidates": [
+    {
+      "claimant": "all the things he",
+      "claim": "about [singing] [music]",
+      "timestamp": "12:00",
+      "status": "candidate_claim",
+      "receipt": "I'm shocked that he's singing with black people considering, you know, all the things he said about [singing] [music]"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that's the name of the song.",
+      "timestamp": "12:00",
+      "status": "opinion_or_inference",
+      "receipt": "I believe that's the name of the song."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that means get drunk and",
+      "timestamp": "12:00",
+      "status": "opinion_or_inference",
+      "receipt": "He says, \"Asante for $10.\" I think that means get drunk and"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "you guys don't like pirating and [ __ ] but um I discovered somebody made a PC port to Mega Man [ __ ] Legends.",
+      "timestamp": "12:00",
+      "status": "candidate_claim",
+      "receipt": "I know you guys don't like pirating and [ __ ] but um I discovered somebody made a PC port to Mega Man [ __ ] Legends."
+    },
+    {
+      "claimant": "and I've",
+      "claim": "this before, but kind of bears repeating.",
+      "timestamp": "12:00",
+      "status": "candidate_claim",
+      "receipt": "Uh, just do something out left field.\" I always thought, and I've said this before, but kind of bears repeating."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "they had stopped at like Mega Man 7 or eight, right?",
+      "timestamp": "12:00",
+      "status": "opinion_or_inference",
+      "receipt": "I always thought it would have been cool because when Mega Man X had came out, I think they had stopped at like Mega Man 7 or eight, right?"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "people were at the time they didn't go through with it because everyone was like, \"Ah, dark and gritty remake.",
+      "timestamp": "12:00",
+      "status": "candidate_claim",
+      "receipt": "I know people were at the time they didn't go through with it because everyone was like, \"Ah, dark and gritty remake."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "we should just get right into the catfishing.",
+      "timestamp": "12:00",
+      "status": "opinion_or_inference",
+      "receipt": "So, I think we should just get right into the catfishing."
+    },
+    {
+      "claimant": "I I think she",
+      "claim": "dude guy maybe I don't remember the exact",
+      "timestamp": "24:00",
+      "status": "opinion_or_inference",
+      "receipt": "I'm a man.\" I I think she said dude guy maybe I don't remember the exact"
+    },
+    {
+      "claimant": "t no one took a screenshot so uh they",
+      "claim": "you know and it'd be real easy if I could just go to the account but share this tab instead this account doesn't exist guys",
+      "timestamp": "24:00",
+      "status": "candidate_claim",
+      "receipt": "that's I didn't no one took a screenshot so uh they said you know and it'd be real easy if I could just go to the account but share this tab instead this account doesn't exist guys"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "he me bygones.",
+      "timestamp": "24:00",
+      "status": "opinion_or_inference",
+      "receipt": "Let bygones.\" I think he me bygones."
+    },
+    {
+      "claimant": "his account and drop the DM to prove his",
+      "claim": "that there was no",
+      "timestamp": "24:00",
+      "status": "candidate_claim",
+      "receipt": "B can't even restore his account and drop the DM to prove his claims that there was no"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "uh I think Mike might have deleted it because basically uh Mike had responded to Booker telling him uh if that's you, prove it's to delete that tweet, you know, log back into the Preston account and delete it.",
+      "timestamp": "24:00",
+      "status": "opinion_or_inference",
+      "receipt": "Uh, and that's why I was looking for that tweet from Mike Wheeler because Mike Wheeler uh made a tweet, but I think uh I think Mike might have deleted it because basically uh Mike had responded to Booker telling him uh if that's you, prove it's to delete that tweet, you know, log back into the Preston account and delete it."
+    },
+    {
+      "claimant": "there was a tweet where Mike basically",
+      "claim": "uh that's not you, right?",
+      "timestamp": "24:00",
+      "status": "candidate_claim",
+      "receipt": "But like I said, there was a tweet where Mike basically said uh that's not you, right?"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "maybe here's what I think.",
+      "timestamp": "24:00",
+      "status": "opinion_or_inference",
+      "receipt": "Well, I think maybe here's what I think."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "the the last part is only available because the other one was like it's just Booker saying, \"Ask and you shall receive.\" That's it.",
+      "timestamp": "36:00",
+      "status": "opinion_or_inference",
+      "receipt": "Yeah, I think the the last part is only available because the other one was like it's just Booker saying, \"Ask and you shall receive.\" That's it."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "is here's the funniest part.",
+      "timestamp": "36:00",
+      "status": "candidate_claim",
+      "receipt": "All I know is here's the funniest part."
+    },
+    {
+      "claimant": "Larry later on",
+      "claim": "it wasn't him.",
+      "timestamp": "36:00",
+      "status": "candidate_claim",
+      "receipt": "Larry later on claimed it wasn't him."
+    },
+    {
+      "claimant": "So this",
+      "claim": "that that information is correct.",
+      "timestamp": "36:00",
+      "status": "candidate_claim",
+      "receipt": "So this confirms that that information is correct."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "maybe Synynic had a filter on to like make him look less dwarfish.",
+      "timestamp": "36:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think maybe Synynic had a filter on to like make him look less dwarfish."
+    },
+    {
+      "claimant": "probably",
+      "claim": "Mike supported you.",
+      "timestamp": "36:00",
+      "status": "candidate_claim",
+      "receipt": "probably says Mike supported you."
+    },
+    {
+      "claimant": "This dwarf",
+      "claim": "[ __ ] dwarf is getting catfished by a dude.",
+      "timestamp": "36:00",
+      "status": "candidate_claim",
+      "receipt": "Tony Tony uh talked to some Only Fans [ __ ] This dwarf confirmed [ __ ] dwarf is getting catfished by a dude."
+    },
+    {
+      "claimant": "Uh I've never",
+      "claim": "that drones were sent to my house from the United States.",
+      "timestamp": "36:00",
+      "status": "candidate_claim",
+      "receipt": "Uh I've never claimed that drones were sent to my house from the United States."
+    },
+    {
+      "claimant": "Uh what I've",
+      "claim": "is there were people that were hired by from the United States, people that were here local who were hired by PayPal accounts in the USA through local Craigslist listings through a site called Gumree who then deployed drones that recorded footage of my underage daughter, my house, and you know, my property and in the windows of my property and my car and all this other stuff.",
+      "timestamp": "36:00",
+      "status": "candidate_claim",
+      "receipt": "Uh what I've claimed is there were people that were hired by from the United States, people that were here local who were hired by PayPal accounts in the USA through local Craigslist listings through a site called Gumree who then deployed drones that recorded footage of my underage daughter, my house, and you know, my property and in the windows of my property and my car and all this other stuff."
+    },
+    {
+      "claimant": "I never",
+      "claim": "at any point that drones were sent to my house controlled by the, you know, people in the US.",
+      "timestamp": "36:00",
+      "status": "candidate_claim",
+      "receipt": "I never claimed at any point that drones were sent to my house controlled by the, you know, people in the US."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "in the DMs, I'm telling her like, \"Yeah, I don't want a relationship.",
+      "timestamp": "48:00",
+      "status": "opinion_or_inference",
+      "receipt": "I mean, literally, I've uh I think in the DMs, I'm telling her like, \"Yeah, I don't want a relationship."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that's why he got the sword.",
+      "timestamp": "48:00",
+      "status": "opinion_or_inference",
+      "receipt": "So, I think that's why he got the sword."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "Synynic loves to guilt by association and go hey Tony one of your chatters might have uh accidentally uh looked at someone funny one time.",
+      "timestamp": "48:00",
+      "status": "candidate_claim",
+      "receipt": "Now I know Synynic loves to guilt by association and go hey Tony one of your chatters might have uh accidentally uh looked at someone funny one time."
+    },
+    {
+      "claimant": "Ruby is the one who",
+      "claim": "that all anime is CP.",
+      "timestamp": "48:00",
+      "status": "candidate_claim",
+      "receipt": "Ruby is the one who said that all anime is CP."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "they might be into far more darker [ __ ] than just like, you know, like me.",
+      "timestamp": "48:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think they might be into far more darker [ __ ] than just like, you know, like me."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "I think they might be and maybe not may not be best.",
+      "timestamp": "48:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think I think they might be and maybe not may not be best."
+    },
+    {
+      "claimant": "but Mike",
+      "claim": "that the person that is on Ruby's Facebook as his mother doesn't have the same last name.",
+      "timestamp": "48:00",
+      "status": "candidate_claim",
+      "receipt": "So, I can only take Mike's word for this, but Mike said that the person that is on Ruby's Facebook as his mother doesn't have the same last name."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "GO TO HELL AND TRY TO REFORM THINGS DOWN THERE because we're doing just fine up here without you.",
+      "timestamp": "01:00:00",
+      "status": "opinion_or_inference",
+      "receipt": "I THINK GO TO HELL AND TRY TO REFORM THINGS DOWN THERE because we're doing just fine up here without you."
+    },
+    {
+      "claimant": "going to I'm going to stream it since he",
+      "claim": "it's coming out today.",
+      "timestamp": "01:00:00",
+      "status": "candidate_claim",
+      "receipt": "Yeah, I'm going to I'm going to stream it since he confirmed it's coming out today."
+    },
+    {
+      "claimant": "He",
+      "claim": "he was going to appeal the judgment.",
+      "timestamp": "01:00:00",
+      "status": "candidate_claim",
+      "receipt": "He said he was going to appeal the judgment."
+    },
+    {
+      "claimant": "the judge",
+      "claim": "that that was transformative.\" Them literally doing nothing, making no commentary, no opinions, not saying anything, just letting the video essentially play on its own.",
+      "timestamp": "01:00:00",
+      "status": "candidate_claim",
+      "receipt": "I mean, obviously, but it is a weird blow for copyright to just say, \"Well, the judge said that that was transformative.\" Them literally doing nothing, making no commentary, no opinions, not saying anything, just letting the video essentially play on its own."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "Carbon Hart is a [ __ ] [ __ ] Uh, but apparently",
+      "timestamp": "01:00:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think Carbon Hart is a [ __ ] [ __ ] Uh, but apparently"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "a lot of us were the people supplying her with Eric July [ __ ] I know I was I was I was watching Eric July and sending her clips.",
+      "timestamp": "01:12:00",
+      "status": "opinion_or_inference",
+      "receipt": "And Tony, not not only that, I think a lot of us were the people supplying her with Eric July [ __ ] I know I was I was I was watching Eric July and sending her clips."
+    },
+    {
+      "claimant": "Ethan Van Skyver himself has",
+      "claim": "that people harass Liam.",
+      "timestamp": "01:12:00",
+      "status": "candidate_claim",
+      "receipt": "Ethan Van Skyver himself has said that people harass Liam."
+    },
+    {
+      "claimant": "storm happened also",
+      "claim": "when he was talking to Vaughn that he has seen people [ __ ] with uh Liam, right?",
+      "timestamp": "01:12:00",
+      "status": "candidate_claim",
+      "receipt": "Uh EBS before this [ __ ] storm happened also said when he was talking to Vaughn that he has seen people [ __ ] with uh Liam, right?"
+    },
+    {
+      "claimant": "He",
+      "claim": "that before uh the tide turned on Liam.",
+      "timestamp": "01:12:00",
+      "status": "candidate_claim",
+      "receipt": "He said that before uh the tide turned on Liam."
+    },
+    {
+      "claimant": "So he",
+      "claim": "that and another thing and I want you people to think about this.",
+      "timestamp": "01:12:00",
+      "status": "candidate_claim",
+      "receipt": "So he said that and another thing and I want you people to think about this."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "there's stuff that like you guys have seen about what's going on that other people haven't and I appreciate you having the courage to sort of say something for me.",
+      "timestamp": "01:12:00",
+      "status": "candidate_claim",
+      "receipt": "Um, I know there's stuff that like you guys have seen about what's going on that other people haven't and I appreciate you having the courage to sort of say something for me."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "is a Kiwi farmer.",
+      "timestamp": "01:12:00",
+      "status": "opinion_or_inference",
+      "receipt": "This is Cornbread Man, which I think is a Kiwi farmer."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "is Cornbread Man the one that had the um in that one clip where it was basically uh the chick's tits were out in the risy clip.",
+      "timestamp": "01:12:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think is Cornbread Man the one that had the um in that one clip where it was basically uh the chick's tits were out in the risy clip."
+    },
+    {
+      "claimant": "he he's really mad that Carbon",
+      "claim": "that Eric July is uh [ __ ] up crowdfunding, right?",
+      "timestamp": "01:12:00",
+      "status": "candidate_claim",
+      "receipt": "So, as you can see, he he's really mad that Carbon said that Eric July is uh [ __ ] up crowdfunding, right?"
+    },
+    {
+      "claimant": "you",
+      "claim": "this in the past.",
+      "timestamp": "01:12:00",
+      "status": "candidate_claim",
+      "receipt": "Carbon, you said this in the past."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "there's more to it than that.",
+      "timestamp": "01:12:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think there's more to it than that."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "he has to defend Eric July because in his chat there's people like Enlightened Fan.",
+      "timestamp": "01:12:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think he has to defend Eric July because in his chat there's people like Enlightened Fan."
+    }
+  ],
+  "quote_candidates": [
+    {
+      "timestamp": "02:00:00",
+      "text": "Why is that always like this threat?",
+      "significance_score": 3
+    },
+    {
+      "timestamp": "12:00",
+      "text": "You You were having a little trouble, a little internet issues last night.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "24:00",
+      "text": "Did Did my strike wars get overshadowed by a porn war?",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "01:00:00",
+      "text": "He also threatened to fight me 90s.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "01:00:00",
+      "text": "Because Synynic was running his mouth, threatening to beat people up and I called him on his [ __ ] and then him and his buddies",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "01:12:00",
+      "text": "He laughed about how funny Operation Quicksand was [ __ ] with Liam, threatening Liam and his family.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "01:12:00",
+      "text": "So, Cornbread Man in the clip, we couldn't play the clip of Risy threatening Liam because in the clip, Cornbread Man's playing some weird porn hentai game",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "01:48:01",
+      "text": "You might not consider yourself I think that's the issue, and I said this as much, right?",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "02:12:00",
+      "text": "Well, God said, uh, and you know, I'm not even say they'll just they'll claim as a threat.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "02:36:00",
+      "text": "You got [ __ ] just blown out by Chris Stanley and my boy cuz all you wanted to do was hammer Eric July for two hours and you threatened to fight the guy.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "02:48:00",
+      "text": "He's not going to strike you, is he?",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "03:24:02",
+      "text": "I think part of the issue for me is even in the exposition at the beginning, the first 21 pages of Blood Honey, like they don't you don't find out who [ __ ] Rumblebee and Pollinate are, right?",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "03:24:02",
+      "text": "That's that's a [ __ ] great idea for an issue.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "03:24:02",
+      "text": "so as you're sort of going through the years of the issue or whatever you know you're like oh [ __ ] you know like that's really",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "03:24:02",
+      "text": "He in later issues there are translations.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "03:24:02",
+      "text": "There because he gets the in in the other issue uh when he hooks back up to Chelsea or whatever, he gets the uh translator, right?",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "00:00",
+      "text": "It's the off imitated never duplicated.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "12:00",
+      "text": "Uh, just do something out left field.\" I always thought, and I've said this before, but kind of bears repeating.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "12:00",
+      "text": "I always thought it would have been cool because when Mega Man X had came out, I think they had stopped at like Mega Man 7 or eight, right?",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "12:00",
+      "text": "And I was always like, man, they should do like a Mega Man 9 and then end it with like Mega Man being put in the capsule or whatever.",
+      "significance_score": 1
+    }
+  ],
+  "relationship_signals": [
+    {
+      "left": "Liam Gray",
+      "right": "ComicsGate",
+      "signal_type": "legal_conflict",
+      "timestamp": "24:00",
+      "confidence": 0.45,
+      "receipt": ">> this is the tweet that says, \"Hey guys.\" Hey guys, uh I'm sorry for uh catfishing. Uh Preston Moore is not a girl. Preston Moore is a boy. Is a man >> picture. Y >> I use someone's picture to create it. That's what that tweet is. >> No. Well, so much for that. >> Liam, you remember Preston Moore, right? >> I almost didn't make it. What? Preston Moore? No. Who's Preston Moore? >> Well, Preston Moore was a chick, quote unquote, that wa",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Fencegate",
+      "signal_type": "legal_conflict",
+      "timestamp": "24:00",
+      "confidence": 0.45,
+      "receipt": ">> this is the tweet that says, \"Hey guys.\" Hey guys, uh I'm sorry for uh catfishing. Uh Preston Moore is not a girl. Preston Moore is a boy. Is a man >> picture. Y >> I use someone's picture to create it. That's what that tweet is. >> No. Well, so much for that. >> Liam, you remember Preston Moore, right? >> I almost didn't make it. What? Preston Moore? No. Who's Preston Moore? >> Well, Preston Moore was a chick, quote unquote, that wa",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "ComicsGate",
+      "right": "Fencegate",
+      "signal_type": "legal_conflict",
+      "timestamp": "24:00",
+      "confidence": 0.45,
+      "receipt": ">> this is the tweet that says, \"Hey guys.\" Hey guys, uh I'm sorry for uh catfishing. Uh Preston Moore is not a girl. Preston Moore is a boy. Is a man >> picture. Y >> I use someone's picture to create it. That's what that tweet is. >> No. Well, so much for that. >> Liam, you remember Preston Moore, right? >> I almost didn't make it. What? Preston Moore? No. Who's Preston Moore? >> Well, Preston Moore was a chick, quote unquote, that wa",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "ComicsGate",
+      "signal_type": "friendship_claim",
+      "timestamp": "24:00",
+      "confidence": 0.45,
+      "receipt": ">> this is the tweet that says, \"Hey guys.\" Hey guys, uh I'm sorry for uh catfishing. Uh Preston Moore is not a girl. Preston Moore is a boy. Is a man >> picture. Y >> I use someone's picture to create it. That's what that tweet is. >> No. Well, so much for that. >> Liam, you remember Preston Moore, right? >> I almost didn't make it. What? Preston Moore? No. Who's Preston Moore? >> Well, Preston Moore was a chick, quote unquote, that wa",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Fencegate",
+      "signal_type": "friendship_claim",
+      "timestamp": "24:00",
+      "confidence": 0.45,
+      "receipt": ">> this is the tweet that says, \"Hey guys.\" Hey guys, uh I'm sorry for uh catfishing. Uh Preston Moore is not a girl. Preston Moore is a boy. Is a man >> picture. Y >> I use someone's picture to create it. That's what that tweet is. >> No. Well, so much for that. >> Liam, you remember Preston Moore, right? >> I almost didn't make it. What? Preston Moore? No. Who's Preston Moore? >> Well, Preston Moore was a chick, quote unquote, that wa",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "ComicsGate",
+      "right": "Fencegate",
+      "signal_type": "friendship_claim",
+      "timestamp": "24:00",
+      "confidence": 0.45,
+      "receipt": ">> this is the tweet that says, \"Hey guys.\" Hey guys, uh I'm sorry for uh catfishing. Uh Preston Moore is not a girl. Preston Moore is a boy. Is a man >> picture. Y >> I use someone's picture to create it. That's what that tweet is. >> No. Well, so much for that. >> Liam, you remember Preston Moore, right? >> I almost didn't make it. What? Preston Moore? No. Who's Preston Moore? >> Well, Preston Moore was a chick, quote unquote, that wa",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Frog Tony",
+      "signal_type": "defended",
+      "timestamp": "36:00",
+      "confidence": 0.45,
+      "receipt": "space or even prox in close proximity to it and ever ever date anyone called Preston because I immediately think of Preston Palter and his wife and become uncomfortable immediately that's what goes to my mind so like how do you >> doesn't know any better you know >> maybe that's what it I I I mean when when I encountered Preston, I immediately thought it was a was a man because of the name, right? And then >> last night, man. >> And the",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Ethan Van Sciver",
+      "signal_type": "defended",
+      "timestamp": "36:00",
+      "confidence": 0.45,
+      "receipt": "space or even prox in close proximity to it and ever ever date anyone called Preston because I immediately think of Preston Palter and his wife and become uncomfortable immediately that's what goes to my mind so like how do you >> doesn't know any better you know >> maybe that's what it I I I mean when when I encountered Preston, I immediately thought it was a was a man because of the name, right? And then >> last night, man. >> And the",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Trashcast",
+      "signal_type": "defended",
+      "timestamp": "36:00",
+      "confidence": 0.45,
+      "receipt": "space or even prox in close proximity to it and ever ever date anyone called Preston because I immediately think of Preston Palter and his wife and become uncomfortable immediately that's what goes to my mind so like how do you >> doesn't know any better you know >> maybe that's what it I I I mean when when I encountered Preston, I immediately thought it was a was a man because of the name, right? And then >> last night, man. >> And the",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Ethan Van Sciver",
+      "signal_type": "defended",
+      "timestamp": "36:00",
+      "confidence": 0.45,
+      "receipt": "space or even prox in close proximity to it and ever ever date anyone called Preston because I immediately think of Preston Palter and his wife and become uncomfortable immediately that's what goes to my mind so like how do you >> doesn't know any better you know >> maybe that's what it I I I mean when when I encountered Preston, I immediately thought it was a was a man because of the name, right? And then >> last night, man. >> And the",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Trashcast",
+      "signal_type": "defended",
+      "timestamp": "36:00",
+      "confidence": 0.45,
+      "receipt": "space or even prox in close proximity to it and ever ever date anyone called Preston because I immediately think of Preston Palter and his wife and become uncomfortable immediately that's what goes to my mind so like how do you >> doesn't know any better you know >> maybe that's what it I I I mean when when I encountered Preston, I immediately thought it was a was a man because of the name, right? And then >> last night, man. >> And the",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Trashcast",
+      "signal_type": "defended",
+      "timestamp": "36:00",
+      "confidence": 0.45,
+      "receipt": "space or even prox in close proximity to it and ever ever date anyone called Preston because I immediately think of Preston Palter and his wife and become uncomfortable immediately that's what goes to my mind so like how do you >> doesn't know any better you know >> maybe that's what it I I I mean when when I encountered Preston, I immediately thought it was a was a man because of the name, right? And then >> last night, man. >> And the",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Frog Tony",
+      "signal_type": "criticised",
+      "timestamp": "36:00",
+      "confidence": 0.45,
+      "receipt": "space or even prox in close proximity to it and ever ever date anyone called Preston because I immediately think of Preston Palter and his wife and become uncomfortable immediately that's what goes to my mind so like how do you >> doesn't know any better you know >> maybe that's what it I I I mean when when I encountered Preston, I immediately thought it was a was a man because of the name, right? And then >> last night, man. >> And the",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Ethan Van Sciver",
+      "signal_type": "criticised",
+      "timestamp": "36:00",
+      "confidence": 0.45,
+      "receipt": "space or even prox in close proximity to it and ever ever date anyone called Preston because I immediately think of Preston Palter and his wife and become uncomfortable immediately that's what goes to my mind so like how do you >> doesn't know any better you know >> maybe that's what it I I I mean when when I encountered Preston, I immediately thought it was a was a man because of the name, right? And then >> last night, man. >> And the",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Trashcast",
+      "signal_type": "criticised",
+      "timestamp": "36:00",
+      "confidence": 0.45,
+      "receipt": "space or even prox in close proximity to it and ever ever date anyone called Preston because I immediately think of Preston Palter and his wife and become uncomfortable immediately that's what goes to my mind so like how do you >> doesn't know any better you know >> maybe that's what it I I I mean when when I encountered Preston, I immediately thought it was a was a man because of the name, right? And then >> last night, man. >> And the",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Ethan Van Sciver",
+      "signal_type": "criticised",
+      "timestamp": "36:00",
+      "confidence": 0.45,
+      "receipt": "space or even prox in close proximity to it and ever ever date anyone called Preston because I immediately think of Preston Palter and his wife and become uncomfortable immediately that's what goes to my mind so like how do you >> doesn't know any better you know >> maybe that's what it I I I mean when when I encountered Preston, I immediately thought it was a was a man because of the name, right? And then >> last night, man. >> And the",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Trashcast",
+      "signal_type": "criticised",
+      "timestamp": "36:00",
+      "confidence": 0.45,
+      "receipt": "space or even prox in close proximity to it and ever ever date anyone called Preston because I immediately think of Preston Palter and his wife and become uncomfortable immediately that's what goes to my mind so like how do you >> doesn't know any better you know >> maybe that's what it I I I mean when when I encountered Preston, I immediately thought it was a was a man because of the name, right? And then >> last night, man. >> And the",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Trashcast",
+      "signal_type": "criticised",
+      "timestamp": "36:00",
+      "confidence": 0.45,
+      "receipt": "space or even prox in close proximity to it and ever ever date anyone called Preston because I immediately think of Preston Palter and his wife and become uncomfortable immediately that's what goes to my mind so like how do you >> doesn't know any better you know >> maybe that's what it I I I mean when when I encountered Preston, I immediately thought it was a was a man because of the name, right? And then >> last night, man. >> And the",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Frog Tony",
+      "signal_type": "friendship_claim",
+      "timestamp": "36:00",
+      "confidence": 0.45,
+      "receipt": "space or even prox in close proximity to it and ever ever date anyone called Preston because I immediately think of Preston Palter and his wife and become uncomfortable immediately that's what goes to my mind so like how do you >> doesn't know any better you know >> maybe that's what it I I I mean when when I encountered Preston, I immediately thought it was a was a man because of the name, right? And then >> last night, man. >> And the",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Ethan Van Sciver",
+      "signal_type": "friendship_claim",
+      "timestamp": "36:00",
+      "confidence": 0.45,
+      "receipt": "space or even prox in close proximity to it and ever ever date anyone called Preston because I immediately think of Preston Palter and his wife and become uncomfortable immediately that's what goes to my mind so like how do you >> doesn't know any better you know >> maybe that's what it I I I mean when when I encountered Preston, I immediately thought it was a was a man because of the name, right? And then >> last night, man. >> And the",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Trashcast",
+      "signal_type": "friendship_claim",
+      "timestamp": "36:00",
+      "confidence": 0.45,
+      "receipt": "space or even prox in close proximity to it and ever ever date anyone called Preston because I immediately think of Preston Palter and his wife and become uncomfortable immediately that's what goes to my mind so like how do you >> doesn't know any better you know >> maybe that's what it I I I mean when when I encountered Preston, I immediately thought it was a was a man because of the name, right? And then >> last night, man. >> And the",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Ethan Van Sciver",
+      "signal_type": "friendship_claim",
+      "timestamp": "36:00",
+      "confidence": 0.45,
+      "receipt": "space or even prox in close proximity to it and ever ever date anyone called Preston because I immediately think of Preston Palter and his wife and become uncomfortable immediately that's what goes to my mind so like how do you >> doesn't know any better you know >> maybe that's what it I I I mean when when I encountered Preston, I immediately thought it was a was a man because of the name, right? And then >> last night, man. >> And the",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Trashcast",
+      "signal_type": "friendship_claim",
+      "timestamp": "36:00",
+      "confidence": 0.45,
+      "receipt": "space or even prox in close proximity to it and ever ever date anyone called Preston because I immediately think of Preston Palter and his wife and become uncomfortable immediately that's what goes to my mind so like how do you >> doesn't know any better you know >> maybe that's what it I I I mean when when I encountered Preston, I immediately thought it was a was a man because of the name, right? And then >> last night, man. >> And the",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Trashcast",
+      "signal_type": "friendship_claim",
+      "timestamp": "36:00",
+      "confidence": 0.45,
+      "receipt": "space or even prox in close proximity to it and ever ever date anyone called Preston because I immediately think of Preston Palter and his wife and become uncomfortable immediately that's what goes to my mind so like how do you >> doesn't know any better you know >> maybe that's what it I I I mean when when I encountered Preston, I immediately thought it was a was a man because of the name, right? And then >> last night, man. >> And the",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Frog Tony",
+      "signal_type": "defended",
+      "timestamp": "48:00",
+      "confidence": 0.45,
+      "receipt": "ever made. Right. Exactly. >> I mean, literally, I've uh I think in the DMs, I'm telling her like, \"Yeah, I don't want a relationship. I'm not looking for a girlfriend. I'm not looking to be your [ __ ] boyfriend.\" Right? It's cool to [ __ ] flirt with you. It's cool to [ __ ] be cool and talk and whatever. Uh but there was never a hint of me trying to have a relationship with this person. But they have to invent these things, right? Th",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Frog Tony",
+      "signal_type": "criticised",
+      "timestamp": "48:00",
+      "confidence": 0.45,
+      "receipt": "ever made. Right. Exactly. >> I mean, literally, I've uh I think in the DMs, I'm telling her like, \"Yeah, I don't want a relationship. I'm not looking for a girlfriend. I'm not looking to be your [ __ ] boyfriend.\" Right? It's cool to [ __ ] flirt with you. It's cool to [ __ ] be cool and talk and whatever. Uh but there was never a hint of me trying to have a relationship with this person. But they have to invent these things, right? Th",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Frog Tony",
+      "signal_type": "friendship_claim",
+      "timestamp": "48:00",
+      "confidence": 0.45,
+      "receipt": "ever made. Right. Exactly. >> I mean, literally, I've uh I think in the DMs, I'm telling her like, \"Yeah, I don't want a relationship. I'm not looking for a girlfriend. I'm not looking to be your [ __ ] boyfriend.\" Right? It's cool to [ __ ] flirt with you. It's cool to [ __ ] be cool and talk and whatever. Uh but there was never a hint of me trying to have a relationship with this person. But they have to invent these things, right? Th",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "ComicsGate",
+      "signal_type": "criticised",
+      "timestamp": "01:00:00",
+      "confidence": 0.45,
+      "receipt": "What else we got? Mike, you should have put some music to this. You should have put like in the arms of an angel. >> Look how tall he is, guys. That's the fence. It might be hard to see for you guys, but that's the fence line right there. And that's Ruby's head. >> Can you zoom in? Can you >> Can I zoom in? It's a video. >> What a pity. They were using fence lines to measure me. So, this seems like some sort of comic justice. >> But yea",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Fencegate",
+      "signal_type": "criticised",
+      "timestamp": "01:00:00",
+      "confidence": 0.45,
+      "receipt": "What else we got? Mike, you should have put some music to this. You should have put like in the arms of an angel. >> Look how tall he is, guys. That's the fence. It might be hard to see for you guys, but that's the fence line right there. And that's Ruby's head. >> Can you zoom in? Can you >> Can I zoom in? It's a video. >> What a pity. They were using fence lines to measure me. So, this seems like some sort of comic justice. >> But yea",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "ComicsGate",
+      "right": "Fencegate",
+      "signal_type": "criticised",
+      "timestamp": "01:00:00",
+      "confidence": 0.45,
+      "receipt": "What else we got? Mike, you should have put some music to this. You should have put like in the arms of an angel. >> Look how tall he is, guys. That's the fence. It might be hard to see for you guys, but that's the fence line right there. And that's Ruby's head. >> Can you zoom in? Can you >> Can I zoom in? It's a video. >> What a pity. They were using fence lines to measure me. So, this seems like some sort of comic justice. >> But yea",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "ComicsGate",
+      "signal_type": "legal_conflict",
+      "timestamp": "01:00:00",
+      "confidence": 0.45,
+      "receipt": "What else we got? Mike, you should have put some music to this. You should have put like in the arms of an angel. >> Look how tall he is, guys. That's the fence. It might be hard to see for you guys, but that's the fence line right there. And that's Ruby's head. >> Can you zoom in? Can you >> Can I zoom in? It's a video. >> What a pity. They were using fence lines to measure me. So, this seems like some sort of comic justice. >> But yea",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Fencegate",
+      "signal_type": "legal_conflict",
+      "timestamp": "01:00:00",
+      "confidence": 0.45,
+      "receipt": "What else we got? Mike, you should have put some music to this. You should have put like in the arms of an angel. >> Look how tall he is, guys. That's the fence. It might be hard to see for you guys, but that's the fence line right there. And that's Ruby's head. >> Can you zoom in? Can you >> Can I zoom in? It's a video. >> What a pity. They were using fence lines to measure me. So, this seems like some sort of comic justice. >> But yea",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "ComicsGate",
+      "right": "Fencegate",
+      "signal_type": "legal_conflict",
+      "timestamp": "01:00:00",
+      "confidence": 0.45,
+      "receipt": "What else we got? Mike, you should have put some music to this. You should have put like in the arms of an angel. >> Look how tall he is, guys. That's the fence. It might be hard to see for you guys, but that's the fence line right there. And that's Ruby's head. >> Can you zoom in? Can you >> Can I zoom in? It's a video. >> What a pity. They were using fence lines to measure me. So, this seems like some sort of comic justice. >> But yea",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Eric July",
+      "signal_type": "defended",
+      "timestamp": "01:12:00",
+      "confidence": 0.45,
+      "receipt": "tried to reframe everything that we were the violent ones. >> Yeah. >> Yep. >> Um the Katie thing again because Synynic uh told Katie Ethan, do you want to know why Trashcast stopped happening? Because Katie stopped clipping Eric July. Why did Katie stop clipping Eric July? Oh, that's right. because Synynic convinced her that Air July was boring and that she should clip uh CG drama instead. CG drama is what's going to get you views, Kat",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Trashcast",
+      "signal_type": "defended",
+      "timestamp": "01:12:00",
+      "confidence": 0.45,
+      "receipt": "tried to reframe everything that we were the violent ones. >> Yeah. >> Yep. >> Um the Katie thing again because Synynic uh told Katie Ethan, do you want to know why Trashcast stopped happening? Because Katie stopped clipping Eric July. Why did Katie stop clipping Eric July? Oh, that's right. because Synynic convinced her that Air July was boring and that she should clip uh CG drama instead. CG drama is what's going to get you views, Kat",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Eric July",
+      "right": "Trashcast",
+      "signal_type": "defended",
+      "timestamp": "01:12:00",
+      "confidence": 0.45,
+      "receipt": "to reframe everything that we were the violent ones. >> Yeah. >> Yep. >> Um the Katie thing again because Synynic uh told Katie Ethan, do you want to know why Trashcast stopped happening? Because Katie stopped clipping Eric July. Why did Katie stop clipping Eric July? Oh, that's right. because Synynic convinced her that Air July was boring and that she should clip uh CG drama instead. CG drama is what's going to get you views, Katie. Right. >>",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Eric July",
+      "signal_type": "criticised",
+      "timestamp": "01:12:00",
+      "confidence": 0.45,
+      "receipt": "tried to reframe everything that we were the violent ones. >> Yeah. >> Yep. >> Um the Katie thing again because Synynic uh told Katie Ethan, do you want to know why Trashcast stopped happening? Because Katie stopped clipping Eric July. Why did Katie stop clipping Eric July? Oh, that's right. because Synynic convinced her that Air July was boring and that she should clip uh CG drama instead. CG drama is what's going to get you views, Kat",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Trashcast",
+      "signal_type": "criticised",
+      "timestamp": "01:12:00",
+      "confidence": 0.45,
+      "receipt": "tried to reframe everything that we were the violent ones. >> Yeah. >> Yep. >> Um the Katie thing again because Synynic uh told Katie Ethan, do you want to know why Trashcast stopped happening? Because Katie stopped clipping Eric July. Why did Katie stop clipping Eric July? Oh, that's right. because Synynic convinced her that Air July was boring and that she should clip uh CG drama instead. CG drama is what's going to get you views, Kat",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Eric July",
+      "right": "Trashcast",
+      "signal_type": "criticised",
+      "timestamp": "01:12:00",
+      "confidence": 0.45,
+      "receipt": "to reframe everything that we were the violent ones. >> Yeah. >> Yep. >> Um the Katie thing again because Synynic uh told Katie Ethan, do you want to know why Trashcast stopped happening? Because Katie stopped clipping Eric July. Why did Katie stop clipping Eric July? Oh, that's right. because Synynic convinced her that Air July was boring and that she should clip uh CG drama instead. CG drama is what's going to get you views, Katie. Right. >>",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Eric July",
+      "signal_type": "separation",
+      "timestamp": "01:12:00",
+      "confidence": 0.45,
+      "receipt": "tried to reframe everything that we were the violent ones. >> Yeah. >> Yep. >> Um the Katie thing again because Synynic uh told Katie Ethan, do you want to know why Trashcast stopped happening? Because Katie stopped clipping Eric July. Why did Katie stop clipping Eric July? Oh, that's right. because Synynic convinced her that Air July was boring and that she should clip uh CG drama instead. CG drama is what's going to get you views, Kat",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Trashcast",
+      "signal_type": "separation",
+      "timestamp": "01:12:00",
+      "confidence": 0.45,
+      "receipt": "tried to reframe everything that we were the violent ones. >> Yeah. >> Yep. >> Um the Katie thing again because Synynic uh told Katie Ethan, do you want to know why Trashcast stopped happening? Because Katie stopped clipping Eric July. Why did Katie stop clipping Eric July? Oh, that's right. because Synynic convinced her that Air July was boring and that she should clip uh CG drama instead. CG drama is what's going to get you views, Kat",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Eric July",
+      "right": "Trashcast",
+      "signal_type": "separation",
+      "timestamp": "01:12:00",
+      "confidence": 0.45,
+      "receipt": "to reframe everything that we were the violent ones. >> Yeah. >> Yep. >> Um the Katie thing again because Synynic uh told Katie Ethan, do you want to know why Trashcast stopped happening? Because Katie stopped clipping Eric July. Why did Katie stop clipping Eric July? Oh, that's right. because Synynic convinced her that Air July was boring and that she should clip uh CG drama instead. CG drama is what's going to get you views, Katie. Right. >>",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Eric July",
+      "right": "ComicsGate",
+      "signal_type": "defended",
+      "timestamp": "01:24:00",
+      "confidence": 0.45,
+      "receipt": "about Comics Gate or the history. How? Well, by you saying things that are clearly uh in opposite of the history of Comics Gate. >> How am I doing that? How am I doing that? Carbon >> trying to refute what I said about Eric July. >> Nobody gives a [ __ ] about Eric July anymore. NOBODY >> NOBODY GIVES A [ __ ] You know what's funny? Uh EBS just did a stream where he was talking about Eric July, right? [snorts] No one gives a [ __ ] about Eric J",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Eric July",
+      "right": "Stray Beans",
+      "signal_type": "defended",
+      "timestamp": "01:24:00",
+      "confidence": 0.45,
+      "receipt": "about Comics Gate or the history. How? Well, by you saying things that are clearly uh in opposite of the history of Comics Gate. >> How am I doing that? How am I doing that? Carbon >> trying to refute what I said about Eric July. >> Nobody gives a [ __ ] about Eric July anymore. NOBODY >> NOBODY GIVES A [ __ ] You know what's funny? Uh EBS just did a stream where he was talking about Eric July, right? [snorts] No one gives a [ __ ] about Eric J",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Eric July",
+      "right": "Yellow Flash",
+      "signal_type": "defended",
+      "timestamp": "01:24:00",
+      "confidence": 0.45,
+      "receipt": "about Comics Gate or the history. How? Well, by you saying things that are clearly uh in opposite of the history of Comics Gate. >> How am I doing that? How am I doing that? Carbon >> trying to refute what I said about Eric July. >> Nobody gives a [ __ ] about Eric July anymore. NOBODY >> NOBODY GIVES A [ __ ] You know what's funny? Uh EBS just did a stream where he was talking about Eric July, right? [snorts] No one gives a [ __ ] about Eric J",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "ComicsGate",
+      "right": "Stray Beans",
+      "signal_type": "defended",
+      "timestamp": "01:24:00",
+      "confidence": 0.45,
+      "receipt": "talking about the past. >> We were talking about two, three years ago. See, >> talk about the future. >> No. Okay. So, clearly either weren't listening. Carbon's going where we're having a conversation about the past of ComicsGate and he's like why? Who cares? Who cares about the past of comics? Talk about the future. >> That is the problem. Yeah. You don't care. >> You mean the future where he said uh 10 months ago that he was going to deliver c",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "ComicsGate",
+      "right": "Yellow Flash",
+      "signal_type": "defended",
+      "timestamp": "01:24:00",
+      "confidence": 0.45,
+      "receipt": "talking about the past. >> We were talking about two, three years ago. See, >> talk about the future. >> No. Okay. So, clearly either weren't listening. Carbon's going where we're having a conversation about the past of ComicsGate and he's like why? Who cares? Who cares about the past of comics? Talk about the future. >> That is the problem. Yeah. You don't care. >> You mean the future where he said uh 10 months ago that he was going to deliver c",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Stray Beans",
+      "right": "Yellow Flash",
+      "signal_type": "defended",
+      "timestamp": "01:24:00",
+      "confidence": 0.45,
+      "receipt": "ink it's for attention. He is doing this for attention. No other reason, right? Think about how fundamentally sad that is, dude. It is so sad that someone does this does this just for attention. >> No, I agree, man. And Stray Beans, like I I've sort of figured that out as well a little bit because like you'll notice that they always confess through their accusation. And so like they'll accuse me, Liam wants attention. Liam wants attention. I just",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Eric July",
+      "right": "ComicsGate",
+      "signal_type": "criticised",
+      "timestamp": "01:24:00",
+      "confidence": 0.45,
+      "receipt": "about Comics Gate or the history. How? Well, by you saying things that are clearly uh in opposite of the history of Comics Gate. >> How am I doing that? How am I doing that? Carbon >> trying to refute what I said about Eric July. >> Nobody gives a [ __ ] about Eric July anymore. NOBODY >> NOBODY GIVES A [ __ ] You know what's funny? Uh EBS just did a stream where he was talking about Eric July, right? [snorts] No one gives a [ __ ] about Eric J",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Eric July",
+      "right": "Stray Beans",
+      "signal_type": "criticised",
+      "timestamp": "01:24:00",
+      "confidence": 0.45,
+      "receipt": "about Comics Gate or the history. How? Well, by you saying things that are clearly uh in opposite of the history of Comics Gate. >> How am I doing that? How am I doing that? Carbon >> trying to refute what I said about Eric July. >> Nobody gives a [ __ ] about Eric July anymore. NOBODY >> NOBODY GIVES A [ __ ] You know what's funny? Uh EBS just did a stream where he was talking about Eric July, right? [snorts] No one gives a [ __ ] about Eric J",
+      "warning": "co-mention plus language signal; requires interpretation"
+    }
+  ],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

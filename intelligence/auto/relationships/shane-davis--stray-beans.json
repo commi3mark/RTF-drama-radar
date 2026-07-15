@@ -1,0 +1,44 @@
+{
+  "relationship_id": "shane-davis--stray-beans",
+  "left": "Stray Beans",
+  "right": "Shane Davis",
+  "signals": [
+    {
+      "video_id": "7LMz5W0-mLs",
+      "episode_title": "Finbarr STOMPS A Dwarf! - OPEN PANEL MADHOUSE!!!!",
+      "source": "Frog Tony",
+      "left": "Stray Beans",
+      "right": "Shane Davis",
+      "signal_type": "friendship_claim",
+      "timestamp": "01:24:00",
+      "confidence": 0.45,
+      "receipt": "t. Yeah, but like these guys when just the mere utterance of the word dwarf gives these people a heart attack, not the dwarf. >> These people very [ __ ] cynic apologized to Matt Bar. Hold on. >> Uh Matt Bar says, \"What Stray Beans needs is a new mic. Dude streams with soap can and some string.\" Cynic says, \"This dude beans is an insane person. People are going to be pissed, but I apologize. Has I ever called you crazy after dealing with these clo",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "episode_title": "Gabbing With Ga......You Know",
+      "source": "FFS Cast",
+      "left": "Shane Davis",
+      "right": "Stray Beans",
+      "signal_type": "criticised",
+      "timestamp": "01:00:01",
+      "confidence": 0.45,
+      "receipt": "ys games where he can be dwarves and gnomes. So, he feels Let's see. [clears throat] You know what, man? This rumor is really starting to get the [ __ ] out of hand. It's really about to get the in the night letter that Shane Davis sent me last night, this cocky, smarmy son of a [ __ ] right? Said, uh, \"Listen here.\" In the beginning, it said, \"Listen here, you little shit.\" Can you believe that, man? Can you believe THE AUDACITY of that man? afte",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "ibGd2AqrEXg",
+      "episode_title": "JON DEL ARROZ: HERES THE ATTENTION YOU ORDERED - SHANE DAVIS BACK ME BRO INTERNET BEEF - EXTRA SALTY",
+      "source": "Commi3 Mark",
+      "left": "Shane Davis",
+      "right": "Stray Beans",
+      "signal_type": "criticised",
+      "timestamp": "24:01",
+      "confidence": 0.45,
+      "receipt": "it. Like that's people who watched the video >> pause like um and then left again. So >> that's funny. Look how high it is. Like it's the highest point of the show. 40% of people tune in to watch. >> That's the only reason. >> This is why I'm saying you know what you need to do is you need to move that segment around. Uh, and like never have it in a regular spot for long. [laughter] >> So, people have to watch the whole thing in order t",
+      "warning": "co-mention plus language signal; requires interpretation"
+    }
+  ],
+  "updated_at": "2026-07-15T21:04:37.021560+00:00"
+}

@@ -1,0 +1,44 @@
+{
+  "relationship_id": "cyberfrog--vito-gesualdi",
+  "left": "Vito Gesualdi",
+  "right": "Cyberfrog",
+  "signals": [
+    {
+      "video_id": "IGwEBXZDVt0",
+      "episode_title": "The Biggest Problem in the Universe Comes to an END!",
+      "source": "KatyDid",
+      "left": "Vito Gesualdi",
+      "right": "Cyberfrog",
+      "signal_type": "criticised",
+      "timestamp": "48:00",
+      "confidence": 0.45,
+      "receipt": "this week? >> I cut Veto off so I could run my very successful hack [clears throat] the movie show. >> See, there you go. Now it's about how other people are failures. Like it's you have a fixation on success and failure that you insult people with >> always. I have a fixation on I don't understand why we're not just work all working together to promote each other. >> I love promoting my friends and I love seeing them succeed. When I wa",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "IGwEBXZDVt0",
+      "episode_title": "The Biggest Problem in the Universe Comes to an END!",
+      "source": "KatyDid",
+      "left": "Vito Gesualdi",
+      "right": "Cyberfrog",
+      "signal_type": "promoted",
+      "timestamp": "48:00",
+      "confidence": 0.45,
+      "receipt": "this week? >> I cut Veto off so I could run my very successful hack [clears throat] the movie show. >> See, there you go. Now it's about how other people are failures. Like it's you have a fixation on success and failure that you insult people with >> always. I have a fixation on I don't understand why we're not just work all working together to promote each other. >> I love promoting my friends and I love seeing them succeed. When I wa",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "IGwEBXZDVt0",
+      "episode_title": "The Biggest Problem in the Universe Comes to an END!",
+      "source": "KatyDid",
+      "left": "Vito Gesualdi",
+      "right": "Cyberfrog",
+      "signal_type": "friendship_claim",
+      "timestamp": "48:00",
+      "confidence": 0.45,
+      "receipt": "this week? >> I cut Veto off so I could run my very successful hack [clears throat] the movie show. >> See, there you go. Now it's about how other people are failures. Like it's you have a fixation on success and failure that you insult people with >> always. I have a fixation on I don't understand why we're not just work all working together to promote each other. >> I love promoting my friends and I love seeing them succeed. When I wa",
+      "warning": "co-mention plus language signal; requires interpretation"
+    }
+  ],
+  "updated_at": "2026-07-15T21:04:36.532930+00:00"
+}

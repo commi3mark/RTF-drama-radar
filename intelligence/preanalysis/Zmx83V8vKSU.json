@@ -1,0 +1,98 @@
+{
+  "schema_version": "octopuss-preanalysis-v0.1",
+  "generated_at": "2026-07-15T21:04:16.746261+00:00",
+  "video_id": "Zmx83V8vKSU",
+  "title": "MATI: TheQuartering’s Dropship Brand Dropship (Jul 10, 2026)",
+  "source": "Elissa Clips",
+  "published": "2026-07-14T16:57:04+00:00",
+  "packet_hash": "120929986a0d0b44d6325cf6325b0209beaae563f3fa81f945cf22de04c16b07",
+  "coverage": {
+    "first_caption_second": 0.08,
+    "last_caption_second": 572.2,
+    "timestamp_start": "00:00",
+    "timestamp_end": "09:32",
+    "caption_span_seconds": 572.12,
+    "status": "transcript_present",
+    "note": "This measures the caption span only. It does not prove complete coverage of the original video."
+  },
+  "participant_candidates": [
+    {
+      "entity": "Elissa Clips",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.72,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "TheQuartering",
+      "mentions": 10,
+      "block_count": 1,
+      "first_timestamp": "00:00",
+      "last_timestamp": "09:32",
+      "discussion_span_seconds": 572.1,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.767,
+        "positive_hits": 38,
+        "negative_hits": 5
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "We got a clip from the The Quartering. I love The Quartering, starring Jeremy Hamblely, also known as The Quartering. Uh, let's watch this clip of my boy, The Quartering. You can tell it's The Quartering because he has that microphone end piece that faces the camera. And I'm sorry, but his weird microphone thing. I don't know what the he's trying to do to this logo to try and make it look distinct from the original, but it just looks li"
+        }
+      ],
+      "appearance_status": "uncertain"
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "09:32",
+      "title": "Clip/reaction: TheQuartering",
+      "entities": [
+        "TheQuartering"
+      ],
+      "summary_seed": "We got a clip from the The Quartering. I love The Quartering, starring Jeremy Hamblely, also known as The Quartering. Uh, let's watch this clip of my boy, The Quartering. You can tell it's The Quartering because he has that microphone end piece that faces the camera. And I'm sorry, but his weird microphone thing. I don't know what the he's trying to do to this logo to try and make it look distinct from the original,",
+      "clip_likelihood": true,
+      "transition_markers": 0
+    }
+  ],
+  "claim_candidates": [
+    {
+      "claimant": "She's looking at this and",
+      "claim": "literally nothing.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "She's looking at this and says literally nothing."
+    },
+    {
+      "claimant": "uh was that he",
+      "claim": "it was a family recipe where he uh owned all the machines and it was a small business.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "The whole reason why there's a video of me drinking Jeremy Hamley's coffee and saying I liked it and comparing it to Pipa Pippen's coffee, which was absolute dog [ __ ] uh was that he said it was a family recipe where he uh owned all the machines and it was a small business."
+    },
+    {
+      "claimant": "And I I remember I I remember I even",
+      "claim": "to my family once like, \"I like my grandmother's cooking.\" And they all looked at me like I was like a demon.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "And I I remember I I remember I even said to my family once like, \"I like my grandmother's cooking.\" And they all looked at me like I was like a demon."
+    }
+  ],
+  "quote_candidates": [],
+  "relationship_signals": [],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

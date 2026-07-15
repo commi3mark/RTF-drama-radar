@@ -1,0 +1,56 @@
+{
+  "relationship_id": "comicsgate--fencegate",
+  "left": "ComicsGate",
+  "right": "Fencegate",
+  "signals": [
+    {
+      "video_id": "MOQPFnHJYR0",
+      "episode_title": "Cynic Got CATFISHED And EVS Continues To SPIRAL On Thirsty Thursday!",
+      "source": "Frog Tony",
+      "left": "ComicsGate",
+      "right": "Fencegate",
+      "signal_type": "legal_conflict",
+      "timestamp": "24:00",
+      "confidence": 0.45,
+      "receipt": ">> this is the tweet that says, \"Hey guys.\" Hey guys, uh I'm sorry for uh catfishing. Uh Preston Moore is not a girl. Preston Moore is a boy. Is a man >> picture. Y >> I use someone's picture to create it. That's what that tweet is. >> No. Well, so much for that. >> Liam, you remember Preston Moore, right? >> I almost didn't make it. What? Preston Moore? No. Who's Preston Moore? >> Well, Preston Moore was a chick, quote unquote, that wa",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "MOQPFnHJYR0",
+      "episode_title": "Cynic Got CATFISHED And EVS Continues To SPIRAL On Thirsty Thursday!",
+      "source": "Frog Tony",
+      "left": "ComicsGate",
+      "right": "Fencegate",
+      "signal_type": "friendship_claim",
+      "timestamp": "24:00",
+      "confidence": 0.45,
+      "receipt": ">> this is the tweet that says, \"Hey guys.\" Hey guys, uh I'm sorry for uh catfishing. Uh Preston Moore is not a girl. Preston Moore is a boy. Is a man >> picture. Y >> I use someone's picture to create it. That's what that tweet is. >> No. Well, so much for that. >> Liam, you remember Preston Moore, right? >> I almost didn't make it. What? Preston Moore? No. Who's Preston Moore? >> Well, Preston Moore was a chick, quote unquote, that wa",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "MOQPFnHJYR0",
+      "episode_title": "Cynic Got CATFISHED And EVS Continues To SPIRAL On Thirsty Thursday!",
+      "source": "Frog Tony",
+      "left": "ComicsGate",
+      "right": "Fencegate",
+      "signal_type": "criticised",
+      "timestamp": "01:00:00",
+      "confidence": 0.45,
+      "receipt": "What else we got? Mike, you should have put some music to this. You should have put like in the arms of an angel. >> Look how tall he is, guys. That's the fence. It might be hard to see for you guys, but that's the fence line right there. And that's Ruby's head. >> Can you zoom in? Can you >> Can I zoom in? It's a video. >> What a pity. They were using fence lines to measure me. So, this seems like some sort of comic justice. >> But yea",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "MOQPFnHJYR0",
+      "episode_title": "Cynic Got CATFISHED And EVS Continues To SPIRAL On Thirsty Thursday!",
+      "source": "Frog Tony",
+      "left": "ComicsGate",
+      "right": "Fencegate",
+      "signal_type": "legal_conflict",
+      "timestamp": "01:00:00",
+      "confidence": 0.45,
+      "receipt": "What else we got? Mike, you should have put some music to this. You should have put like in the arms of an angel. >> Look how tall he is, guys. That's the fence. It might be hard to see for you guys, but that's the fence line right there. And that's Ruby's head. >> Can you zoom in? Can you >> Can I zoom in? It's a video. >> What a pity. They were using fence lines to measure me. So, this seems like some sort of comic justice. >> But yea",
+      "warning": "co-mention plus language signal; requires interpretation"
+    }
+  ],
+  "updated_at": "2026-07-15T21:04:39.347250+00:00"
+}

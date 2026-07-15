@@ -1,0 +1,84 @@
+{
+  "schema_version": "octopuss-preanalysis-v0.1",
+  "generated_at": "2026-07-15T21:04:19.397352+00:00",
+  "video_id": "fSf1nYxE34A",
+  "title": "Friday Night Tights Wishes Chrissie Mayr the Best (Jul 10, 2026)",
+  "source": "Elissa Clips",
+  "published": "2026-07-11T00:30:28+00:00",
+  "packet_hash": "4dd938c5076a41680d28073af1d99900d0681dd9b2a6b8c37873b4f03d3172b2",
+  "coverage": {
+    "first_caption_second": 0.0,
+    "last_caption_second": 60.72,
+    "timestamp_start": "00:00",
+    "timestamp_end": "01:00",
+    "caption_span_seconds": 60.72,
+    "status": "transcript_present",
+    "note": "This measures the caption span only. It does not prove complete coverage of the original video."
+  },
+  "participant_candidates": [
+    {
+      "entity": "Elissa Clips",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.72,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Chrissie Mayr",
+      "mentions": 3,
+      "block_count": 1,
+      "first_timestamp": "00:00",
+      "last_timestamp": "01:00",
+      "discussion_span_seconds": 60.7,
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "positive_hits": 5,
+        "negative_hits": 0
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "Uh, Garfield's Bizarre Adventure for $50. What's [cheering] up, dude? Oh. It finally gets brought up. Okay. Uh, looks like Chrissy is still seething that she got the boot from F&T, and now she is doing the rounds claiming she got canceled. Uh, she dressed up as Frost so many times she became her. The house always wins. Well, thank you, Garfield. Um, Chrissy is is no longer on the show. I think that's been pretty obvious to a lot of peop"
+        }
+      ],
+      "appearance_status": "uncertain"
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "01:00",
+      "title": "Chrissie Mayr",
+      "entities": [
+        "Chrissie Mayr"
+      ],
+      "summary_seed": "Uh, Garfield's Bizarre Adventure for $50. What's [cheering] up, dude? Oh. It finally gets brought up. Okay. Uh, looks like Chrissy is still seething that she got the boot from F&T, and now she is doing the rounds claiming she got canceled. Uh, she dressed up as Frost so many times she became her. The house always wins. Well, thank you, Garfield. Um, Chrissy is is no longer on the show. I think that's been pretty obvi",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    }
+  ],
+  "claim_candidates": [
+    {
+      "claimant": "unknown speaker",
+      "claim": "that's been pretty obvious to a lot of people.",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think that's been pretty obvious to a lot of people."
+    }
+  ],
+  "quote_candidates": [],
+  "relationship_signals": [],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

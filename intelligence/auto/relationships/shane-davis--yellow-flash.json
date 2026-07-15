@@ -1,0 +1,32 @@
+{
+  "relationship_id": "shane-davis--yellow-flash",
+  "left": "Shane Davis",
+  "right": "Yellow Flash",
+  "signals": [
+    {
+      "video_id": "FrQfU1Y84Nk",
+      "episode_title": "DRAW-MUH STREAM! REIGNBOW THE BRUTE Death of Papa Smerc page 3 pt3",
+      "source": "Ethan Van Sciver",
+      "left": "Shane Davis",
+      "right": "Yellow Flash",
+      "signal_type": "criticised",
+      "timestamp": "48:01",
+      "confidence": 0.45,
+      "receipt": "cares. It's like it's not like uh oh no, you know, I've been in last place before. I've been in first place before. I've been in the middle most of the time. Um and it's not a big deal. We don't hate each other. You know, we're just kind of [ __ ] around. >> But John wants clearly defined rules and he wants everybody to play by them. Understood. I get it. and he says since like those rules aren't being followed, he won't he won't come o",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "FrQfU1Y84Nk",
+      "episode_title": "DRAW-MUH STREAM! REIGNBOW THE BRUTE Death of Papa Smerc page 3 pt3",
+      "source": "Ethan Van Sciver",
+      "left": "Shane Davis",
+      "right": "Yellow Flash",
+      "signal_type": "friendship_claim",
+      "timestamp": "48:01",
+      "confidence": 0.45,
+      "receipt": "cares. It's like it's not like uh oh no, you know, I've been in last place before. I've been in first place before. I've been in the middle most of the time. Um and it's not a big deal. We don't hate each other. You know, we're just kind of [ __ ] around. >> But John wants clearly defined rules and he wants everybody to play by them. Understood. I get it. and he says since like those rules aren't being followed, he won't he won't come o",
+      "warning": "co-mention plus language signal; requires interpretation"
+    }
+  ],
+  "updated_at": "2026-07-15T21:04:39.937186+00:00"
+}

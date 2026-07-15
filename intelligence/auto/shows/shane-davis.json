@@ -1,0 +1,72 @@
+{
+  "show_id": "shane-davis",
+  "name": "Shane Davis",
+  "episodes": [
+    {
+      "video_id": "p4tTJHqHSRE",
+      "title": "Netflix NEEDS God! They Want Christian Viewers NOW?!",
+      "published": "2026-07-13T10:15:18+00:00"
+    },
+    {
+      "video_id": "3up8iIaCs_E",
+      "title": "Absolute Batman Scam? Mark Brooks Exposes How Retailers Screw Artists!",
+      "published": "2026-07-08T10:15:11+00:00"
+    }
+  ],
+  "participant_candidates": [
+    {
+      "video_id": "p4tTJHqHSRE",
+      "entity": "Shane Davis",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.72,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    },
+    {
+      "video_id": "3up8iIaCs_E",
+      "entity": "Shane Davis",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.72,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subject_history": [
+    {
+      "video_id": "p4tTJHqHSRE",
+      "entity": "Shane Davis",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.932,
+        "positive_hits": 57,
+        "negative_hits": 2
+      }
+    },
+    {
+      "video_id": "3up8iIaCs_E",
+      "entity": "BackMeBro",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.667,
+        "positive_hits": 5,
+        "negative_hits": 1
+      }
+    },
+    {
+      "video_id": "3up8iIaCs_E",
+      "entity": "Shane Davis",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "positive_hits": 21,
+        "negative_hits": 0
+      }
+    }
+  ],
+  "updated_at": "2026-07-15T21:04:32.905392+00:00"
+}

@@ -1,0 +1,44 @@
+{
+  "relationship_id": "cyberfrog--shane-davis",
+  "left": "Shane Davis",
+  "right": "Cyberfrog",
+  "signals": [
+    {
+      "video_id": "zkW4zLSQ7eQ",
+      "episode_title": "You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto!",
+      "source": "Ethan Van Sciver",
+      "left": "Shane Davis",
+      "right": "Cyberfrog",
+      "signal_type": "defended",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": ">> [music] >> Welcome to 5XL FM where the trash flows. [music] >> There I am real small. Here I am real big. Ethan Van Skyver here. 5x LFM Philadelphia trash cast your show. You're the fan. You're the audience. You love this stuff. Can't get enough of it. And I'm here to serve it up. Nice big steaming plate of garbage for you tonight featuring some of your favorite characters. [music] >> Hello. Hi guys. [music] >> What is this? Hot Mike",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "zkW4zLSQ7eQ",
+      "episode_title": "You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto!",
+      "source": "Ethan Van Sciver",
+      "left": "Shane Davis",
+      "right": "Cyberfrog",
+      "signal_type": "criticised",
+      "timestamp": "12:01",
+      "confidence": 0.45,
+      "receipt": ">> [music] >> Welcome to 5XL FM where the trash flows. [music] >> There I am real small. Here I am real big. Ethan Van Skyver here. 5x LFM Philadelphia trash cast your show. You're the fan. You're the audience. You love this stuff. Can't get enough of it. And I'm here to serve it up. Nice big steaming plate of garbage for you tonight featuring some of your favorite characters. [music] >> Hello. Hi guys. [music] >> What is this? Hot Mike",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "Zd9PVsLAD5c",
+      "episode_title": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
+      "source": "Ethan Van Sciver",
+      "left": "Shane Davis",
+      "right": "Cyberfrog",
+      "signal_type": "promoted",
+      "timestamp": "36:00",
+      "confidence": 0.45,
+      "receipt": ">> man? I haven't been shooting over a year. Tell them to come out to Long Island, man. We'll go. >> No effing way. EJ Morgis, this will be the best night of my life. Where's EJ? >> What's going on? >> Come on, connect. >> EJ, how's it going, man? >> There he is. >> He's not Oh, is he in now? >> Hey, EJ. >> Uh, my screen. There we go. >> Yeah, there you are. >> EJ Morg. Ladies and gentlemen, we got we got some super duper guests tonight",
+      "warning": "co-mention plus language signal; requires interpretation"
+    }
+  ],
+  "updated_at": "2026-07-15T21:04:34.769725+00:00"
+}

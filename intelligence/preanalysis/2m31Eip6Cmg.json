@@ -1,0 +1,478 @@
+{
+  "schema_version": "octopuss-preanalysis-v0.1",
+  "generated_at": "2026-07-15T21:04:20.840603+00:00",
+  "video_id": "2m31Eip6Cmg",
+  "title": "CG AFTER DARK #35",
+  "source": "KatyDid",
+  "published": "2026-07-08T15:54:46+00:00",
+  "packet_hash": "1c557165f0355cec9ac9d90926ba282b376d4b2733b2489e49024a8adfb4fc61",
+  "coverage": {
+    "first_caption_second": 6.2,
+    "last_caption_second": 2410.92,
+    "timestamp_start": "00:06",
+    "timestamp_end": "40:10",
+    "caption_span_seconds": 2404.72,
+    "status": "transcript_present",
+    "note": "This measures the caption span only. It does not prove complete coverage of the original video."
+  },
+  "participant_candidates": [
+    {
+      "entity": "KatyDid",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.72,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Vito Gesualdi",
+      "mentions": 37,
+      "block_count": 1,
+      "first_timestamp": "12:05",
+      "last_timestamp": "24:03",
+      "discussion_span_seconds": 718.1,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.938,
+        "positive_hits": 62,
+        "negative_hits": 2
+      },
+      "receipts": [
+        {
+          "timestamp": "12:05",
+          "excerpt": "[music] >> WELCOME BACK to CG after dark. With me as always is Katie dead. Hosting us on our channel. >> Hello, hello comic skaters. Good to Welcome to CG after dark. We are so happy to have you here. You look well-dressed and prepared for a hell of a show tonight clip oats. Good to see you my lovely co-host. How are you? >> I'm having a blast. Did you hear that all I do is dress up in silly costumes and pull stunts? >> So I've heard. I"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Dick Masterson",
+      "mentions": 23,
+      "block_count": 1,
+      "first_timestamp": "12:05",
+      "last_timestamp": "24:03",
+      "discussion_span_seconds": 718.1,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.938,
+        "positive_hits": 62,
+        "negative_hits": 2
+      },
+      "receipts": [
+        {
+          "timestamp": "12:05",
+          "excerpt": "[music] >> WELCOME BACK to CG after dark. With me as always is Katie dead. Hosting us on our channel. >> Hello, hello comic skaters. Good to Welcome to CG after dark. We are so happy to have you here. You look well-dressed and prepared for a hell of a show tonight clip oats. Good to see you my lovely co-host. How are you? >> I'm having a blast. Did you hear that all I do is dress up in silly costumes and pull stunts? >> So I've heard. I"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Liam Gray",
+      "mentions": 6,
+      "block_count": 1,
+      "first_timestamp": "24:01",
+      "last_timestamp": "36:04",
+      "discussion_span_seconds": 723.2,
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.755,
+        "positive_hits": 43,
+        "negative_hits": 6
+      },
+      "receipts": [
+        {
+          "timestamp": "24:01",
+          "excerpt": "e here with Vito like, you know, Deliverance, the comic book, the Dick Masterson. You know what else is, you know, is excited about a comic book? You know what I'm saying? Look look look who's excited. >> Oh, thank you, Liam Gray for promoting Super Killer's like this way. >> Look at that, he can draw. >> It's so beautiful. >> What's he drawing here, Johnny? Do you want to talk to us about the page? I'll be right back. >> He's drawing the Power"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Frog Tony",
+      "mentions": 3,
+      "block_count": 1,
+      "first_timestamp": "00:06",
+      "last_timestamp": "11:37",
+      "discussion_span_seconds": 691.4,
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "mixed",
+        "score": -0.077,
+        "positive_hits": 6,
+        "negative_hits": 7
+      },
+      "receipts": [
+        {
+          "timestamp": "00:06",
+          "excerpt": "Today, before I head into work, I wanted to get rid of some bad omen in my house, just like Richard Embry. I do not want these uh this book and this shirt in my house whatsoever. They support silencing voices. They do not support free speech. They lie. They manipulate. They strike panels. And they're hurt little bitches. They do nothing for Comicgate. Nothing. So, I'm going to do it the old-fashioned way and say goodbye to these two pie"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Cecil",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "12:05",
+      "last_timestamp": "24:03",
+      "discussion_span_seconds": 718.1,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.938,
+        "positive_hits": 62,
+        "negative_hits": 2
+      },
+      "receipts": [
+        {
+          "timestamp": "12:05",
+          "excerpt": "e, we're going to be going over to Rumble here soon. Uh we give a shout out to Rumble. It's a free free speech platform. Uh you know, we've had a great turnout over there. Rumble's been good to us so far. We usually get Cecil and Geo Logic uh come and raid the chat, which we're always so grateful for. And we have a really good time over there in Rumble. So, if the mods could share the link to the actual Rumble stream, you guys can head over"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "ComicsGate",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "00:06",
+      "last_timestamp": "11:37",
+      "discussion_span_seconds": 691.4,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "mixed",
+        "score": -0.077,
+        "positive_hits": 6,
+        "negative_hits": 7
+      },
+      "receipts": [
+        {
+          "timestamp": "00:06",
+          "excerpt": "Today, before I head into work, I wanted to get rid of some bad omen in my house, just like Richard Embry. I do not want these uh this book and this shirt in my house whatsoever. They support silencing voices. They do not support free speech. They lie. They manipulate. They strike panels. And they're hurt little bitches. They do nothing for Comicgate. Nothing. So, I'm going to do it the old-fashioned way and say goodbye to these two pie"
+        }
+      ],
+      "appearance_status": "uncertain"
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:06",
+      "end": "11:37",
+      "title": "Frog Tony / ComicsGate",
+      "entities": [
+        "Frog Tony",
+        "ComicsGate"
+      ],
+      "summary_seed": "Today, before I head into work, I wanted to get rid of some bad omen in my house, just like Richard Embry. I do not want these uh this book and this shirt in my house whatsoever. They support silencing voices. They do not support free speech. They lie. They manipulate. They strike panels. And they're hurt little bitches. They do nothing for Comicgate. Nothing. So, I'm going to do it the old-fashioned way and say good",
+      "clip_likelihood": false,
+      "transition_markers": 2
+    },
+    {
+      "start": "12:05",
+      "end": "24:03",
+      "title": "Vito Gesualdi / Dick Masterson / Cecil",
+      "entities": [
+        "Vito Gesualdi",
+        "Dick Masterson",
+        "Cecil"
+      ],
+      "summary_seed": "[music] >> WELCOME BACK to CG after dark. With me as always is Katie dead. Hosting us on our channel. >> Hello, hello comic skaters. Good to Welcome to CG after dark. We are so happy to have you here. You look well-dressed and prepared for a hell of a show tonight clip oats. Good to see you my lovely co-host. How are you? >> I'm having a blast. Did you hear that all I do is dress up in silly costumes and pull stunts?",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    },
+    {
+      "start": "24:01",
+      "end": "36:04",
+      "title": "Liam Gray",
+      "entities": [
+        "Liam Gray"
+      ],
+      "summary_seed": "lobster do I eat? >> Okay, is this okay? I think this is the thread. I don't know. Let me share my screen. You can tell me. >> Whatever you think it is is going to be funny. Doesn't matter. Yeah, see it? Cool. We got all these screenshots of Vito being a pathetic worm. This is the argument that got him kicked out of the biggest problem Discord. These are some pathetic screenshots of his from between the episode and n",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "36:02",
+      "end": "40:10",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": "Bex first adventure working for the multiverse reformation agency saving the universe from its heroes. So, or saving the universe the multiverse from its heroes, you know. >> Also >> It's a real story. There's 47 pages 40 something like that pages of actual story and physical hand drawn hand inked hand colored pages by Ray Ray is happy done in three months. >> That's madness. >> Yeah. Yeah, you know what? And but I g",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    }
+  ],
+  "claim_candidates": [
+    {
+      "claimant": "unknown speaker",
+      "claim": "getting so dashing for Clipping over there.",
+      "timestamp": "12:05",
+      "status": "candidate_claim",
+      "receipt": "I know getting so dashing for Clipping over there."
+    },
+    {
+      "claimant": "Dick",
+      "claim": "that he's going to be quitting the show at the end of the month and that Vito can choose to continue to do the show or not.",
+      "timestamp": "12:05",
+      "status": "candidate_claim",
+      "receipt": "Dick says that he's going to be quitting the show at the end of the month and that Vito can choose to continue to do the show or not."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "he's just like riffing off what Dick is bringing to the table in my opinion.",
+      "timestamp": "12:05",
+      "status": "opinion_or_inference",
+      "receipt": "I think he's just like riffing off what Dick is bringing to the table in my opinion."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "he doesn't think that, too.",
+      "timestamp": "12:05",
+      "status": "opinion_or_inference",
+      "receipt": "Well, I think he doesn't think that, too."
+    },
+    {
+      "claimant": "Vito even",
+      "claim": "I mean I I remember hearing Vito say, \"Well, it's like hard to work with someone that I can't get in contact with.\" Do you What do you think of that when you hear that though?",
+      "timestamp": "12:05",
+      "status": "candidate_claim",
+      "receipt": "Well, Well, Vito even said I mean I I remember hearing Vito say, \"Well, it's like hard to work with someone that I can't get in contact with.\" Do you What do you think of that when you hear that though?"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "he wants control.",
+      "timestamp": "12:05",
+      "status": "opinion_or_inference",
+      "receipt": "Well, I think he wants control."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "I remember him saying he wants control like to be able to have the emails and like be able to access everything and all that stuff.",
+      "timestamp": "12:05",
+      "status": "opinion_or_inference",
+      "receipt": "I think I remember him saying he wants control like to be able to have the emails and like be able to access everything and all that stuff."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "you're asking a blonde for directions.",
+      "timestamp": "12:05",
+      "status": "opinion_or_inference",
+      "receipt": "I think you're asking a blonde for directions."
+    },
+    {
+      "claimant": "He",
+      "claim": "most people die alone and unsuccess fools.",
+      "timestamp": "24:01",
+      "status": "candidate_claim",
+      "receipt": "He said most people die alone and unsuccess fools."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "I'm going to ignore Vito directly, but like mock him all the time in in this third-person way of talking about him.",
+      "timestamp": "24:01",
+      "status": "opinion_or_inference",
+      "receipt": "I think I'm going to ignore Vito directly, but like mock him all the time in in this third-person way of talking about him."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that's the sweet spot of dealing with Vito like because he has to We have to coexist with him.",
+      "timestamp": "24:01",
+      "status": "opinion_or_inference",
+      "receipt": "I think that's the sweet spot of dealing with Vito like because he has to We have to coexist with him."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "his way of controlling uh Super Killer one being good is just to not release it.",
+      "timestamp": "24:01",
+      "status": "opinion_or_inference",
+      "receipt": "So, I think his way of controlling uh Super Killer one being good is just to not release it."
+    },
+    {
+      "claimant": "He's He's",
+      "claim": "a thousand times in response to criticism of the first one, where it's like, \"It's a pilot.",
+      "timestamp": "24:01",
+      "status": "candidate_claim",
+      "receipt": "He's He's said a thousand times in response to criticism of the first one, where it's like, \"It's a pilot."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "So, am I getting it wrong?",
+      "timestamp": "24:01",
+      "status": "opinion_or_inference",
+      "receipt": "I think So, am I getting it wrong?"
+    },
+    {
+      "claimant": "I also that that fat fuck retard Vito he",
+      "claim": "that this was a comic book about him being a fat fuck retard.",
+      "timestamp": "24:01",
+      "status": "candidate_claim",
+      "receipt": "Uh you know, I also that that fat fuck retard Vito he said that this was a comic book about him being a fat fuck retard."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "we were going to ignore but he's here.",
+      "timestamp": "36:02",
+      "status": "candidate_claim",
+      "receipt": "So, Vino is here in the chat and I know we were going to ignore but he's here."
+    },
+    {
+      "claimant": "Flippa just",
+      "claim": "he's never talking to Vino again, so what?",
+      "timestamp": "36:02",
+      "status": "candidate_claim",
+      "receipt": "Yeah, Flippa just said he's never talking to Vino again, so what?"
+    }
+  ],
+  "quote_candidates": [
+    {
+      "timestamp": "00:06",
+      "text": "Pros pull up when the clock strikes dark.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "00:06",
+      "text": "No more echoes from mouths that were never true.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "00:06",
+      "text": "Always stay ready, [music] don't slip, don't quit.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "00:06",
+      "text": "Always in the spotlight, sharp and quick.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "12:05",
+      "text": "Hello to all you beautiful people and I always considered Clipper this was his default what he wears on the show.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "12:05",
+      "text": "We usually get Cecil and Geo Logic uh come and raid the chat, which we're always so grateful for.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "24:01",
+      "text": "It's so if you don't want his comic, he's going to bring it to your door, but if you do want the comic, you'll never get it.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "24:01",
+      "text": "Vito is a squirmy, sweaty, fat, smelly, retarded pig person who will never leave you alone if you show even the slightest dismissal of his behavior.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "24:01",
+      "text": "But I'm just never going to talk to him again.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "24:01",
+      "text": "Something he's never seen before cuz he can't draw or paint.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "36:02",
+      "text": "Yeah, Flippa just said he's never talking to Vino again, so what?",
+      "significance_score": 1
+    }
+  ],
+  "relationship_signals": [
+    {
+      "left": "Frog Tony",
+      "right": "ComicsGate",
+      "signal_type": "defended",
+      "timestamp": "00:06",
+      "confidence": 0.45,
+      "receipt": "Today, before I head into work, I wanted to get rid of some bad omen in my house, just like Richard Embry. I do not want these uh this book and this shirt in my house whatsoever. They support silencing voices. They do not support free speech. They lie. They manipulate. They strike panels. And they're hurt little bitches. They do nothing for Comicgate. Nothing. So, I'm going to do it the old-fashioned way and say goodbye to these two pie",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "ComicsGate",
+      "signal_type": "legal_conflict",
+      "timestamp": "00:06",
+      "confidence": 0.45,
+      "receipt": "Today, before I head into work, I wanted to get rid of some bad omen in my house, just like Richard Embry. I do not want these uh this book and this shirt in my house whatsoever. They support silencing voices. They do not support free speech. They lie. They manipulate. They strike panels. And they're hurt little bitches. They do nothing for Comicgate. Nothing. So, I'm going to do it the old-fashioned way and say goodbye to these two pie",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "ComicsGate",
+      "signal_type": "friendship_claim",
+      "timestamp": "00:06",
+      "confidence": 0.45,
+      "receipt": "Today, before I head into work, I wanted to get rid of some bad omen in my house, just like Richard Embry. I do not want these uh this book and this shirt in my house whatsoever. They support silencing voices. They do not support free speech. They lie. They manipulate. They strike panels. And they're hurt little bitches. They do nothing for Comicgate. Nothing. So, I'm going to do it the old-fashioned way and say goodbye to these two pie",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Vito Gesualdi",
+      "right": "Dick Masterson",
+      "signal_type": "collaborated",
+      "timestamp": "12:05",
+      "confidence": 0.45,
+      "receipt": "[music] >> WELCOME BACK to CG after dark. With me as always is Katie dead. Hosting us on our channel. >> Hello, hello comic skaters. Good to Welcome to CG after dark. We are so happy to have you here. You look well-dressed and prepared for a hell of a show tonight clip oats. Good to see you my lovely co-host. How are you? >> I'm having a blast. Did you hear that all I do is dress up in silly costumes and pull stunts? >> So I've heard. I",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Vito Gesualdi",
+      "right": "Cecil",
+      "signal_type": "collaborated",
+      "timestamp": "12:05",
+      "confidence": 0.45,
+      "receipt": "[music] >> WELCOME BACK to CG after dark. With me as always is Katie dead. Hosting us on our channel. >> Hello, hello comic skaters. Good to Welcome to CG after dark. We are so happy to have you here. You look well-dressed and prepared for a hell of a show tonight clip oats. Good to see you my lovely co-host. How are you? >> I'm having a blast. Did you hear that all I do is dress up in silly costumes and pull stunts? >> So I've heard. I",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Dick Masterson",
+      "right": "Cecil",
+      "signal_type": "collaborated",
+      "timestamp": "12:05",
+      "confidence": 0.45,
+      "receipt": "[music] >> WELCOME BACK to CG after dark. With me as always is Katie dead. Hosting us on our channel. >> Hello, hello comic skaters. Good to Welcome to CG after dark. We are so happy to have you here. You look well-dressed and prepared for a hell of a show tonight clip oats. Good to see you my lovely co-host. How are you? >> I'm having a blast. Did you hear that all I do is dress up in silly costumes and pull stunts? >> So I've heard. I",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Vito Gesualdi",
+      "right": "Dick Masterson",
+      "signal_type": "separation",
+      "timestamp": "12:05",
+      "confidence": 0.45,
+      "receipt": "[music] >> WELCOME BACK to CG after dark. With me as always is Katie dead. Hosting us on our channel. >> Hello, hello comic skaters. Good to Welcome to CG after dark. We are so happy to have you here. You look well-dressed and prepared for a hell of a show tonight clip oats. Good to see you my lovely co-host. How are you? >> I'm having a blast. Did you hear that all I do is dress up in silly costumes and pull stunts? >> So I've heard. I",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Vito Gesualdi",
+      "right": "Cecil",
+      "signal_type": "separation",
+      "timestamp": "12:05",
+      "confidence": 0.45,
+      "receipt": "[music] >> WELCOME BACK to CG after dark. With me as always is Katie dead. Hosting us on our channel. >> Hello, hello comic skaters. Good to Welcome to CG after dark. We are so happy to have you here. You look well-dressed and prepared for a hell of a show tonight clip oats. Good to see you my lovely co-host. How are you? >> I'm having a blast. Did you hear that all I do is dress up in silly costumes and pull stunts? >> So I've heard. I",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Dick Masterson",
+      "right": "Cecil",
+      "signal_type": "separation",
+      "timestamp": "12:05",
+      "confidence": 0.45,
+      "receipt": "[music] >> WELCOME BACK to CG after dark. With me as always is Katie dead. Hosting us on our channel. >> Hello, hello comic skaters. Good to Welcome to CG after dark. We are so happy to have you here. You look well-dressed and prepared for a hell of a show tonight clip oats. Good to see you my lovely co-host. How are you? >> I'm having a blast. Did you hear that all I do is dress up in silly costumes and pull stunts? >> So I've heard. I",
+      "warning": "co-mention plus language signal; requires interpretation"
+    }
+  ],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

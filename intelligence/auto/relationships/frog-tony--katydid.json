@@ -1,0 +1,44 @@
+{
+  "relationship_id": "frog-tony--katydid",
+  "left": "Frog Tony",
+  "right": "KatyDid",
+  "signals": [
+    {
+      "video_id": "RxZ_OdBN2f0",
+      "episode_title": "Katydid Caught LYING AGAIN! - Detractor Kings",
+      "source": "Frog Tony",
+      "left": "Frog Tony",
+      "right": "KatyDid",
+      "signal_type": "defended",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "ito says jokes are funny and the whole room [music] smokes. A thousand miles and running. THE FROG HAS GOT THE WHOLE TOWN BUZZING. THEY CRIED [music] OVER JOKES. NOW they're fussing. A thousand miles and running. >> I'M FROG TONY. Let me tell you who I be. Drink tequila WITH AN APPLE SITTING NEXT to me. Working [music] in the garbage factory all day long AND COMICS AND VIDEO GAMES TILL THE BREAK OF DAWN. Senate keeps barking. ANGRY LITTLE DWARF",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "RxZ_OdBN2f0",
+      "episode_title": "Katydid Caught LYING AGAIN! - Detractor Kings",
+      "source": "Frog Tony",
+      "left": "Frog Tony",
+      "right": "KatyDid",
+      "signal_type": "collaborated",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "ito says jokes are funny and the whole room [music] smokes. A thousand miles and running. THE FROG HAS GOT THE WHOLE TOWN BUZZING. THEY CRIED [music] OVER JOKES. NOW they're fussing. A thousand miles and running. >> I'M FROG TONY. Let me tell you who I be. Drink tequila WITH AN APPLE SITTING NEXT to me. Working [music] in the garbage factory all day long AND COMICS AND VIDEO GAMES TILL THE BREAK OF DAWN. Senate keeps barking. ANGRY LITTLE DWARF",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "MBKTh4fSITU",
+      "episode_title": "\"MINISTRY OF UNGENTLEMANLY TWEETS\" EXPOSES COMMI3 MARK - OH NO!",
+      "source": "Commi3 Mark",
+      "left": "Frog Tony",
+      "right": "KatyDid",
+      "signal_type": "promoted",
+      "timestamp": "12:02",
+      "confidence": 0.45,
+      "receipt": "ything that's going to be relevant on Sunday is not going to be relevant by Friday anymore in it. [laughter] So I spend all of that time thinking like oh okay um who are we going to talk about this week? like um we done Frog Tony two weeks in a row basically and um you know we did a ripper episode before that. It's like so I was trying to choose like where do we point it because I don't want to be accused of picking on one person or one group an",
+      "warning": "co-mention plus language signal; requires interpretation"
+    }
+  ],
+  "updated_at": "2026-07-15T21:04:41.582990+00:00"
+}

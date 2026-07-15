@@ -1,0 +1,118 @@
+{
+  "schema_version": "octopuss-preanalysis-v0.1",
+  "generated_at": "2026-07-15T21:04:16.739316+00:00",
+  "video_id": "iZU8Ozto3VQ",
+  "title": "MATI: Metokur & Cog Bend Over for Ethan Ralph (Jul 10, 2026)",
+  "source": "Elissa Clips",
+  "published": "2026-07-14T21:56:51+00:00",
+  "packet_hash": "43796c0d4c616f06dd06a59730cca1e51784ab868db7e3e4a995ed69266e2ea4",
+  "coverage": {
+    "first_caption_second": 0.0,
+    "last_caption_second": 565.36,
+    "timestamp_start": "00:00",
+    "timestamp_end": "09:25",
+    "caption_span_seconds": 565.36,
+    "status": "transcript_present",
+    "note": "This measures the caption span only. It does not prove complete coverage of the original video."
+  },
+  "participant_candidates": [
+    {
+      "entity": "Elissa Clips",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.72,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Ethan Van Sciver",
+      "mentions": 3,
+      "block_count": 1,
+      "first_timestamp": "00:00",
+      "last_timestamp": "09:25",
+      "discussion_span_seconds": 565.4,
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.902,
+        "positive_hits": 39,
+        "negative_hits": 2
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "So, uh Ralph says, \"How the [ __ ] is your heart failed but not mine, brother?\" In all seriousness, laughing crying emoji. So, Ralph is like, \"Haha, you're dying of cardiac failure, but I, despite being a fat, slovenly piece of [ __ ] who has open contempt for my own well-being in life, I'm doing fine.\" So, Jim decided to put this video out. Now, you know, as the first Jim log, as no Jim log preceded me, um I have never been shy about c"
+        }
+      ],
+      "appearance_status": "uncertain"
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "09:25",
+      "title": "Ethan Van Sciver",
+      "entities": [
+        "Ethan Van Sciver"
+      ],
+      "summary_seed": "So, uh Ralph says, \"How the [ __ ] is your heart failed but not mine, brother?\" In all seriousness, laughing crying emoji. So, Ralph is like, \"Haha, you're dying of cardiac failure, but I, despite being a fat, slovenly piece of [ __ ] who has open contempt for my own well-being in life, I'm doing fine.\" So, Jim decided to put this video out. Now, you know, as the first Jim log, as no Jim log preceded me, um I have ne",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    }
+  ],
+  "claim_candidates": [
+    {
+      "claimant": "unknown speaker",
+      "claim": "those are white, but dirty.",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think those are white, but dirty."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "he's so used to having his voice be ran through filtering or through a low-quality microphone that he didn't want to do his real voice Jew voice, not gay voice.",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "I think he's so used to having his voice be ran through filtering or through a low-quality microphone that he didn't want to do his real voice Jew voice, not gay voice."
+    },
+    {
+      "claimant": "Someone",
+      "claim": "compression socks in the chat and I thought they were [ __ ] with me.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "Someone said compression socks in the chat and I thought they were [ __ ] with me."
+    },
+    {
+      "claimant": "He",
+      "claim": "something Oh, he said he brought the voice thing, which he brings up the voice thing, but then it's really weird because he says what I said, but he's also like Let's just listen to his voice again real quick.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "He said something Oh, he said he brought the voice thing, which he brings up the voice thing, but then it's really weird because he says what I said, but he's also like Let's just listen to his voice again real quick."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that like Virginians settled by the British, but I think they have a common ancestor.",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "I know that like Virginians settled by the British, but I think they have a common ancestor."
+    }
+  ],
+  "quote_candidates": [
+    {
+      "timestamp": "00:00",
+      "text": "Now, you know, as the first Jim log, as no Jim log preceded me, um I have never been shy about criticizing Metokur.",
+      "significance_score": 1
+    }
+  ],
+  "relationship_signals": [],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

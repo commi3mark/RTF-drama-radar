@@ -1,0 +1,173 @@
+{
+  "schema_version": "octopuss-preanalysis-v0.1",
+  "generated_at": "2026-07-15T21:04:17.465928+00:00",
+  "video_id": "p4tTJHqHSRE",
+  "title": "Netflix NEEDS God! They Want Christian Viewers NOW?!",
+  "source": "Shane Davis",
+  "published": "2026-07-13T10:15:18+00:00",
+  "packet_hash": "179230a9d240ead51d0284a573a616ba33756c77edf6d216b0f56d5d3f769776",
+  "coverage": {
+    "first_caption_second": 4.72,
+    "last_caption_second": 787.8,
+    "timestamp_start": "00:04",
+    "timestamp_end": "13:07",
+    "caption_span_seconds": 783.08,
+    "status": "transcript_present",
+    "note": "This measures the caption span only. It does not prove complete coverage of the original video."
+  },
+  "participant_candidates": [
+    {
+      "entity": "Shane Davis",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.72,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Shane Davis",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "00:04",
+      "last_timestamp": "12:03",
+      "discussion_span_seconds": 719.0,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.932,
+        "positive_hits": 57,
+        "negative_hits": 2
+      },
+      "receipts": [
+        {
+          "timestamp": "00:04",
+          "excerpt": "Hello guys. I'm Shane Davis and we're going to talk a little bit today about Netflix and their quick pivot, okay, that they're doing towards strategy to faith and family. These two things they want to do with their rollout, I guess, going into the"
+        }
+      ],
+      "appearance_status": "uncertain"
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:04",
+      "end": "12:03",
+      "title": "Shane Davis",
+      "entities": [
+        "Shane Davis"
+      ],
+      "summary_seed": "Hello guys. I'm Shane Davis and we're going to talk a little bit today about Netflix and their quick pivot, okay, that they're doing towards strategy to faith and family. These two things they want to do with their rollout, I guess, going into the next year. Now, this is after that it seems like they were unable to acquire Warner Brothers. So, I don't know if this is plan B scenario. I don't know what they would have",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "12:00",
+      "end": "13:07",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": "I ain't going to lie to you. Truth [music] always hurts worse. Doing good till first reverse, now you last. Blast of the past. >> [music] >> It's cool though. Last card played right. Who knows? We never let up. Been down forever. Sick man, we fed up. Know that we tired. Wake up the beast [music] that's been sleeping inside. It's time to ride. We ready to slide. Hard headed, I will not listen. If you do not get it, th",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    }
+  ],
+  "claim_candidates": [
+    {
+      "claimant": "unknown speaker",
+      "claim": "it was like Matt Damon was talking about how they were having to restructure story in a movie basically for people's low attention span.",
+      "timestamp": "00:04",
+      "status": "opinion_or_inference",
+      "receipt": "Now, I I do believe this is an issue with Netflix because I think it was like Matt Damon was talking about how they were having to restructure story in a movie basically for people's low attention span."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "there is a glut of stuff.",
+      "timestamp": "00:04",
+      "status": "opinion_or_inference",
+      "receipt": "I think there is a glut of stuff."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that's going to just turn out to be an absolute freak show of fights.",
+      "timestamp": "00:04",
+      "status": "opinion_or_inference",
+      "receipt": "And I think that's going to just turn out to be an absolute freak show of fights."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "it was Gray Man and stuff like that.",
+      "timestamp": "00:04",
+      "status": "opinion_or_inference",
+      "receipt": "So, they were doing this thing where like, I think it was Gray Man and stuff like that."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "a lot of this is actually got to do with two movies in particular this year, and one of them is Obsession, the other one is uh Backrooms.",
+      "timestamp": "00:04",
+      "status": "opinion_or_inference",
+      "receipt": "I believe a lot of this is actually got to do with two movies in particular this year, and one of them is Obsession, the other one is uh Backrooms."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "the number I had pulled online was like $750,000.",
+      "timestamp": "00:04",
+      "status": "opinion_or_inference",
+      "receipt": "I think the number I had pulled online was like $750,000."
+    },
+    {
+      "claimant": "want to underscore I think that's easier",
+      "claim": "than done.",
+      "timestamp": "00:04",
+      "status": "opinion_or_inference",
+      "receipt": "So, I actually think that is a good plan, but I do want to underscore I think that's easier said than done."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that's the biggest takeaway here is they're actually trying something different.",
+      "timestamp": "00:04",
+      "status": "opinion_or_inference",
+      "receipt": "And I think that's the biggest takeaway here is they're actually trying something different."
+    }
+  ],
+  "quote_candidates": [
+    {
+      "timestamp": "00:04",
+      "text": "Now, I I do believe this is an issue with Netflix because I think it was like Matt Damon was talking about how they were having to restructure story in a movie basically for people's low attention span.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "00:04",
+      "text": "So, but part of that issue, I believe, is quality.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "00:04",
+      "text": "I would have never watched this, but everybody's talking about it, and this is a word of mouth movie that has accumulated a lot of wealth.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "00:04",
+      "text": "I mean, that thing's always making bank.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "00:04",
+      "text": "And Netflix they'd never really done this.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "00:04",
+      "text": "Some you could argue, some not, but they were core um the story is good versus evil always, right?",
+      "significance_score": 1
+    }
+  ],
+  "relationship_signals": [],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "schema_version": "octopuss-auto-event-v0.1",
+  "event_id": "Vj5FINXThF4",
+  "title": "TheQuartering: Friday Night Tights is a Huge Pword for Firing Chrissie Mayr (Jul 13, 2026)",
+  "source": "Elissa Clips",
+  "published": "2026-07-13T23:29:23+00:00",
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "07:17",
+      "title": "Chrissie Mayr / Friday Night Tights / TheQuartering",
+      "entities": [
+        "Chrissie Mayr",
+        "Friday Night Tights",
+        "TheQuartering"
+      ],
+      "summary_seed": "Hey, hey. How's everyone going? How's everyone doing on this Monday? Monday, Monday, Monday. We've got all the weekend news. It's very hot in Wisconsin right now. 90s-ish degrees. Very, very hot. Uh very, very hot. Um but you know. >> [music] >> That's the way it goes. The morning show is not is not [music] cooked. We may we may still keep the morning show. Uh just this last week or so has been you know, pretty slow",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Chrissie Mayr",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.643,
+        "positive_hits": 23,
+        "negative_hits": 5
+      }
+    },
+    {
+      "entity": "Friday Night Tights",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.643,
+        "positive_hits": 23,
+        "negative_hits": 5
+      }
+    },
+    {
+      "entity": "TheQuartering",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.643,
+        "positive_hits": 23,
+        "negative_hits": 5
+      }
+    }
+  ],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

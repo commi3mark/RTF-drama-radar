@@ -1,0 +1,20 @@
+{
+  "relationship_id": "frog-tony--nerdrotic",
+  "left": "Frog Tony",
+  "right": "Nerdrotic",
+  "signals": [
+    {
+      "video_id": "MmvMoleX9Ls",
+      "episode_title": "Gabbing With Ga......You Know",
+      "source": "FFS Cast",
+      "left": "Frog Tony",
+      "right": "Nerdrotic",
+      "signal_type": "friendship_claim",
+      "timestamp": "36:01",
+      "confidence": 0.45,
+      "receipt": "this, uh, author said, um, I [ __ ] hope not. [snorts] Yeah, >> of course, the the the speaker is a female, correct? The writer. >> Yes. Yeah, I'll give you that. The writer is a woman. Yeah. >> All right. So, I mean, that that makes it sound even more like it was Lean. >> That Well, that's just that that's what somebody was saying was like, I think Liam wrote this. And I was like, \"Yeah, but it it's it reads like a woman writes, right?",
+      "warning": "co-mention plus language signal; requires interpretation"
+    }
+  ],
+  "updated_at": "2026-07-15T21:04:33.590744+00:00"
+}

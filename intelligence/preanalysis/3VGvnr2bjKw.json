@@ -1,0 +1,335 @@
+{
+  "schema_version": "octopuss-preanalysis-v0.1",
+  "generated_at": "2026-07-15T21:04:17.455044+00:00",
+  "video_id": "3VGvnr2bjKw",
+  "title": "Potentially Criminal on Nick Rekieta’s Downfall (Jul 12, 2026)",
+  "source": "Elissa Clips",
+  "published": "2026-07-13T13:12:53+00:00",
+  "packet_hash": "c328775713340597f7e63a354ab6fad055d67cb8957def3cda8488aaa04c687d",
+  "coverage": {
+    "first_caption_second": 0.16,
+    "last_caption_second": 1247.6,
+    "timestamp_start": "00:00",
+    "timestamp_end": "20:47",
+    "caption_span_seconds": 1247.44,
+    "status": "transcript_present",
+    "note": "This measures the caption span only. It does not prove complete coverage of the original video."
+  },
+  "participant_candidates": [
+    {
+      "entity": "Elissa Clips",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.72,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Aaron Imholte",
+      "mentions": 26,
+      "block_count": 1,
+      "first_timestamp": "00:00",
+      "last_timestamp": "12:02",
+      "discussion_span_seconds": 722.3,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.867,
+        "positive_hits": 84,
+        "negative_hits": 6
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "Can we talk about Nick? How open are you to talking about Nick? I suppose like it's probably a good starting point because like >> I mean I I guess we can talk about it and I'll tell you what I feel like telling you. >> That's fair. That's fair >> more or less in that regard. Um, so I mean we when the Nick stuff happened, uh, like when Rakita got arrested and was going downhill, he'd been going downhill for a while. >> Um, like my under"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Ethan Van Sciver",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "00:00",
+      "last_timestamp": "12:02",
+      "discussion_span_seconds": 722.3,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.867,
+        "positive_hits": 84,
+        "negative_hits": 6
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "Can we talk about Nick? How open are you to talking about Nick? I suppose like it's probably a good starting point because like >> I mean I I guess we can talk about it and I'll tell you what I feel like telling you. >> That's fair. That's fair >> more or less in that regard. Um, so I mean we when the Nick stuff happened, uh, like when Rakita got arrested and was going downhill, he'd been going downhill for a while. >> Um, like my under"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "TheQuartering",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "12:01",
+      "last_timestamp": "20:47",
+      "discussion_span_seconds": 526.2,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.831,
+        "positive_hits": 54,
+        "negative_hits": 5
+      },
+      "receipts": [
+        {
+          "timestamp": "12:01",
+          "excerpt": "didn't even really speak about quartering or Jeremy or anything else. He seems to have tried to both stay like I see his tweets every now and again and they seem to be talking like >> Are you talking about Nick? >> Yeah. Yeah. >> Oh, I mean Oh, okay. Yes. Well, I was say you're talking about Aaron, it's like well that's the thing. Um if no for Nick um I I think for I mean he's obviously like not like you know he's always there's always"
+        }
+      ],
+      "appearance_status": "uncertain"
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "12:02",
+      "title": "Aaron Imholte / Ethan Van Sciver",
+      "entities": [
+        "Aaron Imholte",
+        "Ethan Van Sciver"
+      ],
+      "summary_seed": "Can we talk about Nick? How open are you to talking about Nick? I suppose like it's probably a good starting point because like >> I mean I I guess we can talk about it and I'll tell you what I feel like telling you. >> That's fair. That's fair >> more or less in that regard. Um, so I mean we when the Nick stuff happened, uh, like when Rakita got arrested and was going downhill, he'd been going downhill for a while.",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "12:01",
+      "end": "20:47",
+      "title": "TheQuartering",
+      "entities": [
+        "TheQuartering"
+      ],
+      "summary_seed": "didn't even really speak about quartering or Jeremy or anything else. He seems to have tried to both stay like I see his tweets every now and again and they seem to be talking like >> Are you talking about Nick? >> Yeah. Yeah. >> Oh, I mean Oh, okay. Yes. Well, I was say you're talking about Aaron, it's like well that's the thing. Um if no for Nick um I I think for I mean he's obviously like not like you know he's al",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    }
+  ],
+  "claim_candidates": [
+    {
+      "claimant": "and has",
+      "claim": "like, you know, wait till they don't like you and they turn on you.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "Well, it it's it's very typical of if you know, and this is where um Nick has repeatedly, you know, more than once to me in messages was like, you know, and has said like, you know, wait till they don't like you and they turn on you."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "more than multiple people were checking on him like man are you okay?",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "And um you know I know more than multiple people were checking on him like man are you okay?"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "I think we see this now more too and and and from having dealt with, you know, clients and people with, you know, dependency issues.",
+      "timestamp": "00:00",
+      "status": "opinion_or_inference",
+      "receipt": "But I I I think I think we see this now more too and and and from having dealt with, you know, clients and people with, you know, dependency issues."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that he had a pearl violation cuz I saw you cover a little bit of that.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "so is it like I know that he had a pearl violation cuz I saw you cover a little bit of that."
+    },
+    {
+      "claimant": "Aaron",
+      "claim": "he's almost done.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "I mean, Aaron says he's almost done."
+    },
+    {
+      "claimant": "he",
+      "claim": "it could be up this month or soon.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "You know, he says it could be up this month or soon."
+    },
+    {
+      "claimant": "Nick Nick",
+      "claim": "he was like, you know, the Don Juan of this and he was [ __ ] you know, both [ __ ] left and right.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "And you know, Nick Nick claims he was like, you know, the Don Juan of this and he was [ __ ] you know, both [ __ ] left and right."
+    },
+    {
+      "claimant": "Nick",
+      "claim": "it was an unconensual image.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "Well, Nick claims it was an unconensual image."
+    },
+    {
+      "claimant": "He has to tell stories because if he",
+      "claim": "like, \"Oh, my wife flipped her tits out for Aaron and he got to take a picture and she they were all happy about it.\" It it damages him because whether or not what we believe happened is a big deal.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "He has to tell stories because if he says like, \"Oh, my wife flipped her tits out for Aaron and he got to take a picture and she they were all happy about it.\" It it damages him because whether or not what we believe happened is a big deal."
+    },
+    {
+      "claimant": "And he",
+      "claim": "it was like a non-consensual image and it it was like it was so bad for her and it ruined her reputation.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "receipt": "And he claims it was like a non-consensual image and it it was like it was so bad for her and it ruined her reputation."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "for I mean he's obviously like not like you know he's always there's always an emergency or something he's working on.",
+      "timestamp": "12:01",
+      "status": "opinion_or_inference",
+      "receipt": "Um if no for Nick um I I think for I mean he's obviously like not like you know he's always there's always an emergency or something he's working on."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "he got the whole way through it or most of the way through that one.",
+      "timestamp": "12:01",
+      "status": "opinion_or_inference",
+      "receipt": "Um, you know, the Karen Reed case, I think he got the whole way through it or most of the way through that one."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "it's I just think for him he doesn't like doing it.",
+      "timestamp": "12:01",
+      "status": "opinion_or_inference",
+      "receipt": "But that's honestly I think it's I just think for him he doesn't like doing it."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that's really is where he's at now.",
+      "timestamp": "12:01",
+      "status": "opinion_or_inference",
+      "receipt": "And I think that's really is where he's at now."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "is a curse that happens to a lot of content creators, right?",
+      "timestamp": "12:01",
+      "status": "opinion_or_inference",
+      "receipt": "hates hates what he's become, which I think is a curse that happens to a lot of content creators, right?"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that that's just I think you're I think I think you're looking into it a little too much at that point is my opinion.",
+      "timestamp": "12:01",
+      "status": "opinion_or_inference",
+      "receipt": "I like I said, I think that that's just I think you're I think I think you're looking into it a little too much at that point is my opinion."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that Nick potentially got it worse than most.",
+      "timestamp": "12:01",
+      "status": "opinion_or_inference",
+      "receipt": "And it's it's one of those as well, like it's I think that Nick potentially got it worse than most."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that's probably quite rough if you're used to those people being in your corner.",
+      "timestamp": "12:01",
+      "status": "opinion_or_inference",
+      "receipt": "Um I think that's probably quite rough if you're used to those people being in your corner."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "the biggest comeback story I I've seen is probably Warski in these spaces with the way Kia Casino is now.",
+      "timestamp": "12:01",
+      "status": "opinion_or_inference",
+      "receipt": "I think the biggest comeback story I I've seen is probably Warski in these spaces with the way Kia Casino is now."
+    }
+  ],
+  "quote_candidates": [
+    {
+      "timestamp": "00:00",
+      "text": "he had tried to appeal um some issue that honestly he came like this close to winning and I thought, you know, it was going to come down to the wire.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "00:00",
+      "text": "But I I I think I think we see this now more too and and and from having dealt with, you know, clients and people with, you know, dependency issues.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "00:00",
+      "text": "uh, that that's the big issue there.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "12:01",
+      "text": "I I wouldn't get too I wouldn't get too into that if that was the ultimate issue for Nick.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "00:00",
+      "text": "He's always been this person more or less.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "00:00",
+      "text": "And then, but you know, Aaron tries to claim, you know, well, was me and Kayla and, you know, going the other way and Nick is like, THAT TOTALLY NEVER HAPPENED.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "12:01",
+      "text": "Um if no for Nick um I I think for I mean he's obviously like not like you know he's always there's always an emergency or something he's working on.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "12:01",
+      "text": "and it is really and yeah, you're always going to like if you don't up you'll get you'll maintain a legacy audience um who just know you from the reason they started watching you.",
+      "significance_score": 1
+    }
+  ],
+  "relationship_signals": [
+    {
+      "left": "Aaron Imholte",
+      "right": "Ethan Van Sciver",
+      "signal_type": "legal_conflict",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "Can we talk about Nick? How open are you to talking about Nick? I suppose like it's probably a good starting point because like >> I mean I I guess we can talk about it and I'll tell you what I feel like telling you. >> That's fair. That's fair >> more or less in that regard. Um, so I mean we when the Nick stuff happened, uh, like when Rakita got arrested and was going downhill, he'd been going downhill for a while. >> Um, like my under",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Aaron Imholte",
+      "right": "Ethan Van Sciver",
+      "signal_type": "friendship_claim",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "Can we talk about Nick? How open are you to talking about Nick? I suppose like it's probably a good starting point because like >> I mean I I guess we can talk about it and I'll tell you what I feel like telling you. >> That's fair. That's fair >> more or less in that regard. Um, so I mean we when the Nick stuff happened, uh, like when Rakita got arrested and was going downhill, he'd been going downhill for a while. >> Um, like my under",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Aaron Imholte",
+      "right": "Ethan Van Sciver",
+      "signal_type": "separation",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "Can we talk about Nick? How open are you to talking about Nick? I suppose like it's probably a good starting point because like >> I mean I I guess we can talk about it and I'll tell you what I feel like telling you. >> That's fair. That's fair >> more or less in that regard. Um, so I mean we when the Nick stuff happened, uh, like when Rakita got arrested and was going downhill, he'd been going downhill for a while. >> Um, like my under",
+      "warning": "co-mention plus language signal; requires interpretation"
+    }
+  ],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

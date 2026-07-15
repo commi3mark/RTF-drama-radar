@@ -1,0 +1,80 @@
+{
+  "relationship_id": "comicsgate--cyberfrog",
+  "left": "ComicsGate",
+  "right": "Cyberfrog",
+  "signals": [
+    {
+      "video_id": "Zd9PVsLAD5c",
+      "episode_title": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
+      "source": "Ethan Van Sciver",
+      "left": "ComicsGate",
+      "right": "Cyberfrog",
+      "signal_type": "friendship_claim",
+      "timestamp": "00:04",
+      "confidence": 0.45,
+      "receipt": "7 miles from target. Hostiles inbound shoot break. Heat. Heat. Heat. 6:00 in the rings. >> I'm going to pop. I did have a relationship with Mr. Lewinsky that was not appropriate. >> In fact, >> I'm going to get you. >> It constituted a critical lapse in judgment. >> Keep it in your pants, Saxs, man. >> This is an emergency broadcast. >> Why can't I finish my damn chicken? >> Ain't you an ugly honeysucker? Hey, how you doing? You're rapi",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "Zd9PVsLAD5c",
+      "episode_title": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
+      "source": "Ethan Van Sciver",
+      "left": "ComicsGate",
+      "right": "Cyberfrog",
+      "signal_type": "friendship_claim",
+      "timestamp": "01:48:01",
+      "confidence": 0.45,
+      "receipt": ">> 53. And I'll probably like five of these. [laughter] >> People are always telling me that I should change the name ComicCape. Today, I offered an alternative. Let's see how that went. I [music] am going to abandon # comicsgate to describe what I'm building in 2021. The mainstream is dead. There's no conflict there anymore. We've won. I invite you all to immigrate over to Independent Comics Empire. I'm sure everyone who had a problem with Comi",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "ibGd2AqrEXg",
+      "episode_title": "JON DEL ARROZ: HERES THE ATTENTION YOU ORDERED - SHANE DAVIS BACK ME BRO INTERNET BEEF - EXTRA SALTY",
+      "source": "Commi3 Mark",
+      "left": "ComicsGate",
+      "right": "Cyberfrog",
+      "signal_type": "promoted",
+      "timestamp": "01:24:01",
+      "confidence": 0.45,
+      "receipt": "o react a little bit to it because it's very very funny. Um basically the contention is Indiegogo, if you don't know, changed the way that they were because they got a new ownership. And when they did so, it showed that ComicsGate actually had a lot less backers than people thought previous because they changed it from people who backed over and over and over again to unique backers. And so Comics actually lost 20 30% of their backers uh from wha",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "ibGd2AqrEXg",
+      "episode_title": "JON DEL ARROZ: HERES THE ATTENTION YOU ORDERED - SHANE DAVIS BACK ME BRO INTERNET BEEF - EXTRA SALTY",
+      "source": "Commi3 Mark",
+      "left": "ComicsGate",
+      "right": "Cyberfrog",
+      "signal_type": "legal_conflict",
+      "timestamp": "01:24:01",
+      "confidence": 0.45,
+      "receipt": "o react a little bit to it because it's very very funny. Um basically the contention is Indiegogo, if you don't know, changed the way that they were because they got a new ownership. And when they did so, it showed that ComicsGate actually had a lot less backers than people thought previous because they changed it from people who backed over and over and over again to unique backers. And so Comics actually lost 20 30% of their backers uh from wha",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "6GIxuFOICAI",
+      "episode_title": "Catching Up With The Rippaverse! - Detractor Kings",
+      "source": "Frog Tony",
+      "left": "ComicsGate",
+      "right": "Cyberfrog",
+      "signal_type": "legal_conflict",
+      "timestamp": "02:12:00",
+      "confidence": 0.45,
+      "receipt": "minutes long. Oh, okay. >> Cool. >> That's a whole saga. >> All right. Well, I just wanted to get on and show you guys the printer. So, yeah, I'll leave. >> All right. I don't know if you wanted to say to uh watch this. Ethan begging for super chats. >> Oh, [laughter] well, you know, I think it's funny that, you know, he's now noticing that, you know, the money's going down. Uh but, you know, I think that's also in part to, you know, th",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "6GIxuFOICAI",
+      "episode_title": "Catching Up With The Rippaverse! - Detractor Kings",
+      "source": "Frog Tony",
+      "left": "ComicsGate",
+      "right": "Cyberfrog",
+      "signal_type": "friendship_claim",
+      "timestamp": "02:12:00",
+      "confidence": 0.45,
+      "receipt": "minutes long. Oh, okay. >> Cool. >> That's a whole saga. >> All right. Well, I just wanted to get on and show you guys the printer. So, yeah, I'll leave. >> All right. I don't know if you wanted to say to uh watch this. Ethan begging for super chats. >> Oh, [laughter] well, you know, I think it's funny that, you know, he's now noticing that, you know, the money's going down. Uh but, you know, I think that's also in part to, you know, th",
+      "warning": "co-mention plus language signal; requires interpretation"
+    }
+  ],
+  "updated_at": "2026-07-15T21:04:40.830178+00:00"
+}

@@ -1,0 +1,61 @@
+{
+  "schema_version": "octopuss-auto-event-v0.1",
+  "event_id": "3up8iIaCs_E",
+  "title": "Absolute Batman Scam? Mark Brooks Exposes How Retailers Screw Artists!",
+  "source": "Shane Davis",
+  "published": "2026-07-08T10:15:11+00:00",
+  "chapters": [
+    {
+      "start": "00:04",
+      "end": "12:04",
+      "title": "Shane Davis",
+      "entities": [
+        "Shane Davis"
+      ],
+      "summary_seed": "Hello guys, I'm Shane Davis and we're here to talk about the big fiasco with absolute Batman as Mark Brooks says, \"Give me that money. Give me that money.\" That's what Mark Brooks is saying for absolute Batman 22 exclusive cover. Mark Brooks is pulling these things and running them on his own website right now. Big markups, I guess a membership, a paywall to get first dibs, skyrocketing prices for some of these cover",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    },
+    {
+      "start": "12:01",
+      "end": "15:13",
+      "title": "BackMeBro",
+      "entities": [
+        "BackMeBro"
+      ],
+      "summary_seed": "retailers, you kind of see where I land on this. And in some cases, if you look at Abrams Books with what Rob is saying, they're already getting ready to license these direct to creators. We got Alex Ross Marvel Dimensions. Pre-order is up now. Abrams just published a sold-out John Byrne book, by the way. Again, Marvel didn't make most of that money. Comic shops, they can make this money, sure, but we are dangerously",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "BackMeBro",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.667,
+        "positive_hits": 5,
+        "negative_hits": 1
+      }
+    },
+    {
+      "entity": "Shane Davis",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "positive_hits": 21,
+        "negative_hits": 0
+      }
+    }
+  ],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

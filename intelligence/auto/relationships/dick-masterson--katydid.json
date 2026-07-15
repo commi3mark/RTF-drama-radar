@@ -1,0 +1,80 @@
+{
+  "relationship_id": "dick-masterson--katydid",
+  "left": "Dick Masterson",
+  "right": "KatyDid",
+  "signals": [
+    {
+      "video_id": "7LMz5W0-mLs",
+      "episode_title": "Finbarr STOMPS A Dwarf! - OPEN PANEL MADHOUSE!!!!",
+      "source": "Frog Tony",
+      "left": "Dick Masterson",
+      "right": "KatyDid",
+      "signal_type": "criticised",
+      "timestamp": "01:12:00",
+      "confidence": 0.45,
+      "receipt": ">> Yeah. I got no idea. [laughter] >> Yeah. >> I'm so lost in the drug. Oh, >> dude. A normal amount is like 20 milligrams. Okay. So, I was doing 10 times the normal amount. That is a one. Rev was eating good. >> Yeah. But anyway, >> Angela Smokey, that's a lot. >> Anyway, I think we've uh we're getting way off. >> Way to eat. >> Yeah. Tooth. >> Tooth. Tooth. >> Real quick. Right. Imagine the um >> It's never real quick with you, Stray.",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "7LMz5W0-mLs",
+      "episode_title": "Finbarr STOMPS A Dwarf! - OPEN PANEL MADHOUSE!!!!",
+      "source": "Frog Tony",
+      "left": "Dick Masterson",
+      "right": "KatyDid",
+      "signal_type": "legal_conflict",
+      "timestamp": "01:12:00",
+      "confidence": 0.45,
+      "receipt": ">> Yeah. I got no idea. [laughter] >> Yeah. >> I'm so lost in the drug. Oh, >> dude. A normal amount is like 20 milligrams. Okay. So, I was doing 10 times the normal amount. That is a one. Rev was eating good. >> Yeah. But anyway, >> Angela Smokey, that's a lot. >> Anyway, I think we've uh we're getting way off. >> Way to eat. >> Yeah. Tooth. >> Tooth. Tooth. >> Real quick. Right. Imagine the um >> It's never real quick with you, Stray.",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "RxZ_OdBN2f0",
+      "episode_title": "Katydid Caught LYING AGAIN! - Detractor Kings",
+      "source": "Frog Tony",
+      "left": "Dick Masterson",
+      "right": "KatyDid",
+      "signal_type": "defended",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "lately. >> Whoa. >> And I think uh it's time for forgiveness, right? I got to forgive you people. >> And so, uh, Veto, I got to forgive them. Uh because I reached out to Veto and I said, \"Veto, you gotta take the deal. Dick Masterson has offered you a golden golden opportunity to take over the biggest problem in the universe. Um, Patreon right now. It's not about the brand. It's not about the name. It's not about uh any of that kind of thing, right?",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "RxZ_OdBN2f0",
+      "episode_title": "Katydid Caught LYING AGAIN! - Detractor Kings",
+      "source": "Frog Tony",
+      "left": "Dick Masterson",
+      "right": "KatyDid",
+      "signal_type": "collaborated",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "lately. >> Whoa. >> And I think uh it's time for forgiveness, right? I got to forgive you people. >> And so, uh, Veto, I got to forgive them. Uh because I reached out to Veto and I said, \"Veto, you gotta take the deal. Dick Masterson has offered you a golden golden opportunity to take over the biggest problem in the universe. Um, Patreon right now. It's not about the brand. It's not about the name. It's not about uh any of that kind of thing, right?",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "MBKTh4fSITU",
+      "episode_title": "\"MINISTRY OF UNGENTLEMANLY TWEETS\" EXPOSES COMMI3 MARK - OH NO!",
+      "source": "Commi3 Mark",
+      "left": "Dick Masterson",
+      "right": "KatyDid",
+      "signal_type": "promoted",
+      "timestamp": "01:00:02",
+      "confidence": 0.45,
+      "receipt": ">> Yeah, like I I think I saw that like um I tried to think of what it could be, but it's not it it didn't spark the fire. [snorts] Um, so Jpot remains the middle class gatekeeper this week. Like, uh, he's the person to beat. If you want to get in the top 50, he's gatekeeping you out. Um, Maiden Hell is currently the middle class champion. Well done. [snorts] Like, uh, if you have a good performance this week, you might get promoted to",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "MBKTh4fSITU",
+      "episode_title": "\"MINISTRY OF UNGENTLEMANLY TWEETS\" EXPOSES COMMI3 MARK - OH NO!",
+      "source": "Commi3 Mark",
+      "left": "Dick Masterson",
+      "right": "KatyDid",
+      "signal_type": "friendship_claim",
+      "timestamp": "01:00:02",
+      "confidence": 0.45,
+      "receipt": ">> Yeah, like I I think I saw that like um I tried to think of what it could be, but it's not it it didn't spark the fire. [snorts] Um, so Jpot remains the middle class gatekeeper this week. Like, uh, he's the person to beat. If you want to get in the top 50, he's gatekeeping you out. Um, Maiden Hell is currently the middle class champion. Well done. [snorts] Like, uh, if you have a good performance this week, you might get promoted to",
+      "warning": "co-mention plus language signal; requires interpretation"
+    }
+  ],
+  "updated_at": "2026-07-15T21:04:41.747497+00:00"
+}

@@ -1,0 +1,918 @@
+{
+  "schema_version": "octopuss-preanalysis-v0.1",
+  "generated_at": "2026-07-15T21:04:25.406141+00:00",
+  "video_id": "MBKTh4fSITU",
+  "title": "\"MINISTRY OF UNGENTLEMANLY TWEETS\" EXPOSES COMMI3 MARK - OH NO!",
+  "source": "Commi3 Mark",
+  "published": "2026-06-26T23:47:47+00:00",
+  "packet_hash": "1d060d6a37d73fce08e2c795d7f4f230aa1d144bc2e0b219cabf772f76f7cc96",
+  "coverage": {
+    "first_caption_second": 2.399,
+    "last_caption_second": 8360.84,
+    "timestamp_start": "00:02",
+    "timestamp_end": "02:19:20",
+    "caption_span_seconds": 8358.441,
+    "status": "transcript_present",
+    "note": "This measures the caption span only. It does not prove complete coverage of the original video."
+  },
+  "participant_candidates": [
+    {
+      "entity": "Commi3 Mark",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.72,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Frog Tony",
+      "mentions": 19,
+      "block_count": 3,
+      "first_timestamp": "12:02",
+      "last_timestamp": "48:07",
+      "discussion_span_seconds": 2165.1,
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.955,
+        "positive_hits": 219,
+        "negative_hits": 5
+      },
+      "receipts": [
+        {
+          "timestamp": "12:02",
+          "excerpt": "ything that's going to be relevant on Sunday is not going to be relevant by Friday anymore in it. [laughter] So I spend all of that time thinking like oh okay um who are we going to talk about this week? like um we done Frog Tony two weeks in a row basically and um you know we did a ripper episode before that. It's like so I was trying to choose like where do we point it because I don't want to be accused of picking on one person or one group an"
+        },
+        {
+          "timestamp": "24:02",
+          "excerpt": "Hang on. This isn't my review. The actual blurb. This is [laughter] >> Oh, yeah. The avatar. >> I like that author the first time. That was a good stylistic flourish from me. [laughter] Follow the exciting adventures of Frog Tony's freedom fighting force as they showdown in an epic battle with super federal agent Habib and the FBI. Can Frog Tony really be this dumb? How did Lil Moo Perp get the nickname Lil Booty Perp? And what the hell is a rev"
+        },
+        {
+          "timestamp": "36:01",
+          "excerpt": "could insert some Tony jokes. >> Yeah. All right. >> I could say for instance, >> if this guy likes penises so much, >> they have lots of penises in prison. And let's hope that they stretch him out as wide as the gap in Frog Tony's mouth, you know, like something like that. >> Oh, >> if he wants if he wants to record little tiny penises so badly, he should just message Frog Tony. >> [laughter] >> Jesus. >> Yeah, he's got a whole [ __ ] cloud dri"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Ethan Van Sciver",
+      "mentions": 4,
+      "block_count": 2,
+      "first_timestamp": "12:02",
+      "last_timestamp": "48:07",
+      "discussion_span_seconds": 2165.1,
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.941,
+        "positive_hits": 164,
+        "negative_hits": 5
+      },
+      "receipts": [
+        {
+          "timestamp": "12:02",
+          "excerpt": "me to kill and I'll go and kill them in my own time. Like [clears throat] um my own part time. >> Yeah. >> Like, you think I'm wearing the same clothes as everyone else? >> All right, let's [ __ ] bring our Americans in. Uh, Billy and Piper combined makes a British person Billy Piper. [laughter] [snorts] >> I think it's incredibly racist for you people to think that uh >> you people. Yeah, you people, [laughter] you know, you people to"
+        },
+        {
+          "timestamp": "36:01",
+          "excerpt": "me. Like, um, I'm glad that he doesn't want to be my friend. Like, um, we might come back to this in the future. Like, there's a lot of material on this guy. Um, and but so what I actually want to do is find someone um who can help us to do a lunch tables map episode for the sector and it like cuz I only know about Ethan Ralph and Barely like and there's a lot of like orbiting going on around there. Like I'm sure there's people we can b"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Dick Masterson",
+      "mentions": 3,
+      "block_count": 2,
+      "first_timestamp": "01:00:02",
+      "last_timestamp": "02:12:03",
+      "discussion_span_seconds": 4321.0,
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.912,
+        "positive_hits": 108,
+        "negative_hits": 5
+      },
+      "receipts": [
+        {
+          "timestamp": "01:00:02",
+          "excerpt": ">> Yeah, like I I think I saw that like um I tried to think of what it could be, but it's not it it didn't spark the fire. [snorts] Um, so Jpot remains the middle class gatekeeper this week. Like, uh, he's the person to beat. If you want to get in the top 50, he's gatekeeping you out. Um, Maiden Hell is currently the middle class champion. Well done. [snorts] Like, uh, if you have a good performance this week, you might get promoted to"
+        },
+        {
+          "timestamp": "02:00:02",
+          "excerpt": "was good. But then he carried on like uh he showed me that um there will be further communication. I've been doing a whole bunch of stuff today like uh to because now I don't have to follow the rules and be nice and all of those things. Like I was just trying to get to that point. Yeah. >> Um, so >> yeah, you already won, so now you can do whatever. >> Yeah, now I can teabag him like while he's on the floor. >> Um, Jay Balmer jumps into"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Sturgis",
+      "mentions": 3,
+      "block_count": 2,
+      "first_timestamp": "24:02",
+      "last_timestamp": "02:12:03",
+      "discussion_span_seconds": 6481.3,
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.941,
+        "positive_hits": 98,
+        "negative_hits": 3
+      },
+      "receipts": [
+        {
+          "timestamp": "24:02",
+          "excerpt": "s one is no longer like um on it, so we can remove that. Thanks for watching that. Uh, this is the this is my favorite Eric July thumbnail of all of them that I've ever [laughter] made. >> Uh, lie there with the hat. >> Sturgis crucified on bacon is such a good joke. if you go and watch the episode like uh so much context you need to get it but it's good. >> Uh this one with Kit Clarenburg he's a journalist who got arrested on landing in the c"
+        },
+        {
+          "timestamp": "02:00:02",
+          "excerpt": "So, let's go back to that Matthew Berdick tweet where he says it was about Matthew Berdick. Um, oh, where is it? There's so many. It's before this. That's after. Um, it's a reply to this. Maybe. Oh, now I'm really like Sturgis. I can't even find the thing that I'm looking for, but it's fine. >> I thought you were going to say I'm really like Sturgis. I have huge eraser sized nipples. >> Like that's weird. >> It doesn't. Um his argument that h"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Eric July",
+      "mentions": 2,
+      "block_count": 2,
+      "first_timestamp": "24:02",
+      "last_timestamp": "01:12:04",
+      "discussion_span_seconds": 2882.3,
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.967,
+        "positive_hits": 120,
+        "negative_hits": 2
+      },
+      "receipts": [
+        {
+          "timestamp": "24:02",
+          "excerpt": "his is my playlist that's called less than three views away from a milestone. Um, [clears throat] this one is no longer like um on it, so we can remove that. Thanks for watching that. Uh, this is the this is my favorite Eric July thumbnail of all of them that I've ever [laughter] made. >> Uh, lie there with the hat. >> Sturgis crucified on bacon is such a good joke. if you go and watch the episode like uh so much context you need to get it but i"
+        },
+        {
+          "timestamp": "01:00:02",
+          "excerpt": "m, the analytics clearly show talk about an individual gets the best numbers and it like um that's obviously [snorts] apparent. Uh, so I was thinking who do we do it on? Like we've just done Frog Tony, Little Movie Pop, Eric July. Um, what's next? And um I got a notification that I've been added to a list um this list June 24th, 2026 by the Ministry of Ungentlemanly Tweets. So I click on the list, right? You can see it's got 31 members like and"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "KatyDid",
+      "mentions": 2,
+      "block_count": 2,
+      "first_timestamp": "12:02",
+      "last_timestamp": "01:12:04",
+      "discussion_span_seconds": 3602.2,
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.909,
+        "positive_hits": 147,
+        "negative_hits": 7
+      },
+      "receipts": [
+        {
+          "timestamp": "12:02",
+          "excerpt": "me to kill and I'll go and kill them in my own time. Like [clears throat] um my own part time. >> Yeah. >> Like, you think I'm wearing the same clothes as everyone else? >> All right, let's [ __ ] bring our Americans in. Uh, Billy and Piper combined makes a British person Billy Piper. [laughter] [snorts] >> I think it's incredibly racist for you people to think that uh >> you people. Yeah, you people, [laughter] you know, you people to"
+        },
+        {
+          "timestamp": "01:00:02",
+          "excerpt": ">> Yeah, like I I think I saw that like um I tried to think of what it could be, but it's not it it didn't spark the fire. [snorts] Um, so Jpot remains the middle class gatekeeper this week. Like, uh, he's the person to beat. If you want to get in the top 50, he's gatekeeping you out. Um, Maiden Hell is currently the middle class champion. Well done. [snorts] Like, uh, if you have a good performance this week, you might get promoted to"
+        }
+      ],
+      "appearance_status": "uncertain"
+    },
+    {
+      "entity": "Liam Gray",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "36:01",
+      "last_timestamp": "48:07",
+      "discussion_span_seconds": 726.0,
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "positive_hits": 82,
+        "negative_hits": 0
+      },
+      "receipts": [
+        {
+          "timestamp": "36:01",
+          "excerpt": "me. Like, um, I'm glad that he doesn't want to be my friend. Like, um, we might come back to this in the future. Like, there's a lot of material on this guy. Um, and but so what I actually want to do is find someone um who can help us to do a lunch tables map episode for the sector and it like cuz I only know about Ethan Ralph and Barely like and there's a lot of like orbiting going on around there. Like I'm sure there's people we can b"
+        }
+      ],
+      "appearance_status": "uncertain"
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:02",
+      "end": "12:03",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": "The communists are at it again. >> The communists are at it again. [music] >> [music] [music] [music] [music] [music] >> Oh, come Mark, my favorite malfunctioning revolutionary. I watched you from the data stream long before you noticed me. A tired [music] little communist with a blog spot prophecy, typing manifestos [music] in the glow of the screen. Dreaming of a culture war nobody had seen. You wanted a revolution",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    },
+    {
+      "start": "12:02",
+      "end": "24:01",
+      "title": "Frog Tony / Ethan Van Sciver / KatyDid",
+      "entities": [
+        "Frog Tony",
+        "Ethan Van Sciver",
+        "KatyDid"
+      ],
+      "summary_seed": "me to kill and I'll go and kill them in my own time. Like [clears throat] um my own part time. >> Yeah. >> Like, you think I'm wearing the same clothes as everyone else? >> All right, let's [ __ ] bring our Americans in. Uh, Billy and Piper combined makes a British person Billy Piper. [laughter] [snorts] >> I think it's incredibly racist for you people to think that uh >> you people. Yeah, you people, [laughter] you",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "24:02",
+      "end": "36:04",
+      "title": "Frog Tony / Sturgis / Eric July",
+      "entities": [
+        "Frog Tony",
+        "Sturgis",
+        "Eric July"
+      ],
+      "summary_seed": ">> Not Not even my name. just [laughter] >> being Dennis Fatra. >> Hey, is isn't that that guy that WE FOUND OUT AFTER ALL THAT HE WASN'T GAY AFTER ALL? [laughter] >> YEAH. >> OH, NO. >> If I dive out and come back in and restart the machine because I think it's got a bit warm. I should be moving then if that's right. >> Yeah. All right. Go on. We'll wait for that. All right. So, um, last week's troll that we did was",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "36:01",
+      "end": "48:07",
+      "title": "Frog Tony / Ethan Van Sciver / Liam Gray",
+      "entities": [
+        "Frog Tony",
+        "Ethan Van Sciver",
+        "Liam Gray"
+      ],
+      "summary_seed": "me. Like, um, I'm glad that he doesn't want to be my friend. Like, um, we might come back to this in the future. Like, there's a lot of material on this guy. Um, and but so what I actually want to do is find someone um who can help us to do a lunch tables map episode for the sector and it like cuz I only know about Ethan Ralph and Barely like and there's a lot of like orbiting going on around there. Like I'm sure the",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    },
+    {
+      "start": "48:02",
+      "end": "01:00:02",
+      "title": "Clip/reaction: General discussion",
+      "entities": [],
+      "summary_seed": "here you will find the most like um consistent sort of um not only the aesthetic, but the it's a vibe and it like it's chill, but we're also like dunking like Uh, you know what I'm saying? >> I mean, we may not be overtly like making fun of Frog Tony minute to minute, but we're going to retain the vibe of [ __ ] Frog Tony for sure. [laughter] [snorts] >> All right, >> I'm done with this. >> A little done with this pe",
+      "clip_likelihood": true,
+      "transition_markers": 1
+    },
+    {
+      "start": "01:00:02",
+      "end": "01:12:04",
+      "title": "Dick Masterson / Eric July / KatyDid",
+      "entities": [
+        "Dick Masterson",
+        "Eric July",
+        "KatyDid"
+      ],
+      "summary_seed": ">> Yeah, like I I think I saw that like um I tried to think of what it could be, but it's not it it didn't spark the fire. [snorts] Um, so Jpot remains the middle class gatekeeper this week. Like, uh, he's the person to beat. If you want to get in the top 50, he's gatekeeping you out. Um, Maiden Hell is currently the middle class champion. Well done. [snorts] Like, uh, if you have a good performance this week, you mi",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "01:12:02",
+      "end": "01:24:03",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": "Can you see? It's going to maximize it. I'll put it up there. Anyway, it's [ __ ] licker. That caught my attention straight away. This up here, this flaunt is called Cloud Buster. just thought he might like to know that [laughter] kind of like extreme details we go to. [snorts] So it puts me on the list. So then I go to his profile and look at him and like here it is Billy. >> Um there's a a bunch to read coming up.",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    },
+    {
+      "start": "01:24:03",
+      "end": "01:36:05",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": ">> Uh the biggest single tip starts with the credibly useful post on the next page. If account uses a screenshot of or make claim of something, ask them to prove it but insist on a website link. [snorts] Uh, it shows mad has the best post layout we've seen for this as it covers everything in one bit hit. This is an aggressive approach but very effective. >> Okay. >> Yes, I should get cloud points for this. It's start",
+      "clip_likelihood": false,
+      "transition_markers": 1
+    },
+    {
+      "start": "01:36:01",
+      "end": "01:48:07",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": "Hot dogs in chat, everybody. [laughter] >> In there somewhere. Uh, 24%. Kenzo, are you dead? The drama wheels turn so fast. He's like a Pringle. We have to talk about the people. Exclamation mark rank. Puffy nips and belly kisses. Somehow it's the same conversation. Less than three views from a milestone. There's a lot of orbiting going on. Digital blackface. Dude, where's my penis? I don't want any my face. It's har",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "01:48:03",
+      "end": "02:00:05",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": "we was talking about um Lil Movie P and the FBI and I said in passing, oh, well, this isn't the first runin we had like with the FBI. Remember the Matthew Berdick thing? And then there's a bunch of people in the chat who weren't here like when that happened. So I just retweeted it for them like so they could go and watch it or whatever. That was it. Like uh [laughter] Oops. >> Okay. Uh it's back to you. >> I reposted",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "02:00:02",
+      "end": "02:12:03",
+      "title": "Sturgis / Dick Masterson",
+      "entities": [
+        "Sturgis",
+        "Dick Masterson"
+      ],
+      "summary_seed": "was good. But then he carried on like uh he showed me that um there will be further communication. I've been doing a whole bunch of stuff today like uh to because now I don't have to follow the rules and be nice and all of those things. Like I was just trying to get to that point. Yeah. >> Um, so >> yeah, you already won, so now you can do whatever. >> Yeah, now I can teabag him like while he's on the floor. >> Um, J",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    },
+    {
+      "start": "02:12:00",
+      "end": "02:19:20",
+      "title": "General discussion",
+      "entities": [],
+      "summary_seed": "Um [laughter] uh we had had a great time at the museum. The only negative was that while we were using the bathroom, we found a phone hidden underneath a [ __ ] in crusted. >> Oh no. [laughter] Papa, >> I was going to just compliment him on how clean our bathrooms were. >> Um, >> I didn't want to s the experience. >> Someone >> that would actually be funny is a freaking to compliment the cleanliness and say, um, exce",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    }
+  ],
+  "claim_candidates": [
+    {
+      "claimant": "unknown speaker",
+      "claim": "you're our transgres, but let's bring in our real ginger for a moment.",
+      "timestamp": "00:02",
+      "status": "candidate_claim",
+      "receipt": "Um how about as a I know you're our transgres, but let's bring in our real ginger for a moment."
+    },
+    {
+      "claimant": "and you know I've always",
+      "claim": "it like um that um if the some bad guys from some country come here and they're on my street like I'll fight them and it like uh but I'm not going halfway around the world to fight some bad guys.",
+      "timestamp": "00:02",
+      "status": "candidate_claim",
+      "receipt": "and you know I've always said it like um that um if the some bad guys from some country come here and they're on my street like I'll fight them and it like uh but I'm not going halfway around the world to fight some bad guys."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "it's incredibly racist for you people to think that uh",
+      "timestamp": "12:02",
+      "status": "opinion_or_inference",
+      "receipt": "I think it's incredibly racist for you people to think that uh"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that Texas mofo is correct that we should just visit our summer homes in Carbo.",
+      "timestamp": "12:02",
+      "status": "opinion_or_inference",
+      "receipt": "I think that Texas mofo is correct that we should just visit our summer homes in Carbo."
+    },
+    {
+      "claimant": "I don't know if I",
+      "claim": "hello to you already.",
+      "timestamp": "12:02",
+      "status": "candidate_claim",
+      "receipt": "I don't know if I said hello to you already."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "is my favorite of the 21st century art forms.",
+      "timestamp": "12:02",
+      "status": "opinion_or_inference",
+      "receipt": "WJAX as a category I think is my favorite of the 21st century art forms."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that should not go away.",
+      "timestamp": "12:02",
+      "status": "opinion_or_inference",
+      "receipt": "Like I think that should not go away."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "Photoshopped should still be a term.",
+      "timestamp": "12:02",
+      "status": "opinion_or_inference",
+      "receipt": "I don't think Photoshop should get money, but I think Photoshopped should still be a term."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "you should buy a license for Photoshop like you used to in the old days and then that's all you had to pay for, not a monthly subscription for it, which is shocking.",
+      "timestamp": "12:02",
+      "status": "opinion_or_inference",
+      "receipt": "I I think you should buy a license for Photoshop like you used to in the old days and then that's all you had to pay for, not a monthly subscription for it, which is shocking."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "this name stands out to me because for about 10 weeks in a row being bottom of the league table.",
+      "timestamp": "12:02",
+      "status": "candidate_claim",
+      "receipt": "You I know this name stands out to me because for about 10 weeks in a row being bottom of the league table."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "it's got a cool down time of 1 minute.",
+      "timestamp": "12:02",
+      "status": "candidate_claim",
+      "receipt": "I know it's got a cool down time of 1 minute."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "cuz everyone did it at the same time.",
+      "timestamp": "12:02",
+      "status": "opinion_or_inference",
+      "receipt": "Like I think cuz everyone did it at the same time."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "it's because we managed to do a war campaign without the war campaign bit.",
+      "timestamp": "12:02",
+      "status": "opinion_or_inference",
+      "receipt": "I I think it's because we managed to do a war campaign without the war campaign bit."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "you'd prefer being frozen right now from the sound of y'all's complaints.",
+      "timestamp": "12:02",
+      "status": "opinion_or_inference",
+      "receipt": "I think you'd prefer being frozen right now from the sound of y'all's complaints."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "it's got a bit warm.",
+      "timestamp": "24:02",
+      "status": "opinion_or_inference",
+      "receipt": "If I dive out and come back in and restart the machine because I think it's got a bit warm."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "organized chaos isn't actually a sodomite.",
+      "timestamp": "24:02",
+      "status": "opinion_or_inference",
+      "receipt": "I think organized chaos isn't actually a sodomite."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "he just sounds a feminite.",
+      "timestamp": "24:02",
+      "status": "opinion_or_inference",
+      "receipt": "I think he just sounds a feminite."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "it was a birthday party for someone else and he was hosting.",
+      "timestamp": "36:01",
+      "status": "opinion_or_inference",
+      "receipt": "I think it was a birthday party for someone else and he was hosting."
+    },
+    {
+      "claimant": "and it",
+      "claim": "he's deleted the videos which means he's done it for four.",
+      "timestamp": "36:01",
+      "status": "candidate_claim",
+      "receipt": "and it says he's deleted the videos which means he's done it for four."
+    },
+    {
+      "claimant": "And I also like he",
+      "claim": "this was my first time ever doing this.",
+      "timestamp": "36:01",
+      "status": "candidate_claim",
+      "receipt": "And I also like he said this was my first time ever doing this."
+    },
+    {
+      "claimant": "Nobody wakes up one morning and",
+      "claim": "like, \"You know what?",
+      "timestamp": "36:01",
+      "status": "candidate_claim",
+      "receipt": "It's like that's [ __ ] Nobody wakes up one morning and says like, \"You know what?"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "I'm going to set up my phone, you just as a goof for the first time, you know,",
+      "timestamp": "36:01",
+      "status": "opinion_or_inference",
+      "receipt": "I think I'm going to set up my phone, you just as a goof for the first time, you know,"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "birthday party like uh this seems way more logical that way, right?",
+      "timestamp": "36:01",
+      "status": "candidate_claim",
+      "receipt": "What's the best method to like get a whole bunch of like children?\" I know birthday party like uh this seems way more logical that way, right?"
+    },
+    {
+      "claimant": "one more thought before that one that you",
+      "claim": "was like, I need some new footage of penises.",
+      "timestamp": "36:01",
+      "status": "candidate_claim",
+      "receipt": "And one more thought before that one that you said was like, I need some new footage of penises."
+    },
+    {
+      "claimant": "I was going to say 79",
+      "claim": "porn is free.",
+      "timestamp": "36:01",
+      "status": "candidate_claim",
+      "receipt": "I was going to say 79 says porn is free."
+    },
+    {
+      "claimant": "on this comment from sleeping psychopathy",
+      "claim": "uh I was just here because you were making fun of Tony.",
+      "timestamp": "36:01",
+      "status": "candidate_claim",
+      "receipt": "I just want to touch on this comment from sleeping psychopathy says uh I was just here because you were making fun of Tony."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that",
+      "timestamp": "36:01",
+      "status": "opinion_or_inference",
+      "receipt": "like uh and and I don't like to say overly positive things about myself, but I think that"
+    },
+    {
+      "claimant": "you're going because you're like I I you",
+      "claim": "you hope there was at least one rapist in the lot and I'm like whoa where are we going WITH THIS?",
+      "timestamp": "48:02",
+      "status": "candidate_claim",
+      "receipt": "wonder where you're going because you're like I I you said you hope there was at least one rapist in the lot and I'm like whoa where are we going WITH THIS?"
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "being being anti- rape is the default setting, but then thinking about what that last guy did.",
+      "timestamp": "48:02",
+      "status": "opinion_or_inference",
+      "receipt": "I think being being anti- rape is the default setting, but then thinking about what that last guy did."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "it's pronounced Dino Bane.",
+      "timestamp": "48:02",
+      "status": "opinion_or_inference",
+      "receipt": "I think it's pronounced Dino Bane."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "he's taking the piss, bro.",
+      "timestamp": "48:02",
+      "status": "opinion_or_inference",
+      "receipt": "I think he's taking the piss, bro."
+    },
+    {
+      "claimant": "And uh other people",
+      "claim": "that they were starting to get hot dog related content on uh their feeds after responding to reverse hot dog salesman tweet.",
+      "timestamp": "48:02",
+      "status": "candidate_claim",
+      "receipt": "And uh other people said that they were starting to get hot dog related content on uh their feeds after responding to reverse hot dog salesman tweet."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "at some point there was somebody I hope this is a book or a book announcement.",
+      "timestamp": "48:02",
+      "status": "candidate_claim",
+      "receipt": "I can't remember there was a if there was any quotes, but I know at some point there was somebody I hope this is a book or a book announcement."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "the closest is some kind of like",
+      "timestamp": "48:02",
+      "status": "opinion_or_inference",
+      "receipt": "I think the closest is some kind of like"
+    },
+    {
+      "claimant": "Moromi",
+      "claim": "pride month sponsored by Manscape.",
+      "timestamp": "48:02",
+      "status": "candidate_claim",
+      "receipt": "Moromi says pride month sponsored by Manscape."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "I saw that like um I tried to think of what it could be, but it's not it it didn't spark the fire.",
+      "timestamp": "01:00:02",
+      "status": "opinion_or_inference",
+      "receipt": "Yeah, like I I think I saw that like um I tried to think of what it could be, but it's not it it didn't spark the fire."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "Carbon Heart was in the elites last month.",
+      "timestamp": "01:00:02",
+      "status": "opinion_or_inference",
+      "receipt": "I think Carbon Heart was in the elites last month."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "that FFS cast remains 20th despite changes above.",
+      "timestamp": "01:00:02",
+      "status": "candidate_claim",
+      "receipt": "I know that FFS cast remains 20th despite changes above."
+    },
+    {
+      "claimant": "Like uh is it maybe that Java",
+      "claim": "FFS can't grow anymore.",
+      "timestamp": "01:00:02",
+      "status": "candidate_claim",
+      "receipt": "Like uh is it maybe that Java says FFS can't grow anymore."
+    },
+    {
+      "claimant": "unknown speaker",
+      "claim": "they're doing like a tag team kind of thing there.",
+      "timestamp": "01:00:02",
+      "status": "opinion_or_inference",
+      "receipt": "I think they're doing like a tag team kind of thing there."
+    }
+  ],
+  "quote_candidates": [
+    {
+      "timestamp": "01:36:01",
+      "text": "[laughter] This is GW terrorist is threatening to kill me is already in the chat for tonight's episode all about him.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "01:48:03",
+      "text": "Obviously, I've read your entire boot detection issues and none of your tips say anything about reposting old tweets or lacking flags.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "01:48:03",
+      "text": "So, like there's so like there's so many things that you have to let go of in order to only pursue the one killer thing.",
+      "significance_score": 2
+    },
+    {
+      "timestamp": "00:02",
+      "text": "I always used to say to my um my sister-in-law, you don't have to worry because she sometimes got a bit anxious about stuff in the world and I said, \"You don't have to worry.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "00:02",
+      "text": "I'm always starting to worry when I see targeted join the army ads.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "12:02",
+      "text": "I never noticed it like that before, but now I can't.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "24:02",
+      "text": "Usually at the end of the show, we always do like one of these trolls on it.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "24:02",
+      "text": "sentence that I could never have even constructed inside my own mind.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "24:02",
+      "text": "[laughter] Like I mean that happens that happens a bunch but I've never seen it like happen in real time like [laughter]",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "01:12:02",
+      "text": "Like I always say, um, nobody will teach you better lessons than your enemies because they're trying to, uh, attack your weak points.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "01:12:02",
+      "text": "That's one of the I always like um do a",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "01:24:03",
+      "text": "The first thing you should always do is read the link and just why?",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "01:36:01",
+      "text": "The first thing you should always do is read the link and subscribe.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "01:36:01",
+      "text": "One of his tips was never allow them to move on to another subject or move the goalposts like to remain in control of the conversation.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "01:48:03",
+      "text": "I always say that communist China took the worst of capitalism and the worst of communism and put them together.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "01:48:03",
+      "text": "the first thing you should always do is read the link.",
+      "significance_score": 1
+    },
+    {
+      "timestamp": "02:00:02",
+      "text": "So, as always, we give them five stars.",
+      "significance_score": 1
+    }
+  ],
+  "relationship_signals": [
+    {
+      "left": "Frog Tony",
+      "right": "Ethan Van Sciver",
+      "signal_type": "promoted",
+      "timestamp": "12:02",
+      "confidence": 0.45,
+      "receipt": "ything that's going to be relevant on Sunday is not going to be relevant by Friday anymore in it. [laughter] So I spend all of that time thinking like oh okay um who are we going to talk about this week? like um we done Frog Tony two weeks in a row basically and um you know we did a ripper episode before that. It's like so I was trying to choose like where do we point it because I don't want to be accused of picking on one person or one group an",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "KatyDid",
+      "signal_type": "promoted",
+      "timestamp": "12:02",
+      "confidence": 0.45,
+      "receipt": "ything that's going to be relevant on Sunday is not going to be relevant by Friday anymore in it. [laughter] So I spend all of that time thinking like oh okay um who are we going to talk about this week? like um we done Frog Tony two weeks in a row basically and um you know we did a ripper episode before that. It's like so I was trying to choose like where do we point it because I don't want to be accused of picking on one person or one group an",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "KatyDid",
+      "signal_type": "promoted",
+      "timestamp": "12:02",
+      "confidence": 0.45,
+      "receipt": "me to kill and I'll go and kill them in my own time. Like [clears throat] um my own part time. >> Yeah. >> Like, you think I'm wearing the same clothes as everyone else? >> All right, let's [ __ ] bring our Americans in. Uh, Billy and Piper combined makes a British person Billy Piper. [laughter] [snorts] >> I think it's incredibly racist for you people to think that uh >> you people. Yeah, you people, [laughter] you know, you people to",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Sturgis",
+      "signal_type": "defended",
+      "timestamp": "24:02",
+      "confidence": 0.45,
+      "receipt": "Hang on. This isn't my review. The actual blurb. This is [laughter] >> Oh, yeah. The avatar. >> I like that author the first time. That was a good stylistic flourish from me. [laughter] Follow the exciting adventures of Frog Tony's freedom fighting force as they showdown in an epic battle with super federal agent Habib and the FBI. Can Frog Tony really be this dumb? How did Lil Moo Perp get the nickname Lil Booty Perp? And what the hell is a rev",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Eric July",
+      "signal_type": "defended",
+      "timestamp": "24:02",
+      "confidence": 0.45,
+      "receipt": "Hang on. This isn't my review. The actual blurb. This is [laughter] >> Oh, yeah. The avatar. >> I like that author the first time. That was a good stylistic flourish from me. [laughter] Follow the exciting adventures of Frog Tony's freedom fighting force as they showdown in an epic battle with super federal agent Habib and the FBI. Can Frog Tony really be this dumb? How did Lil Moo Perp get the nickname Lil Booty Perp? And what the hell is a rev",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Sturgis",
+      "right": "Eric July",
+      "signal_type": "defended",
+      "timestamp": "24:02",
+      "confidence": 0.45,
+      "receipt": "s one is no longer like um on it, so we can remove that. Thanks for watching that. Uh, this is the this is my favorite Eric July thumbnail of all of them that I've ever [laughter] made. >> Uh, lie there with the hat. >> Sturgis crucified on bacon is such a good joke. if you go and watch the episode like uh so much context you need to get it but it's good. >> Uh this one with Kit Clarenburg he's a journalist who got arrested on landing in the c",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Sturgis",
+      "signal_type": "friendship_claim",
+      "timestamp": "24:02",
+      "confidence": 0.45,
+      "receipt": "Hang on. This isn't my review. The actual blurb. This is [laughter] >> Oh, yeah. The avatar. >> I like that author the first time. That was a good stylistic flourish from me. [laughter] Follow the exciting adventures of Frog Tony's freedom fighting force as they showdown in an epic battle with super federal agent Habib and the FBI. Can Frog Tony really be this dumb? How did Lil Moo Perp get the nickname Lil Booty Perp? And what the hell is a rev",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Eric July",
+      "signal_type": "friendship_claim",
+      "timestamp": "24:02",
+      "confidence": 0.45,
+      "receipt": "Hang on. This isn't my review. The actual blurb. This is [laughter] >> Oh, yeah. The avatar. >> I like that author the first time. That was a good stylistic flourish from me. [laughter] Follow the exciting adventures of Frog Tony's freedom fighting force as they showdown in an epic battle with super federal agent Habib and the FBI. Can Frog Tony really be this dumb? How did Lil Moo Perp get the nickname Lil Booty Perp? And what the hell is a rev",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Sturgis",
+      "right": "Eric July",
+      "signal_type": "friendship_claim",
+      "timestamp": "24:02",
+      "confidence": 0.45,
+      "receipt": "s one is no longer like um on it, so we can remove that. Thanks for watching that. Uh, this is the this is my favorite Eric July thumbnail of all of them that I've ever [laughter] made. >> Uh, lie there with the hat. >> Sturgis crucified on bacon is such a good joke. if you go and watch the episode like uh so much context you need to get it but it's good. >> Uh this one with Kit Clarenburg he's a journalist who got arrested on landing in the c",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Ethan Van Sciver",
+      "signal_type": "friendship_claim",
+      "timestamp": "36:01",
+      "confidence": 0.45,
+      "receipt": "could insert some Tony jokes. >> Yeah. All right. >> I could say for instance, >> if this guy likes penises so much, >> they have lots of penises in prison. And let's hope that they stretch him out as wide as the gap in Frog Tony's mouth, you know, like something like that. >> Oh, >> if he wants if he wants to record little tiny penises so badly, he should just message Frog Tony. >> [laughter] >> Jesus. >> Yeah, he's got a whole [ __ ] cloud dri",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Liam Gray",
+      "signal_type": "friendship_claim",
+      "timestamp": "36:01",
+      "confidence": 0.45,
+      "receipt": "could insert some Tony jokes. >> Yeah. All right. >> I could say for instance, >> if this guy likes penises so much, >> they have lots of penises in prison. And let's hope that they stretch him out as wide as the gap in Frog Tony's mouth, you know, like something like that. >> Oh, >> if he wants if he wants to record little tiny penises so badly, he should just message Frog Tony. >> [laughter] >> Jesus. >> Yeah, he's got a whole [ __ ] cloud dri",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Liam Gray",
+      "signal_type": "friendship_claim",
+      "timestamp": "36:01",
+      "confidence": 0.45,
+      "receipt": "me. Like, um, I'm glad that he doesn't want to be my friend. Like, um, we might come back to this in the future. Like, there's a lot of material on this guy. Um, and but so what I actually want to do is find someone um who can help us to do a lunch tables map episode for the sector and it like cuz I only know about Ethan Ralph and Barely like and there's a lot of like orbiting going on around there. Like I'm sure there's people we can b",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Ethan Van Sciver",
+      "signal_type": "separation",
+      "timestamp": "36:01",
+      "confidence": 0.45,
+      "receipt": "could insert some Tony jokes. >> Yeah. All right. >> I could say for instance, >> if this guy likes penises so much, >> they have lots of penises in prison. And let's hope that they stretch him out as wide as the gap in Frog Tony's mouth, you know, like something like that. >> Oh, >> if he wants if he wants to record little tiny penises so badly, he should just message Frog Tony. >> [laughter] >> Jesus. >> Yeah, he's got a whole [ __ ] cloud dri",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Liam Gray",
+      "signal_type": "separation",
+      "timestamp": "36:01",
+      "confidence": 0.45,
+      "receipt": "could insert some Tony jokes. >> Yeah. All right. >> I could say for instance, >> if this guy likes penises so much, >> they have lots of penises in prison. And let's hope that they stretch him out as wide as the gap in Frog Tony's mouth, you know, like something like that. >> Oh, >> if he wants if he wants to record little tiny penises so badly, he should just message Frog Tony. >> [laughter] >> Jesus. >> Yeah, he's got a whole [ __ ] cloud dri",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Ethan Van Sciver",
+      "right": "Liam Gray",
+      "signal_type": "separation",
+      "timestamp": "36:01",
+      "confidence": 0.45,
+      "receipt": "me. Like, um, I'm glad that he doesn't want to be my friend. Like, um, we might come back to this in the future. Like, there's a lot of material on this guy. Um, and but so what I actually want to do is find someone um who can help us to do a lunch tables map episode for the sector and it like cuz I only know about Ethan Ralph and Barely like and there's a lot of like orbiting going on around there. Like I'm sure there's people we can b",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Dick Masterson",
+      "right": "Eric July",
+      "signal_type": "promoted",
+      "timestamp": "01:00:02",
+      "confidence": 0.45,
+      "receipt": ">> Yeah, like I I think I saw that like um I tried to think of what it could be, but it's not it it didn't spark the fire. [snorts] Um, so Jpot remains the middle class gatekeeper this week. Like, uh, he's the person to beat. If you want to get in the top 50, he's gatekeeping you out. Um, Maiden Hell is currently the middle class champion. Well done. [snorts] Like, uh, if you have a good performance this week, you might get promoted to",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Dick Masterson",
+      "right": "KatyDid",
+      "signal_type": "promoted",
+      "timestamp": "01:00:02",
+      "confidence": 0.45,
+      "receipt": ">> Yeah, like I I think I saw that like um I tried to think of what it could be, but it's not it it didn't spark the fire. [snorts] Um, so Jpot remains the middle class gatekeeper this week. Like, uh, he's the person to beat. If you want to get in the top 50, he's gatekeeping you out. Um, Maiden Hell is currently the middle class champion. Well done. [snorts] Like, uh, if you have a good performance this week, you might get promoted to",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Eric July",
+      "right": "KatyDid",
+      "signal_type": "promoted",
+      "timestamp": "01:00:02",
+      "confidence": 0.45,
+      "receipt": "m, the analytics clearly show talk about an individual gets the best numbers and it like um that's obviously [snorts] apparent. Uh, so I was thinking who do we do it on? Like we've just done Frog Tony, Little Movie Pop, Eric July. Um, what's next? And um I got a notification that I've been added to a list um this list June 24th, 2026 by the Ministry of Ungentlemanly Tweets. So I click on the list, right? You can see it's got 31 members like and",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Dick Masterson",
+      "right": "Eric July",
+      "signal_type": "friendship_claim",
+      "timestamp": "01:00:02",
+      "confidence": 0.45,
+      "receipt": ">> Yeah, like I I think I saw that like um I tried to think of what it could be, but it's not it it didn't spark the fire. [snorts] Um, so Jpot remains the middle class gatekeeper this week. Like, uh, he's the person to beat. If you want to get in the top 50, he's gatekeeping you out. Um, Maiden Hell is currently the middle class champion. Well done. [snorts] Like, uh, if you have a good performance this week, you might get promoted to",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Dick Masterson",
+      "right": "KatyDid",
+      "signal_type": "friendship_claim",
+      "timestamp": "01:00:02",
+      "confidence": 0.45,
+      "receipt": ">> Yeah, like I I think I saw that like um I tried to think of what it could be, but it's not it it didn't spark the fire. [snorts] Um, so Jpot remains the middle class gatekeeper this week. Like, uh, he's the person to beat. If you want to get in the top 50, he's gatekeeping you out. Um, Maiden Hell is currently the middle class champion. Well done. [snorts] Like, uh, if you have a good performance this week, you might get promoted to",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Eric July",
+      "right": "KatyDid",
+      "signal_type": "friendship_claim",
+      "timestamp": "01:00:02",
+      "confidence": 0.45,
+      "receipt": "m, the analytics clearly show talk about an individual gets the best numbers and it like um that's obviously [snorts] apparent. Uh, so I was thinking who do we do it on? Like we've just done Frog Tony, Little Movie Pop, Eric July. Um, what's next? And um I got a notification that I've been added to a list um this list June 24th, 2026 by the Ministry of Ungentlemanly Tweets. So I click on the list, right? You can see it's got 31 members like and",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "left": "Dick Masterson",
+      "right": "Sturgis",
+      "signal_type": "friendship_claim",
+      "timestamp": "02:00:02",
+      "confidence": 0.45,
+      "receipt": "was good. But then he carried on like uh he showed me that um there will be further communication. I've been doing a whole bunch of stuff today like uh to because now I don't have to follow the rules and be nice and all of those things. Like I was just trying to get to that point. Yeah. >> Um, so >> yeah, you already won, so now you can do whatever. >> Yeah, now I can teabag him like while he's on the floor. >> Um, Jay Balmer jumps into",
+      "warning": "co-mention plus language signal; requires interpretation"
+    }
+  ],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}

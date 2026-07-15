@@ -1,0 +1,32 @@
+{
+  "relationship_id": "jon-malin--shane-davis",
+  "left": "Shane Davis",
+  "right": "Jon Malin",
+  "signals": [
+    {
+      "video_id": "X0hbv1uKEGA",
+      "episode_title": "Becoming All Powerful & the Ultimate Underdog!",
+      "source": "KatyDid",
+      "left": "Shane Davis",
+      "right": "Jon Malin",
+      "signal_type": "promoted",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "r does. I play with my fucking uh play with my fucking family like that. Everyone knew how important it was for me to be able to go. I was going to see people I loved that I haven't seen in like 20 years. You know, like Shane Davis said, I said on the stream, Shane Davis says, \"Oh, it's not a big deal even if you don't go.\" I was like, \"It's a big deal to me because I wanted to see people I haven't seen in 20 years. It's a grave I want to go to. T",
+      "warning": "co-mention plus language signal; requires interpretation"
+    },
+    {
+      "video_id": "X0hbv1uKEGA",
+      "episode_title": "Becoming All Powerful & the Ultimate Underdog!",
+      "source": "KatyDid",
+      "left": "Shane Davis",
+      "right": "Jon Malin",
+      "signal_type": "friendship_claim",
+      "timestamp": "00:00",
+      "confidence": 0.45,
+      "receipt": "r does. I play with my fucking uh play with my fucking family like that. Everyone knew how important it was for me to be able to go. I was going to see people I loved that I haven't seen in like 20 years. You know, like Shane Davis said, I said on the stream, Shane Davis says, \"Oh, it's not a big deal even if you don't go.\" I was like, \"It's a big deal to me because I wanted to see people I haven't seen in 20 years. It's a grave I want to go to. T",
+      "warning": "co-mention plus language signal; requires interpretation"
+    }
+  ],
+  "updated_at": "2026-07-15T21:04:35.930934+00:00"
+}

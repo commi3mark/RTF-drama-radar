@@ -1,0 +1,40 @@
+{
+  "schema_version": "octopuss-auto-event-v0.1",
+  "event_id": "YJ3EPWpShMU",
+  "title": "Rekieta Law: Aaron Imholte’s HRO Won’t Last Forever & the Daily Mail Article (Jul 10, 2026)",
+  "source": "Elissa Clips",
+  "published": "2026-07-11T17:52:41+00:00",
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "07:52",
+      "title": "Nick Rekieta",
+      "entities": [
+        "Nick Rekieta"
+      ],
+      "summary_seed": "Hey, what's up guys? Welcome to Law Explaining the Interwebs. I am your host Nick Rekieta of Rekieta Law, a small law firm in Central Minnesota. That is where I'm from. It does not necessarily mean that it's still open. It just means that's where I'm from. Just in case you're the Ethics Commission then you don't understand basic English. And you may be watching this video maybe because it was reported to you by one b",
+      "clip_likelihood": false,
+      "transition_markers": 0
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Nick Rekieta",
+      "importance": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.765,
+        "positive_hits": 15,
+        "negative_hits": 2
+      }
+    }
+  ],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker identity may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon does not reliably detect sarcasm",
+    "relationship signals are candidates, not declarations",
+    "claims are not verified facts"
+  ]
+}
