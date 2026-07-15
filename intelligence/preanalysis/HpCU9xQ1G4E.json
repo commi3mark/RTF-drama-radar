@@ -1,6 +1,6 @@
 {
-  "schema_version": "octopuss-preanalysis-v0.1",
-  "generated_at": "2026-07-15T21:04:23.619024+00:00",
+  "schema_version": "octopuss-preanalysis-v0.2",
+  "generated_at": "2026-07-15T21:17:16.587589+00:00",
   "video_id": "HpCU9xQ1G4E",
   "title": "(RE-UPLOAD)The Aftermath Of Frog Tony's EMBARRASSING appearance on The Biggest Problem",
   "source": "KatyDid",
@@ -19,7 +19,7 @@
     {
       "entity": "KatyDid",
       "role_guess": "host_or_channel_identity",
-      "confidence": 0.72,
+      "confidence": 0.75,
       "signals": [
         "packet source/channel identity"
       ]
@@ -28,25 +28,23 @@
   "subjects": [
     {
       "entity": "Frog Tony",
-      "mentions": 23,
+      "mentions": 10,
       "block_count": 1,
       "first_timestamp": "00:00",
       "last_timestamp": "06:45",
-      "discussion_span_seconds": 405.8,
       "importance_guess": "major",
       "sentiment": {
-        "label": "positive",
-        "score": 0.86,
-        "positive_hits": 40,
-        "negative_hits": 3
+        "label": "mixed",
+        "score": 0.333,
+        "positive_hits": 2,
+        "negative_hits": 1
       },
       "receipts": [
         {
           "timestamp": "00:00",
-          "excerpt": "is being torn down. >> Vito, you have TO SLOW DOWN. >> [laughter] >> YOU HAVE TO SLOW DOWN ON SUPER KILLER. YOU'RE working yourself into exhaustion and malnutrition. >> aggressive clip. >> It launches with no appeal to Frog Tony coping about ple deals. Let's hear it again. From pizza deals to pizza ass feels. From Cane. And uh from rocket launches with no appeal to Frog Tony coping about ple deals from Nido. >> The ple deal thing was interestin"
+          "excerpt": "O SLOW DOWN. >> [laughter] >> YOU HAVE TO SLOW DOWN ON SUPER KILLER. YOU'RE working yourself into exhaustion and malnutrition. >> aggressive clip. >> It launches with no appeal to Frog Tony coping about ple deals. Let's hear it again. From pizza deals to pizza ass feels. From Cane. And uh from rocket launches with no appeal to Frog Tony coping about ple deals from Ni"
         }
-      ],
-      "appearance_status": "uncertain"
+      ]
     },
     {
       "entity": "Vito Gesualdi",
@@ -54,43 +52,19 @@
       "block_count": 1,
       "first_timestamp": "00:00",
       "last_timestamp": "06:45",
-      "discussion_span_seconds": 405.8,
       "importance_guess": "secondary",
       "sentiment": {
-        "label": "positive",
-        "score": 0.86,
-        "positive_hits": 40,
-        "negative_hits": 3
+        "label": "mixed",
+        "score": 0.333,
+        "positive_hits": 2,
+        "negative_hits": 1
       },
       "receipts": [
         {
           "timestamp": "00:00",
-          "excerpt": "Look at this. Comic book superstar. He's in here listening to this shit that you're talking about. >> Fantastic. Well, he knows what I'm talking about. >> What the fuck are you talking about? >> I'm talking about Star Wars uh Star Trek Academy is being torn down. >> Vito, you have TO SLOW DOWN. >> [laughter] >> YOU HAVE TO SLOW DOWN ON SUPER KILLER. YOU'RE working yourself into exhaustion and malnutrition. >> aggressive clip. >> It laun"
+          "excerpt": "Look at this. Comic book superstar. He's in here listening to this shit that you're talking about. >> Fantastic. Well, he knows what I'm talking about. >> What the fuck are you talking about? >> I'm talking about Star Wars uh Star Trek Academy is being torn down. >> Vito, you have TO SLOW DOWN. >> [laughter] >> YOU HAVE TO SLOW DOWN ON SUPER KILLER. YOU'RE w"
         }
-      ],
-      "appearance_status": "uncertain"
-    },
-    {
-      "entity": "Dick Masterson",
-      "mentions": 2,
-      "block_count": 1,
-      "first_timestamp": "00:00",
-      "last_timestamp": "06:45",
-      "discussion_span_seconds": 405.8,
-      "importance_guess": "passing",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.86,
-        "positive_hits": 40,
-        "negative_hits": 3
-      },
-      "receipts": [
-        {
-          "timestamp": "00:00",
-          "excerpt": "Look at this. Comic book superstar. He's in here listening to this shit that you're talking about. >> Fantastic. Well, he knows what I'm talking about. >> What the fuck are you talking about? >> I'm talking about Star Wars uh Star Trek Academy is being torn down. >> Vito, you have TO SLOW DOWN. >> [laughter] >> YOU HAVE TO SLOW DOWN ON SUPER KILLER. YOU'RE working yourself into exhaustion and malnutrition. >> aggressive clip. >> It laun"
-        }
-      ],
-      "appearance_status": "uncertain"
+      ]
     },
     {
       "entity": "Liam Gray",
@@ -98,72 +72,48 @@
       "block_count": 1,
       "first_timestamp": "00:00",
       "last_timestamp": "06:45",
-      "discussion_span_seconds": 405.8,
       "importance_guess": "passing",
       "sentiment": {
-        "label": "positive",
-        "score": 0.86,
-        "positive_hits": 40,
-        "negative_hits": 3
+        "label": "mixed",
+        "score": 0.333,
+        "positive_hits": 2,
+        "negative_hits": 1
       },
       "receipts": [
         {
           "timestamp": "00:00",
-          "excerpt": "Look at this. Comic book superstar. He's in here listening to this shit that you're talking about. >> Fantastic. Well, he knows what I'm talking about. >> What the fuck are you talking about? >> I'm talking about Star Wars uh Star Trek Academy is being torn down. >> Vito, you have TO SLOW DOWN. >> [laughter] >> YOU HAVE TO SLOW DOWN ON SUPER KILLER. YOU'RE working yourself into exhaustion and malnutrition. >> aggressive clip. >> It laun"
+          "excerpt": "Look at this. Comic book superstar. He's in here listening to this shit that you're talking about. >> Fantastic. Well, he knows what I'm talking about. >> What the fuck are you talking about? >> I'm talking about Star Wars uh Star Trek Academy is being torn down. >> Vito, you have TO SLOW DOWN. >> [laughter] >> YOU HAVE TO SLOW DOWN ON SUPER KILLER. YOU'RE w"
         }
-      ],
-      "appearance_status": "uncertain"
+      ]
     }
   ],
   "chapters": [
     {
       "start": "00:00",
       "end": "06:45",
-      "title": "Frog Tony / Vito Gesualdi / Dick Masterson",
+      "title": "Frog Tony",
       "entities": [
-        "Frog Tony",
-        "Vito Gesualdi",
-        "Dick Masterson",
-        "Liam Gray"
+        "Frog Tony"
       ],
-      "summary_seed": "Look at this. Comic book superstar. He's in here listening to this shit that you're talking about. >> Fantastic. Well, he knows what I'm talking about. >> What the fuck are you talking about? >> I'm talking about Star Wars uh Star Trek Academy is being torn down. >> Vito, you have TO SLOW DOWN. >> [laughter] >> YOU HAVE TO SLOW DOWN ON SUPER KILLER. YOU'RE working yourself into exhaustion and malnutrition. >> aggress",
-      "clip_likelihood": false,
-      "transition_markers": 1
+      "possible_clip": false,
+      "summary_seed": "Look at this. Comic book superstar. He's in here listening to this shit that you're talking about. >> Fantastic. Well, he knows what I'm talking about. >> What the fuck are you talking about? >> I'm talking about Star Wars uh Star Trek Academy is being torn down. >> Vito, you have TO SLOW DOWN. >> [laughter] >> YOU HAVE TO SLOW DOWN ON SUPER KILLER"
     }
   ],
-  "claim_candidates": [
-    {
-      "claimant": "unknown speaker",
-      "claim": "that's why a lot of these guys go crazy is they go, \"Oh, Vito's watching all these streams.",
-      "timestamp": "00:00",
-      "status": "opinion_or_inference",
-      "receipt": "And I think that's why a lot of these guys go crazy is they go, \"Oh, Vito's watching all these streams."
-    }
-  ],
-  "quote_candidates": [
-    {
-      "timestamp": "00:00",
-      "text": "I never know how to explain to people, you know, people always think I'm like dialed in to what's going on.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "00:00",
-      "text": "I could never I'm never going to find your channel.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "00:00",
-      "text": "And you go, \"That's how I'll endear myself to the audience.\" Tony always comes in hot.",
-      "significance_score": 1
-    }
-  ],
+  "claim_candidates": [],
+  "quote_candidates": [],
   "relationship_signals": [],
-  "story_matches": [],
+  "story_matches": [
+    {
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.4
+    }
+  ],
+  "review_priority": 17,
   "uncertainty_flags": [
-    "speaker identity may be unknown",
+    "speaker attribution may be unknown",
     "clip voices may be mistaken for live participants",
-    "sentiment lexicon does not reliably detect sarcasm",
-    "relationship signals are candidates, not declarations",
-    "claims are not verified facts"
+    "sentiment lexicon cannot reliably detect sarcasm",
+    "claims and relationship signals remain candidates"
   ]
 }

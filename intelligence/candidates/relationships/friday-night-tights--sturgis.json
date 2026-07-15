@@ -1,0 +1,43 @@
+{
+  "relationship_id": "friday-night-tights--sturgis",
+  "left": "Sturgis",
+  "right": "Friday Night Tights",
+  "signals": [
+    {
+      "video_id": "LS_14uOaG2E",
+      "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "source": "Ethan Van Sciver",
+      "left": "Sturgis",
+      "right": "Friday Night Tights",
+      "signal_type": "criticised",
+      "timestamp": "01:36:00",
+      "confidence": 0.48,
+      "receipt": "has like a fountains and uh people. >> It's like being in an island. What's he I don't understand who he is or I mean I see that he's creepy to be like that but who is that guy >> Sturgis? He's a YouTuber named Renowned Zero uh who was a comics gate critic and obsessive fan of Eric July. Uh he makes content all the time where it's like Ethan and Shane Davis coping",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "LS_14uOaG2E",
+      "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "source": "Ethan Van Sciver",
+      "left": "Sturgis",
+      "right": "Friday Night Tights",
+      "signal_type": "promoted",
+      "timestamp": "01:36:00",
+      "confidence": 0.48,
+      "receipt": "has like a fountains and uh people. >> It's like being in an island. What's he I don't understand who he is or I mean I see that he's creepy to be like that but who is that guy >> Sturgis? He's a YouTuber named Renowned Zero uh who was a comics gate critic and obsessive fan of Eric July. Uh he makes content all the time where it's like Ethan and Shane Davis coping",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "66FqtP0Wves",
+      "title": "It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on \"WOKE\"! LANTERNS Spoilers?!",
+      "source": "Ethan Van Sciver",
+      "left": "Sturgis",
+      "right": "Friday Night Tights",
+      "signal_type": "separation",
+      "timestamp": "01:00:03",
+      "confidence": 0.48,
+      "receipt": "f those things where like I don't really care. Um I don't like Chrissy. I don't like those guys. So yeah, go ahead. You guys [ __ ] on each other. Uh David L says, \"Is there a new Sturgis in Japan video? Those were hilarious. I hope he tried. Thanks for the trash cast.\" Yes, there is another one. Yeah, I don't know if you want to watch it, but uh we could definitel",
+      "warning": "candidate relationship evidence; requires review"
+    }
+  ]
+}

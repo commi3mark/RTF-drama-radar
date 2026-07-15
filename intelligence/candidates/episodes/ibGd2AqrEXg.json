@@ -1,0 +1,564 @@
+{
+  "schema_version": "octopuss-candidate-episode-v0.1",
+  "video_id": "ibGd2AqrEXg",
+  "title": "JON DEL ARROZ: HERES THE ATTENTION YOU ORDERED - SHANE DAVIS BACK ME BRO INTERNET BEEF - EXTRA SALTY",
+  "source": "Commi3 Mark",
+  "published": "2026-07-03T23:55:22+00:00",
+  "review_priority": 100,
+  "participant_candidates": [
+    {
+      "entity": "Commi3 Mark",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Jon Del Arroz",
+      "mentions": 10,
+      "block_count": 3,
+      "first_timestamp": "00:10",
+      "last_timestamp": "36:05",
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.0,
+        "positive_hits": 7,
+        "negative_hits": 7
+      },
+      "receipts": [
+        {
+          "timestamp": "00:10",
+          "excerpt": "Heat. Heat. >> [music] [music] >> Heat. Hey, Heat. [music] >> [music] >> Uh, if you could, would you give up all of Disney Star Wars to reset the cannon to just George Lucas stuff? Nah, I'd rather stick with it to old classic like George Lucas when they made Star Wars series back in the days. But they make a new one. Mm- >> Yeah. I rather go back George Mich"
+        },
+        {
+          "timestamp": "12:00",
+          "excerpt": "show. >> Go. >> I think you should do like the old Top of the Pops um countdown chart they used to do. Oh yeah, throughout the show. >> Describe that to me cuz I'm young and stupid. >> They're going to at 30 at 29 down five places to it's dens. At 28 we have Kenzo. New to the board we have Dr. Octopus. >> And coming in at number six. >> Yeah. and still at ho"
+        },
+        {
+          "timestamp": "24:01",
+          "excerpt": "it. Like that's people who watched the video >> pause like um and then left again. So >> that's funny. Look how high it is. Like it's the highest point of the show. 40% of people tune in to watch. >> That's the only reason. >> This is why I'm saying you know what you need to do is you need to move that segment around. Uh, and like never have it in a regular"
+        }
+      ]
+    },
+    {
+      "entity": "Eric July",
+      "mentions": 10,
+      "block_count": 4,
+      "first_timestamp": "12:00",
+      "last_timestamp": "02:00:03",
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "mixed",
+        "score": -0.238,
+        "positive_hits": 8,
+        "negative_hits": 13
+      },
+      "receipts": [
+        {
+          "timestamp": "12:00",
+          "excerpt": "his week like uh and I done a poll yesterday uh when I put up the link for the show and I did a poll saying what's people's preference to talk about Frog Tony's gang to talk about Eric July or talk about something else. So, it's your fault that we're covering JDA and it like people voted for something else. Like, that was the only other something else that I could th"
+        },
+        {
+          "timestamp": "01:12:03",
+          "excerpt": "school girl in the medieval times. Spectacular comics. Yeah, >> he did a reboot of Dynamite Thor as well at one point. All right, let's >> did their entire lives to just attacking Eric July over and over and over again. >> Entire lives. >> Well, this one came to me. >> Instead of spending your entire life attacking [clears throat] Eric July over and over again, what"
+        },
+        {
+          "timestamp": "01:36:02",
+          "excerpt": "egation of >> uh faking numbers and it >> I thought those I thought the way that those websites like cuz he Shane has a Shopify website just like uh Michael Braftoft and just like Eric July or not Eric July, Eric Weathers and uh I've even made one for a couple comic book artists. Like, aren't those like, don't those numbers just you can't even control those because t"
+        },
+        {
+          "timestamp": "01:48:00",
+          "excerpt": "re. Now this is pretty interesting. Shane Davis is super mad at me for doubting the numbers on his website. Shane and the rest of the CG had no problem doubting the numbers on the Eric July campaign. Now, what's really really funny is when he talks, >> we never said anything about doubting Eric. >> I don't remember saying anything about the numbers on Eric July stuff"
+        }
+      ]
+    },
+    {
+      "entity": "Shane Davis",
+      "mentions": 10,
+      "block_count": 4,
+      "first_timestamp": "24:01",
+      "last_timestamp": "01:12:06",
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.355,
+        "positive_hits": 10,
+        "negative_hits": 21
+      },
+      "receipts": [
+        {
+          "timestamp": "24:01",
+          "excerpt": "it. Like that's people who watched the video >> pause like um and then left again. So >> that's funny. Look how high it is. Like it's the highest point of the show. 40% of people tune in to watch. >> That's the only reason. >> This is why I'm saying you know what you need to do is you need to move that segment around. Uh, and like never have it in a regular"
+        },
+        {
+          "timestamp": "36:02",
+          "excerpt": "le time. They've been doing it since 2018 and [laughter] it really treats their audiences like they're complete idiots. And Shane Dave >> calling this an idiot again. Oh, here's a Shane Davis mine. Let's go back a sec. [snorts] >> It's another thing that they do that's a big deal uh every single time and they've been doing it since 2018 and [laughter] it really treats"
+        },
+        {
+          "timestamp": "48:01",
+          "excerpt": "pretty obvious at this juncture. So that's what's going on on griff number one. Griff number two is what's >> here we go. This is when it's gone to the Shane stuff and it >> with Shane Davis. Like I said, they've got the equivalent of the comic book industry all new number one first issue. Marvel Comics just did this this last month with Fantastic 4. They've got the m"
+        },
+        {
+          "timestamp": "01:00:02",
+          "excerpt": "at he I guess didn't have any receipts for >> Yeah, he doesn't show any receipts like in that video at all. >> Just such a clown show. Now, uh, it was brought to my attention that Shane Davis from Comics Gate, the guy who used to work at DC Comics here, uh, did a threehour live stream about me. [laughter] >> You can't make this stuff up. >> Um, but this is what they do"
+        }
+      ]
+    },
+    {
+      "entity": "ComicsGate",
+      "mentions": 10,
+      "block_count": 6,
+      "first_timestamp": "36:02",
+      "last_timestamp": "02:12:06",
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "mixed",
+        "score": -0.346,
+        "positive_hits": 17,
+        "negative_hits": 35
+      },
+      "receipts": [
+        {
+          "timestamp": "36:02",
+          "excerpt": ">> How about now? >> No. >> No. Cuz the sound's still down. You can see it on the little icon. >> I haven't put the share screen in. That's why I'm using my OBS share screen. >> Oh my god. >> Yeah. >> Nice. >> Java is lame. You know, back me, bro. Yeah. Not no. All right. Double V. >> All I like. >> Yeah. So, back me, bro. I love it. Yes. This will be the on"
+        },
+        {
+          "timestamp": "48:01",
+          "excerpt": ">> Like um because um unlike some people that we know, JDA is obviously going to have receipts, isn't he? is going to present like um cuz that's something we criticize people for for making wild outlandish claims with no receipts like uh so I look forward to seeing those in this video [laughter] >> but it sounded like he laughed at my joke then didn't it lik"
+        },
+        {
+          "timestamp": "01:00:02",
+          "excerpt": "one? He's actually sells CGC graded books and it like um and we know that your enlightened fans and your Sturgises or whatever think that you know they'll pay for their grandchildren's houses like with these books, which they clearly weren't. And again, JDA is guilty of this as well. Like all of his books are number one's apart from uh Fine Spot. >> This is"
+        },
+        {
+          "timestamp": "01:24:01",
+          "excerpt": "very very funny. Um basically the contention is Indiegogo, if you don't know, changed the way that they were because they got a new ownership. And when they did so, it showed that ComicsGate actually had a lot less backers than people thought previous because they changed it from people who backed over and over and over again to unique backers. And so Comics actually"
+        },
+        {
+          "timestamp": "01:36:02",
+          "excerpt": "contact EBS and was that about the uh not being in the comics gate internet Twitter group thingy? >> Is that what you were referring to? >> Maybe. And like we have both been on the show before and it but we are currently um quarantined in the [ __ ] back room like um for you know, [laughter] and the leftovers and that, but whatever. I'm not >> Yeah. And then"
+        }
+      ]
+    },
+    {
+      "entity": "Ethan Van Sciver",
+      "mentions": 10,
+      "block_count": 3,
+      "first_timestamp": "48:01",
+      "last_timestamp": "01:36:04",
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.538,
+        "positive_hits": 6,
+        "negative_hits": 20
+      },
+      "receipts": [
+        {
+          "timestamp": "48:01",
+          "excerpt": ">> Like um because um unlike some people that we know, JDA is obviously going to have receipts, isn't he? is going to present like um cuz that's something we criticize people for for making wild outlandish claims with no receipts like uh so I look forward to seeing those in this video [laughter] >> but it sounded like he laughed at my joke then didn't it lik"
+        },
+        {
+          "timestamp": "01:00:02",
+          "excerpt": "one? He's actually sells CGC graded books and it like um and we know that your enlightened fans and your Sturgises or whatever think that you know they'll pay for their grandchildren's houses like with these books, which they clearly weren't. And again, JDA is guilty of this as well. Like all of his books are number one's apart from uh Fine Spot. >> This is"
+        },
+        {
+          "timestamp": "01:24:01",
+          "excerpt": "And uh [laughter] it's even funnier on this level. Uh but the guy has been going off on X just flipping out about me for the past week or whatever. How doing it behind a block like a complete coward. Uh John Men of course demanded everybody in Comicscape block me. It's like oh gosh these guys are such cowards. >> I'm sure he's got receipts. I was going to sa"
+        }
+      ]
+    },
+    {
+      "entity": "Frog Tony",
+      "mentions": 4,
+      "block_count": 3,
+      "first_timestamp": "12:00",
+      "last_timestamp": "02:00:03",
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "mixed",
+        "score": -0.167,
+        "positive_hits": 5,
+        "negative_hits": 7
+      },
+      "receipts": [
+        {
+          "timestamp": "12:00",
+          "excerpt": "ut JDA's in uh on my timeline this week like uh and I done a poll yesterday uh when I put up the link for the show and I did a poll saying what's people's preference to talk about Frog Tony's gang to talk about Eric July or talk about something else. So, it's your fault that we're covering JDA and it like people voted for something else. Like, that was the only other"
+        },
+        {
+          "timestamp": "01:12:03",
+          "excerpt": "hey're already like uh like a huge deal. >> But if they're just somebody coming up to your booth at a convention or at a convention, I can talk. I swear. >> Um >> I'll get better. Frog Tony went to see Shane at a convention as well and it like went up being all like oh Frog Tony and then >> yeah at least in that case yeah he's [laughter] that's uh that's technically"
+        },
+        {
+          "timestamp": "01:48:00",
+          "excerpt": "slurs and gets drunk every night. Uh so I can't handle that myself. >> What's he on about? >> So [snorts] he's saying what the contents of the stream are supposed to be, but that he didn't watch it and he didn't even play the >> Yeah. Yeah. And it's exactly what I was talking about they did to us and it >> doesn't even play the clip just puts it there. >> It"
+        }
+      ]
+    },
+    {
+      "entity": "Liam Gray",
+      "mentions": 3,
+      "block_count": 3,
+      "first_timestamp": "48:01",
+      "last_timestamp": "02:12:06",
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.36,
+        "positive_hits": 8,
+        "negative_hits": 17
+      },
+      "receipts": [
+        {
+          "timestamp": "48:01",
+          "excerpt": ">> Like um because um unlike some people that we know, JDA is obviously going to have receipts, isn't he? is going to present like um cuz that's something we criticize people for for making wild outlandish claims with no receipts like uh so I look forward to seeing those in this video [laughter] >> but it sounded like he laughed at my joke then didn't it lik"
+        },
+        {
+          "timestamp": "01:24:01",
+          "excerpt": "And uh [laughter] it's even funnier on this level. Uh but the guy has been going off on X just flipping out about me for the past week or whatever. How doing it behind a block like a complete coward. Uh John Men of course demanded everybody in Comicscape block me. It's like oh gosh these guys are such cowards. >> I'm sure he's got receipts. I was going to sa"
+        },
+        {
+          "timestamp": "02:00:01",
+          "excerpt": "ay he says he knows he knows that people behind the scenes. So, how do you know? [laughter] [cough] >> Blind item. >> Yeah. All of them. Like JDA has the journalistic integrity of Liam Gray. >> Like uh [laughter] I don't see any receipts at all. We've watched two videos now. Not a single receipt. >> Just accusations. a projected accusations as well as that. >> They'v"
+        }
+      ]
+    },
+    {
+      "entity": "Stray Beans",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "24:01",
+      "last_timestamp": "36:05",
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.0,
+        "positive_hits": 2,
+        "negative_hits": 2
+      },
+      "receipts": [
+        {
+          "timestamp": "24:01",
+          "excerpt": "rd and it like >> good work for him. Someone in the chat there he is said where's Matt Bar? There he is in 30th place [laughter] >> on 240 tied with intense. >> Yeah, he loves it. Stray Beans dropped the most places like um in the week since last week. Uh Mr. Fury gained again because we got clipped by Katie did again like um and it had that >> nice >> sting that we wa"
+        }
+      ]
+    },
+    {
+      "entity": "Cyberfrog",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "01:24:01",
+      "last_timestamp": "01:36:04",
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.556,
+        "positive_hits": 2,
+        "negative_hits": 7
+      },
+      "receipts": [
+        {
+          "timestamp": "01:24:01",
+          "excerpt": "t out any comics because they spend all their time live streaming. >> Yeah. >> Like they have time to make comics when they're just making free. >> I have a I have a bunch of like Cyberfrog comics cards and toys that definitely did not come out apparently. U that I never [laughter] somehow I've got them. >> Nothing shows that you don't care about what someone says wh"
+        }
+      ]
+    },
+    {
+      "entity": "Aaron Imholte",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "02:00:01",
+      "last_timestamp": "02:12:06",
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.143,
+        "positive_hits": 4,
+        "negative_hits": 3
+      },
+      "receipts": [
+        {
+          "timestamp": "02:00:01",
+          "excerpt": "cop pennet for his own numbers being low or whatever. Like >> I don't have porn on my book. >> He does though. Yeah, he has uh done some >> Yep, he's done cheesecake. >> Yeah, >> dude. He's done underage [ __ ] panty [ __ ] >> Yeah, he's he's [laughter] >> he's done >> he's done he's done cupcake. >> He's done furry [ __ ] He's done furry bait stuff, too. Li"
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:10",
+      "end": "12:01",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "Heat. Heat. >> [music] [music] >> Heat. Hey, Heat. [music] >> [music] >> Uh, if you could, would you give up all of Disney Star Wars to reset the cannon to just George Lucas stuff? Nah, I'd rather stick with it to old classic like George Lucas when they made Star Wars series back in the days. But they make a new one. Mm- >> Yeah. I rather go back G"
+    },
+    {
+      "start": "12:00",
+      "end": "24:04",
+      "title": "Eric July / Frog Tony",
+      "entities": [
+        "Eric July",
+        "Frog Tony"
+      ],
+      "possible_clip": false,
+      "summary_seed": "show. >> Go. >> I think you should do like the old Top of the Pops um countdown chart they used to do. Oh yeah, throughout the show. >> Describe that to me cuz I'm young and stupid. >> They're going to at 30 at 29 down five places to it's dens. At 28 we have Kenzo. New to the board we have Dr. Octopus. >> And coming in at number six. >> Yeah. and s"
+    },
+    {
+      "start": "24:01",
+      "end": "36:05",
+      "title": "Stray Beans",
+      "entities": [
+        "Stray Beans"
+      ],
+      "possible_clip": true,
+      "summary_seed": "it. Like that's people who watched the video >> pause like um and then left again. So >> that's funny. Look how high it is. Like it's the highest point of the show. 40% of people tune in to watch. >> That's the only reason. >> This is why I'm saying you know what you need to do is you need to move that segment around. Uh, and like never have it in"
+    },
+    {
+      "start": "36:02",
+      "end": "48:04",
+      "title": "Shane Davis",
+      "entities": [
+        "Shane Davis"
+      ],
+      "possible_clip": false,
+      "summary_seed": ">> How about now? >> No. >> No. Cuz the sound's still down. You can see it on the little icon. >> I haven't put the share screen in. That's why I'm using my OBS share screen. >> Oh my god. >> Yeah. >> Nice. >> Java is lame. You know, back me, bro. Yeah. Not no. All right. Double V. >> All I like. >> Yeah. So, back me, bro. I love it. Yes. This will"
+    },
+    {
+      "start": "48:01",
+      "end": "01:00:06",
+      "title": "Shane Davis",
+      "entities": [
+        "Shane Davis"
+      ],
+      "possible_clip": false,
+      "summary_seed": ">> Like um because um unlike some people that we know, JDA is obviously going to have receipts, isn't he? is going to present like um cuz that's something we criticize people for for making wild outlandish claims with no receipts like uh so I look forward to seeing those in this video [laughter] >> but it sounded like he laughed at my joke then did"
+    },
+    {
+      "start": "01:00:02",
+      "end": "01:12:06",
+      "title": "Shane Davis",
+      "entities": [
+        "Shane Davis"
+      ],
+      "possible_clip": false,
+      "summary_seed": "one? He's actually sells CGC graded books and it like um and we know that your enlightened fans and your Sturgises or whatever think that you know they'll pay for their grandchildren's houses like with these books, which they clearly weren't. And again, JDA is guilty of this as well. Like all of his books are number one's apart from uh Fine Spot. >"
+    },
+    {
+      "start": "01:12:03",
+      "end": "01:24:00",
+      "title": "Eric July / Frog Tony / Shane Davis",
+      "entities": [
+        "Eric July",
+        "Frog Tony",
+        "Shane Davis"
+      ],
+      "possible_clip": false,
+      "summary_seed": "the most boring couple [ __ ] like. [laughter] >> Yeah. All right. So, Billy, you're just joining us. We are watching unlisted JDA videos where he talks smack about Shane Davis and it like >> what a [ __ ] [ __ ] [laughter] >> Yeah. >> Yeah. >> Sounds like you've been watching. >> Well, I I had I had like a five minute spool up time of like uh star"
+    },
+    {
+      "start": "01:24:01",
+      "end": "01:36:04",
+      "title": "Shane Davis / ComicsGate / Cyberfrog",
+      "entities": [
+        "Shane Davis",
+        "ComicsGate",
+        "Cyberfrog"
+      ],
+      "possible_clip": false,
+      "summary_seed": "And uh [laughter] it's even funnier on this level. Uh but the guy has been going off on X just flipping out about me for the past week or whatever. How doing it behind a block like a complete coward. Uh John Men of course demanded everybody in Comicscape block me. It's like oh gosh these guys are such cowards. >> I'm sure he's got receipts. I was g"
+    },
+    {
+      "start": "01:36:02",
+      "end": "01:48:02",
+      "title": "Eric July",
+      "entities": [
+        "Eric July"
+      ],
+      "possible_clip": false,
+      "summary_seed": "contact EBS and was that about the uh not being in the comics gate internet Twitter group thingy? >> Is that what you were referring to? >> Maybe. And like we have both been on the show before and it but we are currently um quarantined in the [ __ ] back room like um for you know, [laughter] and the leftovers and that, but whatever. I'm not >> Yeah"
+    },
+    {
+      "start": "01:48:00",
+      "end": "02:00:03",
+      "title": "Eric July / Shane Davis",
+      "entities": [
+        "Eric July",
+        "Shane Davis"
+      ],
+      "possible_clip": false,
+      "summary_seed": "slurs and gets drunk every night. Uh so I can't handle that myself. >> What's he on about? >> So [snorts] he's saying what the contents of the stream are supposed to be, but that he didn't watch it and he didn't even play the >> Yeah. Yeah. And it's exactly what I was talking about they did to us and it >> doesn't even play the clip just puts it th"
+    },
+    {
+      "start": "02:00:01",
+      "end": "02:12:06",
+      "title": "Liam Gray",
+      "entities": [
+        "Liam Gray"
+      ],
+      "possible_clip": false,
+      "summary_seed": "cop pennet for his own numbers being low or whatever. Like >> I don't have porn on my book. >> He does though. Yeah, he has uh done some >> Yep, he's done cheesecake. >> Yeah, >> dude. He's done underage [ __ ] panty [ __ ] >> Yeah, he's he's [laughter] >> he's done >> he's done he's done cupcake. >> He's done furry [ __ ] He's done furry bait stuf"
+    },
+    {
+      "start": "02:12:00",
+      "end": "02:23:54",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": true,
+      "summary_seed": "uh Into the Black. [laughter] Um while JDA is in a new relationship with the Buxom and beautiful uh Latina hottie uh Daniela What do we reckon? A or a B? I don't speak Spanish. It's one of them. >> I can't see what you're typing no more. >> For real. Is it off the screen? >> There we go. >> Um, let's swap the word hoty for bad cuz we're like >> Yea"
+    },
+    {
+      "start": "02:24:02",
+      "end": "02:24:29",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "Okay. See you next Friday. Bring a friend. I promise. It'll be better. >> [music] >> Well, better than whatever the [ __ ] that was."
+    }
+  ],
+  "claims": [
+    {
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Shane Davis"
+      ],
+      "claim": "I DIDN'T WATCH [laughter] I can't say Shane Davis like I don't I don't know if he's um brain damaged like uh from he's I I know that he was a massive drug addict, a massive alcoholic at some point.",
+      "timestamp": "01:12:03",
+      "status": "candidate_claim",
+      "confidence": 0.55,
+      "receipt": "I DIDN'T WATCH [laughter] I can't say Shane Davis like I don't I don't know if he's um brain damaged like uh from he's I I know that he was a massive drug addict, a massive alcoholic at some point."
+    },
+    {
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Shane Davis"
+      ],
+      "claim": "[laughter] I can't say Shane Davis like I don't I don't know if he's um brain damaged like uh from he's I I know that he was a massive drug addict.",
+      "timestamp": "01:12:03",
+      "status": "candidate_claim",
+      "confidence": 0.55,
+      "receipt": "[laughter] I can't say Shane Davis like I don't I don't know if he's um brain damaged like uh from he's I I know that he was a massive drug addict."
+    },
+    {
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Eric July"
+      ],
+      "claim": "So Student of God obviously then showed a clip where he immediately said that about Eric July.",
+      "timestamp": "01:48:00",
+      "status": "candidate_claim",
+      "confidence": 0.55,
+      "receipt": "So Student of God obviously then showed a clip where he immediately said that about Eric July."
+    },
+    {
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Eric July"
+      ],
+      "claim": "The same reasons why we never said that about Eric July is because it's dumb.",
+      "timestamp": "01:48:00",
+      "status": "candidate_claim",
+      "confidence": 0.55,
+      "receipt": "The same reasons why we never said that about Eric July is because it's dumb."
+    },
+    {
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Eric July"
+      ],
+      "claim": "I never said that about Eric July.",
+      "timestamp": "01:48:00",
+      "status": "candidate_claim",
+      "confidence": 0.55,
+      "receipt": "I never said that about Eric July."
+    }
+  ],
+  "quotes": [
+    {
+      "timestamp": "02:12:00",
+      "text": "I have a new modem and all all sorts of good [ __ ] Um, so you know, unless a meteor strike or some sort of volcano just suddenly shows up here and pops out the ground, I feel like the Epic Show should finally [laughter] be back again.",
+      "subjects": [],
+      "significance_score": 1
+    }
+  ],
+  "relationships": [
+    {
+      "left": "Shane Davis",
+      "right": "ComicsGate",
+      "signal_type": "promoted",
+      "timestamp": "01:24:01",
+      "confidence": 0.48,
+      "receipt": "d they just lie to the same like group of like few uh super chatters at this that that they can't they can't even like get out of their own uh way and it's really really sad. Now, Shane Davis actually like is one of the few of these guys that actually does deliver his comics. And so, you'd think like maybe he wants to just like chill and like not cause a bunch of contr",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "left": "Shane Davis",
+      "right": "Cyberfrog",
+      "signal_type": "promoted",
+      "timestamp": "01:24:01",
+      "confidence": 0.48,
+      "receipt": "d they just lie to the same like group of like few uh super chatters at this that that they can't they can't even like get out of their own uh way and it's really really sad. Now, Shane Davis actually like is one of the few of these guys that actually does deliver his comics. And so, you'd think like maybe he wants to just like chill and like not cause a bunch of contr",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "left": "ComicsGate",
+      "right": "Cyberfrog",
+      "signal_type": "promoted",
+      "timestamp": "01:24:01",
+      "confidence": 0.48,
+      "receipt": "very very funny. Um basically the contention is Indiegogo, if you don't know, changed the way that they were because they got a new ownership. And when they did so, it showed that ComicsGate actually had a lot less backers than people thought previous because they changed it from people who backed over and over and over again to unique backers. And so Comics actually",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "left": "Eric July",
+      "right": "Shane Davis",
+      "signal_type": "criticised",
+      "timestamp": "01:48:00",
+      "confidence": 0.48,
+      "receipt": "re. Now this is pretty interesting. Shane Davis is super mad at me for doubting the numbers on his website. Shane and the rest of the CG had no problem doubting the numbers on the Eric July campaign. Now, what's really really funny is when he talks, >> we never said anything about doubting Eric. >> I don't remember saying anything about the numbers on Eric July stuff",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "left": "Eric July",
+      "right": "Shane Davis",
+      "signal_type": "promoted",
+      "timestamp": "01:48:00",
+      "confidence": 0.48,
+      "receipt": "re. Now this is pretty interesting. Shane Davis is super mad at me for doubting the numbers on his website. Shane and the rest of the CG had no problem doubting the numbers on the Eric July campaign. Now, what's really really funny is when he talks, >> we never said anything about doubting Eric. >> I don't remember saying anything about the numbers on Eric July stuff",
+      "warning": "candidate relationship evidence; requires review"
+    }
+  ],
+  "story_matches": [
+    {
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.833
+    },
+    {
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.75
+    },
+    {
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "score": 0.429
+    },
+    {
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.4
+    }
+  ],
+  "uncertainty_flags": [
+    "speaker attribution may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon cannot reliably detect sarcasm",
+    "claims and relationship signals remain candidates"
+  ]
+}

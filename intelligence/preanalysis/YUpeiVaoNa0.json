@@ -1,6 +1,6 @@
 {
-  "schema_version": "octopuss-preanalysis-v0.1",
-  "generated_at": "2026-07-15T21:04:17.430712+00:00",
+  "schema_version": "octopuss-preanalysis-v0.2",
+  "generated_at": "2026-07-15T21:17:11.686148+00:00",
   "video_id": "YUpeiVaoNa0",
   "title": "EVEN A STOPPED CLOCK IS CORRECT TWICE A DAY- Deniz Camp ACCURATELY Describes Right-Wing Comics Sites",
   "source": "Ya Boi Zack",
@@ -19,7 +19,7 @@
     {
       "entity": "Ya Boi Zack",
       "role_guess": "host_or_channel_identity",
-      "confidence": 0.72,
+      "confidence": 0.75,
       "signals": [
         "packet source/channel identity"
       ]
@@ -32,21 +32,19 @@
       "block_count": 1,
       "first_timestamp": "00:01",
       "last_timestamp": "12:03",
-      "discussion_span_seconds": 721.8,
       "importance_guess": "passing",
       "sentiment": {
-        "label": "positive",
-        "score": 0.543,
-        "positive_hits": 54,
-        "negative_hits": 16
+        "label": "mixed",
+        "score": -0.333,
+        "positive_hits": 4,
+        "negative_hits": 8
       },
       "receipts": [
         {
           "timestamp": "00:01",
-          "excerpt": "says, \"You know what? I mean, you got the what was the guy from? He quit just to run a farm. Nobody just quits the rat race in Hollywood and says like, \"Oh, by the way, I was the insider source for Geeks and Gamers and Friday Night Tights and Cosmic Book News and all these [ __ ] I was that's me.\" They never want to write a book inside Source: Tales from within Hollywood. They never do that ever cuz it's fake. these guys are making it up or they are repe"
+          "excerpt": "he what was the guy from? He quit just to run a farm. Nobody just quits the rat race in Hollywood and says like, \"Oh, by the way, I was the insider source for Geeks and Gamers and Friday Night Tights and Cosmic Book News and all these [ __ ] I was that's me.\" They never want to write a book inside Source: Tales from within Hollywood. They never do that ever cuz it's fake. thes"
         }
-      ],
-      "appearance_status": "uncertain"
+      ]
     }
   ],
   "chapters": [
@@ -57,128 +55,50 @@
       "entities": [
         "Friday Night Tights"
       ],
-      "summary_seed": "Hi everyone, it's your boy Zach. So yesterday uh I recorded uh was driving to the doctor's um the 8 billionth um I hate uh perches letter writers uh video. I was like I'll spare the world. This is kind of worthless. But um later I was going through some comments and I saw a tweet by Denise Camp and I think this one will be more focused especially since I have less time to make it and that please stop focusing on fail",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "possible_clip": false,
+      "summary_seed": "Hi everyone, it's your boy Zach. So yesterday uh I recorded uh was driving to the doctor's um the 8 billionth um I hate uh perches letter writers uh video. I was like I'll spare the world. This is kind of worthless. But um later I was going through some comments and I saw a tweet by Denise Camp and I think this one will be more focused especially s"
     },
     {
       "start": "12:00",
       "end": "16:21",
       "title": "General discussion",
       "entities": [],
-      "summary_seed": "What? What is this? Nations rise and fall. Businesses go out of business. Relationships end. Are you really in middle age just worrying about the Q3 deliverables in Koala Lumpur for Valiant? Are you driving right now? What are all the businesses you're driving by? Oh, oh, what what if that hotel what if I need to go to that hotel and and what if it's it's not open in 5 years? I need to know the CEO. I need to know if",
-      "clip_likelihood": false,
-      "transition_markers": 2
+      "possible_clip": false,
+      "summary_seed": "What? What is this? Nations rise and fall. Businesses go out of business. Relationships end. Are you really in middle age just worrying about the Q3 deliverables in Koala Lumpur for Valiant? Are you driving right now? What are all the businesses you're driving by? Oh, oh, what what if that hotel what if I need to go to that hotel and and what if it"
     }
   ],
   "claim_candidates": [
     {
       "claimant": "unknown speaker",
-      "claim": "this one will be more focused especially since I have less time to make it and that please stop focusing on failure of others just failure in general just a concept it is the addiction of the age.",
-      "timestamp": "00:01",
-      "status": "opinion_or_inference",
-      "receipt": "But um later I was going through some comments and I saw a tweet by Denise Camp and I think this one will be more focused especially since I have less time to make it and that please stop focusing on failure of others just failure in general just a concept it is the addiction of the age."
-    },
-    {
-      "claimant": "Because as I've",
-      "claim": "many, many times, you guys need to decide if you're these alpha patriot badasses or the biggest [ __ ] who ever lived because you keep flipping back and forth.",
+      "subjects": [
+        "Friday Night Tights"
+      ],
+      "claim": "Nobody just quits the rat race in Hollywood and says like, \"Oh, by the way, I was the insider source for Geeks and Gamers and Friday Night Tights and Cosmic Book News and all these [ __ ] I was that's me.\" They never want to write a book inside Source: Tales from within Hollywood.",
       "timestamp": "00:01",
       "status": "candidate_claim",
-      "receipt": "Because as I've said many, many times, you guys need to decide if you're these alpha patriot badasses or the biggest [ __ ] who ever lived because you keep flipping back and forth."
-    },
-    {
-      "claimant": "have been coming out of anesthesia and",
-      "claim": "that he was the guy in the west tower who put the explosives, blah blah blah.\" Like, just stop.",
-      "timestamp": "00:01",
-      "status": "candidate_claim",
-      "receipt": "He might have been coming out of anesthesia and said that he was the guy in the west tower who put the explosives, blah blah blah.\" Like, just stop."
-    },
-    {
-      "claimant": "like I",
-      "claim": "yesterday, um it's it's very good that circumstantial evidence is not used to convict because in the culture war, it is.",
-      "timestamp": "00:01",
-      "status": "candidate_claim",
-      "receipt": "Like, like I said yesterday, um it's it's very good that circumstantial evidence is not used to convict because in the culture war, it is."
-    },
-    {
-      "claimant": "just quits the rat race in Hollywood and",
-      "claim": "like, \"Oh, by the way, I was the insider source for Geeks and Gamers and Friday Night Tights and Cosmic Book News and all these [ __ ] I was that's me.\" They never want to write a book inside Source: Tales from within Hollywood.",
-      "timestamp": "00:01",
-      "status": "candidate_claim",
+      "confidence": 0.55,
       "receipt": "Nobody just quits the rat race in Hollywood and says like, \"Oh, by the way, I was the insider source for Geeks and Gamers and Friday Night Tights and Cosmic Book News and all these [ __ ] I was that's me.\" They never want to write a book inside Source: Tales from within Hollywood."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "you're getting divorced.",
-      "timestamp": "00:01",
-      "status": "candidate_claim",
-      "receipt": "It's like when your friends you meet your friends and they're like hey so um it's like I know you're getting divorced."
     }
   ],
-  "quote_candidates": [
-    {
-      "timestamp": "00:01",
-      "text": "Go on Tik Tok, you will see hundreds of Tik Tok channels of people in their 20s and they love back issues.",
-      "significance_score": 2
-    },
-    {
-      "timestamp": "00:01",
-      "text": "So Denise, and that's never not annoying because you just know his name is Dennis on his birth certificate.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "00:01",
-      "text": "Yeah, it's fun if you're in an airport to read a digital comic, but you don't really build a lasting and then they always go, \"Oh, oh, Japan.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "00:01",
-      "text": "They never got rid of physical tonco.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "00:01",
-      "text": "Have you noticed the sources never decloak?",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "00:01",
-      "text": "It's never like, \"Oh, I had this guy.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "00:01",
-      "text": "They never do that ever cuz it's fake.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "00:01",
-      "text": "This is what happens when you never grow up.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "00:01",
-      "text": "I I I hope I could always get a burger here.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "12:00",
-      "text": "That's something that's been pounded into your head by right-wing media to always be worried about everything but also think you're a tough guy but also be scared of everything and celebrate success.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "12:00",
-      "text": "One of my favorite things, and I'm about to wrap this up, um, is, uh, Tim Burton once gave an assessment of his own Batman movie, and I've never seen an artist give such an accurate assessment of their own work.",
-      "significance_score": 1
-    }
-  ],
+  "quote_candidates": [],
   "relationship_signals": [],
-  "story_matches": [],
+  "story_matches": [
+    {
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "score": 0.571
+    },
+    {
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.5
+    }
+  ],
+  "review_priority": 24,
   "uncertainty_flags": [
-    "speaker identity may be unknown",
+    "speaker attribution may be unknown",
     "clip voices may be mistaken for live participants",
-    "sentiment lexicon does not reliably detect sarcasm",
-    "relationship signals are candidates, not declarations",
-    "claims are not verified facts"
+    "sentiment lexicon cannot reliably detect sarcasm",
+    "claims and relationship signals remain candidates"
   ]
 }

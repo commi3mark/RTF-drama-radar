@@ -1,6 +1,6 @@
 {
-  "schema_version": "octopuss-preanalysis-v0.1",
-  "generated_at": "2026-07-15T21:04:18.073060+00:00",
+  "schema_version": "octopuss-preanalysis-v0.2",
+  "generated_at": "2026-07-15T21:17:12.147924+00:00",
   "video_id": "haKM6g11LrM",
   "title": "Ethan Van Sciver Learns The Truth of DRONES! | The Khola King Fear",
   "source": "KatyDid",
@@ -19,7 +19,7 @@
     {
       "entity": "KatyDid",
       "role_guess": "host_or_channel_identity",
-      "confidence": 0.72,
+      "confidence": 0.75,
       "signals": [
         "packet source/channel identity"
       ]
@@ -32,113 +32,40 @@
       "block_count": 1,
       "first_timestamp": "00:00",
       "last_timestamp": "08:27",
-      "discussion_span_seconds": 507.4,
       "importance_guess": "major",
       "sentiment": {
-        "label": "positive",
-        "score": 0.586,
-        "positive_hits": 23,
+        "label": "mixed",
+        "score": -0.091,
+        "positive_hits": 5,
         "negative_hits": 6
       },
       "receipts": [
         {
           "timestamp": "00:00",
-          "excerpt": "I was like, well, what can I What could have I done better? What could I do? And when the drone stuff was happening that everyone's making fun of and says didn't happen like when that stuff was happening and the death threats and all of that and the race traitor stuff, real heinous stuff. I was shaken up and I was calling Liam a race traitor. Poor mental health that ended up with me just standing up. >> So, I I don't know. Let me just t"
+          "excerpt": "I was like, well, what can I What could have I done better? What could I do? And when the drone stuff was happening that everyone's making fun of and says didn't happen like when that stuff was happening and the death threats and all of that and the race traitor stuff, real heinous stuff. I was shaken up and I was calling Liam a race traitor. Poor mental hea"
         }
-      ],
-      "appearance_status": "uncertain"
+      ]
     }
   ],
   "chapters": [
     {
       "start": "00:00",
       "end": "08:27",
-      "title": "Liam Gray",
-      "entities": [
-        "Liam Gray"
-      ],
-      "summary_seed": "I was like, well, what can I What could have I done better? What could I do? And when the drone stuff was happening that everyone's making fun of and says didn't happen like when that stuff was happening and the death threats and all of that and the race traitor stuff, real heinous stuff. I was shaken up and I was calling Liam a race traitor. Poor mental health that ended up with me just standing up. >> So, I I don't",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "I was like, well, what can I What could have I done better? What could I do? And when the drone stuff was happening that everyone's making fun of and says didn't happen like when that stuff was happening and the death threats and all of that and the race traitor stuff, real heinous stuff. I was shaken up and I was calling Liam a race traitor. Poor"
     }
   ],
-  "claim_candidates": [
-    {
-      "claimant": "that everyone's making fun of and",
-      "claim": "didn't happen like when that stuff was happening and the death threats and all of that and the race traitor stuff, real heinous stuff.",
-      "timestamp": "00:00",
-      "status": "candidate_claim",
-      "receipt": "And when the drone stuff was happening that everyone's making fun of and says didn't happen like when that stuff was happening and the death threats and all of that and the race traitor stuff, real heinous stuff."
-    },
-    {
-      "claimant": "me ask AI real quick and just see what AI",
-      "claim": "about this.",
-      "timestamp": "00:00",
-      "status": "candidate_claim",
-      "receipt": "Let me ask AI real quick and just see what AI says about this."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "he's just being paranoid.",
-      "timestamp": "00:00",
-      "status": "opinion_or_inference",
-      "receipt": "Um I think he's just being paranoid."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "this is the best thing that This is what AI is actually for.",
-      "timestamp": "00:00",
-      "status": "opinion_or_inference",
-      "receipt": "I think this is the best thing that This is what AI is actually for."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "it Liam would probably agree with that.",
-      "timestamp": "00:00",
-      "status": "opinion_or_inference",
-      "receipt": "I don't know if that's a real phrase, but it it's I think it Liam would probably agree with that."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "is happening here.",
-      "timestamp": "00:00",
-      "status": "opinion_or_inference",
-      "receipt": "Now, this is what I think is happening here."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "this is a good assessment of what's going on with Liam.",
-      "timestamp": "00:00",
-      "status": "opinion_or_inference",
-      "receipt": "I think this is a good assessment of what's going on with Liam."
-    },
-    {
-      "claimant": "he he",
-      "claim": "nobody believes him.",
-      "timestamp": "00:00",
-      "status": "candidate_claim",
-      "receipt": "But, he he says nobody believes him."
-    }
-  ],
-  "quote_candidates": [
-    {
-      "timestamp": "00:00",
-      "text": "And when the drone stuff was happening that everyone's making fun of and says didn't happen like when that stuff was happening and the death threats and all of that and the race traitor stuff, real heinous stuff.",
-      "significance_score": 2
-    },
-    {
-      "timestamp": "00:00",
-      "text": "US-based people cannot realistically pilot a drone in real-time from America due to massive latency, signal issues, and legal barriers.",
-      "significance_score": 2
-    }
-  ],
+  "claim_candidates": [],
+  "quote_candidates": [],
   "relationship_signals": [],
   "story_matches": [],
+  "review_priority": 3,
   "uncertainty_flags": [
-    "speaker identity may be unknown",
+    "speaker attribution may be unknown",
     "clip voices may be mistaken for live participants",
-    "sentiment lexicon does not reliably detect sarcasm",
-    "relationship signals are candidates, not declarations",
-    "claims are not verified facts"
+    "sentiment lexicon cannot reliably detect sarcasm",
+    "claims and relationship signals remain candidates"
   ]
 }

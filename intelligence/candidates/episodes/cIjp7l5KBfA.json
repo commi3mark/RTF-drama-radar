@@ -1,0 +1,39 @@
+{
+  "schema_version": "octopuss-candidate-episode-v0.1",
+  "video_id": "cIjp7l5KBfA",
+  "title": "Why the \"World Sport\" is different...",
+  "source": "Eric July",
+  "published": "2026-07-07T22:18:34+00:00",
+  "review_priority": 0,
+  "participant_candidates": [
+    {
+      "entity": "Eric July",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subjects": [],
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "04:24",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "All right, awesome conversation happening right now, and I wanted to chime in on it because people are arguing whether if our best like athletes play soccer, if we dominate the sport. And this is obviously on the back of that embarrassing loss to Belgium at the World Cup. And there are some good arguments, and I think there's some bad ones as well."
+    }
+  ],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker attribution may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon cannot reliably detect sarcasm",
+    "claims and relationship signals remain candidates"
+  ]
+}

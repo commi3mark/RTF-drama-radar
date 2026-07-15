@@ -1,6 +1,6 @@
 {
-  "schema_version": "octopuss-preanalysis-v0.1",
-  "generated_at": "2026-07-15T21:04:16.693559+00:00",
+  "schema_version": "octopuss-preanalysis-v0.2",
+  "generated_at": "2026-07-15T21:17:11.154904+00:00",
   "video_id": "IiuHUxargVk",
   "title": "Daddy Daughter Day (CG lies to you and why I am right)",
   "source": "Liam Gray",
@@ -19,7 +19,7 @@
     {
       "entity": "Liam Gray",
       "role_guess": "host_or_channel_identity",
-      "confidence": 0.72,
+      "confidence": 0.75,
       "signals": [
         "packet source/channel identity"
       ]
@@ -32,21 +32,19 @@
       "block_count": 1,
       "first_timestamp": "00:00",
       "last_timestamp": "07:20",
-      "discussion_span_seconds": 440.4,
       "importance_guess": "secondary",
       "sentiment": {
-        "label": "positive",
-        "score": 0.769,
-        "positive_hits": 23,
+        "label": "mixed",
+        "score": -0.2,
+        "positive_hits": 2,
         "negative_hits": 3
       },
       "receipts": [
         {
           "timestamp": "00:00",
-          "excerpt": "nd uh we're just getting out and going to the park one last time. But I got messaged uh just now on my Facebook uh and a little bit earlier as well by a couple of uh viewers and stuff from uh from CG who told me that uh Ethan Van Sciver, Creative Sciver from, has been uh basically uh lying to you about like what's going on. So, I just want to encourage anyone that's got like any sort of uh imbias, any sort of uh wants to actually have a decent understa"
+          "excerpt": "o the park one last time. But I got messaged uh just now on my Facebook uh and a little bit earlier as well by a couple of uh viewers and stuff from uh from CG who told me that uh Ethan Van Sciver, Creative Sciver from, has been uh basically uh lying to you about like what's going on. So, I just want to encourage anyone that's got like any sort of uh imbias, any sort of uh"
         }
-      ],
-      "appearance_status": "uncertain"
+      ]
     },
     {
       "entity": "Liam Gray",
@@ -54,21 +52,19 @@
       "block_count": 1,
       "first_timestamp": "00:00",
       "last_timestamp": "07:20",
-      "discussion_span_seconds": 440.4,
       "importance_guess": "passing",
       "sentiment": {
-        "label": "positive",
-        "score": 0.769,
-        "positive_hits": 23,
+        "label": "mixed",
+        "score": -0.2,
+        "positive_hits": 2,
         "negative_hits": 3
       },
       "receipts": [
         {
           "timestamp": "00:00",
-          "excerpt": "Yeah. Uh, my daughter's just doing her thing. Uh Basically, the house is like 2/3 packed up. And uh we're just getting out and going to the park one last time. But I got messaged uh just now on my Facebook uh and a little bit earlier as well by a couple of uh viewers and stuff from uh from CG who told me that uh Ethan Van Sciver, Creative Sciver from, has been uh basically uh lying to you about like what's going on. So, I just want to e"
+          "excerpt": "Yeah. Uh, my daughter's just doing her thing. Uh Basically, the house is like 2/3 packed up. And uh we're just getting out and going to the park one last time. But I got messaged uh just now on my Facebook uh and a little bit earlier as well by a couple of uh viewers and stuff from uh from CG who told me that uh Ethan Van Sciver, Creative Sciver from, has be"
         }
-      ],
-      "appearance_status": "uncertain"
+      ]
     },
     {
       "entity": "Cyberfrog",
@@ -76,195 +72,86 @@
       "block_count": 1,
       "first_timestamp": "00:00",
       "last_timestamp": "07:20",
-      "discussion_span_seconds": 440.4,
       "importance_guess": "passing",
       "sentiment": {
-        "label": "positive",
-        "score": 0.769,
-        "positive_hits": 23,
+        "label": "mixed",
+        "score": -0.2,
+        "positive_hits": 2,
         "negative_hits": 3
       },
       "receipts": [
         {
           "timestamp": "00:00",
-          "excerpt": "I didn't even know that he was showing Xenotrip off. I had no idea. Uh, I was told that, uh, he is threatening to sue me, though I was not provided videos for that. I was told that he is threatening to sue me for use of Cyberfrog, uh artwork uh as background art and posters in uh Xenotype One. I have written and recorded permissions to use that art from him previously. And I will not be reprinting that version of the book anyway. So, it's all ri"
+          "excerpt": "enotrip off. I had no idea. Uh, I was told that, uh, he is threatening to sue me, though I was not provided videos for that. I was told that he is threatening to sue me for use of Cyberfrog, uh artwork uh as background art and posters in uh Xenotype One. I have written and recorded permissions to use that art from him previously. And I will not be reprinting that ver"
         }
-      ],
-      "appearance_status": "uncertain"
+      ]
     }
   ],
   "chapters": [
     {
       "start": "00:00",
       "end": "07:20",
-      "title": "Ethan Van Sciver / Liam Gray / Cyberfrog",
+      "title": "Ethan Van Sciver / Cyberfrog",
       "entities": [
         "Ethan Van Sciver",
-        "Liam Gray",
         "Cyberfrog"
       ],
-      "summary_seed": "Yeah. Uh, my daughter's just doing her thing. Uh Basically, the house is like 2/3 packed up. And uh we're just getting out and going to the park one last time. But I got messaged uh just now on my Facebook uh and a little bit earlier as well by a couple of uh viewers and stuff from uh from CG who told me that uh Ethan Van Sciver, Creative Sciver from, has been uh basically uh lying to you about like what's going on.",
-      "clip_likelihood": false,
-      "transition_markers": 2
+      "possible_clip": false,
+      "summary_seed": "Yeah. Uh, my daughter's just doing her thing. Uh Basically, the house is like 2/3 packed up. And uh we're just getting out and going to the park one last time. But I got messaged uh just now on my Facebook uh and a little bit earlier as well by a couple of uh viewers and stuff from uh from CG who told me that uh Ethan Van Sciver, Creative Sciver fr"
     }
   ],
   "claim_candidates": [
     {
       "claimant": "unknown speaker",
-      "claim": "it's the name of the stream.",
-      "timestamp": "00:00",
-      "status": "opinion_or_inference",
-      "receipt": "I think it's the name of the stream."
-    },
-    {
-      "claimant": "he",
-      "claim": "there are no threats, anything like that.",
-      "timestamp": "00:00",
-      "status": "candidate_claim",
-      "receipt": "Um, he says there are no threats, anything like that."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "that, uh, he is threatening to sue me, though I was not provided videos for that.",
+      "subjects": [
+        "Cyberfrog"
+      ],
+      "claim": "I was told that he is threatening to sue me for use of Cyberfrog, uh artwork uh as background art and posters in uh Xenotype One.",
       "timestamp": "00:00",
       "status": "hearsay_candidate",
-      "receipt": "Uh, I was told that, uh, he is threatening to sue me, though I was not provided videos for that."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "that he is threatening to sue me for use of Cyberfrog, uh artwork uh as background art and posters in uh Xenotype One.",
-      "timestamp": "00:00",
-      "status": "hearsay_candidate",
+      "confidence": 0.42,
       "receipt": "I was told that he is threatening to sue me for use of Cyberfrog, uh artwork uh as background art and posters in uh Xenotype One."
-    },
-    {
-      "claimant": "They previously made",
-      "claim": "that my father-in-law is paying for everything.",
-      "timestamp": "00:00",
-      "status": "candidate_claim",
-      "receipt": "They previously made claims that my father-in-law is paying for everything."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "we've got a situation.",
-      "timestamp": "00:00",
-      "status": "opinion_or_inference",
-      "receipt": "Yeah, I think we've got a situation."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "there's another dog over there.",
-      "timestamp": "00:00",
-      "status": "opinion_or_inference",
-      "receipt": "I think there's another dog over there."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "where they live.",
-      "timestamp": "00:00",
-      "status": "candidate_claim",
-      "receipt": "Oh, yeah, I know where they live."
     }
   ],
   "quote_candidates": [
     {
       "timestamp": "00:00",
-      "text": "Um, he says there are no threats, anything like that.",
+      "text": "I was told that he is threatening to sue me for use of Cyberfrog, uh artwork uh as background art and posters in uh Xenotype One.",
+      "subjects": [
+        "Cyberfrog"
+      ],
       "significance_score": 2
     },
     {
       "timestamp": "00:00",
       "text": "Uh, I was told that, uh, he is threatening to sue me, though I was not provided videos for that.",
-      "significance_score": 2
-    },
-    {
-      "timestamp": "00:00",
-      "text": "I was told that he is threatening to sue me for use of Cyberfrog, uh artwork uh as background art and posters in uh Xenotype One.",
-      "significance_score": 2
+      "subjects": [],
+      "significance_score": 1
     },
     {
       "timestamp": "00:00",
       "text": "If he wants to try and sue me, his uh his guys know how to reach me.",
-      "significance_score": 2
-    },
-    {
-      "timestamp": "00:00",
-      "text": "It's like Liam never play uh shows receipts.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "00:00",
-      "text": "I had a DM this morning going like, \"Why is Cliff doing this and da da da?\" And they were like, I had a bunch of like interview-style questions, which is always fun.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "00:00",
-      "text": "They're notoriously They never walk out without their walker.",
+      "subjects": [],
       "significance_score": 1
     }
   ],
   "relationship_signals": [
     {
       "left": "Ethan Van Sciver",
-      "right": "Liam Gray",
-      "signal_type": "legal_conflict",
-      "timestamp": "00:00",
-      "confidence": 0.45,
-      "receipt": "nd uh we're just getting out and going to the park one last time. But I got messaged uh just now on my Facebook uh and a little bit earlier as well by a couple of uh viewers and stuff from uh from CG who told me that uh Ethan Van Sciver, Creative Sciver from, has been uh basically uh lying to you about like what's going on. So, I just want to encourage anyone that's got like any sort of uh imbias, any sort of uh wants to actually have a decent understa",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Ethan Van Sciver",
       "right": "Cyberfrog",
       "signal_type": "legal_conflict",
       "timestamp": "00:00",
-      "confidence": 0.45,
-      "receipt": "nd uh we're just getting out and going to the park one last time. But I got messaged uh just now on my Facebook uh and a little bit earlier as well by a couple of uh viewers and stuff from uh from CG who told me that uh Ethan Van Sciver, Creative Sciver from, has been uh basically uh lying to you about like what's going on. So, I just want to encourage anyone that's got like any sort of uh imbias, any sort of uh wants to actually have a decent understa",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
-      "right": "Cyberfrog",
-      "signal_type": "legal_conflict",
-      "timestamp": "00:00",
-      "confidence": 0.45,
-      "receipt": "Yeah. Uh, my daughter's just doing her thing. Uh Basically, the house is like 2/3 packed up. And uh we're just getting out and going to the park one last time. But I got messaged uh just now on my Facebook uh and a little bit earlier as well by a couple of uh viewers and stuff from uh from CG who told me that uh Ethan Van Sciver, Creative Sciver from, has been uh basically uh lying to you about like what's going on. So, I just want to e",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Ethan Van Sciver",
-      "right": "Liam Gray",
-      "signal_type": "friendship_claim",
-      "timestamp": "00:00",
-      "confidence": 0.45,
-      "receipt": "nd uh we're just getting out and going to the park one last time. But I got messaged uh just now on my Facebook uh and a little bit earlier as well by a couple of uh viewers and stuff from uh from CG who told me that uh Ethan Van Sciver, Creative Sciver from, has been uh basically uh lying to you about like what's going on. So, I just want to encourage anyone that's got like any sort of uh imbias, any sort of uh wants to actually have a decent understa",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Ethan Van Sciver",
-      "right": "Cyberfrog",
-      "signal_type": "friendship_claim",
-      "timestamp": "00:00",
-      "confidence": 0.45,
-      "receipt": "nd uh we're just getting out and going to the park one last time. But I got messaged uh just now on my Facebook uh and a little bit earlier as well by a couple of uh viewers and stuff from uh from CG who told me that uh Ethan Van Sciver, Creative Sciver from, has been uh basically uh lying to you about like what's going on. So, I just want to encourage anyone that's got like any sort of uh imbias, any sort of uh wants to actually have a decent understa",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
-      "right": "Cyberfrog",
-      "signal_type": "friendship_claim",
-      "timestamp": "00:00",
-      "confidence": 0.45,
-      "receipt": "Yeah. Uh, my daughter's just doing her thing. Uh Basically, the house is like 2/3 packed up. And uh we're just getting out and going to the park one last time. But I got messaged uh just now on my Facebook uh and a little bit earlier as well by a couple of uh viewers and stuff from uh from CG who told me that uh Ethan Van Sciver, Creative Sciver from, has been uh basically uh lying to you about like what's going on. So, I just want to e",
-      "warning": "co-mention plus language signal; requires interpretation"
+      "confidence": 0.48,
+      "receipt": "o the park one last time. But I got messaged uh just now on my Facebook uh and a little bit earlier as well by a couple of uh viewers and stuff from uh from CG who told me that uh Ethan Van Sciver, Creative Sciver from, has been uh basically uh lying to you about like what's going on. So, I just want to encourage anyone that's got like any sort of uh imbias, any sort of uh",
+      "warning": "candidate relationship evidence; requires review"
     }
   ],
   "story_matches": [],
+  "review_priority": 18,
   "uncertainty_flags": [
-    "speaker identity may be unknown",
+    "speaker attribution may be unknown",
     "clip voices may be mistaken for live participants",
-    "sentiment lexicon does not reliably detect sarcasm",
-    "relationship signals are candidates, not declarations",
-    "claims are not verified facts"
+    "sentiment lexicon cannot reliably detect sarcasm",
+    "claims and relationship signals remain candidates"
   ]
 }

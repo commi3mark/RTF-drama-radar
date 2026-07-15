@@ -2,35 +2,25 @@
 
 - **Video ID:** `yNnnMg6brR0`
 - **Source:** Eric July
-- **Published:** 2026-07-11T20:05:58+00:00
-- **Generated:** 2026-07-15T21:04:18.075513+00:00
+- **Review priority:** 0/100
 
-## Likely participants
+## Participant candidates
 
-- **Eric July** — host_or_channel_identity; confidence 72%; packet source/channel identity
+- **Eric July** — host_or_channel_identity (75%)
 
-## Subjects and sentiment receipts
+## Subjects
 
-## Topic map
 
-- **00:00–01:12** — General discussion
+## Strong claim candidates
 
-## Claim candidates
+_None passed the strong filter._
 
-_No claim-shaped sentences detected._
+## Quote candidates
+
+_None passed the strong filter._
+
+## Relationship candidates
+
+_None passed the filter._
 
 ## Story matches
-
-_No existing story match crossed the threshold._
-
-## Relationship signals
-
-_No relationship-language candidates detected._
-
-## Uncertainty flags
-
-- speaker identity may be unknown
-- clip voices may be mistaken for live participants
-- sentiment lexicon does not reliably detect sarcasm
-- relationship signals are candidates, not declarations
-- claims are not verified facts

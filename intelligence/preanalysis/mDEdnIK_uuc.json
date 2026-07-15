@@ -1,6 +1,6 @@
 {
-  "schema_version": "octopuss-preanalysis-v0.1",
-  "generated_at": "2026-07-15T21:04:20.634375+00:00",
+  "schema_version": "octopuss-preanalysis-v0.2",
+  "generated_at": "2026-07-15T21:17:14.347655+00:00",
   "video_id": "mDEdnIK_uuc",
   "title": "More - tunes with q",
   "source": "ComicsGate Commandos",
@@ -19,7 +19,7 @@
     {
       "entity": "ComicsGate Commandos",
       "role_guess": "host_or_channel_identity",
-      "confidence": 0.72,
+      "confidence": 0.75,
       "signals": [
         "packet source/channel identity"
       ]
@@ -32,56 +32,19 @@
       "end": "02:28",
       "title": "General discussion",
       "entities": [],
-      "summary_seed": "More than the greatest love the world has known, this is the love that I give to you alone. More than [music] the simple words I try to say, I only live to love you more each day. More [music] than you'll ever know, my arms long to hold you so. My life will be in your keeping, [music] waking, sleeping, laughing, weeping. Longer than always is a long, long time. [singing] But far beyond forever, you'll be mine. I know",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "possible_clip": false,
+      "summary_seed": "More than the greatest love the world has known, this is the love that I give to you alone. More than [music] the simple words I try to say, I only live to love you more each day. More [music] than you'll ever know, my arms long to hold you so. My life will be in your keeping, [music] waking, sleeping, laughing, weeping. Longer than always is a lon"
     }
   ],
-  "claim_candidates": [
-    {
-      "claimant": "unknown speaker",
-      "claim": "I never lived before, and my heart is very sure no one else could love [music] you more than the greatest love the world has known.",
-      "timestamp": "00:16",
-      "status": "candidate_claim",
-      "receipt": "I know I never lived before, and my heart is very sure no one else could love [music] you more than the greatest love the world has known."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "I never lived before, [music] and my heart is very sure no [music] one else could love you more.",
-      "timestamp": "00:16",
-      "status": "candidate_claim",
-      "receipt": "I know I never lived before, [music] and my heart is very sure no [music] one else could love you more."
-    }
-  ],
-  "quote_candidates": [
-    {
-      "timestamp": "00:16",
-      "text": "Longer than always is a long, long time.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "00:16",
-      "text": "I know I never lived before, and my heart is very sure no one else could love [music] you more than the greatest love the world has known.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "00:16",
-      "text": "[music] Longer than always is a long, long, long time, but far [music] beyond forever, you'll be mine.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "00:16",
-      "text": "I know I never lived before, [music] and my heart is very sure no [music] one else could love you more.",
-      "significance_score": 1
-    }
-  ],
+  "claim_candidates": [],
+  "quote_candidates": [],
   "relationship_signals": [],
   "story_matches": [],
+  "review_priority": 0,
   "uncertainty_flags": [
-    "speaker identity may be unknown",
+    "speaker attribution may be unknown",
     "clip voices may be mistaken for live participants",
-    "sentiment lexicon does not reliably detect sarcasm",
-    "relationship signals are candidates, not declarations",
-    "claims are not verified facts"
+    "sentiment lexicon cannot reliably detect sarcasm",
+    "claims and relationship signals remain candidates"
   ]
 }

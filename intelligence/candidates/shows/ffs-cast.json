@@ -1,0 +1,357 @@
+{
+  "show_id": "ffs-cast",
+  "name": "FFS Cast",
+  "episodes": [
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "title": "Gabbing With Ga......You know"
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "title": "The Ark Of Leem, LDA-King Stream"
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "title": "Gabbing With Ga......You Know"
+    }
+  ],
+  "participant_candidates": [
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "entity": "FFS Cast",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "entity": "FFS Cast",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "entity": "FFS Cast",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subject_history": [
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "entity": "Frog Tony",
+      "importance": "major",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.538,
+        "positive_hits": 3,
+        "negative_hits": 10
+      }
+    },
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "entity": "Liam Gray",
+      "importance": "major",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.4,
+        "positive_hits": 3,
+        "negative_hits": 7
+      }
+    },
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "entity": "Shane Davis",
+      "importance": "major",
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.158,
+        "positive_hits": 11,
+        "negative_hits": 8
+      }
+    },
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "entity": "Ethan Van Sciver",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.636,
+        "positive_hits": 18,
+        "negative_hits": 4
+      }
+    },
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "entity": "ComicsGate",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.743,
+        "positive_hits": 61,
+        "negative_hits": 9
+      }
+    },
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "entity": "Stray Beans",
+      "importance": "secondary",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.538,
+        "positive_hits": 3,
+        "negative_hits": 10
+      }
+    },
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "entity": "Eric July",
+      "importance": "secondary",
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.067,
+        "positive_hits": 8,
+        "negative_hits": 7
+      }
+    },
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "entity": "Jon Del Arroz",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.714,
+        "positive_hits": 6,
+        "negative_hits": 1
+      }
+    },
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "entity": "Cyberfrog",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75,
+        "positive_hits": 7,
+        "negative_hits": 1
+      }
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "entity": "Liam Gray",
+      "importance": "major",
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.333,
+        "positive_hits": 12,
+        "negative_hits": 6
+      }
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "entity": "Ethan Van Sciver",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.379,
+        "positive_hits": 20,
+        "negative_hits": 9
+      }
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "entity": "Frog Tony",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.529,
+        "positive_hits": 13,
+        "negative_hits": 4
+      }
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "entity": "Sturgis",
+      "importance": "major",
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.304,
+        "positive_hits": 15,
+        "negative_hits": 8
+      }
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "entity": "Stray Beans",
+      "importance": "major",
+      "sentiment": {
+        "label": "mixed",
+        "score": -0.071,
+        "positive_hits": 13,
+        "negative_hits": 15
+      }
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "entity": "Shane Davis",
+      "importance": "secondary",
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.067,
+        "positive_hits": 8,
+        "negative_hits": 7
+      }
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "entity": "Jon Del Arroz",
+      "importance": "secondary",
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.286,
+        "positive_hits": 9,
+        "negative_hits": 5
+      }
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "entity": "ComicsGate",
+      "importance": "secondary",
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.273,
+        "positive_hits": 7,
+        "negative_hits": 4
+      }
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "entity": "Nick Rekieta",
+      "importance": "passing",
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.273,
+        "positive_hits": 7,
+        "negative_hits": 4
+      }
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "entity": "Eric July",
+      "importance": "passing",
+      "sentiment": {
+        "label": "mixed",
+        "score": -0.091,
+        "positive_hits": 5,
+        "negative_hits": 6
+      }
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "entity": "Liam Gray",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.444,
+        "positive_hits": 13,
+        "negative_hits": 5
+      }
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "entity": "Frog Tony",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.515,
+        "positive_hits": 25,
+        "negative_hits": 8
+      }
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "entity": "Jon Del Arroz",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5,
+        "positive_hits": 36,
+        "negative_hits": 12
+      }
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "entity": "Shane Davis",
+      "importance": "major",
+      "sentiment": {
+        "label": "mixed",
+        "score": -0.097,
+        "positive_hits": 14,
+        "negative_hits": 17
+      }
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "entity": "Ethan Van Sciver",
+      "importance": "major",
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.029,
+        "positive_hits": 18,
+        "negative_hits": 17
+      }
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "entity": "Stray Beans",
+      "importance": "major",
+      "sentiment": {
+        "label": "mixed",
+        "score": -0.077,
+        "positive_hits": 12,
+        "negative_hits": 14
+      }
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "entity": "Eric July",
+      "importance": "major",
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.273,
+        "positive_hits": 28,
+        "negative_hits": 16
+      }
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "entity": "ComicsGate",
+      "importance": "major",
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.176,
+        "positive_hits": 20,
+        "negative_hits": 14
+      }
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "entity": "TheQuartering",
+      "importance": "secondary",
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.286,
+        "positive_hits": 9,
+        "negative_hits": 5
+      }
+    }
+  ]
+}

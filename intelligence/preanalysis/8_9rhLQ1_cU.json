@@ -1,6 +1,6 @@
 {
-  "schema_version": "octopuss-preanalysis-v0.1",
-  "generated_at": "2026-07-15T21:04:19.392420+00:00",
+  "schema_version": "octopuss-preanalysis-v0.2",
+  "generated_at": "2026-07-15T21:17:12.838823+00:00",
   "video_id": "8_9rhLQ1_cU",
   "title": "The Ark Of Leem, LDA-King Stream",
   "source": "FFS Cast",
@@ -19,248 +19,132 @@
     {
       "entity": "FFS Cast",
       "role_guess": "host_or_channel_identity",
-      "confidence": 0.72,
+      "confidence": 0.75,
       "signals": [
         "packet source/channel identity"
-      ]
-    },
-    {
-      "entity": "Liam Gray",
-      "role_guess": "likely_participant",
-      "confidence": 0.43,
-      "signals": [
-        "directly addressed 2 times",
-        "appears in 3 distant transcript blocks"
-      ]
-    },
-    {
-      "entity": "Sturgis",
-      "role_guess": "likely_participant",
-      "confidence": 0.43,
-      "signals": [
-        "directly addressed 2 times",
-        "appears in 3 distant transcript blocks"
       ]
     }
   ],
   "subjects": [
     {
       "entity": "Liam Gray",
-      "mentions": 217,
+      "mentions": 10,
       "block_count": 3,
       "first_timestamp": "00:03",
       "last_timestamp": "36:02",
-      "discussion_span_seconds": 2159.7,
       "importance_guess": "major",
       "sentiment": {
-        "label": "positive",
-        "score": 0.879,
-        "positive_hits": 171,
-        "negative_hits": 11
+        "label": "mixed",
+        "score": 0.333,
+        "positive_hits": 12,
+        "negative_hits": 6
       },
       "receipts": [
         {
           "timestamp": "00:03",
-          "excerpt": "es trying to figure out where this came from. And at this point, based off of all of our research, we have figured out that I believe in my heart of hearts, and we'll ask the rest of the panel what they think, too, that Liam Gray has become JDA and HAS DECIDED TO PIN a letter to us as a woman. So, we're going to be going through that tonight, at least part of it. Anyway, I'm not sure how we're going to do it. There's like 15 different chapters i"
+          "excerpt": "from. And at this point, based off of all of our research, we have figured out that I believe in my heart of hearts, and we'll ask the rest of the panel what they think, too, that Liam Gray has become JDA and HAS DECIDED TO PIN a letter to us as a woman. So, we're going to be going through that tonight, at least part of it. Anyway, I'm not sure how we're going to do"
         },
         {
           "timestamp": "12:00",
-          "excerpt": "which is very funny. Thank you, Johnny Rocket, for providing us a uh Substack to read through. And then I don't know if you guys saw it, but there's been some hub going on recently between me and a bit of a chi boom who decided to try to uh I guess, you know, [ __ ] talk me, right? tried to defame me with some NEFARIOUS LIES. WELL, THE other day this Chboom decided to go on to Frog Tony's channel and a friend of hers, a mutual friend of"
+          "excerpt": "which is very funny. Thank you, Johnny Rocket, for providing us a uh Substack to read through. And then I don't know if you guys saw it, but there's been some hub going on recently between me and a bit of a chi boom who decided to try to uh I guess, you know, [ __ ] talk me, right? tried to defame me with some NEFARIOUS LIES. WELL, THE other day this Chboom"
         },
         {
           "timestamp": "24:01",
-          "excerpt": "kay. >> I went digging and I I I had to talk to Claude and to Grock and to Gwen. >> Yeah. >> Every AI out there. And I said, >> find me a correlation between the name Jade Ruby. >> Yeah, that's it. Australia, anime, and Liam Gray. >> Mhm. >> And Son of a [ __ ] [laughter] >> Uhhuh. There was a bit of a uh a breakthrough, I believe, is what you say. >> A little bit of a crossover there. >> Yeah. >> Now, this is not conclusive, >> of course. >> Bu"
+          "excerpt": "talk to Claude and to Grock and to Gwen. >> Yeah. >> Every AI out there. And I said, >> find me a correlation between the name Jade Ruby. >> Yeah, that's it. Australia, anime, and Liam Gray. >> Mhm. >> And Son of a [ __ ] [laughter] >> Uhhuh. There was a bit of a uh a breakthrough, I believe, is what you say. >> A little bit of a crossover there. >> Yeah. >> Now, thi"
         }
-      ],
-      "appearance_status": "uncertain"
-    },
-    {
-      "entity": "Frog Tony",
-      "mentions": 101,
-      "block_count": 3,
-      "first_timestamp": "12:00",
-      "last_timestamp": "48:03",
-      "discussion_span_seconds": 2163.4,
-      "importance_guess": "major",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.895,
-        "positive_hits": 181,
-        "negative_hits": 10
-      },
-      "receipts": [
-        {
-          "timestamp": "12:00",
-          "excerpt": "ub going on recently between me and a bit of a chi boom who decided to try to uh I guess, you know, [ __ ] talk me, right? tried to defame me with some NEFARIOUS LIES. WELL, THE other day this Chboom decided to go on to Frog Tony's channel and a friend of hers, a mutual friend of hers went on there and said that he just didn't really believe what she was saying. Was very nice, very polite and you had Frog Tony proceed to crash out in a very beau"
-        },
-        {
-          "timestamp": "24:01",
-          "excerpt": "ich was very funny to read through. I was dying laughing watching him like just drag this guy for two days, uh that he owns a home and owns a car. And I responded and said, \"Imagine being mogged by Sturgis talking about Frog Tony and Liam and all these people. Bro, you're This guy is a lowal to all these people. This guy is getting bullied, openly bullied and [ __ ] with and he's still mogging Frog Tony by owning a car and his own home dressed l"
-        },
-        {
-          "timestamp": "36:01",
-          "excerpt": ">> Yeah. So, yeah. 16 watchers, 15 years old, 32 watching, 38 deviations, 3.6K profile view. So, yeah, it's just all of this [ __ ] man. you know, like when when you have like these coincidences. I don't I don't believe in coincidence uh in that way so much. But yeah, they Doc was looking into this and we were looking into the uh what was the uh the email something something 1983 and just trying to like cross reference all these things"
-        }
-      ],
-      "appearance_status": "uncertain"
+      ]
     },
     {
       "entity": "Ethan Van Sciver",
-      "mentions": 18,
+      "mentions": 10,
       "block_count": 5,
       "first_timestamp": "00:03",
       "last_timestamp": "01:48:02",
-      "discussion_span_seconds": 6478.9,
       "importance_guess": "major",
       "sentiment": {
         "label": "positive",
-        "score": 0.81,
-        "positive_hits": 228,
-        "negative_hits": 24
-      },
-      "receipts": [
-        {
-          "timestamp": "00:03",
-          "excerpt": "[music] I'm [ __ ] [music] One [ __ ] rule. Shut the [ __ ] up. [music] >> [music] [music] [music] >> and I miss you. And now I wonder if [music] I could fall into the sky. You [music] think time would pass me by. Cuz you [music] know I walk a thousand miles if I can just [music] say you when I see you I'mma put your [ __ ] back boy [music] get to spin through your set. We don't fight boy 12 paramedics couldn't save a [ __ ] life boy de"
-        },
-        {
-          "timestamp": "12:00",
-          "excerpt": "which is very funny. Thank you, Johnny Rocket, for providing us a uh Substack to read through. And then I don't know if you guys saw it, but there's been some hub going on recently between me and a bit of a chi boom who decided to try to uh I guess, you know, [ __ ] talk me, right? tried to defame me with some NEFARIOUS LIES. WELL, THE other day this Chboom decided to go on to Frog Tony's channel and a friend of hers, a mutual friend of"
-        },
-        {
-          "timestamp": "01:00:02",
-          "excerpt": "about Tony taking money from DTF and you know there's doing all this [ __ ] like Yeah, man. Take that money. I don't give a [ __ ] I get it. But he's agreed. So do whatever, man. Do whatever. >> Ah, yes. We have to go. Thank you guys so much. All right, let's go. I will show y'all what the next chapter is going to be right quick. And then when '9s gets his copy paste thing done, we'll go ahead and start reading. And then uh we I do want"
-        },
-        {
-          "timestamp": "01:24:00",
-          "excerpt": "more like layers that you peel back. Like there's mentions of like him being successful, being like a a [ __ ] slayer, like all of this stuff. >> So, >> and y'all ran this through AI, right? The AI check that this was not >> AI generated. That's the very first thing I did was copy paste the email into AI into different ones and said, \"Is this AI?\" And the only thing that it came back with was one of them pinged it and said, \"It looks li"
-        },
-        {
-          "timestamp": "01:36:00",
-          "excerpt": "bad boy and you guys don't understand my genius. And if you understood my genius, you wouldn't do this to me. You wouldn't uh you wouldn't eapat me. You wouldn't do because you just don't understand uh uh my mine comp. You know, you don't understand. >> Yeah. So does that make us >> struggle? >> So wait, does that make us like you know >> those guys? >> Brown. >> You mean the Jews? >> Yeah, the Jews. >> Yeah, I'll do that. >> I mean, no"
-        }
-      ],
-      "appearance_status": "uncertain"
-    },
-    {
-      "entity": "Dick Masterson",
-      "mentions": 13,
-      "block_count": 3,
-      "first_timestamp": "00:03",
-      "last_timestamp": "02:48:04",
-      "discussion_span_seconds": 10081.3,
-      "importance_guess": "major",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.75,
-        "positive_hits": 154,
-        "negative_hits": 22
-      },
-      "receipts": [
-        {
-          "timestamp": "00:03",
-          "excerpt": "[music] I'm [ __ ] [music] One [ __ ] rule. Shut the [ __ ] up. [music] >> [music] [music] [music] >> and I miss you. And now I wonder if [music] I could fall into the sky. You [music] think time would pass me by. Cuz you [music] know I walk a thousand miles if I can just [music] say you when I see you I'mma put your [ __ ] back boy [music] get to spin through your set. We don't fight boy 12 paramedics couldn't save a [ __ ] life boy de"
-        },
-        {
-          "timestamp": "12:00",
-          "excerpt": "g Tony now begging Veto to let him be >> the co-host >> of The Biggest Problem in the Universe. >> You got him begging for that. You got him on his membersonly stream saying, \"Veto, yes, veto, please, please, please let Dick Masterson have that 25% and make me your co-host.\" >> Oh my god. >> Like, he's going to make that the [ __ ] out of the show. >> Yeah, that No, no, do what you want, but I personally think that is a bad idea. Personally, I mean,"
-        },
-        {
-          "timestamp": "02:36:00",
-          "excerpt": "bit cuz you broke, [ __ ] You know I know you broke, [ __ ] cuz you got kicked out of the the dick show Discord for uh not having a dollar. Is it? >> I swear to God, he got booted from the Discord because he was like, \"Dick Masterson invited me to come on the show and told me I could stay here and they said, nah, you got to pay a dollar like everybody else.\" And he didn't have a dollar. He tried to borrow a dollar. So, >> really, God? >> Yeah. 100%."
-        }
-      ],
-      "appearance_status": "uncertain"
-    },
-    {
-      "entity": "DarkGift Comics",
-      "mentions": 10,
-      "block_count": 4,
-      "first_timestamp": "48:01",
-      "last_timestamp": "03:24:01",
-      "discussion_span_seconds": 9360.7,
-      "importance_guess": "major",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.743,
-        "positive_hits": 176,
-        "negative_hits": 26
-      },
-      "receipts": [
-        {
-          "timestamp": "48:01",
-          "excerpt": "Number three, two different worlds. Number four, the man of the house. Number five, feeding Liam. We uh read read that [snorts] portion. Number six, legend in the making. Number seven, punished for asking why. Number eight, The Distance Between Us. Number nine, Stabbed and Still Smiling. Number 10, The School Incident. Number 11, Drawing Escape. Number 12, Out of Here. Number 13, Money, Masks, and Mistakes. Number 14, America Flame Out."
-        },
-        {
-          "timestamp": "01:00:02",
-          "excerpt": "about Tony taking money from DTF and you know there's doing all this [ __ ] like Yeah, man. Take that money. I don't give a [ __ ] I get it. But he's agreed. So do whatever, man. Do whatever. >> Ah, yes. We have to go. Thank you guys so much. All right, let's go. I will show y'all what the next chapter is going to be right quick. And then when '9s gets his copy paste thing done, we'll go ahead and start reading. And then uh we I do want"
-        },
-        {
-          "timestamp": "03:00:01",
-          "excerpt": "I THINK I'M AN [ __ ] That's me, though. >> Trell said, \"You want to watch me wash the garbage smell from my body? >> You want to watch me wash the garbage smell from my body? I'm not sitting out of middle school eating an apple. LOOK HOW SHITTY THIS LUNCHROOM IS. [ __ ] [ __ ] You own the chuds and you get owned every [ __ ] time, man. Cut your [ __ ] fingernails while you're at it, dude. Those [ __ ] pictures with your disgusting [ __"
-        },
-        {
-          "timestamp": "03:12:02",
-          "excerpt": "woman like woman like she say she is, you know, she would not be putting up with this [ __ ] She would have told Tony, \"Shut the [ __ ] up. I say what I want to say. Don't you ever put me in back again.\" That's what I expect out of her. But she he just kicks it off and brings it back on and yells at I was like, I don't miss Daisy. >> I don't get it. >> Yeah. No, like she did that whole [ __ ] with me where like I was disrespecting her b"
-        }
-      ],
-      "appearance_status": "uncertain"
-    },
-    {
-      "entity": "Sturgis",
-      "mentions": 9,
-      "block_count": 3,
-      "first_timestamp": "12:00",
-      "last_timestamp": "02:48:04",
-      "discussion_span_seconds": 9364.6,
-      "importance_guess": "major",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.792,
-        "positive_hits": 172,
-        "negative_hits": 20
-      },
-      "receipts": [
-        {
-          "timestamp": "12:00",
-          "excerpt": "t make the loser see that.\" I did. I tried to fit as many of them as I could in there. Then a another five from Abacus Flinch says, \"Imagine all the back shots you would get with a raw gabbing with gays. Stal, bro, that Sturgis [ __ ] I need Sturgis to show me proof of ownership. For the love of God, Sturgis, bro. First of all, [ __ ] we don't go in on you that much because I find you boring. But it's very funny to watch you get dragged around"
-        },
-        {
-          "timestamp": "24:01",
-          "excerpt": "up for the [ __ ] Logan Paul did years ago like being a shitty tourist [laughter] and he just he went the other way and just made it [ __ ] worse >> way too hard. Yeah, he he Yeah, he he did it by accident. But no, like Sturgis did say first of all it pissed me off because as a grown man who loves investing and like buying property and doing like grown man [ __ ] Also, don't get me wrong, I like blowing money. I'd take a trip to Japan if I had"
-        },
-        {
-          "timestamp": "02:36:00",
-          "excerpt": "doesn't like water. So >> yeah, [snorts] he refuses. >> What he says, what he streams, what he makes. No one's [ __ ] checking his money. No one is [ __ ] clocking anything he does. >> YOU DO NOTHING BUT TALK ABOUT ME, STURGIS, and uh Eric July. That's your content, fat boy. You fat, lonely, sad [ __ ] That is all you do. That is all that is on your mind when you wake up. The only thing you're thinking about is me. You, Stray, Finnbar, and no"
-        }
-      ],
-      "appearance_status": "uncertain"
-    },
-    {
-      "entity": "Shane Davis",
-      "mentions": 5,
-      "block_count": 2,
-      "first_timestamp": "01:48:01",
-      "last_timestamp": "03:24:01",
-      "discussion_span_seconds": 5760.1,
-      "importance_guess": "secondary",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.811,
-        "positive_hits": 86,
+        "score": 0.379,
+        "positive_hits": 20,
         "negative_hits": 9
       },
       "receipts": [
         {
-          "timestamp": "01:48:01",
-          "excerpt": ", Andrew. I appreciate it. Speaking of clowns, this guy did send me a night letter the other night. And you know what? Welcome, >> Dad. You know what I do when I feel like a loser? I look at this. [snorts] >> Take that, Shane Davis. How do you >> How does that night make you feel? >> How do you How does that make you feel, Shane? Huh? I'm going to dog biscuits, boy. >> Yeah. How do you feel? I I I treated Liam like a dog. Treat like a dog. [laught"
+          "timestamp": "00:03",
+          "excerpt": "[music] I'm [ __ ] [music] One [ __ ] rule. Shut the [ __ ] up. [music] >> [music] [music] [music] >> and I miss you. And now I wonder if [music] I could fall into the sky. You [music] think time would pass me by. Cuz you [music] know I walk a thousand miles if I can just [music] say you when I see you I'mma put your [ __ ] back boy [music] get to spin throu"
         },
         {
-          "timestamp": "03:12:02",
-          "excerpt": "h other belly kisses? Cuz if not, it could always be worse. >> I don't think it has to be an offer, you know? Here we go. >> Dad, you know what I do when I feel like a loser? I look at this. [snorts] >> Yeah, take that, Shane Davis. I hope you're watching, [ __ ] He >> won't remember that we said this and he'll go on a stream in [ __ ] a week from now and repeat this [ __ ] >> Yeah, a drunk, man. Come on. You know that. >> But he wasn't that drunk"
+          "timestamp": "12:00",
+          "excerpt": "which is very funny. Thank you, Johnny Rocket, for providing us a uh Substack to read through. And then I don't know if you guys saw it, but there's been some hub going on recently between me and a bit of a chi boom who decided to try to uh I guess, you know, [ __ ] talk me, right? tried to defame me with some NEFARIOUS LIES. WELL, THE other day this Chboom"
+        },
+        {
+          "timestamp": "01:00:02",
+          "excerpt": "about Tony taking money from DTF and you know there's doing all this [ __ ] like Yeah, man. Take that money. I don't give a [ __ ] I get it. But he's agreed. So do whatever, man. Do whatever. >> Ah, yes. We have to go. Thank you guys so much. All right, let's go. I will show y'all what the next chapter is going to be right quick. And then when '9s gets his c"
+        },
+        {
+          "timestamp": "01:24:00",
+          "excerpt": "more like layers that you peel back. Like there's mentions of like him being successful, being like a a [ __ ] slayer, like all of this stuff. >> So, >> and y'all ran this through AI, right? The AI check that this was not >> AI generated. That's the very first thing I did was copy paste the email into AI into different ones and said, \"Is this AI?\" And the on"
+        },
+        {
+          "timestamp": "01:36:00",
+          "excerpt": "bad boy and you guys don't understand my genius. And if you understood my genius, you wouldn't do this to me. You wouldn't uh you wouldn't eapat me. You wouldn't do because you just don't understand uh uh my mine comp. You know, you don't understand. >> Yeah. So does that make us >> struggle? >> So wait, does that make us like you know >> those guys? >> Brow"
         }
-      ],
-      "appearance_status": "uncertain"
+      ]
+    },
+    {
+      "entity": "Frog Tony",
+      "mentions": 10,
+      "block_count": 3,
+      "first_timestamp": "12:00",
+      "last_timestamp": "48:03",
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.529,
+        "positive_hits": 13,
+        "negative_hits": 4
+      },
+      "receipts": [
+        {
+          "timestamp": "12:00",
+          "excerpt": "t of a chi boom who decided to try to uh I guess, you know, [ __ ] talk me, right? tried to defame me with some NEFARIOUS LIES. WELL, THE other day this Chboom decided to go on to Frog Tony's channel and a friend of hers, a mutual friend of hers went on there and said that he just didn't really believe what she was saying. Was very nice, very polite and you had Frog"
+        },
+        {
+          "timestamp": "24:01",
+          "excerpt": "s dying laughing watching him like just drag this guy for two days, uh that he owns a home and owns a car. And I responded and said, \"Imagine being mogged by Sturgis talking about Frog Tony and Liam and all these people. Bro, you're This guy is a lowal to all these people. This guy is getting bullied, openly bullied and [ __ ] with and he's still mogging Frog Tony by"
+        },
+        {
+          "timestamp": "36:01",
+          "excerpt": ">> Yeah. So, yeah. 16 watchers, 15 years old, 32 watching, 38 deviations, 3.6K profile view. So, yeah, it's just all of this [ __ ] man. you know, like when when you have like these coincidences. I don't I don't believe in coincidence uh in that way so much. But yeah, they Doc was looking into this and we were looking into the uh what was the uh the email so"
+        }
+      ]
+    },
+    {
+      "entity": "Sturgis",
+      "mentions": 8,
+      "block_count": 3,
+      "first_timestamp": "12:00",
+      "last_timestamp": "02:48:04",
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.304,
+        "positive_hits": 15,
+        "negative_hits": 8
+      },
+      "receipts": [
+        {
+          "timestamp": "12:00",
+          "excerpt": "ed to fit as many of them as I could in there. Then a another five from Abacus Flinch says, \"Imagine all the back shots you would get with a raw gabbing with gays. Stal, bro, that Sturgis [ __ ] I need Sturgis to show me proof of ownership. For the love of God, Sturgis, bro. First of all, [ __ ] we don't go in on you that much because I find you boring. But it's ve"
+        },
+        {
+          "timestamp": "24:01",
+          "excerpt": "go like being a shitty tourist [laughter] and he just he went the other way and just made it [ __ ] worse >> way too hard. Yeah, he he Yeah, he he did it by accident. But no, like Sturgis did say first of all it pissed me off because as a grown man who loves investing and like buying property and doing like grown man [ __ ] Also, don't get me wrong, I like blowing"
+        },
+        {
+          "timestamp": "02:36:00",
+          "excerpt": "] he refuses. >> What he says, what he streams, what he makes. No one's [ __ ] checking his money. No one is [ __ ] clocking anything he does. >> YOU DO NOTHING BUT TALK ABOUT ME, STURGIS, and uh Eric July. That's your content, fat boy. You fat, lonely, sad [ __ ] That is all you do. That is all that is on your mind when you wake up. The only thing you're thinking"
+        }
+      ]
     },
     {
       "entity": "Stray Beans",
@@ -268,29 +152,51 @@
       "block_count": 3,
       "first_timestamp": "02:12:01",
       "last_timestamp": "03:24:01",
-      "discussion_span_seconds": 4320.2,
       "importance_guess": "major",
       "sentiment": {
-        "label": "positive",
-        "score": 0.685,
-        "positive_hits": 123,
-        "negative_hits": 23
+        "label": "mixed",
+        "score": -0.071,
+        "positive_hits": 13,
+        "negative_hits": 15
       },
       "receipts": [
         {
           "timestamp": "02:12:01",
-          "excerpt": "est your rest your little Aussie female voice. >> I'm from Wellington. >> Uh the other day you were saying I was talking [ __ ] about you in uh the FFS chat. What was I saying? Be specific. Be specific. I [ __ ] hate >> Stray Beans doing that [ __ ] when he says be specific. Uh Stray, when people are specific with you, you shift the goalpost. You [ __ ] When I was specific with you about the questions to ask Liam and how to ask them, you turned it"
+          "excerpt": "voice. >> I'm from Wellington. >> Uh the other day you were saying I was talking [ __ ] about you in uh the FFS chat. What was I saying? Be specific. Be specific. I [ __ ] hate >> Stray Beans doing that [ __ ] when he says be specific. Uh Stray, when people are specific with you, you shift the goalpost. You [ __ ] When I was specific with you about the questions to ask"
         },
         {
           "timestamp": "02:48:01",
-          "excerpt": "Let me explain it really clearly for your drunk [ __ ] ass.\" You said, \"No, no, you said X anyway.\" >> To be fair, he sounds quite sober >> tonight. Beans with an honest [ __ ] take. Weird tonight. He doesn't >> Well, a stray beans with an honest take. No. Uh Tony, you're not listening to your friend right there. She said nothing. No, X, Y, and Z didn't happen. And then when Finn asked what happened, she was like, well, the other stuff. What other"
+          "excerpt": "r drunk [ __ ] ass.\" You said, \"No, no, you said X anyway.\" >> To be fair, he sounds quite sober >> tonight. Beans with an honest [ __ ] take. Weird tonight. He doesn't >> Well, a stray beans with an honest take. No. Uh Tony, you're not listening to your friend right there. She said nothing. No, X, Y, and Z didn't happen. And then when Finn asked what happened, she was"
         },
         {
           "timestamp": "03:12:02",
-          "excerpt": "er face. You're literally calling her a lie to her [ __ ] face as she sits there throwing her in the back, not letting her finish her statement because it blows your [ __ ] narrative out of the water. All of that [ __ ] Stray Beans today kept asking about the 19-year-old and [ __ ] as he sat here on this panel and heard what she had to say. Pieces of [ __ ] [ __ ] >> I'm be very clear, Saggy. What I'm saying right now is you have a very high toler"
+          "excerpt": "lie to her [ __ ] face as she sits there throwing her in the back, not letting her finish her statement because it blows your [ __ ] narrative out of the water. All of that [ __ ] Stray Beans today kept asking about the 19-year-old and [ __ ] as he sat here on this panel and heard what she had to say. Pieces of [ __ ] [ __ ] >> I'm be very clear, Saggy. What I'm saying"
         }
-      ],
-      "appearance_status": "uncertain"
+      ]
+    },
+    {
+      "entity": "Shane Davis",
+      "mentions": 5,
+      "block_count": 2,
+      "first_timestamp": "01:48:01",
+      "last_timestamp": "03:24:01",
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.067,
+        "positive_hits": 8,
+        "negative_hits": 7
+      },
+      "receipts": [
+        {
+          "timestamp": "01:48:01",
+          "excerpt": "lowns, this guy did send me a night letter the other night. And you know what? Welcome, >> Dad. You know what I do when I feel like a loser? I look at this. [snorts] >> Take that, Shane Davis. How do you >> How does that night make you feel? >> How do you How does that make you feel, Shane? Huh? I'm going to dog biscuits, boy. >> Yeah. How do you feel? I I I treated Li"
+        },
+        {
+          "timestamp": "03:12:02",
+          "excerpt": "ld always be worse. >> I don't think it has to be an offer, you know? Here we go. >> Dad, you know what I do when I feel like a loser? I look at this. [snorts] >> Yeah, take that, Shane Davis. I hope you're watching, [ __ ] He >> won't remember that we said this and he'll go on a stream in [ __ ] a week from now and repeat this [ __ ] >> Yeah, a drunk, man. Come on. Yo"
+        }
+      ]
     },
     {
       "entity": "Jon Del Arroz",
@@ -298,25 +204,23 @@
       "block_count": 2,
       "first_timestamp": "00:03",
       "last_timestamp": "04:00:04",
-      "discussion_span_seconds": 14401.2,
       "importance_guess": "secondary",
       "sentiment": {
-        "label": "positive",
-        "score": 0.857,
-        "positive_hits": 91,
-        "negative_hits": 7
+        "label": "mixed",
+        "score": 0.286,
+        "positive_hits": 9,
+        "negative_hits": 5
       },
       "receipts": [
         {
           "timestamp": "00:03",
-          "excerpt": "[music] I'm [ __ ] [music] One [ __ ] rule. Shut the [ __ ] up. [music] >> [music] [music] [music] >> and I miss you. And now I wonder if [music] I could fall into the sky. You [music] think time would pass me by. Cuz you [music] know I walk a thousand miles if I can just [music] say you when I see you I'mma put your [ __ ] back boy [music] get to spin through your set. We don't fight boy 12 paramedics couldn't save a [ __ ] life boy de"
+          "excerpt": "[music] I'm [ __ ] [music] One [ __ ] rule. Shut the [ __ ] up. [music] >> [music] [music] [music] >> and I miss you. And now I wonder if [music] I could fall into the sky. You [music] think time would pass me by. Cuz you [music] know I walk a thousand miles if I can just [music] say you when I see you I'mma put your [ __ ] back boy [music] get to spin throu"
         },
         {
           "timestamp": "03:48:00",
-          "excerpt": "him. Also, [clears throat] his original name, uh, because he has stated that he has changed his name from, uh, his original one to Liam Gray. that his pin name would be his, you know, his his original name. So, >> good on you. >> That was asked. >> Good on you. >> Good on you. >> Yeah. I mean, dude, we I try not to bring anything to this show. Like, I think you should probably know when we're being [ __ ] and sarcastic um about things b"
+          "excerpt": "him. Also, [clears throat] his original name, uh, because he has stated that he has changed his name from, uh, his original one to Liam Gray. that his pin name would be his, you know, his his original name. So, >> good on you. >> That was asked. >> Good on you. >> Good on you. >> Yeah. I mean, dude, we I try not to bring anything to this show. Like, I think"
         }
-      ],
-      "appearance_status": "uncertain"
+      ]
     },
     {
       "entity": "ComicsGate",
@@ -324,69 +228,23 @@
       "block_count": 2,
       "first_timestamp": "01:00:02",
       "last_timestamp": "03:36:02",
-      "discussion_span_seconds": 9360.7,
       "importance_guess": "secondary",
       "sentiment": {
-        "label": "positive",
-        "score": 0.818,
-        "positive_hits": 70,
-        "negative_hits": 7
+        "label": "mixed",
+        "score": 0.273,
+        "positive_hits": 7,
+        "negative_hits": 4
       },
       "receipts": [
         {
           "timestamp": "01:00:02",
-          "excerpt": "about Tony taking money from DTF and you know there's doing all this [ __ ] like Yeah, man. Take that money. I don't give a [ __ ] I get it. But he's agreed. So do whatever, man. Do whatever. >> Ah, yes. We have to go. Thank you guys so much. All right, let's go. I will show y'all what the next chapter is going to be right quick. And then when '9s gets his copy paste thing done, we'll go ahead and start reading. And then uh we I do want"
+          "excerpt": "about Tony taking money from DTF and you know there's doing all this [ __ ] like Yeah, man. Take that money. I don't give a [ __ ] I get it. But he's agreed. So do whatever, man. Do whatever. >> Ah, yes. We have to go. Thank you guys so much. All right, let's go. I will show y'all what the next chapter is going to be right quick. And then when '9s gets his c"
         },
         {
           "timestamp": "03:24:00",
-          "excerpt": "little speech here. We have tried to reach out to the person and get them to uh give us some sort of verification that they are who they say they are. We have uh researched [clears throat] the email. We have uh researched everything that that she has brought to our door. And at this point, we are under the idea that Liam Gray put on a wig, put on a skirt, and decided to pin this himself. So, >> would you write my letter? I'd write my le"
+          "excerpt": "little speech here. We have tried to reach out to the person and get them to uh give us some sort of verification that they are who they say they are. We have uh researched [clears throat] the email. We have uh researched everything that that she has brought to our door. And at this point, we are under the idea that Liam Gray put on a wig, put on a skirt, an"
         }
-      ],
-      "appearance_status": "uncertain"
-    },
-    {
-      "entity": "Eric July",
-      "mentions": 1,
-      "block_count": 1,
-      "first_timestamp": "02:36:00",
-      "last_timestamp": "02:48:04",
-      "discussion_span_seconds": 724.3,
-      "importance_guess": "passing",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.509,
-        "positive_hits": 40,
-        "negative_hits": 13
-      },
-      "receipts": [
-        {
-          "timestamp": "02:36:00",
-          "excerpt": "ter. So >> yeah, [snorts] he refuses. >> What he says, what he streams, what he makes. No one's [ __ ] checking his money. No one is [ __ ] clocking anything he does. >> YOU DO NOTHING BUT TALK ABOUT ME, STURGIS, and uh Eric July. That's your content, fat boy. You fat, lonely, sad [ __ ] That is all you do. That is all that is on your mind when you wake up. The only thing you're thinking about is me. You, Stray, Finnbar, and now Rev Ruin. That's"
-        }
-      ],
-      "appearance_status": "uncertain"
-    },
-    {
-      "entity": "Fencegate",
-      "mentions": 1,
-      "block_count": 1,
-      "first_timestamp": "04:24:01",
-      "last_timestamp": "04:33:16",
-      "discussion_span_seconds": 555.2,
-      "importance_guess": "passing",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.862,
-        "positive_hits": 27,
-        "negative_hits": 2
-      },
-      "receipts": [
-        {
-          "timestamp": "04:24:01",
-          "excerpt": ">> THERE IT IS. >> WAIT, I got to read that one. Hold on. Hold on. I'm looking for the line. I lost it. >> Where's Oh, the right here. [laughter] >> Through the flower again. >> It's uh Yeah, it's Liam trying to approach without overwhelming. Liam trying in his strange way. >> Trying to approach without overwhelming. Liam trying in a strange way to be safe. At the end, he added the little flower to the work. the thing [laughter] from ch"
-        }
-      ],
-      "appearance_status": "uncertain"
+      ]
     },
     {
       "entity": "Nick Rekieta",
@@ -394,52 +252,62 @@
       "block_count": 1,
       "first_timestamp": "48:01",
       "last_timestamp": "01:00:05",
-      "discussion_span_seconds": 724.2,
       "importance_guess": "passing",
       "sentiment": {
-        "label": "positive",
-        "score": 0.814,
-        "positive_hits": 39,
+        "label": "mixed",
+        "score": 0.273,
+        "positive_hits": 7,
         "negative_hits": 4
       },
       "receipts": [
         {
           "timestamp": "48:01",
-          "excerpt": "Number three, two different worlds. Number four, the man of the house. Number five, feeding Liam. We uh read read that [snorts] portion. Number six, legend in the making. Number seven, punished for asking why. Number eight, The Distance Between Us. Number nine, Stabbed and Still Smiling. Number 10, The School Incident. Number 11, Drawing Escape. Number 12, Out of Here. Number 13, Money, Masks, and Mistakes. Number 14, America Flame Out."
+          "excerpt": "Number three, two different worlds. Number four, the man of the house. Number five, feeding Liam. We uh read read that [snorts] portion. Number six, legend in the making. Number seven, punished for asking why. Number eight, The Distance Between Us. Number nine, Stabbed and Still Smiling. Number 10, The School Incident. Number 11, Drawing Escape. Number 12, O"
         }
-      ],
-      "appearance_status": "uncertain"
+      ]
+    },
+    {
+      "entity": "Eric July",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "02:36:00",
+      "last_timestamp": "02:48:04",
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "mixed",
+        "score": -0.091,
+        "positive_hits": 5,
+        "negative_hits": 6
+      },
+      "receipts": [
+        {
+          "timestamp": "02:36:00",
+          "excerpt": "What he says, what he streams, what he makes. No one's [ __ ] checking his money. No one is [ __ ] clocking anything he does. >> YOU DO NOTHING BUT TALK ABOUT ME, STURGIS, and uh Eric July. That's your content, fat boy. You fat, lonely, sad [ __ ] That is all you do. That is all that is on your mind when you wake up. The only thing you're thinking about is me. You,"
+        }
+      ]
     }
   ],
   "chapters": [
     {
       "start": "00:03",
       "end": "12:01",
-      "title": "Dick Masterson / Liam Gray / Ethan Van Sciver",
+      "title": "Liam Gray",
       "entities": [
-        "Dick Masterson",
-        "Liam Gray",
-        "Ethan Van Sciver",
-        "Jon Del Arroz"
+        "Liam Gray"
       ],
-      "summary_seed": "[music] I'm [ __ ] [music] One [ __ ] rule. Shut the [ __ ] up. [music] >> [music] [music] [music] >> and I miss you. And now I wonder if [music] I could fall into the sky. You [music] think time would pass me by. Cuz you [music] know I walk a thousand miles if I can just [music] say you when I see you I'mma put your [ __ ] back boy [music] get to spin through your set. We don't fight boy 12 paramedics couldn't save",
-      "clip_likelihood": false,
-      "transition_markers": 1
+      "possible_clip": false,
+      "summary_seed": "[music] I'm [ __ ] [music] One [ __ ] rule. Shut the [ __ ] up. [music] >> [music] [music] [music] >> and I miss you. And now I wonder if [music] I could fall into the sky. You [music] think time would pass me by. Cuz you [music] know I walk a thousand miles if I can just [music] say you when I see you I'mma put your [ __ ] back boy [music] get to"
     },
     {
       "start": "12:00",
       "end": "24:04",
-      "title": "Frog Tony / Liam Gray / Dick Masterson",
+      "title": "Frog Tony / Sturgis",
       "entities": [
         "Frog Tony",
-        "Liam Gray",
-        "Dick Masterson",
-        "Sturgis",
-        "Ethan Van Sciver"
+        "Sturgis"
       ],
-      "summary_seed": "which is very funny. Thank you, Johnny Rocket, for providing us a uh Substack to read through. And then I don't know if you guys saw it, but there's been some hub going on recently between me and a bit of a chi boom who decided to try to uh I guess, you know, [ __ ] talk me, right? tried to defame me with some NEFARIOUS LIES. WELL, THE other day this Chboom decided to go on to Frog Tony's channel and a friend of hers",
-      "clip_likelihood": false,
-      "transition_markers": 2
+      "possible_clip": false,
+      "summary_seed": "which is very funny. Thank you, Johnny Rocket, for providing us a uh Substack to read through. And then I don't know if you guys saw it, but there's been some hub going on recently between me and a bit of a chi boom who decided to try to uh I guess, you know, [ __ ] talk me, right? tried to defame me with some NEFARIOUS LIES. WELL, THE other day th"
     },
     {
       "start": "24:01",
@@ -450,129 +318,120 @@
         "Frog Tony",
         "Sturgis"
       ],
-      "summary_seed": "Yeah, man. Just you get your swag up, man. >> Dude, get your swag. >> Don't tell me that [ __ ] wear like a kimono. >> No, I'm all right with LIKE LIKE YEAH, YOU GOT the little anime shirts on, but you you just need one piece. That's the That's the rule. Just one piece of anime attire. Not the whole thing. Not the book sack. Maybe two, you know, if you got a book sack, BUT NOT A HAT, THE PANTS, the shoes, just one on",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "possible_clip": false,
+      "summary_seed": "Yeah, man. Just you get your swag up, man. >> Dude, get your swag. >> Don't tell me that [ __ ] wear like a kimono. >> No, I'm all right with LIKE LIKE YEAH, YOU GOT the little anime shirts on, but you you just need one piece. That's the That's the rule. Just one piece of anime attire. Not the whole thing. Not the book sack. Maybe two, you know, if"
     },
     {
       "start": "36:01",
       "end": "48:03",
-      "title": "Frog Tony",
-      "entities": [
-        "Frog Tony"
-      ],
-      "summary_seed": ">> Yeah. So, yeah. 16 watchers, 15 years old, 32 watching, 38 deviations, 3.6K profile view. So, yeah, it's just all of this [ __ ] man. you know, like when when you have like these coincidences. I don't I don't believe in coincidence uh in that way so much. But yeah, they Doc was looking into this and we were looking into the uh what was the uh the email something something 1983 and just trying to like cross referen",
-      "clip_likelihood": false,
-      "transition_markers": 1
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": ">> Yeah. So, yeah. 16 watchers, 15 years old, 32 watching, 38 deviations, 3.6K profile view. So, yeah, it's just all of this [ __ ] man. you know, like when when you have like these coincidences. I don't I don't believe in coincidence uh in that way so much. But yeah, they Doc was looking into this and we were looking into the uh what was the uh th"
     },
     {
       "start": "48:01",
       "end": "01:00:05",
-      "title": "DarkGift Comics / Nick Rekieta",
+      "title": "Liam Gray / Frog Tony",
       "entities": [
-        "DarkGift Comics",
-        "Nick Rekieta"
+        "Liam Gray",
+        "Frog Tony"
       ],
-      "summary_seed": "Number three, two different worlds. Number four, the man of the house. Number five, feeding Liam. We uh read read that [snorts] portion. Number six, legend in the making. Number seven, punished for asking why. Number eight, The Distance Between Us. Number nine, Stabbed and Still Smiling. Number 10, The School Incident. Number 11, Drawing Escape. Number 12, Out of Here. Number 13, Money, Masks, and Mistakes. Number 14",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "possible_clip": false,
+      "summary_seed": "Number three, two different worlds. Number four, the man of the house. Number five, feeding Liam. We uh read read that [snorts] portion. Number six, legend in the making. Number seven, punished for asking why. Number eight, The Distance Between Us. Number nine, Stabbed and Still Smiling. Number 10, The School Incident. Number 11, Drawing Escape. Nu"
     },
     {
       "start": "01:00:02",
       "end": "01:12:02",
-      "title": "Ethan Van Sciver / DarkGift Comics / ComicsGate",
+      "title": "Frog Tony",
       "entities": [
-        "Ethan Van Sciver",
-        "DarkGift Comics",
-        "ComicsGate"
+        "Frog Tony"
       ],
-      "summary_seed": "about Tony taking money from DTF and you know there's doing all this [ __ ] like Yeah, man. Take that money. I don't give a [ __ ] I get it. But he's agreed. So do whatever, man. Do whatever. >> Ah, yes. We have to go. Thank you guys so much. All right, let's go. I will show y'all what the next chapter is going to be right quick. And then when '9s gets his copy paste thing done, we'll go ahead and start reading. And",
-      "clip_likelihood": false,
-      "transition_markers": 2
+      "possible_clip": false,
+      "summary_seed": "about Tony taking money from DTF and you know there's doing all this [ __ ] like Yeah, man. Take that money. I don't give a [ __ ] I get it. But he's agreed. So do whatever, man. Do whatever. >> Ah, yes. We have to go. Thank you guys so much. All right, let's go. I will show y'all what the next chapter is going to be right quick. And then when '9s"
     },
     {
       "start": "01:12:00",
       "end": "01:24:02",
       "title": "General discussion",
       "entities": [],
-      "summary_seed": "[ __ ] know-it-all. >> Someone who would adopt a pin name as a female and write a letter about himself. >> A visionary. [laughter] >> That's a vision, man. >> I want to write a letter to myself. >> Mhm. >> I don't know. I don't know what it was. >> All right. Yeah. You ended off properly, by the way. >> Also, if you can zoom in a little bit so people can see it. >> Thank you. >> I don't God damn it. That makes it mor",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "possible_clip": false,
+      "summary_seed": "[ __ ] know-it-all. >> Someone who would adopt a pin name as a female and write a letter about himself. >> A visionary. [laughter] >> That's a vision, man. >> I want to write a letter to myself. >> Mhm. >> I don't know. I don't know what it was. >> All right. Yeah. You ended off properly, by the way. >> Also, if you can zoom in a little bit so peop"
     },
     {
       "start": "01:24:00",
       "end": "01:36:02",
-      "title": "Ethan Van Sciver",
+      "title": "Liam Gray",
       "entities": [
-        "Ethan Van Sciver"
+        "Liam Gray"
       ],
-      "summary_seed": "more like layers that you peel back. Like there's mentions of like him being successful, being like a a [ __ ] slayer, like all of this stuff. >> So, >> and y'all ran this through AI, right? The AI check that this was not >> AI generated. That's the very first thing I did was copy paste the email into AI into different ones and said, \"Is this AI?\" And the only thing that it came back with was one of them pinged it an",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "possible_clip": false,
+      "summary_seed": "more like layers that you peel back. Like there's mentions of like him being successful, being like a a [ __ ] slayer, like all of this stuff. >> So, >> and y'all ran this through AI, right? The AI check that this was not >> AI generated. That's the very first thing I did was copy paste the email into AI into different ones and said, \"Is this AI?\""
     },
     {
       "start": "01:36:00",
       "end": "01:48:02",
-      "title": "Ethan Van Sciver",
+      "title": "Liam Gray / Frog Tony",
       "entities": [
-        "Ethan Van Sciver"
+        "Liam Gray",
+        "Frog Tony"
       ],
-      "summary_seed": "bad boy and you guys don't understand my genius. And if you understood my genius, you wouldn't do this to me. You wouldn't uh you wouldn't eapat me. You wouldn't do because you just don't understand uh uh my mine comp. You know, you don't understand. >> Yeah. So does that make us >> struggle? >> So wait, does that make us like you know >> those guys? >> Brown. >> You mean the Jews? >> Yeah, the Jews. >> Yeah, I'll do",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "possible_clip": false,
+      "summary_seed": "bad boy and you guys don't understand my genius. And if you understood my genius, you wouldn't do this to me. You wouldn't uh you wouldn't eapat me. You wouldn't do because you just don't understand uh uh my mine comp. You know, you don't understand. >> Yeah. So does that make us >> struggle? >> So wait, does that make us like you know >> those guy"
     },
     {
       "start": "01:48:01",
       "end": "02:00:05",
-      "title": "Shane Davis",
+      "title": "Liam Gray / Shane Davis",
       "entities": [
+        "Liam Gray",
         "Shane Davis"
       ],
-      "summary_seed": "lesson. >> Fat ass. >> There was the first lesson in how badly people misunderstood what Liam needed. He did not. He did need food, obviously. I mean, [ __ ] look at him. He needed shelter. He needed adults who did not hurt him, but he also needed someone to help him feel worth saving when he was not being useful, funny, brave, or dramatic. >> I did not know how to do that. >> Nobody did really. >> The pictures that",
-      "clip_likelihood": false,
-      "transition_markers": 1
+      "possible_clip": false,
+      "summary_seed": "lesson. >> Fat ass. >> There was the first lesson in how badly people misunderstood what Liam needed. He did not. He did need food, obviously. I mean, [ __ ] look at him. He needed shelter. He needed adults who did not hurt him, but he also needed someone to help him feel worth saving when he was not being useful, funny, brave, or dramatic. >> I di"
     },
     {
       "start": "02:00:03",
       "end": "02:12:04",
-      "title": "General discussion",
-      "entities": [],
-      "summary_seed": "I remember Liam seeing it. I remember the look on his face more than the words anyone said. After that, he stopped speaking to me. For years, I thought he was angry at me. Maybe he was. Liam could punish people from a distance when he did not know what else to do. But now I think he may have decided that being close to him hurt me or embarrassed me or put me in the line of fire. And because Liam's idea of love was al",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "title": "Frog Tony",
+      "entities": [
+        "Frog Tony"
+      ],
+      "possible_clip": false,
+      "summary_seed": "I remember Liam seeing it. I remember the look on his face more than the words anyone said. After that, he stopped speaking to me. For years, I thought he was angry at me. Maybe he was. Liam could punish people from a distance when he did not know what else to do. But now I think he may have decided that being close to him hurt me or embarrassed me"
     },
     {
       "start": "02:12:01",
       "end": "02:24:02",
-      "title": "Clip/reaction: Stray Beans",
+      "title": "Frog Tony / Stray Beans",
       "entities": [
+        "Frog Tony",
         "Stray Beans"
       ],
-      "summary_seed": "think honestly I think you might be a uh a contractor who also has military ranks and you may have been in the reserves at one time maybe. And it goes it's on some ridiculous [ __ ] twists and turns like they're talking about um how many years I've done, what rank I should be at, laughing about me being a corporal. >> I mean I mean I told my dad >> I told my dad that he was a a corporal at the age he is and my dad [",
-      "clip_likelihood": true,
-      "transition_markers": 1
+      "possible_clip": true,
+      "summary_seed": "think honestly I think you might be a uh a contractor who also has military ranks and you may have been in the reserves at one time maybe. And it goes it's on some ridiculous [ __ ] twists and turns like they're talking about um how many years I've done, what rank I should be at, laughing about me being a corporal. >> I mean I mean I told my dad >>"
     },
     {
       "start": "02:24:00",
       "end": "02:36:01",
-      "title": "General discussion",
-      "entities": [],
-      "summary_seed": "back to that gate. Okay. Damn it. Why are you interrupting you, Chibi Boom? I think we watch 30 you've been 30 seconds since you say hi to me hours you said who are you not black >> we you know so the way of differentiating the two of us >> he's not black >> you can't call him black fin when he's not black >> yeah he's quite obviously a praying mantis and you're a guy who [ __ ] people's mothers I think is the Finn B",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "title": "Frog Tony",
+      "entities": [
+        "Frog Tony"
+      ],
+      "possible_clip": false,
+      "summary_seed": "back to that gate. Okay. Damn it. Why are you interrupting you, Chibi Boom? I think we watch 30 you've been 30 seconds since you say hi to me hours you said who are you not black >> we you know so the way of differentiating the two of us >> he's not black >> you can't call him black fin when he's not black >> yeah he's quite obviously a praying man"
     },
     {
       "start": "02:36:00",
       "end": "02:48:04",
-      "title": "Dick Masterson / Sturgis / Eric July",
+      "title": "Frog Tony / Sturgis / Eric July",
       "entities": [
-        "Dick Masterson",
+        "Frog Tony",
         "Sturgis",
         "Eric July"
       ],
-      "summary_seed": "thing. They can't figure out how to pivot. They just don't want to They don't want to take the hit when you pivot. You know what I mean? >> Exactly. So, there you go. That's verification. >> I'll be right back. Y'all go ahead discuss that. >> Saggy's absolutely correct. Right. We They made zero. We said zero, so we've clocked it. >> Yeah. So, okay. So, you're right about that. But [ __ ] don't even pay attention to [",
-      "clip_likelihood": false,
-      "transition_markers": 1
+      "possible_clip": false,
+      "summary_seed": "thing. They can't figure out how to pivot. They just don't want to They don't want to take the hit when you pivot. You know what I mean? >> Exactly. So, there you go. That's verification. >> I'll be right back. Y'all go ahead discuss that. >> Saggy's absolutely correct. Right. We They made zero. We said zero, so we've clocked it. >> Yeah. So, okay."
     },
     {
       "start": "02:48:01",
@@ -581,937 +440,374 @@
       "entities": [
         "Stray Beans"
       ],
-      "summary_seed": "that is your friend. You shouldn't have to be like, \"Can I please say something on this stream?\" Uh unless you, you know, and keep you so you not kick me. What the [ __ ] man? >> I mean, you shouldn't have to do that on a [ __ ] open panel at all. >> Period. Period. >> Yeah. >> Uh damn. >> Go ahead. >> It's literally titled open panel mad house, and you're throwing a [ __ ] fit because it became a mad house. became a",
-      "clip_likelihood": false,
-      "transition_markers": 1
+      "possible_clip": false,
+      "summary_seed": "that is your friend. You shouldn't have to be like, \"Can I please say something on this stream?\" Uh unless you, you know, and keep you so you not kick me. What the [ __ ] man? >> I mean, you shouldn't have to do that on a [ __ ] open panel at all. >> Period. Period. >> Yeah. >> Uh damn. >> Go ahead. >> It's literally titled open panel mad house, an"
     },
     {
       "start": "03:00:01",
       "end": "03:12:03",
-      "title": "DarkGift Comics",
+      "title": "Frog Tony",
       "entities": [
-        "DarkGift Comics"
+        "Frog Tony"
       ],
-      "summary_seed": "I THINK I'M AN [ __ ] That's me, though. >> Trell said, \"You want to watch me wash the garbage smell from my body? >> You want to watch me wash the garbage smell from my body? I'm not sitting out of middle school eating an apple. LOOK HOW SHITTY THIS LUNCHROOM IS. [ __ ] [ __ ] You own the chuds and you get owned every [ __ ] time, man. Cut your [ __ ] fingernails while you're at it, dude. Those [ __ ] pictures with",
-      "clip_likelihood": false,
-      "transition_markers": 1
+      "possible_clip": false,
+      "summary_seed": "I THINK I'M AN [ __ ] That's me, though. >> Trell said, \"You want to watch me wash the garbage smell from my body? >> You want to watch me wash the garbage smell from my body? I'm not sitting out of middle school eating an apple. LOOK HOW SHITTY THIS LUNCHROOM IS. [ __ ] [ __ ] You own the chuds and you get owned every [ __ ] time, man. Cut your ["
     },
     {
       "start": "03:12:02",
       "end": "03:24:01",
-      "title": "DarkGift Comics / Shane Davis / Stray Beans",
+      "title": "Liam Gray / Shane Davis / Stray Beans",
       "entities": [
-        "DarkGift Comics",
+        "Liam Gray",
         "Shane Davis",
         "Stray Beans"
       ],
-      "summary_seed": "woman like woman like she say she is, you know, she would not be putting up with this [ __ ] She would have told Tony, \"Shut the [ __ ] up. I say what I want to say. Don't you ever put me in back again.\" That's what I expect out of her. But she he just kicks it off and brings it back on and yells at I was like, I don't miss Daisy. >> I don't get it. >> Yeah. No, like she did that whole [ __ ] with me where like I was",
-      "clip_likelihood": false,
-      "transition_markers": 1
+      "possible_clip": false,
+      "summary_seed": "woman like woman like she say she is, you know, she would not be putting up with this [ __ ] She would have told Tony, \"Shut the [ __ ] up. I say what I want to say. Don't you ever put me in back again.\" That's what I expect out of her. But she he just kicks it off and brings it back on and yells at I was like, I don't miss Daisy. >> I don't get it"
     },
     {
       "start": "03:24:00",
       "end": "03:36:02",
-      "title": "ComicsGate",
+      "title": "Liam Gray / Frog Tony",
       "entities": [
-        "ComicsGate"
+        "Liam Gray",
+        "Frog Tony"
       ],
-      "summary_seed": "little speech here. We have tried to reach out to the person and get them to uh give us some sort of verification that they are who they say they are. We have uh researched [clears throat] the email. We have uh researched everything that that she has brought to our door. And at this point, we are under the idea that Liam Gray put on a wig, put on a skirt, and decided to pin this himself. So, >> would you write my let",
-      "clip_likelihood": false,
-      "transition_markers": 1
+      "possible_clip": false,
+      "summary_seed": "little speech here. We have tried to reach out to the person and get them to uh give us some sort of verification that they are who they say they are. We have uh researched [clears throat] the email. We have uh researched everything that that she has brought to our door. And at this point, we are under the idea that Liam Gray put on a wig, put on a"
     },
     {
       "start": "03:36:00",
       "end": "03:48:02",
-      "title": "General discussion",
-      "entities": [],
-      "summary_seed": "imagine in my head cannon that like he thinks this is this was like you know some somebody like they like he was very talented to the point where he needed this extra you know like shove in the right direction but really he was just special needs and [ __ ] so they just gave him like >> they literally had somebody watching to make sure that he didn't stop breathing. [snorts] [laughter] It was like a kilo. >> Yeah, Mi",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "title": "Liam Gray",
+      "entities": [
+        "Liam Gray"
+      ],
+      "possible_clip": false,
+      "summary_seed": "imagine in my head cannon that like he thinks this is this was like you know some somebody like they like he was very talented to the point where he needed this extra you know like shove in the right direction but really he was just special needs and [ __ ] so they just gave him like >> they literally had somebody watching to make sure that he didn"
     },
     {
       "start": "03:48:00",
       "end": "04:00:04",
-      "title": "Jon Del Arroz",
+      "title": "Liam Gray / Frog Tony",
       "entities": [
-        "Jon Del Arroz"
+        "Liam Gray",
+        "Frog Tony"
       ],
-      "summary_seed": "him. Also, [clears throat] his original name, uh, because he has stated that he has changed his name from, uh, his original one to Liam Gray. that his pin name would be his, you know, his his original name. So, >> good on you. >> That was asked. >> Good on you. >> Good on you. >> Yeah. I mean, dude, we I try not to bring anything to this show. Like, I think you should probably know when we're being [ __ ] and sarcast",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "possible_clip": false,
+      "summary_seed": "him. Also, [clears throat] his original name, uh, because he has stated that he has changed his name from, uh, his original one to Liam Gray. that his pin name would be his, you know, his his original name. So, >> good on you. >> That was asked. >> Good on you. >> Good on you. >> Yeah. I mean, dude, we I try not to bring anything to this show. Like"
     },
     {
       "start": "04:00:01",
       "end": "04:12:02",
-      "title": "General discussion",
-      "entities": [],
-      "summary_seed": "been interacted with through it. So there you go. We're now at this point assuming that uh Liam did a John Dela Rose and pretended to be a woman and wrote his memoirs to 90s router and us. >> So >> it's beautiful. John Delos wrote you a letter. >> Uh John Delarose pretended to be a lady to write books. >> Oh, okay. >> Yeah. And we're saying that, you know, Liam Gray pretended to be a lady to write this this email to",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "title": "Liam Gray / Frog Tony",
+      "entities": [
+        "Liam Gray",
+        "Frog Tony"
+      ],
+      "possible_clip": false,
+      "summary_seed": "been interacted with through it. So there you go. We're now at this point assuming that uh Liam did a John Dela Rose and pretended to be a woman and wrote his memoirs to 90s router and us. >> So >> it's beautiful. John Delos wrote you a letter. >> Uh John Delarose pretended to be a lady to write books. >> Oh, okay. >> Yeah. And we're saying that, y"
     },
     {
       "start": "04:12:00",
       "end": "04:24:03",
       "title": "General discussion",
       "entities": [],
-      "summary_seed": "in the way people imagine from movies. It was quieter than that. More like he had never been convinced in his life was worth protecting unless it was being spent on somebody else. That scared me more than the blood. After that, I pulled back again. >> I'm not proud of. But I understand it. Liam's life was always too much. There was always a crisis, always a fight, always someone he was helping, someone he was hating,",
-      "clip_likelihood": false,
-      "transition_markers": 2
+      "possible_clip": false,
+      "summary_seed": "in the way people imagine from movies. It was quieter than that. More like he had never been convinced in his life was worth protecting unless it was being spent on somebody else. That scared me more than the blood. After that, I pulled back again. >> I'm not proud of. But I understand it. Liam's life was always too much. There was always a crisis,"
     },
     {
       "start": "04:24:01",
       "end": "04:33:16",
-      "title": "Fencegate",
-      "entities": [
-        "Fencegate"
-      ],
-      "summary_seed": ">> THERE IT IS. >> WAIT, I got to read that one. Hold on. Hold on. I'm looking for the line. I lost it. >> Where's Oh, the right here. [laughter] >> Through the flower again. >> It's uh Yeah, it's Liam trying to approach without overwhelming. Liam trying in his strange way. >> Trying to approach without overwhelming. Liam trying in a strange way to be safe. At the end, he added the little flower to the work. the thin",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": ">> THERE IT IS. >> WAIT, I got to read that one. Hold on. Hold on. I'm looking for the line. I lost it. >> Where's Oh, the right here. [laughter] >> Through the flower again. >> It's uh Yeah, it's Liam trying to approach without overwhelming. Liam trying in his strange way. >> Trying to approach without overwhelming. Liam trying in a strange way to"
     }
   ],
   "claim_candidates": [
     {
       "claimant": "unknown speaker",
-      "claim": "in my heart of hearts, and we'll ask the rest of the panel what they think, too, that Liam Gray has become JDA and HAS DECIDED TO PIN a letter to us as a woman.",
-      "timestamp": "00:03",
-      "status": "opinion_or_inference",
-      "receipt": "And at this point, based off of all of our research, we have figured out that I believe in my heart of hearts, and we'll ask the rest of the panel what they think, too, that Liam Gray has become JDA and HAS DECIDED TO PIN a letter to us as a woman."
+      "subjects": [
+        "Frog Tony",
+        "Sturgis"
+      ],
+      "claim": "And I responded and said, \"Imagine being mogged by Sturgis talking about Frog Tony and Liam and all these people.",
+      "timestamp": "24:01",
+      "status": "candidate_claim",
+      "confidence": 0.55,
+      "receipt": "And I responded and said, \"Imagine being mogged by Sturgis talking about Frog Tony and Liam and all these people."
     },
     {
       "claimant": "unknown speaker",
-      "claim": "by a very special friend of mine that uh knows about these sort of things when it comes to narcissism and malignant narcissists and psychology and psychiatry and all this nonsense that being able to peer into somebody's mind like this is something that these sort of doctors only dream of having.",
-      "timestamp": "00:03",
-      "status": "hearsay_candidate",
-      "receipt": "And I was told by a very special friend of mine that uh knows about these sort of things when it comes to narcissism and malignant narcissists and psychology and psychiatry and all this nonsense that being able to peer into somebody's mind like this is something that these sort of doctors only dream of having."
-    },
-    {
-      "claimant": "a mutual friend of hers went on there and",
-      "claim": "that he just didn't really believe what she was saying.",
+      "subjects": [
+        "Frog Tony"
+      ],
+      "claim": "WELL, THE other day this Chboom decided to go on to Frog Tony's channel and a friend of hers, a mutual friend of hers went on there and said that he just didn't really believe what she was saying.",
       "timestamp": "12:00",
       "status": "candidate_claim",
+      "confidence": 0.55,
       "receipt": "WELL, THE other day this Chboom decided to go on to Frog Tony's channel and a friend of hers, a mutual friend of hers went on there and said that he just didn't really believe what she was saying."
     },
     {
       "claimant": "unknown speaker",
-      "claim": "most of you might have saw it live and then the rest of you that didn't, boy is it funny.",
-      "timestamp": "12:00",
-      "status": "opinion_or_inference",
-      "receipt": "I think most of you might have saw it live and then the rest of you that didn't, boy is it funny."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "you've noticed it.",
-      "timestamp": "12:00",
+      "subjects": [
+        "Liam Gray"
+      ],
+      "claim": "Uh, $2 from Andrew Roland says, \"Why was this written like 50 Shades of Liam Gray?\" Oh my god, that's a good one, too.",
+      "timestamp": "01:36:00",
       "status": "candidate_claim",
-      "receipt": "I don't know if you Well, I know you've noticed it."
+      "confidence": 0.55,
+      "receipt": "Uh, $2 from Andrew Roland says, \"Why was this written like 50 Shades of Liam Gray?\" Oh my god, that's a good one, too."
     },
     {
       "claimant": "unknown speaker",
-      "claim": "there's some out there.",
-      "timestamp": "12:00",
+      "subjects": [
+        "Stray Beans"
+      ],
+      "claim": "Stray Beans doing that [ __ ] when he says be specific.",
+      "timestamp": "02:12:01",
       "status": "candidate_claim",
-      "receipt": "You know, I know there's some out there."
+      "confidence": 0.55,
+      "receipt": "Stray Beans doing that [ __ ] when he says be specific."
     },
     {
       "claimant": "unknown speaker",
-      "claim": "they saw Katie as like that's our that's our ticket to the Kings.",
-      "timestamp": "12:00",
+      "subjects": [
+        "Liam Gray"
+      ],
+      "claim": "And at this point, based off of all of our research, we have figured out that I believe in my heart of hearts, and we'll ask the rest of the panel what they think, too, that Liam Gray has become JDA and HAS DECIDED TO PIN a letter to us as a woman.",
+      "timestamp": "00:03",
       "status": "opinion_or_inference",
-      "receipt": "I think they saw Katie as like that's our that's our ticket to the Kings."
+      "confidence": 0.42,
+      "receipt": "And at this point, based off of all of our research, we have figured out that I believe in my heart of hearts, and we'll ask the rest of the panel what they think, too, that Liam Gray has become JDA and HAS DECIDED TO PIN a letter to us as a woman."
     },
     {
       "claimant": "unknown speaker",
-      "claim": "uh I think it was Johnny Rockets.",
-      "timestamp": "12:00",
+      "subjects": [
+        "Liam Gray"
+      ],
+      "claim": "So, I was told that uh when Liam Gray first started showing up in Comics Gate that he would do this thing like he would come on and give his elevator pitch about himself and be like, \"I'm Liam Gray.",
+      "timestamp": "03:24:00",
+      "status": "hearsay_candidate",
+      "confidence": 0.42,
+      "receipt": "So, I was told that uh when Liam Gray first started showing up in Comics Gate that he would do this thing like he would come on and give his elevator pitch about himself and be like, \"I'm Liam Gray."
+    },
+    {
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Frog Tony"
+      ],
+      "claim": "I said in my opinion, I think Frog Tony wanted to give you belly kisses and you were you were too oblivious to it.",
+      "timestamp": "02:24:00",
       "status": "opinion_or_inference",
-      "receipt": "and I think uh I think it was Johnny Rockets."
-    },
-    {
-      "claimant": "I noticed the very last Starf Fighter had",
-      "claim": "uh guys don't fight over your Wayne's World public access shows.",
-      "timestamp": "12:00",
-      "status": "candidate_claim",
-      "receipt": "Before we before we move ahead, I just want to say uh because I noticed the very last Starf Fighter had said uh guys don't fight over your Wayne's World public access shows."
+      "confidence": 0.42,
+      "receipt": "I said in my opinion, I think Frog Tony wanted to give you belly kisses and you were you were too oblivious to it."
     },
     {
       "claimant": "unknown speaker",
-      "claim": "that's all I was going to say was like sometimes these people can't take a step back and let other people be the talent for that second.",
-      "timestamp": "12:00",
-      "status": "opinion_or_inference",
-      "receipt": "Well, I mean that I think that's all I was going to say was like sometimes these people can't take a step back and let other people be the talent for that second."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "I had mentioned it to you last night about my theory about uh about this story.",
-      "timestamp": "12:00",
-      "status": "opinion_or_inference",
-      "receipt": "Uh I do want to say earlier you mentioned your theory about this and I I think I had mentioned it to you last night about my theory about uh about this story."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "I do think that it is Liam 100%.",
-      "timestamp": "12:00",
-      "status": "opinion_or_inference",
-      "receipt": "And I think I do think that it is Liam 100%."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "though I don't think he's I don't think he's smart enough and I don't think that he's like I don't think I don't think he's he's gay opy enough to try and like do this whole I think he genuinely thought that somebody would believe this and just read it and you know like it would validate all the [ __ ] that he said.",
-      "timestamp": "12:00",
-      "status": "opinion_or_inference",
-      "receipt": "I think though I don't think he's I don't think he's smart enough and I don't think that he's like I don't think I don't think he's he's gay opy enough to try and like do this whole I think he genuinely thought that somebody would believe this and just read it and you know like it would validate all the [ __ ] that he said."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "I think all right the way these guys have been operating uh I think it's a gay up and you could say like the I have people in the walls or whatever I'm conspiracyrained right now or internet brain whatever it is but the way these guys have like tried to ramp everything up to 11 I don't think any of these people do anything wholly without discussing it with one another now and without trying to get one over on somebody.",
-      "timestamp": "12:00",
-      "status": "opinion_or_inference",
-      "receipt": "I think I think all right the way these guys have been operating uh I think it's a gay up and you could say like the I have people in the walls or whatever I'm conspiracyrained right now or internet brain whatever it is but the way these guys have like tried to ramp everything up to 11 I don't think any of these people do anything wholly without discussing it with one another now and without trying to get one over on somebody."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "he was playing slots or something and you decided to take that $20,000 and go to Japan.",
-      "timestamp": "12:00",
-      "status": "opinion_or_inference",
-      "receipt": "But it's very funny to watch you get dragged around the internets because you you made $20,000 off of a c like off of a I think he was playing slots or something and you decided to take that $20,000 and go to Japan."
-    },
-    {
-      "claimant": "But he",
-      "claim": "in this in this like back and forth with Lombarsy and Sorrow, which was very funny to read through.",
-      "timestamp": "24:01",
-      "status": "candidate_claim",
-      "receipt": "But but I would have invested if it was just 20 grand, I'd invested in some [ __ ] But he said in this in this like back and forth with Lombarsy and Sorrow, which was very funny to read through."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "which one I won't play.",
-      "timestamp": "24:01",
-      "status": "candidate_claim",
-      "receipt": "Uh, I know which one I won't play."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "sent me the link to that one.",
+      "subjects": [
+        "Sturgis"
+      ],
+      "claim": "Now I Now I can't help but just every time I think about Sturgis.",
       "timestamp": "24:01",
       "status": "opinion_or_inference",
-      "receipt": "Uh in two paints, I think sent me the link to that one."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "I watched part of it last night or somebody was talking about it last night.",
-      "timestamp": "24:01",
-      "status": "opinion_or_inference",
-      "receipt": "these guys watching them, I think I watched part of it last night or somebody was talking about it last night."
-    },
-    {
-      "claimant": "And you",
-      "claim": "you maxed out your credit cards to do it, dog.",
-      "timestamp": "24:01",
-      "status": "candidate_claim",
-      "receipt": "And you said you maxed out your credit cards to do it, dog."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "about Sturgis.",
-      "timestamp": "24:01",
-      "status": "opinion_or_inference",
+      "confidence": 0.42,
       "receipt": "Now I Now I can't help but just every time I think about Sturgis."
-    },
-    {
-      "claimant": "that was like talking about the email and",
-      "claim": "they were excited about it and then they had never been around the chat before.",
-      "timestamp": "24:01",
-      "status": "candidate_claim",
-      "receipt": "There was like a Ruby Rose or somebody that chopped in popped in the chat the other day that was like talking about the email and said they were excited about it and then they had never been around the chat before."
-    },
-    {
-      "claimant": "but they",
-      "claim": "they can't wait for us to read these.",
-      "timestamp": "24:01",
-      "status": "candidate_claim",
-      "receipt": "They had never super chatted before, but they said they can't wait for us to read these."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "to reach out to because once I started discussing this and [laughter] researching this, I was told I was told [clears throat] that Liam has a history of doing this.",
-      "timestamp": "24:01",
-      "status": "hearsay_candidate",
-      "receipt": "That was a person I was told to reach out to because once I started discussing this and [laughter] researching this, I was told I was told [clears throat] that Liam has a history of doing this."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "that there is a history of him doing this.",
-      "timestamp": "24:01",
-      "status": "hearsay_candidate",
-      "receipt": "That's what I was told that there is a history of him doing this."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "I've lost more teeth.",
-      "timestamp": "24:01",
-      "status": "opinion_or_inference",
-      "receipt": "And And now I'm depressed, and I think I've lost more teeth."
-    },
-    {
-      "claimant": "Jew and Wong for five",
-      "claim": "the real reason why Sin is building a chibi instead of a normal Gumpla would still be too big for Sin TO CLIMB INTO.",
-      "timestamp": "24:01",
-      "status": "candidate_claim",
-      "receipt": "Jew and Wong for five says the real reason why Sin is building a chibi instead of a normal Gumpla would still be too big for Sin TO CLIMB INTO."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "is the we've decided that like hey put this in chat GPT and uh see what it comes up with right see if it if it [clears throat] compares to any animes also and let's see is that the one",
-      "timestamp": "36:01",
-      "status": "opinion_or_inference",
-      "receipt": "Liam's life and art I think is the we've decided that like hey put this in chat GPT and uh see what it comes up with right see if it if it [clears throat] compares to any animes also and let's see is that the one"
-    },
-    {
-      "claimant": "to find the list of uh animes that they",
-      "claim": "it would be compared to because it was one of them was very [ __ ] funny.",
-      "timestamp": "36:01",
-      "status": "candidate_claim",
-      "receipt": "I'm trying to find the list of uh animes that they said it would be compared to because it was one of them was very [ __ ] funny."
-    },
-    {
-      "claimant": "Could have swore it",
-      "claim": "if if one other thing in here about it, but I guess not.",
-      "timestamp": "36:01",
-      "status": "candidate_claim",
-      "receipt": "Could have swore it said if if one other thing in here about it, but I guess not."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "we've already hit $25.",
-      "timestamp": "36:01",
-      "status": "opinion_or_inference",
-      "receipt": "Anyway, so um either way, I think we've already hit $25."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "it was more than that.",
-      "timestamp": "36:01",
-      "status": "opinion_or_inference",
-      "receipt": "Like it and it was, but I think it was more than that."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "that would probably be where the the first chapter would be.",
-      "timestamp": "36:01",
-      "status": "opinion_or_inference",
-      "receipt": "So there's the uh I believe that would probably be where the the first chapter would be."
-    },
-    {
-      "claimant": "And then uh CGH for two",
-      "claim": "new image of Liam just dropped.",
-      "timestamp": "48:01",
-      "status": "candidate_claim",
-      "receipt": "And then uh CGH for two says new image of Liam just dropped."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "we're [music] alone now.",
-      "timestamp": "48:01",
-      "status": "opinion_or_inference",
-      "receipt": "I think we're [music] alone now."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "you get our show, which is very fun.\"",
-      "timestamp": "48:01",
-      "status": "opinion_or_inference",
-      "receipt": "WHAT KIND OF SHOW do you do?\" And I'm like, \"If you take the best way for me to describe is if you take Nick Ricada arguing with Montigraph and uh remove all the intelligence, [laughter] I think you get our show, which is very fun.\""
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "is what it is.",
-      "timestamp": "48:01",
-      "status": "opinion_or_inference",
-      "receipt": "That's not a [ __ ] lame stream and we're going to give this piece of [ __ ] $25 I think is what it is."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "is what it was.",
-      "timestamp": "48:01",
-      "status": "opinion_or_inference",
-      "receipt": "Wednesday night, I believe is what it was."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "movie per made that blah blah blah because you know Liam has deleted so many streams.",
-      "timestamp": "48:01",
-      "status": "opinion_or_inference",
-      "receipt": "Uh and then so here's another one because everybody was like, I think movie per made that blah blah blah because you know Liam has deleted so many streams."
-    },
-    {
-      "claimant": "after Liam has already",
-      "claim": "always DTF is the guy making these.",
-      "timestamp": "48:01",
-      "status": "candidate_claim",
-      "receipt": "after Liam has already said always DTF is the guy making these."
     }
   ],
   "quote_candidates": [
     {
+      "timestamp": "03:24:00",
+      "text": "We're going to read uh the rest of of what we owe people and then I am going to read through the Johnny Rockets um lawsuit of Liam Gray.",
+      "subjects": [
+        "Liam Gray"
+      ],
+      "significance_score": 2
+    },
+    {
       "timestamp": "00:03",
       "text": "We going to treat this [ __ ] like a match how we strike [music] one ass in the street.",
-      "significance_score": 2
+      "subjects": [],
+      "significance_score": 1
     },
     {
       "timestamp": "12:00",
       "text": "It's just the way I've seen it over the past I don't know man like couple months since Liam started the Strike Wars.",
-      "significance_score": 2
+      "subjects": [],
+      "significance_score": 1
     },
     {
       "timestamp": "36:01",
       "text": "and says, \"Overall, no, it doesn't strike me as identical to any anime.",
-      "significance_score": 2
-    },
-    {
-      "timestamp": "48:01",
-      "text": "I'm having an issue because I want to just read this.",
-      "significance_score": 2
+      "subjects": [],
+      "significance_score": 1
     },
     {
       "timestamp": "48:01",
       "text": "Uh Matt Bar says, \"This guy in Australia was going to sue me, but he's now fighting with a guy that peed on an autistic girl for money.",
-      "significance_score": 2
+      "subjects": [],
+      "significance_score": 1
     },
     {
       "timestamp": "01:00:02",
-      "text": "I said, you you remember when um the Quartering sued that guy for defamation and all this [ __ ] I said he got a half-hearted [ __ ] apology.",
-      "significance_score": 2
+      "text": "Yeah, I guess we'll jump into the Liam Gay lawsuit thing.",
+      "subjects": [],
+      "significance_score": 1
+    },
+    {
+      "timestamp": "01:00:02",
+      "text": "Lord, he was suing Matt Bar and then because we got into this, it expanded the uh $30,000 lawsuit that he was already doing to add uh me, Ruby, 90s, Dark Gift, and I'm assuming Doc Bllelock and Jay Bama.",
+      "subjects": [],
+      "significance_score": 1
     },
     {
       "timestamp": "01:00:02",
       "text": "SO NOW I GOT TO sue [ __ ] Matt [laughter] Bar.\" That's what I know.",
-      "significance_score": 2
+      "subjects": [],
+      "significance_score": 1
+    },
+    {
+      "timestamp": "01:00:02",
+      "text": "And then he then he did this exhausted thing where he goes, \"Oh, [ __ ] Now I've got to do even more because I've got to add like Feral Welsh girl says, \"Everyone who appears on this stream now has to be added to the lawsuit.\" And you're just making it harder.",
+      "subjects": [],
+      "significance_score": 1
     },
     {
       "timestamp": "01:00:02",
       "text": "Liam, if you sue me, if you want to sue me, uh unblock me, DM me, and I will I will send you all of my information so they can serve me, please, for the love of God.",
-      "significance_score": 2
-    },
-    {
-      "timestamp": "02:00:03",
-      "text": "You keep threatening to sue Matt Bar.",
-      "significance_score": 2
-    },
-    {
-      "timestamp": "03:12:02",
-      "text": "So, so Tonyy's trying to strike up like a false equivalency here.",
-      "significance_score": 2
-    },
-    {
-      "timestamp": "03:48:00",
-      "text": "You got to see Listen, if you go down the alley on fourth and between fourth and third, there's a there's a Sue over there, she'll she'll suck you off.",
-      "significance_score": 2
-    },
-    {
-      "timestamp": "00:03",
-      "text": "We don't fight boy 12 paramedics couldn't save a [ __ ] life boy dead and he never coming back boy.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "00:03",
-      "text": "A lot of crazy retardation happens whenever we like take days off and funny things.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "12:00",
-      "text": "Class of 21 says, \"Hey, I'm feeling fully attacked now, sin.\" Okay, never mind.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "12:00",
-      "text": "You do it on like well whenever the [ __ ]",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "12:00",
-      "text": "Tomorrow is going to be uh whenever we do centers, it's going to be an interesting show cuz I am going to EAP that CG after dark and see which way I land on that situation.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "24:01",
-      "text": "That broke [ __ ] better never make fun of Sturgis again.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "24:01",
-      "text": "This [ __ ] never even been to [ __ ] Mexico, I bet.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "24:01",
-      "text": "There was like a Ruby Rose or somebody that chopped in popped in the chat the other day that was like talking about the email and said they were excited about it and then they had never been around the chat before.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "24:01",
-      "text": "They had never super chatted before, but they said they can't wait for us to read these.",
+      "subjects": [],
       "significance_score": 1
     }
   ],
   "relationship_signals": [
     {
-      "left": "Liam Gray",
-      "right": "Ethan Van Sciver",
-      "signal_type": "legal_conflict",
-      "timestamp": "00:03",
-      "confidence": 0.45,
-      "receipt": "es trying to figure out where this came from. And at this point, based off of all of our research, we have figured out that I believe in my heart of hearts, and we'll ask the rest of the panel what they think, too, that Liam Gray has become JDA and HAS DECIDED TO PIN a letter to us as a woman. So, we're going to be going through that tonight, at least part of it. Anyway, I'm not sure how we're going to do it. There's like 15 different chapters i",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
-      "right": "Dick Masterson",
-      "signal_type": "legal_conflict",
-      "timestamp": "00:03",
-      "confidence": 0.45,
-      "receipt": "es trying to figure out where this came from. And at this point, based off of all of our research, we have figured out that I believe in my heart of hearts, and we'll ask the rest of the panel what they think, too, that Liam Gray has become JDA and HAS DECIDED TO PIN a letter to us as a woman. So, we're going to be going through that tonight, at least part of it. Anyway, I'm not sure how we're going to do it. There's like 15 different chapters i",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
-      "right": "Jon Del Arroz",
-      "signal_type": "legal_conflict",
-      "timestamp": "00:03",
-      "confidence": 0.45,
-      "receipt": "es trying to figure out where this came from. And at this point, based off of all of our research, we have figured out that I believe in my heart of hearts, and we'll ask the rest of the panel what they think, too, that Liam Gray has become JDA and HAS DECIDED TO PIN a letter to us as a woman. So, we're going to be going through that tonight, at least part of it. Anyway, I'm not sure how we're going to do it. There's like 15 different chapters i",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Ethan Van Sciver",
-      "right": "Dick Masterson",
-      "signal_type": "legal_conflict",
-      "timestamp": "00:03",
-      "confidence": 0.45,
-      "receipt": "[music] I'm [ __ ] [music] One [ __ ] rule. Shut the [ __ ] up. [music] >> [music] [music] [music] >> and I miss you. And now I wonder if [music] I could fall into the sky. You [music] think time would pass me by. Cuz you [music] know I walk a thousand miles if I can just [music] say you when I see you I'mma put your [ __ ] back boy [music] get to spin through your set. We don't fight boy 12 paramedics couldn't save a [ __ ] life boy de",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Ethan Van Sciver",
-      "right": "Jon Del Arroz",
-      "signal_type": "legal_conflict",
-      "timestamp": "00:03",
-      "confidence": 0.45,
-      "receipt": "[music] I'm [ __ ] [music] One [ __ ] rule. Shut the [ __ ] up. [music] >> [music] [music] [music] >> and I miss you. And now I wonder if [music] I could fall into the sky. You [music] think time would pass me by. Cuz you [music] know I walk a thousand miles if I can just [music] say you when I see you I'mma put your [ __ ] back boy [music] get to spin through your set. We don't fight boy 12 paramedics couldn't save a [ __ ] life boy de",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Dick Masterson",
-      "right": "Jon Del Arroz",
-      "signal_type": "legal_conflict",
-      "timestamp": "00:03",
-      "confidence": 0.45,
-      "receipt": "[music] I'm [ __ ] [music] One [ __ ] rule. Shut the [ __ ] up. [music] >> [music] [music] [music] >> and I miss you. And now I wonder if [music] I could fall into the sky. You [music] think time would pass me by. Cuz you [music] know I walk a thousand miles if I can just [music] say you when I see you I'mma put your [ __ ] back boy [music] get to spin through your set. We don't fight boy 12 paramedics couldn't save a [ __ ] life boy de",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
-      "right": "Ethan Van Sciver",
-      "signal_type": "friendship_claim",
-      "timestamp": "00:03",
-      "confidence": 0.45,
-      "receipt": "es trying to figure out where this came from. And at this point, based off of all of our research, we have figured out that I believe in my heart of hearts, and we'll ask the rest of the panel what they think, too, that Liam Gray has become JDA and HAS DECIDED TO PIN a letter to us as a woman. So, we're going to be going through that tonight, at least part of it. Anyway, I'm not sure how we're going to do it. There's like 15 different chapters i",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
-      "right": "Dick Masterson",
-      "signal_type": "friendship_claim",
-      "timestamp": "00:03",
-      "confidence": 0.45,
-      "receipt": "es trying to figure out where this came from. And at this point, based off of all of our research, we have figured out that I believe in my heart of hearts, and we'll ask the rest of the panel what they think, too, that Liam Gray has become JDA and HAS DECIDED TO PIN a letter to us as a woman. So, we're going to be going through that tonight, at least part of it. Anyway, I'm not sure how we're going to do it. There's like 15 different chapters i",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
-      "right": "Jon Del Arroz",
-      "signal_type": "friendship_claim",
-      "timestamp": "00:03",
-      "confidence": 0.45,
-      "receipt": "es trying to figure out where this came from. And at this point, based off of all of our research, we have figured out that I believe in my heart of hearts, and we'll ask the rest of the panel what they think, too, that Liam Gray has become JDA and HAS DECIDED TO PIN a letter to us as a woman. So, we're going to be going through that tonight, at least part of it. Anyway, I'm not sure how we're going to do it. There's like 15 different chapters i",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Ethan Van Sciver",
-      "right": "Dick Masterson",
-      "signal_type": "friendship_claim",
-      "timestamp": "00:03",
-      "confidence": 0.45,
-      "receipt": "[music] I'm [ __ ] [music] One [ __ ] rule. Shut the [ __ ] up. [music] >> [music] [music] [music] >> and I miss you. And now I wonder if [music] I could fall into the sky. You [music] think time would pass me by. Cuz you [music] know I walk a thousand miles if I can just [music] say you when I see you I'mma put your [ __ ] back boy [music] get to spin through your set. We don't fight boy 12 paramedics couldn't save a [ __ ] life boy de",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Ethan Van Sciver",
-      "right": "Jon Del Arroz",
-      "signal_type": "friendship_claim",
-      "timestamp": "00:03",
-      "confidence": 0.45,
-      "receipt": "[music] I'm [ __ ] [music] One [ __ ] rule. Shut the [ __ ] up. [music] >> [music] [music] [music] >> and I miss you. And now I wonder if [music] I could fall into the sky. You [music] think time would pass me by. Cuz you [music] know I walk a thousand miles if I can just [music] say you when I see you I'mma put your [ __ ] back boy [music] get to spin through your set. We don't fight boy 12 paramedics couldn't save a [ __ ] life boy de",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Dick Masterson",
-      "right": "Jon Del Arroz",
-      "signal_type": "friendship_claim",
-      "timestamp": "00:03",
-      "confidence": 0.45,
-      "receipt": "[music] I'm [ __ ] [music] One [ __ ] rule. Shut the [ __ ] up. [music] >> [music] [music] [music] >> and I miss you. And now I wonder if [music] I could fall into the sky. You [music] think time would pass me by. Cuz you [music] know I walk a thousand miles if I can just [music] say you when I see you I'mma put your [ __ ] back boy [music] get to spin through your set. We don't fight boy 12 paramedics couldn't save a [ __ ] life boy de",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
-      "right": "Frog Tony",
-      "signal_type": "criticised",
-      "timestamp": "12:00",
-      "confidence": 0.45,
-      "receipt": "which is very funny. Thank you, Johnny Rocket, for providing us a uh Substack to read through. And then I don't know if you guys saw it, but there's been some hub going on recently between me and a bit of a chi boom who decided to try to uh I guess, you know, [ __ ] talk me, right? tried to defame me with some NEFARIOUS LIES. WELL, THE other day this Chboom decided to go on to Frog Tony's channel and a friend of hers, a mutual friend of",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
-      "right": "Ethan Van Sciver",
-      "signal_type": "criticised",
-      "timestamp": "12:00",
-      "confidence": 0.45,
-      "receipt": "which is very funny. Thank you, Johnny Rocket, for providing us a uh Substack to read through. And then I don't know if you guys saw it, but there's been some hub going on recently between me and a bit of a chi boom who decided to try to uh I guess, you know, [ __ ] talk me, right? tried to defame me with some NEFARIOUS LIES. WELL, THE other day this Chboom decided to go on to Frog Tony's channel and a friend of hers, a mutual friend of",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
-      "right": "Dick Masterson",
-      "signal_type": "criticised",
-      "timestamp": "12:00",
-      "confidence": 0.45,
-      "receipt": "which is very funny. Thank you, Johnny Rocket, for providing us a uh Substack to read through. And then I don't know if you guys saw it, but there's been some hub going on recently between me and a bit of a chi boom who decided to try to uh I guess, you know, [ __ ] talk me, right? tried to defame me with some NEFARIOUS LIES. WELL, THE other day this Chboom decided to go on to Frog Tony's channel and a friend of hers, a mutual friend of",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
-      "right": "Sturgis",
-      "signal_type": "criticised",
-      "timestamp": "12:00",
-      "confidence": 0.45,
-      "receipt": "which is very funny. Thank you, Johnny Rocket, for providing us a uh Substack to read through. And then I don't know if you guys saw it, but there's been some hub going on recently between me and a bit of a chi boom who decided to try to uh I guess, you know, [ __ ] talk me, right? tried to defame me with some NEFARIOUS LIES. WELL, THE other day this Chboom decided to go on to Frog Tony's channel and a friend of hers, a mutual friend of",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Frog Tony",
-      "right": "Ethan Van Sciver",
-      "signal_type": "criticised",
-      "timestamp": "12:00",
-      "confidence": 0.45,
-      "receipt": "ub going on recently between me and a bit of a chi boom who decided to try to uh I guess, you know, [ __ ] talk me, right? tried to defame me with some NEFARIOUS LIES. WELL, THE other day this Chboom decided to go on to Frog Tony's channel and a friend of hers, a mutual friend of hers went on there and said that he just didn't really believe what she was saying. Was very nice, very polite and you had Frog Tony proceed to crash out in a very beau",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Frog Tony",
-      "right": "Dick Masterson",
-      "signal_type": "criticised",
-      "timestamp": "12:00",
-      "confidence": 0.45,
-      "receipt": "ub going on recently between me and a bit of a chi boom who decided to try to uh I guess, you know, [ __ ] talk me, right? tried to defame me with some NEFARIOUS LIES. WELL, THE other day this Chboom decided to go on to Frog Tony's channel and a friend of hers, a mutual friend of hers went on there and said that he just didn't really believe what she was saying. Was very nice, very polite and you had Frog Tony proceed to crash out in a very beau",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
       "left": "Frog Tony",
       "right": "Sturgis",
       "signal_type": "criticised",
       "timestamp": "12:00",
-      "confidence": 0.45,
-      "receipt": "ub going on recently between me and a bit of a chi boom who decided to try to uh I guess, you know, [ __ ] talk me, right? tried to defame me with some NEFARIOUS LIES. WELL, THE other day this Chboom decided to go on to Frog Tony's channel and a friend of hers, a mutual friend of hers went on there and said that he just didn't really believe what she was saying. Was very nice, very polite and you had Frog Tony proceed to crash out in a very beau",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Ethan Van Sciver",
-      "right": "Dick Masterson",
-      "signal_type": "criticised",
-      "timestamp": "12:00",
-      "confidence": 0.45,
-      "receipt": "which is very funny. Thank you, Johnny Rocket, for providing us a uh Substack to read through. And then I don't know if you guys saw it, but there's been some hub going on recently between me and a bit of a chi boom who decided to try to uh I guess, you know, [ __ ] talk me, right? tried to defame me with some NEFARIOUS LIES. WELL, THE other day this Chboom decided to go on to Frog Tony's channel and a friend of hers, a mutual friend of",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Ethan Van Sciver",
-      "right": "Sturgis",
-      "signal_type": "criticised",
-      "timestamp": "12:00",
-      "confidence": 0.45,
-      "receipt": "which is very funny. Thank you, Johnny Rocket, for providing us a uh Substack to read through. And then I don't know if you guys saw it, but there's been some hub going on recently between me and a bit of a chi boom who decided to try to uh I guess, you know, [ __ ] talk me, right? tried to defame me with some NEFARIOUS LIES. WELL, THE other day this Chboom decided to go on to Frog Tony's channel and a friend of hers, a mutual friend of",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Dick Masterson",
-      "right": "Sturgis",
-      "signal_type": "criticised",
-      "timestamp": "12:00",
-      "confidence": 0.45,
-      "receipt": "g Tony now begging Veto to let him be >> the co-host >> of The Biggest Problem in the Universe. >> You got him begging for that. You got him on his membersonly stream saying, \"Veto, yes, veto, please, please, please let Dick Masterson have that 25% and make me your co-host.\" >> Oh my god. >> Like, he's going to make that the [ __ ] out of the show. >> Yeah, that No, no, do what you want, but I personally think that is a bad idea. Personally, I mean,",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
-      "right": "Frog Tony",
-      "signal_type": "promoted",
-      "timestamp": "12:00",
-      "confidence": 0.45,
-      "receipt": "which is very funny. Thank you, Johnny Rocket, for providing us a uh Substack to read through. And then I don't know if you guys saw it, but there's been some hub going on recently between me and a bit of a chi boom who decided to try to uh I guess, you know, [ __ ] talk me, right? tried to defame me with some NEFARIOUS LIES. WELL, THE other day this Chboom decided to go on to Frog Tony's channel and a friend of hers, a mutual friend of",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
-      "right": "Ethan Van Sciver",
-      "signal_type": "promoted",
-      "timestamp": "12:00",
-      "confidence": 0.45,
-      "receipt": "which is very funny. Thank you, Johnny Rocket, for providing us a uh Substack to read through. And then I don't know if you guys saw it, but there's been some hub going on recently between me and a bit of a chi boom who decided to try to uh I guess, you know, [ __ ] talk me, right? tried to defame me with some NEFARIOUS LIES. WELL, THE other day this Chboom decided to go on to Frog Tony's channel and a friend of hers, a mutual friend of",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
-      "right": "Dick Masterson",
-      "signal_type": "promoted",
-      "timestamp": "12:00",
-      "confidence": 0.45,
-      "receipt": "which is very funny. Thank you, Johnny Rocket, for providing us a uh Substack to read through. And then I don't know if you guys saw it, but there's been some hub going on recently between me and a bit of a chi boom who decided to try to uh I guess, you know, [ __ ] talk me, right? tried to defame me with some NEFARIOUS LIES. WELL, THE other day this Chboom decided to go on to Frog Tony's channel and a friend of hers, a mutual friend of",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
-      "right": "Sturgis",
-      "signal_type": "promoted",
-      "timestamp": "12:00",
-      "confidence": 0.45,
-      "receipt": "which is very funny. Thank you, Johnny Rocket, for providing us a uh Substack to read through. And then I don't know if you guys saw it, but there's been some hub going on recently between me and a bit of a chi boom who decided to try to uh I guess, you know, [ __ ] talk me, right? tried to defame me with some NEFARIOUS LIES. WELL, THE other day this Chboom decided to go on to Frog Tony's channel and a friend of hers, a mutual friend of",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Frog Tony",
-      "right": "Ethan Van Sciver",
-      "signal_type": "promoted",
-      "timestamp": "12:00",
-      "confidence": 0.45,
-      "receipt": "ub going on recently between me and a bit of a chi boom who decided to try to uh I guess, you know, [ __ ] talk me, right? tried to defame me with some NEFARIOUS LIES. WELL, THE other day this Chboom decided to go on to Frog Tony's channel and a friend of hers, a mutual friend of hers went on there and said that he just didn't really believe what she was saying. Was very nice, very polite and you had Frog Tony proceed to crash out in a very beau",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Frog Tony",
-      "right": "Dick Masterson",
-      "signal_type": "promoted",
-      "timestamp": "12:00",
-      "confidence": 0.45,
-      "receipt": "ub going on recently between me and a bit of a chi boom who decided to try to uh I guess, you know, [ __ ] talk me, right? tried to defame me with some NEFARIOUS LIES. WELL, THE other day this Chboom decided to go on to Frog Tony's channel and a friend of hers, a mutual friend of hers went on there and said that he just didn't really believe what she was saying. Was very nice, very polite and you had Frog Tony proceed to crash out in a very beau",
-      "warning": "co-mention plus language signal; requires interpretation"
+      "confidence": 0.48,
+      "receipt": "t of a chi boom who decided to try to uh I guess, you know, [ __ ] talk me, right? tried to defame me with some NEFARIOUS LIES. WELL, THE other day this Chboom decided to go on to Frog Tony's channel and a friend of hers, a mutual friend of hers went on there and said that he just didn't really believe what she was saying. Was very nice, very polite and you had Frog",
+      "warning": "candidate relationship evidence; requires review"
     },
     {
       "left": "Frog Tony",
       "right": "Sturgis",
       "signal_type": "promoted",
       "timestamp": "12:00",
-      "confidence": 0.45,
-      "receipt": "ub going on recently between me and a bit of a chi boom who decided to try to uh I guess, you know, [ __ ] talk me, right? tried to defame me with some NEFARIOUS LIES. WELL, THE other day this Chboom decided to go on to Frog Tony's channel and a friend of hers, a mutual friend of hers went on there and said that he just didn't really believe what she was saying. Was very nice, very polite and you had Frog Tony proceed to crash out in a very beau",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Ethan Van Sciver",
-      "right": "Dick Masterson",
-      "signal_type": "promoted",
-      "timestamp": "12:00",
-      "confidence": 0.45,
-      "receipt": "which is very funny. Thank you, Johnny Rocket, for providing us a uh Substack to read through. And then I don't know if you guys saw it, but there's been some hub going on recently between me and a bit of a chi boom who decided to try to uh I guess, you know, [ __ ] talk me, right? tried to defame me with some NEFARIOUS LIES. WELL, THE other day this Chboom decided to go on to Frog Tony's channel and a friend of hers, a mutual friend of",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Ethan Van Sciver",
-      "right": "Sturgis",
-      "signal_type": "promoted",
-      "timestamp": "12:00",
-      "confidence": 0.45,
-      "receipt": "which is very funny. Thank you, Johnny Rocket, for providing us a uh Substack to read through. And then I don't know if you guys saw it, but there's been some hub going on recently between me and a bit of a chi boom who decided to try to uh I guess, you know, [ __ ] talk me, right? tried to defame me with some NEFARIOUS LIES. WELL, THE other day this Chboom decided to go on to Frog Tony's channel and a friend of hers, a mutual friend of",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Dick Masterson",
-      "right": "Sturgis",
-      "signal_type": "promoted",
-      "timestamp": "12:00",
-      "confidence": 0.45,
-      "receipt": "g Tony now begging Veto to let him be >> the co-host >> of The Biggest Problem in the Universe. >> You got him begging for that. You got him on his membersonly stream saying, \"Veto, yes, veto, please, please, please let Dick Masterson have that 25% and make me your co-host.\" >> Oh my god. >> Like, he's going to make that the [ __ ] out of the show. >> Yeah, that No, no, do what you want, but I personally think that is a bad idea. Personally, I mean,",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
-      "right": "Frog Tony",
-      "signal_type": "collaborated",
-      "timestamp": "12:00",
-      "confidence": 0.45,
-      "receipt": "which is very funny. Thank you, Johnny Rocket, for providing us a uh Substack to read through. And then I don't know if you guys saw it, but there's been some hub going on recently between me and a bit of a chi boom who decided to try to uh I guess, you know, [ __ ] talk me, right? tried to defame me with some NEFARIOUS LIES. WELL, THE other day this Chboom decided to go on to Frog Tony's channel and a friend of hers, a mutual friend of",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
-      "right": "Ethan Van Sciver",
-      "signal_type": "collaborated",
-      "timestamp": "12:00",
-      "confidence": 0.45,
-      "receipt": "which is very funny. Thank you, Johnny Rocket, for providing us a uh Substack to read through. And then I don't know if you guys saw it, but there's been some hub going on recently between me and a bit of a chi boom who decided to try to uh I guess, you know, [ __ ] talk me, right? tried to defame me with some NEFARIOUS LIES. WELL, THE other day this Chboom decided to go on to Frog Tony's channel and a friend of hers, a mutual friend of",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
-      "right": "Dick Masterson",
-      "signal_type": "collaborated",
-      "timestamp": "12:00",
-      "confidence": 0.45,
-      "receipt": "which is very funny. Thank you, Johnny Rocket, for providing us a uh Substack to read through. And then I don't know if you guys saw it, but there's been some hub going on recently between me and a bit of a chi boom who decided to try to uh I guess, you know, [ __ ] talk me, right? tried to defame me with some NEFARIOUS LIES. WELL, THE other day this Chboom decided to go on to Frog Tony's channel and a friend of hers, a mutual friend of",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
-      "right": "Sturgis",
-      "signal_type": "collaborated",
-      "timestamp": "12:00",
-      "confidence": 0.45,
-      "receipt": "which is very funny. Thank you, Johnny Rocket, for providing us a uh Substack to read through. And then I don't know if you guys saw it, but there's been some hub going on recently between me and a bit of a chi boom who decided to try to uh I guess, you know, [ __ ] talk me, right? tried to defame me with some NEFARIOUS LIES. WELL, THE other day this Chboom decided to go on to Frog Tony's channel and a friend of hers, a mutual friend of",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Frog Tony",
-      "right": "Ethan Van Sciver",
-      "signal_type": "collaborated",
-      "timestamp": "12:00",
-      "confidence": 0.45,
-      "receipt": "ub going on recently between me and a bit of a chi boom who decided to try to uh I guess, you know, [ __ ] talk me, right? tried to defame me with some NEFARIOUS LIES. WELL, THE other day this Chboom decided to go on to Frog Tony's channel and a friend of hers, a mutual friend of hers went on there and said that he just didn't really believe what she was saying. Was very nice, very polite and you had Frog Tony proceed to crash out in a very beau",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Frog Tony",
-      "right": "Dick Masterson",
-      "signal_type": "collaborated",
-      "timestamp": "12:00",
-      "confidence": 0.45,
-      "receipt": "ub going on recently between me and a bit of a chi boom who decided to try to uh I guess, you know, [ __ ] talk me, right? tried to defame me with some NEFARIOUS LIES. WELL, THE other day this Chboom decided to go on to Frog Tony's channel and a friend of hers, a mutual friend of hers went on there and said that he just didn't really believe what she was saying. Was very nice, very polite and you had Frog Tony proceed to crash out in a very beau",
-      "warning": "co-mention plus language signal; requires interpretation"
+      "confidence": 0.48,
+      "receipt": "t of a chi boom who decided to try to uh I guess, you know, [ __ ] talk me, right? tried to defame me with some NEFARIOUS LIES. WELL, THE other day this Chboom decided to go on to Frog Tony's channel and a friend of hers, a mutual friend of hers went on there and said that he just didn't really believe what she was saying. Was very nice, very polite and you had Frog",
+      "warning": "candidate relationship evidence; requires review"
     },
     {
       "left": "Frog Tony",
       "right": "Sturgis",
       "signal_type": "collaborated",
       "timestamp": "12:00",
-      "confidence": 0.45,
-      "receipt": "ub going on recently between me and a bit of a chi boom who decided to try to uh I guess, you know, [ __ ] talk me, right? tried to defame me with some NEFARIOUS LIES. WELL, THE other day this Chboom decided to go on to Frog Tony's channel and a friend of hers, a mutual friend of hers went on there and said that he just didn't really believe what she was saying. Was very nice, very polite and you had Frog Tony proceed to crash out in a very beau",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Ethan Van Sciver",
-      "right": "Dick Masterson",
-      "signal_type": "collaborated",
-      "timestamp": "12:00",
-      "confidence": 0.45,
-      "receipt": "which is very funny. Thank you, Johnny Rocket, for providing us a uh Substack to read through. And then I don't know if you guys saw it, but there's been some hub going on recently between me and a bit of a chi boom who decided to try to uh I guess, you know, [ __ ] talk me, right? tried to defame me with some NEFARIOUS LIES. WELL, THE other day this Chboom decided to go on to Frog Tony's channel and a friend of hers, a mutual friend of",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Ethan Van Sciver",
-      "right": "Sturgis",
-      "signal_type": "collaborated",
-      "timestamp": "12:00",
-      "confidence": 0.45,
-      "receipt": "which is very funny. Thank you, Johnny Rocket, for providing us a uh Substack to read through. And then I don't know if you guys saw it, but there's been some hub going on recently between me and a bit of a chi boom who decided to try to uh I guess, you know, [ __ ] talk me, right? tried to defame me with some NEFARIOUS LIES. WELL, THE other day this Chboom decided to go on to Frog Tony's channel and a friend of hers, a mutual friend of",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Dick Masterson",
-      "right": "Sturgis",
-      "signal_type": "collaborated",
-      "timestamp": "12:00",
-      "confidence": 0.45,
-      "receipt": "g Tony now begging Veto to let him be >> the co-host >> of The Biggest Problem in the Universe. >> You got him begging for that. You got him on his membersonly stream saying, \"Veto, yes, veto, please, please, please let Dick Masterson have that 25% and make me your co-host.\" >> Oh my god. >> Like, he's going to make that the [ __ ] out of the show. >> Yeah, that No, no, do what you want, but I personally think that is a bad idea. Personally, I mean,",
-      "warning": "co-mention plus language signal; requires interpretation"
+      "confidence": 0.48,
+      "receipt": "t of a chi boom who decided to try to uh I guess, you know, [ __ ] talk me, right? tried to defame me with some NEFARIOUS LIES. WELL, THE other day this Chboom decided to go on to Frog Tony's channel and a friend of hers, a mutual friend of hers went on there and said that he just didn't really believe what she was saying. Was very nice, very polite and you had Frog",
+      "warning": "candidate relationship evidence; requires review"
     },
     {
       "left": "Liam Gray",
       "right": "Frog Tony",
       "signal_type": "legal_conflict",
-      "timestamp": "12:00",
-      "confidence": 0.45,
-      "receipt": "which is very funny. Thank you, Johnny Rocket, for providing us a uh Substack to read through. And then I don't know if you guys saw it, but there's been some hub going on recently between me and a bit of a chi boom who decided to try to uh I guess, you know, [ __ ] talk me, right? tried to defame me with some NEFARIOUS LIES. WELL, THE other day this Chboom decided to go on to Frog Tony's channel and a friend of hers, a mutual friend of",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
-      "right": "Ethan Van Sciver",
-      "signal_type": "legal_conflict",
-      "timestamp": "12:00",
-      "confidence": 0.45,
-      "receipt": "which is very funny. Thank you, Johnny Rocket, for providing us a uh Substack to read through. And then I don't know if you guys saw it, but there's been some hub going on recently between me and a bit of a chi boom who decided to try to uh I guess, you know, [ __ ] talk me, right? tried to defame me with some NEFARIOUS LIES. WELL, THE other day this Chboom decided to go on to Frog Tony's channel and a friend of hers, a mutual friend of",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
-      "right": "Dick Masterson",
-      "signal_type": "legal_conflict",
-      "timestamp": "12:00",
-      "confidence": 0.45,
-      "receipt": "which is very funny. Thank you, Johnny Rocket, for providing us a uh Substack to read through. And then I don't know if you guys saw it, but there's been some hub going on recently between me and a bit of a chi boom who decided to try to uh I guess, you know, [ __ ] talk me, right? tried to defame me with some NEFARIOUS LIES. WELL, THE other day this Chboom decided to go on to Frog Tony's channel and a friend of hers, a mutual friend of",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
-      "right": "Sturgis",
-      "signal_type": "legal_conflict",
-      "timestamp": "12:00",
-      "confidence": 0.45,
-      "receipt": "which is very funny. Thank you, Johnny Rocket, for providing us a uh Substack to read through. And then I don't know if you guys saw it, but there's been some hub going on recently between me and a bit of a chi boom who decided to try to uh I guess, you know, [ __ ] talk me, right? tried to defame me with some NEFARIOUS LIES. WELL, THE other day this Chboom decided to go on to Frog Tony's channel and a friend of hers, a mutual friend of",
-      "warning": "co-mention plus language signal; requires interpretation"
+      "timestamp": "48:01",
+      "confidence": 0.48,
+      "receipt": "t reads like a ladies memoir. You got to remember this is taking place from like kindergarten until now. So this is from the 80s until now that this lady is reciting the legend of Liam Gray, the girl who tried the Liam arc of all time that a literal you opened up. We have been given Liam's brain. All right. We've been given his skull and been allowed to like pop it p",
+      "warning": "candidate relationship evidence; requires review"
     },
     {
       "left": "Frog Tony",
-      "right": "Ethan Van Sciver",
-      "signal_type": "legal_conflict",
-      "timestamp": "12:00",
-      "confidence": 0.45,
-      "receipt": "ub going on recently between me and a bit of a chi boom who decided to try to uh I guess, you know, [ __ ] talk me, right? tried to defame me with some NEFARIOUS LIES. WELL, THE other day this Chboom decided to go on to Frog Tony's channel and a friend of hers, a mutual friend of hers went on there and said that he just didn't really believe what she was saying. Was very nice, very polite and you had Frog Tony proceed to crash out in a very beau",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Frog Tony",
-      "right": "Dick Masterson",
-      "signal_type": "legal_conflict",
-      "timestamp": "12:00",
-      "confidence": 0.45,
-      "receipt": "ub going on recently between me and a bit of a chi boom who decided to try to uh I guess, you know, [ __ ] talk me, right? tried to defame me with some NEFARIOUS LIES. WELL, THE other day this Chboom decided to go on to Frog Tony's channel and a friend of hers, a mutual friend of hers went on there and said that he just didn't really believe what she was saying. Was very nice, very polite and you had Frog Tony proceed to crash out in a very beau",
-      "warning": "co-mention plus language signal; requires interpretation"
+      "right": "Stray Beans",
+      "signal_type": "promoted",
+      "timestamp": "02:12:01",
+      "confidence": 0.48,
+      "receipt": "ng people not to buy commissions from him. >> What? >> Yeah. Yeah. You you don't think maybe maybe uh him not getting any sort of sales or commissions now has something to do with Frog Tony running around calling him a tracer for a month and doxing him about being a crook >> and probably some other things too but >> maybe you know considering I DON'T GIVE A [ __ ] RE",
+      "warning": "candidate relationship evidence; requires review"
     },
     {
       "left": "Frog Tony",
       "right": "Sturgis",
-      "signal_type": "legal_conflict",
-      "timestamp": "12:00",
-      "confidence": 0.45,
-      "receipt": "ub going on recently between me and a bit of a chi boom who decided to try to uh I guess, you know, [ __ ] talk me, right? tried to defame me with some NEFARIOUS LIES. WELL, THE other day this Chboom decided to go on to Frog Tony's channel and a friend of hers, a mutual friend of hers went on there and said that he just didn't really believe what she was saying. Was very nice, very polite and you had Frog Tony proceed to crash out in a very beau",
-      "warning": "co-mention plus language signal; requires interpretation"
+      "signal_type": "separation",
+      "timestamp": "02:36:00",
+      "confidence": 0.48,
+      "receipt": "gy's absolutely correct. Right. We They made zero. We said zero, so we've clocked it. >> Yeah. So, okay. So, you're right about that. But [ __ ] don't even pay attention to [ __ ] Frog Tony's uh super chats or super tips or whatever the [ __ ] Like, >> yeah. I don't. >> So, how we watch how we pocket watch it? >> Yeah, >> it makes no sense. >> I mean, either way, in",
+      "warning": "candidate relationship evidence; requires review"
     },
     {
-      "left": "Ethan Van Sciver",
-      "right": "Dick Masterson",
+      "left": "Frog Tony",
+      "right": "Eric July",
+      "signal_type": "separation",
+      "timestamp": "02:36:00",
+      "confidence": 0.48,
+      "receipt": "gy's absolutely correct. Right. We They made zero. We said zero, so we've clocked it. >> Yeah. So, okay. So, you're right about that. But [ __ ] don't even pay attention to [ __ ] Frog Tony's uh super chats or super tips or whatever the [ __ ] Like, >> yeah. I don't. >> So, how we watch how we pocket watch it? >> Yeah, >> it makes no sense. >> I mean, either way, in",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "left": "Sturgis",
+      "right": "Eric July",
+      "signal_type": "separation",
+      "timestamp": "02:36:00",
+      "confidence": 0.48,
+      "receipt": "] he refuses. >> What he says, what he streams, what he makes. No one's [ __ ] checking his money. No one is [ __ ] clocking anything he does. >> YOU DO NOTHING BUT TALK ABOUT ME, STURGIS, and uh Eric July. That's your content, fat boy. You fat, lonely, sad [ __ ] That is all you do. That is all that is on your mind when you wake up. The only thing you're thinking",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Frog Tony",
+      "signal_type": "defended",
+      "timestamp": "03:24:00",
+      "confidence": 0.48,
+      "receipt": "ay they are. We have uh researched [clears throat] the email. We have uh researched everything that that she has brought to our door. And at this point, we are under the idea that Liam Gray put on a wig, put on a skirt, and decided to pin this himself. So, >> would you write my letter? I'd write my letter. >> Would you write my Would you write my letter? I'd write my",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Frog Tony",
       "signal_type": "legal_conflict",
-      "timestamp": "12:00",
-      "confidence": 0.45,
-      "receipt": "which is very funny. Thank you, Johnny Rocket, for providing us a uh Substack to read through. And then I don't know if you guys saw it, but there's been some hub going on recently between me and a bit of a chi boom who decided to try to uh I guess, you know, [ __ ] talk me, right? tried to defame me with some NEFARIOUS LIES. WELL, THE other day this Chboom decided to go on to Frog Tony's channel and a friend of hers, a mutual friend of",
-      "warning": "co-mention plus language signal; requires interpretation"
+      "timestamp": "03:24:00",
+      "confidence": 0.48,
+      "receipt": "ay they are. We have uh researched [clears throat] the email. We have uh researched everything that that she has brought to our door. And at this point, we are under the idea that Liam Gray put on a wig, put on a skirt, and decided to pin this himself. So, >> would you write my letter? I'd write my letter. >> Would you write my Would you write my letter? I'd write my",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Frog Tony",
+      "signal_type": "legal_conflict",
+      "timestamp": "03:48:00",
+      "confidence": 0.48,
+      "receipt": "him. Also, [clears throat] his original name, uh, because he has stated that he has changed his name from, uh, his original one to Liam Gray. that his pin name would be his, you know, his his original name. So, >> good on you. >> That was asked. >> Good on you. >> Good on you. >> Yeah. I mean, dude, we I try not to bri",
+      "warning": "candidate relationship evidence; requires review"
     }
   ],
-  "story_matches": [],
+  "story_matches": [
+    {
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 1.0
+    },
+    {
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.8
+    },
+    {
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.5
+    },
+    {
+      "story_id": "thequartering-coffee-business-scrutiny",
+      "title": "TheQuartering coffee-business scrutiny and expansion",
+      "score": 0.5
+    }
+  ],
+  "review_priority": 100,
   "uncertainty_flags": [
-    "speaker identity may be unknown",
+    "speaker attribution may be unknown",
     "clip voices may be mistaken for live participants",
-    "sentiment lexicon does not reliably detect sarcasm",
-    "relationship signals are candidates, not declarations",
-    "claims are not verified facts"
+    "sentiment lexicon cannot reliably detect sarcasm",
+    "claims and relationship signals remain candidates"
   ]
 }

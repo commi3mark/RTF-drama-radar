@@ -1,6 +1,6 @@
 {
-  "schema_version": "octopuss-preanalysis-v0.1",
-  "generated_at": "2026-07-15T21:04:18.082952+00:00",
+  "schema_version": "octopuss-preanalysis-v0.2",
+  "generated_at": "2026-07-15T21:17:12.156327+00:00",
   "video_id": "Uy8eHEmKNWY",
   "title": "Kino Casino: Nerdrotic Fires Chrissie Mayr from Friday Night Tights (Jul 10, 2026)",
   "source": "Elissa Clips",
@@ -19,7 +19,7 @@
     {
       "entity": "Elissa Clips",
       "role_guess": "host_or_channel_identity",
-      "confidence": 0.72,
+      "confidence": 0.75,
       "signals": [
         "packet source/channel identity"
       ]
@@ -28,25 +28,23 @@
   "subjects": [
     {
       "entity": "Chrissie Mayr",
-      "mentions": 16,
+      "mentions": 10,
       "block_count": 1,
       "first_timestamp": "00:00",
       "last_timestamp": "05:21",
-      "discussion_span_seconds": 321.7,
       "importance_guess": "major",
       "sentiment": {
-        "label": "positive",
-        "score": 0.429,
-        "positive_hits": 20,
-        "negative_hits": 8
+        "label": "negative",
+        "score": -0.429,
+        "positive_hits": 2,
+        "negative_hits": 5
       },
       "receipts": [
         {
           "timestamp": "00:00",
-          "excerpt": "So, Friday Night Tights today formally announced, and we'll go there in a minute, that they have fired Chrissy Mayor. If you click on that, if you click on that link I sent you, Andy, it should uh take us right there. By the way, THEY HAD SARGON. WOW. >> More salt in the wound for J. >> Oh my god. Wait, >> that J drank Sargon'sing semen. They announced his firing or her firing on the day he's on. >> Yes. With Sargon there. >> THAT'S UNI"
+          "excerpt": "So, Friday Night Tights today formally announced, and we'll go there in a minute, that they have fired Chrissy Mayor. If you click on that, if you click on that link I sent you, Andy, it should uh take us right there. By the way, THEY HAD SARGON. WOW. >> More salt in the wound for J. >> Oh my god. Wait, >> that J drank Sargon'sing semen. They announced his f"
         }
-      ],
-      "appearance_status": "uncertain"
+      ]
     },
     {
       "entity": "Friday Night Tights",
@@ -54,43 +52,19 @@
       "block_count": 1,
       "first_timestamp": "00:00",
       "last_timestamp": "05:21",
-      "discussion_span_seconds": 321.7,
       "importance_guess": "secondary",
       "sentiment": {
-        "label": "positive",
-        "score": 0.429,
-        "positive_hits": 20,
-        "negative_hits": 8
+        "label": "negative",
+        "score": -0.429,
+        "positive_hits": 2,
+        "negative_hits": 5
       },
       "receipts": [
         {
           "timestamp": "00:00",
-          "excerpt": "So, Friday Night Tights today formally announced, and we'll go there in a minute, that they have fired Chrissy Mayor. If you click on that, if you click on that link I sent you, Andy, it should uh take us right there. By the way, THEY HAD SARG"
+          "excerpt": "So, Friday Night Tights today formally announced, and we'll go there in a minute, that they have fired Chrissy Mayor. If you click on that, if you click on that link I sent you, Andy, it should uh take u"
         }
-      ],
-      "appearance_status": "uncertain"
-    },
-    {
-      "entity": "Nerdrotic",
-      "mentions": 1,
-      "block_count": 1,
-      "first_timestamp": "00:00",
-      "last_timestamp": "05:21",
-      "discussion_span_seconds": 321.7,
-      "importance_guess": "passing",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.429,
-        "positive_hits": 20,
-        "negative_hits": 8
-      },
-      "receipts": [
-        {
-          "timestamp": "00:00",
-          "excerpt": "So, Friday Night Tights today formally announced, and we'll go there in a minute, that they have fired Chrissy Mayor. If you click on that, if you click on that link I sent you, Andy, it should uh take us right there. By the way, THEY HAD SARGON. WOW. >> More salt in the wound for J. >> Oh my god. Wait, >> that J drank Sargon'sing semen. They announced his firing or her firing on the day he's on. >> Yes. With Sargon there. >> THAT'S UNI"
-        }
-      ],
-      "appearance_status": "uncertain"
+      ]
     },
     {
       "entity": "TheQuartering",
@@ -98,144 +72,69 @@
       "block_count": 1,
       "first_timestamp": "00:00",
       "last_timestamp": "05:21",
-      "discussion_span_seconds": 321.7,
       "importance_guess": "passing",
       "sentiment": {
-        "label": "positive",
-        "score": 0.429,
-        "positive_hits": 20,
-        "negative_hits": 8
+        "label": "negative",
+        "score": -0.429,
+        "positive_hits": 2,
+        "negative_hits": 5
       },
       "receipts": [
         {
           "timestamp": "00:00",
-          "excerpt": "So, Friday Night Tights today formally announced, and we'll go there in a minute, that they have fired Chrissy Mayor. If you click on that, if you click on that link I sent you, Andy, it should uh take us right there. By the way, THEY HAD SARGON. WOW. >> More salt in the wound for J. >> Oh my god. Wait, >> that J drank Sargon'sing semen. They announced his firing or her firing on the day he's on. >> Yes. With Sargon there. >> THAT'S UNI"
+          "excerpt": "So, Friday Night Tights today formally announced, and we'll go there in a minute, that they have fired Chrissy Mayor. If you click on that, if you click on that link I sent you, Andy, it should uh take us right there. By the way, THEY HAD SARGON. WOW. >> More salt in the wound for J. >> Oh my god. Wait, >> that J drank Sargon'sing semen. They announced his f"
         }
-      ],
-      "appearance_status": "uncertain"
+      ]
     }
   ],
   "chapters": [
     {
       "start": "00:00",
       "end": "05:21",
-      "title": "Clip/reaction: Chrissie Mayr / Friday Night Tights / Nerdrotic",
+      "title": "Friday Night Tights",
       "entities": [
-        "Chrissie Mayr",
-        "Friday Night Tights",
-        "Nerdrotic",
-        "TheQuartering"
+        "Friday Night Tights"
       ],
-      "summary_seed": "So, Friday Night Tights today formally announced, and we'll go there in a minute, that they have fired Chrissy Mayor. If you click on that, if you click on that link I sent you, Andy, it should uh take us right there. By the way, THEY HAD SARGON. WOW. >> More salt in the wound for J. >> Oh my god. Wait, >> that J drank Sargon'sing semen. They announced his firing or her firing on the day he's on. >> Yes. With Sargon",
-      "clip_likelihood": true,
-      "transition_markers": 2
+      "possible_clip": true,
+      "summary_seed": "So, Friday Night Tights today formally announced, and we'll go there in a minute, that they have fired Chrissy Mayor. If you click on that, if you click on that link I sent you, Andy, it should uh take us right there. By the way, THEY HAD SARGON. WOW. >> More salt in the wound for J. >> Oh my god. Wait, >> that J drank Sargon'sing semen. They annou"
     }
   ],
-  "claim_candidates": [
-    {
-      "claimant": "HE",
-      "claim": "IT AND you're not a RIGHT ANYMORE.",
-      "timestamp": "00:00",
-      "status": "candidate_claim",
-      "receipt": "UM, OH, HE SAID IT AND you're not a RIGHT ANYMORE."
-    },
-    {
-      "claimant": "no one on the panel",
-      "claim": "anything.",
-      "timestamp": "00:00",
-      "status": "candidate_claim",
-      "receipt": "no one on the panel said anything."
-    }
-  ],
+  "claim_candidates": [],
   "quote_candidates": [
     {
       "timestamp": "00:00",
       "text": "So, Friday Night Tights today formally announced, and we'll go there in a minute, that they have fired Chrissy Mayor.",
+      "subjects": [
+        "Friday Night Tights"
+      ],
       "significance_score": 2
     },
     {
       "timestamp": "00:00",
       "text": "Uh, looks like Chrissy is still seething that she got the boot from FNT and now she is doing the rounds claiming she got cancelled.",
-      "significance_score": 2
+      "subjects": [],
+      "significance_score": 1
     },
     {
       "timestamp": "00:00",
       "text": "uh she dressed up as Frost so MANY times she claiming she got cancelled.",
-      "significance_score": 2
-    },
-    {
-      "timestamp": "00:00",
-      "text": "CHRISSY HAIR FIRED FOR BEING FROST.",
-      "significance_score": 2
-    },
-    {
-      "timestamp": "00:00",
-      "text": "The truth is the audience was tired of her anyways and they wanted to get rid of her.",
+      "subjects": [],
       "significance_score": 1
     }
   ],
-  "relationship_signals": [
+  "relationship_signals": [],
+  "story_matches": [
     {
-      "left": "Chrissie Mayr",
-      "right": "Friday Night Tights",
-      "signal_type": "separation",
-      "timestamp": "00:00",
-      "confidence": 0.45,
-      "receipt": "So, Friday Night Tights today formally announced, and we'll go there in a minute, that they have fired Chrissy Mayor. If you click on that, if you click on that link I sent you, Andy, it should uh take us right there. By the way, THEY HAD SARGON. WOW. >> More salt in the wound for J. >> Oh my god. Wait, >> that J drank Sargon'sing semen. They announced his firing or her firing on the day he's on. >> Yes. With Sargon there. >> THAT'S UNI",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Chrissie Mayr",
-      "right": "Nerdrotic",
-      "signal_type": "separation",
-      "timestamp": "00:00",
-      "confidence": 0.45,
-      "receipt": "So, Friday Night Tights today formally announced, and we'll go there in a minute, that they have fired Chrissy Mayor. If you click on that, if you click on that link I sent you, Andy, it should uh take us right there. By the way, THEY HAD SARGON. WOW. >> More salt in the wound for J. >> Oh my god. Wait, >> that J drank Sargon'sing semen. They announced his firing or her firing on the day he's on. >> Yes. With Sargon there. >> THAT'S UNI",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Chrissie Mayr",
-      "right": "TheQuartering",
-      "signal_type": "separation",
-      "timestamp": "00:00",
-      "confidence": 0.45,
-      "receipt": "So, Friday Night Tights today formally announced, and we'll go there in a minute, that they have fired Chrissy Mayor. If you click on that, if you click on that link I sent you, Andy, it should uh take us right there. By the way, THEY HAD SARGON. WOW. >> More salt in the wound for J. >> Oh my god. Wait, >> that J drank Sargon'sing semen. They announced his firing or her firing on the day he's on. >> Yes. With Sargon there. >> THAT'S UNI",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Friday Night Tights",
-      "right": "Nerdrotic",
-      "signal_type": "separation",
-      "timestamp": "00:00",
-      "confidence": 0.45,
-      "receipt": "So, Friday Night Tights today formally announced, and we'll go there in a minute, that they have fired Chrissy Mayor. If you click on that, if you click on that link I sent you, Andy, it should uh take us right there. By the way, THEY HAD SARG",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Friday Night Tights",
-      "right": "TheQuartering",
-      "signal_type": "separation",
-      "timestamp": "00:00",
-      "confidence": 0.45,
-      "receipt": "So, Friday Night Tights today formally announced, and we'll go there in a minute, that they have fired Chrissy Mayor. If you click on that, if you click on that link I sent you, Andy, it should uh take us right there. By the way, THEY HAD SARG",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Nerdrotic",
-      "right": "TheQuartering",
-      "signal_type": "separation",
-      "timestamp": "00:00",
-      "confidence": 0.45,
-      "receipt": "So, Friday Night Tights today formally announced, and we'll go there in a minute, that they have fired Chrissy Mayor. If you click on that, if you click on that link I sent you, Andy, it should uh take us right there. By the way, THEY HAD SARGON. WOW. >> More salt in the wound for J. >> Oh my god. Wait, >> that J drank Sargon'sing semen. They announced his firing or her firing on the day he's on. >> Yes. With Sargon there. >> THAT'S UNI",
-      "warning": "co-mention plus language signal; requires interpretation"
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "score": 0.714
     }
   ],
-  "story_matches": [],
+  "review_priority": 17,
   "uncertainty_flags": [
-    "speaker identity may be unknown",
+    "speaker attribution may be unknown",
     "clip voices may be mistaken for live participants",
-    "sentiment lexicon does not reliably detect sarcasm",
-    "relationship signals are candidates, not declarations",
-    "claims are not verified facts"
+    "sentiment lexicon cannot reliably detect sarcasm",
+    "claims and relationship signals remain candidates"
   ]
 }

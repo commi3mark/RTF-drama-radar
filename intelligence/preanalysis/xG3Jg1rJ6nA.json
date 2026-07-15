@@ -1,6 +1,6 @@
 {
-  "schema_version": "octopuss-preanalysis-v0.1",
-  "generated_at": "2026-07-15T21:04:17.419843+00:00",
+  "schema_version": "octopuss-preanalysis-v0.2",
+  "generated_at": "2026-07-15T21:17:11.682649+00:00",
   "video_id": "xG3Jg1rJ6nA",
   "title": "Vito Disparaging EVS (TBPITU EPISODE #71) #comicsgate #comics #art",
   "source": "Clippaverse",
@@ -19,7 +19,7 @@
     {
       "entity": "Clippaverse",
       "role_guess": "host_or_channel_identity",
-      "confidence": 0.72,
+      "confidence": 0.75,
       "signals": [
         "packet source/channel identity"
       ]
@@ -32,21 +32,19 @@
       "block_count": 1,
       "first_timestamp": "00:00",
       "last_timestamp": "00:16",
-      "discussion_span_seconds": 16.2,
       "importance_guess": "passing",
       "sentiment": {
-        "label": "positive",
-        "score": 1.0,
-        "positive_hits": 2,
+        "label": "unclear",
+        "score": 0.0,
+        "positive_hits": 0,
         "negative_hits": 0
       },
       "receipts": [
         {
           "timestamp": "00:00",
-          "excerpt": "these professional guys, like a guy like Ethan Van Sciver. The thing is I don't want to do a campaign and then have, you know, you guys waiting two years for a comic book. >> Oh, yeah. >> So, I'd rather do the campaign once I know everything's on track and ready to go. But, he"
+          "excerpt": "these professional guys, like a guy like Ethan Van Sciver. The thing is I don't want to do a campaign and then have, you know, you guys waiting two years for a comic book. >> Oh, yeah. >> So, I'd rather do the campaign once I know everyt"
         }
-      ],
-      "appearance_status": "uncertain"
+      ]
     }
   ],
   "chapters": [
@@ -57,28 +55,19 @@
       "entities": [
         "Ethan Van Sciver"
       ],
-      "summary_seed": "these professional guys, like a guy like Ethan Van Sciver. The thing is I don't want to do a campaign and then have, you know, you guys waiting two years for a comic book. >> Oh, yeah. >> So, I'd rather do the campaign once I know everything's on track and ready to go. But, he",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "possible_clip": false,
+      "summary_seed": "these professional guys, like a guy like Ethan Van Sciver. The thing is I don't want to do a campaign and then have, you know, you guys waiting two years for a comic book. >> Oh, yeah. >> So, I'd rather do the campaign once I know everything's on track and ready to go. But, he"
     }
   ],
-  "claim_candidates": [
-    {
-      "claimant": "unknown speaker",
-      "claim": "everything's on track and ready to go.",
-      "timestamp": "00:00",
-      "status": "candidate_claim",
-      "receipt": "So, I'd rather do the campaign once I know everything's on track and ready to go."
-    }
-  ],
+  "claim_candidates": [],
   "quote_candidates": [],
   "relationship_signals": [],
   "story_matches": [],
+  "review_priority": 3,
   "uncertainty_flags": [
-    "speaker identity may be unknown",
+    "speaker attribution may be unknown",
     "clip voices may be mistaken for live participants",
-    "sentiment lexicon does not reliably detect sarcasm",
-    "relationship signals are candidates, not declarations",
-    "claims are not verified facts"
+    "sentiment lexicon cannot reliably detect sarcasm",
+    "claims and relationship signals remain candidates"
   ]
 }

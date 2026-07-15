@@ -1,0 +1,460 @@
+{
+  "schema_version": "octopuss-candidate-episode-v0.1",
+  "video_id": "N52SC2cLnvY",
+  "title": "TRASHCAST # 267 BIGGEST PROBLEM was insane. Vito is a outta control. I pity him.",
+  "source": "Ethan Van Sciver",
+  "published": "2026-07-03T06:25:18+00:00",
+  "review_priority": 72,
+  "participant_candidates": [
+    {
+      "entity": "Ethan Van Sciver",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Ethan Van Sciver",
+      "mentions": 10,
+      "block_count": 3,
+      "first_timestamp": "00:01",
+      "last_timestamp": "36:02",
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.214,
+        "positive_hits": 17,
+        "negative_hits": 11
+      },
+      "receipts": [
+        {
+          "timestamp": "00:01",
+          "excerpt": "Welcome to 5XL FM where a trash flows. [music] [music] [music] Yo everybody, how are you? Ethan Van Skyber here on the Trash Cash Show. Late night tonight. Sorry about that. I was just stuck watching uh Dick Mastersonson and Veto [music] basically end they just ended their professional relationship on Biggest Problem in the Universe. And I I couldn't stop wa"
+        },
+        {
+          "timestamp": "12:00",
+          "excerpt": "he was an [ __ ] Did his work. One of those two things. you guys. I'm fortunate to have some of you who are just kind of like, uh, yeah, I like you now and I like your work. But most of you are like, [ __ ] you and your work. Where is your work, by the way? Good. Because I've learned to hate you, says Pound. See, that's just typical. I mean, that's what uh t"
+        },
+        {
+          "timestamp": "24:01",
+          "excerpt": ">> What's this guy? >> Looks like Super Killer. >> What's this guy right here? This is Super Killer. This is the black and white variant. The color variant will also be printed. There's our nice title page. Eric Weathers. Love that guy. You work with Eric, right? >> Yeah. >> Letterer to the stars is what I call this man cuz he uh knocked it out of the park."
+        }
+      ]
+    },
+    {
+      "entity": "Frog Tony",
+      "mentions": 10,
+      "block_count": 3,
+      "first_timestamp": "00:01",
+      "last_timestamp": "47:56",
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "mixed",
+        "score": -0.091,
+        "positive_hits": 10,
+        "negative_hits": 12
+      },
+      "receipts": [
+        {
+          "timestamp": "00:01",
+          "excerpt": "Welcome to 5XL FM where a trash flows. [music] [music] [music] Yo everybody, how are you? Ethan Van Skyber here on the Trash Cash Show. Late night tonight. Sorry about that. I was just stuck watching uh Dick Mastersonson and Veto [music] basically end they just ended their professional relationship on Biggest Problem in the Universe. And I I couldn't stop wa"
+        },
+        {
+          "timestamp": "12:00",
+          "excerpt": "se. Haven't heard from Little Movie Perp uh in a little while, but I remember like how people kind of reacted to that. Like I got I got some people that are in that crowd like the Frog Tony crowd. Those guys are really stupid. Like they're they're good at making fun of people, I guess. Um uh in some ways. Uh but uh they're really low IQ. And like those people are jus"
+        },
+        {
+          "timestamp": "36:00",
+          "excerpt": "> Please fix my audio. Is my audio [ __ ] Do I sound okay? >> I sound okay. >> Test 112. Test 112. Yeah, I think I don't know. >> Uh all right, this is uh Veto weighs in. He hates Frog Tony, too. >> They tried to say this was Somebody was trying to spread the rumor that this was me talking [ __ ] about you. This is crazy. I defended you in this video. >> I didn't wat"
+        }
+      ]
+    },
+    {
+      "entity": "Shane Davis",
+      "mentions": 3,
+      "block_count": 1,
+      "first_timestamp": "12:00",
+      "last_timestamp": "24:02",
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.0,
+        "positive_hits": 6,
+        "negative_hits": 6
+      },
+      "receipts": [
+        {
+          "timestamp": "12:00",
+          "excerpt": "parked in a garage at Sunset Station Hotel. All right. As officers approached the vehicle, Howlet blasted music over the car stereo. I wonder if the music was AI music threatening Shane Davis and refused commands to exit. He did, however, ask cops for a drink of water. Shocking video. The ensuing reaction, insuring reaction shows the officer surrounding the vehicle dra"
+        }
+      ]
+    },
+    {
+      "entity": "Eric July",
+      "mentions": 2,
+      "block_count": 1,
+      "first_timestamp": "00:01",
+      "last_timestamp": "12:04",
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "mixed",
+        "score": -0.2,
+        "positive_hits": 2,
+        "negative_hits": 3
+      },
+      "receipts": [
+        {
+          "timestamp": "00:01",
+          "excerpt": "rson gets 25% of I guess whatever whatever the show earns uh in perpetuity because it's his brand like he veto was like what am I giving you money for? very similar uh reaction to Eric July's reaction. [clears throat] Hold on a second. When the ministry was like the international school of ministry uh said, \"Hey, you know, listen, you're using our brand like we own,"
+        }
+      ]
+    },
+    {
+      "entity": "Liam Gray",
+      "mentions": 2,
+      "block_count": 2,
+      "first_timestamp": "00:01",
+      "last_timestamp": "24:02",
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "mixed",
+        "score": -0.059,
+        "positive_hits": 8,
+        "negative_hits": 9
+      },
+      "receipts": [
+        {
+          "timestamp": "00:01",
+          "excerpt": "uh give us percentage of the money that you make using it.\" And uh Veto just like Veto has become in so many different ways like I actually said like Veto you are a combination of Liam Gray, Eric July and Patrick S. Tomlinson and it's it's bizarre that you became that way and I only really realized it like um when Riley [ __ ] with him. [laughter] All right, hold on"
+        },
+        {
+          "timestamp": "12:00",
+          "excerpt": "he was an [ __ ] Did his work. One of those two things. you guys. I'm fortunate to have some of you who are just kind of like, uh, yeah, I like you now and I like your work. But most of you are like, [ __ ] you and your work. Where is your work, by the way? Good. Because I've learned to hate you, says Pound. See, that's just typical. I mean, that's what uh t"
+        }
+      ]
+    },
+    {
+      "entity": "ComicsGate",
+      "mentions": 2,
+      "block_count": 2,
+      "first_timestamp": "36:00",
+      "last_timestamp": "01:36:04",
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.333,
+        "positive_hits": 10,
+        "negative_hits": 5
+      },
+      "receipts": [
+        {
+          "timestamp": "36:00",
+          "excerpt": ">> No. No. >> I I don't understand why he's been doing it this long at all. >> Yeah. >> I thought he would have been gone like six months ago, a year ago. >> You really feel that way? >> Oh, yeah. I think he's uh I don't I that's Yeah, I know he's got other more important things going on in his life. the show's not uh his main uh gig, >> you know, so you kno"
+        },
+        {
+          "timestamp": "01:24:01",
+          "excerpt": ">> you know, like I got to get these guys back to work. I'm like, look at this schedule here. Come on. So, you're going to get a lot of good comedy out of me there. [snorts] Um, okay. Uh, let's uh you and me. Uh, hold on a second. Since we're >> Let's analyze the the beginning of the end. >> Uh, no, no, no. I just think you and me could run a scene together."
+        }
+      ]
+    },
+    {
+      "entity": "Nick Rekieta",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "00:01",
+      "last_timestamp": "12:04",
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "mixed",
+        "score": -0.2,
+        "positive_hits": 2,
+        "negative_hits": 3
+      },
+      "receipts": [
+        {
+          "timestamp": "00:01",
+          "excerpt": "Welcome to 5XL FM where a trash flows. [music] [music] [music] Yo everybody, how are you? Ethan Van Skyber here on the Trash Cash Show. Late night tonight. Sorry about that. I was just stuck watching uh Dick Mastersonson and Veto [music] basically end they just ended their professional relationship on Biggest Problem in the Universe. And I I couldn't stop wa"
+        }
+      ]
+    },
+    {
+      "entity": "Vito Gesualdi",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "48:00",
+      "last_timestamp": "01:00:01",
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.2,
+        "positive_hits": 3,
+        "negative_hits": 2
+      },
+      "receipts": [
+        {
+          "timestamp": "48:00",
+          "excerpt": "[music] at the top of the season. Pen house rooftop birds. No deceiving, nothing, no teasing. I need you to get up again. [music] >> All right, hold on. Listen. >> All right, hold on a second. We have some uh we got another super chat. I think this one's from Johnny Rocket here. Johnny Rocket, who by the way, no connection to no connection. Uh elephant. He d"
+        }
+      ]
+    },
+    {
+      "entity": "Cyberfrog",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "01:12:02",
+      "last_timestamp": "01:24:02",
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.875,
+        "positive_hits": 15,
+        "negative_hits": 1
+      },
+      "receipts": [
+        {
+          "timestamp": "01:12:02",
+          "excerpt": "like uh what do they call their banners behind you? But you pull them up and then you set them up at conventions and it might look like this towel here, you know, and it might say Cyberfrog. Ethan Van Cyber. >> Oh, it's a banner. Yeah, >> it's a banner, but you >> display show display. >> I told DC I I had this I wanted two of these behind me uh for San Diego ComicCo"
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:01",
+      "end": "12:04",
+      "title": "Liam Gray / Eric July",
+      "entities": [
+        "Liam Gray",
+        "Eric July"
+      ],
+      "possible_clip": false,
+      "summary_seed": "Welcome to 5XL FM where a trash flows. [music] [music] [music] Yo everybody, how are you? Ethan Van Skyber here on the Trash Cash Show. Late night tonight. Sorry about that. I was just stuck watching uh Dick Mastersonson and Veto [music] basically end they just ended their professional relationship on Biggest Problem in the Universe. And I I couldn"
+    },
+    {
+      "start": "12:00",
+      "end": "24:02",
+      "title": "Frog Tony / Shane Davis",
+      "entities": [
+        "Frog Tony",
+        "Shane Davis"
+      ],
+      "possible_clip": false,
+      "summary_seed": "he was an [ __ ] Did his work. One of those two things. you guys. I'm fortunate to have some of you who are just kind of like, uh, yeah, I like you now and I like your work. But most of you are like, [ __ ] you and your work. Where is your work, by the way? Good. Because I've learned to hate you, says Pound. See, that's just typical. I mean, that's"
+    },
+    {
+      "start": "24:01",
+      "end": "36:02",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": ">> What's this guy? >> Looks like Super Killer. >> What's this guy right here? This is Super Killer. This is the black and white variant. The color variant will also be printed. There's our nice title page. Eric Weathers. Love that guy. You work with Eric, right? >> Yeah. >> Letterer to the stars is what I call this man cuz he uh knocked it out of"
+    },
+    {
+      "start": "36:00",
+      "end": "47:56",
+      "title": "Frog Tony",
+      "entities": [
+        "Frog Tony"
+      ],
+      "possible_clip": true,
+      "summary_seed": ">> No. No. >> I I don't understand why he's been doing it this long at all. >> Yeah. >> I thought he would have been gone like six months ago, a year ago. >> You really feel that way? >> Oh, yeah. I think he's uh I don't I that's Yeah, I know he's got other more important things going on in his life. the show's not uh his main uh gig, >> you know,"
+    },
+    {
+      "start": "48:00",
+      "end": "01:00:01",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "[music] at the top of the season. Pen house rooftop birds. No deceiving, nothing, no teasing. I need you to get up again. [music] >> All right, hold on. Listen. >> All right, hold on a second. We have some uh we got another super chat. I think this one's from Johnny Rocket here. Johnny Rocket, who by the way, no connection to no connection. Uh elep"
+    },
+    {
+      "start": "01:00:00",
+      "end": "01:12:05",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": ">> Storm 11 argued says, \"Get it together, Veto. Act normal like you're doing now.\" >> I'm trying. [laughter] Nobody just give me an opportunity to act normal. >> I TRIED SO HARD and got so far, but at the end IT DOESN'T EVEN MATTER. >> Tommy Review says, \"Yes, she is a woman.\" Okay, good. Is she hot? >> Okay. You know, >> my old friend uh tipster"
+    },
+    {
+      "start": "01:12:02",
+      "end": "01:24:02",
+      "title": "Cyberfrog",
+      "entities": [
+        "Cyberfrog"
+      ],
+      "possible_clip": false,
+      "summary_seed": "people have those the like you you pull them up at their like uh what do they call their banners behind you? But you pull them up and then you set them up at conventions and it might look like this towel here, you know, and it might say Cyberfrog. Ethan Van Cyber. >> Oh, it's a banner. Yeah, >> it's a banner, but you >> display show display. >> I t"
+    },
+    {
+      "start": "01:24:01",
+      "end": "01:36:04",
+      "title": "Frog Tony",
+      "entities": [
+        "Frog Tony"
+      ],
+      "possible_clip": false,
+      "summary_seed": ">> you know, like I got to get these guys back to work. I'm like, look at this schedule here. Come on. So, you're going to get a lot of good comedy out of me there. [snorts] Um, okay. Uh, let's uh you and me. Uh, hold on a second. Since we're >> Let's analyze the the beginning of the end. >> Uh, no, no, no. I just think you and me could run a scene"
+    },
+    {
+      "start": "01:36:02",
+      "end": "01:48:05",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "photo of his driving license, which is a weird detail. The pest turned up to the bar, but sadly Patrick was nowhere to be found. instead opting to file a restraining order against this pesky troll. So only a few weeks after his filed lawsuit, Pat was back in court again, but this time he could actually identify the person that he was taking to cour"
+    },
+    {
+      "start": "01:48:02",
+      "end": "02:00:03",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "trying to talk when you've already know anything >> at this address. Shut up. I'm still tired. >> Do you have any idea HOW MANY TIMES I CALLED YOU? >> This is 2:00 in the morning on the streets outside his house. keeps happening. You get an idea more than once saying that I might bang on my door. We've been over this. Never come to this address. If"
+    },
+    {
+      "start": "02:00:01",
+      "end": "02:12:03",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "police now actually entering his home with guns drawn. In one of these videos, Patrick was led out of his home by the police in the middle of the night. And as we already know that he doesn't like to wear underwear, the blurry footage caught him in a state of undress. The pests then set to work trying to decode the outline of his manhood with them"
+    },
+    {
+      "start": "02:12:00",
+      "end": "02:24:02",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "another ice cream truck driving hitman named the Iceman who had a movie made about him. Patrick proudly posted this to his Twitter account accompanied with a photo of Bumier. The photo was in fact of an actor from the hit TV show The Sopranos. Remember that Patrick claims to have an IQ of 140. It then seems that Pat did in fact pay quasi the amount"
+    },
+    {
+      "start": "02:24:00",
+      "end": "02:36:02",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "very interesting twist if Patrick turned out to be the mastermind of all of this, but sadly I don't think that this is the case. He thinks that [clears throat] Patrick has a master plan to target the black and brown community with a dangerous Airbnb scheme. I'm guessing the pests have been feeding this woman fake information. >> A white woman doing"
+    },
+    {
+      "start": "02:36:00",
+      "end": "02:45:08",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "finds the different platforms he uses. The three main ones being Twitter, Blue Sky, and Threads. In this, he compares how the same post that he made about ice deportation formed on all three platforms with him concluding that Blue Sky was not a sustainable platform due to him not getting much interaction. This enraged a lot of the Blue Sky users wi"
+    }
+  ],
+  "claims": [
+    {
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Liam Gray",
+        "Eric July"
+      ],
+      "claim": "Uh so, um you know, you're you're going to have to uh give us percentage of the money that you make using it.\" And uh Veto just like Veto has become in so many different ways like I actually said like Veto you are a combination of Liam Gray, Eric July and Patrick S.",
+      "timestamp": "00:01",
+      "status": "candidate_claim",
+      "confidence": 0.55,
+      "receipt": "Uh so, um you know, you're you're going to have to uh give us percentage of the money that you make using it.\" And uh Veto just like Veto has become in so many different ways like I actually said like Veto you are a combination of Liam Gray, Eric July and Patrick S."
+    }
+  ],
+  "quotes": [
+    {
+      "timestamp": "01:24:01",
+      "text": "The lawsuit would drag on racking up costs on both sides until finally Pat.",
+      "subjects": [],
+      "significance_score": 1
+    },
+    {
+      "timestamp": "01:24:01",
+      "text": "The trolls had been asking how Patrick could afford such a costly and ill-advised lawsuit with most of them thinking there was all paid for by the Sci-Fi Writers Association which Patrick was a member of.",
+      "subjects": [],
+      "significance_score": 1
+    },
+    {
+      "timestamp": "01:24:01",
+      "text": "Some of the pests believe that SFWA stopped funding the lawsuit due to all of the dirt that they had dug up on the association, but I'm not too sure what the circumstances around this really are.",
+      "subjects": [],
+      "significance_score": 1
+    },
+    {
+      "timestamp": "01:24:01",
+      "text": "What we do know is that the lawsuit was now over for Patrick and he had been defeated.",
+      "subjects": [],
+      "significance_score": 1
+    },
+    {
+      "timestamp": "01:36:02",
+      "text": "So only a few weeks after his filed lawsuit, Pat was back in court again, but this time he could actually identify the person that he was taking to court.",
+      "subjects": [],
+      "significance_score": 1
+    },
+    {
+      "timestamp": "01:36:02",
+      "text": "One of the sticking points for this case was that Patrick claimed he had never threatened the pest, while the troll, who is named Andrew Nadski, claims that Patrick did threaten him.",
+      "subjects": [],
+      "significance_score": 1
+    },
+    {
+      "timestamp": "02:00:01",
+      "text": "The next thing of note was when OA wanted to attack the Sci-Fi Writers Association for fraud due to them claiming that the association used members funds to pay for Patrick's lawsuit.",
+      "subjects": [],
+      "significance_score": 1
+    },
+    {
+      "timestamp": "02:00:01",
+      "text": "So Pat began threatening to sue Samson unless they replaced the phone due to him thinking there was fake advertising.",
+      "subjects": [],
+      "significance_score": 1
+    },
+    {
+      "timestamp": "02:00:01",
+      "text": "Uh well, I belong to a sci-fi group called the SFWA and they loaned me $100,000 to try to sue these people.",
+      "subjects": [],
+      "significance_score": 1
+    },
+    {
+      "timestamp": "02:12:00",
+      "text": "Patrick then started a lawsuit against the city and the plea for them continually coming to his home, even though it should be clear at this point that they don't need to come with their guns drawn.",
+      "subjects": [],
+      "significance_score": 1
+    }
+  ],
+  "relationships": [],
+  "story_matches": [
+    {
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.833
+    },
+    {
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.75
+    },
+    {
+      "story_id": "nick-rekieta-reputation-fallout",
+      "title": "Nick Rekieta reputation and downfall coverage",
+      "score": 0.667
+    },
+    {
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.6
+    },
+    {
+      "story_id": "thequartering-coffee-business-scrutiny",
+      "title": "TheQuartering coffee-business scrutiny and expansion",
+      "score": 0.5
+    }
+  ],
+  "uncertainty_flags": [
+    "speaker attribution may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon cannot reliably detect sarcasm",
+    "claims and relationship signals remain candidates"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "relationship_id": "cyberfrog--sturgis",
+  "left": "Sturgis",
+  "right": "Cyberfrog",
+  "signals": [
+    {
+      "video_id": "LS_14uOaG2E",
+      "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "source": "Ethan Van Sciver",
+      "left": "Sturgis",
+      "right": "Cyberfrog",
+      "signal_type": "criticised",
+      "timestamp": "01:36:00",
+      "confidence": 0.48,
+      "receipt": "has like a fountains and uh people. >> It's like being in an island. What's he I don't understand who he is or I mean I see that he's creepy to be like that but who is that guy >> Sturgis? He's a YouTuber named Renowned Zero uh who was a comics gate critic and obsessive fan of Eric July. Uh he makes content all the time where it's like Ethan and Shane Davis coping",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "LS_14uOaG2E",
+      "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "source": "Ethan Van Sciver",
+      "left": "Sturgis",
+      "right": "Cyberfrog",
+      "signal_type": "promoted",
+      "timestamp": "01:36:00",
+      "confidence": 0.48,
+      "receipt": "has like a fountains and uh people. >> It's like being in an island. What's he I don't understand who he is or I mean I see that he's creepy to be like that but who is that guy >> Sturgis? He's a YouTuber named Renowned Zero uh who was a comics gate critic and obsessive fan of Eric July. Uh he makes content all the time where it's like Ethan and Shane Davis coping",
+      "warning": "candidate relationship evidence; requires review"
+    }
+  ]
+}

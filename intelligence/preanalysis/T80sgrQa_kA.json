@@ -1,6 +1,6 @@
 {
-  "schema_version": "octopuss-preanalysis-v0.1",
-  "generated_at": "2026-07-15T21:04:19.767892+00:00",
+  "schema_version": "octopuss-preanalysis-v0.2",
+  "generated_at": "2026-07-15T21:17:13.471748+00:00",
   "video_id": "T80sgrQa_kA",
   "title": "Is Leem throwing in the towel?! | #934",
   "source": "Ministry of Dude",
@@ -19,7 +19,7 @@
     {
       "entity": "Ministry of Dude",
       "role_guess": "host_or_channel_identity",
-      "confidence": 0.72,
+      "confidence": 0.75,
       "signals": [
         "packet source/channel identity"
       ]
@@ -27,64 +27,60 @@
   ],
   "subjects": [
     {
-      "entity": "Liam Gray",
-      "mentions": 27,
-      "block_count": 4,
-      "first_timestamp": "36:02",
-      "last_timestamp": "01:48:03",
-      "discussion_span_seconds": 4321.1,
-      "importance_guess": "major",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.863,
-        "positive_hits": 218,
-        "negative_hits": 16
-      },
-      "receipts": [
-        {
-          "timestamp": "36:02",
-          "excerpt": "[laughter] that's what I'm saying. >> The guy like, there you go. >> What the >> What do you want? >> If we don't get massive donos after you just dropped that, I don't know what this audience even wants for a show anymore. Well, I'll tell you this. Is >> that what it takes? >> You just went over 711 with that one. Nice work. [cheering] Did they really have one where Bugs Bunny had the N-word on the other side of the >> No, >> if you ju"
-        },
-        {
-          "timestamp": "48:01",
-          "excerpt": ">> Yeah. >> If he like had an audience of like, I don't know, say say he had a thousand people to 1500 people watching every show, morning and night. He could probably do like 500 bucks an episode easy. He might get that naturally, but you're never going to get to >> say that have to be people that like him. >> Exactly. Exactly. And like the show and he's never going to get to a thousand people doing this [ __ ] garbage. >> This local r"
-        },
-        {
-          "timestamp": "01:24:01",
-          "excerpt": "understand why >> and you suddenly know now. >> You got >> I did it all along. >> I did it all. >> In here. >> Don't put me in the show with a black person. >> [laughter] >> I'm dizzy. >> Yeah, he's uh he's a piece of [ __ ] >> It's all an act. >> Stop. >> Oh, yeah. That's [laughter] [gasps] head. So, like I could do that kind of [ __ ] I do it sometimes to be funny. I'll just hit my head on stuff like you know like when I'm like really"
-        },
-        {
-          "timestamp": "01:36:01",
-          "excerpt": "head, bro? >> Is it the light or is he >> Oh, have you not seen his new haircut? >> Saying goodbye. >> Is he dressed like is he trying to be like a German artist? Like, hello, my name is Hans. I only wear black turtlenecks and I like to paint on walls. >> I think I think someone told him kids like that haircut. >> Can you give me like the Zoomer haircut, the Jin Alpha broccoli cut bra? >> And essentially, um I just don't have the time."
-        }
-      ],
-      "appearance_status": "uncertain"
-    },
-    {
       "entity": "Aaron Imholte",
-      "mentions": 19,
+      "mentions": 10,
       "block_count": 2,
       "first_timestamp": "12:02",
       "last_timestamp": "36:02",
-      "discussion_span_seconds": 1439.2,
       "importance_guess": "major",
       "sentiment": {
-        "label": "positive",
-        "score": 0.892,
-        "positive_hits": 88,
-        "negative_hits": 5
+        "label": "mixed",
+        "score": 0.333,
+        "positive_hits": 8,
+        "negative_hits": 4
       },
       "receipts": [
         {
           "timestamp": "12:02",
-          "excerpt": ">> Do you remember the poop squatch? >> No. You don't you don't remember poopy butt. >> You don't remember the poop squash? [crying] Andy ditch. He's a classic. >> He's a classic LCA. He's one that I believe JJ found >> years ago and he I think he was the very first >> very first LOL to give us a shout out. >> He complained about us. I just need to see a face. I I heard I know the name. I know what you're talking about, but I forgot. >>"
+          "excerpt": ">> Do you remember the poop squatch? >> No. You don't you don't remember poopy butt. >> You don't remember the poop squash? [crying] Andy ditch. He's a classic. >> He's a classic LCA. He's one that I believe JJ found >> years ago and he I think he was the very first >> very first LOL to give us a shout out. >> He complained about us. I just need to see a fac"
         },
         {
           "timestamp": "24:01",
-          "excerpt": "background is and all of that I think that translates but it's >> it's kind of different >> well when I say that I mean there's different aspects honestly like streaming like It combines like skills I learned from like doing like color timing and stuff like that and like editing software, chroma keying, stuff like that. [snorts] >> And then like it also combines like Photoshop skills. Yeah. And like audio soft. It combines a lot of diff"
+          "excerpt": "background is and all of that I think that translates but it's >> it's kind of different >> well when I say that I mean there's different aspects honestly like streaming like It combines like skills I learned from like doing like color timing and stuff like that and like editing software, chroma keying, stuff like that. [snorts] >> And then like it also comb"
         }
-      ],
-      "appearance_status": "uncertain"
+      ]
+    },
+    {
+      "entity": "Liam Gray",
+      "mentions": 10,
+      "block_count": 4,
+      "first_timestamp": "36:02",
+      "last_timestamp": "01:48:03",
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "mixed",
+        "score": -0.143,
+        "positive_hits": 6,
+        "negative_hits": 8
+      },
+      "receipts": [
+        {
+          "timestamp": "36:02",
+          "excerpt": "[laughter] that's what I'm saying. >> The guy like, there you go. >> What the >> What do you want? >> If we don't get massive donos after you just dropped that, I don't know what this audience even wants for a show anymore. Well, I'll tell you this. Is >> that what it takes? >> You just went over 711 with that one. Nice work. [cheering] Did they really have"
+        },
+        {
+          "timestamp": "48:01",
+          "excerpt": ">> Yeah. >> If he like had an audience of like, I don't know, say say he had a thousand people to 1500 people watching every show, morning and night. He could probably do like 500 bucks an episode easy. He might get that naturally, but you're never going to get to >> say that have to be people that like him. >> Exactly. Exactly. And like the show and he's ne"
+        },
+        {
+          "timestamp": "01:24:01",
+          "excerpt": "understand why >> and you suddenly know now. >> You got >> I did it all along. >> I did it all. >> In here. >> Don't put me in the show with a black person. >> [laughter] >> I'm dizzy. >> Yeah, he's uh he's a piece of [ __ ] >> It's all an act. >> Stop. >> Oh, yeah. That's [laughter] [gasps] head. So, like I could do that kind of [ __ ] I do it sometimes to"
+        },
+        {
+          "timestamp": "01:36:01",
+          "excerpt": "head, bro? >> Is it the light or is he >> Oh, have you not seen his new haircut? >> Saying goodbye. >> Is he dressed like is he trying to be like a German artist? Like, hello, my name is Hans. I only wear black turtlenecks and I like to paint on walls. >> I think I think someone told him kids like that haircut. >> Can you give me like the Zoomer haircut, the"
+        }
+      ]
     },
     {
       "entity": "Ethan Van Sciver",
@@ -92,69 +88,43 @@
       "block_count": 2,
       "first_timestamp": "01:00:02",
       "last_timestamp": "01:48:03",
-      "discussion_span_seconds": 2881.9,
       "importance_guess": "secondary",
       "sentiment": {
-        "label": "positive",
-        "score": 0.897,
-        "positive_hits": 110,
-        "negative_hits": 6
-      },
-      "receipts": [
-        {
-          "timestamp": "01:00:02",
-          "excerpt": "Finally, someone who does protect and serve. >> Shut it off. His [laughter] mother is like, \"Do it. Do it. Put him out of our misery. Do it now. [laughter] >> He's rich.\" And officer, >> he's rich. >> Don't shoot him. Could you at least do me the kindness of shooting me? >> Officer, he has a gun in his diapers. He has a gun in his diaper. [laughter] >> There's no need for this. Officer, give me the gun. >> Yo, what up, John? >> Hey, wha"
-        },
-        {
-          "timestamp": "01:36:01",
-          "excerpt": "head, bro? >> Is it the light or is he >> Oh, have you not seen his new haircut? >> Saying goodbye. >> Is he dressed like is he trying to be like a German artist? Like, hello, my name is Hans. I only wear black turtlenecks and I like to paint on walls. >> I think I think someone told him kids like that haircut. >> Can you give me like the Zoomer haircut, the Jin Alpha broccoli cut bra? >> And essentially, um I just don't have the time."
-        }
-      ],
-      "appearance_status": "uncertain"
-    },
-    {
-      "entity": "Vito Gesualdi",
-      "mentions": 2,
-      "block_count": 1,
-      "first_timestamp": "01:24:01",
-      "last_timestamp": "01:36:02",
-      "discussion_span_seconds": 721.5,
-      "importance_guess": "passing",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.75,
-        "positive_hits": 56,
-        "negative_hits": 8
-      },
-      "receipts": [
-        {
-          "timestamp": "01:24:01",
-          "excerpt": "understand why >> and you suddenly know now. >> You got >> I did it all along. >> I did it all. >> In here. >> Don't put me in the show with a black person. >> [laughter] >> I'm dizzy. >> Yeah, he's uh he's a piece of [ __ ] >> It's all an act. >> Stop. >> Oh, yeah. That's [laughter] [gasps] head. So, like I could do that kind of [ __ ] I do it sometimes to be funny. I'll just hit my head on stuff like you know like when I'm like really"
-        }
-      ],
-      "appearance_status": "uncertain"
-    },
-    {
-      "entity": "Dropbox Drama",
-      "mentions": 1,
-      "block_count": 1,
-      "first_timestamp": "01:36:01",
-      "last_timestamp": "01:48:03",
-      "discussion_span_seconds": 722.8,
-      "importance_guess": "passing",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.918,
-        "positive_hits": 70,
+        "label": "mixed",
+        "score": -0.2,
+        "positive_hits": 2,
         "negative_hits": 3
       },
       "receipts": [
         {
+          "timestamp": "01:00:02",
+          "excerpt": "Finally, someone who does protect and serve. >> Shut it off. His [laughter] mother is like, \"Do it. Do it. Put him out of our misery. Do it now. [laughter] >> He's rich.\" And officer, >> he's rich. >> Don't shoot him. Could you at least do me the kindness of shooting me? >> Officer, he has a gun in his diapers. He has a gun in his diaper. [laughter] >> There"
+        },
+        {
           "timestamp": "01:36:01",
-          "excerpt": "head, bro? >> Is it the light or is he >> Oh, have you not seen his new haircut? >> Saying goodbye. >> Is he dressed like is he trying to be like a German artist? Like, hello, my name is Hans. I only wear black turtlenecks and I like to paint on walls. >> I think I think someone told him kids like that haircut. >> Can you give me like the Zoomer haircut, the Jin Alpha broccoli cut bra? >> And essentially, um I just don't have the time."
+          "excerpt": "head, bro? >> Is it the light or is he >> Oh, have you not seen his new haircut? >> Saying goodbye. >> Is he dressed like is he trying to be like a German artist? Like, hello, my name is Hans. I only wear black turtlenecks and I like to paint on walls. >> I think I think someone told him kids like that haircut. >> Can you give me like the Zoomer haircut, the"
         }
-      ],
-      "appearance_status": "uncertain"
+      ]
+    },
+    {
+      "entity": "Vito Gesualdi",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "01:24:01",
+      "last_timestamp": "01:36:02",
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5,
+        "positive_hits": 1,
+        "negative_hits": 3
+      },
+      "receipts": [
+        {
+          "timestamp": "01:24:01",
+          "excerpt": "understand why >> and you suddenly know now. >> You got >> I did it all along. >> I did it all. >> In here. >> Don't put me in the show with a black person. >> [laughter] >> I'm dizzy. >> Yeah, he's uh he's a piece of [ __ ] >> It's all an act. >> Stop. >> Oh, yeah. That's [laughter] [gasps] head. So, like I could do that kind of [ __ ] I do it sometimes to"
+        }
+      ]
     }
   ],
   "chapters": [
@@ -163,550 +133,144 @@
       "end": "12:01",
       "title": "General discussion",
       "entities": [],
-      "summary_seed": "Heat. [music] [music] [music] [music] Hey, Heat. Heat. [music] [music] [music] Hey, Heat. >> [music] [music] >> Heat. Heat. >> [music] >> Heat. [music] [music] Hey, Heat. >> [music] >> Heat. Heat. [music] >> [music] [music] [music] >> Heat. Heat. N. Heat. Heat. [music] [music] >> [music] >> Heat. Heat. >> [music] [music] >> Oh baby, your [music] praise. Jesus was a purple man living in a purple land. Snake bite to th",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "possible_clip": false,
+      "summary_seed": "Heat. [music] [music] [music] [music] Hey, Heat. Heat. [music] [music] [music] Hey, Heat. >> [music] [music] >> Heat. Heat. >> [music] >> Heat. [music] [music] Hey, Heat. >> [music] >> Heat. Heat. [music] >> [music] [music] [music] >> Heat. Heat. N. Heat. Heat. [music] [music] >> [music] >> Heat. Heat. >> [music] [music] >> Oh baby, your [music] pr"
     },
     {
       "start": "12:02",
       "end": "24:03",
-      "title": "Aaron Imholte",
-      "entities": [
-        "Aaron Imholte"
-      ],
-      "summary_seed": ">> Do you remember the poop squatch? >> No. You don't you don't remember poopy butt. >> You don't remember the poop squash? [crying] Andy ditch. He's a classic. >> He's a classic LCA. He's one that I believe JJ found >> years ago and he I think he was the very first >> very first LOL to give us a shout out. >> He complained about us. I just need to see a face. I I heard I know the name. I know what you're talking abo",
-      "clip_likelihood": false,
-      "transition_markers": 1
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": ">> Do you remember the poop squatch? >> No. You don't you don't remember poopy butt. >> You don't remember the poop squash? [crying] Andy ditch. He's a classic. >> He's a classic LCA. He's one that I believe JJ found >> years ago and he I think he was the very first >> very first LOL to give us a shout out. >> He complained about us. I just need to"
     },
     {
       "start": "24:01",
       "end": "36:02",
-      "title": "Aaron Imholte",
-      "entities": [
-        "Aaron Imholte"
-      ],
-      "summary_seed": "background is and all of that I think that translates but it's >> it's kind of different >> well when I say that I mean there's different aspects honestly like streaming like It combines like skills I learned from like doing like color timing and stuff like that and like editing software, chroma keying, stuff like that. [snorts] >> And then like it also combines like Photoshop skills. Yeah. And like audio soft. It co",
-      "clip_likelihood": false,
-      "transition_markers": 2
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "background is and all of that I think that translates but it's >> it's kind of different >> well when I say that I mean there's different aspects honestly like streaming like It combines like skills I learned from like doing like color timing and stuff like that and like editing software, chroma keying, stuff like that. [snorts] >> And then like it"
     },
     {
       "start": "36:02",
       "end": "48:03",
-      "title": "Liam Gray",
-      "entities": [
-        "Liam Gray"
-      ],
-      "summary_seed": "[laughter] that's what I'm saying. >> The guy like, there you go. >> What the >> What do you want? >> If we don't get massive donos after you just dropped that, I don't know what this audience even wants for a show anymore. Well, I'll tell you this. Is >> that what it takes? >> You just went over 711 with that one. Nice work. [cheering] Did they really have one where Bugs Bunny had the N-word on the other side of the",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "[laughter] that's what I'm saying. >> The guy like, there you go. >> What the >> What do you want? >> If we don't get massive donos after you just dropped that, I don't know what this audience even wants for a show anymore. Well, I'll tell you this. Is >> that what it takes? >> You just went over 711 with that one. Nice work. [cheering] Did they re"
     },
     {
       "start": "48:01",
       "end": "01:00:04",
-      "title": "Clip/reaction: Liam Gray",
-      "entities": [
-        "Liam Gray"
-      ],
-      "summary_seed": ">> Yeah. >> If he like had an audience of like, I don't know, say say he had a thousand people to 1500 people watching every show, morning and night. He could probably do like 500 bucks an episode easy. He might get that naturally, but you're never going to get to >> say that have to be people that like him. >> Exactly. Exactly. And like the show and he's never going to get to a thousand people doing this [ __ ] garb",
-      "clip_likelihood": true,
-      "transition_markers": 0
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": true,
+      "summary_seed": ">> Yeah. >> If he like had an audience of like, I don't know, say say he had a thousand people to 1500 people watching every show, morning and night. He could probably do like 500 bucks an episode easy. He might get that naturally, but you're never going to get to >> say that have to be people that like him. >> Exactly. Exactly. And like the show a"
     },
     {
       "start": "01:00:02",
       "end": "01:12:04",
-      "title": "Ethan Van Sciver",
-      "entities": [
-        "Ethan Van Sciver"
-      ],
-      "summary_seed": "Finally, someone who does protect and serve. >> Shut it off. His [laughter] mother is like, \"Do it. Do it. Put him out of our misery. Do it now. [laughter] >> He's rich.\" And officer, >> he's rich. >> Don't shoot him. Could you at least do me the kindness of shooting me? >> Officer, he has a gun in his diapers. He has a gun in his diaper. [laughter] >> There's no need for this. Officer, give me the gun. >> Yo, what u",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "Finally, someone who does protect and serve. >> Shut it off. His [laughter] mother is like, \"Do it. Do it. Put him out of our misery. Do it now. [laughter] >> He's rich.\" And officer, >> he's rich. >> Don't shoot him. Could you at least do me the kindness of shooting me? >> Officer, he has a gun in his diapers. He has a gun in his diaper. [laughter"
     },
     {
       "start": "01:12:00",
       "end": "01:24:03",
       "title": "General discussion",
       "entities": [],
-      "summary_seed": "this was 2020. this arrest. Did I'm guessing >> I don't know why this resurfaced now, but I was like this is the first time I'm seeing this. >> So, >> yeah. Where is Where is he now? >> Diffuser to help me relax. >> I got a billy club that'll help you relax, buddy. >> I'm being arrested. >> Hands behind your back. >> I'm being arrested. [laughter] >> Put your hands behind your back. Put your hand behind your back rig",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "possible_clip": false,
+      "summary_seed": "this was 2020. this arrest. Did I'm guessing >> I don't know why this resurfaced now, but I was like this is the first time I'm seeing this. >> So, >> yeah. Where is Where is he now? >> Diffuser to help me relax. >> I got a billy club that'll help you relax, buddy. >> I'm being arrested. >> Hands behind your back. >> I'm being arrested. [laughter]"
     },
     {
       "start": "01:24:01",
       "end": "01:36:02",
-      "title": "Liam Gray / Vito Gesualdi",
-      "entities": [
-        "Liam Gray",
-        "Vito Gesualdi"
-      ],
-      "summary_seed": "understand why >> and you suddenly know now. >> You got >> I did it all along. >> I did it all. >> In here. >> Don't put me in the show with a black person. >> [laughter] >> I'm dizzy. >> Yeah, he's uh he's a piece of [ __ ] >> It's all an act. >> Stop. >> Oh, yeah. That's [laughter] [gasps] head. So, like I could do that kind of [ __ ] I do it sometimes to be funny. I'll just hit my head on stuff like you know like",
-      "clip_likelihood": false,
-      "transition_markers": 1
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "understand why >> and you suddenly know now. >> You got >> I did it all along. >> I did it all. >> In here. >> Don't put me in the show with a black person. >> [laughter] >> I'm dizzy. >> Yeah, he's uh he's a piece of [ __ ] >> It's all an act. >> Stop. >> Oh, yeah. That's [laughter] [gasps] head. So, like I could do that kind of [ __ ] I do it som"
     },
     {
       "start": "01:36:01",
       "end": "01:48:03",
-      "title": "Liam Gray / Ethan Van Sciver / Dropbox Drama",
-      "entities": [
-        "Liam Gray",
-        "Ethan Van Sciver",
-        "Dropbox Drama"
-      ],
-      "summary_seed": "head, bro? >> Is it the light or is he >> Oh, have you not seen his new haircut? >> Saying goodbye. >> Is he dressed like is he trying to be like a German artist? Like, hello, my name is Hans. I only wear black turtlenecks and I like to paint on walls. >> I think I think someone told him kids like that haircut. >> Can you give me like the Zoomer haircut, the Jin Alpha broccoli cut bra? >> And essentially, um I just d",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "head, bro? >> Is it the light or is he >> Oh, have you not seen his new haircut? >> Saying goodbye. >> Is he dressed like is he trying to be like a German artist? Like, hello, my name is Hans. I only wear black turtlenecks and I like to paint on walls. >> I think I think someone told him kids like that haircut. >> Can you give me like the Zoomer ha"
     },
     {
       "start": "01:48:01",
       "end": "02:00:01",
-      "title": "Clip/reaction: General discussion",
+      "title": "General discussion",
       "entities": [],
-      "summary_seed": ">> Oh my god, he's he's raising a bunch of hipsters, guys. We got to [laughter] have some intervention there. >> This can't go on for for another generation. >> I mean, when I really want to challenge him, Kyle, I'll throw on some of Montreal. >> I knew that made your eyes roll [laughter] it out. >> Lovely D. >> I liked that. There's like one album from that band I liked, but I found myself in this weird position of",
-      "clip_likelihood": true,
-      "transition_markers": 1
+      "possible_clip": true,
+      "summary_seed": ">> Oh my god, he's he's raising a bunch of hipsters, guys. We got to [laughter] have some intervention there. >> This can't go on for for another generation. >> I mean, when I really want to challenge him, Kyle, I'll throw on some of Montreal. >> I knew that made your eyes roll [laughter] it out. >> Lovely D. >> I liked that. There's like one album"
     },
     {
       "start": "02:00:04",
       "end": "02:07:08",
       "title": "General discussion",
       "entities": [],
-      "summary_seed": "like No, I don't feel like it. [music] >> You know, you're making the show worse just because of your oppositional defiance disorder. >> Yeah, Kyle, you're doing this, not me. This is your fault. [laughter] >> It's my fault. Yeah, >> I skip I skip to every song >> incredibly. Like I skip all dialogue from song to song. [laughter] >> Oh my god, Tattoo Par. I didn't know those things existed. >> I do love me some uh so",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "possible_clip": false,
+      "summary_seed": "like No, I don't feel like it. [music] >> You know, you're making the show worse just because of your oppositional defiance disorder. >> Yeah, Kyle, you're doing this, not me. This is your fault. [laughter] >> It's my fault. Yeah, >> I skip I skip to every song >> incredibly. Like I skip all dialogue from song to song. [laughter] >> Oh my god, Tatt"
     }
   ],
-  "claim_candidates": [
-    {
-      "claimant": "Kyle",
-      "claim": "he might be able to do tomorrow night, but he's going to be having some oral surgery, I think, early in the day or sometime.",
-      "timestamp": "00:00",
-      "status": "opinion_or_inference",
-      "receipt": "Kyle said he might be able to do tomorrow night, but he's going to be having some oral surgery, I think, early in the day or sometime."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "we got Johnny in the house.",
-      "timestamp": "00:00",
-      "status": "opinion_or_inference",
-      "receipt": "Oh, I think we got Johnny in the house."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "JJ found",
-      "timestamp": "12:02",
-      "status": "opinion_or_inference",
-      "receipt": "He's one that I believe JJ found"
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "he was the very first",
-      "timestamp": "12:02",
-      "status": "opinion_or_inference",
-      "receipt": "years ago and he I think he was the very first"
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "what you're talking about, but I forgot.",
-      "timestamp": "12:02",
-      "status": "candidate_claim",
-      "receipt": "I know what you're talking about, but I forgot."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "for the last uh couple years, he's been living in my city.",
-      "timestamp": "12:02",
-      "status": "opinion_or_inference",
-      "receipt": "And also, I don't think he he lived south for all this time, but like I think for the last uh couple years, he's been living in my city."
-    },
-    {
-      "claimant": "You don't remember what the Bible",
-      "claim": "about casting pearls before swine.",
-      "timestamp": "12:02",
-      "status": "candidate_claim",
-      "receipt": "You don't remember what the Bible said about casting pearls before swine."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "what to do here.",
-      "timestamp": "12:02",
-      "status": "candidate_claim",
-      "receipt": "Kyle, there there's a such a thing as I call production brain where even if you you don't do the thing that like you start doing if you have an experience in any kind of video production like you're like oh no I get it I know what to do here."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "that translates but it's",
-      "timestamp": "24:01",
-      "status": "opinion_or_inference",
-      "receipt": "background is and all of that I think that translates but it's"
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "the chair microphone hybrid.",
-      "timestamp": "24:01",
-      "status": "candidate_claim",
-      "receipt": "I know the chair microphone hybrid."
-    },
-    {
-      "claimant": "I always hate when he",
-      "claim": "the golden shower thing.",
-      "timestamp": "24:01",
-      "status": "candidate_claim",
-      "receipt": "I always hate when he says the golden shower thing."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "that.",
-      "timestamp": "24:01",
-      "status": "candidate_claim",
-      "receipt": "I don't I don't even know why I know that."
-    },
-    {
-      "claimant": "Is that what your ex also",
-      "claim": "about uh Is that what you said your ex when she said where's your dildos?",
-      "timestamp": "24:01",
-      "status": "candidate_claim",
-      "receipt": "Is that what your ex also said about uh Is that what you said your ex when she said where's your dildos?"
-    },
-    {
-      "claimant": "the Lord",
-      "claim": "if you go to supertip.gg/ministry, $500 and the Lord will heal Johnny Crutches.",
-      "timestamp": "24:01",
-      "status": "candidate_claim",
-      "receipt": "Oh, the Lord said if you go to supertip.gg/ministry, $500 and the Lord will heal Johnny Crutches."
-    },
-    {
-      "claimant": "Boris mommy",
-      "claim": "he's so hard to look at.",
-      "timestamp": "24:01",
-      "status": "candidate_claim",
-      "receipt": "[laughter] [music] Boris mommy says he's so hard to look at."
-    },
-    {
-      "claimant": "It",
-      "claim": "screw ball on one side and you flip it over and it says up arrow.",
-      "timestamp": "24:01",
-      "status": "candidate_claim",
-      "receipt": "It says screw ball on one side and you flip it over and it says up arrow."
-    },
-    {
-      "claimant": "It",
-      "claim": "screw ball on one side and you flip it over and it says up arrow points.",
-      "timestamp": "24:01",
-      "status": "candidate_claim",
-      "receipt": "It says screw ball on one side and you flip it over and it says up arrow points."
-    },
-    {
-      "claimant": "you",
-      "claim": "racial slur.",
-      "timestamp": "36:02",
-      "status": "candidate_claim",
-      "receipt": "we we don't do that here we're like really accepting Oh, you said racial slur."
-    },
-    {
-      "claimant": "Grandma Boy Podcast",
-      "claim": "rsdb.org is the racial slur database.",
-      "timestamp": "36:02",
-      "status": "candidate_claim",
-      "receipt": "Grandma Boy Podcast says rsdb.org is the racial slur database."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "Aaron it it's such a you know such a tick that it became a thing.",
-      "timestamp": "36:02",
-      "status": "opinion_or_inference",
-      "receipt": "But I think Aaron it it's such a you know such a tick that it became a thing."
-    },
-    {
-      "claimant": "to that one time Johnny",
-      "claim": "the N word.",
-      "timestamp": "36:02",
-      "status": "candidate_claim",
-      "receipt": "to that one time Johnny said the N word."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "we got to wait till part four cuz",
-      "timestamp": "36:02",
-      "status": "opinion_or_inference",
-      "receipt": "I think we got to wait till part four cuz"
-    },
-    {
-      "claimant": "of bats came in the chat uh chat and",
-      "claim": "he was live right now.",
-      "timestamp": "48:01",
-      "status": "candidate_claim",
-      "receipt": "But before we get to that, since he's already done, I was going to check in series a series of bats came in the chat uh chat and said he was live right now."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "you call him an atomizer or whatever, but it's got like this [ __ ] oil [ __ ]",
-      "timestamp": "48:01",
-      "status": "opinion_or_inference",
-      "receipt": "He has I think you call him an atomizer or whatever, but it's got like this [ __ ] oil [ __ ]"
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "he's been removed from the home since all this.",
-      "timestamp": "48:01",
-      "status": "opinion_or_inference",
-      "receipt": "I think he's been removed from the home since all this."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "a lot of you people out there probably don't watch JJ.",
-      "timestamp": "01:00:02",
-      "status": "candidate_claim",
-      "receipt": "Okay, so for I know a lot of you people out there probably don't watch JJ."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "it was because he was into like the diaper place stuff.",
-      "timestamp": "01:00:02",
-      "status": "opinion_or_inference",
-      "receipt": "Um, Andrew Ditch used to be a general manager of a Burger King and then one day he started to decide he I think it was because he was into like the diaper place stuff."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "I cuz this was like peak weed consumption for me this period.",
-      "timestamp": "01:00:02",
-      "status": "opinion_or_inference",
-      "receipt": "I think I cuz this was like peak weed consumption for me this period."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "one of the I think one of the few things that we did for me was erase this memories.",
-      "timestamp": "01:00:02",
-      "status": "opinion_or_inference",
-      "receipt": "I have flashes of this era, but I think one of the I think one of the few things that we did for me was erase this memories."
-    },
-    {
-      "claimant": "Stevie J",
-      "claim": "two flat screens is such a flex though, unless one of them doesn't function and they just didn't get rid of it",
-      "timestamp": "01:00:02",
-      "status": "candidate_claim",
-      "receipt": "Stevie J says two flat screens is such a flex though, unless one of them doesn't function and they just didn't get rid of it"
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "I know you guys already have a big tax burden.",
-      "timestamp": "01:00:02",
-      "status": "candidate_claim",
-      "receipt": "I know I know you guys already have a big tax burden."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "he was like in some sort of group home.",
-      "timestamp": "01:00:02",
-      "status": "hearsay_candidate",
-      "receipt": "Like, I heard he was like in some sort of group home."
-    },
-    {
-      "claimant": "Uh he JJ",
-      "claim": "the government pays for a twobedroom.",
-      "timestamp": "01:12:00",
-      "status": "candidate_claim",
-      "receipt": "Uh he JJ says the government pays for a twobedroom."
-    },
-    {
-      "claimant": "God",
-      "claim": "Janet, it's time for you to hit the showers.",
-      "timestamp": "01:12:00",
-      "status": "candidate_claim",
-      "receipt": "God said Janet, it's time for you to hit the showers."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "that's what it's Yeah.",
-      "timestamp": "01:12:00",
-      "status": "opinion_or_inference",
-      "receipt": "I think that's what it's Yeah."
-    },
-    {
-      "claimant": "Steve J",
-      "claim": "his ticks are obviously calculated.",
-      "timestamp": "01:12:00",
-      "status": "candidate_claim",
-      "receipt": "Steve J says his ticks are obviously calculated."
-    },
-    {
-      "claimant": "JJ",
-      "claim": "I literally have a drum kit on my Steam deck or stream deck that is his head hitting things.",
-      "timestamp": "01:12:00",
-      "status": "candidate_claim",
-      "receipt": "JJ says I literally have a drum kit on my Steam deck or stream deck that is his head hitting things."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "it's pretty much dead now, is it?",
-      "timestamp": "01:12:00",
-      "status": "opinion_or_inference",
-      "receipt": "And I think it's pretty much dead now, is it?"
-    },
-    {
-      "claimant": "um TripleN",
-      "claim": "who gets to be Strong Bad?",
-      "timestamp": "01:12:00",
-      "status": "candidate_claim",
-      "receipt": "um TripleN says who gets to be Strong Bad?"
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "I think Kyle is saying you you you put your your PP in in guys PP.",
-      "timestamp": "01:12:00",
-      "status": "opinion_or_inference",
-      "receipt": "Till I think I think Kyle is saying you you you put your your PP in in guys PP."
-    },
-    {
-      "claimant": "turn around the other side and it",
-      "claim": "the N word.",
-      "timestamp": "01:12:00",
-      "status": "candidate_claim",
-      "receipt": "Hey, turn around the other side and it says the N word."
-    }
-  ],
+  "claim_candidates": [],
   "quote_candidates": [
     {
       "timestamp": "00:00",
       "text": "I got fired for all [music] my lies and sexual assault.",
-      "significance_score": 2
+      "subjects": [],
+      "significance_score": 1
     },
     {
-      "timestamp": "36:02",
-      "text": "uh by the time the clock strikes 9:30.",
-      "significance_score": 2
+      "timestamp": "01:24:01",
+      "text": "And it's looking like there's going to be additional legislation and legal action that's going to need",
+      "subjects": [],
+      "significance_score": 1
     },
     {
       "timestamp": "01:36:01",
       "text": "So uh for those of you that are like trying to keep up with like uh with the uh with the old with the strike wars, Liam's Liam's oneman war on the on the worm men.",
-      "significance_score": 2
-    },
-    {
-      "timestamp": "12:02",
-      "text": "I'll always be smug as [ __ ] if somebody gives me $500.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "24:01",
-      "text": "I always hate when he says the golden shower thing.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "36:02",
-      "text": "you know this is a question I've never asked you what's some some Brazilian Portuguese racial slurs",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "48:01",
-      "text": "He might get that naturally, but you're never going to get to",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "48:01",
-      "text": "And like the show and he's never going to get to a thousand people doing this [ __ ] garbage.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "48:01",
-      "text": "and the thing probably has has never has the filter changed and all that.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "01:24:01",
-      "text": "Why do they never put a prepositional fa phrase in front of words like the like we're going to the hospital?",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "01:24:01",
-      "text": "They're always like we're going to hospital.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "01:48:01",
-      "text": "You're never going to watch this again.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "01:48:01",
-      "text": "People always say that and they never watch it again.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "01:48:01",
-      "text": "You know, Scarlet, you know, she's always yapping, so you can go anywhere.",
+      "subjects": [],
       "significance_score": 1
     }
   ],
-  "relationship_signals": [
+  "relationship_signals": [],
+  "story_matches": [
     {
-      "left": "Liam Gray",
-      "right": "Vito Gesualdi",
-      "signal_type": "defended",
-      "timestamp": "01:24:01",
-      "confidence": 0.45,
-      "receipt": "understand why >> and you suddenly know now. >> You got >> I did it all along. >> I did it all. >> In here. >> Don't put me in the show with a black person. >> [laughter] >> I'm dizzy. >> Yeah, he's uh he's a piece of [ __ ] >> It's all an act. >> Stop. >> Oh, yeah. That's [laughter] [gasps] head. So, like I could do that kind of [ __ ] I do it sometimes to be funny. I'll just hit my head on stuff like you know like when I'm like really",
-      "warning": "co-mention plus language signal; requires interpretation"
+      "story_id": "steel-toe-hro",
+      "title": "Steel Toe HRO",
+      "score": 0.667
     },
     {
-      "left": "Liam Gray",
-      "right": "Vito Gesualdi",
-      "signal_type": "criticised",
-      "timestamp": "01:24:01",
-      "confidence": 0.45,
-      "receipt": "understand why >> and you suddenly know now. >> You got >> I did it all along. >> I did it all. >> In here. >> Don't put me in the show with a black person. >> [laughter] >> I'm dizzy. >> Yeah, he's uh he's a piece of [ __ ] >> It's all an act. >> Stop. >> Oh, yeah. That's [laughter] [gasps] head. So, like I could do that kind of [ __ ] I do it sometimes to be funny. I'll just hit my head on stuff like you know like when I'm like really",
-      "warning": "co-mention plus language signal; requires interpretation"
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.5
     },
     {
-      "left": "Liam Gray",
-      "right": "Vito Gesualdi",
-      "signal_type": "collaborated",
-      "timestamp": "01:24:01",
-      "confidence": 0.45,
-      "receipt": "understand why >> and you suddenly know now. >> You got >> I did it all along. >> I did it all. >> In here. >> Don't put me in the show with a black person. >> [laughter] >> I'm dizzy. >> Yeah, he's uh he's a piece of [ __ ] >> It's all an act. >> Stop. >> Oh, yeah. That's [laughter] [gasps] head. So, like I could do that kind of [ __ ] I do it sometimes to be funny. I'll just hit my head on stuff like you know like when I'm like really",
-      "warning": "co-mention plus language signal; requires interpretation"
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.5
     },
     {
-      "left": "Liam Gray",
-      "right": "Vito Gesualdi",
-      "signal_type": "legal_conflict",
-      "timestamp": "01:24:01",
-      "confidence": 0.45,
-      "receipt": "understand why >> and you suddenly know now. >> You got >> I did it all along. >> I did it all. >> In here. >> Don't put me in the show with a black person. >> [laughter] >> I'm dizzy. >> Yeah, he's uh he's a piece of [ __ ] >> It's all an act. >> Stop. >> Oh, yeah. That's [laughter] [gasps] head. So, like I could do that kind of [ __ ] I do it sometimes to be funny. I'll just hit my head on stuff like you know like when I'm like really",
-      "warning": "co-mention plus language signal; requires interpretation"
+      "story_id": "nick-rekieta-reputation-fallout",
+      "title": "Nick Rekieta reputation and downfall coverage",
+      "score": 0.5
     },
     {
-      "left": "Liam Gray",
-      "right": "Ethan Van Sciver",
-      "signal_type": "legal_conflict",
-      "timestamp": "01:36:01",
-      "confidence": 0.45,
-      "receipt": "head, bro? >> Is it the light or is he >> Oh, have you not seen his new haircut? >> Saying goodbye. >> Is he dressed like is he trying to be like a German artist? Like, hello, my name is Hans. I only wear black turtlenecks and I like to paint on walls. >> I think I think someone told him kids like that haircut. >> Can you give me like the Zoomer haircut, the Jin Alpha broccoli cut bra? >> And essentially, um I just don't have the time.",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
-      "right": "Dropbox Drama",
-      "signal_type": "legal_conflict",
-      "timestamp": "01:36:01",
-      "confidence": 0.45,
-      "receipt": "head, bro? >> Is it the light or is he >> Oh, have you not seen his new haircut? >> Saying goodbye. >> Is he dressed like is he trying to be like a German artist? Like, hello, my name is Hans. I only wear black turtlenecks and I like to paint on walls. >> I think I think someone told him kids like that haircut. >> Can you give me like the Zoomer haircut, the Jin Alpha broccoli cut bra? >> And essentially, um I just don't have the time.",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Ethan Van Sciver",
-      "right": "Dropbox Drama",
-      "signal_type": "legal_conflict",
-      "timestamp": "01:36:01",
-      "confidence": 0.45,
-      "receipt": "head, bro? >> Is it the light or is he >> Oh, have you not seen his new haircut? >> Saying goodbye. >> Is he dressed like is he trying to be like a German artist? Like, hello, my name is Hans. I only wear black turtlenecks and I like to paint on walls. >> I think I think someone told him kids like that haircut. >> Can you give me like the Zoomer haircut, the Jin Alpha broccoli cut bra? >> And essentially, um I just don't have the time.",
-      "warning": "co-mention plus language signal; requires interpretation"
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "score": 0.429
     }
   ],
-  "story_matches": [],
+  "review_priority": 52,
   "uncertainty_flags": [
-    "speaker identity may be unknown",
+    "speaker attribution may be unknown",
     "clip voices may be mistaken for live participants",
-    "sentiment lexicon does not reliably detect sarcasm",
-    "relationship signals are candidates, not declarations",
-    "claims are not verified facts"
+    "sentiment lexicon cannot reliably detect sarcasm",
+    "claims and relationship signals remain candidates"
   ]
 }

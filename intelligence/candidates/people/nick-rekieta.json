@@ -1,0 +1,233 @@
+{
+  "entity_id": "nick-rekieta",
+  "name": "Nick Rekieta",
+  "appearance_candidates": [],
+  "discussions": [
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "title": "The Ark Of Leem, LDA-King Stream",
+      "source": "FFS Cast",
+      "importance": "passing",
+      "mentions": 1,
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.273,
+        "positive_hits": 7,
+        "negative_hits": 4
+      },
+      "receipts": [
+        {
+          "timestamp": "48:01",
+          "excerpt": "Number three, two different worlds. Number four, the man of the house. Number five, feeding Liam. We uh read read that [snorts] portion. Number six, legend in the making. Number seven, punished for asking why. Number eight, The Distance Between Us. Number nine, Stabbed and Still Smiling. Number 10, The School Incident. Number 11, Drawing Escape. Number 12, O"
+        }
+      ]
+    },
+    {
+      "video_id": "RxZ_OdBN2f0",
+      "title": "Katydid Caught LYING AGAIN! - Detractor Kings",
+      "source": "Frog Tony",
+      "importance": "passing",
+      "mentions": 1,
+      "sentiment": {
+        "label": "mixed",
+        "score": -0.231,
+        "positive_hits": 5,
+        "negative_hits": 8
+      },
+      "receipts": [
+        {
+          "timestamp": "24:01",
+          "excerpt": "a single god damn comics gate stream. What Katie did >> man I hate her name because like what Katie did did what Katie did did what she done did is uh >> Katie done she was watching Nick Ricada. She was watching uh Eric July Yellow Flash because you know the weeb wars [ __ ] right? So she was watching the weeb wars [ __ ] and all the [ __ ] >> What the hell?"
+        }
+      ]
+    },
+    {
+      "video_id": "N52SC2cLnvY",
+      "title": "TRASHCAST # 267 BIGGEST PROBLEM was insane. Vito is a outta control. I pity him.",
+      "source": "Ethan Van Sciver",
+      "importance": "passing",
+      "mentions": 1,
+      "sentiment": {
+        "label": "mixed",
+        "score": -0.2,
+        "positive_hits": 2,
+        "negative_hits": 3
+      },
+      "receipts": [
+        {
+          "timestamp": "00:01",
+          "excerpt": "Welcome to 5XL FM where a trash flows. [music] [music] [music] Yo everybody, how are you? Ethan Van Skyber here on the Trash Cash Show. Late night tonight. Sorry about that. I was just stuck watching uh Dick Mastersonson and Veto [music] basically end they just ended their professional relationship on Biggest Problem in the Universe. And I I couldn't stop wa"
+        }
+      ]
+    },
+    {
+      "video_id": "Uf6bzqxJAAk",
+      "title": "TRASHCAST #265: The Khola King & Ethan Van Sciver Exchange",
+      "source": "KatyDid",
+      "importance": "secondary",
+      "mentions": 3,
+      "sentiment": {
+        "label": "negative",
+        "score": -0.8,
+        "positive_hits": 1,
+        "negative_hits": 9
+      },
+      "receipts": [
+        {
+          "timestamp": "12:01",
+          "excerpt": "beyond shit. Your behavior's been ridiculous. You're like people are trying to drag me back to that moment. People just wanted you to go away. You know, I mean you're you're you're threatening to strike channels, taking people's channels down. You're saying, you know, that didn't lack. It didn't lack. Just that's how I'm going to I'm going to try this. Just"
+        }
+      ]
+    },
+    {
+      "video_id": "xoq_kc-M_I8",
+      "title": "MATI: The Rekieta Segment - Nontent Skelly’s Daily Mail Article (Jul 10, 2026)",
+      "source": "Elissa Clips",
+      "importance": "secondary",
+      "mentions": 4,
+      "sentiment": {
+        "label": "unclear",
+        "score": 0.0,
+        "positive_hits": 0,
+        "negative_hits": 0
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "sary of the United States in the capital. Uh possibly looking for a place to score weed and black girls. And while they were out cruising around, um the man in the pickle suit saw Nick Rekieta uh with his family and was nice enough, kind enough to censor um the children from the photo, but sure enough he was there in DC, which left people wondering, \"Why is Nick Rekieta"
+        }
+      ]
+    },
+    {
+      "video_id": "YJ3EPWpShMU",
+      "title": "Rekieta Law: Aaron Imholte’s HRO Won’t Last Forever & the Daily Mail Article (Jul 10, 2026)",
+      "source": "Elissa Clips",
+      "importance": "secondary",
+      "mentions": 3,
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.0,
+        "positive_hits": 2,
+        "negative_hits": 2
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "Hey, what's up guys? Welcome to Law Explaining the Interwebs. I am your host Nick Rekieta of Rekieta Law, a small law firm in Central Minnesota. That is where I'm from. It does not necessarily mean that it's still open. It just means that's where I'm from. Just in case"
+        }
+      ]
+    }
+  ],
+  "claim_candidates": [],
+  "relationship_candidates": [],
+  "story_candidates": [
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 1.0
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.8
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.5
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "story_id": "thequartering-coffee-business-scrutiny",
+      "title": "TheQuartering coffee-business scrutiny and expansion",
+      "score": 0.5
+    },
+    {
+      "video_id": "RxZ_OdBN2f0",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.833
+    },
+    {
+      "video_id": "RxZ_OdBN2f0",
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.8
+    },
+    {
+      "video_id": "RxZ_OdBN2f0",
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.5
+    },
+    {
+      "video_id": "RxZ_OdBN2f0",
+      "story_id": "nick-rekieta-reputation-fallout",
+      "title": "Nick Rekieta reputation and downfall coverage",
+      "score": 0.5
+    },
+    {
+      "video_id": "RxZ_OdBN2f0",
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "score": 0.429
+    },
+    {
+      "video_id": "N52SC2cLnvY",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.833
+    },
+    {
+      "video_id": "N52SC2cLnvY",
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.75
+    },
+    {
+      "video_id": "N52SC2cLnvY",
+      "story_id": "nick-rekieta-reputation-fallout",
+      "title": "Nick Rekieta reputation and downfall coverage",
+      "score": 0.667
+    },
+    {
+      "video_id": "N52SC2cLnvY",
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.6
+    },
+    {
+      "video_id": "N52SC2cLnvY",
+      "story_id": "thequartering-coffee-business-scrutiny",
+      "title": "TheQuartering coffee-business scrutiny and expansion",
+      "score": 0.5
+    },
+    {
+      "video_id": "Uf6bzqxJAAk",
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.5
+    },
+    {
+      "video_id": "xoq_kc-M_I8",
+      "story_id": "steel-toe-hro",
+      "title": "Steel Toe HRO",
+      "score": 0.667
+    },
+    {
+      "video_id": "xoq_kc-M_I8",
+      "story_id": "nick-rekieta-reputation-fallout",
+      "title": "Nick Rekieta reputation and downfall coverage",
+      "score": 0.5
+    },
+    {
+      "video_id": "YJ3EPWpShMU",
+      "story_id": "nick-rekieta-reputation-fallout",
+      "title": "Nick Rekieta reputation and downfall coverage",
+      "score": 0.667
+    }
+  ]
+}

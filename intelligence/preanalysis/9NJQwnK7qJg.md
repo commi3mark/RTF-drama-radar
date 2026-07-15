@@ -2,45 +2,28 @@
 
 - **Video ID:** `9NJQwnK7qJg`
 - **Source:** Elissa Clips
-- **Published:** 2026-07-13T02:56:01+00:00
-- **Generated:** 2026-07-15T21:04:18.040822+00:00
+- **Review priority:** 11/100
 
-## Likely participants
+## Participant candidates
 
-- **Elissa Clips** — host_or_channel_identity; confidence 72%; packet source/channel identity
+- **Elissa Clips** — host_or_channel_identity (75%)
 
-## Subjects and sentiment receipts
+## Subjects
 
-### TheQuartering
+- **TheQuartering** — secondary; 7 mentions; positive
 
-- Importance: **major**
-- Mentions: **8** across **1** blocks
-- Span: 00:00–03:24
-- Sentiment guess: **positive** (+1.000)
+## Strong claim candidates
 
-- **00:00:** ANDRE CR WITH A 10,000. BEARDO, did you fit in the mobility scooter? I understood that joke. Thank you for the >> It's a Quartering joke. Uh thank you for the $10,000, Andre CR. Shout out. Uh Justin Alabaño, what happened? >> What happened, Jeremy? >> Nothing. All the [ __ ] Quartering memes I've been seeing is [ __ ] great. >> guys hear what happened? >> I mean, I heard he had an injury or something like that. >> He blew out his knee.
+_None passed the strong filter._
 
-## Topic map
+## Quote candidates
 
-- **00:00–03:24** — TheQuartering
+_None passed the strong filter._
 
-## Claim candidates
+## Relationship candidates
 
-- **00:00 — unknown speaker:** he had an injury or something like that. _[hearsay_candidate]_
-- **00:00 — So he he:** new Quartering stream uh rig just dropped. _[candidate_claim]_
+_None passed the filter._
 
 ## Story matches
 
-_No existing story match crossed the threshold._
-
-## Relationship signals
-
-_No relationship-language candidates detected._
-
-## Uncertainty flags
-
-- speaker identity may be unknown
-- clip voices may be mistaken for live participants
-- sentiment lexicon does not reliably detect sarcasm
-- relationship signals are candidates, not declarations
-- claims are not verified facts
+- **Shane Davis — Back Me Bro launch** — 0.500

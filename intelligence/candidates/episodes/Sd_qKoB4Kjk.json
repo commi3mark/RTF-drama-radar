@@ -1,0 +1,201 @@
+{
+  "schema_version": "octopuss-candidate-episode-v0.1",
+  "video_id": "Sd_qKoB4Kjk",
+  "title": "Under New Management",
+  "source": "Liam Gray",
+  "published": "2026-07-09T02:57:16+00:00",
+  "review_priority": 28,
+  "participant_candidates": [
+    {
+      "entity": "Liam Gray",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Liam Gray",
+      "mentions": 10,
+      "block_count": 2,
+      "first_timestamp": "00:05",
+      "last_timestamp": "20:27",
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.6,
+        "positive_hits": 1,
+        "negative_hits": 4
+      },
+      "receipts": [
+        {
+          "timestamp": "00:05",
+          "excerpt": "[snorts] Hello. I'm having a few hardware issues, guys. Sorry I'm a little bit late. Um, I'm running I'm running this show just through YouTube at the moment because my hardware encoder is not working. So, I can't go on any uh Streamyards or anything like that. That's real pain. How are we this evening? We have a few people in the chat already. Only 64 says,"
+        },
+        {
+          "timestamp": "12:00",
+          "excerpt": "Perth comic says, \"When is Titan God King coming out?\" That's not the name of my book. That was just a name place placeholder. That was just a name placeholder. Um, I really, really, really, really want to get it out this year. Um, I really appreciate that people are being very patient and that I haven't really shown anything from the book and that I've been"
+        }
+      ]
+    },
+    {
+      "entity": "Ethan Van Sciver",
+      "mentions": 3,
+      "block_count": 3,
+      "first_timestamp": "00:05",
+      "last_timestamp": "01:24:51",
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.6,
+        "positive_hits": 1,
+        "negative_hits": 4
+      },
+      "receipts": [
+        {
+          "timestamp": "00:05",
+          "excerpt": "[snorts] Hello. I'm having a few hardware issues, guys. Sorry I'm a little bit late. Um, I'm running I'm running this show just through YouTube at the moment because my hardware encoder is not working. So, I can't go on any uh Streamyards or anything like that. That's real pain. How are we this evening? We have a few people in the chat already. Only 64 says,"
+        },
+        {
+          "timestamp": "24:58",
+          "excerpt": "All right. Am I back? Holy [ __ ] I had to click so many buttons. Um, yes. Back. Holy [ __ ] You wouldn't believe how many buttons I had to press. Yeah. Uh, kicked me off my audio. I'm telling you, YouTube's having some hardware problems. Still muted. [ __ ] It says I got a green bar here. Are you sure I'm muted? Oh, you can hear me. You [ __ ] You [ __ ] I"
+        },
+        {
+          "timestamp": "01:24:02",
+          "excerpt": "The next show will be an O show on this channel and uh the link will be in the chat so everyone get your questions ready. We're going to have a grievance hour at some stage and everyone can come and express their grievances to me, about me, about Liam. Generally, it would be about Ethan. Um, yeah. And then you can tell me some uh pleasant things you're doing"
+        }
+      ]
+    },
+    {
+      "entity": "Chrissie Mayr",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "01:12:02",
+      "last_timestamp": "01:24:05",
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "positive_hits": 1,
+        "negative_hits": 0
+      },
+      "receipts": [
+        {
+          "timestamp": "01:12:02",
+          "excerpt": "yeah, that's really what I'm waiting for now. Uh, Brother Gay says, \"It's a good thing you took well Red's wrench before you launched your book, or he would have refunded you.\" He would have refunded me and taken me to court for littering. Let freedom ring. Bzos had a nice rocket explosion. Yeah, that was all right. That was all right, wasn't it? China just"
+        }
+      ]
+    },
+    {
+      "entity": "Friday Night Tights",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "01:12:02",
+      "last_timestamp": "01:24:05",
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "positive_hits": 1,
+        "negative_hits": 0
+      },
+      "receipts": [
+        {
+          "timestamp": "01:12:02",
+          "excerpt": "am in a minute. No. Come on, type it out quick. Is there a uh a topic you would like for the show as well? Should I put a poll up? What do you want to talk about? Chrissy May. Um, Friday Night Tights. Perth comics says, \"Will Liam ever reclaim his royal throne?\" The Dunny. He'll be in the Dunny. He'll begin his dunny working on Wonder Island with his Liam print face printed to"
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:05",
+      "end": "11:50",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "[snorts] Hello. I'm having a few hardware issues, guys. Sorry I'm a little bit late. Um, I'm running I'm running this show just through YouTube at the moment because my hardware encoder is not working. So, I can't go on any uh Streamyards or anything like that. That's real pain. How are we this evening? We have a few people in the chat already. Onl"
+    },
+    {
+      "start": "12:00",
+      "end": "20:27",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "Perth comic says, \"When is Titan God King coming out?\" That's not the name of my book. That was just a name place placeholder. That was just a name placeholder. Um, I really, really, really, really want to get it out this year. Um, I really appreciate that people are being very patient and that I haven't really shown anything from the book and that"
+    },
+    {
+      "start": "24:58",
+      "end": "35:59",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "All right. Am I back? Holy [ __ ] I had to click so many buttons. Um, yes. Back. Holy [ __ ] You wouldn't believe how many buttons I had to press. Yeah. Uh, kicked me off my audio. I'm telling you, YouTube's having some hardware problems. Still muted. [ __ ] It says I got a green bar here. Are you sure I'm muted? Oh, you can hear me. You [ __ ] You"
+    },
+    {
+      "start": "36:08",
+      "end": "48:05",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "window. All right. Do I even want to share that? No, I don't really just ignore that. [clears throat] Uh the allseeing in says you can edit away the numbers at the end. It just has to be unique. I used to have numbers too. Just hit the [ __ ] button. Hit the like. Yeah, you can hit the like if you like. It doesn't really bother me. [snorts] Hit the"
+    },
+    {
+      "start": "48:02",
+      "end": "01:00:02",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "in the background. Um but yeah, I just came on to introduce myself to those that don't know me and just let you know that Liam is gone and that this is my channel now and that um I just wanted to know whether you guys were happy to do an Oz show on here and the general consensus seems to be yes. Um, as long as I allow people that Liam is upset with"
+    },
+    {
+      "start": "01:00:04",
+      "end": "01:12:04",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "The Gawk Turks [snorts] famous for their milking. I think World Red's gone. Well, Red is crying into the free cup of water at the coffee shop. He is stealing Wi-Fi from [laughter] Oh, you know what? Um Oh, this is fine. Yeah, now that I've drenched him u because I've made him invisible to me. Um I can't see any of his any of his chats in the chat."
+    },
+    {
+      "start": "01:12:02",
+      "end": "01:24:05",
+      "title": "Friday Night Tights",
+      "entities": [
+        "Friday Night Tights"
+      ],
+      "possible_clip": false,
+      "summary_seed": "yeah, that's really what I'm waiting for now. Uh, Brother Gay says, \"It's a good thing you took well Red's wrench before you launched your book, or he would have refunded you.\" He would have refunded me and taken me to court for littering. Let freedom ring. Bzos had a nice rocket explosion. Yeah, that was all right. That was all right, wasn't it? C"
+    },
+    {
+      "start": "01:24:02",
+      "end": "01:24:51",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "The next show will be an O show on this channel and uh the link will be in the chat so everyone get your questions ready. We're going to have a grievance hour at some stage and everyone can come and express their grievances to me, about me, about Liam. Generally, it would be about Ethan. Um, yeah. And then you can tell me some uh pleasant things yo"
+    }
+  ],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "story_matches": [
+    {
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "score": 0.571
+    },
+    {
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.5
+    }
+  ],
+  "uncertainty_flags": [
+    "speaker attribution may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon cannot reliably detect sarcasm",
+    "claims and relationship signals remain candidates"
+  ]
+}

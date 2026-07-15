@@ -1,6 +1,6 @@
 {
-  "schema_version": "octopuss-preanalysis-v0.1",
-  "generated_at": "2026-07-15T21:04:20.471223+00:00",
+  "schema_version": "octopuss-preanalysis-v0.2",
+  "generated_at": "2026-07-15T21:17:14.161655+00:00",
   "video_id": "STNCdSrYxEc",
   "title": "Are People ACTUALLY Tired of \"Wokeness?\"",
   "source": "Eric July",
@@ -19,7 +19,7 @@
     {
       "entity": "Eric July",
       "role_guess": "host_or_channel_identity",
-      "confidence": 0.72,
+      "confidence": 0.75,
       "signals": [
         "packet source/channel identity"
       ]
@@ -32,102 +32,19 @@
       "end": "08:17",
       "title": "General discussion",
       "entities": [],
-      "summary_seed": "Are people tired of wokeness? It's a really It's a >> [music] >> deep question. And before we get into the answer, I think that we need to start [music] from the beginning. Otherwise, we end up talking right past each other. Oddly enough, [music] the term wokeness or woke, it did not originate from [music] people that are involved in this culture war. It's more so used as a term for someone that is seeing beyond what",
-      "clip_likelihood": false,
-      "transition_markers": 1
+      "possible_clip": false,
+      "summary_seed": "Are people tired of wokeness? It's a really It's a >> [music] >> deep question. And before we get into the answer, I think that we need to start [music] from the beginning. Otherwise, we end up talking right past each other. Oddly enough, [music] the term wokeness or woke, it did not originate from [music] people that are involved in this culture w"
     }
   ],
-  "claim_candidates": [
-    {
-      "claimant": "unknown speaker",
-      "claim": "that we need to start [music] from the beginning.",
-      "timestamp": "00:00",
-      "status": "opinion_or_inference",
-      "receipt": "And before we get into the answer, I think that we need to start [music] from the beginning."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "we should start there, especially in uh relation to entertainment.",
-      "timestamp": "00:00",
-      "status": "opinion_or_inference",
-      "receipt": "So, I think we should start there, especially in uh relation to entertainment."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "the largest body of people would define [music] it in this way.",
-      "timestamp": "00:00",
-      "status": "opinion_or_inference",
-      "receipt": "discussing the people that are against wokeness, I think the largest body of people would define [music] it in this way."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "most people would rather do that.",
-      "timestamp": "00:00",
-      "status": "opinion_or_inference",
-      "receipt": "I think most people would rather do that."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "people have grown exhausted of the conversation wanting to move on, but they haven't got that outlet.",
-      "timestamp": "00:00",
-      "status": "opinion_or_inference",
-      "receipt": "And I think people have grown exhausted of the conversation wanting to move on, but they haven't got that outlet."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "there's improvement there where people that are out there that see what's happening out there and maybe it's in mainstream industries.",
-      "timestamp": "00:00",
-      "status": "opinion_or_inference",
-      "receipt": "I think there's improvement there where people that are out there that see what's happening out there and maybe it's in mainstream industries."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "there's improvements to be made there as well.",
-      "timestamp": "00:00",
-      "status": "opinion_or_inference",
-      "receipt": "I think there's improvements to be made there as well."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "if that never happened and people just listened to what they were noticing",
-      "timestamp": "00:00",
-      "status": "opinion_or_inference",
-      "receipt": "And I think if that never happened and people just listened to what they were noticing"
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "if that happens, this never happens.",
-      "timestamp": "00:00",
-      "status": "opinion_or_inference",
-      "receipt": "I think if that happens, this never happens."
-    },
-    {
-      "claimant": "But as I",
-      "claim": "it's not contradictory if someone is like I am pointing this out.",
-      "timestamp": "00:00",
-      "status": "candidate_claim",
-      "receipt": "But as I said it's not contradictory if someone is like I am pointing this out."
-    }
-  ],
-  "quote_candidates": [
-    {
-      "timestamp": "00:00",
-      "text": "And I think if that never happened and people just listened to what they were noticing",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "00:00",
-      "text": "I think if that happens, this never happens.",
-      "significance_score": 1
-    }
-  ],
+  "claim_candidates": [],
+  "quote_candidates": [],
   "relationship_signals": [],
   "story_matches": [],
+  "review_priority": 0,
   "uncertainty_flags": [
-    "speaker identity may be unknown",
+    "speaker attribution may be unknown",
     "clip voices may be mistaken for live participants",
-    "sentiment lexicon does not reliably detect sarcasm",
-    "relationship signals are candidates, not declarations",
-    "claims are not verified facts"
+    "sentiment lexicon cannot reliably detect sarcasm",
+    "claims and relationship signals remain candidates"
   ]
 }

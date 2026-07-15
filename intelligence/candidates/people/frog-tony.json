@@ -1,0 +1,2375 @@
+{
+  "entity_id": "frog-tony",
+  "name": "Frog Tony",
+  "appearance_candidates": [
+    {
+      "video_id": "VBJwPPZ1LeY",
+      "title": "Sturgis Went To Japan On Thirsty Thursday!",
+      "source": "Frog Tony",
+      "entity": "Frog Tony",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    },
+    {
+      "video_id": "RxZ_OdBN2f0",
+      "title": "Katydid Caught LYING AGAIN! - Detractor Kings",
+      "source": "Frog Tony",
+      "entity": "Frog Tony",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    },
+    {
+      "video_id": "MOQPFnHJYR0",
+      "title": "Cynic Got CATFISHED And EVS Continues To SPIRAL On Thirsty Thursday!",
+      "source": "Frog Tony",
+      "entity": "Frog Tony",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    },
+    {
+      "video_id": "6GIxuFOICAI",
+      "title": "Catching Up With The Rippaverse! - Detractor Kings",
+      "source": "Frog Tony",
+      "entity": "Frog Tony",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    },
+    {
+      "video_id": "7LMz5W0-mLs",
+      "title": "Finbarr STOMPS A Dwarf! - OPEN PANEL MADHOUSE!!!!",
+      "source": "Frog Tony",
+      "entity": "Frog Tony",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    },
+    {
+      "video_id": "qLcrzaJJKiQ",
+      "title": "Supergirl BOMBED! - Comicsgate Suburbs",
+      "source": "Frog Tony",
+      "entity": "Frog Tony",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    },
+    {
+      "video_id": "lYws0Rqt8Bs",
+      "title": "Supergirl BOMBS And Might END The DCU! - CG Suburbs",
+      "source": "Frog Tony",
+      "entity": "Frog Tony",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    },
+    {
+      "video_id": "odC_ijF0FE4",
+      "title": "JCW Lunacy #89 Watch Party",
+      "source": "Frog Tony",
+      "entity": "Frog Tony",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    },
+    {
+      "video_id": "F1ouqRPhAdM",
+      "title": "JCW Lunacy #88 Watch Party!",
+      "source": "Frog Tony",
+      "entity": "Frog Tony",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    },
+    {
+      "video_id": "9OJNBEVnTBk",
+      "title": "JCW Lunacy #90 Watch Party",
+      "source": "Frog Tony",
+      "entity": "Frog Tony",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "discussions": [
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "title": "Gabbing With Ga......You know",
+      "source": "FFS Cast",
+      "importance": "major",
+      "mentions": 10,
+      "sentiment": {
+        "label": "negative",
+        "score": -0.538,
+        "positive_hits": 3,
+        "negative_hits": 10
+      },
+      "receipts": [
+        {
+          "timestamp": "00:03",
+          "excerpt": "h cynic there are many fs slurs. Yeah, that's true. Um, they wanted to start they wanted to act like this. All of this started because I posted a funny meme on my alt account with Frog Tony as Job of the Hut and then uh, you know, Finn Bar Saunders as Slave Lead. Like that's where it all that's where it all started. OF COURSE, LIKE that's what that's worth doing all"
+        },
+        {
+          "timestamp": "12:01",
+          "excerpt": "f you guys do. The fact that you struck Katie, the fact that you cheered on striking Katie, the fact that uh Liam Gray was told, \"Hey, stop striking people.\" And then uh you know, Frog Tony went on there and was like, \"No, don't listen to that great advice. LISTEN TO ME.\" And then you got to remember though, it was just a week ago. Just a [ __ ] week ago, Frog Tony w"
+        }
+      ]
+    },
+    {
+      "video_id": "LS_14uOaG2E",
+      "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "source": "Ethan Van Sciver",
+      "importance": "major",
+      "mentions": 6,
+      "sentiment": {
+        "label": "positive",
+        "score": 0.814,
+        "positive_hits": 39,
+        "negative_hits": 4
+      },
+      "receipts": [
+        {
+          "timestamp": "00:05",
+          "excerpt": "Loneliness [singing] [music] is the coat you wear. [singing] A deep [music] shade of blue [singing] is always there. [music] The sun ain't going to shine [music] anymore. The moon ain't going to rise [music] to your sky. Tears are always [music] in your eyes when you're [music] with us. >> [music] >> Empess [music] is the [music] place you're in with nothing"
+        },
+        {
+          "timestamp": "01:48:02",
+          "excerpt": ">> in 2022. My algorithm just became >> uh baseball, soccer, >> yeah, >> comedy, politics, and Leo Messi. >> It's always You know what? >> And the and the algorithm changes so fast because then three months ago, I >> started listening to Rob Lifel's observations and then all comic things started streaming right back in immediately. So, it's not like it's not"
+        },
+        {
+          "timestamp": "02:24:01",
+          "excerpt": ">> What's more comate? What's more vampire? >> Great hands. Great hands. >> Yeah, great face. >> I vis what you come up with. [laughter] >> Wait. >> Wow. Vampiria Cardinal. >> Well, hello. >> An actual uh comics gate character. [snorts] >> Wow, man. >> Pretty wild, man. >> Yeah, that's cool. Hot >> on black paper. Uh, next up is Andy Smith. Oh, >> still inki"
+        },
+        {
+          "timestamp": "02:36:02",
+          "excerpt": "There you go. Comic book one already said 200. Yeah, we need to have that uh uh done. Uh, so, uh, we need 210 or anything higher, $10 increments, uh, from here. >> Uh, and but can you lift it up a little bit so we can see the whole drawing? >> So, does she have a belt? Does she have the waist? >> Yeah. Yeah. >> Oh, she's got pants on and everything. >> Cool."
+        },
+        {
+          "timestamp": "03:00:00",
+          "excerpt": "8 7 6 5 4 3 two one. And listen, you know, if you want to purchase this, if you're watching this later, please contact Bosch on his Twitter, >> and I'm sure he'll have it available >> um uh to sell to you. Uh Andy Smith, Andy's down there. He's still working. He's still working on his >> Well, I'm just messing around. [snorts] Uh I'm feeling generous. 50 buc"
+        }
+      ]
+    },
+    {
+      "video_id": "zkW4zLSQ7eQ",
+      "title": "You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto!",
+      "source": "Ethan Van Sciver",
+      "importance": "major",
+      "mentions": 10,
+      "sentiment": {
+        "label": "positive",
+        "score": 0.623,
+        "positive_hits": 43,
+        "negative_hits": 10
+      },
+      "receipts": [
+        {
+          "timestamp": "12:01",
+          "excerpt": ">> [music] >> Welcome to 5XL FM where the trash flows. [music] >> There I am real small. Here I am real big. Ethan Van Skyver here. 5x LFM Philadelphia trash cast your show. You're the fan. You're the audience. You love this stuff. Can't get enough of it. And I'm here to serve it up. Nice big steaming plate of garbage for you tonight featuring some of your f"
+        },
+        {
+          "timestamp": "24:01",
+          "excerpt": "he and I are going to have to have a talk. I just mean a talk. By the way, I'm not saying pull up or anything. But yeah, there there are lines that you should not you should not ever cross and that's one of them. So, I don't think Lee ever did anything like that to me. Certain people um can get forgiveness. And I can look past uh indiscretions and uh you kno"
+        },
+        {
+          "timestamp": "48:01",
+          "excerpt": "His mom's Jewish, so he's Jewish like just by birth. Um, okay. Here we go. ISO number one trailer celebrating 4 years. Four years of our July. I forgot about that. I forgot about the frog croak. Remember this? So, this was a thing and and like uh the ripards were all laughing about this and then I said, \"Was that a frog croak and then getting electrocuted?\""
+        },
+        {
+          "timestamp": "01:00:01",
+          "excerpt": "characters. [music] You can see why he tries to stay out of the city. Who is this family friend and what is their connection with Darren Fontano? How does this meeting between him and Avery turn out? [music] And does he get the information [laughter] that Altona needs? How does this impact the psyche of Avery who went from a hero to now bluecollar civilian?"
+        },
+        {
+          "timestamp": "02:00:01",
+          "excerpt": "an ad. He has a [ __ ] ad in his graphic novel. You dummy. Who Who does that? so he wouldn't qualify anyway. >> First class mail isn't an option either. So when we sent via USPS, we sent priority. Believe it or not, our shipping rates weren't expensive. We actually didn't charge you guys enough. There was a time where we were like 30 grand in a hole on >> Ye"
+        }
+      ]
+    },
+    {
+      "video_id": "66FqtP0Wves",
+      "title": "It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on \"WOKE\"! LANTERNS Spoilers?!",
+      "source": "Ethan Van Sciver",
+      "importance": "major",
+      "mentions": 10,
+      "sentiment": {
+        "label": "mixed",
+        "score": -0.022,
+        "positive_hits": 22,
+        "negative_hits": 23
+      },
+      "receipts": [
+        {
+          "timestamp": "00:01",
+          "excerpt": "Launched in 2022, this controversial and purposely vapid universe filled with Pop-Tart deep characters. >> Hey brother, saw your video and first I want to thank you. You correctly classified it as trade. I appreciate you getting that right. You've got viewers who value what you do and I wish you [music] nothing but the best. And you've made it clear through"
+        },
+        {
+          "timestamp": "24:01",
+          "excerpt": "says Zeber comics. Thank you. I appreciate that. Uh let me see. McRady RJ helicopter pilot says, \"Wow, it's almost like I said this months ago. You're welcome. It's almost like a certain tribe has subverted and essentially conquered our civilization and now they've turned us into the baddies.\" Uh, the Lenai Lape tribe. Like what tribe? Cherokee nation. Um, y"
+        },
+        {
+          "timestamp": "36:02",
+          "excerpt": "appreciate [music] it. I definitely appreciate the huge super chat in the uh you know we got uh we got a lot of stuff going on that people don't know about. That's always good. It's always good to uh have that. Damn it all the hell says woo. Uh what else is going on here? Hold on a second. We got Brian Lawrence is a new member. Did we do that? We did do that"
+        },
+        {
+          "timestamp": "01:12:01",
+          "excerpt": "tics to me isn't funny. Uh you know, you can't you can't make fun of my nose cuz I can't do anything about it. You can make fun of my fat tummy if you want to. You can make fun of Frog Tony's rotting teeth. That's his fault. Like his teeth are rotten because of him his own actions, but you can't make fun of somebody's black skin cuz there's nothing they can do about"
+        },
+        {
+          "timestamp": "01:24:01",
+          "excerpt": "ctually, I don't say that. Okay, you can make fun of my nose. I don't care. I'm just saying that like I can't do anything about it. Your nose is off limits because of surgery, but Frog Tony's teeth are fine. Those would require surgery to fix. No. No, no, no. Oh my god. Yashim Mataro, my logic is sound. My nose was born this way. My nose, but I can't. I could I could"
+        }
+      ]
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "title": "The Ark Of Leem, LDA-King Stream",
+      "source": "FFS Cast",
+      "importance": "major",
+      "mentions": 10,
+      "sentiment": {
+        "label": "positive",
+        "score": 0.529,
+        "positive_hits": 13,
+        "negative_hits": 4
+      },
+      "receipts": [
+        {
+          "timestamp": "12:00",
+          "excerpt": "t of a chi boom who decided to try to uh I guess, you know, [ __ ] talk me, right? tried to defame me with some NEFARIOUS LIES. WELL, THE other day this Chboom decided to go on to Frog Tony's channel and a friend of hers, a mutual friend of hers went on there and said that he just didn't really believe what she was saying. Was very nice, very polite and you had Frog"
+        },
+        {
+          "timestamp": "24:01",
+          "excerpt": "s dying laughing watching him like just drag this guy for two days, uh that he owns a home and owns a car. And I responded and said, \"Imagine being mogged by Sturgis talking about Frog Tony and Liam and all these people. Bro, you're This guy is a lowal to all these people. This guy is getting bullied, openly bullied and [ __ ] with and he's still mogging Frog Tony by"
+        },
+        {
+          "timestamp": "36:01",
+          "excerpt": ">> Yeah. So, yeah. 16 watchers, 15 years old, 32 watching, 38 deviations, 3.6K profile view. So, yeah, it's just all of this [ __ ] man. you know, like when when you have like these coincidences. I don't I don't believe in coincidence uh in that way so much. But yeah, they Doc was looking into this and we were looking into the uh what was the uh the email so"
+        }
+      ]
+    },
+    {
+      "video_id": "VBJwPPZ1LeY",
+      "title": "Sturgis Went To Japan On Thirsty Thursday!",
+      "source": "Frog Tony",
+      "importance": "major",
+      "mentions": 10,
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.167,
+        "positive_hits": 14,
+        "negative_hits": 10
+      },
+      "receipts": [
+        {
+          "timestamp": "00:03",
+          "excerpt": "ah, yeah, yeah. [laughter] Represent. >> AH [screaming] [ __ ] HERE WE GO AGAIN. [music] MORE MOTHERFERS CATCH THOSE DAMN FROGGERS. Too late. THEY ALREADY CROSSED THE COUNTY LINE. FROG TONY AND THE CREW are gone again. Another thousand miles [music] and running. Froggers got the whole town buzzing. Pearl clutch patrol keep fronting. Fake tears fall. WE KNOW THEY BLUF"
+        },
+        {
+          "timestamp": "48:01",
+          "excerpt": "[laughter] >> No, he's not doing this for He has no good intentions. It's all just bitter bitterness and resentment. Like, so >> yes. Well, it's beyond that. It's bitter. It's bitterness. It's resentment. Plus, it's his ability to LAR, right? He got to come into a space and pretend to be somebody who he isn't. No one asks questions because we all assume that"
+        },
+        {
+          "timestamp": "01:00:02",
+          "excerpt": ">> there's no um biggest problem tonight. I know Dick Dick said that he was going to do Biggest Problem for the rest of the month, right? >> Till July, but uh the first show after he made the announcement, uh he's called off. >> You think they'll have a big blowout final episode or No, >> no, I think he's going to call off for the rest of the rest of July. >"
+        }
+      ]
+    },
+    {
+      "video_id": "RxZ_OdBN2f0",
+      "title": "Katydid Caught LYING AGAIN! - Detractor Kings",
+      "source": "Frog Tony",
+      "importance": "major",
+      "mentions": 10,
+      "sentiment": {
+        "label": "mixed",
+        "score": -0.333,
+        "positive_hits": 7,
+        "negative_hits": 14
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "oom [music] smokes. A thousand miles and running. THE FROG HAS GOT THE WHOLE TOWN BUZZING. THEY CRIED [music] OVER JOKES. NOW they're fussing. A thousand miles and running. >> I'M FROG TONY. Let me tell you who I be. Drink tequila WITH AN APPLE SITTING NEXT to me. Working [music] in the garbage factory all day long AND COMICS AND VIDEO GAMES TILL THE BREAK OF DAWN. S"
+        },
+        {
+          "timestamp": "12:00",
+          "excerpt": "I told Veto, you should do it. And uh if you're going to do it, you should do it with me because uh let's face it, the biggest bump in the biggest problem in the universe has been Frog Tony. People hate me. People love to hate me, right? Hate watchers uh would gather Do you understand the amount of hate? Like Veto doing the biggest problem without dick would be [ __"
+        }
+      ]
+    },
+    {
+      "video_id": "ibGd2AqrEXg",
+      "title": "JON DEL ARROZ: HERES THE ATTENTION YOU ORDERED - SHANE DAVIS BACK ME BRO INTERNET BEEF - EXTRA SALTY",
+      "source": "Commi3 Mark",
+      "importance": "major",
+      "mentions": 4,
+      "sentiment": {
+        "label": "mixed",
+        "score": -0.167,
+        "positive_hits": 5,
+        "negative_hits": 7
+      },
+      "receipts": [
+        {
+          "timestamp": "12:00",
+          "excerpt": "ut JDA's in uh on my timeline this week like uh and I done a poll yesterday uh when I put up the link for the show and I did a poll saying what's people's preference to talk about Frog Tony's gang to talk about Eric July or talk about something else. So, it's your fault that we're covering JDA and it like people voted for something else. Like, that was the only other"
+        },
+        {
+          "timestamp": "01:12:03",
+          "excerpt": "hey're already like uh like a huge deal. >> But if they're just somebody coming up to your booth at a convention or at a convention, I can talk. I swear. >> Um >> I'll get better. Frog Tony went to see Shane at a convention as well and it like went up being all like oh Frog Tony and then >> yeah at least in that case yeah he's [laughter] that's uh that's technically"
+        },
+        {
+          "timestamp": "01:48:00",
+          "excerpt": "slurs and gets drunk every night. Uh so I can't handle that myself. >> What's he on about? >> So [snorts] he's saying what the contents of the stream are supposed to be, but that he didn't watch it and he didn't even play the >> Yeah. Yeah. And it's exactly what I was talking about they did to us and it >> doesn't even play the clip just puts it there. >> It"
+        }
+      ]
+    },
+    {
+      "video_id": "MOQPFnHJYR0",
+      "title": "Cynic Got CATFISHED And EVS Continues To SPIRAL On Thirsty Thursday!",
+      "source": "Frog Tony",
+      "importance": "major",
+      "mentions": 10,
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.273,
+        "positive_hits": 14,
+        "negative_hits": 8
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "[laughter] Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. [laughter] Yeah. Represent. [music] [screaming] >> Yeah. Time for another village [music] speech, y'all. Tumble [music] out of bed and you stumble to the string. Pour yourself a cup of hate for yawn and stretch and roll yourself a spliff. You never read a comic. Hey, what's the diff [music] without your home mon"
+        },
+        {
+          "timestamp": "36:00",
+          "excerpt": "space or even prox in close proximity to it and ever ever date anyone called Preston because I immediately think of Preston Palter and his wife and become uncomfortable immediately that's what goes to my mind so like how do you >> doesn't know any better you know >> maybe that's what it I I I mean when when I encountered Preston, I immediately thought it was"
+        },
+        {
+          "timestamp": "48:00",
+          "excerpt": "ever made. Right. Exactly. >> I mean, literally, I've uh I think in the DMs, I'm telling her like, \"Yeah, I don't want a relationship. I'm not looking for a girlfriend. I'm not looking to be your [ __ ] boyfriend.\" Right? It's cool to [ __ ] flirt with you. It's cool to [ __ ] be cool and talk and whatever. Uh but there was never a hint of me trying to have"
+        }
+      ]
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "title": "Gabbing With Ga......You Know",
+      "source": "FFS Cast",
+      "importance": "major",
+      "mentions": 10,
+      "sentiment": {
+        "label": "positive",
+        "score": 0.515,
+        "positive_hits": 25,
+        "negative_hits": 8
+      },
+      "receipts": [
+        {
+          "timestamp": "00:03",
+          "excerpt": "ry very very soon. So, you got that. That might bring Liam out of retirement. I just I don't know when I'm going to be able to do it the right way. Um, then you've got, of course, Frog Tony's dumb [ __ ] ass said that he was never talking about us again. And, you know, he's got what he calls me uh the dwarf in his title as for, you know, for tonight. So, that that la"
+        },
+        {
+          "timestamp": "12:00",
+          "excerpt": "couple of the uh Tony streams that we've been wanting to cover for a for a while now. But speaking of the the Liam Lure, I'm going to go ahead and bring up my my gay best friend here, '90s router. Um >> what's up? it dude like first before anything >> if if it's true right because the way we work on this channel is we are going to do our due diligence in ord"
+        },
+        {
+          "timestamp": "24:00",
+          "excerpt": "exactly it. [clears throat] Uh and then uh we've got the other one um which was the Masters of the Universe members only stream where Mike Wheeler goes on there and just dog walks Frog Tony. So, how many pages is this? Uh >> probably like close to 70 pages, I would say. Um pages 50 pages. >> Yeah. >> All right. Yes. 50 pages. So >> put that in chat GPT and and check."
+        },
+        {
+          "timestamp": "36:01",
+          "excerpt": "this, uh, author said, um, I [ __ ] hope not. [snorts] Yeah, >> of course, the the the speaker is a female, correct? The writer. >> Yes. Yeah, I'll give you that. The writer is a woman. Yeah. >> All right. So, I mean, that that makes it sound even more like it was Lean. >> That Well, that's just that that's what somebody was saying was like, I think Liam wro"
+        },
+        {
+          "timestamp": "48:01",
+          "excerpt": "I just bought u Cyberpunk 2077. I'm going to play it tonight hopefully. >> Yeah, >> I've never played the game before. >> Here's the stream we were uh playing the other day where Frog Tony was trying to tell us how uh Comics Gate should be, Doc. You know, uh there's a Warhammer spin-off coming out for Vampire Survivors. Weird. Uh no, Synynic was playing WOW FOR YEAR"
+        }
+      ]
+    },
+    {
+      "video_id": "6GIxuFOICAI",
+      "title": "Catching Up With The Rippaverse! - Detractor Kings",
+      "source": "Frog Tony",
+      "importance": "major",
+      "mentions": 10,
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.333,
+        "positive_hits": 20,
+        "negative_hits": 10
+      },
+      "receipts": [
+        {
+          "timestamp": "00:01",
+          "excerpt": "Hey everybody, my name is Evil. [music] Their name is PJ Harvey. Let's go. Mama told me [music] Yeah. Life. Mama told me. Yeah. Yeah. Come on. My mama told me one day I'mma [music] grow up big and I'mma be a king. And my papa told me it's okay to [music] sing [ __ ] Don't forget your dreams. They'll get you through this. So [music] life they call living what"
+        },
+        {
+          "timestamp": "36:00",
+          "excerpt": "administrative things that I'm I'm needing to tend to. And so, that just runs my my life right now. And I think content now that I create, obviously, a lot of that is going to be focused on the ripper verse when I do have the time to create it. that's where my time should be be going because I'm doing fun videos, update videos, things of that nature. But if"
+        },
+        {
+          "timestamp": "48:00",
+          "excerpt": ", right? >> Yeah. >> See, I know how to grift. I know. I know the [ __ ] score. I just don't play those [ __ ] games. >> Fox News right now. >> Yeah. They'll parade my ass around. Frog Tony internet savant agrees deport all the Mexicans turns in his own family >> but just doing content about what the latest thing is happening in in movies and stuff >> don't have it i"
+        },
+        {
+          "timestamp": "01:00:00",
+          "excerpt": ">> Yeah. Then like um the back rooms that that was like >> the back thing. Yep. >> Right. Right. Yep. >> Um, Ray, did you stop streaming already? What? Not Ray. Ray's in the chat. >> Donation from Eric Winberg. And now I got to go check. I gotta go look at my Kofi. Why don't you guys tell me? Why don't you alert me to the fact that Eric Winberg is supporting"
+        },
+        {
+          "timestamp": "01:24:01",
+          "excerpt": "those creative uh let's say entertainment pieces are made by people that they dislike. They write that stuff off immediately. It'll always be the worst thing ever and so forth and and so forth. All right, so real quick, just so you guys can see that I'm not full of [ __ ] right? Uh this is comic book roundup. uh where they uh collate a bunch of reviews. So t"
+        }
+      ]
+    },
+    {
+      "video_id": "7LMz5W0-mLs",
+      "title": "Finbarr STOMPS A Dwarf! - OPEN PANEL MADHOUSE!!!!",
+      "source": "Frog Tony",
+      "importance": "major",
+      "mentions": 10,
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.125,
+        "positive_hits": 9,
+        "negative_hits": 7
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "he whole room smokes, thousand miles [music] and running. THE FROG HAS GOT THE WHOLE TOWN BUZZING. THEY CRIED OVER JOKES. Now they're fussing. A thousand miles and running. >> I'M FROG TONY. [music] LET me tell you who I be. Drink tequila with an apple sitting next to me. Working in the garbage [music] factory all day long IN COMICS AND VIDEO GAMES TILL THE BREAK OF"
+        },
+        {
+          "timestamp": "12:00",
+          "excerpt": ">> Well, when you get out of it, you become an officer. So like Santo does in the UK, >> you know, boom, you're off. >> It says more about them than us where they have to assume everybody's lying about all of their achievements, don't you think? >> But I've never made a claim of an achievement straight. This is what I'm trying to >> No, but that's an achieve"
+        }
+      ]
+    },
+    {
+      "video_id": "LdLy2G5TM4c",
+      "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+      "source": "Commi3 Mark",
+      "importance": "passing",
+      "mentions": 1,
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "positive_hits": 1,
+        "negative_hits": 0
+      },
+      "receipts": [
+        {
+          "timestamp": "01:12:00",
+          "excerpt": ">> We're [laughter] back again for sure. >> Definitely. Um, but the the long and short of it is I do not have drama with Matt Bar. Matt Bar has drama with me. [laughter] >> It's very simple, straightforward. Um, these two people left comments saying the car in the dark looks blue, doesn't have the second line. The wheel and bumper area look off. It has runni"
+        }
+      ]
+    },
+    {
+      "video_id": "N52SC2cLnvY",
+      "title": "TRASHCAST # 267 BIGGEST PROBLEM was insane. Vito is a outta control. I pity him.",
+      "source": "Ethan Van Sciver",
+      "importance": "major",
+      "mentions": 10,
+      "sentiment": {
+        "label": "mixed",
+        "score": -0.091,
+        "positive_hits": 10,
+        "negative_hits": 12
+      },
+      "receipts": [
+        {
+          "timestamp": "00:01",
+          "excerpt": "Welcome to 5XL FM where a trash flows. [music] [music] [music] Yo everybody, how are you? Ethan Van Skyber here on the Trash Cash Show. Late night tonight. Sorry about that. I was just stuck watching uh Dick Mastersonson and Veto [music] basically end they just ended their professional relationship on Biggest Problem in the Universe. And I I couldn't stop wa"
+        },
+        {
+          "timestamp": "12:00",
+          "excerpt": "se. Haven't heard from Little Movie Perp uh in a little while, but I remember like how people kind of reacted to that. Like I got I got some people that are in that crowd like the Frog Tony crowd. Those guys are really stupid. Like they're they're good at making fun of people, I guess. Um uh in some ways. Uh but uh they're really low IQ. And like those people are jus"
+        },
+        {
+          "timestamp": "36:00",
+          "excerpt": "> Please fix my audio. Is my audio [ __ ] Do I sound okay? >> I sound okay. >> Test 112. Test 112. Yeah, I think I don't know. >> Uh all right, this is uh Veto weighs in. He hates Frog Tony, too. >> They tried to say this was Somebody was trying to spread the rumor that this was me talking [ __ ] about you. This is crazy. I defended you in this video. >> I didn't wat"
+        }
+      ]
+    },
+    {
+      "video_id": "SlodiZOj8bE",
+      "title": "FROG TONY'S FREEDOM FIGHTING FORCE | FBI Investigation DRAMA Escalates",
+      "source": "Commi3 Mark",
+      "importance": "major",
+      "mentions": 10,
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.286,
+        "positive_hits": 9,
+        "negative_hits": 5
+      },
+      "receipts": [
+        {
+          "timestamp": "00:04",
+          "excerpt": "[music] >> Heat. Heat. [music] Salam alaikum [ __ ] It's me, your man Comey Mark, your friendly neighborhood communist. Welcome to Russian Troll Factory 23%. This episode is about Frog Tony's Freedom Fighting Federation or whatever the acronym was or whatever. Uh, let's [ __ ] get to it. I'm excited. 39 people already like at the end of the credits like unprecedented"
+        },
+        {
+          "timestamp": "12:01",
+          "excerpt": "ng to show you a bit of like the chain of what happened afterwards. like uh cuz you guys might not know. Um and then we've got a whole bunch a whole bunch. We've got a really nice Frog Tony clip to react to in response to all of this FBI stuff that we'll put at the end of that like uh so it makes narrative sense. >> Okay. Uh before I do the scores, Kenzo, um I'm actu"
+        },
+        {
+          "timestamp": "36:02",
+          "excerpt": "one talking about the thing that we're on. It's not even about us. Like um >> but you know, I'm going to try and force it. So, here we go. >> Um I still don't even really know who Frog Tony is. Like I mean I know who he is, but like I I care so little about him that like he hasn't like his voice and like who he is as a person really hasn't imprinted on me like at all"
+        }
+      ]
+    },
+    {
+      "video_id": "FrQfU1Y84Nk",
+      "title": "DRAW-MUH STREAM! REIGNBOW THE BRUTE Death of Papa Smerc page 3 pt3",
+      "source": "Ethan Van Sciver",
+      "importance": "secondary",
+      "mentions": 2,
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5,
+        "positive_hits": 6,
+        "negative_hits": 2
+      },
+      "receipts": [
+        {
+          "timestamp": "01:24:01",
+          "excerpt": "Narwhal that >> what happened to Narwhal? Are you still streaming? I ain't seen heard. >> I got a bunch of Shing Samurai stuff. >> What happened in Norwalk? >> Y'all ain't got [laughter] Fraggle Rock. Y got no Fraggle Rock issue two. >> Oh, I got some I got some uh I got some [ __ ] that I bust >> Double Dragon issue one there. I love the black suit so much."
+        },
+        {
+          "timestamp": "01:36:01",
+          "excerpt": "and I because I had nothing to do, I turned on a live stream and I went to the bar and uh I had comic skaters um super chat me to tip the bartender. The bartender had to create a drink called a Rose Tikico and he created this this um cocktail called the Rose Tikico and then you guys like duked him like 200 bucks in super chats. Uh it was really cool. It was"
+        }
+      ]
+    },
+    {
+      "video_id": "Zd9PVsLAD5c",
+      "title": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
+      "source": "Ethan Van Sciver",
+      "importance": "major",
+      "mentions": 10,
+      "sentiment": {
+        "label": "positive",
+        "score": 0.714,
+        "positive_hits": 42,
+        "negative_hits": 7
+      },
+      "receipts": [
+        {
+          "timestamp": "00:04",
+          "excerpt": "7 miles from target. Hostiles inbound shoot break. Heat. Heat. Heat. 6:00 in the rings. >> I'm going to pop. I did have a relationship with Mr. Lewinsky that was not appropriate. >> In fact, >> I'm going to get you. >> It constituted a critical lapse in judgment. >> Keep it in your pants, Saxs, man. >> This is an emergency broadcast. >> Why can't I finish my"
+        },
+        {
+          "timestamp": "12:00",
+          "excerpt": "it, you know. So, >> I love that stuff. That's great. >> How are we doing? >> I'm done with those. I'm going to I'm going to >> I'm done with those. I'm going to tackle the uh the uh the uh collaboration book, too. >> Oh, okay. Good. >> What are you working on, Bosch? >> Working on this, actually. This is my latest page on a certain book that I'm working on."
+        },
+        {
+          "timestamp": "01:48:01",
+          "excerpt": "them both uh come to the band stand and sing. And Annette uh is a cute gal but cannot sing. She she doesn't have a voice. Oh, really? >> Yeah. Oh, yeah. It was rough. >> Well, she has a Disney voice where she would just sing like she she was a teen uh you know. >> Yeah. >> She was a mousketeer, wasn't she? >> Musketeer. Like she would sing well enough, you k"
+        },
+        {
+          "timestamp": "02:24:00",
+          "excerpt": "is no migration. Uh, that there are two separate sites. >> Aaron Sleepers here. He says, \"Evs, it's funny. My W was self's not likely to ever get a chance to work with DC, but over the years I've ended up doing steampunk versions of most DC characters. I've seen Billy's I think Billyy's seen some of my portfolio. My point is there are plenty of good ideas st"
+        }
+      ]
+    },
+    {
+      "video_id": "qLcrzaJJKiQ",
+      "title": "Supergirl BOMBED! - Comicsgate Suburbs",
+      "source": "Frog Tony",
+      "importance": "major",
+      "mentions": 10,
+      "sentiment": {
+        "label": "positive",
+        "score": 0.652,
+        "positive_hits": 19,
+        "negative_hits": 4
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "Yeah. Hey everybody, my name is Evil. [music] Their name is PJ Harvey. Let's go. Mama told me yeah. Life [music] mama told me yeah. Come on. Mama [music] told me one day I'mma grow up big and I'mma be a king. And my papa [music] told me it's okay to sit. Don't forget your dreams cuz they'll get [music] you through this. What life they call living but I call"
+        },
+        {
+          "timestamp": "12:02",
+          "excerpt": "the life of me have not been able to remember, but it was amazing. I have not uh for $7.99 Australian. Stray Bean says, \"Please ask Ottoy and Liam if they saw the Dark Knight Recreated Project and what they thought.\" >> Have you? >> No, I didn't I didn't know anything about it. What's What's this? >> Stray posted it in the um in the suburbs room like a day o"
+        },
+        {
+          "timestamp": "48:01",
+          "excerpt": "college, so they're immediately going to go from from high school to college.\" Also, I don't know if this is like um like if he's like writing this to like get back at the dude that like uh was his high school bully or whatever, but like the bad guy Kaden, not only does he beat him in in the in the big championship game, right? But they also tell you that he"
+        },
+        {
+          "timestamp": "01:00:03",
+          "excerpt": "The also like what what didn't make sense to me. So she gets Salamandroid and I don't know if like some of this is just being um because of the old issues and and you know trying to fit the new story within the confines of the old story, right? >> But they they create Salamandroid and she's like you're Salamandroid and you are going to protect Cyberfrog, rig"
+        }
+      ]
+    },
+    {
+      "video_id": "MBKTh4fSITU",
+      "title": "\"MINISTRY OF UNGENTLEMANLY TWEETS\" EXPOSES COMMI3 MARK - OH NO!",
+      "source": "Commi3 Mark",
+      "importance": "major",
+      "mentions": 10,
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "positive_hits": 9,
+        "negative_hits": 0
+      },
+      "receipts": [
+        {
+          "timestamp": "12:02",
+          "excerpt": "nday is not going to be relevant by Friday anymore in it. [laughter] So I spend all of that time thinking like oh okay um who are we going to talk about this week? like um we done Frog Tony two weeks in a row basically and um you know we did a ripper episode before that. It's like so I was trying to choose like where do we point it because I don't want to be accused"
+        },
+        {
+          "timestamp": "24:02",
+          "excerpt": "l blurb. This is [laughter] >> Oh, yeah. The avatar. >> I like that author the first time. That was a good stylistic flourish from me. [laughter] Follow the exciting adventures of Frog Tony's freedom fighting force as they showdown in an epic battle with super federal agent Habib and the FBI. Can Frog Tony really be this dumb? How did Lil Moo Perp get the nickname Li"
+        },
+        {
+          "timestamp": "36:01",
+          "excerpt": "ll right. >> I could say for instance, >> if this guy likes penises so much, >> they have lots of penises in prison. And let's hope that they stretch him out as wide as the gap in Frog Tony's mouth, you know, like something like that. >> Oh, >> if he wants if he wants to record little tiny penises so badly, he should just message Frog Tony. >> [laughter] >> Jesus. >>"
+        }
+      ]
+    },
+    {
+      "video_id": "lYws0Rqt8Bs",
+      "title": "Supergirl BOMBS And Might END The DCU! - CG Suburbs",
+      "source": "Frog Tony",
+      "importance": "major",
+      "mentions": 10,
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.111,
+        "positive_hits": 5,
+        "negative_hits": 4
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "sic] Get you dream. [music] [music] [music] >> [music] [music] >> What's up, meat bags, and welcome Welcome to the comic skate suburbs. We are your host. I am the ghetto superstar frog Tony. He is the odd toy fanboy and of course down below stray [ __ ] beans. What up everybody? How you going gentlemen? How's it going? >> Hi ho. >> That's teenag me for real. For real"
+        },
+        {
+          "timestamp": "12:00",
+          "excerpt": "Project Hail Mary. If you haven't seen that, you should. That was a [ __ ] great movie. Best thing I've seen all year. Great movie. >> What's the premise? I've seen I seen the um >> the poster for >> the premise is the premise is basically what the name is. It's last stitch [clears throat] effort to save Earth. And you know, they send in this team of you kno"
+        }
+      ]
+    },
+    {
+      "video_id": "ims2nZAnn-s",
+      "title": "F - IT: We Are Soooooo Back (AGANE)",
+      "source": "Piper",
+      "importance": "major",
+      "mentions": 7,
+      "sentiment": {
+        "label": "positive",
+        "score": 0.667,
+        "positive_hits": 10,
+        "negative_hits": 2
+      },
+      "receipts": [
+        {
+          "timestamp": "01:12:02",
+          "excerpt": "ly good because not only did he have his show, but like almost all the other shows that I knew of were also his show because they were all about him. >> Yeah. Yeah. >> Um, him and Frog Tony, him and Frog Tony had like a million shows dedicated basically to them and it was so boring, >> you know. He has uh strike all the channels that I was involved. >> Well, yeah. >>"
+        },
+        {
+          "timestamp": "01:24:02",
+          "excerpt": "we've done some live streams like covering uh the copyright stuff, the striking like um and other than that like we don't really like cover him. I get bored really quickly and want to change every week to be like uh recycling jokes about someone else like um so here >> that's it. That's what I like about Russia Troll Factory is uh everybody's topic. >> Yeah."
+        },
+        {
+          "timestamp": "02:12:01",
+          "excerpt": "ts. Like I uh I still have Frog G modded. Um Frog G used to be like the mod doing all the uh well this kind of stuff. Series of Bats is doing uh I think Frog G must >> sounds like Frog Tony. No, >> no, he's not Frog Tony. There's a lot of frogs. I noticed there are a lot of uh there are a lot of frogs. >> Yeah. >> Yeah, I know. But well, I don't know if >> but not al"
+        }
+      ]
+    },
+    {
+      "video_id": "pltu7sa30D8",
+      "title": "Scarlett lives her best life | #932",
+      "source": "Ministry of Dude",
+      "importance": "passing",
+      "mentions": 2,
+      "sentiment": {
+        "label": "positive",
+        "score": 0.455,
+        "positive_hits": 8,
+        "negative_hits": 3
+      },
+      "receipts": [
+        {
+          "timestamp": "01:00:00",
+          "excerpt": "er shoot his blow darts. It's a very odd he doesn't go to his voice before. It's He sounds like he has like 50% of his teeth in his mouth. >> Yeah, he sounds rough. >> Old [music] Frog Tony this time, >> dude. That would be funny, dude. What if Frog Tony was [ __ ] Scarlet all [laughter] of a sudden? be like, \"What? >> Whoa.\" [gasps] >> That's why he didn't want me t"
+        }
+      ]
+    },
+    {
+      "video_id": "odC_ijF0FE4",
+      "title": "JCW Lunacy #89 Watch Party",
+      "source": "Frog Tony",
+      "importance": "major",
+      "mentions": 10,
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.077,
+        "positive_hits": 7,
+        "negative_hits": 6
+      },
+      "receipts": [
+        {
+          "timestamp": "00:04",
+          "excerpt": "Yeah, yeah, yeah, [music] yeah, yeah, yeah, yeah. In the middle of the night, he's hopping. Thinking of Frog Tony, there's no stopping. He speaks the truth and leaves you balling. He's [music] the corker that laughs as you're falling. Frog Tony haunts your dreams. Can't you see? Hopping throu"
+        },
+        {
+          "timestamp": "12:01",
+          "excerpt": "the law boys. >> That'll neutralize any situation. >> And the key. The key. >> I almost forgot. is the dealer. Yeah. >> Has been unlocked. >> Here's the pitch. Oh my god. Liam and Frog Tony problem. >> Sally boys up in smoke. >> Where's my brother? >> Device in the merchandise you stole. It led to an abandoned warehouse where we found your brother. Okay. You know whe"
+        },
+        {
+          "timestamp": "24:00",
+          "excerpt": ">> They're just doing vignettes. >> You got to be prepared for surprises. In fact, after so long, you learn to expect the unexpected. Expect the unexpected. Yeah. This >> is what brings me to the ring right now. >> Ladies and gentlemen, general and general, the unexpected has taken place in the locker room of JCW Lunacy. >> Somebody got knocked up. >> A bit"
+        }
+      ]
+    },
+    {
+      "video_id": "IGwEBXZDVt0",
+      "title": "The Biggest Problem in the Universe Comes to an END!",
+      "source": "KatyDid",
+      "importance": "major",
+      "mentions": 10,
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5,
+        "positive_hits": 21,
+        "negative_hits": 7
+      },
+      "receipts": [
+        {
+          "timestamp": "36:01",
+          "excerpt": "he was working on a different book. We've talked about this. He thought that book was going to wrap up quickly, but that first year pages were not coming in, and it's whatever. That's part of making an indie comic, man, is like, I don't have the money. >> Color it fast enough. >> And then I got a letterer, and the letterer didn't do a good job. And then I go"
+        },
+        {
+          "timestamp": "48:00",
+          "excerpt": "this week? >> I cut Veto off so I could run my very successful hack [clears throat] the movie show. >> See, there you go. Now it's about how other people are failures. Like it's you have a fixation on success and failure that you insult people with >> always. I have a fixation on I don't understand why we're not just work all working together to promote each"
+        },
+        {
+          "timestamp": "01:00:00",
+          "excerpt": "I MEAN, DUDE, I LOOK AT HOWARD STERN. Arty Lang was fucking high on heroin. Okay. He got kicked off the show. >> It's funny that you're comparing yourself to Arty Lang. Like even that is presumptuous. Arty Lang is a thousand times the entertainer you are. >> But you're saying the show ended because Veto is such a massive crash out fuckup. And I go great ente"
+        }
+      ]
+    },
+    {
+      "video_id": "F1ouqRPhAdM",
+      "title": "JCW Lunacy #88 Watch Party!",
+      "source": "Frog Tony",
+      "importance": "major",
+      "mentions": 10,
+      "sentiment": {
+        "label": "positive",
+        "score": 0.636,
+        "positive_hits": 18,
+        "negative_hits": 4
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "Yeah. Hey everybody, my name is Eouble. [music] Their name is PJ Harvey. Let's go. Mama told me. Yeah. [music] Like mama told me. Yeah. [music] Yeah. Come on. My mama told me one day I'mma grow up big and I'mma be a king. And my papa told me it's okay to say [music] sh. Don't forget your dreams cuz they'll get you through this. life [music] they call living"
+        },
+        {
+          "timestamp": "36:01",
+          "excerpt": "[ __ ] >> BUT WHAT YOU WILL do your [ __ ] champion. >> It looks like he's serving planet green. >> This is a new era of JCW. >> This is the era of the chosen one. And all you stupid will catch. And with a new champ, there's going to be some new rules around here. >> Uhoh. Uh >> oh. >> AND JOE DUMBROSSSKI UP THERE. I'm going to do this for you. Me. >> As of"
+        },
+        {
+          "timestamp": "48:00",
+          "excerpt": ">> Damn, >> Mac. Davis giving him a talking to >> this week on a very special JCW. >> Facet. To me, Facet is like a like Danny Mo's brother. >> Your opening com. >> Introducing first. >> I think he's dating Danny Mo. I think they trained together. >> He He look kind of looks like Danny Mo. >> Thank you. Thank you, cameraman. >> Godamn it. That's his JCW. the"
+        },
+        {
+          "timestamp": "01:00:01",
+          "excerpt": ">> No doubt Bronson has what it takes to become champion. >> You can see in the background that they got these two years. >> It was Davis getting involved. Bronson winning the title. Violet Jay reversed that decision which I would suggest many still feel very polarizing opinions on, but I would suggest it's the right call. But good move here to give Bronx an"
+        },
+        {
+          "timestamp": "01:12:00",
+          "excerpt": "chop chop chop >> chop baby chopper baby. >> I love says these guys are you insult Chapo City. >> That's right. >> And isn't anything goes >> will ask not to be recorded. >> Introducing first. >> Oh [ __ ] >> Nope. >> Well, whether it's official or not, it's anything goes whenever you hear this music. Anything go >> did you see the guy that the camera >> hea"
+        }
+      ]
+    },
+    {
+      "video_id": "3q0Lk5Vap5U",
+      "title": "It's All Fine - Friday Special | #935",
+      "source": "Ministry of Dude",
+      "importance": "major",
+      "mentions": 3,
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.273,
+        "positive_hits": 14,
+        "negative_hits": 8
+      },
+      "receipts": [
+        {
+          "timestamp": "01:48:01",
+          "excerpt": "mall all crazy and stuff like that's what the kids want to see. And he's right. >> What I what I like here is they've juxosed. Sorry, I've been drinking. >> Can you say you speak English? >> The the chimp monks. Shut the [ __ ] up, Brazilian. You barely speak English, too. [laughter] [ __ ] Uh, >> but I can just juxtapose things, you know. >> He's got you th"
+        },
+        {
+          "timestamp": "02:00:00",
+          "excerpt": "the whole picture, but that make like going back all the way to the 40s and 50s like having the big people in Hollywood being pro- Israel and the big people in Hollywood having influence in the government, you know. >> Mhm. It's like the early beginnings of the entrenchment of Israel interests in the government, you know, the early some of part of the early"
+        },
+        {
+          "timestamp": "02:24:00",
+          "excerpt": "Ministry of Dude, folks. And that's why you can support us. We're doing going extra folks. We're almost at the end of this, but you can still go on super tip.gg GG/ministry and by the way the the Pilzilla says are genters and also yeah the a lot of these women are stupid and I'm serious when I say like the Harvey Weinstein stuff. He was a [ __ ] pig but he w"
+        }
+      ]
+    },
+    {
+      "video_id": "9OJNBEVnTBk",
+      "title": "JCW Lunacy #90 Watch Party",
+      "source": "Frog Tony",
+      "importance": "major",
+      "mentions": 10,
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.0,
+        "positive_hits": 10,
+        "negative_hits": 10
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "the pain [music] one day. I'mma grow up big and I'mma be a king. And my papers [music] sh [music] [music] yeah yeah yeah. [music] In the middle of the night he hopping thinking OF FROG TONY THERE'S NO STOPPING. [music] He speaks the truth and leaves you balling. He's the corker that laughs as you're falling. Rock Tony [music] haunts your dreams. Can't you see? Hoppin"
+        },
+        {
+          "timestamp": "12:01",
+          "excerpt": "r presence. >> JRod is on the show. >> Hell yeah. >> That's one step in the right direction. >> How you doing uh Kendrick? >> First of all, I want to give many many many thanks to Frog Tony. Froony's channel at Fanboy Steve and TJ because I understand what JCW means and what it is for Fronton's channel. How are you all doing tonight gentlemen? >> Doing great. Uh is d"
+        },
+        {
+          "timestamp": "24:00",
+          "excerpt": "in the ring. >> I like that that drum break that latch with Danny Mo. I know a good thing when I see it >> and you know how competitive they in the women's division doesn't go by JR American coming with something to prove >> super angry and ready for action tonight and sag >> it's got to be like marketing and >> yes it's it's a branding thing >> they weren't"
+        }
+      ]
+    },
+    {
+      "video_id": "2m31Eip6Cmg",
+      "title": "CG AFTER DARK #35",
+      "source": "KatyDid",
+      "importance": "secondary",
+      "mentions": 3,
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5,
+        "positive_hits": 3,
+        "negative_hits": 1
+      },
+      "receipts": [
+        {
+          "timestamp": "00:06",
+          "excerpt": "Today, before I head into work, I wanted to get rid of some bad omen in my house, just like Richard Embry. I do not want these uh this book and this shirt in my house whatsoever. They support silencing voices. They do not support free speech. They lie. They manipulate. They strike panels. And they're hurt little bitches. They do nothing for Comicgate. Nothin"
+        }
+      ]
+    },
+    {
+      "video_id": "O5BcX4ir3-0",
+      "title": "The Tribunal of Liam Gray | DROPBOX DRAMA",
+      "source": "KatyDid",
+      "importance": "passing",
+      "mentions": 1,
+      "sentiment": {
+        "label": "mixed",
+        "score": -0.333,
+        "positive_hits": 1,
+        "negative_hits": 2
+      },
+      "receipts": [
+        {
+          "timestamp": "24:02",
+          "excerpt": "t that entire time running around telling everyone I'm not a real artist. Instead of I said, \"If you pay me, I'll do art.\" And not one fucking person came forward to hire me until Frog Tony. So, you guys want to talk shit? I've been in galleries. I've been paid upwards of $3,000 for show art, you know, like um that's been displayed in in museums, you know? I've been"
+        }
+      ]
+    },
+    {
+      "video_id": "4sQhgipvxyU",
+      "title": "I said Columbia, but Ralph just went to more Messico | #931",
+      "source": "Ministry of Dude",
+      "importance": "passing",
+      "mentions": 2,
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.111,
+        "positive_hits": 5,
+        "negative_hits": 4
+      },
+      "receipts": [
+        {
+          "timestamp": "12:02",
+          "excerpt": "nny, the poor guy. A >> that's romantic. >> Jesse said, \"Sorry it didn't work out with Dan.\" So So >> wow. >> I missed that. And that is a coat. That is a big coat. >> I'm getting Frog Tony vibes. >> Oh wow. [laughter] >> You know what I mean? Like I'm getting I'm getting some frog Tony vibes here. [laughter] >> Runs away. immediately rebounds with some other guy, st"
+        }
+      ]
+    },
+    {
+      "video_id": "HpCU9xQ1G4E",
+      "title": "(RE-UPLOAD)The Aftermath Of Frog Tony's EMBARRASSING appearance on The Biggest Problem",
+      "source": "KatyDid",
+      "importance": "major",
+      "mentions": 10,
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.333,
+        "positive_hits": 2,
+        "negative_hits": 1
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "O SLOW DOWN. >> [laughter] >> YOU HAVE TO SLOW DOWN ON SUPER KILLER. YOU'RE working yourself into exhaustion and malnutrition. >> aggressive clip. >> It launches with no appeal to Frog Tony coping about ple deals. Let's hear it again. From pizza deals to pizza ass feels. From Cane. And uh from rocket launches with no appeal to Frog Tony coping about ple deals from Ni"
+        }
+      ]
+    }
+  ],
+  "claim_candidates": [
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "title": "Gabbing With Ga......You know",
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Frog Tony"
+      ],
+      "claim": "No, he that's what he said and that's the reason why he's uh glombmed on to Frog Tony because Frog Tony is the only person in Comicscape to ever hire him to do art.",
+      "timestamp": "02:48:01",
+      "status": "candidate_claim",
+      "confidence": 0.55,
+      "receipt": "No, he that's what he said and that's the reason why he's uh glombmed on to Frog Tony because Frog Tony is the only person in Comicscape to ever hire him to do art."
+    },
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "title": "Gabbing With Ga......You know",
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Frog Tony"
+      ],
+      "claim": "Just a [ __ ] week ago, Frog Tony was sitting on his channel and he had said that he was going to keep [ __ ] with me until I died or I left the internet.",
+      "timestamp": "12:01",
+      "status": "candidate_claim",
+      "confidence": 0.55,
+      "receipt": "Just a [ __ ] week ago, Frog Tony was sitting on his channel and he had said that he was going to keep [ __ ] with me until I died or I left the internet."
+    },
+    {
+      "video_id": "66FqtP0Wves",
+      "title": "It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on \"WOKE\"! LANTERNS Spoilers?!",
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Frog Tony"
+      ],
+      "claim": "I watch Frog Tony fight with like stimulated cynic and they're calling him a dwarf and stuff and I think he is.",
+      "timestamp": "01:12:01",
+      "status": "opinion_or_inference",
+      "confidence": 0.42,
+      "receipt": "I watch Frog Tony fight with like stimulated cynic and they're calling him a dwarf and stuff and I think he is."
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "title": "The Ark Of Leem, LDA-King Stream",
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Frog Tony",
+        "Sturgis"
+      ],
+      "claim": "And I responded and said, \"Imagine being mogged by Sturgis talking about Frog Tony and Liam and all these people.",
+      "timestamp": "24:01",
+      "status": "candidate_claim",
+      "confidence": 0.55,
+      "receipt": "And I responded and said, \"Imagine being mogged by Sturgis talking about Frog Tony and Liam and all these people."
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "title": "The Ark Of Leem, LDA-King Stream",
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Frog Tony"
+      ],
+      "claim": "WELL, THE other day this Chboom decided to go on to Frog Tony's channel and a friend of hers, a mutual friend of hers went on there and said that he just didn't really believe what she was saying.",
+      "timestamp": "12:00",
+      "status": "candidate_claim",
+      "confidence": 0.55,
+      "receipt": "WELL, THE other day this Chboom decided to go on to Frog Tony's channel and a friend of hers, a mutual friend of hers went on there and said that he just didn't really believe what she was saying."
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "title": "The Ark Of Leem, LDA-King Stream",
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Frog Tony"
+      ],
+      "claim": "I said in my opinion, I think Frog Tony wanted to give you belly kisses and you were you were too oblivious to it.",
+      "timestamp": "02:24:00",
+      "status": "opinion_or_inference",
+      "confidence": 0.42,
+      "receipt": "I said in my opinion, I think Frog Tony wanted to give you belly kisses and you were you were too oblivious to it."
+    },
+    {
+      "video_id": "RxZ_OdBN2f0",
+      "title": "Katydid Caught LYING AGAIN! - Detractor Kings",
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Frog Tony"
+      ],
+      "claim": "Look at Look at Darren Bennett says, \"Frog Tony and Veto or Veto Frog Tony Show would be pure gold and so freaking funny.\"",
+      "timestamp": "03:36:01",
+      "status": "candidate_claim",
+      "confidence": 0.55,
+      "receipt": "Look at Look at Darren Bennett says, \"Frog Tony and Veto or Veto Frog Tony Show would be pure gold and so freaking funny.\""
+    },
+    {
+      "video_id": "RxZ_OdBN2f0",
+      "title": "Katydid Caught LYING AGAIN! - Detractor Kings",
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Frog Tony"
+      ],
+      "claim": "Uh, I mean, the fact that Katie repeatedly has said Frog Tony's the reason why I'm here.",
+      "timestamp": "24:01",
+      "status": "candidate_claim",
+      "confidence": 0.55,
+      "receipt": "Uh, I mean, the fact that Katie repeatedly has said Frog Tony's the reason why I'm here."
+    },
+    {
+      "video_id": "RxZ_OdBN2f0",
+      "title": "Katydid Caught LYING AGAIN! - Detractor Kings",
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Eric July",
+        "Frog Tony"
+      ],
+      "claim": "Look what Eric July is doing.\" I think that's what people want from the Frog Tony experience",
+      "timestamp": "03:48:00",
+      "status": "opinion_or_inference",
+      "confidence": 0.42,
+      "receipt": "Look what Eric July is doing.\" I think that's what people want from the Frog Tony experience"
+    },
+    {
+      "video_id": "RxZ_OdBN2f0",
+      "title": "Katydid Caught LYING AGAIN! - Detractor Kings",
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Frog Tony"
+      ],
+      "claim": "I think you would be better and happier as a as a guy who is a little bit funny talking a little bit of [ __ ] I think when you get serious and you go, \"Well, this is an outrage and I'm fighting for the common man and whatever else.\" Everyone goes, \"Ah, Frog Tony, shut the [ __ ] up.",
+      "timestamp": "03:48:00",
+      "status": "opinion_or_inference",
+      "confidence": 0.42,
+      "receipt": "I think you would be better and happier as a as a guy who is a little bit funny talking a little bit of [ __ ] I think when you get serious and you go, \"Well, this is an outrage and I'm fighting for the common man and whatever else.\" Everyone goes, \"Ah, Frog Tony, shut the [ __ ] up."
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "title": "Gabbing With Ga......You Know",
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Frog Tony"
+      ],
+      "claim": "One of the first things that Rev ever told me was joking about Frog Tony and he said that uh he had all of his teeth pulled in order to have like implants put in and he was like sort of bragging about having it all like no teeth.",
+      "timestamp": "01:24:01",
+      "status": "candidate_claim",
+      "confidence": 0.55,
+      "receipt": "One of the first things that Rev ever told me was joking about Frog Tony and he said that uh he had all of his teeth pulled in order to have like implants put in and he was like sort of bragging about having it all like no teeth."
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "title": "Gabbing With Ga......You Know",
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Frog Tony"
+      ],
+      "claim": "Uh $10 from Sam Devonson says, \"Frog Tony's breath is so bad his interwebs live stream via biohazard levels.\" Yo dog, that [ __ ] should put out a disclaimer.",
+      "timestamp": "03:24:00",
+      "status": "candidate_claim",
+      "confidence": 0.55,
+      "receipt": "Uh $10 from Sam Devonson says, \"Frog Tony's breath is so bad his interwebs live stream via biohazard levels.\" Yo dog, that [ __ ] should put out a disclaimer."
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "title": "Gabbing With Ga......You Know",
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Frog Tony"
+      ],
+      "claim": "Brown says, \"I'm pretty sure Frog Tony is a in uh is a Liam Discord with a special role to be in the Flag channel.\" Um, no, I know for a fact he is.",
+      "timestamp": "02:12:00",
+      "status": "candidate_claim",
+      "confidence": 0.55,
+      "receipt": "Brown says, \"I'm pretty sure Frog Tony is a in uh is a Liam Discord with a special role to be in the Flag channel.\" Um, no, I know for a fact he is."
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "title": "Gabbing With Ga......You Know",
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Frog Tony"
+      ],
+      "claim": "Um, then you've got, of course, Frog Tony's dumb [ __ ] ass said that he was never talking about us again.",
+      "timestamp": "00:03",
+      "status": "candidate_claim",
+      "confidence": 0.55,
+      "receipt": "Um, then you've got, of course, Frog Tony's dumb [ __ ] ass said that he was never talking about us again."
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "title": "Gabbing With Ga......You Know",
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Frog Tony"
+      ],
+      "claim": "Says, \"I recently watched the Frog Tony DM streams on FFS and loved every second.",
+      "timestamp": "01:48:00",
+      "status": "candidate_claim",
+      "confidence": 0.55,
+      "receipt": "Says, \"I recently watched the Frog Tony DM streams on FFS and loved every second."
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "title": "Gabbing With Ga......You Know",
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Frog Tony"
+      ],
+      "claim": "It's got to be Frog Tony, I think.",
+      "timestamp": "02:12:00",
+      "status": "opinion_or_inference",
+      "confidence": 0.42,
+      "receipt": "It's got to be Frog Tony, I think."
+    },
+    {
+      "video_id": "7LMz5W0-mLs",
+      "title": "Finbarr STOMPS A Dwarf! - OPEN PANEL MADHOUSE!!!!",
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Frog Tony"
+      ],
+      "claim": "So, the name that like mine literally guys, literally the stuff that comes to my house says Frog Tony on it.",
+      "timestamp": "03:00:00",
+      "status": "candidate_claim",
+      "confidence": 0.55,
+      "receipt": "So, the name that like mine literally guys, literally the stuff that comes to my house says Frog Tony on it."
+    },
+    {
+      "video_id": "7LMz5W0-mLs",
+      "title": "Finbarr STOMPS A Dwarf! - OPEN PANEL MADHOUSE!!!!",
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Frog Tony"
+      ],
+      "claim": "Frog Tony just said that he should be co-host for the biggest problem in the universe.",
+      "timestamp": "02:48:01",
+      "status": "candidate_claim",
+      "confidence": 0.55,
+      "receipt": "Frog Tony just said that he should be co-host for the biggest problem in the universe."
+    },
+    {
+      "video_id": "SlodiZOj8bE",
+      "title": "FROG TONY'S FREEDOM FIGHTING FORCE | FBI Investigation DRAMA Escalates",
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Frog Tony"
+      ],
+      "claim": "So, [clears throat] on the show, we was under the impression that it was this one joke that he said in a stream and it like where Frog Tony was saying some really mean and horrible things and uh Lil Movie Pup was trying to change the subject and he made a joke that was like um untaste.",
+      "timestamp": "48:00",
+      "status": "candidate_claim",
+      "confidence": 0.55,
+      "receipt": "So, [clears throat] on the show, we was under the impression that it was this one joke that he said in a stream and it like where Frog Tony was saying some really mean and horrible things and uh Lil Movie Pup was trying to change the subject and he made a joke that was like um untaste."
+    },
+    {
+      "video_id": "SlodiZOj8bE",
+      "title": "FROG TONY'S FREEDOM FIGHTING FORCE | FBI Investigation DRAMA Escalates",
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Frog Tony",
+        "Sturgis"
+      ],
+      "claim": "like I look at Frog Tony and I think [clears throat] that like Sturgis he probably has [ __ ] strength and it like uh and I wouldn't under I think a lot of guys on this team have that kind of strength.",
+      "timestamp": "01:12:00",
+      "status": "opinion_or_inference",
+      "confidence": 0.42,
+      "receipt": "like I look at Frog Tony and I think [clears throat] that like Sturgis he probably has [ __ ] strength and it like uh and I wouldn't under I think a lot of guys on this team have that kind of strength."
+    },
+    {
+      "video_id": "O5BcX4ir3-0",
+      "title": "The Tribunal of Liam Gray | DROPBOX DRAMA",
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Frog Tony"
+      ],
+      "claim": "Instead of I said, \"If you pay me, I'll do art.\" And not one fucking person came forward to hire me until Frog Tony.",
+      "timestamp": "24:02",
+      "status": "candidate_claim",
+      "confidence": 0.55,
+      "receipt": "Instead of I said, \"If you pay me, I'll do art.\" And not one fucking person came forward to hire me until Frog Tony."
+    }
+  ],
+  "relationship_candidates": [
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "title": "Gabbing With Ga......You know",
+      "left": "Frog Tony",
+      "right": "Shane Davis",
+      "signal_type": "criticised",
+      "timestamp": "24:01",
+      "confidence": 0.48,
+      "receipt": "hank you so much. I appreciate it, man. Oh god. So, oh man, I don't know where I want to go first. We got the Snider Hype video. I do want to torture the chat with a little bit of Frog Tony's first ever non-drama stream. Just a little bit of it. I want to see what they do. I haven't watched it. I saw like a split second of it and I was like, we'll see how this goes.",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "title": "Gabbing With Ga......You know",
+      "left": "Frog Tony",
+      "right": "Shane Davis",
+      "signal_type": "promoted",
+      "timestamp": "24:01",
+      "confidence": 0.48,
+      "receipt": "hank you so much. I appreciate it, man. Oh god. So, oh man, I don't know where I want to go first. We got the Snider Hype video. I do want to torture the chat with a little bit of Frog Tony's first ever non-drama stream. Just a little bit of it. I want to see what they do. I haven't watched it. I saw like a split second of it and I was like, we'll see how this goes.",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "title": "Gabbing With Ga......You know",
+      "left": "Frog Tony",
+      "right": "Shane Davis",
+      "signal_type": "separation",
+      "timestamp": "24:01",
+      "confidence": 0.48,
+      "receipt": "hank you so much. I appreciate it, man. Oh god. So, oh man, I don't know where I want to go first. We got the Snider Hype video. I do want to torture the chat with a little bit of Frog Tony's first ever non-drama stream. Just a little bit of it. I want to see what they do. I haven't watched it. I saw like a split second of it and I was like, we'll see how this goes.",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "title": "Gabbing With Ga......You know",
+      "left": "Frog Tony",
+      "right": "Eric July",
+      "signal_type": "promoted",
+      "timestamp": "01:48:00",
+      "confidence": 0.48,
+      "receipt": "t a happy person. Last star fighter girl. I can't help that. You you should smile more. It would uh it would keep you from having all those wrinkles in your face. >> Unless you're Frog Tony, then try to smile a lot less. >> It must be the night that he's out of weed. >> It very well could be. I heard a rumor. I don't want to say it, but I heard a rumor about who last",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "title": "Gabbing With Ga......You know",
+      "left": "Liam Gray",
+      "right": "Frog Tony",
+      "signal_type": "promoted",
+      "timestamp": "02:12:00",
+      "confidence": 0.48,
+      "receipt": "riosity. >> Uh, I was going to bore people with some of Frog Tony's no drama stream, see him explain his new rules, and then I'm going to before we head out, we are going to watch Liam Gray build [ __ ] >> Um, and then I was I was gonna >> Yeah, we I promised somebody that I would do that. I'm sorry, Doc. Hey, you know what? people. >> Damn it. >> What the [ __ ] is",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "title": "Gabbing With Ga......You know",
+      "left": "Frog Tony",
+      "right": "Cyberfrog",
+      "signal_type": "criticised",
+      "timestamp": "02:48:01",
+      "confidence": 0.48,
+      "receipt": "e I got the joke Lim didn't thus this spuring. >> Oh boy. That was a good Yeah, if anybody can find that stream, that would be worth uh putting up on Liam Grey Exposed. >> Hey, uh Frog Tony, since you run the Liam Grey Exposed channel, could you get that video put up real fast? Uh thank you. I appreciate it. >> Either way, let's get back to >> what Kirk Fashy say. Hi",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "title": "Gabbing With Ga......You know",
+      "left": "Frog Tony",
+      "right": "Cyberfrog",
+      "signal_type": "promoted",
+      "timestamp": "02:48:01",
+      "confidence": 0.48,
+      "receipt": "e I got the joke Lim didn't thus this spuring. >> Oh boy. That was a good Yeah, if anybody can find that stream, that would be worth uh putting up on Liam Grey Exposed. >> Hey, uh Frog Tony, since you run the Liam Grey Exposed channel, could you get that video put up real fast? Uh thank you. I appreciate it. >> Either way, let's get back to >> what Kirk Fashy say. Hi",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "title": "Gabbing With Ga......You know",
+      "left": "Liam Gray",
+      "right": "Frog Tony",
+      "signal_type": "legal_conflict",
+      "timestamp": "03:00:00",
+      "confidence": 0.48,
+      "receipt": "had seen his documentary. Mind you, uh, 90s and a bunch of our streams on his channel are banned in Australia. And uh she proceeded to send us a 10,000word email about the life of Liam Gray >> from her eyes. >> That is amazing. I I did read that. >> It is glorious. >> It is absolutely glorious. >> Is it paint him in a good light or worse light? >> She fed him dog bis",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "zkW4zLSQ7eQ",
+      "title": "You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto!",
+      "left": "Liam Gray",
+      "right": "Frog Tony",
+      "signal_type": "criticised",
+      "timestamp": "04:00:00",
+      "confidence": 0.48,
+      "receipt": "g uh to be worried about. Otherwise, everything is real vague all the time. It's weird. Um I'm not going to watch that right now. There's a video on Katy Ds called The Tribunal of Liam Gray where Stray Beans goes over to him regarding the the CP Dropbox, the alleged CP Dropbox, and goes, \"Uh, you know, people are asking like if you had this Dropbox like and you knew",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "zkW4zLSQ7eQ",
+      "title": "You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto!",
+      "left": "Frog Tony",
+      "right": "Shane Davis",
+      "signal_type": "criticised",
+      "timestamp": "04:00:00",
+      "confidence": 0.48,
+      "receipt": "e, uh, because Katie did this, that's why nobody wants to. He said the same thing with me. Like, because I Is he going to say me? Hold on. >> Me anyway. Because I was friends with Frog Tony. >> Okay. So, he's going to blame recent situations for the fact that people have, you know, these longstanding kind of grudges against him. Um, and they've, you know, [clears thr",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "zkW4zLSQ7eQ",
+      "title": "You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto!",
+      "left": "Frog Tony",
+      "right": "Stray Beans",
+      "signal_type": "criticised",
+      "timestamp": "04:00:00",
+      "confidence": 0.48,
+      "receipt": "e, uh, because Katie did this, that's why nobody wants to. He said the same thing with me. Like, because I Is he going to say me? Hold on. >> Me anyway. Because I was friends with Frog Tony. >> Okay. So, he's going to blame recent situations for the fact that people have, you know, these longstanding kind of grudges against him. Um, and they've, you know, [clears thr",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "zkW4zLSQ7eQ",
+      "title": "You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto!",
+      "left": "Liam Gray",
+      "right": "Frog Tony",
+      "signal_type": "promoted",
+      "timestamp": "04:00:00",
+      "confidence": 0.48,
+      "receipt": "g uh to be worried about. Otherwise, everything is real vague all the time. It's weird. Um I'm not going to watch that right now. There's a video on Katy Ds called The Tribunal of Liam Gray where Stray Beans goes over to him regarding the the CP Dropbox, the alleged CP Dropbox, and goes, \"Uh, you know, people are asking like if you had this Dropbox like and you knew",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "zkW4zLSQ7eQ",
+      "title": "You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto!",
+      "left": "Frog Tony",
+      "right": "Shane Davis",
+      "signal_type": "promoted",
+      "timestamp": "04:00:00",
+      "confidence": 0.48,
+      "receipt": "e, uh, because Katie did this, that's why nobody wants to. He said the same thing with me. Like, because I Is he going to say me? Hold on. >> Me anyway. Because I was friends with Frog Tony. >> Okay. So, he's going to blame recent situations for the fact that people have, you know, these longstanding kind of grudges against him. Um, and they've, you know, [clears thr",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "zkW4zLSQ7eQ",
+      "title": "You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto!",
+      "left": "Frog Tony",
+      "right": "Stray Beans",
+      "signal_type": "promoted",
+      "timestamp": "04:00:00",
+      "confidence": 0.48,
+      "receipt": "e, uh, because Katie did this, that's why nobody wants to. He said the same thing with me. Like, because I Is he going to say me? Hold on. >> Me anyway. Because I was friends with Frog Tony. >> Okay. So, he's going to blame recent situations for the fact that people have, you know, these longstanding kind of grudges against him. Um, and they've, you know, [clears thr",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "zkW4zLSQ7eQ",
+      "title": "You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto!",
+      "left": "Liam Gray",
+      "right": "Frog Tony",
+      "signal_type": "separation",
+      "timestamp": "04:00:00",
+      "confidence": 0.48,
+      "receipt": "g uh to be worried about. Otherwise, everything is real vague all the time. It's weird. Um I'm not going to watch that right now. There's a video on Katy Ds called The Tribunal of Liam Gray where Stray Beans goes over to him regarding the the CP Dropbox, the alleged CP Dropbox, and goes, \"Uh, you know, people are asking like if you had this Dropbox like and you knew",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "66FqtP0Wves",
+      "title": "It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on \"WOKE\"! LANTERNS Spoilers?!",
+      "left": "Eric July",
+      "right": "Frog Tony",
+      "signal_type": "separation",
+      "timestamp": "01:12:01",
+      "confidence": 0.48,
+      "receipt": "sh cat trash cast perspective. By the way, I changed my mind. Shout out Russell Hall. This is great. He's sitting there going, \"Uh, you had to stop saying racist [ __ ] because of Eric July, right?\" And Christiey's like, \"Uh, no. Uh, no, that's not it. That wasn't it. Oh, it's because of Eric July and uh, you know, you can't say racist stuff because that would make t",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "66FqtP0Wves",
+      "title": "It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on \"WOKE\"! LANTERNS Spoilers?!",
+      "left": "Eric July",
+      "right": "Frog Tony",
+      "signal_type": "criticised",
+      "timestamp": "01:24:01",
+      "confidence": 0.48,
+      "receipt": "ings lies about his coffee business. And by the way, his coffee business is 100% just like the Ripverse. And the way he lies about his coffee business, 100% just like the same way Eric July lies about Ripverse. It is fantastic. They like probably like Eric should have just been selling coffee all along because these guys who were selling coffee from you know uh what'",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "66FqtP0Wves",
+      "title": "It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on \"WOKE\"! LANTERNS Spoilers?!",
+      "left": "Frog Tony",
+      "right": "Cyberfrog",
+      "signal_type": "criticised",
+      "timestamp": "01:24:01",
+      "confidence": 0.48,
+      "receipt": "ctually, I don't say that. Okay, you can make fun of my nose. I don't care. I'm just saying that like I can't do anything about it. Your nose is off limits because of surgery, but Frog Tony's teeth are fine. Those would require surgery to fix. No. No, no, no. Oh my god. Yashim Mataro, my logic is sound. My nose was born this way. My nose, but I can't. I could I could",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "title": "The Ark Of Leem, LDA-King Stream",
+      "left": "Frog Tony",
+      "right": "Sturgis",
+      "signal_type": "criticised",
+      "timestamp": "12:00",
+      "confidence": 0.48,
+      "receipt": "t of a chi boom who decided to try to uh I guess, you know, [ __ ] talk me, right? tried to defame me with some NEFARIOUS LIES. WELL, THE other day this Chboom decided to go on to Frog Tony's channel and a friend of hers, a mutual friend of hers went on there and said that he just didn't really believe what she was saying. Was very nice, very polite and you had Frog",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "title": "The Ark Of Leem, LDA-King Stream",
+      "left": "Frog Tony",
+      "right": "Sturgis",
+      "signal_type": "promoted",
+      "timestamp": "12:00",
+      "confidence": 0.48,
+      "receipt": "t of a chi boom who decided to try to uh I guess, you know, [ __ ] talk me, right? tried to defame me with some NEFARIOUS LIES. WELL, THE other day this Chboom decided to go on to Frog Tony's channel and a friend of hers, a mutual friend of hers went on there and said that he just didn't really believe what she was saying. Was very nice, very polite and you had Frog",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "title": "The Ark Of Leem, LDA-King Stream",
+      "left": "Frog Tony",
+      "right": "Sturgis",
+      "signal_type": "collaborated",
+      "timestamp": "12:00",
+      "confidence": 0.48,
+      "receipt": "t of a chi boom who decided to try to uh I guess, you know, [ __ ] talk me, right? tried to defame me with some NEFARIOUS LIES. WELL, THE other day this Chboom decided to go on to Frog Tony's channel and a friend of hers, a mutual friend of hers went on there and said that he just didn't really believe what she was saying. Was very nice, very polite and you had Frog",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "title": "The Ark Of Leem, LDA-King Stream",
+      "left": "Liam Gray",
+      "right": "Frog Tony",
+      "signal_type": "legal_conflict",
+      "timestamp": "48:01",
+      "confidence": 0.48,
+      "receipt": "t reads like a ladies memoir. You got to remember this is taking place from like kindergarten until now. So this is from the 80s until now that this lady is reciting the legend of Liam Gray, the girl who tried the Liam arc of all time that a literal you opened up. We have been given Liam's brain. All right. We've been given his skull and been allowed to like pop it p",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "title": "The Ark Of Leem, LDA-King Stream",
+      "left": "Frog Tony",
+      "right": "Stray Beans",
+      "signal_type": "promoted",
+      "timestamp": "02:12:01",
+      "confidence": 0.48,
+      "receipt": "ng people not to buy commissions from him. >> What? >> Yeah. Yeah. You you don't think maybe maybe uh him not getting any sort of sales or commissions now has something to do with Frog Tony running around calling him a tracer for a month and doxing him about being a crook >> and probably some other things too but >> maybe you know considering I DON'T GIVE A [ __ ] RE",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "title": "The Ark Of Leem, LDA-King Stream",
+      "left": "Frog Tony",
+      "right": "Sturgis",
+      "signal_type": "separation",
+      "timestamp": "02:36:00",
+      "confidence": 0.48,
+      "receipt": "gy's absolutely correct. Right. We They made zero. We said zero, so we've clocked it. >> Yeah. So, okay. So, you're right about that. But [ __ ] don't even pay attention to [ __ ] Frog Tony's uh super chats or super tips or whatever the [ __ ] Like, >> yeah. I don't. >> So, how we watch how we pocket watch it? >> Yeah, >> it makes no sense. >> I mean, either way, in",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "title": "The Ark Of Leem, LDA-King Stream",
+      "left": "Frog Tony",
+      "right": "Eric July",
+      "signal_type": "separation",
+      "timestamp": "02:36:00",
+      "confidence": 0.48,
+      "receipt": "gy's absolutely correct. Right. We They made zero. We said zero, so we've clocked it. >> Yeah. So, okay. So, you're right about that. But [ __ ] don't even pay attention to [ __ ] Frog Tony's uh super chats or super tips or whatever the [ __ ] Like, >> yeah. I don't. >> So, how we watch how we pocket watch it? >> Yeah, >> it makes no sense. >> I mean, either way, in",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "title": "The Ark Of Leem, LDA-King Stream",
+      "left": "Liam Gray",
+      "right": "Frog Tony",
+      "signal_type": "defended",
+      "timestamp": "03:24:00",
+      "confidence": 0.48,
+      "receipt": "ay they are. We have uh researched [clears throat] the email. We have uh researched everything that that she has brought to our door. And at this point, we are under the idea that Liam Gray put on a wig, put on a skirt, and decided to pin this himself. So, >> would you write my letter? I'd write my letter. >> Would you write my Would you write my letter? I'd write my",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "RxZ_OdBN2f0",
+      "title": "Katydid Caught LYING AGAIN! - Detractor Kings",
+      "left": "Frog Tony",
+      "right": "Sturgis",
+      "signal_type": "defended",
+      "timestamp": "00:00",
+      "confidence": 0.48,
+      "receipt": "oom [music] smokes. A thousand miles and running. THE FROG HAS GOT THE WHOLE TOWN BUZZING. THEY CRIED [music] OVER JOKES. NOW they're fussing. A thousand miles and running. >> I'M FROG TONY. Let me tell you who I be. Drink tequila WITH AN APPLE SITTING NEXT to me. Working [music] in the garbage factory all day long AND COMICS AND VIDEO GAMES TILL THE BREAK OF DAWN. S",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "RxZ_OdBN2f0",
+      "title": "Katydid Caught LYING AGAIN! - Detractor Kings",
+      "left": "Frog Tony",
+      "right": "Stray Beans",
+      "signal_type": "defended",
+      "timestamp": "00:00",
+      "confidence": 0.48,
+      "receipt": "oom [music] smokes. A thousand miles and running. THE FROG HAS GOT THE WHOLE TOWN BUZZING. THEY CRIED [music] OVER JOKES. NOW they're fussing. A thousand miles and running. >> I'M FROG TONY. Let me tell you who I be. Drink tequila WITH AN APPLE SITTING NEXT to me. Working [music] in the garbage factory all day long AND COMICS AND VIDEO GAMES TILL THE BREAK OF DAWN. S",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "RxZ_OdBN2f0",
+      "title": "Katydid Caught LYING AGAIN! - Detractor Kings",
+      "left": "Frog Tony",
+      "right": "Sturgis",
+      "signal_type": "collaborated",
+      "timestamp": "00:00",
+      "confidence": 0.48,
+      "receipt": "oom [music] smokes. A thousand miles and running. THE FROG HAS GOT THE WHOLE TOWN BUZZING. THEY CRIED [music] OVER JOKES. NOW they're fussing. A thousand miles and running. >> I'M FROG TONY. Let me tell you who I be. Drink tequila WITH AN APPLE SITTING NEXT to me. Working [music] in the garbage factory all day long AND COMICS AND VIDEO GAMES TILL THE BREAK OF DAWN. S",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "RxZ_OdBN2f0",
+      "title": "Katydid Caught LYING AGAIN! - Detractor Kings",
+      "left": "Frog Tony",
+      "right": "Stray Beans",
+      "signal_type": "collaborated",
+      "timestamp": "00:00",
+      "confidence": 0.48,
+      "receipt": "oom [music] smokes. A thousand miles and running. THE FROG HAS GOT THE WHOLE TOWN BUZZING. THEY CRIED [music] OVER JOKES. NOW they're fussing. A thousand miles and running. >> I'M FROG TONY. Let me tell you who I be. Drink tequila WITH AN APPLE SITTING NEXT to me. Working [music] in the garbage factory all day long AND COMICS AND VIDEO GAMES TILL THE BREAK OF DAWN. S",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "RxZ_OdBN2f0",
+      "title": "Katydid Caught LYING AGAIN! - Detractor Kings",
+      "left": "Frog Tony",
+      "right": "Sturgis",
+      "signal_type": "separation",
+      "timestamp": "00:00",
+      "confidence": 0.48,
+      "receipt": "oom [music] smokes. A thousand miles and running. THE FROG HAS GOT THE WHOLE TOWN BUZZING. THEY CRIED [music] OVER JOKES. NOW they're fussing. A thousand miles and running. >> I'M FROG TONY. Let me tell you who I be. Drink tequila WITH AN APPLE SITTING NEXT to me. Working [music] in the garbage factory all day long AND COMICS AND VIDEO GAMES TILL THE BREAK OF DAWN. S",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "RxZ_OdBN2f0",
+      "title": "Katydid Caught LYING AGAIN! - Detractor Kings",
+      "left": "Frog Tony",
+      "right": "Stray Beans",
+      "signal_type": "separation",
+      "timestamp": "00:00",
+      "confidence": 0.48,
+      "receipt": "oom [music] smokes. A thousand miles and running. THE FROG HAS GOT THE WHOLE TOWN BUZZING. THEY CRIED [music] OVER JOKES. NOW they're fussing. A thousand miles and running. >> I'M FROG TONY. Let me tell you who I be. Drink tequila WITH AN APPLE SITTING NEXT to me. Working [music] in the garbage factory all day long AND COMICS AND VIDEO GAMES TILL THE BREAK OF DAWN. S",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "RxZ_OdBN2f0",
+      "title": "Katydid Caught LYING AGAIN! - Detractor Kings",
+      "left": "Eric July",
+      "right": "Frog Tony",
+      "signal_type": "defended",
+      "timestamp": "24:01",
+      "confidence": 0.48,
+      "receipt": "m. What Katie did >> man I hate her name because like what Katie did did what Katie did did what she done did is uh >> Katie done she was watching Nick Ricada. She was watching uh Eric July Yellow Flash because you know the weeb wars [ __ ] right? So she was watching the weeb wars [ __ ] and all the [ __ ] >> What the hell? Okay, >> pause it. Pause it. What's the wee",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "RxZ_OdBN2f0",
+      "title": "Katydid Caught LYING AGAIN! - Detractor Kings",
+      "left": "Frog Tony",
+      "right": "Shane Davis",
+      "signal_type": "defended",
+      "timestamp": "24:01",
+      "confidence": 0.48,
+      "receipt": "atie was a big fan of Eric July because she said that, right? >> Probably too. Yeah. tug. Uh, so, >> oh, okay. >> The idea that she was a I was here two years before I ever gotten Frog Tony stream. Uh, I mean, the fact that Katie repeatedly has said Frog Tony's the reason why I'm here. If it wasn't for Frog Tony, I wouldn't be in comics. Frog Tonyy's the one who brou",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "RxZ_OdBN2f0",
+      "title": "Katydid Caught LYING AGAIN! - Detractor Kings",
+      "left": "Eric July",
+      "right": "Frog Tony",
+      "signal_type": "collaborated",
+      "timestamp": "24:01",
+      "confidence": 0.48,
+      "receipt": "m. What Katie did >> man I hate her name because like what Katie did did what Katie did did what she done did is uh >> Katie done she was watching Nick Ricada. She was watching uh Eric July Yellow Flash because you know the weeb wars [ __ ] right? So she was watching the weeb wars [ __ ] and all the [ __ ] >> What the hell? Okay, >> pause it. Pause it. What's the wee",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "RxZ_OdBN2f0",
+      "title": "Katydid Caught LYING AGAIN! - Detractor Kings",
+      "left": "Frog Tony",
+      "right": "Shane Davis",
+      "signal_type": "collaborated",
+      "timestamp": "24:01",
+      "confidence": 0.48,
+      "receipt": "atie was a big fan of Eric July because she said that, right? >> Probably too. Yeah. tug. Uh, so, >> oh, okay. >> The idea that she was a I was here two years before I ever gotten Frog Tony stream. Uh, I mean, the fact that Katie repeatedly has said Frog Tony's the reason why I'm here. If it wasn't for Frog Tony, I wouldn't be in comics. Frog Tonyy's the one who brou",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "6GIxuFOICAI",
+      "title": "Catching Up With The Rippaverse! - Detractor Kings",
+      "left": "Eric July",
+      "right": "Frog Tony",
+      "signal_type": "defended",
+      "timestamp": "48:00",
+      "confidence": 0.48,
+      "receipt": "t's talk about econ. And that is a little bit of a throwback because there were many of you that had come to me for that material. And so that is differential. >> They all came to Eric July for his economical wisdoms. Come on. >> No, they didn't. They listened politely because they liked you. They didn't come to [laughter] you for that [ __ ] >> His business acumen.",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "7LMz5W0-mLs",
+      "title": "Finbarr STOMPS A Dwarf! - OPEN PANEL MADHOUSE!!!!",
+      "left": "Frog Tony",
+      "right": "Eric July",
+      "signal_type": "collaborated",
+      "timestamp": "02:48:01",
+      "confidence": 0.48,
+      "receipt": ">> Is it? >> When the [ __ ] did one gun get here? >> A while ago. >> Yeah, a while ago. Ruby was actually helping play producer by bringing people up on the panel. It was great. Frog Tony just said that he should be co-host for the biggest problem in the universe. He said he would make a great co-host. Could you please give me that time stamp? How far back? Just li",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "7LMz5W0-mLs",
+      "title": "Finbarr STOMPS A Dwarf! - OPEN PANEL MADHOUSE!!!!",
+      "left": "Frog Tony",
+      "right": "Stray Beans",
+      "signal_type": "collaborated",
+      "timestamp": "02:48:01",
+      "confidence": 0.48,
+      "receipt": ">> Is it? >> When the [ __ ] did one gun get here? >> A while ago. >> Yeah, a while ago. Ruby was actually helping play producer by bringing people up on the panel. It was great. Frog Tony just said that he should be co-host for the biggest problem in the universe. He said he would make a great co-host. Could you please give me that time stamp? How far back? Just li",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "SlodiZOj8bE",
+      "title": "FROG TONY'S FREEDOM FIGHTING FORCE | FBI Investigation DRAMA Escalates",
+      "left": "Liam Gray",
+      "right": "Frog Tony",
+      "signal_type": "promoted",
+      "timestamp": "36:02",
+      "confidence": 0.48,
+      "receipt": "ybody, it's me, Ethan Vans. Hang on. >> That's Harry Little, the person who just I mean obviously gave us a generous $50 >> says for real >> who are the new zeros. Um I CG meaning Liam Gray and this Tony. Well, I mean if you're a founder like I would think I mean you would at least know who Liam was because Liam's been around for like five or six years plus. So he's",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "SlodiZOj8bE",
+      "title": "FROG TONY'S FREEDOM FIGHTING FORCE | FBI Investigation DRAMA Escalates",
+      "left": "Frog Tony",
+      "right": "Sturgis",
+      "signal_type": "defended",
+      "timestamp": "01:00:00",
+      "confidence": 0.48,
+      "receipt": "guess after what EBS said has been him incriminating himself harder and harder and harder [laughter] and basically just giving [snorts] them way more stuff >> just like it wasn't Frog Tony that made the comment that could be considered an actionable threat though was it? Yeah. >> No, but Frog Tony is doing what I'm doing, which is making other people's drama about m",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "SlodiZOj8bE",
+      "title": "FROG TONY'S FREEDOM FIGHTING FORCE | FBI Investigation DRAMA Escalates",
+      "left": "Frog Tony",
+      "right": "Sturgis",
+      "signal_type": "separation",
+      "timestamp": "01:12:00",
+      "confidence": 0.48,
+      "receipt": "s, right? And so we >> did you hear then that he said people pretending there's reports like um I'm not sure. I don't think it's in this clip. There's another clip where I've seen Frog Tony suggesting that the whole thing's a madeup lie, right? Which is valid to consider. Like it's an option. >> Yeah. Even I asked how much of this was Kay Fabe and like just Ethan and",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "MBKTh4fSITU",
+      "title": "\"MINISTRY OF UNGENTLEMANLY TWEETS\" EXPOSES COMMI3 MARK - OH NO!",
+      "left": "Eric July",
+      "right": "Frog Tony",
+      "signal_type": "promoted",
+      "timestamp": "01:00:02",
+      "confidence": 0.48,
+      "receipt": "an individual gets the best numbers and it like um that's obviously [snorts] apparent. Uh, so I was thinking who do we do it on? Like we've just done Frog Tony, Little Movie Pop, Eric July. Um, what's next? And um I got a notification that I've been added to a list um this list June 24th, 2026 by the Ministry of Ungentlemanly Tweets. So I click on the list, right? Y",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "lYws0Rqt8Bs",
+      "title": "Supergirl BOMBS And Might END The DCU! - CG Suburbs",
+      "left": "Liam Gray",
+      "right": "Frog Tony",
+      "signal_type": "collaborated",
+      "timestamp": "00:00",
+      "confidence": 0.48,
+      "receipt": "Straight beans. >> Yeah, the total accurate thing of thin bar is really nice. >> Yeah, it really is. I mean, that is exactly what he looks like behind the avatar. And there he is. Liam Gray. I was demanding >> Liam Gray. Hold on. >> How you doing? >> I was demanding him. I wanted Liam Gray tonight because we have something super special for Mr. Gray. >> He's a terrib",
+      "warning": "candidate relationship evidence; requires review"
+    }
+  ],
+  "story_candidates": [
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 1.0
+    },
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.8
+    },
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.5
+    },
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "score": 0.429
+    },
+    {
+      "video_id": "LS_14uOaG2E",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 1.0
+    },
+    {
+      "video_id": "LS_14uOaG2E",
+      "story_id": "thequartering-kino-casino-conflict",
+      "title": "TheQuartering / Kino Casino conflict",
+      "score": 0.75
+    },
+    {
+      "video_id": "LS_14uOaG2E",
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.6
+    },
+    {
+      "video_id": "LS_14uOaG2E",
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "score": 0.571
+    },
+    {
+      "video_id": "LS_14uOaG2E",
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.5
+    },
+    {
+      "video_id": "zkW4zLSQ7eQ",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 1.0
+    },
+    {
+      "video_id": "zkW4zLSQ7eQ",
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.75
+    },
+    {
+      "video_id": "zkW4zLSQ7eQ",
+      "story_id": "nick-rekieta-reputation-fallout",
+      "title": "Nick Rekieta reputation and downfall coverage",
+      "score": 0.667
+    },
+    {
+      "video_id": "zkW4zLSQ7eQ",
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.6
+    },
+    {
+      "video_id": "zkW4zLSQ7eQ",
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "score": 0.571
+    },
+    {
+      "video_id": "66FqtP0Wves",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 1.0
+    },
+    {
+      "video_id": "66FqtP0Wves",
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.8
+    },
+    {
+      "video_id": "66FqtP0Wves",
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.75
+    },
+    {
+      "video_id": "66FqtP0Wves",
+      "story_id": "thequartering-kino-casino-conflict",
+      "title": "TheQuartering / Kino Casino conflict",
+      "score": 0.75
+    },
+    {
+      "video_id": "66FqtP0Wves",
+      "story_id": "thequartering-coffee-business-scrutiny",
+      "title": "TheQuartering coffee-business scrutiny and expansion",
+      "score": 0.667
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 1.0
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.8
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.5
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "story_id": "thequartering-coffee-business-scrutiny",
+      "title": "TheQuartering coffee-business scrutiny and expansion",
+      "score": 0.5
+    },
+    {
+      "video_id": "VBJwPPZ1LeY",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.833
+    },
+    {
+      "video_id": "VBJwPPZ1LeY",
+      "story_id": "steel-toe-hro",
+      "title": "Steel Toe HRO",
+      "score": 0.667
+    },
+    {
+      "video_id": "VBJwPPZ1LeY",
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.6
+    },
+    {
+      "video_id": "VBJwPPZ1LeY",
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.5
+    },
+    {
+      "video_id": "VBJwPPZ1LeY",
+      "story_id": "nick-rekieta-reputation-fallout",
+      "title": "Nick Rekieta reputation and downfall coverage",
+      "score": 0.5
+    },
+    {
+      "video_id": "RxZ_OdBN2f0",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.833
+    },
+    {
+      "video_id": "RxZ_OdBN2f0",
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.8
+    },
+    {
+      "video_id": "RxZ_OdBN2f0",
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.5
+    },
+    {
+      "video_id": "RxZ_OdBN2f0",
+      "story_id": "nick-rekieta-reputation-fallout",
+      "title": "Nick Rekieta reputation and downfall coverage",
+      "score": 0.5
+    },
+    {
+      "video_id": "RxZ_OdBN2f0",
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "score": 0.429
+    },
+    {
+      "video_id": "ibGd2AqrEXg",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.833
+    },
+    {
+      "video_id": "ibGd2AqrEXg",
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.75
+    },
+    {
+      "video_id": "ibGd2AqrEXg",
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "score": 0.429
+    },
+    {
+      "video_id": "ibGd2AqrEXg",
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.4
+    },
+    {
+      "video_id": "MOQPFnHJYR0",
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.8
+    },
+    {
+      "video_id": "MOQPFnHJYR0",
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.75
+    },
+    {
+      "video_id": "MOQPFnHJYR0",
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "score": 0.571
+    },
+    {
+      "video_id": "MOQPFnHJYR0",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.5
+    },
+    {
+      "video_id": "MOQPFnHJYR0",
+      "story_id": "thequartering-coffee-business-scrutiny",
+      "title": "TheQuartering coffee-business scrutiny and expansion",
+      "score": 0.5
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 1.0
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.8
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.75
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "score": 0.429
+    },
+    {
+      "video_id": "6GIxuFOICAI",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.833
+    },
+    {
+      "video_id": "6GIxuFOICAI",
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.8
+    },
+    {
+      "video_id": "6GIxuFOICAI",
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.75
+    },
+    {
+      "video_id": "6GIxuFOICAI",
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "score": 0.571
+    },
+    {
+      "video_id": "7LMz5W0-mLs",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.833
+    },
+    {
+      "video_id": "7LMz5W0-mLs",
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.6
+    },
+    {
+      "video_id": "7LMz5W0-mLs",
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.5
+    },
+    {
+      "video_id": "7LMz5W0-mLs",
+      "story_id": "thequartering-coffee-business-scrutiny",
+      "title": "TheQuartering coffee-business scrutiny and expansion",
+      "score": 0.5
+    },
+    {
+      "video_id": "7LMz5W0-mLs",
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "score": 0.429
+    },
+    {
+      "video_id": "LdLy2G5TM4c",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.833
+    },
+    {
+      "video_id": "LdLy2G5TM4c",
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.6
+    },
+    {
+      "video_id": "LdLy2G5TM4c",
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "score": 0.429
+    },
+    {
+      "video_id": "N52SC2cLnvY",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.833
+    },
+    {
+      "video_id": "N52SC2cLnvY",
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.75
+    },
+    {
+      "video_id": "N52SC2cLnvY",
+      "story_id": "nick-rekieta-reputation-fallout",
+      "title": "Nick Rekieta reputation and downfall coverage",
+      "score": 0.667
+    },
+    {
+      "video_id": "N52SC2cLnvY",
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.6
+    },
+    {
+      "video_id": "N52SC2cLnvY",
+      "story_id": "thequartering-coffee-business-scrutiny",
+      "title": "TheQuartering coffee-business scrutiny and expansion",
+      "score": 0.5
+    },
+    {
+      "video_id": "SlodiZOj8bE",
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.8
+    },
+    {
+      "video_id": "SlodiZOj8bE",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.5
+    },
+    {
+      "video_id": "SlodiZOj8bE",
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.5
+    },
+    {
+      "video_id": "FrQfU1Y84Nk",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.833
+    },
+    {
+      "video_id": "FrQfU1Y84Nk",
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.6
+    },
+    {
+      "video_id": "FrQfU1Y84Nk",
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.5
+    },
+    {
+      "video_id": "Zd9PVsLAD5c",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 1.0
+    },
+    {
+      "video_id": "Zd9PVsLAD5c",
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.75
+    },
+    {
+      "video_id": "Zd9PVsLAD5c",
+      "story_id": "thequartering-kino-casino-conflict",
+      "title": "TheQuartering / Kino Casino conflict",
+      "score": 0.5
+    },
+    {
+      "video_id": "Zd9PVsLAD5c",
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.4
+    },
+    {
+      "video_id": "qLcrzaJJKiQ",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.5
+    },
+    {
+      "video_id": "qLcrzaJJKiQ",
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.5
+    },
+    {
+      "video_id": "qLcrzaJJKiQ",
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.4
+    },
+    {
+      "video_id": "MBKTh4fSITU",
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.8
+    },
+    {
+      "video_id": "MBKTh4fSITU",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.5
+    },
+    {
+      "video_id": "MBKTh4fSITU",
+      "story_id": "thequartering-coffee-business-scrutiny",
+      "title": "TheQuartering coffee-business scrutiny and expansion",
+      "score": 0.5
+    },
+    {
+      "video_id": "MBKTh4fSITU",
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "score": 0.429
+    },
+    {
+      "video_id": "lYws0Rqt8Bs",
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.6
+    },
+    {
+      "video_id": "lYws0Rqt8Bs",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.5
+    },
+    {
+      "video_id": "lYws0Rqt8Bs",
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.5
+    },
+    {
+      "video_id": "ims2nZAnn-s",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.667
+    },
+    {
+      "video_id": "ims2nZAnn-s",
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.6
+    },
+    {
+      "video_id": "ims2nZAnn-s",
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "score": 0.429
+    },
+    {
+      "video_id": "pltu7sa30D8",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.667
+    },
+    {
+      "video_id": "pltu7sa30D8",
+      "story_id": "steel-toe-hro",
+      "title": "Steel Toe HRO",
+      "score": 0.667
+    },
+    {
+      "video_id": "pltu7sa30D8",
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "score": 0.429
+    },
+    {
+      "video_id": "pltu7sa30D8",
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.4
+    },
+    {
+      "video_id": "odC_ijF0FE4",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.833
+    },
+    {
+      "video_id": "odC_ijF0FE4",
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.6
+    },
+    {
+      "video_id": "odC_ijF0FE4",
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "score": 0.429
+    },
+    {
+      "video_id": "IGwEBXZDVt0",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.5
+    },
+    {
+      "video_id": "IGwEBXZDVt0",
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.5
+    },
+    {
+      "video_id": "F1ouqRPhAdM",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.667
+    },
+    {
+      "video_id": "F1ouqRPhAdM",
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.6
+    },
+    {
+      "video_id": "F1ouqRPhAdM",
+      "story_id": "nick-rekieta-reputation-fallout",
+      "title": "Nick Rekieta reputation and downfall coverage",
+      "score": 0.5
+    },
+    {
+      "video_id": "F1ouqRPhAdM",
+      "story_id": "thequartering-coffee-business-scrutiny",
+      "title": "TheQuartering coffee-business scrutiny and expansion",
+      "score": 0.5
+    },
+    {
+      "video_id": "3q0Lk5Vap5U",
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.6
+    },
+    {
+      "video_id": "3q0Lk5Vap5U",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.5
+    },
+    {
+      "video_id": "3q0Lk5Vap5U",
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "score": 0.429
+    },
+    {
+      "video_id": "9OJNBEVnTBk",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.667
+    },
+    {
+      "video_id": "9OJNBEVnTBk",
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "score": 0.429
+    },
+    {
+      "video_id": "9OJNBEVnTBk",
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.4
+    },
+    {
+      "video_id": "2m31Eip6Cmg",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.5
+    },
+    {
+      "video_id": "2m31Eip6Cmg",
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.5
+    },
+    {
+      "video_id": "O5BcX4ir3-0",
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.6
+    },
+    {
+      "video_id": "4sQhgipvxyU",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.5
+    },
+    {
+      "video_id": "4sQhgipvxyU",
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.4
+    },
+    {
+      "video_id": "HpCU9xQ1G4E",
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.4
+    }
+  ]
+}

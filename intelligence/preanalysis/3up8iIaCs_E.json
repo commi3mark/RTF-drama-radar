@@ -1,6 +1,6 @@
 {
-  "schema_version": "octopuss-preanalysis-v0.1",
-  "generated_at": "2026-07-15T21:04:20.870831+00:00",
+  "schema_version": "octopuss-preanalysis-v0.2",
+  "generated_at": "2026-07-15T21:17:14.532166+00:00",
   "video_id": "3up8iIaCs_E",
   "title": "Absolute Batman Scam? Mark Brooks Exposes How Retailers Screw Artists!",
   "source": "Shane Davis",
@@ -19,7 +19,7 @@
     {
       "entity": "Shane Davis",
       "role_guess": "host_or_channel_identity",
-      "confidence": 0.72,
+      "confidence": 0.75,
       "signals": [
         "packet source/channel identity"
       ]
@@ -27,48 +27,24 @@
   ],
   "subjects": [
     {
-      "entity": "BackMeBro",
-      "mentions": 1,
-      "block_count": 1,
-      "first_timestamp": "12:01",
-      "last_timestamp": "15:13",
-      "discussion_span_seconds": 191.6,
-      "importance_guess": "passing",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.667,
-        "positive_hits": 5,
-        "negative_hits": 1
-      },
-      "receipts": [
-        {
-          "timestamp": "12:01",
-          "excerpt": "retailers, you kind of see where I land on this. And in some cases, if you look at Abrams Books with what Rob is saying, they're already getting ready to license these direct to creators. We got Alex Ross Marvel Dimensions. Pre-order is up now. Abrams just published a sold-out John Byrne book, by the way. Again, Marvel didn't make most of that money. Comic shops, they can make this money, sure, but we are dangerously getting close to a"
-        }
-      ],
-      "appearance_status": "uncertain"
-    },
-    {
       "entity": "Shane Davis",
       "mentions": 1,
       "block_count": 1,
       "first_timestamp": "00:04",
       "last_timestamp": "12:04",
-      "discussion_span_seconds": 719.3,
       "importance_guess": "passing",
       "sentiment": {
-        "label": "positive",
-        "score": 1.0,
-        "positive_hits": 21,
+        "label": "unclear",
+        "score": 0.0,
+        "positive_hits": 0,
         "negative_hits": 0
       },
       "receipts": [
         {
           "timestamp": "00:04",
-          "excerpt": "Hello guys, I'm Shane Davis and we're here to talk about the big fiasco with absolute Batman as Mark Brooks says, \"Give me that money. Give me that money.\" That's what Mark Brooks is saying for absolute Batman 22 exclusive cover. Mark Brooks is pu"
+          "excerpt": "Hello guys, I'm Shane Davis and we're here to talk about the big fiasco with absolute Batman as Mark Brooks says, \"Give me that money. Give me that money.\" That's what Mark Brooks is saying for absolute Batm"
         }
-      ],
-      "appearance_status": "uncertain"
+      ]
     }
   ],
   "chapters": [
@@ -79,81 +55,45 @@
       "entities": [
         "Shane Davis"
       ],
-      "summary_seed": "Hello guys, I'm Shane Davis and we're here to talk about the big fiasco with absolute Batman as Mark Brooks says, \"Give me that money. Give me that money.\" That's what Mark Brooks is saying for absolute Batman 22 exclusive cover. Mark Brooks is pulling these things and running them on his own website right now. Big markups, I guess a membership, a paywall to get first dibs, skyrocketing prices for some of these cover",
-      "clip_likelihood": false,
-      "transition_markers": 1
+      "possible_clip": false,
+      "summary_seed": "Hello guys, I'm Shane Davis and we're here to talk about the big fiasco with absolute Batman as Mark Brooks says, \"Give me that money. Give me that money.\" That's what Mark Brooks is saying for absolute Batman 22 exclusive cover. Mark Brooks is pulling these things and running them on his own website right now. Big markups, I guess a membership, a"
     },
     {
       "start": "12:01",
       "end": "15:13",
-      "title": "BackMeBro",
-      "entities": [
-        "BackMeBro"
-      ],
-      "summary_seed": "retailers, you kind of see where I land on this. And in some cases, if you look at Abrams Books with what Rob is saying, they're already getting ready to license these direct to creators. We got Alex Ross Marvel Dimensions. Pre-order is up now. Abrams just published a sold-out John Byrne book, by the way. Again, Marvel didn't make most of that money. Comic shops, they can make this money, sure, but we are dangerously",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "retailers, you kind of see where I land on this. And in some cases, if you look at Abrams Books with what Rob is saying, they're already getting ready to license these direct to creators. We got Alex Ross Marvel Dimensions. Pre-order is up now. Abrams just published a sold-out John Byrne book, by the way. Again, Marvel didn't make most of that mone"
     }
   ],
   "claim_candidates": [
     {
-      "claimant": "Even Adam Phillips",
-      "claim": "when the sizzle is gone on this, that basically says like there will be no hundred thousand K book.",
-      "timestamp": "00:04",
-      "status": "candidate_claim",
-      "receipt": "Even Adam Phillips says when the sizzle is gone on this, that basically says like there will be no hundred thousand K book."
-    },
-    {
-      "claimant": "He",
-      "claim": "and once the Absolute Batman phenomenon fades, the 100k marker will be even less common and probably non-existent.\" Now, for people that don't know, the 100k marker is assuming Batman sells 100k.",
-      "timestamp": "00:04",
-      "status": "candidate_claim",
-      "receipt": "He says and once the Absolute Batman phenomenon fades, the 100k marker will be even less common and probably non-existent.\" Now, for people that don't know, the 100k marker is assuming Batman sells 100k."
-    },
-    {
       "claimant": "unknown speaker",
-      "claim": "this is why we're starting to see this fight right here.",
-      "timestamp": "00:04",
-      "status": "opinion_or_inference",
-      "receipt": "And I think this is why we're starting to see this fight right here."
-    },
-    {
-      "claimant": "and Rob gets in here and",
-      "claim": "this is the way that artists should start licensing these out and selling themselves, if you take that away from the retailers, I don't know what the retailers are going to do.",
+      "subjects": [
+        "Shane Davis"
+      ],
+      "claim": "Hello guys, I'm Shane Davis and we're here to talk about the big fiasco with absolute Batman as Mark Brooks says, \"Give me that money.",
       "timestamp": "00:04",
       "status": "candidate_claim",
-      "receipt": "If you start to take that away from them, and Rob gets in here and says this is the way that artists should start licensing these out and selling themselves, if you take that away from the retailers, I don't know what the retailers are going to do."
+      "confidence": 0.55,
+      "receipt": "Hello guys, I'm Shane Davis and we're here to talk about the big fiasco with absolute Batman as Mark Brooks says, \"Give me that money."
     }
   ],
-  "quote_candidates": [
-    {
-      "timestamp": "00:04",
-      "text": "Scott Campbell is one such a guy who's always commissioning his own uh covers to sell his own website.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "00:04",
-      "text": "And when they do these retail variants, they're basically they charge a lot because they can never sell what they have to order.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "00:04",
-      "text": "Now, keep in mind, a lot of these variant covers were always there to incentivize retailers, well, to sell more copies for the publisher, but to give the retailers a way to make more money, right?",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "12:01",
-      "text": "We never let up been down forever sick man we fed up.",
-      "significance_score": 1
-    }
-  ],
+  "quote_candidates": [],
   "relationship_signals": [],
-  "story_matches": [],
+  "story_matches": [
+    {
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.833
+    }
+  ],
+  "review_priority": 16,
   "uncertainty_flags": [
-    "speaker identity may be unknown",
+    "speaker attribution may be unknown",
     "clip voices may be mistaken for live participants",
-    "sentiment lexicon does not reliably detect sarcasm",
-    "relationship signals are candidates, not declarations",
-    "claims are not verified facts"
+    "sentiment lexicon cannot reliably detect sarcasm",
+    "claims and relationship signals remain candidates"
   ]
 }

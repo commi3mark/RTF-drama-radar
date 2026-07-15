@@ -2,46 +2,26 @@
 
 - **Video ID:** `7dsbRrEAJUo`
 - **Source:** Elissa Clips
-- **Published:** 2026-07-14T00:43:09+00:00
-- **Generated:** 2026-07-15T21:04:16.831077+00:00
+- **Review priority:** 3/100
 
-## Likely participants
+## Participant candidates
 
-- **Elissa Clips** — host_or_channel_identity; confidence 72%; packet source/channel identity
+- **Elissa Clips** — host_or_channel_identity (75%)
 
-## Subjects and sentiment receipts
+## Subjects
 
-### Chrissie Mayr
+- **Chrissie Mayr** — passing; 1 mentions; negative
 
-- Importance: **passing**
-- Mentions: **1** across **1** blocks
-- Span: 00:00–00:41
-- Sentiment guess: **mixed** (+0.333)
+## Strong claim candidates
 
-- **00:00:** Chrissy's going to be on Timcast. Hope it goes well. Hope she makes a million dollars. Hope she makes a million dollars. I I I did see that there is like I'm not I'm not there's so much to respond to but I I'm honestly I'm not going to respond to any of it. Because I think the people that are talking should continue to talk. And I'll just continue to grift. Because that's what I do best and uh I think that the people out there talking s
+_None passed the strong filter._
 
-## Topic map
+## Quote candidates
 
-- **00:00–00:41** — Chrissie Mayr
+_None passed the strong filter._
 
-## Claim candidates
+## Relationship candidates
 
-- **00:00 — unknown speaker:** the people that are talking should continue to talk. _[opinion_or_inference]_
-- **00:00 — unknown speaker:** that the people out there talking should continue to talk. _[opinion_or_inference]_
-- **00:00 — unknown speaker:** they are doing um they're doing me a a favor. _[opinion_or_inference]_
+_None passed the filter._
 
 ## Story matches
-
-_No existing story match crossed the threshold._
-
-## Relationship signals
-
-_No relationship-language candidates detected._
-
-## Uncertainty flags
-
-- speaker identity may be unknown
-- clip voices may be mistaken for live participants
-- sentiment lexicon does not reliably detect sarcasm
-- relationship signals are candidates, not declarations
-- claims are not verified facts

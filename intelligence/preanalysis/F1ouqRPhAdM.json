@@ -1,6 +1,6 @@
 {
-  "schema_version": "octopuss-preanalysis-v0.1",
-  "generated_at": "2026-07-15T21:04:25.261803+00:00",
+  "schema_version": "octopuss-preanalysis-v0.2",
+  "generated_at": "2026-07-15T21:17:17.858365+00:00",
   "video_id": "F1ouqRPhAdM",
   "title": "JCW Lunacy #88 Watch Party!",
   "source": "Frog Tony",
@@ -19,7 +19,7 @@
     {
       "entity": "Frog Tony",
       "role_guess": "host_or_channel_identity",
-      "confidence": 0.72,
+      "confidence": 0.75,
       "signals": [
         "packet source/channel identity"
       ]
@@ -28,41 +28,39 @@
   "subjects": [
     {
       "entity": "Frog Tony",
-      "mentions": 18,
+      "mentions": 10,
       "block_count": 5,
       "first_timestamp": "00:00",
       "last_timestamp": "01:24:01",
-      "discussion_span_seconds": 5041.4,
       "importance_guess": "major",
       "sentiment": {
         "label": "positive",
-        "score": 0.841,
-        "positive_hits": 127,
-        "negative_hits": 11
+        "score": 0.636,
+        "positive_hits": 18,
+        "negative_hits": 4
       },
       "receipts": [
         {
           "timestamp": "00:00",
-          "excerpt": "Yeah. Hey everybody, my name is Eouble. [music] Their name is PJ Harvey. Let's go. Mama told me. Yeah. [music] Like mama told me. Yeah. [music] Yeah. Come on. My mama told me one day I'mma grow up big and I'mma be a king. And my papa told me it's okay to say [music] sh. Don't forget your dreams cuz they'll get you through this. life [music] they call living what I call it strange and I bet I'll do it cuz I'm on my way [music] strong eno"
+          "excerpt": "Yeah. Hey everybody, my name is Eouble. [music] Their name is PJ Harvey. Let's go. Mama told me. Yeah. [music] Like mama told me. Yeah. [music] Yeah. Come on. My mama told me one day I'mma grow up big and I'mma be a king. And my papa told me it's okay to say [music] sh. Don't forget your dreams cuz they'll get you through this. life [music] they call living"
         },
         {
           "timestamp": "36:01",
-          "excerpt": "[ __ ] >> BUT WHAT YOU WILL do your [ __ ] champion. >> It looks like he's serving planet green. >> This is a new era of JCW. >> This is the era of the chosen one. And all you stupid will catch. And with a new champ, there's going to be some new rules around here. >> Uhoh. Uh >> oh. >> AND JOE DUMBROSSSKI UP THERE. I'm going to do this for you. Me. >> As of tonight, I am instituting the Jack Tunny rule. >> Uhoh. Jack. And what that mean"
+          "excerpt": "[ __ ] >> BUT WHAT YOU WILL do your [ __ ] champion. >> It looks like he's serving planet green. >> This is a new era of JCW. >> This is the era of the chosen one. And all you stupid will catch. And with a new champ, there's going to be some new rules around here. >> Uhoh. Uh >> oh. >> AND JOE DUMBROSSSKI UP THERE. I'm going to do this for you. Me. >> As of"
         },
         {
           "timestamp": "48:00",
-          "excerpt": ">> Damn, >> Mac. Davis giving him a talking to >> this week on a very special JCW. >> Facet. To me, Facet is like a like Danny Mo's brother. >> Your opening com. >> Introducing first. >> I think he's dating Danny Mo. I think they trained together. >> He He look kind of looks like Danny Mo. >> Thank you. Thank you, cameraman. >> Godamn it. That's his JCW. the [screaming] third >> a lunacy debut. BUT FOR THOSE UNAWARE, THE NAME MALCOLM MO"
+          "excerpt": ">> Damn, >> Mac. Davis giving him a talking to >> this week on a very special JCW. >> Facet. To me, Facet is like a like Danny Mo's brother. >> Your opening com. >> Introducing first. >> I think he's dating Danny Mo. I think they trained together. >> He He look kind of looks like Danny Mo. >> Thank you. Thank you, cameraman. >> Godamn it. That's his JCW. the"
         },
         {
           "timestamp": "01:00:01",
-          "excerpt": ">> No doubt Bronson has what it takes to become champion. >> You can see in the background that they got these two years. >> It was Davis getting involved. Bronson winning the title. Violet Jay reversed that decision which I would suggest many still feel very polarizing opinions on, but I would suggest it's the right call. But good move here to give Bronx another shot. one-on-one and >> now with THE AIR QUIR THE REFEREE JEFF THE refad a"
+          "excerpt": ">> No doubt Bronson has what it takes to become champion. >> You can see in the background that they got these two years. >> It was Davis getting involved. Bronson winning the title. Violet Jay reversed that decision which I would suggest many still feel very polarizing opinions on, but I would suggest it's the right call. But good move here to give Bronx an"
         },
         {
           "timestamp": "01:12:00",
-          "excerpt": "chop chop chop >> chop baby chopper baby. >> I love says these guys are you insult Chapo City. >> That's right. >> And isn't anything goes >> will ask not to be recorded. >> Introducing first. >> Oh [ __ ] >> Nope. >> Well, whether it's official or not, it's anything goes whenever you hear this music. Anything go >> did you see the guy that the camera >> hear this music >> guy right here >> that's the same boy they are the luch >> now n"
+          "excerpt": "chop chop chop >> chop baby chopper baby. >> I love says these guys are you insult Chapo City. >> That's right. >> And isn't anything goes >> will ask not to be recorded. >> Introducing first. >> Oh [ __ ] >> Nope. >> Well, whether it's official or not, it's anything goes whenever you hear this music. Anything go >> did you see the guy that the camera >> hea"
         }
-      ],
-      "appearance_status": "uncertain"
+      ]
     },
     {
       "entity": "Vito Gesualdi",
@@ -70,573 +68,137 @@
       "block_count": 2,
       "first_timestamp": "00:00",
       "last_timestamp": "01:24:01",
-      "discussion_span_seconds": 5041.4,
       "importance_guess": "secondary",
       "sentiment": {
         "label": "positive",
-        "score": 0.857,
-        "positive_hits": 65,
-        "negative_hits": 5
+        "score": 0.6,
+        "positive_hits": 8,
+        "negative_hits": 2
       },
       "receipts": [
         {
           "timestamp": "00:00",
-          "excerpt": "Yeah. Hey everybody, my name is Eouble. [music] Their name is PJ Harvey. Let's go. Mama told me. Yeah. [music] Like mama told me. Yeah. [music] Yeah. Come on. My mama told me one day I'mma grow up big and I'mma be a king. And my papa told me it's okay to say [music] sh. Don't forget your dreams cuz they'll get you through this. life [music] they call living what I call it strange and I bet I'll do it cuz I'm on my way [music] strong eno"
+          "excerpt": "Yeah. Hey everybody, my name is Eouble. [music] Their name is PJ Harvey. Let's go. Mama told me. Yeah. [music] Like mama told me. Yeah. [music] Yeah. Come on. My mama told me one day I'mma grow up big and I'mma be a king. And my papa told me it's okay to say [music] sh. Don't forget your dreams cuz they'll get you through this. life [music] they call living"
         },
         {
           "timestamp": "01:12:00",
-          "excerpt": "chop chop chop >> chop baby chopper baby. >> I love says these guys are you insult Chapo City. >> That's right. >> And isn't anything goes >> will ask not to be recorded. >> Introducing first. >> Oh [ __ ] >> Nope. >> Well, whether it's official or not, it's anything goes whenever you hear this music. Anything go >> did you see the guy that the camera >> hear this music >> guy right here >> that's the same boy they are the luch >> now n"
+          "excerpt": "chop chop chop >> chop baby chopper baby. >> I love says these guys are you insult Chapo City. >> That's right. >> And isn't anything goes >> will ask not to be recorded. >> Introducing first. >> Oh [ __ ] >> Nope. >> Well, whether it's official or not, it's anything goes whenever you hear this music. Anything go >> did you see the guy that the camera >> hea"
         }
-      ],
-      "appearance_status": "uncertain"
+      ]
     }
   ],
   "chapters": [
     {
       "start": "00:00",
       "end": "12:04",
-      "title": "Frog Tony / Vito Gesualdi",
-      "entities": [
-        "Frog Tony",
-        "Vito Gesualdi"
-      ],
-      "summary_seed": "Yeah. Hey everybody, my name is Eouble. [music] Their name is PJ Harvey. Let's go. Mama told me. Yeah. [music] Like mama told me. Yeah. [music] Yeah. Come on. My mama told me one day I'mma grow up big and I'mma be a king. And my papa told me it's okay to say [music] sh. Don't forget your dreams cuz they'll get you through this. life [music] they call living what I call it strange and I bet I'll do it cuz I'm on my wa",
-      "clip_likelihood": false,
-      "transition_markers": 1
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "Yeah. Hey everybody, my name is Eouble. [music] Their name is PJ Harvey. Let's go. Mama told me. Yeah. [music] Like mama told me. Yeah. [music] Yeah. Come on. My mama told me one day I'mma grow up big and I'mma be a king. And my papa told me it's okay to say [music] sh. Don't forget your dreams cuz they'll get you through this. life [music] they ca"
     },
     {
       "start": "12:01",
       "end": "24:03",
       "title": "General discussion",
       "entities": [],
-      "summary_seed": "the guy closer to you and you throw your the dominant leg forward and then you sweep backwards the guy's leg and you slam into the ground. That's uh that's an otoari. >> Nice. Uh what about you TJ? You back with us? >> Nothing. Nothing. >> Although my favorite euro throw is the uchimata which a inner leg sweep. Looks really cool. Young Wig does it in the fourth movie. He does an uchi a modified uchimata when instead",
-      "clip_likelihood": false,
-      "transition_markers": 3
+      "possible_clip": false,
+      "summary_seed": "the guy closer to you and you throw your the dominant leg forward and then you sweep backwards the guy's leg and you slam into the ground. That's uh that's an otoari. >> Nice. Uh what about you TJ? You back with us? >> Nothing. Nothing. >> Although my favorite euro throw is the uchimata which a inner leg sweep. Looks really cool. Young Wig does it"
     },
     {
       "start": "24:00",
       "end": "36:02",
       "title": "General discussion",
       "entities": [],
-      "summary_seed": ">> and it's like [laughter] >> the zombie? >> What are you waiting? >> Well, let me say this episode has a lot of other >> cocaine. >> OH, the champion will >> Mr. Happy made a little kicking for Russo. >> HE'S ALMOST MADE IT TO RUSSO. NO, THE CHAMPION BRINGS IT BACK IN. >> THIS WAS A GOOD MATCH. OH, STEVEN. >> YEAH, that was so much. >> I was I love Caleb Conley, but he was the assistant. >> I don't like him as the",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "possible_clip": false,
+      "summary_seed": ">> and it's like [laughter] >> the zombie? >> What are you waiting? >> Well, let me say this episode has a lot of other >> cocaine. >> OH, the champion will >> Mr. Happy made a little kicking for Russo. >> HE'S ALMOST MADE IT TO RUSSO. NO, THE CHAMPION BRINGS IT BACK IN. >> THIS WAS A GOOD MATCH. OH, STEVEN. >> YEAH, that was so much. >> I was I lo"
     },
     {
       "start": "36:01",
       "end": "48:02",
-      "title": "Frog Tony",
-      "entities": [
-        "Frog Tony"
-      ],
-      "summary_seed": "[ __ ] >> BUT WHAT YOU WILL do your [ __ ] champion. >> It looks like he's serving planet green. >> This is a new era of JCW. >> This is the era of the chosen one. And all you stupid will catch. And with a new champ, there's going to be some new rules around here. >> Uhoh. Uh >> oh. >> AND JOE DUMBROSSSKI UP THERE. I'm going to do this for you. Me. >> As of tonight, I am instituting the Jack Tunny rule. >> Uhoh. Jack",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "[ __ ] >> BUT WHAT YOU WILL do your [ __ ] champion. >> It looks like he's serving planet green. >> This is a new era of JCW. >> This is the era of the chosen one. And all you stupid will catch. And with a new champ, there's going to be some new rules around here. >> Uhoh. Uh >> oh. >> AND JOE DUMBROSSSKI UP THERE. I'm going to do this for you. Me."
     },
     {
       "start": "48:00",
       "end": "01:00:01",
-      "title": "Frog Tony",
-      "entities": [
-        "Frog Tony"
-      ],
-      "summary_seed": ">> Damn, >> Mac. Davis giving him a talking to >> this week on a very special JCW. >> Facet. To me, Facet is like a like Danny Mo's brother. >> Your opening com. >> Introducing first. >> I think he's dating Danny Mo. I think they trained together. >> He He look kind of looks like Danny Mo. >> Thank you. Thank you, cameraman. >> Godamn it. That's his JCW. the [screaming] third >> a lunacy debut. BUT FOR THOSE UNAWARE,",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": ">> Damn, >> Mac. Davis giving him a talking to >> this week on a very special JCW. >> Facet. To me, Facet is like a like Danny Mo's brother. >> Your opening com. >> Introducing first. >> I think he's dating Danny Mo. I think they trained together. >> He He look kind of looks like Danny Mo. >> Thank you. Thank you, cameraman. >> Godamn it. That's hi"
     },
     {
       "start": "01:00:01",
       "end": "01:12:01",
-      "title": "Frog Tony",
-      "entities": [
-        "Frog Tony"
-      ],
-      "summary_seed": ">> No doubt Bronson has what it takes to become champion. >> You can see in the background that they got these two years. >> It was Davis getting involved. Bronson winning the title. Violet Jay reversed that decision which I would suggest many still feel very polarizing opinions on, but I would suggest it's the right call. But good move here to give Bronx another shot. one-on-one and >> now with THE AIR QUIR THE REFE",
-      "clip_likelihood": false,
-      "transition_markers": 2
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": ">> No doubt Bronson has what it takes to become champion. >> You can see in the background that they got these two years. >> It was Davis getting involved. Bronson winning the title. Violet Jay reversed that decision which I would suggest many still feel very polarizing opinions on, but I would suggest it's the right call. But good move here to giv"
     },
     {
       "start": "01:12:00",
       "end": "01:24:01",
-      "title": "Frog Tony / Vito Gesualdi",
-      "entities": [
-        "Frog Tony",
-        "Vito Gesualdi"
-      ],
-      "summary_seed": "chop chop chop >> chop baby chopper baby. >> I love says these guys are you insult Chapo City. >> That's right. >> And isn't anything goes >> will ask not to be recorded. >> Introducing first. >> Oh [ __ ] >> Nope. >> Well, whether it's official or not, it's anything goes whenever you hear this music. Anything go >> did you see the guy that the camera >> hear this music >> guy right here >> that's the same boy they a",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "chop chop chop >> chop baby chopper baby. >> I love says these guys are you insult Chapo City. >> That's right. >> And isn't anything goes >> will ask not to be recorded. >> Introducing first. >> Oh [ __ ] >> Nope. >> Well, whether it's official or not, it's anything goes whenever you hear this music. Anything go >> did you see the guy that the cam"
     },
     {
       "start": "01:24:00",
       "end": "01:36:03",
       "title": "General discussion",
       "entities": [],
-      "summary_seed": "WE GOT HIM.\" >> That way your brother somewhere. Oh, THEY'RE ISO SAFE. IS HE OKAY? >> They know where his Zippo is. They're going to go get him. >> It's finally here. >> Oh my. >> The official Chris Hansen merch store. >> Chris official Chris Hansen merchandise. Hoodies. >> How appropri. >> Yeah. How pretty. You >> should play a little while. Let's play a little while. Spread >> the word. >> We got time for that. >>",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "possible_clip": false,
+      "summary_seed": "WE GOT HIM.\" >> That way your brother somewhere. Oh, THEY'RE ISO SAFE. IS HE OKAY? >> They know where his Zippo is. They're going to go get him. >> It's finally here. >> Oh my. >> The official Chris Hansen merch store. >> Chris official Chris Hansen merchandise. Hoodies. >> How appropri. >> Yeah. How pretty. You >> should play a little while. Let's"
     },
     {
       "start": "01:36:01",
       "end": "01:48:02",
       "title": "General discussion",
       "entities": [],
-      "summary_seed": "Bishop back in and and Bishop's been mad at the world ever since. >> Bishop has a chip on his shoulder and those shoulders are massive. Look at the track. >> This is quite a challenge for Cocaine here, but locking up in the center of the ring. COCAINE NOT ONE TO BACK DOWN FROM A CHALLENGE. >> WELL, Cocaine is fearless. >> No doubt about that. And certainly you think about fearless, Mark. I think about the JWO, their",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "possible_clip": false,
+      "summary_seed": "Bishop back in and and Bishop's been mad at the world ever since. >> Bishop has a chip on his shoulder and those shoulders are massive. Look at the track. >> This is quite a challenge for Cocaine here, but locking up in the center of the ring. COCAINE NOT ONE TO BACK DOWN FROM A CHALLENGE. >> WELL, Cocaine is fearless. >> No doubt about that. And c"
     },
     {
       "start": "01:48:00",
       "end": "01:50:39",
       "title": "General discussion",
       "entities": [],
-      "summary_seed": "where they're going with that. Josh Bishop heading for Caleb Connley. That's >> Caleb with his fancy belt. Now >> we got Ho Kane and uh Alice Crowley. That stuff's heating up. But [clears throat] >> no, >> [ __ ] the beginning of the show just sent me man. [ __ ] Jasmine coming back pregnant. >> She's [laughter] pregnant. Like where did that come from, man? That's a right there. >> Jerry Springer. Vince Russo booking",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "possible_clip": false,
+      "summary_seed": "where they're going with that. Josh Bishop heading for Caleb Connley. That's >> Caleb with his fancy belt. Now >> we got Ho Kane and uh Alice Crowley. That stuff's heating up. But [clears throat] >> no, >> [ __ ] the beginning of the show just sent me man. [ __ ] Jasmine coming back pregnant. >> She's [laughter] pregnant. Like where did that come f"
     }
   ],
-  "claim_candidates": [
+  "claim_candidates": [],
+  "quote_candidates": [],
+  "relationship_signals": [],
+  "story_matches": [
     {
-      "claimant": "unknown speaker",
-      "claim": "I rebound like the bulls with rhyme and I am just exactly [music] what I will be.",
-      "timestamp": "00:00",
-      "status": "candidate_claim",
-      "receipt": "But I know I rebound like the bulls with rhyme and I am just exactly [music] what I will be."
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.667
     },
     {
-      "claimant": "We trying to live life while they signal",
-      "claim": "left but they really going right but who cares?",
-      "timestamp": "00:00",
-      "status": "candidate_claim",
-      "receipt": "[music] We trying to live life while they signal says left but they really going right but who cares?"
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.6
     },
     {
-      "claimant": "unknown speaker",
-      "claim": "you're bored, but I can't be ignored.",
-      "timestamp": "00:00",
-      "status": "candidate_claim",
-      "receipt": "I know you're bored, but I can't be ignored."
+      "story_id": "nick-rekieta-reputation-fallout",
+      "title": "Nick Rekieta reputation and downfall coverage",
+      "score": 0.5
     },
     {
-      "claimant": "unknown speaker",
-      "claim": "it's uh usually when it's when you're talking like TV, it's like two hours on TV, but it's actually 90 minutes when you Right.",
-      "timestamp": "00:00",
-      "status": "opinion_or_inference",
-      "receipt": "Cuz the thing is I think it's uh usually when it's when you're talking like TV, it's like two hours on TV, but it's actually 90 minutes when you Right."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "this Sunday I'm gonna I'm gonna try to read uh Blood Honey, Great War of Separation, and Jerro Monstar.",
-      "timestamp": "00:00",
-      "status": "opinion_or_inference",
-      "receipt": "So, I think this Sunday I'm gonna I'm gonna try to read uh Blood Honey, Great War of Separation, and Jerro Monstar."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "maybe 35 minutes or an hour, something like that.",
-      "timestamp": "00:00",
-      "status": "opinion_or_inference",
-      "receipt": "It's like I think maybe 35 minutes or an hour, something like that."
-    },
-    {
-      "claimant": "Steven Lenuto",
-      "claim": "a does the Frankensteiner called the Steiner crossface chicken wing.",
-      "timestamp": "12:01",
-      "status": "candidate_claim",
-      "receipt": "Steven Lenuto says a does the Frankensteiner called the Steiner crossface chicken wing."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "that that a standard for a wrestler, you should have like a move like a DDT, like a a laying out move, if you will.",
-      "timestamp": "12:01",
-      "status": "opinion_or_inference",
-      "receipt": "Yeah, I I think that that a standard for a wrestler, you should have like a move like a DDT, like a a laying out move, if you will."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "it's better as a uh setup move or transition, but not as the finisher.",
-      "timestamp": "12:01",
-      "status": "opinion_or_inference",
-      "receipt": "I think it's better as a uh setup move or transition, but not as the finisher."
-    },
-    {
-      "claimant": "Ye",
-      "claim": "I like I like the double armed DDT and arm lock cross face and ankle lock were pretty cool.",
-      "timestamp": "12:01",
-      "status": "candidate_claim",
-      "receipt": "Ye said I like I like the double armed DDT and arm lock cross face and ankle lock were pretty cool."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "um obviously the Austin was the uh next generation Hogan, right?",
-      "timestamp": "12:01",
-      "status": "opinion_or_inference",
-      "receipt": "I think um obviously the Austin was the uh next generation Hogan, right?"
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "he was still like below Austin as far as like where people's perception was.",
-      "timestamp": "12:01",
-      "status": "opinion_or_inference",
-      "receipt": "Brock was over, but I think he was still like below Austin as far as like where people's perception was."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "you got to have two finishes.",
-      "timestamp": "12:01",
-      "status": "opinion_or_inference",
-      "receipt": "See, I think you got to have two finishes."
-    },
-    {
-      "claimant": "cuz he",
-      "claim": "he smelled just like your mother",
-      "timestamp": "24:00",
-      "status": "candidate_claim",
-      "receipt": "cuz he said he smelled just like your mother"
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "it's implied that it's daughter but it's also ambiguous",
-      "timestamp": "24:00",
-      "status": "opinion_or_inference",
-      "receipt": "yeah it's I think it's implied that it's daughter but it's also ambiguous"
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "what it is, but she looks bold this week.",
-      "timestamp": "24:00",
-      "status": "candidate_claim",
-      "receipt": "I know what it is, but she looks bold this week."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "he'll do a baby on a pole match.",
-      "timestamp": "24:00",
-      "status": "opinion_or_inference",
-      "receipt": "I think he'll do a baby on a pole match."
-    },
-    {
-      "claimant": "Kenny",
-      "claim": "the baby daddy will be",
-      "timestamp": "24:00",
-      "status": "candidate_claim",
-      "receipt": "Kenny says the baby daddy will be"
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "what the new bottom is going to be",
-      "timestamp": "24:00",
-      "status": "candidate_claim",
-      "receipt": "I know what the new bottom is going to be"
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "is he going to be in Highlander?",
-      "timestamp": "24:00",
-      "status": "opinion_or_inference",
-      "receipt": "I think is he going to be in Highlander?"
-    },
-    {
-      "claimant": "the reason Jim Cornet",
-      "claim": "lazy booking to no disqualification, it means like, \"Oh, okay.",
-      "timestamp": "36:01",
-      "status": "candidate_claim",
-      "receipt": "It's like when Jim Cornet, the reason Jim Cornet says lazy booking to no disqualification, it means like, \"Oh, okay."
-    },
-    {
-      "claimant": "don't walk out in the same guy who likes",
-      "claim": "ring and do some weird [ __ ] while we talk about the training with the attitude and the chip on his shoulder.",
-      "timestamp": "36:01",
-      "status": "candidate_claim",
-      "receipt": "They don't walk out in the same guy who likes says ring and do some weird [ __ ] while we talk about the training with the attitude and the chip on his shoulder."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "there's a couple things you need to thank me for.",
-      "timestamp": "36:01",
-      "status": "opinion_or_inference",
-      "receipt": "I think there's a couple things you need to thank me for."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "it is about you, Vince.",
-      "timestamp": "36:01",
-      "status": "candidate_claim",
-      "receipt": "You know, I know it is about you, Vince."
-    },
-    {
-      "claimant": "I'm asking like cuz that's what they",
-      "claim": "in the chat now.",
-      "timestamp": "36:01",
-      "status": "candidate_claim",
-      "receipt": "No, I'm asking like cuz that's what they said in the chat now."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "they trained together.",
-      "timestamp": "48:00",
-      "status": "opinion_or_inference",
-      "receipt": "I think they trained together."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "I I think I know that guy.",
-      "timestamp": "48:00",
-      "status": "opinion_or_inference",
-      "receipt": "I think I I think I know that guy."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "TO MYSELF, I PROBABLY HAVEN'T BEEN HARSH ENOUGH.",
-      "timestamp": "48:00",
-      "status": "opinion_or_inference",
-      "receipt": "And then I THINK TO MYSELF, I PROBABLY HAVEN'T BEEN HARSH ENOUGH."
-    },
-    {
-      "claimant": "COCAINE AND JOSH Bishop the",
-      "claim": "self-proclaimed linear JCW champion set for one action to crown a new number one contender to Caleb Conley.",
-      "timestamp": "01:00:01",
-      "status": "candidate_claim",
-      "receipt": "COCAINE AND JOSH Bishop the alleged self-proclaimed linear JCW champion set for one action to crown a new number one contender to Caleb Conley."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "they can do a lot with it.",
-      "timestamp": "01:00:01",
-      "status": "opinion_or_inference",
-      "receipt": "I think they can do a lot with it."
-    },
-    {
-      "claimant": "You did everything I",
-      "claim": "because you want your brother.",
-      "timestamp": "01:00:01",
-      "status": "candidate_claim",
-      "receipt": "You did everything I said because you want your brother."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "THE brothers are dating.",
-      "timestamp": "01:00:01",
-      "status": "opinion_or_inference",
-      "receipt": "I THINK THE brothers are dating."
-    },
-    {
-      "claimant": "I love",
-      "claim": "these guys are you insult Chapo City.",
-      "timestamp": "01:12:00",
-      "status": "candidate_claim",
-      "receipt": "I love says these guys are you insult Chapo City."
-    },
-    {
-      "claimant": "But what did they mean when they",
-      "claim": "that",
-      "timestamp": "01:12:00",
-      "status": "candidate_claim",
-      "receipt": "But what did they mean when they said that"
-    },
-    {
-      "claimant": "Big Vito",
-      "claim": "a lot of things and I'm not sure when to uh when to believe him right now.",
-      "timestamp": "01:12:00",
-      "status": "candidate_claim",
-      "receipt": "Well, Big Vito says a lot of things and I'm not sure when to uh when to believe him right now."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "Violet Jacob said, \"WE GOT HIM.",
-      "timestamp": "01:12:00",
-      "status": "opinion_or_inference",
-      "receipt": "I think Violet Jacob said, \"WE GOT HIM."
-    },
-    {
-      "claimant": "He",
-      "claim": "all the way to hell, baby.",
-      "timestamp": "01:24:00",
-      "status": "candidate_claim",
-      "receipt": "He says all the way to hell, baby."
-    },
-    {
-      "claimant": "title belt here the introduc should have",
-      "claim": "here's your new AI music heavy do you see that my face is on",
-      "timestamp": "01:24:00",
-      "status": "candidate_claim",
-      "receipt": "going to join us the brand new let's get a look at this title belt here the introduc should have said here's your new AI music heavy do you see that my face is on"
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "about the JWO, their fight with the Luchiano family.",
-      "timestamp": "01:36:01",
-      "status": "opinion_or_inference",
-      "receipt": "I think about the JWO, their fight with the Luchiano family."
-    },
-    {
-      "claimant": "Jason",
-      "claim": "they knew where Ruffo was.",
-      "timestamp": "01:36:01",
-      "status": "candidate_claim",
-      "receipt": "Jason said they knew where Ruffo was."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "all those are very appropriate.",
-      "timestamp": "01:36:01",
-      "status": "opinion_or_inference",
-      "receipt": "I think all those are very appropriate."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "if we get that far there could be a conflict of interest.",
-      "timestamp": "01:36:01",
-      "status": "opinion_or_inference",
-      "receipt": "We'll figure out the rest later.\" But there's a lot of ambiguity there that I think if we get that far there could be a conflict of interest."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "there's still a lot of hate in your heart for me.",
-      "timestamp": "01:36:01",
-      "status": "candidate_claim",
-      "receipt": "Listen, I know there's still a lot of hate in your heart for me."
-    },
-    {
-      "claimant": "uh came out of left field but I when you",
-      "claim": "swerve, I almost felt like there was gonna be a mirror and he was talking to nobody,",
-      "timestamp": "01:36:01",
-      "status": "candidate_claim",
-      "receipt": "oh man that that that uh came out of left field but I when you said swerve, I almost felt like there was gonna be a mirror and he was talking to nobody,"
+      "story_id": "thequartering-coffee-business-scrutiny",
+      "title": "TheQuartering coffee-business scrutiny and expansion",
+      "score": 0.5
     }
   ],
-  "quote_candidates": [
-    {
-      "timestamp": "12:01",
-      "text": "we've got a more important issue to address.",
-      "significance_score": 2
-    },
-    {
-      "timestamp": "00:00",
-      "text": "They are only that they never really ready for.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "00:00",
-      "text": "You know, plans don't always go to go the way we like them, right?",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "12:01",
-      "text": "He never used it unless he knew he was going to win the match.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "12:01",
-      "text": "If he knew he had to do a job, he never used it.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "12:01",
-      "text": "Whenever he did a job, he didn't use the outsider's edge.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "12:01",
-      "text": "You always will have a place in JCW.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "12:01",
-      "text": "I've been a success my entire life, and I always have a plan B on standby.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "12:01",
-      "text": "I should have known you always have a PLAN B.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "36:01",
-      "text": "You're never going to see them wrestle.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "36:01",
-      "text": "and I do look up to you and I do respect you and I would never",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "36:01",
-      "text": "It was never about taking your belt.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "48:00",
-      "text": "So you boo me project the truth and the truth is a hard pill to swallow.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "48:00",
-      "text": "straight edge always had those eggs in their hands because of that they were minors they would bar with an X in their hands so they wouldn't serve alcohol Especially",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "01:12:00",
-      "text": "Well, whether it's official or not, it's anything goes whenever you hear this music.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "01:12:00",
-      "text": "GUYS, remember how unpleasant, how uncomfortable it was when when JOEY YAGO HAD TO ATTACK VIOLET JAY, A MAN WHO'S BEEN LIKE A FATHER TO HIM or else he WOULD NEVER SEE HIS BROTHER again",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "01:24:00",
-      "text": "Like I would never like, \"Hey guys, let's have a wrestling match.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "01:24:00",
-      "text": "He was never beaten for that title.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "01:36:01",
-      "text": "WAS NEVER BEATEN WHEN HE WAS WORLD CHAMPION.",
-      "significance_score": 1
-    }
-  ],
-  "relationship_signals": [
-    {
-      "left": "Frog Tony",
-      "right": "Vito Gesualdi",
-      "signal_type": "defended",
-      "timestamp": "01:12:00",
-      "confidence": 0.45,
-      "receipt": "chop chop chop >> chop baby chopper baby. >> I love says these guys are you insult Chapo City. >> That's right. >> And isn't anything goes >> will ask not to be recorded. >> Introducing first. >> Oh [ __ ] >> Nope. >> Well, whether it's official or not, it's anything goes whenever you hear this music. Anything go >> did you see the guy that the camera >> hear this music >> guy right here >> that's the same boy they are the luch >> now n",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Frog Tony",
-      "right": "Vito Gesualdi",
-      "signal_type": "criticised",
-      "timestamp": "01:12:00",
-      "confidence": 0.45,
-      "receipt": "chop chop chop >> chop baby chopper baby. >> I love says these guys are you insult Chapo City. >> That's right. >> And isn't anything goes >> will ask not to be recorded. >> Introducing first. >> Oh [ __ ] >> Nope. >> Well, whether it's official or not, it's anything goes whenever you hear this music. Anything go >> did you see the guy that the camera >> hear this music >> guy right here >> that's the same boy they are the luch >> now n",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Frog Tony",
-      "right": "Vito Gesualdi",
-      "signal_type": "friendship_claim",
-      "timestamp": "01:12:00",
-      "confidence": 0.45,
-      "receipt": "chop chop chop >> chop baby chopper baby. >> I love says these guys are you insult Chapo City. >> That's right. >> And isn't anything goes >> will ask not to be recorded. >> Introducing first. >> Oh [ __ ] >> Nope. >> Well, whether it's official or not, it's anything goes whenever you hear this music. Anything go >> did you see the guy that the camera >> hear this music >> guy right here >> that's the same boy they are the luch >> now n",
-      "warning": "co-mention plus language signal; requires interpretation"
-    }
-  ],
-  "story_matches": [],
+  "review_priority": 38,
   "uncertainty_flags": [
-    "speaker identity may be unknown",
+    "speaker attribution may be unknown",
     "clip voices may be mistaken for live participants",
-    "sentiment lexicon does not reliably detect sarcasm",
-    "relationship signals are candidates, not declarations",
-    "claims are not verified facts"
+    "sentiment lexicon cannot reliably detect sarcasm",
+    "claims and relationship signals remain candidates"
   ]
 }

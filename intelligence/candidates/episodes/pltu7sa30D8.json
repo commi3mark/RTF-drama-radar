@@ -1,0 +1,220 @@
+{
+  "schema_version": "octopuss-candidate-episode-v0.1",
+  "video_id": "pltu7sa30D8",
+  "title": "Scarlett lives her best life | #932",
+  "source": "Ministry of Dude",
+  "published": "2026-07-08T21:44:21+00:00",
+  "review_priority": 44,
+  "participant_candidates": [
+    {
+      "entity": "Ministry of Dude",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Ethan Van Sciver",
+      "mentions": 10,
+      "block_count": 3,
+      "first_timestamp": "01:00:00",
+      "last_timestamp": "01:31:04",
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.6,
+        "positive_hits": 16,
+        "negative_hits": 4
+      },
+      "receipts": [
+        {
+          "timestamp": "01:00:00",
+          "excerpt": "I think I heard it. >> I thought she was drinking alone. >> I I kind of skimmed this before the show and I cuz you never She never shows what guy she's with. >> True. >> I thought she was drinking alone the entire time. I'm honestly like I was more surprised that she was drinking alone. >> But now like some guy's trying to hit on her by letting her shoot his"
+        },
+        {
+          "timestamp": "01:12:00",
+          "excerpt": "I'm sorry. No, that's that's wrong. We are $22 from the Charizard. >> Oh, [ __ ] >> Yeah. >> I don't know. [music] Miller life Milwaukee [music] Milwaukee. Anyways, I'm uh live but just for a minute uh uh I uh was just playing darts and I wanted to say happy 4th to everyone. I love everybody. >> Wow. >> But honestly, >> blow darts. This is me like pulling an"
+        },
+        {
+          "timestamp": "01:24:01",
+          "excerpt": "soil. I don't want to get my passport renewed cuz I want I want to be American forever. Um, >> you want to be American forever? That's cool. >> My friends are always responsible. Like they're telling me it's [music] time to go. And then >> what friends? Who are your friends? Are the friends in this room right now? You you speak up. >> Let's go to Miami. >> D"
+        }
+      ]
+    },
+    {
+      "entity": "Frog Tony",
+      "mentions": 2,
+      "block_count": 1,
+      "first_timestamp": "01:00:00",
+      "last_timestamp": "01:12:02",
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.455,
+        "positive_hits": 8,
+        "negative_hits": 3
+      },
+      "receipts": [
+        {
+          "timestamp": "01:00:00",
+          "excerpt": "er shoot his blow darts. It's a very odd he doesn't go to his voice before. It's He sounds like he has like 50% of his teeth in his mouth. >> Yeah, he sounds rough. >> Old [music] Frog Tony this time, >> dude. That would be funny, dude. What if Frog Tony was [ __ ] Scarlet all [laughter] of a sudden? be like, \"What? >> Whoa.\" [gasps] >> That's why he didn't want me t"
+        }
+      ]
+    },
+    {
+      "entity": "Shane Davis",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "12:01",
+      "last_timestamp": "24:04",
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.25,
+        "positive_hits": 5,
+        "negative_hits": 3
+      },
+      "receipts": [
+        {
+          "timestamp": "12:01",
+          "excerpt": "like not even a lit cigarette. >> You get just get out of here, you [ __ ] kids. This is not play place. This is where people live and sleep. Get out of here. I'm practicing. I'm trying. [laughter] >> By the way, Stephen sent like three 3,800 juice. >> That might be a whole >> See, we got um what we got? We got We got to go all the way to the top. I just Oh,"
+        }
+      ]
+    },
+    {
+      "entity": "Aaron Imholte",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "01:24:01",
+      "last_timestamp": "01:31:04",
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "positive_hits": 3,
+        "negative_hits": 0
+      },
+      "receipts": [
+        {
+          "timestamp": "01:24:01",
+          "excerpt": "soil. I don't want to get my passport renewed cuz I want I want to be American forever. Um, >> you want to be American forever? That's cool. >> My friends are always responsible. Like they're telling me it's [music] time to go. And then >> what friends? Who are your friends? Are the friends in this room right now? You you speak up. >> Let's go to Miami. >> D"
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "12:03",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "Heat. [music] [music] [music] Heat. >> [music] >> Heat. Heat. [music] >> [music] [music] >> Heat. Heat. [music] >> [music] [music] [music] >> Heat. Heat. Heat. [music] Heat. N. [music] [music] >> [music] [music] >> Heat. Heat. >> [music] [music] >> Heat. Heat. [music] Heat. Heat. [music] Heat. Heat. Heat. Heat. [music] [music] >> [music] [music] >>"
+    },
+    {
+      "start": "12:01",
+      "end": "24:04",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "like not even a lit cigarette. >> You get just get out of here, you [ __ ] kids. This is not play place. This is where people live and sleep. Get out of here. I'm practicing. I'm trying. [laughter] >> By the way, Stephen sent like three 3,800 juice. >> That might be a whole >> See, we got um what we got? We got We got to go all the way to the top."
+    },
+    {
+      "start": "24:01",
+      "end": "36:04",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "litigating civil cases in federal courts all over the country, including many jury trials. So, let's get into the analysis. Just before 9:00 a.m. Utah time this morning, Judge David Barlo issued this order granting the party's joint motion for the preliminary injunction, which specifically removes the gag order. So, let's take a look at this. >> Re"
+    },
+    {
+      "start": "36:01",
+      "end": "46:50",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "did to Law Gorman's and what they did to uh uh the Brian Mansel family. >> Oh god. pig face as a hell of a cam. >> Yeah, it seems like uh that's uh that's just the thing they do. Um so I was this is a short one. I just saw this today and I thought this was hilarious considering who it's coming from. You guys remember this guy? Oh, you guys remember"
+    },
+    {
+      "start": "48:54",
+      "end": "01:00:02",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "Yeah, dude. Were you not paying attention? >> I thought it was a She has a weapon. >> I thought she was holding a pull queue. >> No, she had a dur blow gun. They put a dart in a blow gun till >> I don't think that's a a thing the bar has. I think she brought that >> which means she owes a blow owns a blow dart gun. >> I I hope she brought it. >> Ky"
+    },
+    {
+      "start": "01:00:00",
+      "end": "01:12:02",
+      "title": "Frog Tony",
+      "entities": [
+        "Frog Tony"
+      ],
+      "possible_clip": false,
+      "summary_seed": "I think I heard it. >> I thought she was drinking alone. >> I I kind of skimmed this before the show and I cuz you never She never shows what guy she's with. >> True. >> I thought she was drinking alone the entire time. I'm honestly like I was more surprised that she was drinking alone. >> But now like some guy's trying to hit on her by letting her"
+    },
+    {
+      "start": "01:12:00",
+      "end": "01:24:03",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "I'm sorry. No, that's that's wrong. We are $22 from the Charizard. >> Oh, [ __ ] >> Yeah. >> I don't know. [music] Miller life Milwaukee [music] Milwaukee. Anyways, I'm uh live but just for a minute uh uh I uh was just playing darts and I wanted to say happy 4th to everyone. I love everybody. >> Wow. >> But honestly, >> blow darts. This is me like"
+    },
+    {
+      "start": "01:24:01",
+      "end": "01:31:04",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "soil. I don't want to get my passport renewed cuz I want I want to be American forever. Um, >> you want to be American forever? That's cool. >> My friends are always responsible. Like they're telling me it's [music] time to go. And then >> what friends? Who are your friends? Are the friends in this room right now? You you speak up. >> Let's go to M"
+    }
+  ],
+  "claims": [],
+  "quotes": [
+    {
+      "timestamp": "00:00",
+      "text": "I got fired for all [music] my lies and sexual assault.",
+      "subjects": [],
+      "significance_score": 1
+    },
+    {
+      "timestamp": "24:01",
+      "text": "But he got slapped with the lawsuit from Bricks and Miniix.",
+      "subjects": [],
+      "significance_score": 1
+    }
+  ],
+  "relationships": [],
+  "story_matches": [
+    {
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.667
+    },
+    {
+      "story_id": "steel-toe-hro",
+      "title": "Steel Toe HRO",
+      "score": 0.667
+    },
+    {
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "score": 0.429
+    },
+    {
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.4
+    }
+  ],
+  "uncertainty_flags": [
+    "speaker attribution may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon cannot reliably detect sarcasm",
+    "claims and relationship signals remain candidates"
+  ]
+}

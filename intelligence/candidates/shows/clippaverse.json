@@ -1,0 +1,34 @@
+{
+  "show_id": "clippaverse",
+  "name": "Clippaverse",
+  "episodes": [
+    {
+      "video_id": "xG3Jg1rJ6nA",
+      "title": "Vito Disparaging EVS (TBPITU EPISODE #71) #comicsgate #comics #art"
+    }
+  ],
+  "participant_candidates": [
+    {
+      "video_id": "xG3Jg1rJ6nA",
+      "entity": "Clippaverse",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subject_history": [
+    {
+      "video_id": "xG3Jg1rJ6nA",
+      "entity": "Ethan Van Sciver",
+      "importance": "passing",
+      "sentiment": {
+        "label": "unclear",
+        "score": 0.0,
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    }
+  ]
+}

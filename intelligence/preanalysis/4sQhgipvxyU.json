@@ -1,6 +1,6 @@
 {
-  "schema_version": "octopuss-preanalysis-v0.1",
-  "generated_at": "2026-07-15T21:04:21.909483+00:00",
+  "schema_version": "octopuss-preanalysis-v0.2",
+  "generated_at": "2026-07-15T21:17:15.164070+00:00",
   "video_id": "4sQhgipvxyU",
   "title": "I said Columbia, but Ralph just went to more Messico | #931",
   "source": "Ministry of Dude",
@@ -19,7 +19,7 @@
     {
       "entity": "Ministry of Dude",
       "role_guess": "host_or_channel_identity",
-      "confidence": 0.72,
+      "confidence": 0.75,
       "signals": [
         "packet source/channel identity"
       ]
@@ -27,94 +27,32 @@
   ],
   "subjects": [
     {
-      "entity": "Dick Masterson",
-      "mentions": 10,
-      "block_count": 5,
-      "first_timestamp": "00:00",
-      "last_timestamp": "01:48:01",
-      "discussion_span_seconds": 6481.2,
-      "importance_guess": "major",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.824,
-        "positive_hits": 239,
-        "negative_hits": 23
-      },
-      "receipts": [
-        {
-          "timestamp": "00:00",
-          "excerpt": "Jesus the purple man. Let me leitate [music] into your dreams. I will make [singing] love so cosmically. [music] Take off my flesh. [singing] You don't need the rest. I'm a man who's the best. So take your [music] guess. Is it me? Jesus was the purple [music] man living in a desert purple land. Snake bite to the head. Antidote from a boy's [music] glass. It's Jesus the purple man. Next slide. Chewy. I just sweep sweep swe swe swe swe sw"
-        },
-        {
-          "timestamp": "12:02",
-          "excerpt": "are you doing this to yourself? This is unnecessary. He wants he wants he only has so much time left to punish himself with this relationship. He's being he's a tick being latched off of Dick Mastersonson and he just like he he's trying to maximize the amount of pain. >> God, if he's a tick, I hope uh Dick Masterson doesn't get aphail after it >> versus he wants to get fired. Dude, you heard about that whole [ __ ] ab"
-        },
-        {
-          "timestamp": "36:00",
-          "excerpt": ">> Oh, dude. Those SN26 over my iPhone suck so much ass. I guess cuz it's so old. Like what the [ __ ] >> [snorts] >> Okay. So, I'm trying to >> I don't know how I was just looking at him the other day when I had to get my modem uh changed. You know, just a thought. [ __ ] lose your [ __ ] over me just having an idea. >> At least before I venture out, make sure that we're on the air. But I don't know. >> You're on the air, Ralph. You're"
-        },
-        {
-          "timestamp": "01:12:01",
-          "excerpt": ">> Dad, you're a dick. >> They started laughing when I said that. They [ __ ] heard me, bro. You will not >> I think they sold it soon after the [ __ ] [ __ ] >> Like, am I on Twitter? Am I on YouTube? I don't know. Bro, these are people going about on their day. You know, we're not talking to you. >> This is like, dude, this is for a [ __ ] like me, this is paradise. I ain't going to lie. I >> There's a soft day. >> Oh. Oh, soft day do"
-        },
-        {
-          "timestamp": "01:36:01",
-          "excerpt": "That's just so crazy because you're so healthy, right? >> Cuz I need knee surgery, but like [music] >> knee surgery is kind of a big deal. >> I mean, look at this. Uh-oh. Jimmy's touching his hose. Can you do that, Grandpa? Oh my god. Trim your your fingernails. Jim, >> can you reach down? >> Can you reach down and touch it? >> Dude, he does have goblin fingers. What the [ __ ] Jim? >> Oh, come on. He's dying. >> I don't care. Trim your"
-        }
-      ],
-      "appearance_status": "uncertain"
-    },
-    {
       "entity": "Ethan Van Sciver",
       "mentions": 6,
       "block_count": 3,
       "first_timestamp": "01:12:01",
       "last_timestamp": "02:00:03",
-      "discussion_span_seconds": 2881.5,
       "importance_guess": "major",
       "sentiment": {
         "label": "positive",
-        "score": 0.876,
-        "positive_hits": 136,
-        "negative_hits": 9
+        "score": 0.625,
+        "positive_hits": 13,
+        "negative_hits": 3
       },
       "receipts": [
         {
           "timestamp": "01:12:01",
-          "excerpt": ">> Dad, you're a dick. >> They started laughing when I said that. They [ __ ] heard me, bro. You will not >> I think they sold it soon after the [ __ ] [ __ ] >> Like, am I on Twitter? Am I on YouTube? I don't know. Bro, these are people going about on their day. You know, we're not talking to you. >> This is like, dude, this is for a [ __ ] like me, this is paradise. I ain't going to lie. I >> There's a soft day. >> Oh. Oh, soft day do"
+          "excerpt": ">> Dad, you're a dick. >> They started laughing when I said that. They [ __ ] heard me, bro. You will not >> I think they sold it soon after the [ __ ] [ __ ] >> Like, am I on Twitter? Am I on YouTube? I don't know. Bro, these are people going about on their day. You know, we're not talking to you. >> This is like, dude, this is for a [ __ ] like me, this is"
         },
         {
           "timestamp": "01:36:01",
-          "excerpt": "That's just so crazy because you're so healthy, right? >> Cuz I need knee surgery, but like [music] >> knee surgery is kind of a big deal. >> I mean, look at this. Uh-oh. Jimmy's touching his hose. Can you do that, Grandpa? Oh my god. Trim your your fingernails. Jim, >> can you reach down? >> Can you reach down and touch it? >> Dude, he does have goblin fingers. What the [ __ ] Jim? >> Oh, come on. He's dying. >> I don't care. Trim your"
+          "excerpt": "That's just so crazy because you're so healthy, right? >> Cuz I need knee surgery, but like [music] >> knee surgery is kind of a big deal. >> I mean, look at this. Uh-oh. Jimmy's touching his hose. Can you do that, Grandpa? Oh my god. Trim your your fingernails. Jim, >> can you reach down? >> Can you reach down and touch it? >> Dude, he does have goblin fing"
         },
         {
           "timestamp": "01:48:05",
-          "excerpt": "Oh, she's got >> base. [music] Wait. Base. Black. Groer. >> Mhm. >> Says, \"What does she [laughter] smell like?\" >> What did she smell like? >> What? >> Hey yo, [laughter] >> he's like, \"Man, I really don't like how much she's I I really don't like how much he's calling the nword.\" But then that [ __ ] showed up. I got I got to know what she smells like. Ralph. Ralph, you get the empath. Describe her feet to me. >> He just wants He just"
+          "excerpt": "Oh, she's got >> base. [music] Wait. Base. Black. Groer. >> Mhm. >> Says, \"What does she [laughter] smell like?\" >> What did she smell like? >> What? >> Hey yo, [laughter] >> he's like, \"Man, I really don't like how much she's I I really don't like how much he's calling the nword.\" But then that [ __ ] showed up. I got I got to know what she smells like. Ral"
         }
-      ],
-      "appearance_status": "uncertain"
-    },
-    {
-      "entity": "Frog Tony",
-      "mentions": 2,
-      "block_count": 1,
-      "first_timestamp": "12:02",
-      "last_timestamp": "24:02",
-      "discussion_span_seconds": 720.8,
-      "importance_guess": "passing",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.8,
-        "positive_hits": 45,
-        "negative_hits": 5
-      },
-      "receipts": [
-        {
-          "timestamp": "12:02",
-          "excerpt": "ues. >> She gets scared of his love. Johnny, the poor guy. A >> that's romantic. >> Jesse said, \"Sorry it didn't work out with Dan.\" So So >> wow. >> I missed that. And that is a coat. That is a big coat. >> I'm getting Frog Tony vibes. >> Oh wow. [laughter] >> You know what I mean? Like I'm getting I'm getting some frog Tony vibes here. [laughter] >> Runs away. immediately rebounds with some other guy, sticks that out for as long as she can or"
-        }
-      ],
-      "appearance_status": "uncertain"
+      ]
     },
     {
       "entity": "Vito Gesualdi",
@@ -122,646 +60,160 @@
       "block_count": 1,
       "first_timestamp": "00:00",
       "last_timestamp": "12:04",
-      "discussion_span_seconds": 723.8,
       "importance_guess": "passing",
       "sentiment": {
-        "label": "positive",
-        "score": 0.68,
-        "positive_hits": 42,
-        "negative_hits": 8
+        "label": "mixed",
+        "score": -0.111,
+        "positive_hits": 4,
+        "negative_hits": 5
       },
       "receipts": [
         {
           "timestamp": "00:00",
-          "excerpt": "Jesus the purple man. Let me leitate [music] into your dreams. I will make [singing] love so cosmically. [music] Take off my flesh. [singing] You don't need the rest. I'm a man who's the best. So take your [music] guess. Is it me? Jesus was the purple [music] man living in a desert purple land. Snake bite to the head. Antidote from a boy's [music] glass. It's Jesus the purple man. Next slide. Chewy. I just sweep sweep swe swe swe swe sw"
+          "excerpt": "Jesus the purple man. Let me leitate [music] into your dreams. I will make [singing] love so cosmically. [music] Take off my flesh. [singing] You don't need the rest. I'm a man who's the best. So take your [music] guess. Is it me? Jesus was the purple [music] man living in a desert purple land. Snake bite to the head. Antidote from a boy's [music] glass. It'"
         }
-      ],
-      "appearance_status": "uncertain"
+      ]
+    },
+    {
+      "entity": "Frog Tony",
+      "mentions": 2,
+      "block_count": 1,
+      "first_timestamp": "12:02",
+      "last_timestamp": "24:02",
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.111,
+        "positive_hits": 5,
+        "negative_hits": 4
+      },
+      "receipts": [
+        {
+          "timestamp": "12:02",
+          "excerpt": "nny, the poor guy. A >> that's romantic. >> Jesse said, \"Sorry it didn't work out with Dan.\" So So >> wow. >> I missed that. And that is a coat. That is a big coat. >> I'm getting Frog Tony vibes. >> Oh wow. [laughter] >> You know what I mean? Like I'm getting I'm getting some frog Tony vibes here. [laughter] >> Runs away. immediately rebounds with some other guy, st"
+        }
+      ]
     }
   ],
   "chapters": [
     {
       "start": "00:00",
       "end": "12:04",
-      "title": "Dick Masterson / Vito Gesualdi",
-      "entities": [
-        "Dick Masterson",
-        "Vito Gesualdi"
-      ],
-      "summary_seed": "Jesus the purple man. Let me leitate [music] into your dreams. I will make [singing] love so cosmically. [music] Take off my flesh. [singing] You don't need the rest. I'm a man who's the best. So take your [music] guess. Is it me? Jesus was the purple [music] man living in a desert purple land. Snake bite to the head. Antidote from a boy's [music] glass. It's Jesus the purple man. Next slide. Chewy. I just sweep swee",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "Jesus the purple man. Let me leitate [music] into your dreams. I will make [singing] love so cosmically. [music] Take off my flesh. [singing] You don't need the rest. I'm a man who's the best. So take your [music] guess. Is it me? Jesus was the purple [music] man living in a desert purple land. Snake bite to the head. Antidote from a boy's [music]"
     },
     {
       "start": "12:02",
       "end": "24:02",
-      "title": "Dick Masterson / Frog Tony",
+      "title": "Frog Tony",
       "entities": [
-        "Dick Masterson",
         "Frog Tony"
       ],
-      "summary_seed": "are you doing this to yourself? This is unnecessary. He wants he wants he only has so much time left to punish himself with this relationship. He's being he's a tick being latched off of Dick Mastersonson and he just like he he's trying to maximize the amount of pain. >> God, if he's a tick, I hope uh Dick Masterson doesn't get aphail after it >> versus he wants to get fired. Dude, you heard about that whole [ __ ] a",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "possible_clip": false,
+      "summary_seed": "are you doing this to yourself? This is unnecessary. He wants he wants he only has so much time left to punish himself with this relationship. He's being he's a tick being latched off of Dick Mastersonson and he just like he he's trying to maximize the amount of pain. >> God, if he's a tick, I hope uh Dick Masterson doesn't get aphail after it >> v"
     },
     {
       "start": "24:00",
       "end": "36:00",
       "title": "General discussion",
       "entities": [],
-      "summary_seed": "you're the dork waiting. [laughter] >> Shut up, Hal. Get back in the kitchen and get to crying. >> Cry if you love me. [laughter] >> I make her cry from other things. >> Continues. This has happened for years. >> I open uh the new uh you know, box of Pop-Tarts before she's ready to open it. Gets her every time. >> Mhm. >> No, I was saving those. >> Sorry. How? Oh. Oh, you wanted to say these caramels. Oh, I just ate",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "possible_clip": false,
+      "summary_seed": "you're the dork waiting. [laughter] >> Shut up, Hal. Get back in the kitchen and get to crying. >> Cry if you love me. [laughter] >> I make her cry from other things. >> Continues. This has happened for years. >> I open uh the new uh you know, box of Pop-Tarts before she's ready to open it. Gets her every time. >> Mhm. >> No, I was saving those. >>"
     },
     {
       "start": "36:00",
       "end": "48:04",
-      "title": "Dick Masterson",
-      "entities": [
-        "Dick Masterson"
-      ],
-      "summary_seed": ">> Oh, dude. Those SN26 over my iPhone suck so much ass. I guess cuz it's so old. Like what the [ __ ] >> [snorts] >> Okay. So, I'm trying to >> I don't know how I was just looking at him the other day when I had to get my modem uh changed. You know, just a thought. [ __ ] lose your [ __ ] over me just having an idea. >> At least before I venture out, make sure that we're on the air. But I don't know. >> You're on th",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": ">> Oh, dude. Those SN26 over my iPhone suck so much ass. I guess cuz it's so old. Like what the [ __ ] >> [snorts] >> Okay. So, I'm trying to >> I don't know how I was just looking at him the other day when I had to get my modem uh changed. You know, just a thought. [ __ ] lose your [ __ ] over me just having an idea. >> At least before I venture o"
     },
     {
       "start": "48:02",
       "end": "01:00:03",
       "title": "General discussion",
       "entities": [],
-      "summary_seed": "it's [snorts] it's not that hard to lift things when you're drunk. It can be, but it's like [laughter] >> Mhm. [gasps] It's I just see uh the the sequence from Wolf of Wall Street where he's like on quaudes. >> Yeah. >> Um Stevie J says Till's real father was a traveling musician. My dad uh when he was young was actually an evangelist and traveled as like a Christian like [clears throat] singer. He'd go to from churc",
-      "clip_likelihood": false,
-      "transition_markers": 2
+      "possible_clip": false,
+      "summary_seed": "it's [snorts] it's not that hard to lift things when you're drunk. It can be, but it's like [laughter] >> Mhm. [gasps] It's I just see uh the the sequence from Wolf of Wall Street where he's like on quaudes. >> Yeah. >> Um Stevie J says Till's real father was a traveling musician. My dad uh when he was young was actually an evangelist and traveled"
     },
     {
       "start": "01:00:01",
       "end": "01:12:00",
       "title": "General discussion",
       "entities": [],
-      "summary_seed": "like, you know, the government makes you want to hate weed by making you think it's just for black people. [laughter] Hey, but I hate black people. You can go read a book about it. >> I was asking if I get weed. No, how I don't get weed in Oklahoma. I don't have a license over there. >> Why you want some? And I mean that's probably not something he's gonna do, but >> you you can go read why it's associated with [ __",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "possible_clip": false,
+      "summary_seed": "like, you know, the government makes you want to hate weed by making you think it's just for black people. [laughter] Hey, but I hate black people. You can go read a book about it. >> I was asking if I get weed. No, how I don't get weed in Oklahoma. I don't have a license over there. >> Why you want some? And I mean that's probably not something he"
     },
     {
       "start": "01:12:01",
       "end": "01:23:59",
-      "title": "Ethan Van Sciver / Dick Masterson",
-      "entities": [
-        "Ethan Van Sciver",
-        "Dick Masterson"
-      ],
-      "summary_seed": ">> Dad, you're a dick. >> They started laughing when I said that. They [ __ ] heard me, bro. You will not >> I think they sold it soon after the [ __ ] [ __ ] >> Like, am I on Twitter? Am I on YouTube? I don't know. Bro, these are people going about on their day. You know, we're not talking to you. >> This is like, dude, this is for a [ __ ] like me, this is paradise. I ain't going to lie. I >> There's a soft day. >>",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": ">> Dad, you're a dick. >> They started laughing when I said that. They [ __ ] heard me, bro. You will not >> I think they sold it soon after the [ __ ] [ __ ] >> Like, am I on Twitter? Am I on YouTube? I don't know. Bro, these are people going about on their day. You know, we're not talking to you. >> This is like, dude, this is for a [ __ ] like m"
     },
     {
       "start": "01:24:02",
       "end": "01:36:03",
       "title": "General discussion",
       "entities": [],
-      "summary_seed": "How >> Merse got turned on by his own homie. Bro, >> this like this is my point. It's just a redundant statement. He got turned on by his own homie. >> Yeah. Has to be his homie to get turned on. >> They really hate that [ __ ] >> If my own homies did that to me, man, [music] it'd be a it'd be a [ __ ] up situation. Like >> Name one. Hunter. Name one friend you have. [laughter] >> By the way, um um Oh, come on, King",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "possible_clip": false,
+      "summary_seed": "How >> Merse got turned on by his own homie. Bro, >> this like this is my point. It's just a redundant statement. He got turned on by his own homie. >> Yeah. Has to be his homie to get turned on. >> They really hate that [ __ ] >> If my own homies did that to me, man, [music] it'd be a it'd be a [ __ ] up situation. Like >> Name one. Hunter. Name o"
     },
     {
       "start": "01:36:01",
       "end": "01:48:01",
-      "title": "Dick Masterson / Ethan Van Sciver",
-      "entities": [
-        "Dick Masterson",
-        "Ethan Van Sciver"
-      ],
-      "summary_seed": "That's just so crazy because you're so healthy, right? >> Cuz I need knee surgery, but like [music] >> knee surgery is kind of a big deal. >> I mean, look at this. Uh-oh. Jimmy's touching his hose. Can you do that, Grandpa? Oh my god. Trim your your fingernails. Jim, >> can you reach down? >> Can you reach down and touch it? >> Dude, he does have goblin fingers. What the [ __ ] Jim? >> Oh, come on. He's dying. >> I d",
-      "clip_likelihood": false,
-      "transition_markers": 1
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "That's just so crazy because you're so healthy, right? >> Cuz I need knee surgery, but like [music] >> knee surgery is kind of a big deal. >> I mean, look at this. Uh-oh. Jimmy's touching his hose. Can you do that, Grandpa? Oh my god. Trim your your fingernails. Jim, >> can you reach down? >> Can you reach down and touch it? >> Dude, he does have g"
     },
     {
       "start": "01:48:05",
       "end": "02:00:03",
-      "title": "Ethan Van Sciver",
-      "entities": [
-        "Ethan Van Sciver"
-      ],
-      "summary_seed": "Oh, she's got >> base. [music] Wait. Base. Black. Groer. >> Mhm. >> Says, \"What does she [laughter] smell like?\" >> What did she smell like? >> What? >> Hey yo, [laughter] >> he's like, \"Man, I really don't like how much she's I I really don't like how much he's calling the nword.\" But then that [ __ ] showed up. I got I got to know what she smells like. Ralph. Ralph, you get the empath. Describe her feet to me. >> H",
-      "clip_likelihood": false,
-      "transition_markers": 1
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "Oh, she's got >> base. [music] Wait. Base. Black. Groer. >> Mhm. >> Says, \"What does she [laughter] smell like?\" >> What did she smell like? >> What? >> Hey yo, [laughter] >> he's like, \"Man, I really don't like how much she's I I really don't like how much he's calling the nword.\" But then that [ __ ] showed up. I got I got to know what she smells"
     },
     {
       "start": "02:00:00",
       "end": "02:01:19",
       "title": "General discussion",
       "entities": [],
-      "summary_seed": "enjoyed the show. I've enjoyed our little Ralph uh Ralpha cruise through the Colombian uh beach towns. I hope we there's more. It's very very festive for the season, you know. >> So guys, get out of here. We're going to if you're on Rumble, I'm going to send you to merch as soon as I uh >> Yeah, get the the link for that. I don't know why I didn't do that before. >> All right, and hit that like button on your way out",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "possible_clip": false,
+      "summary_seed": "enjoyed the show. I've enjoyed our little Ralph uh Ralpha cruise through the Colombian uh beach towns. I hope we there's more. It's very very festive for the season, you know. >> So guys, get out of here. We're going to if you're on Rumble, I'm going to send you to merch as soon as I uh >> Yeah, get the the link for that. I don't know why I didn't"
     }
   ],
-  "claim_candidates": [
-    {
-      "claimant": "unknown speaker",
-      "claim": "I have to relaunch this.",
-      "timestamp": "00:00",
-      "status": "opinion_or_inference",
-      "receipt": "I have to I think I have to relaunch this."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "lives is.",
-      "timestamp": "00:00",
-      "status": "candidate_claim",
-      "receipt": "Not to delete [laughter] where this son of a [ __ ] I know lives is."
-    },
-    {
-      "claimant": "I guess what is why I",
-      "claim": "tropical music and it gives me the shittiest [ __ ]",
-      "timestamp": "12:02",
-      "status": "candidate_claim",
-      "receipt": "Listen, I guess what is why I said tropical music and it gives me the shittiest [ __ ]"
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "that's like an AR-15.",
-      "timestamp": "12:02",
-      "status": "opinion_or_inference",
-      "receipt": "[laughter] I think that's like an AR-15."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "personally I think that's the not the final form but that's like one of the advanced stages of like a gooner",
-      "timestamp": "12:02",
-      "status": "opinion_or_inference",
-      "receipt": "And then usually and I think personally I think that's the not the final form but that's like one of the advanced stages of like a gooner"
-    },
-    {
-      "claimant": "Hal",
-      "claim": "if she's not crying over you,",
-      "timestamp": "12:02",
-      "status": "candidate_claim",
-      "receipt": "Hal says if she's not crying over you,"
-    },
-    {
-      "claimant": "This is what everyone",
-      "claim": "to me.",
-      "timestamp": "24:00",
-      "status": "candidate_claim",
-      "receipt": "This is what everyone says to me."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "it's time for us to get into the pig [cheering] pin tonight.",
-      "timestamp": "24:00",
-      "status": "opinion_or_inference",
-      "receipt": "I think it's time for us to get into the pig [cheering] pin tonight."
-    },
-    {
-      "claimant": "it just confirms everything he",
-      "claim": "about Merch is just projection.",
-      "timestamp": "24:00",
-      "status": "candidate_claim",
-      "receipt": "Based on that clip from Jesse, it just confirms everything he says about Merch is just projection."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "was he scratching himself?",
-      "timestamp": "24:00",
-      "status": "opinion_or_inference",
-      "receipt": "I think was he scratching himself?"
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "I'm going to switch back to an iPhone.",
-      "timestamp": "24:00",
-      "status": "opinion_or_inference",
-      "receipt": "Uh I think I'm going to switch back to an iPhone."
-    },
-    {
-      "claimant": "an iPhone for a generation and see uh how",
-      "claim": "this is a help me stream.",
-      "timestamp": "24:00",
-      "status": "candidate_claim",
-      "receipt": "I might switch back to an iPhone for a generation and see uh how says this is a help me stream."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "that [laughter]",
-      "timestamp": "36:00",
-      "status": "opinion_or_inference",
-      "receipt": "Oh, I I believe that [laughter]"
-    },
-    {
-      "claimant": "Pine Mongu",
-      "claim": "Ralph's phone probably still has a home button.",
-      "timestamp": "36:00",
-      "status": "candidate_claim",
-      "receipt": "Pine Mongu says Ralph's phone probably still has a home button."
-    },
-    {
-      "claimant": "She",
-      "claim": "listening to Ralph be like, [laughter]",
-      "timestamp": "36:00",
-      "status": "candidate_claim",
-      "receipt": "She says listening to Ralph be like, [laughter]"
-    },
-    {
-      "claimant": "Another one where it",
-      "claim": "Gar Bish.",
-      "timestamp": "36:00",
-      "status": "candidate_claim",
-      "receipt": "Another one where it says Gar Bish."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "it's more about like physical I hope they don't",
-      "timestamp": "36:00",
-      "status": "opinion_or_inference",
-      "receipt": "I think it's more about like physical I hope they don't"
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "they just introduce him to drugs and like hey kid or something.",
-      "timestamp": "36:00",
-      "status": "opinion_or_inference",
-      "receipt": "I think they just introduce him to drugs and like hey kid or something."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "he means the this hotel key",
-      "timestamp": "36:00",
-      "status": "opinion_or_inference",
-      "receipt": "No, I think he means the this hotel key"
-    },
-    {
-      "claimant": "Um Stevie J",
-      "claim": "Till's real father was a traveling musician.",
-      "timestamp": "48:02",
-      "status": "candidate_claim",
-      "receipt": "Um Stevie J says Till's real father was a traveling musician."
-    },
-    {
-      "claimant": "Friend Steven",
-      "claim": "dead Ralph holding the phone in his bra like big titty [ __ ] do.",
-      "timestamp": "48:02",
-      "status": "candidate_claim",
-      "receipt": "Friend Steven says dead Ralph holding the phone in his bra like big titty [ __ ] do."
-    },
-    {
-      "claimant": "He just",
-      "claim": "it right in his third one.",
-      "timestamp": "48:02",
-      "status": "candidate_claim",
-      "receipt": "He just claimed it right in his third one."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "it's like one of those fisherman hat things.",
-      "timestamp": "48:02",
-      "status": "opinion_or_inference",
-      "receipt": "I think it's like one of those fisherman hat things."
-    },
-    {
-      "claimant": "Like I",
-      "claim": "earlier, he tried to sell me a half ounce.",
-      "timestamp": "48:02",
-      "status": "candidate_claim",
-      "receipt": "Like I said earlier, he tried to sell me a half ounce."
-    },
-    {
-      "claimant": "Nick Fuentes",
-      "claim": "weed was associated with [ __ ] is what he said.",
-      "timestamp": "48:02",
-      "status": "candidate_claim",
-      "receipt": "You know, Nick Fuentes said weed was associated with [ __ ] is what he said."
-    },
-    {
-      "claimant": "I can't believe the guy who",
-      "claim": "slurs all the time is going",
-      "timestamp": "48:02",
-      "status": "candidate_claim",
-      "receipt": "I can't believe the guy who says slurs all the time is going"
-    },
-    {
-      "claimant": "argued weed should be illegal is they",
-      "claim": "it makes black guys uh better snipers and makes white women want to sleep with them.",
-      "timestamp": "01:00:01",
-      "status": "candidate_claim",
-      "receipt": "reasons why they argued weed should be illegal is they said it makes black guys uh better snipers and makes white women want to sleep with them."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "all about it cuz there's actually a [ __ ] operation named I I name but",
-      "timestamp": "01:00:01",
-      "status": "candidate_claim",
-      "receipt": "I know all about it cuz there's actually a [ __ ] operation named I I name but"
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "it's the very end of the stream.",
-      "timestamp": "01:00:01",
-      "status": "opinion_or_inference",
-      "receipt": "I think it's the very end of the stream."
-    },
-    {
-      "claimant": "They started laughing when I",
-      "claim": "that.",
-      "timestamp": "01:12:01",
-      "status": "candidate_claim",
-      "receipt": "They started laughing when I said that."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "they sold it soon after the [ __ ] [ __ ]",
-      "timestamp": "01:12:01",
-      "status": "opinion_or_inference",
-      "receipt": "I think they sold it soon after the [ __ ] [ __ ]"
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "that's racist.",
-      "timestamp": "01:12:01",
-      "status": "opinion_or_inference",
-      "receipt": "And firstly, I think that's racist."
-    },
-    {
-      "claimant": "that hat literally",
-      "claim": "[music] you can say that, but I can't say that.",
-      "timestamp": "01:12:01",
-      "status": "candidate_claim",
-      "receipt": "God, that hat literally said [music] you can say that, but I can't say that."
-    },
-    {
-      "claimant": "Bree says uh the Spanish message",
-      "claim": "beware this man wants to violate your young girls.",
-      "timestamp": "01:12:01",
-      "status": "candidate_claim",
-      "receipt": "Bree says uh the Spanish message said beware this man wants to violate your young girls."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "a dono to him.",
-      "timestamp": "01:12:01",
-      "status": "opinion_or_inference",
-      "receipt": "Wait, was that you or a No, that was I think a dono to him."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "the money be on Mexico and then England to pull it off.",
-      "timestamp": "01:24:02",
-      "status": "opinion_or_inference",
-      "receipt": "I think the money be on Mexico and then England to pull it off."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "this is actually we got Ralphy's face on a toddler body eating his nugies in flies.",
-      "timestamp": "01:24:02",
-      "status": "opinion_or_inference",
-      "receipt": "I think this is actually we got Ralphy's face on a toddler body eating his nugies in flies."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "I I think it's it might be a funny response to Ralph.",
-      "timestamp": "01:24:02",
-      "status": "opinion_or_inference",
-      "receipt": "I think I I think it's it might be a funny response to Ralph."
-    },
-    {
-      "claimant": "could have just",
-      "claim": "Jade and a friend put up the Fourth of July decorations, man.",
-      "timestamp": "01:36:01",
-      "status": "candidate_claim",
-      "receipt": "could have just said Jade and a friend put up the Fourth of July decorations, man."
-    },
-    {
-      "claimant": "Someone pointed out on one stream he",
-      "claim": "like he was going into hospice or something and that was a few years ago.",
-      "timestamp": "01:36:01",
-      "status": "candidate_claim",
-      "receipt": "Someone pointed out on one stream he said like he was going into hospice or something and that was a few years ago."
-    },
-    {
-      "claimant": "I feel like at some point he should have",
-      "claim": "like, \"Guys, I'm I'm not 100% again, but you don't have to think of me as the dying guy anymore.\"",
-      "timestamp": "01:36:01",
-      "status": "candidate_claim",
-      "receipt": "I I feel like at some point he should have said like, \"Guys, I'm I'm not 100% again, but you don't have to think of me as the dying guy anymore.\""
-    },
-    {
-      "claimant": "Mer Med never",
-      "claim": "it was cancer.",
-      "timestamp": "01:36:01",
-      "status": "candidate_claim",
-      "receipt": "Well, to be clear clear, Mer Med never said it was cancer."
-    },
-    {
-      "claimant": "Doctor",
-      "claim": "like I get to name it",
-      "timestamp": "01:36:01",
-      "status": "candidate_claim",
-      "receipt": "Doctor says like I get to name it"
-    },
-    {
-      "claimant": "Alpha Snor",
-      "claim": "the hospital is called Our Lady of Full of [ __ ]",
-      "timestamp": "01:36:01",
-      "status": "candidate_claim",
-      "receipt": "Alpha Snor says the hospital is called Our Lady of Full of [ __ ]"
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "it's [music] It must have happened when he started stream.",
-      "timestamp": "01:36:01",
-      "status": "opinion_or_inference",
-      "receipt": "Dude, I think it's [music] It must have happened when he started stream."
-    },
-    {
-      "claimant": "you",
-      "claim": "the exact same thing.",
-      "timestamp": "01:36:01",
-      "status": "candidate_claim",
-      "receipt": "Dude, that's what Dude, you said the exact same thing."
-    }
-  ],
+  "claim_candidates": [],
   "quote_candidates": [
     {
       "timestamp": "00:00",
       "text": "I got fired [music] for all my lies and sexual assault.",
-      "significance_score": 2
-    },
-    {
-      "timestamp": "12:02",
-      "text": "we then it gets too real for her and she gets scared because she has abandonment issues.",
-      "significance_score": 2
-    },
-    {
-      "timestamp": "12:02",
-      "text": "I need uh Why is it always that video?",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "24:00",
-      "text": "I've never done zanies, but those ain't the noises I make when I'm high or drunk.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "24:00",
-      "text": "I could always go back to an Android if I don't like it.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "36:00",
-      "text": "Then again, he's always been this inbred.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "36:00",
-      "text": "You know what you were built for, but you're never going to do cuz you're horribly untalented piece of [ __ ]",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "36:00",
-      "text": "He's a fell who could get me a [ __ ] And I always want more more tips.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "36:00",
-      "text": "Like he's around all the time, but he's never he's never going to get a record deal.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "36:00",
-      "text": "He's never going to do anything beyond like self-produced music, but he's going to like just make enough to survive, right?",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "48:02",
-      "text": "Dude, I've never been so [ __ ] up.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "01:12:01",
-      "text": "You know, cuz he always he always buys something that has to be town it goes to [music] Jersey.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "01:12:01",
-      "text": "I don't know why I always get needlessly concerned when like TVs are outside.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "01:36:01",
-      "text": "Well, to be clear clear, Mer Med never said it was cancer.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "01:36:01",
-      "text": "I've never seen someone with so much hair but so little at the same time.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "01:36:01",
-      "text": "he never fixes it for the rest of the [ __ ] stream.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "01:36:01",
-      "text": "Cuz anytime you go into a Mexican restaurant, [laughter] it's always Asian people running.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "01:48:05",
-      "text": "We always enjoy to see you out there.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "01:48:05",
-      "text": "I love that he's Dude, he's the guy that always does the Jewish accent and now he's doing like a Mexican accent and it's like pretty good.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "01:48:05",
-      "text": "Um he never went to the [ __ ] beach or anything.",
+      "subjects": [],
       "significance_score": 1
     }
   ],
-  "relationship_signals": [
+  "relationship_signals": [],
+  "story_matches": [
     {
-      "left": "Dick Masterson",
-      "right": "Vito Gesualdi",
-      "signal_type": "defended",
-      "timestamp": "00:00",
-      "confidence": 0.45,
-      "receipt": "Jesus the purple man. Let me leitate [music] into your dreams. I will make [singing] love so cosmically. [music] Take off my flesh. [singing] You don't need the rest. I'm a man who's the best. So take your [music] guess. Is it me? Jesus was the purple [music] man living in a desert purple land. Snake bite to the head. Antidote from a boy's [music] glass. It's Jesus the purple man. Next slide. Chewy. I just sweep sweep swe swe swe swe sw",
-      "warning": "co-mention plus language signal; requires interpretation"
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.5
     },
     {
-      "left": "Dick Masterson",
-      "right": "Vito Gesualdi",
-      "signal_type": "separation",
-      "timestamp": "00:00",
-      "confidence": 0.45,
-      "receipt": "Jesus the purple man. Let me leitate [music] into your dreams. I will make [singing] love so cosmically. [music] Take off my flesh. [singing] You don't need the rest. I'm a man who's the best. So take your [music] guess. Is it me? Jesus was the purple [music] man living in a desert purple land. Snake bite to the head. Antidote from a boy's [music] glass. It's Jesus the purple man. Next slide. Chewy. I just sweep sweep swe swe swe swe sw",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Dick Masterson",
-      "right": "Frog Tony",
-      "signal_type": "criticised",
-      "timestamp": "12:02",
-      "confidence": 0.45,
-      "receipt": "are you doing this to yourself? This is unnecessary. He wants he wants he only has so much time left to punish himself with this relationship. He's being he's a tick being latched off of Dick Mastersonson and he just like he he's trying to maximize the amount of pain. >> God, if he's a tick, I hope uh Dick Masterson doesn't get aphail after it >> versus he wants to get fired. Dude, you heard about that whole [ __ ] ab",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Dick Masterson",
-      "right": "Frog Tony",
-      "signal_type": "friendship_claim",
-      "timestamp": "12:02",
-      "confidence": 0.45,
-      "receipt": "are you doing this to yourself? This is unnecessary. He wants he wants he only has so much time left to punish himself with this relationship. He's being he's a tick being latched off of Dick Mastersonson and he just like he he's trying to maximize the amount of pain. >> God, if he's a tick, I hope uh Dick Masterson doesn't get aphail after it >> versus he wants to get fired. Dude, you heard about that whole [ __ ] ab",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Dick Masterson",
-      "right": "Frog Tony",
-      "signal_type": "separation",
-      "timestamp": "12:02",
-      "confidence": 0.45,
-      "receipt": "are you doing this to yourself? This is unnecessary. He wants he wants he only has so much time left to punish himself with this relationship. He's being he's a tick being latched off of Dick Mastersonson and he just like he he's trying to maximize the amount of pain. >> God, if he's a tick, I hope uh Dick Masterson doesn't get aphail after it >> versus he wants to get fired. Dude, you heard about that whole [ __ ] ab",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Dick Masterson",
-      "right": "Ethan Van Sciver",
-      "signal_type": "criticised",
-      "timestamp": "01:12:01",
-      "confidence": 0.45,
-      "receipt": ">> Dad, you're a dick. >> They started laughing when I said that. They [ __ ] heard me, bro. You will not >> I think they sold it soon after the [ __ ] [ __ ] >> Like, am I on Twitter? Am I on YouTube? I don't know. Bro, these are people going about on their day. You know, we're not talking to you. >> This is like, dude, this is for a [ __ ] like me, this is paradise. I ain't going to lie. I >> There's a soft day. >> Oh. Oh, soft day do",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Dick Masterson",
-      "right": "Ethan Van Sciver",
-      "signal_type": "friendship_claim",
-      "timestamp": "01:12:01",
-      "confidence": 0.45,
-      "receipt": ">> Dad, you're a dick. >> They started laughing when I said that. They [ __ ] heard me, bro. You will not >> I think they sold it soon after the [ __ ] [ __ ] >> Like, am I on Twitter? Am I on YouTube? I don't know. Bro, these are people going about on their day. You know, we're not talking to you. >> This is like, dude, this is for a [ __ ] like me, this is paradise. I ain't going to lie. I >> There's a soft day. >> Oh. Oh, soft day do",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Dick Masterson",
-      "right": "Ethan Van Sciver",
-      "signal_type": "friendship_claim",
-      "timestamp": "01:36:01",
-      "confidence": 0.45,
-      "receipt": "That's just so crazy because you're so healthy, right? >> Cuz I need knee surgery, but like [music] >> knee surgery is kind of a big deal. >> I mean, look at this. Uh-oh. Jimmy's touching his hose. Can you do that, Grandpa? Oh my god. Trim your your fingernails. Jim, >> can you reach down? >> Can you reach down and touch it? >> Dude, he does have goblin fingers. What the [ __ ] Jim? >> Oh, come on. He's dying. >> I don't care. Trim your",
-      "warning": "co-mention plus language signal; requires interpretation"
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.4
     }
   ],
-  "story_matches": [],
+  "review_priority": 25,
   "uncertainty_flags": [
-    "speaker identity may be unknown",
+    "speaker attribution may be unknown",
     "clip voices may be mistaken for live participants",
-    "sentiment lexicon does not reliably detect sarcasm",
-    "relationship signals are candidates, not declarations",
-    "claims are not verified facts"
+    "sentiment lexicon cannot reliably detect sarcasm",
+    "claims and relationship signals remain candidates"
   ]
 }

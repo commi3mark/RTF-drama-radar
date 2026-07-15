@@ -1,0 +1,866 @@
+{
+  "schema_version": "octopuss-candidate-episode-v0.1",
+  "video_id": "LS_14uOaG2E",
+  "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+  "source": "Ethan Van Sciver",
+  "published": "2026-07-13T23:19:06+00:00",
+  "review_priority": 100,
+  "participant_candidates": [
+    {
+      "entity": "Ethan Van Sciver",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Ethan Van Sciver",
+      "mentions": 10,
+      "block_count": 5,
+      "first_timestamp": "00:05",
+      "last_timestamp": "01:48:02",
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.591,
+        "positive_hits": 35,
+        "negative_hits": 9
+      },
+      "receipts": [
+        {
+          "timestamp": "00:05",
+          "excerpt": "Loneliness [singing] [music] is the coat you wear. [singing] A deep [music] shade of blue [singing] is always there. [music] The sun ain't going to shine [music] anymore. The moon ain't going to rise [music] to your sky. Tears are always [music] in your eyes when you're [music] with us. >> [music] >> Empess [music] is the [music] place you're in with nothing"
+        },
+        {
+          "timestamp": "36:00",
+          "excerpt": "that watch Friday Night Tits are going to watch a bunch of girls periods. Like at that point it just seems like there is no benefit to say, \"Hey guys, go [ __ ] yourself with your human toys and piss off cuz she's not even into that shit.\" >> No, she's not. >> Is she into geek [ __ ] Like >> no, she was uh I mean when I saw like a fight, she didn't know this"
+        },
+        {
+          "timestamp": "01:00:01",
+          "excerpt": "is beautiful this place, you know? It's stunning. It's very picturesque. And when you think of a you know, like I said, think of like a it's for Arabian horses. And these horses don't do [ __ ] You don't ride these horses. You don't do anything. >> They're like giant collectibles. >> Yeah. They're just giant pets and you know all these rich people just like"
+        },
+        {
+          "timestamp": "01:12:00",
+          "excerpt": ">> Of course, >> like Jake or Hoover. [laughter] >> We just got the ride tickets for the rides here in Yomi Yuri Land right over here console which is what we're really here for. You can easily ride anything back here. But the Poké Park ones, the rides there are separate. So, let's have some fun. >> That shirt alone tells you this guy does not have a girlfri"
+        },
+        {
+          "timestamp": "01:36:00",
+          "excerpt": ">> one of the things in Florence for the time I got to spend there I'm not sure maybe villas maybe this stretches across the Mediterranean the the windows so you're in these old rooms and they're big with tiles and stuff. >> Uhhuh. >> And the windows don't have screens. They're just giant shutters. >> Yeah. They're giant open air flows through because it's n"
+        }
+      ]
+    },
+    {
+      "entity": "Chrissie Mayr",
+      "mentions": 10,
+      "block_count": 2,
+      "first_timestamp": "12:00",
+      "last_timestamp": "36:01",
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.619,
+        "positive_hits": 8,
+        "negative_hits": 34
+      },
+      "receipts": [
+        {
+          "timestamp": "12:00",
+          "excerpt": "And Richard said, \"I like your work, but you know, uh the secrecy thing doesn't Listen, look how [ __ ] cool this is.\" >> Yeah. >> Are you kidding me? That's wicked. I thought it's kind of sucked. >> Oh my god, it's beautiful. >> Like it's perfect in every way. Like you got him just Yeah, you got him just right there. >> Uh so I found that and I was like, \"O"
+        },
+        {
+          "timestamp": "24:01",
+          "excerpt": "uh oppressed or something. I don't know >> what did she do that got them all wrong. >> Oh terrible things. She did heinous acts against mankind. Oh >> I knew it. >> Damn it. You thumbmed it up. Um she I don't know she didn't know >> she had Millie Mac on her show who was too close to courting. So it was killed by association by by association double associat"
+        }
+      ]
+    },
+    {
+      "entity": "Shane Davis",
+      "mentions": 10,
+      "block_count": 4,
+      "first_timestamp": "12:00",
+      "last_timestamp": "01:48:02",
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.379,
+        "positive_hits": 18,
+        "negative_hits": 40
+      },
+      "receipts": [
+        {
+          "timestamp": "12:00",
+          "excerpt": ". [music] >> Tommy Reviews says Chrissy is on Tim Cass. Chat doesn't disappoint. Yikes. >> Bosch, I love the burn Holtz series, says Odinson. Now, [music] >> ladies and gentlemen, Shane Davis, sorry. Love it. [music] >> What was that comment about? >> Uh, >> love the burn Hulk series. [music] >> I appreciate it, man. Thanks, man. >> I'm also doing watch. [music] >> Uh,"
+        },
+        {
+          "timestamp": "24:01",
+          "excerpt": "uh oppressed or something. I don't know >> what did she do that got them all wrong. >> Oh terrible things. She did heinous acts against mankind. Oh >> I knew it. >> Damn it. You thumbmed it up. Um she I don't know she didn't know >> she had Millie Mac on her show who was too close to courting. So it was killed by association by by association double associat"
+        },
+        {
+          "timestamp": "48:01",
+          "excerpt": "cat. He couldn't roll with the jokes, man. And the guy just doesn't have a sense of humor. >> The book is called Cash Crab, Mike. >> Yeah, it's that type of person that uh is always like his raider is always on the lookout for something to that is going to offend or attack him. And uh they never chill out. And that's why they're always like so [ __ ] and neu"
+        },
+        {
+          "timestamp": "01:36:00",
+          "excerpt": "that guy >> Sturgis? He's a YouTuber named Renowned Zero uh who was a comics gate critic and obsessive fan of Eric July. Uh he makes content all the time where it's like Ethan and Shane Davis coping and seething and it'll be like uh me with hold on let me show you like a lot of his stuff. Uh, and it'll be like me with like peanut butter on my dick and I got Shane on a"
+        }
+      ]
+    },
+    {
+      "entity": "Sturgis",
+      "mentions": 10,
+      "block_count": 3,
+      "first_timestamp": "01:00:01",
+      "last_timestamp": "01:36:01",
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.625,
+        "positive_hits": 13,
+        "negative_hits": 3
+      },
+      "receipts": [
+        {
+          "timestamp": "01:00:01",
+          "excerpt": "hone. That's what's causing that. >> That's what happens when I put my head down to draw. Yeah, I want to do a trash cast tonight if possible because I want to go back to watching Sturgis in Japan. Uh there are a whole bunch of more videos of Sturgis. He made all these vlogs of himself in Japan. I I want to watch them. They're really funny. >> Who? Ethan, can you >"
+        },
+        {
+          "timestamp": "01:12:00",
+          "excerpt": "ll my haters at home, they're not physically fit like I am. They're fat. Uh, and there's a lot of walking here and a lot of it's uphill. You guys couldn't handle it. I can cuz I'm Sturgis. And I I have to admit I look at this 30° incline and I'm like [clears throat] like I completely agree with him. I understand. I would be huffing and >> Is he talking about you th"
+        },
+        {
+          "timestamp": "01:24:00",
+          "excerpt": "ly, with your little kids. Uh you're in there with your kids and your wife >> and they're like flipping out and having a great time and you're like, \"Okay, like this is, you know, Sturgis is in this ride and this is like his trip.\" Watch his face. [music] Look at this. Yeah. How do you like this? Right. We're in Japan. >> [music] [music] >> Delightful music. >> He"
+        }
+      ]
+    },
+    {
+      "entity": "TheQuartering",
+      "mentions": 8,
+      "block_count": 2,
+      "first_timestamp": "12:00",
+      "last_timestamp": "36:01",
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.619,
+        "positive_hits": 8,
+        "negative_hits": 34
+      },
+      "receipts": [
+        {
+          "timestamp": "12:00",
+          "excerpt": "And Richard said, \"I like your work, but you know, uh the secrecy thing doesn't Listen, look how [ __ ] cool this is.\" >> Yeah. >> Are you kidding me? That's wicked. I thought it's kind of sucked. >> Oh my god, it's beautiful. >> Like it's perfect in every way. Like you got him just Yeah, you got him just right there. >> Uh so I found that and I was like, \"O"
+        },
+        {
+          "timestamp": "24:01",
+          "excerpt": "uh oppressed or something. I don't know >> what did she do that got them all wrong. >> Oh terrible things. She did heinous acts against mankind. Oh >> I knew it. >> Damn it. You thumbmed it up. Um she I don't know she didn't know >> she had Millie Mac on her show who was too close to courting. So it was killed by association by by association double associat"
+        }
+      ]
+    },
+    {
+      "entity": "ComicsGate",
+      "mentions": 7,
+      "block_count": 5,
+      "first_timestamp": "00:05",
+      "last_timestamp": "03:19:08",
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.641,
+        "positive_hits": 32,
+        "negative_hits": 7
+      },
+      "receipts": [
+        {
+          "timestamp": "00:05",
+          "excerpt": "Loneliness [singing] [music] is the coat you wear. [singing] A deep [music] shade of blue [singing] is always there. [music] The sun ain't going to shine [music] anymore. The moon ain't going to rise [music] to your sky. Tears are always [music] in your eyes when you're [music] with us. >> [music] >> Empess [music] is the [music] place you're in with nothing"
+        },
+        {
+          "timestamp": "01:00:01",
+          "excerpt": "is beautiful this place, you know? It's stunning. It's very picturesque. And when you think of a you know, like I said, think of like a it's for Arabian horses. And these horses don't do [ __ ] You don't ride these horses. You don't do anything. >> They're like giant collectibles. >> Yeah. They're just giant pets and you know all these rich people just like"
+        },
+        {
+          "timestamp": "01:36:00",
+          "excerpt": ">> one of the things in Florence for the time I got to spend there I'm not sure maybe villas maybe this stretches across the Mediterranean the the windows so you're in these old rooms and they're big with tiles and stuff. >> Uhhuh. >> And the windows don't have screens. They're just giant shutters. >> Yeah. They're giant open air flows through because it's n"
+        },
+        {
+          "timestamp": "02:24:01",
+          "excerpt": ">> What's more comate? What's more vampire? >> Great hands. Great hands. >> Yeah, great face. >> I vis what you come up with. [laughter] >> Wait. >> Wow. Vampiria Cardinal. >> Well, hello. >> An actual uh comics gate character. [snorts] >> Wow, man. >> Pretty wild, man. >> Yeah, that's cool. Hot >> on black paper. Uh, next up is Andy Smith. Oh, >> still inki"
+        },
+        {
+          "timestamp": "03:12:00",
+          "excerpt": ">> that's old lore. I I I didn't hear about that. I didn't, you know, back then I was kind of following, but not as closely as I do today. >> And uh so I didn't I heard your shows, Ethan, but not always the sub shows, you know, kind of the other ones. Yeah. >> Uh, all right. $50 is our top bid. Let me count down from nine. Looking for an increase of 10. Uh,"
+        }
+      ]
+    },
+    {
+      "entity": "Frog Tony",
+      "mentions": 6,
+      "block_count": 5,
+      "first_timestamp": "00:05",
+      "last_timestamp": "03:12:02",
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.814,
+        "positive_hits": 39,
+        "negative_hits": 4
+      },
+      "receipts": [
+        {
+          "timestamp": "00:05",
+          "excerpt": "Loneliness [singing] [music] is the coat you wear. [singing] A deep [music] shade of blue [singing] is always there. [music] The sun ain't going to shine [music] anymore. The moon ain't going to rise [music] to your sky. Tears are always [music] in your eyes when you're [music] with us. >> [music] >> Empess [music] is the [music] place you're in with nothing"
+        },
+        {
+          "timestamp": "01:48:02",
+          "excerpt": ">> in 2022. My algorithm just became >> uh baseball, soccer, >> yeah, >> comedy, politics, and Leo Messi. >> It's always You know what? >> And the and the algorithm changes so fast because then three months ago, I >> started listening to Rob Lifel's observations and then all comic things started streaming right back in immediately. So, it's not like it's not"
+        },
+        {
+          "timestamp": "02:24:01",
+          "excerpt": ">> What's more comate? What's more vampire? >> Great hands. Great hands. >> Yeah, great face. >> I vis what you come up with. [laughter] >> Wait. >> Wow. Vampiria Cardinal. >> Well, hello. >> An actual uh comics gate character. [snorts] >> Wow, man. >> Pretty wild, man. >> Yeah, that's cool. Hot >> on black paper. Uh, next up is Andy Smith. Oh, >> still inki"
+        },
+        {
+          "timestamp": "02:36:02",
+          "excerpt": "There you go. Comic book one already said 200. Yeah, we need to have that uh uh done. Uh, so, uh, we need 210 or anything higher, $10 increments, uh, from here. >> Uh, and but can you lift it up a little bit so we can see the whole drawing? >> So, does she have a belt? Does she have the waist? >> Yeah. Yeah. >> Oh, she's got pants on and everything. >> Cool."
+        },
+        {
+          "timestamp": "03:00:00",
+          "excerpt": "8 7 6 5 4 3 two one. And listen, you know, if you want to purchase this, if you're watching this later, please contact Bosch on his Twitter, >> and I'm sure he'll have it available >> um uh to sell to you. Uh Andy Smith, Andy's down there. He's still working. He's still working on his >> Well, I'm just messing around. [snorts] Uh I'm feeling generous. 50 buc"
+        }
+      ]
+    },
+    {
+      "entity": "Liam Gray",
+      "mentions": 6,
+      "block_count": 3,
+      "first_timestamp": "36:00",
+      "last_timestamp": "03:12:02",
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.769,
+        "positive_hits": 23,
+        "negative_hits": 3
+      },
+      "receipts": [
+        {
+          "timestamp": "36:00",
+          "excerpt": "Everybody's already forgot about the guy. He makes the best memes. Liam. >> Oh, subject or as a >> No, the bring them to me now thing was >> Oh, yeah. Yeah. >> Oh, that was Liam. Liam Gray, right? That guy. >> Oh, yeah. >> Yeah. >> Who's that? Adventures with kangaroos and boomerangs. >> What's up, man? You coming over every day now? I appreciate it. Here's a Hunter"
+        },
+        {
+          "timestamp": "02:48:00",
+          "excerpt": "and uh it helps me with these like long lines and I just like I was like looking all over for it. I think one of my one of my boys took it. It's like >> uh the serious man had $100 too. Come on back with at least 110. >> Yeah, it's time to get a little bit more serious. A serious man. >> Come back. >> I think I did a good job with that line. >> Come on back,"
+        },
+        {
+          "timestamp": "03:00:00",
+          "excerpt": "y comes in and tries to torment him in somewhere. take from him, kill him, and he's like, \"All right, that's it.\" >> Yeah. >> Or now it's war. >> Well, Euseity Sam is kind of like Liam Gray, you know. >> Yeah. >> Three. And what what's Liam Gray? He's just doing his own thing. >> Frustrated. Always nothing's working out like. >> So, yeah. But Liam is constantly like"
+        }
+      ]
+    },
+    {
+      "entity": "Friday Night Tights",
+      "mentions": 5,
+      "block_count": 3,
+      "first_timestamp": "12:00",
+      "last_timestamp": "01:48:02",
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.472,
+        "positive_hits": 14,
+        "negative_hits": 39
+      },
+      "receipts": [
+        {
+          "timestamp": "12:00",
+          "excerpt": "im uh Tim P. >> So I didn't Yeah. I'm always like what are the politics here? Like everything is political when it comes to YouTube. >> So it's like uh you know um as soon as like Friday Night Tights soon as Gary won't talk to me anymore then like you can see like where the lines are going to be drawn with people that you know I'd be perfectly cool with otherwise. Um, and so o"
+        },
+        {
+          "timestamp": "24:01",
+          "excerpt": "not knowing pop culture at all. [laughter] She's on there [ __ ] up. No [ __ ] >> That was the point of of the show. >> I mean, right now is there's a lot of like clout and saying Friday Night Tights canled me. >> Fired me. I got fired from Friday Night Tights. >> Now, most of us go, \"Well, we don't. Who cares?\" But like her fans that might have been Friday Night Tights fans a"
+        },
+        {
+          "timestamp": "01:36:00",
+          "excerpt": "now, saying uh, stop agreeing with my critics about anything. Uh, >> and he sent him a video of him crumping [laughter] >> or I'm going to unleash like, you know, yellow flash and Friday Night Tights on you and stuff, you know? Uh, which he did. Uh, so, >> and that happened. >> Yes. >> So, he just he just didn't like Everybody needs criticism. He didn't like any criticism. No,"
+        }
+      ]
+    },
+    {
+      "entity": "Cyberfrog",
+      "mentions": 4,
+      "block_count": 3,
+      "first_timestamp": "01:36:00",
+      "last_timestamp": "02:48:02",
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.63,
+        "positive_hits": 22,
+        "negative_hits": 5
+      },
+      "receipts": [
+        {
+          "timestamp": "01:36:00",
+          "excerpt": "people like Sturgis would be he you would do his work for him, you know. >> Yeah. Yeah. Sturgeis was out there like Yeah. Like Sturgis was somebody who initially was like, I love Cyberfrog. I love it. I think it's great. >> But it's like as soon as Eric needed him to to like come after me, suddenly I have peanut butter on my dick. You know what I mean? And I got tha"
+        },
+        {
+          "timestamp": "02:24:01",
+          "excerpt": ">> What's more comate? What's more vampire? >> Great hands. Great hands. >> Yeah, great face. >> I vis what you come up with. [laughter] >> Wait. >> Wow. Vampiria Cardinal. >> Well, hello. >> An actual uh comics gate character. [snorts] >> Wow, man. >> Pretty wild, man. >> Yeah, that's cool. Hot >> on black paper. Uh, next up is Andy Smith. Oh, >> still inki"
+        },
+        {
+          "timestamp": "02:36:02",
+          "excerpt": "ng no dollars. [laughter] >> Let me do a countdown here from nine. >> Nine. >> Looking for just a $10 increase at least. Eight. >> [music] >> Seven. >> Yeah, this is Lynx from the Cyberfrog universe. >> Six. [screaming] >> Look how nasty she is. I love it, man. That is so great, dude. The way her tongue is working. >> Very cool. >> Now, she's a hero, right? She's not"
+        }
+      ]
+    },
+    {
+      "entity": "Kino Casino",
+      "mentions": 2,
+      "block_count": 1,
+      "first_timestamp": "01:48:02",
+      "last_timestamp": "02:00:01",
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5,
+        "positive_hits": 6,
+        "negative_hits": 2
+      },
+      "receipts": [
+        {
+          "timestamp": "01:48:02",
+          "excerpt": "Shaken. Um, it's really good. Uh, Josem M for $20 says, \"Finally caught up. Uh, caught your five part raw high kid review on a long drive. Sturgeis turned on CG over JSOM. Once on Kino Casino PPP said, Safa Ethan Van Skyver. Uh, Warski laughed and read a comment saying Safa Evan. It might have been a yellow [ __ ] comment.\" Yeah, yellow [ __ ] love. I mean, Yellow Flas"
+        }
+      ]
+    },
+    {
+      "entity": "Eric July",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "01:36:00",
+      "last_timestamp": "01:48:02",
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.091,
+        "positive_hits": 6,
+        "negative_hits": 5
+      },
+      "receipts": [
+        {
+          "timestamp": "01:36:00",
+          "excerpt": "who he is or I mean I see that he's creepy to be like that but who is that guy >> Sturgis? He's a YouTuber named Renowned Zero uh who was a comics gate critic and obsessive fan of Eric July. Uh he makes content all the time where it's like Ethan and Shane Davis coping and seething and it'll be like uh me with hold on let me show you like a lot of his stuff. Uh, and i"
+        }
+      ]
+    },
+    {
+      "entity": "Aaron Imholte",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "03:12:00",
+      "last_timestamp": "03:19:08",
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "unclear",
+        "score": 0.0,
+        "positive_hits": 0,
+        "negative_hits": 0
+      },
+      "receipts": [
+        {
+          "timestamp": "03:12:00",
+          "excerpt": ">> that's old lore. I I I didn't hear about that. I didn't, you know, back then I was kind of following, but not as closely as I do today. >> And uh so I didn't I heard your shows, Ethan, but not always the sub shows, you know, kind of the other ones. Yeah. >> Uh, all right. $50 is our top bid. Let me count down from nine. Looking for an increase of 10. Uh,"
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:05",
+      "end": "12:02",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "Loneliness [singing] [music] is the coat you wear. [singing] A deep [music] shade of blue [singing] is always there. [music] The sun ain't going to shine [music] anymore. The moon ain't going to rise [music] to your sky. Tears are always [music] in your eyes when you're [music] with us. >> [music] >> Empess [music] is the [music] place you're in wi"
+    },
+    {
+      "start": "12:00",
+      "end": "24:05",
+      "title": "Shane Davis / Friday Night Tights",
+      "entities": [
+        "Shane Davis",
+        "Friday Night Tights"
+      ],
+      "possible_clip": false,
+      "summary_seed": "And Richard said, \"I like your work, but you know, uh the secrecy thing doesn't Listen, look how [ __ ] cool this is.\" >> Yeah. >> Are you kidding me? That's wicked. I thought it's kind of sucked. >> Oh my god, it's beautiful. >> Like it's perfect in every way. Like you got him just Yeah, you got him just right there. >> Uh so I found that and I wa"
+    },
+    {
+      "start": "24:01",
+      "end": "36:01",
+      "title": "Friday Night Tights",
+      "entities": [
+        "Friday Night Tights"
+      ],
+      "possible_clip": false,
+      "summary_seed": "uh oppressed or something. I don't know >> what did she do that got them all wrong. >> Oh terrible things. She did heinous acts against mankind. Oh >> I knew it. >> Damn it. You thumbmed it up. Um she I don't know she didn't know >> she had Millie Mac on her show who was too close to courting. So it was killed by association by by association doubl"
+    },
+    {
+      "start": "36:00",
+      "end": "48:03",
+      "title": "Liam Gray",
+      "entities": [
+        "Liam Gray"
+      ],
+      "possible_clip": false,
+      "summary_seed": "that watch Friday Night Tits are going to watch a bunch of girls periods. Like at that point it just seems like there is no benefit to say, \"Hey guys, go [ __ ] yourself with your human toys and piss off cuz she's not even into that shit.\" >> No, she's not. >> Is she into geek [ __ ] Like >> no, she was uh I mean when I saw like a fight, she didn't"
+    },
+    {
+      "start": "48:01",
+      "end": "01:00:04",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "cat. He couldn't roll with the jokes, man. And the guy just doesn't have a sense of humor. >> The book is called Cash Crab, Mike. >> Yeah, it's that type of person that uh is always like his raider is always on the lookout for something to that is going to offend or attack him. And uh they never chill out. And that's why they're always like so [ __"
+    },
+    {
+      "start": "01:00:01",
+      "end": "01:12:01",
+      "title": "Sturgis / Eric July",
+      "entities": [
+        "Sturgis",
+        "Eric July"
+      ],
+      "possible_clip": false,
+      "summary_seed": "is beautiful this place, you know? It's stunning. It's very picturesque. And when you think of a you know, like I said, think of like a it's for Arabian horses. And these horses don't do [ __ ] You don't ride these horses. You don't do anything. >> They're like giant collectibles. >> Yeah. They're just giant pets and you know all these rich people"
+    },
+    {
+      "start": "01:12:00",
+      "end": "01:24:01",
+      "title": "Sturgis",
+      "entities": [
+        "Sturgis"
+      ],
+      "possible_clip": false,
+      "summary_seed": ">> Of course, >> like Jake or Hoover. [laughter] >> We just got the ride tickets for the rides here in Yomi Yuri Land right over here console which is what we're really here for. You can easily ride anything back here. But the Poké Park ones, the rides there are separate. So, let's have some fun. >> That shirt alone tells you this guy does not have"
+    },
+    {
+      "start": "01:24:00",
+      "end": "01:36:01",
+      "title": "Sturgis",
+      "entities": [
+        "Sturgis"
+      ],
+      "possible_clip": false,
+      "summary_seed": ">> Pokemon. >> There you go. Your front teeth. [laughter] >> They're gone. >> Tastes quite bland. >> And it's quite cream. >> Yes, it would be quite bland. I'd >> still recommend it though. It's pretty good. Besides being a little bland, but >> besides being a little bland, it's pretty good. It's a cookie, dude. [laughter] >> We just got the peek o"
+    },
+    {
+      "start": "01:36:00",
+      "end": "01:48:02",
+      "title": "Sturgis / Eric July / Shane Davis",
+      "entities": [
+        "Sturgis",
+        "Eric July",
+        "Shane Davis",
+        "Friday Night Tights",
+        "Cyberfrog"
+      ],
+      "possible_clip": false,
+      "summary_seed": ">> one of the things in Florence for the time I got to spend there I'm not sure maybe villas maybe this stretches across the Mediterranean the the windows so you're in these old rooms and they're big with tiles and stuff. >> Uhhuh. >> And the windows don't have screens. They're just giant shutters. >> Yeah. They're giant open air flows through beca"
+    },
+    {
+      "start": "01:48:02",
+      "end": "02:00:01",
+      "title": "Kino Casino",
+      "entities": [
+        "Kino Casino"
+      ],
+      "possible_clip": false,
+      "summary_seed": ">> in 2022. My algorithm just became >> uh baseball, soccer, >> yeah, >> comedy, politics, and Leo Messi. >> It's always You know what? >> And the and the algorithm changes so fast because then three months ago, I >> started listening to Rob Lifel's observations and then all comic things started streaming right back in immediately. So, it's not lik"
+    },
+    {
+      "start": "02:00:00",
+      "end": "02:12:05",
+      "title": "Sturgis",
+      "entities": [
+        "Sturgis"
+      ],
+      "possible_clip": false,
+      "summary_seed": "Originally, I was thinking about doing it on hard art because we were talking about it. But then it time it ended up being the exact same day Salty was doing it. And since I already had the campaign on superiorpresscomics.com, I was just like, yo, let's focus on Salty and I'll ninja launch the Indiegogo on, you know, in the afternoons because I thi"
+    },
+    {
+      "start": "02:12:02",
+      "end": "02:24:04",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "share my face. Here I am sitting with uh the White Power Ranger. >> Whoa. >> He was very happy to see me. >> As you can see, we're both coordinated >> and we're like a what is it? like a it's not a what is it like a mace mace t-shirt but it's close and good enough. >> Mhm. >> An excellent picture. >> I like that picture, man. It's great. >> It was"
+    },
+    {
+      "start": "02:24:01",
+      "end": "02:36:03",
+      "title": "Shane Davis",
+      "entities": [
+        "Shane Davis"
+      ],
+      "possible_clip": false,
+      "summary_seed": ">> What's more comate? What's more vampire? >> Great hands. Great hands. >> Yeah, great face. >> I vis what you come up with. [laughter] >> Wait. >> Wow. Vampiria Cardinal. >> Well, hello. >> An actual uh comics gate character. [snorts] >> Wow, man. >> Pretty wild, man. >> Yeah, that's cool. Hot >> on black paper. Uh, next up is Andy Smith. Oh, >>"
+    },
+    {
+      "start": "02:36:02",
+      "end": "02:48:02",
+      "title": "Cyberfrog",
+      "entities": [
+        "Cyberfrog"
+      ],
+      "possible_clip": false,
+      "summary_seed": "There you go. Comic book one already said 200. Yeah, we need to have that uh uh done. Uh, so, uh, we need 210 or anything higher, $10 increments, uh, from here. >> Uh, and but can you lift it up a little bit so we can see the whole drawing? >> So, does she have a belt? Does she have the waist? >> Yeah. Yeah. >> Oh, she's got pants on and everything"
+    },
+    {
+      "start": "02:48:00",
+      "end": "02:59:59",
+      "title": "Shane Davis",
+      "entities": [
+        "Shane Davis"
+      ],
+      "possible_clip": false,
+      "summary_seed": "and uh it helps me with these like long lines and I just like I was like looking all over for it. I think one of my one of my boys took it. It's like >> uh the serious man had $100 too. Come on back with at least 110. >> Yeah, it's time to get a little bit more serious. A serious man. >> Come back. >> I think I did a good job with that line. >> Com"
+    },
+    {
+      "start": "03:00:00",
+      "end": "03:12:02",
+      "title": "Liam Gray",
+      "entities": [
+        "Liam Gray"
+      ],
+      "possible_clip": false,
+      "summary_seed": "8 7 6 5 4 3 two one. And listen, you know, if you want to purchase this, if you're watching this later, please contact Bosch on his Twitter, >> and I'm sure he'll have it available >> um uh to sell to you. Uh Andy Smith, Andy's down there. He's still working. He's still working on his >> Well, I'm just messing around. [snorts] Uh I'm feeling genero"
+    },
+    {
+      "start": "03:12:00",
+      "end": "03:19:08",
+      "title": "Shane Davis",
+      "entities": [
+        "Shane Davis"
+      ],
+      "possible_clip": false,
+      "summary_seed": ">> that's old lore. I I I didn't hear about that. I didn't, you know, back then I was kind of following, but not as closely as I do today. >> And uh so I didn't I heard your shows, Ethan, but not always the sub shows, you know, kind of the other ones. Yeah. >> Uh, all right. $50 is our top bid. Let me count down from nine. Looking for an increase o"
+    }
+  ],
+  "claims": [
+    {
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Kino Casino"
+      ],
+      "claim": "Once on Kino Casino PPP said, Safa Ethan Van Skyver.",
+      "timestamp": "01:48:02",
+      "status": "candidate_claim",
+      "confidence": 0.55,
+      "receipt": "Once on Kino Casino PPP said, Safa Ethan Van Skyver."
+    },
+    {
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Kino Casino"
+      ],
+      "claim": "I mean, Yellow Flash loves Kino Casino, and I think he's the one who kind of spurs them on.",
+      "timestamp": "01:48:02",
+      "status": "opinion_or_inference",
+      "confidence": 0.42,
+      "receipt": "I mean, Yellow Flash loves Kino Casino, and I think he's the one who kind of spurs them on."
+    },
+    {
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Shane Davis"
+      ],
+      "claim": "Uh, one more week, uh, I think six more days until Shane Davis launches back me, bro.",
+      "timestamp": "03:12:00",
+      "status": "opinion_or_inference",
+      "confidence": 0.42,
+      "receipt": "Uh, one more week, uh, I think six more days until Shane Davis launches back me, bro."
+    }
+  ],
+  "quotes": [
+    {
+      "timestamp": "24:01",
+      "text": "I got fired from Friday Night Tights.",
+      "subjects": [
+        "Friday Night Tights"
+      ],
+      "significance_score": 2
+    },
+    {
+      "timestamp": "12:00",
+      "text": "She said that she's officially got cancelled.",
+      "subjects": [],
+      "significance_score": 1
+    },
+    {
+      "timestamp": "12:00",
+      "text": "I'm like, you're getting cancelled like by these people in real time.",
+      "subjects": [],
+      "significance_score": 1
+    },
+    {
+      "timestamp": "12:00",
+      "text": "I' I've been cancelled before.\" I was like, \"All right, well, whatever.",
+      "subjects": [],
+      "significance_score": 1
+    },
+    {
+      "timestamp": "12:00",
+      "text": "Like if you guys want to hang on and wait to be fired, go ahead.",
+      "subjects": [],
+      "significance_score": 1
+    },
+    {
+      "timestamp": "24:01",
+      "text": "He's never done anything wrong to me.\" So now Melanie Max's getting cancelled because he did do something wrong.",
+      "subjects": [],
+      "significance_score": 1
+    },
+    {
+      "timestamp": "24:01",
+      "text": "like, you know, it's like, well, Chrissy America got cancelled.",
+      "subjects": [],
+      "significance_score": 1
+    },
+    {
+      "timestamp": "24:01",
+      "text": "So, you're saying on this Fox Day book, he says to sit back and wait to be cancelled.",
+      "subjects": [],
+      "significance_score": 1
+    },
+    {
+      "timestamp": "24:01",
+      "text": "Uh, he says when you're being cancelled, he doesn't say sit back and wait to be cancelled.",
+      "subjects": [],
+      "significance_score": 1
+    },
+    {
+      "timestamp": "24:01",
+      "text": "No, Shane, if being cancelled is being murdered, do not kill yourself when somebody like if you're trapped in a house and and somebody's coming to kill you, you don't put a gun in your own mouth.",
+      "subjects": [],
+      "significance_score": 1
+    }
+  ],
+  "relationships": [
+    {
+      "left": "Shane Davis",
+      "right": "Friday Night Tights",
+      "signal_type": "legal_conflict",
+      "timestamp": "12:00",
+      "confidence": 0.48,
+      "receipt": ". [music] >> Tommy Reviews says Chrissy is on Tim Cass. Chat doesn't disappoint. Yikes. >> Bosch, I love the burn Holtz series, says Odinson. Now, [music] >> ladies and gentlemen, Shane Davis, sorry. Love it. [music] >> What was that comment about? >> Uh, >> love the burn Hulk series. [music] >> I appreciate it, man. Thanks, man. >> I'm also doing watch. [music] >> Uh,",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "left": "Shane Davis",
+      "right": "Friday Night Tights",
+      "signal_type": "separation",
+      "timestamp": "12:00",
+      "confidence": 0.48,
+      "receipt": ". [music] >> Tommy Reviews says Chrissy is on Tim Cass. Chat doesn't disappoint. Yikes. >> Bosch, I love the burn Holtz series, says Odinson. Now, [music] >> ladies and gentlemen, Shane Davis, sorry. Love it. [music] >> What was that comment about? >> Uh, >> love the burn Hulk series. [music] >> I appreciate it, man. Thanks, man. >> I'm also doing watch. [music] >> Uh,",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "left": "Sturgis",
+      "right": "Eric July",
+      "signal_type": "criticised",
+      "timestamp": "01:36:00",
+      "confidence": 0.48,
+      "receipt": "has like a fountains and uh people. >> It's like being in an island. What's he I don't understand who he is or I mean I see that he's creepy to be like that but who is that guy >> Sturgis? He's a YouTuber named Renowned Zero uh who was a comics gate critic and obsessive fan of Eric July. Uh he makes content all the time where it's like Ethan and Shane Davis coping",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "left": "Sturgis",
+      "right": "Shane Davis",
+      "signal_type": "criticised",
+      "timestamp": "01:36:00",
+      "confidence": 0.48,
+      "receipt": "has like a fountains and uh people. >> It's like being in an island. What's he I don't understand who he is or I mean I see that he's creepy to be like that but who is that guy >> Sturgis? He's a YouTuber named Renowned Zero uh who was a comics gate critic and obsessive fan of Eric July. Uh he makes content all the time where it's like Ethan and Shane Davis coping",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "left": "Sturgis",
+      "right": "Friday Night Tights",
+      "signal_type": "criticised",
+      "timestamp": "01:36:00",
+      "confidence": 0.48,
+      "receipt": "has like a fountains and uh people. >> It's like being in an island. What's he I don't understand who he is or I mean I see that he's creepy to be like that but who is that guy >> Sturgis? He's a YouTuber named Renowned Zero uh who was a comics gate critic and obsessive fan of Eric July. Uh he makes content all the time where it's like Ethan and Shane Davis coping",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "left": "Sturgis",
+      "right": "Cyberfrog",
+      "signal_type": "criticised",
+      "timestamp": "01:36:00",
+      "confidence": 0.48,
+      "receipt": "has like a fountains and uh people. >> It's like being in an island. What's he I don't understand who he is or I mean I see that he's creepy to be like that but who is that guy >> Sturgis? He's a YouTuber named Renowned Zero uh who was a comics gate critic and obsessive fan of Eric July. Uh he makes content all the time where it's like Ethan and Shane Davis coping",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "left": "Eric July",
+      "right": "Shane Davis",
+      "signal_type": "criticised",
+      "timestamp": "01:36:00",
+      "confidence": 0.48,
+      "receipt": "who he is or I mean I see that he's creepy to be like that but who is that guy >> Sturgis? He's a YouTuber named Renowned Zero uh who was a comics gate critic and obsessive fan of Eric July. Uh he makes content all the time where it's like Ethan and Shane Davis coping and seething and it'll be like uh me with hold on let me show you like a lot of his stuff. Uh, and i",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "left": "Eric July",
+      "right": "Friday Night Tights",
+      "signal_type": "criticised",
+      "timestamp": "01:36:00",
+      "confidence": 0.48,
+      "receipt": "who he is or I mean I see that he's creepy to be like that but who is that guy >> Sturgis? He's a YouTuber named Renowned Zero uh who was a comics gate critic and obsessive fan of Eric July. Uh he makes content all the time where it's like Ethan and Shane Davis coping and seething and it'll be like uh me with hold on let me show you like a lot of his stuff. Uh, and i",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "left": "Eric July",
+      "right": "Cyberfrog",
+      "signal_type": "criticised",
+      "timestamp": "01:36:00",
+      "confidence": 0.48,
+      "receipt": "who he is or I mean I see that he's creepy to be like that but who is that guy >> Sturgis? He's a YouTuber named Renowned Zero uh who was a comics gate critic and obsessive fan of Eric July. Uh he makes content all the time where it's like Ethan and Shane Davis coping and seething and it'll be like uh me with hold on let me show you like a lot of his stuff. Uh, and i",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "left": "Shane Davis",
+      "right": "Friday Night Tights",
+      "signal_type": "criticised",
+      "timestamp": "01:36:00",
+      "confidence": 0.48,
+      "receipt": "that guy >> Sturgis? He's a YouTuber named Renowned Zero uh who was a comics gate critic and obsessive fan of Eric July. Uh he makes content all the time where it's like Ethan and Shane Davis coping and seething and it'll be like uh me with hold on let me show you like a lot of his stuff. Uh, and it'll be like me with like peanut butter on my dick and I got Shane on a",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "left": "Shane Davis",
+      "right": "Cyberfrog",
+      "signal_type": "criticised",
+      "timestamp": "01:36:00",
+      "confidence": 0.48,
+      "receipt": "that guy >> Sturgis? He's a YouTuber named Renowned Zero uh who was a comics gate critic and obsessive fan of Eric July. Uh he makes content all the time where it's like Ethan and Shane Davis coping and seething and it'll be like uh me with hold on let me show you like a lot of his stuff. Uh, and it'll be like me with like peanut butter on my dick and I got Shane on a",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "left": "Friday Night Tights",
+      "right": "Cyberfrog",
+      "signal_type": "criticised",
+      "timestamp": "01:36:00",
+      "confidence": 0.48,
+      "receipt": "now, saying uh, stop agreeing with my critics about anything. Uh, >> and he sent him a video of him crumping [laughter] >> or I'm going to unleash like, you know, yellow flash and Friday Night Tights on you and stuff, you know? Uh, which he did. Uh, so, >> and that happened. >> Yes. >> So, he just he just didn't like Everybody needs criticism. He didn't like any criticism. No,",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "left": "Sturgis",
+      "right": "Eric July",
+      "signal_type": "promoted",
+      "timestamp": "01:36:00",
+      "confidence": 0.48,
+      "receipt": "has like a fountains and uh people. >> It's like being in an island. What's he I don't understand who he is or I mean I see that he's creepy to be like that but who is that guy >> Sturgis? He's a YouTuber named Renowned Zero uh who was a comics gate critic and obsessive fan of Eric July. Uh he makes content all the time where it's like Ethan and Shane Davis coping",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "left": "Sturgis",
+      "right": "Shane Davis",
+      "signal_type": "promoted",
+      "timestamp": "01:36:00",
+      "confidence": 0.48,
+      "receipt": "has like a fountains and uh people. >> It's like being in an island. What's he I don't understand who he is or I mean I see that he's creepy to be like that but who is that guy >> Sturgis? He's a YouTuber named Renowned Zero uh who was a comics gate critic and obsessive fan of Eric July. Uh he makes content all the time where it's like Ethan and Shane Davis coping",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "left": "Sturgis",
+      "right": "Friday Night Tights",
+      "signal_type": "promoted",
+      "timestamp": "01:36:00",
+      "confidence": 0.48,
+      "receipt": "has like a fountains and uh people. >> It's like being in an island. What's he I don't understand who he is or I mean I see that he's creepy to be like that but who is that guy >> Sturgis? He's a YouTuber named Renowned Zero uh who was a comics gate critic and obsessive fan of Eric July. Uh he makes content all the time where it's like Ethan and Shane Davis coping",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "left": "Sturgis",
+      "right": "Cyberfrog",
+      "signal_type": "promoted",
+      "timestamp": "01:36:00",
+      "confidence": 0.48,
+      "receipt": "has like a fountains and uh people. >> It's like being in an island. What's he I don't understand who he is or I mean I see that he's creepy to be like that but who is that guy >> Sturgis? He's a YouTuber named Renowned Zero uh who was a comics gate critic and obsessive fan of Eric July. Uh he makes content all the time where it's like Ethan and Shane Davis coping",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "left": "Eric July",
+      "right": "Shane Davis",
+      "signal_type": "promoted",
+      "timestamp": "01:36:00",
+      "confidence": 0.48,
+      "receipt": "who he is or I mean I see that he's creepy to be like that but who is that guy >> Sturgis? He's a YouTuber named Renowned Zero uh who was a comics gate critic and obsessive fan of Eric July. Uh he makes content all the time where it's like Ethan and Shane Davis coping and seething and it'll be like uh me with hold on let me show you like a lot of his stuff. Uh, and i",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "left": "Eric July",
+      "right": "Friday Night Tights",
+      "signal_type": "promoted",
+      "timestamp": "01:36:00",
+      "confidence": 0.48,
+      "receipt": "who he is or I mean I see that he's creepy to be like that but who is that guy >> Sturgis? He's a YouTuber named Renowned Zero uh who was a comics gate critic and obsessive fan of Eric July. Uh he makes content all the time where it's like Ethan and Shane Davis coping and seething and it'll be like uh me with hold on let me show you like a lot of his stuff. Uh, and i",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "left": "Eric July",
+      "right": "Cyberfrog",
+      "signal_type": "promoted",
+      "timestamp": "01:36:00",
+      "confidence": 0.48,
+      "receipt": "who he is or I mean I see that he's creepy to be like that but who is that guy >> Sturgis? He's a YouTuber named Renowned Zero uh who was a comics gate critic and obsessive fan of Eric July. Uh he makes content all the time where it's like Ethan and Shane Davis coping and seething and it'll be like uh me with hold on let me show you like a lot of his stuff. Uh, and i",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "left": "Shane Davis",
+      "right": "Friday Night Tights",
+      "signal_type": "promoted",
+      "timestamp": "01:36:00",
+      "confidence": 0.48,
+      "receipt": "that guy >> Sturgis? He's a YouTuber named Renowned Zero uh who was a comics gate critic and obsessive fan of Eric July. Uh he makes content all the time where it's like Ethan and Shane Davis coping and seething and it'll be like uh me with hold on let me show you like a lot of his stuff. Uh, and it'll be like me with like peanut butter on my dick and I got Shane on a",
+      "warning": "candidate relationship evidence; requires review"
+    }
+  ],
+  "story_matches": [
+    {
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 1.0
+    },
+    {
+      "story_id": "thequartering-kino-casino-conflict",
+      "title": "TheQuartering / Kino Casino conflict",
+      "score": 0.75
+    },
+    {
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.6
+    },
+    {
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "score": 0.571
+    },
+    {
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.5
+    }
+  ],
+  "uncertainty_flags": [
+    "speaker attribution may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon cannot reliably detect sarcasm",
+    "claims and relationship signals remain candidates"
+  ]
+}

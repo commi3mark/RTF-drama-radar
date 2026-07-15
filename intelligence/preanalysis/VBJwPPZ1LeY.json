@@ -1,6 +1,6 @@
 {
-  "schema_version": "octopuss-preanalysis-v0.1",
-  "generated_at": "2026-07-15T21:04:20.375988+00:00",
+  "schema_version": "octopuss-preanalysis-v0.2",
+  "generated_at": "2026-07-15T21:17:13.664195+00:00",
   "video_id": "VBJwPPZ1LeY",
   "title": "Sturgis Went To Japan On Thirsty Thursday!",
   "source": "Frog Tony",
@@ -19,7 +19,7 @@
     {
       "entity": "Frog Tony",
       "role_guess": "host_or_channel_identity",
-      "confidence": 0.72,
+      "confidence": 0.75,
       "signals": [
         "packet source/channel identity"
       ]
@@ -27,272 +27,217 @@
     {
       "entity": "Sturgis",
       "role_guess": "likely_participant",
-      "confidence": 0.7,
+      "confidence": 0.65,
       "signals": [
         "directly addressed 5 times",
-        "appears in 5 distant transcript blocks"
-      ]
-    },
-    {
-      "entity": "Stray Beans",
-      "role_guess": "likely_participant",
-      "confidence": 0.51,
-      "signals": [
-        "directly addressed 1 times",
-        "appears in 7 distant transcript blocks"
+        "mentioned across 5 blocks"
       ]
     }
   ],
   "subjects": [
     {
-      "entity": "Dick Masterson",
-      "mentions": 78,
-      "block_count": 2,
-      "first_timestamp": "01:00:02",
-      "last_timestamp": "01:24:04",
-      "discussion_span_seconds": 1442.1,
-      "importance_guess": "major",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.704,
-        "positive_hits": 144,
-        "negative_hits": 25
-      },
-      "receipts": [
-        {
-          "timestamp": "01:00:02",
-          "excerpt": ">> there's no um biggest problem tonight. I know Dick Dick said that he was going to do Biggest Problem for the rest of the month, right? >> Till July, but uh the first show after he made the announcement, uh he's called off. >> You think they'll have a big blowout final episode or No, >> no, I think he's going to call off for the rest of the rest of July. >> I think that's it. I think we already had a last episode. >> Wow, that would b"
-        },
-        {
-          "timestamp": "01:12:00",
-          "excerpt": "they looked like retards. >> Y >> it's also very clear how hard they're trying to emulate Dick's [ __ ] method of arguing he started doing the last couple of years. They're so desperate for validation from internet dad. It's really [ __ ] cringy. >> Is it that bad? >> Yes, dude. >> Yes. Yes, >> dude. >> Oh, you're not ready for this. Told me just wait. Uh, Knight of the Eldry says, \"He seems to generally love being in this position wher"
-        }
-      ],
-      "appearance_status": "uncertain"
-    },
-    {
-      "entity": "Sturgis",
-      "mentions": 59,
-      "block_count": 5,
-      "first_timestamp": "00:03",
-      "last_timestamp": "02:00:03",
-      "discussion_span_seconds": 7199.8,
-      "importance_guess": "major",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.726,
-        "positive_hits": 277,
-        "negative_hits": 44
-      },
-      "receipts": [
-        {
-          "timestamp": "00:03",
-          "excerpt": "rink some drinks. Smoke some smokes. I forgot to put the ask us anything question up. [ __ ] We got so many things to do. But Otoy, uh, how's it going? Before Before I get into how's it going with auto, we have to cover Sturgis' Japan trip. Obviously, that was in the thumbnail, right? >> Some people were confused that what I did use AI to uh put him in a kimono and a top knot and put some wafer pillows, right? >> That wasn't real. >> That wasn"
-        },
-        {
-          "timestamp": "12:01",
-          "excerpt": "STIRER. That's cool and perfectly fine. yada yada yada. Has some things on my mind. It's great. Happy being here walking and strolling on the SIDEWALKS OF CHICAGO. WOO! COOKING AND SMOKING. SAYS, \"HEY, I'm a fan. I'm a Sturgis fan now. He is great. An an above average American, well behaved, not annoying or disruptive.\" I mean, that's just what we see on video. I don't think Sturgis is stupid enough to actually film himself being disruptive."
-        },
-        {
-          "timestamp": "01:00:02",
-          "excerpt": "tream the other day, he said, \"When Riley gets on mic with me, he looks like a [ __ ] idiot.\" And he looks like a [ __ ] idiot. Straight up. >> Surprise. Yeah. >> Yes. >> That's true. >> I will unsub if you don't get to Sturgis in Japan. We We're going to get there, Pit. We're going to [laughter] get there. I promise. >> It might be a minute, >> but we will get there. Okay. Says, \"Leave your own comments on the Rumble page and you may get them"
-        },
-        {
-          "timestamp": "01:24:01",
-          "excerpt": "Yeah. >> [laughter] >> Jesus, Tony, you're so autistic. >> No, because I haven't seen it and I think I don't want spoilers. >> We're milking this. >> Is that what we do? I'm just having fun. >> We got to get to Samurai Sturgis. >> Yeah. >> What you mean? There are people who don't post full clips. >> No, no, Taggy. It's not a full clip. An hour and a half isn't a full clip. That's the show, right? That's like the entire [ __ ] show. Like Veto"
-        },
-        {
-          "timestamp": "01:48:00",
-          "excerpt": "d uh yeah, if I'm not around, go listen to someone else. And if I disappear, uh don't go looking for me. Just go [ __ ] >> the FBI. >> Yeah. >> And the only person I'll do whatever they tell me to do without question is Sturgis. No one. >> I thought you were going to say your wife, but apparently >> Stures [laughter] your wife's like, \"Who the [ __ ] is Sturgis?\" >> Sturgis. Is that That's what you call your old lady in bed. I know. I know. Yo"
-        }
-      ],
-      "appearance_status": "uncertain"
-    },
-    {
-      "entity": "Liam Gray",
-      "mentions": 58,
-      "block_count": 5,
-      "first_timestamp": "00:03",
-      "last_timestamp": "01:12:02",
-      "discussion_span_seconds": 4318.2,
-      "importance_guess": "major",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.78,
-        "positive_hits": 251,
-        "negative_hits": 31
-      },
-      "receipts": [
-        {
-          "timestamp": "00:03",
-          "excerpt": "tions. You can ask us anything. Don't forget Wednesdays. >> Hop on the lily pad >> members only live streams where you could also hop on some Nobody studio. You might recognize him as the man from the end credits of the Liam Gray animation video. So, we don't know his real identity. Uh, this is a new account. Uh, he doesn't have any videos or anything up on his channel. I did check him out. Uh, don't know who he is. Uh, he's not talk to me. I ha"
-        },
-        {
-          "timestamp": "24:00",
-          "excerpt": "he dwarf does not want you to see. >> The banned video. My gosh. Oh, we don't get hit. >> I'm sure we'll be okay. There's no way. There's there. Come on. Again, this is us we're talking about. >> Otherwise, he'll become Liam Gray. He'll become the quarter ring. We'll see. I challenge you with war. >> So, uh here here was Finnbar. As you can see, Finnbar Saunders 12:21 p.m. my time, July 9th. He says, \"Here's Johnny, which says, \"We have reviewed"
-        },
-        {
-          "timestamp": "36:00",
-          "excerpt": "him. >> Beep cake. Look at that. [laughter] That's him. Now you're telling me that that's the guy who's running around acting like he [ __ ] owns the place? That's a guy who's running around talking [ __ ] to [ __ ] uh Liam Gray. >> Yeah. >> Yeah. You deserve all of this, Cynic. You deserve it all. >> It's not because we're picking on you. It's your behavior. >> Your behavior is what resulted in this, dude. >> And the many stab getting their gu"
-        },
-        {
-          "timestamp": "48:01",
-          "excerpt": "[laughter] >> No, he's not doing this for He has no good intentions. It's all just bitter bitterness and resentment. Like, so >> yes. Well, it's beyond that. It's bitter. It's bitterness. It's resentment. Plus, it's his ability to LAR, right? He got to come into a space and pretend to be somebody who he isn't. No one asks questions because we all assume that everyone's a normal [ __ ] person, right? We all assume, no one assumes that th"
-        },
-        {
-          "timestamp": "01:00:02",
-          "excerpt": "t, folks. Hail CG. Hail CG. I totally understand. Things will be changing soon, says Katie. No, they won't. >> How will they be changing? Yeah. How will they be changing? [laughter] >> I'M NO LONGER GOING TO BE clipping Liam Gray. Next day clips Liam Gray. I'm no longer going to be clipping uh CG drama. Ethan, I'm only going to clip Eric July for you. Next day, nothing but CG drama. When was the last time you clipped Eric July? You built your ch"
-        }
-      ],
-      "appearance_status": "uncertain"
-    },
-    {
       "entity": "Frog Tony",
-      "mentions": 47,
+      "mentions": 10,
       "block_count": 3,
       "first_timestamp": "00:03",
       "last_timestamp": "01:12:02",
-      "discussion_span_seconds": 4318.2,
       "importance_guess": "major",
       "sentiment": {
-        "label": "positive",
-        "score": 0.747,
-        "positive_hits": 159,
-        "negative_hits": 23
+        "label": "mixed",
+        "score": 0.167,
+        "positive_hits": 14,
+        "negative_hits": 10
       },
       "receipts": [
         {
           "timestamp": "00:03",
-          "excerpt": "Yeah, yeah, yeah, yeah. [laughter] Represent. >> AH [screaming] [ __ ] HERE WE GO AGAIN. [music] MORE MOTHERFERS CATCH THOSE DAMN FROGGERS. Too late. THEY ALREADY CROSSED THE COUNTY LINE. FROG TONY AND THE CREW are gone again. Another thousand miles [music] and running. Froggers got the whole town buzzing. Pearl clutch patrol keep fronting. Fake tears fall. WE KNOW THEY BLUFFING. [music] Another thousand miles and"
+          "excerpt": "ah, yeah, yeah. [laughter] Represent. >> AH [screaming] [ __ ] HERE WE GO AGAIN. [music] MORE MOTHERFERS CATCH THOSE DAMN FROGGERS. Too late. THEY ALREADY CROSSED THE COUNTY LINE. FROG TONY AND THE CREW are gone again. Another thousand miles [music] and running. Froggers got the whole town buzzing. Pearl clutch patrol keep fronting. Fake tears fall. WE KNOW THEY BLUF"
         },
         {
           "timestamp": "48:01",
-          "excerpt": "[laughter] >> No, he's not doing this for He has no good intentions. It's all just bitter bitterness and resentment. Like, so >> yes. Well, it's beyond that. It's bitter. It's bitterness. It's resentment. Plus, it's his ability to LAR, right? He got to come into a space and pretend to be somebody who he isn't. No one asks questions because we all assume that everyone's a normal [ __ ] person, right? We all assume, no one assumes that th"
+          "excerpt": "[laughter] >> No, he's not doing this for He has no good intentions. It's all just bitter bitterness and resentment. Like, so >> yes. Well, it's beyond that. It's bitter. It's bitterness. It's resentment. Plus, it's his ability to LAR, right? He got to come into a space and pretend to be somebody who he isn't. No one asks questions because we all assume that"
         },
         {
           "timestamp": "01:00:02",
-          "excerpt": ">> there's no um biggest problem tonight. I know Dick Dick said that he was going to do Biggest Problem for the rest of the month, right? >> Till July, but uh the first show after he made the announcement, uh he's called off. >> You think they'll have a big blowout final episode or No, >> no, I think he's going to call off for the rest of the rest of July. >> I think that's it. I think we already had a last episode. >> Wow, that would b"
+          "excerpt": ">> there's no um biggest problem tonight. I know Dick Dick said that he was going to do Biggest Problem for the rest of the month, right? >> Till July, but uh the first show after he made the announcement, uh he's called off. >> You think they'll have a big blowout final episode or No, >> no, I think he's going to call off for the rest of the rest of July. >"
         }
-      ],
-      "appearance_status": "uncertain"
+      ]
     },
     {
-      "entity": "Vito Gesualdi",
-      "mentions": 18,
-      "block_count": 6,
-      "first_timestamp": "12:01",
-      "last_timestamp": "03:24:01",
-      "discussion_span_seconds": 11520.7,
+      "entity": "Liam Gray",
+      "mentions": 10,
+      "block_count": 5,
+      "first_timestamp": "00:03",
+      "last_timestamp": "01:12:02",
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.128,
+        "positive_hits": 22,
+        "negative_hits": 17
+      },
+      "receipts": [
+        {
+          "timestamp": "00:03",
+          "excerpt": "rget Wednesdays. >> Hop on the lily pad >> members only live streams where you could also hop on some Nobody studio. You might recognize him as the man from the end credits of the Liam Gray animation video. So, we don't know his real identity. Uh, this is a new account. Uh, he doesn't have any videos or anything up on his channel. I did check him out. Uh, don't know"
+        },
+        {
+          "timestamp": "24:00",
+          "excerpt": "e banned video. My gosh. Oh, we don't get hit. >> I'm sure we'll be okay. There's no way. There's there. Come on. Again, this is us we're talking about. >> Otherwise, he'll become Liam Gray. He'll become the quarter ring. We'll see. I challenge you with war. >> So, uh here here was Finnbar. As you can see, Finnbar Saunders 12:21 p.m. my time, July 9th. He says, \"Here"
+        },
+        {
+          "timestamp": "36:00",
+          "excerpt": "ter] That's him. Now you're telling me that that's the guy who's running around acting like he [ __ ] owns the place? That's a guy who's running around talking [ __ ] to [ __ ] uh Liam Gray. >> Yeah. >> Yeah. You deserve all of this, Cynic. You deserve it all. >> It's not because we're picking on you. It's your behavior. >> Your behavior is what resulted in this, dud"
+        },
+        {
+          "timestamp": "48:01",
+          "excerpt": "[laughter] >> No, he's not doing this for He has no good intentions. It's all just bitter bitterness and resentment. Like, so >> yes. Well, it's beyond that. It's bitter. It's bitterness. It's resentment. Plus, it's his ability to LAR, right? He got to come into a space and pretend to be somebody who he isn't. No one asks questions because we all assume that"
+        },
+        {
+          "timestamp": "01:00:02",
+          "excerpt": "derstand. Things will be changing soon, says Katie. No, they won't. >> How will they be changing? Yeah. How will they be changing? [laughter] >> I'M NO LONGER GOING TO BE clipping Liam Gray. Next day clips Liam Gray. I'm no longer going to be clipping uh CG drama. Ethan, I'm only going to clip Eric July for you. Next day, nothing but CG drama. When was the last time"
+        }
+      ]
+    },
+    {
+      "entity": "Sturgis",
+      "mentions": 10,
+      "block_count": 5,
+      "first_timestamp": "00:03",
+      "last_timestamp": "02:00:03",
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "mixed",
+        "score": -0.048,
+        "positive_hits": 20,
+        "negative_hits": 22
+      },
+      "receipts": [
+        {
+          "timestamp": "00:03",
+          "excerpt": "orgot to put the ask us anything question up. [ __ ] We got so many things to do. But Otoy, uh, how's it going? Before Before I get into how's it going with auto, we have to cover Sturgis' Japan trip. Obviously, that was in the thumbnail, right? >> Some people were confused that what I did use AI to uh put him in a kimono and a top knot and put some wafer pillows,"
+        },
+        {
+          "timestamp": "12:01",
+          "excerpt": "yada yada yada. Has some things on my mind. It's great. Happy being here walking and strolling on the SIDEWALKS OF CHICAGO. WOO! COOKING AND SMOKING. SAYS, \"HEY, I'm a fan. I'm a Sturgis fan now. He is great. An an above average American, well behaved, not annoying or disruptive.\" I mean, that's just what we see on video. I don't think Sturgis is stupid enough to"
+        },
+        {
+          "timestamp": "01:00:02",
+          "excerpt": "y gets on mic with me, he looks like a [ __ ] idiot.\" And he looks like a [ __ ] idiot. Straight up. >> Surprise. Yeah. >> Yes. >> That's true. >> I will unsub if you don't get to Sturgis in Japan. We We're going to get there, Pit. We're going to [laughter] get there. I promise. >> It might be a minute, >> but we will get there. Okay. Says, \"Leave your own comments"
+        },
+        {
+          "timestamp": "01:24:01",
+          "excerpt": "'re so autistic. >> No, because I haven't seen it and I think I don't want spoilers. >> We're milking this. >> Is that what we do? I'm just having fun. >> We got to get to Samurai Sturgis. >> Yeah. >> What you mean? There are people who don't post full clips. >> No, no, Taggy. It's not a full clip. An hour and a half isn't a full clip. That's the show, right? That'"
+        },
+        {
+          "timestamp": "01:48:00",
+          "excerpt": "to someone else. And if I disappear, uh don't go looking for me. Just go [ __ ] >> the FBI. >> Yeah. >> And the only person I'll do whatever they tell me to do without question is Sturgis. No one. >> I thought you were going to say your wife, but apparently >> Stures [laughter] your wife's like, \"Who the [ __ ] is Sturgis?\" >> Sturgis. Is that That's what you call"
+        }
+      ]
+    },
+    {
+      "entity": "Stray Beans",
+      "mentions": 10,
+      "block_count": 7,
+      "first_timestamp": "00:03",
+      "last_timestamp": "04:24:07",
       "importance_guess": "major",
       "sentiment": {
         "label": "positive",
-        "score": 0.768,
-        "positive_hits": 434,
-        "negative_hits": 57
+        "score": 0.364,
+        "positive_hits": 30,
+        "negative_hits": 14
+      },
+      "receipts": [
+        {
+          "timestamp": "00:03",
+          "excerpt": "isn't conducive to being a farmer. Everybody heard it. Everybody got dumber. [music] Drop that line. Crowd laughed on Q. Another weird statement from [music] the creep crew. Boy, stray beans here. Microphone crack. INTERNET DROPPING EVERY time I chat. Aussie [music] on the track. Hear the signal fade. BAD MIC QUALITY, BUT THE joke still made viral. That's the phrase I"
+        },
+        {
+          "timestamp": "24:00",
+          "excerpt": "Durandic reading version. Maybe it was just the text version. >> I think it was just the text. I'm not finding it, TJ. >> [ __ ] Guess we'll have to stick to the text. >> Where's Stray Beans? >> The Stray Beans is the one that has it. Where Where is it? He should send us >> Finnar also has it. Finnar could [ __ ] uh send it to me, but I swear to God, these guys are in"
+        },
+        {
+          "timestamp": "36:00",
+          "excerpt": ">> Stupid. It was stupid. >> A lot of them also became murderous [ __ ] Yeah. I knocked out on the new KCOA revival series. Coca-Co. [laughter] >> I cracked my toe in the bed post. Ah, that that's got to hurt. That's got to hurt. Ident that once I broke it. Yeah. >> They have a habit of taking the young female characters and making them OP. Feminism at work."
+        },
+        {
+          "timestamp": "01:24:01",
+          "excerpt": "Kenny Swag says actively lulled when they didn't know what Discount Tuesday was. Timely presentation says shows me they never grew up poor or trying to find a way trying to find ways to save money. saying this as a poor person. Uh, oink oink paologist says, \"Seems like the well is only drying up for Riley, who was already irrelevant before he was born.\" >> C"
+        },
+        {
+          "timestamp": "03:00:00",
+          "excerpt": "t emotion and still have it sound like him. >> Oh god. Yeah. I think critique right there. >> Do what you feel. [ __ ] laugh. Work off inspiration. You know, >> I will say like uh Stray Beans's idea. Have them watching I would have them watching a Liam video, right? Have like Liam on the farm. Uh then the you know the dwarf's like, \"Pause it. Pause it.\" No. And then li"
+        }
+      ]
+    },
+    {
+      "entity": "Vito Gesualdi",
+      "mentions": 10,
+      "block_count": 6,
+      "first_timestamp": "12:01",
+      "last_timestamp": "03:24:01",
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.175,
+        "positive_hits": 37,
+        "negative_hits": 26
       },
       "receipts": [
         {
           "timestamp": "12:01",
-          "excerpt": "I JUST WANT TO SEE this person be better. You suck. This sucks. Shut the [ __ ] up. YOU A [ __ ] STIRER. That's cool and perfectly fine. yada yada yada. Has some things on my mind. It's great. Happy being here walking and strolling on the SIDEWALKS OF CHICAGO. WOO! COOKING AND SMOKING. SAYS, \"HEY, I'm a fan. I'm a Sturgis fan now. He is great. An an above average American, well behaved, not annoying or disruptive.\" I mean, that's just w"
+          "excerpt": "I JUST WANT TO SEE this person be better. You suck. This sucks. Shut the [ __ ] up. YOU A [ __ ] STIRER. That's cool and perfectly fine. yada yada yada. Has some things on my mind. It's great. Happy being here walking and strolling on the SIDEWALKS OF CHICAGO. WOO! COOKING AND SMOKING. SAYS, \"HEY, I'm a fan. I'm a Sturgis fan now. He is great. An an above av"
         },
         {
           "timestamp": "01:00:02",
-          "excerpt": ">> there's no um biggest problem tonight. I know Dick Dick said that he was going to do Biggest Problem for the rest of the month, right? >> Till July, but uh the first show after he made the announcement, uh he's called off. >> You think they'll have a big blowout final episode or No, >> no, I think he's going to call off for the rest of the rest of July. >> I think that's it. I think we already had a last episode. >> Wow, that would b"
+          "excerpt": ">> there's no um biggest problem tonight. I know Dick Dick said that he was going to do Biggest Problem for the rest of the month, right? >> Till July, but uh the first show after he made the announcement, uh he's called off. >> You think they'll have a big blowout final episode or No, >> no, I think he's going to call off for the rest of the rest of July. >"
         },
         {
           "timestamp": "01:12:00",
-          "excerpt": "they looked like retards. >> Y >> it's also very clear how hard they're trying to emulate Dick's [ __ ] method of arguing he started doing the last couple of years. They're so desperate for validation from internet dad. It's really [ __ ] cringy. >> Is it that bad? >> Yes, dude. >> Yes. Yes, >> dude. >> Oh, you're not ready for this. Told me just wait. Uh, Knight of the Eldry says, \"He seems to generally love being in this position wher"
+          "excerpt": "they looked like retards. >> Y >> it's also very clear how hard they're trying to emulate Dick's [ __ ] method of arguing he started doing the last couple of years. They're so desperate for validation from internet dad. It's really [ __ ] cringy. >> Is it that bad? >> Yes, dude. >> Yes. Yes, >> dude. >> Oh, you're not ready for this. Told me just wait. Uh, K"
         },
         {
           "timestamp": "01:24:01",
-          "excerpt": "Kenny Swag says actively lulled when they didn't know what Discount Tuesday was. Timely presentation says shows me they never grew up poor or trying to find a way trying to find ways to save money. saying this as a poor person. Uh, oink oink paologist says, \"Seems like the well is only drying up for Riley, who was already irrelevant before he was born.\" >> Correct. >> Accomplished code says, \"I didn't know Veto surrounded himself with t"
+          "excerpt": "Kenny Swag says actively lulled when they didn't know what Discount Tuesday was. Timely presentation says shows me they never grew up poor or trying to find a way trying to find ways to save money. saying this as a poor person. Uh, oink oink paologist says, \"Seems like the well is only drying up for Riley, who was already irrelevant before he was born.\" >> C"
         },
         {
           "timestamp": "03:00:00",
-          "excerpt": "like oh [ __ ] I didn't see that coming. That's good. Like and you have good setups for it, too, which is awesome. And again, it's [laughter] Mystery Creator in chat. Mystery Creator, >> do you have plans to bring them back >> for episode three? Will they be back even though they're all >> gone? >> Well, it was just a story in a book that Liam was reading. >> They could all be back. I also lost it when the whole cynic and them watching"
-        },
-        {
-          "timestamp": "03:12:00",
-          "excerpt": "because he'll come in and he'll he'll fix this for us, right? >> Yeah. They they wanted Bald They wanted Boulder to come in and fix things, but what Boulder did was show up, then his pants immediately fell down and he tripped over. That's the equivalent of what he did on this podcast. [laughter] >> Are you >> pretty much? Yeah. >> That's fair. you there static. >> It's it's bad showmanship. Boulder, the joke is funny, but if you're not"
+          "excerpt": "like oh [ __ ] I didn't see that coming. That's good. Like and you have good setups for it, too, which is awesome. And again, it's [laughter] Mystery Creator in chat. Mystery Creator, >> do you have plans to bring them back >> for episode three? Will they be back even though they're all >> gone? >> Well, it was just a story in a book that Liam was reading. >"
         }
-      ],
-      "appearance_status": "uncertain"
+      ]
     },
     {
       "entity": "Ethan Van Sciver",
-      "mentions": 13,
+      "mentions": 10,
       "block_count": 4,
       "first_timestamp": "01:00:02",
       "last_timestamp": "03:12:01",
-      "discussion_span_seconds": 7919.9,
       "importance_guess": "major",
       "sentiment": {
-        "label": "positive",
-        "score": 0.811,
-        "positive_hits": 307,
-        "negative_hits": 32
+        "label": "mixed",
+        "score": 0.029,
+        "positive_hits": 18,
+        "negative_hits": 17
       },
       "receipts": [
         {
           "timestamp": "01:00:02",
-          "excerpt": ">> there's no um biggest problem tonight. I know Dick Dick said that he was going to do Biggest Problem for the rest of the month, right? >> Till July, but uh the first show after he made the announcement, uh he's called off. >> You think they'll have a big blowout final episode or No, >> no, I think he's going to call off for the rest of the rest of July. >> I think that's it. I think we already had a last episode. >> Wow, that would b"
+          "excerpt": ">> there's no um biggest problem tonight. I know Dick Dick said that he was going to do Biggest Problem for the rest of the month, right? >> Till July, but uh the first show after he made the announcement, uh he's called off. >> You think they'll have a big blowout final episode or No, >> no, I think he's going to call off for the rest of the rest of July. >"
         },
         {
           "timestamp": "01:48:00",
-          "excerpt": "video game podcast. >> You have no continuity of self. >> It's got that's got nothing to do with Tim Rogers. Tim Rogers didn't kick me off. >> No, they ran it by him. >> Yeah. In what way did he not have control over that? You see how Dick has control over this fear and if he were to tell me to stop hurting you that I might consider it. Dick has control over this sphere and if he tells me to stop hurting you, I might consider it. What s"
+          "excerpt": "video game podcast. >> You have no continuity of self. >> It's got that's got nothing to do with Tim Rogers. Tim Rogers didn't kick me off. >> No, they ran it by him. >> Yeah. In what way did he not have control over that? You see how Dick has control over this fear and if he were to tell me to stop hurting you that I might consider it. Dick has control over"
         },
         {
           "timestamp": "02:36:00",
-          "excerpt": "and all these other things, they like to add music and [ __ ] I put no music so I can put the music in myself in editing maybe. But but I'm saying like >> the the uh the audio levels like it's not like the music is super loud and like the the u the sound effects of the car driving are lows like it's properly synced the audio levels. >> Yeah. Mixed. Yeah. >> Right. >> Right. >> Like that's what like when I try to do that like I go I'm go"
+          "excerpt": "and all these other things, they like to add music and [ __ ] I put no music so I can put the music in myself in editing maybe. But but I'm saying like >> the the uh the audio levels like it's not like the music is super loud and like the the u the sound effects of the car driving are lows like it's properly synced the audio levels. >> Yeah. Mixed. Yeah. >>"
         },
         {
           "timestamp": "03:00:00",
-          "excerpt": "like oh [ __ ] I didn't see that coming. That's good. Like and you have good setups for it, too, which is awesome. And again, it's [laughter] Mystery Creator in chat. Mystery Creator, >> do you have plans to bring them back >> for episode three? Will they be back even though they're all >> gone? >> Well, it was just a story in a book that Liam was reading. >> They could all be back. I also lost it when the whole cynic and them watching"
+          "excerpt": "like oh [ __ ] I didn't see that coming. That's good. Like and you have good setups for it, too, which is awesome. And again, it's [laughter] Mystery Creator in chat. Mystery Creator, >> do you have plans to bring them back >> for episode three? Will they be back even though they're all >> gone? >> Well, it was just a story in a book that Liam was reading. >"
         }
-      ],
-      "appearance_status": "uncertain"
-    },
-    {
-      "entity": "Stray Beans",
-      "mentions": 11,
-      "block_count": 7,
-      "first_timestamp": "00:03",
-      "last_timestamp": "04:24:07",
-      "discussion_span_seconds": 15843.9,
-      "importance_guess": "major",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.869,
-        "positive_hits": 442,
-        "negative_hits": 31
-      },
-      "receipts": [
-        {
-          "timestamp": "00:03",
-          "excerpt": "EEPY ANIMATED ROMANCE. [music] Your diet isn't conducive to being a farmer. Everybody heard it. Everybody got dumber. [music] Drop that line. Crowd laughed on Q. Another weird statement from [music] the creep crew. Boy, stray beans here. Microphone crack. INTERNET DROPPING EVERY time I chat. Aussie [music] on the track. Hear the signal fade. BAD MIC QUALITY, BUT THE joke still made viral. That's the phrase I scream. Twitter readings [music] like a"
-        },
-        {
-          "timestamp": "24:00",
-          "excerpt": "ut I could be wrong. Maybe it wasn't the Durandic reading version. Maybe it was just the text version. >> I think it was just the text. I'm not finding it, TJ. >> [ __ ] Guess we'll have to stick to the text. >> Where's Stray Beans? >> The Stray Beans is the one that has it. Where Where is it? He should send us >> Finnar also has it. Finnar could [ __ ] uh send it to me, but I swear to God, these guys are in the chat and they're just like letting"
-        },
-        {
-          "timestamp": "36:00",
-          "excerpt": ">> Stupid. It was stupid. >> A lot of them also became murderous [ __ ] Yeah. I knocked out on the new KCOA revival series. Coca-Co. [laughter] >> I cracked my toe in the bed post. Ah, that that's got to hurt. That's got to hurt. Ident that once I broke it. Yeah. >> They have a habit of taking the young female characters and making them OP. Feminism at work. Yeah. They've always pushed Jubilee for some reason though. Like they've always"
-        },
-        {
-          "timestamp": "01:24:01",
-          "excerpt": "Kenny Swag says actively lulled when they didn't know what Discount Tuesday was. Timely presentation says shows me they never grew up poor or trying to find a way trying to find ways to save money. saying this as a poor person. Uh, oink oink paologist says, \"Seems like the well is only drying up for Riley, who was already irrelevant before he was born.\" >> Correct. >> Accomplished code says, \"I didn't know Veto surrounded himself with t"
-        },
-        {
-          "timestamp": "03:00:00",
-          "excerpt": "o monotone. It's almost impossible to get emotion and still have it sound like him. >> Oh god. Yeah. I think critique right there. >> Do what you feel. [ __ ] laugh. Work off inspiration. You know, >> I will say like uh Stray Beans's idea. Have them watching I would have them watching a Liam video, right? Have like Liam on the farm. Uh then the you know the dwarf's like, \"Pause it. Pause it.\" No. And then like they start ranting about how Liam doe"
-        },
-        {
-          "timestamp": "03:48:02",
-          "excerpt": "you sound on the verge of tears. >> That's how Veto always sounds. See, like they got to make [ __ ] up now, right? Like you sound like you're crying, Veto. You're definitely >> You sound like you're crying. You're mad, Veto. You're mad. >> [ __ ] TJ with the voices. God damn it. >> Okay. >> Oh, I have a question for you. >> Just take it. Damn. >> Yeah. I have a I have a question. >> Why would I Why would I respond when I can just let y"
-        }
-      ],
-      "appearance_status": "uncertain"
+      ]
     },
     {
       "entity": "Eric July",
@@ -300,33 +245,31 @@
       "block_count": 4,
       "first_timestamp": "01:00:02",
       "last_timestamp": "05:36:02",
-      "discussion_span_seconds": 16560.3,
       "importance_guess": "major",
       "sentiment": {
-        "label": "positive",
-        "score": 0.83,
-        "positive_hits": 258,
-        "negative_hits": 24
+        "label": "mixed",
+        "score": 0.316,
+        "positive_hits": 25,
+        "negative_hits": 13
       },
       "receipts": [
         {
           "timestamp": "01:00:02",
-          "excerpt": "will they be changing? Yeah. How will they be changing? [laughter] >> I'M NO LONGER GOING TO BE clipping Liam Gray. Next day clips Liam Gray. I'm no longer going to be clipping uh CG drama. Ethan, I'm only going to clip Eric July for you. Next day, nothing but CG drama. When was the last time you clipped Eric July? You built your channel on clipping Eric July in the zeros. I don't think you've clipped them in [ __ ] months, right? I say that and"
+          "excerpt": "ey be changing? [laughter] >> I'M NO LONGER GOING TO BE clipping Liam Gray. Next day clips Liam Gray. I'm no longer going to be clipping uh CG drama. Ethan, I'm only going to clip Eric July for you. Next day, nothing but CG drama. When was the last time you clipped Eric July? You built your channel on clipping Eric July in the zeros. I don't think you've clipped them"
         },
         {
           "timestamp": "01:24:01",
-          "excerpt": "Veto's life, saying the only thing keeping you safe was being on Dick's leash, quote unquote. What What's Riley going to do to anybody? >> [ __ ] show up to your house and put bunny stickers on. You're scared of [ __ ] Eric July. You're scared of the entire state of Texas. You won't go to I'll just veto just move to Texas and Riley can't come anywhere near you. How's that sound? >> Oh, so I'm unsafe now. >> You've been unsafe. >> What's going t"
+          "excerpt": "ing you safe was being on Dick's leash, quote unquote. What What's Riley going to do to anybody? >> [ __ ] show up to your house and put bunny stickers on. You're scared of [ __ ] Eric July. You're scared of the entire state of Texas. You won't go to I'll just veto just move to Texas and Riley can't come anywhere near you. How's that sound? >> Oh, so I'm unsafe now."
         },
         {
           "timestamp": "02:00:01",
-          "excerpt": "Veto than [ __ ] Riley. Right [snorts] now all he has is he's depressed. He's just [ __ ] depressed. That's right. Uh, all right. Let me add the uh funds in. Let me do this shot. Uh, we're going to give you the extended Eric July song cuz you're a longtime supporter and a big fan. Salute. >> Well, um, you found me on Twitter posting about the [ __ ] book. I kind of was getting mixed thoughts as I looked into it. My thoughts kind of kind of chang"
+          "excerpt": "ow all he has is he's depressed. He's just [ __ ] depressed. That's right. Uh, all right. Let me add the uh funds in. Let me do this shot. Uh, we're going to give you the extended Eric July song cuz you're a longtime supporter and a big fan. Salute. >> Well, um, you found me on Twitter posting about the [ __ ] book. I kind of was getting mixed thoughts as I looked in"
         },
         {
           "timestamp": "05:24:00",
-          "excerpt": "alerting me to the Kofi. Uh, he says, \"Hope that we will see more videos of Sturis traveling around the world for $20.\" That ain't cheap. >> Whoa, that ain't cheap. >> Uh, for that money, we're going to give you the uh Eric July special. >> Plus a couple of other things. Let me get my uh shot glass out. It's been a while. It's been a minute. >> Now you're sobering up. >> You're as spicy as you were earlier. >> Yeah, I know. [laughter] I'm telli"
+          "excerpt": "Hope that we will see more videos of Sturis traveling around the world for $20.\" That ain't cheap. >> Whoa, that ain't cheap. >> Uh, for that money, we're going to give you the uh Eric July special. >> Plus a couple of other things. Let me get my uh shot glass out. It's been a while. It's been a minute. >> Now you're sobering up. >> You're as spicy as you were earlie"
         }
-      ],
-      "appearance_status": "uncertain"
+      ]
     },
     {
       "entity": "ComicsGate",
@@ -334,29 +277,27 @@
       "block_count": 3,
       "first_timestamp": "01:36:00",
       "last_timestamp": "04:12:03",
-      "discussion_span_seconds": 9362.6,
       "importance_guess": "major",
       "sentiment": {
         "label": "positive",
-        "score": 0.769,
-        "positive_hits": 207,
-        "negative_hits": 27
+        "score": 0.429,
+        "positive_hits": 30,
+        "negative_hits": 12
       },
       "receipts": [
         {
           "timestamp": "01:36:00",
-          "excerpt": "panel, so she knows all about that [ __ ] >> Dish are fellow sex workers. [laughter] >> I don't know who these new people on panel are. Uh, this guy here. No [ __ ] clue. [snorts] >> But obviously it's Frederick Gumant and >> so awkward. >> I think that's Patrick being >> on that panel and just being quiet. >> Why would you even go on? Like I I would not go on like if they're like [ __ ] on veto and like it's not going well. Why would y"
+          "excerpt": "panel, so she knows all about that [ __ ] >> Dish are fellow sex workers. [laughter] >> I don't know who these new people on panel are. Uh, this guy here. No [ __ ] clue. [snorts] >> But obviously it's Frederick Gumant and >> so awkward. >> I think that's Patrick being >> on that panel and just being quiet. >> Why would you even go on? Like I I would not go"
         },
         {
           "timestamp": "03:12:00",
-          "excerpt": "because he'll come in and he'll he'll fix this for us, right? >> Yeah. They they wanted Bald They wanted Boulder to come in and fix things, but what Boulder did was show up, then his pants immediately fell down and he tripped over. That's the equivalent of what he did on this podcast. [laughter] >> Are you >> pretty much? Yeah. >> That's fair. you there static. >> It's it's bad showmanship. Boulder, the joke is funny, but if you're not"
+          "excerpt": "because he'll come in and he'll he'll fix this for us, right? >> Yeah. They they wanted Bald They wanted Boulder to come in and fix things, but what Boulder did was show up, then his pants immediately fell down and he tripped over. That's the equivalent of what he did on this podcast. [laughter] >> Are you >> pretty much? Yeah. >> That's fair. you there stat"
         },
         {
           "timestamp": "04:00:01",
-          "excerpt": "stream is [ __ ] Comics Gate is about comics and talented people. This stream was a collection of losers. I >> She's almost like what I've been saying the whole time. >> Right. [clears throat] >> No comics whatsoever were discussed. >> I had to turn this episode off. Watching Clipper and Johnny trying to get under Veto's skin was just some low IQ annoying high school bully [ __ ] I don't watch any CG slum shows for the same reason. Plea"
+          "excerpt": "stream is [ __ ] Comics Gate is about comics and talented people. This stream was a collection of losers. I >> She's almost like what I've been saying the whole time. >> Right. [clears throat] >> No comics whatsoever were discussed. >> I had to turn this episode off. Watching Clipper and Johnny trying to get under Veto's skin was just some low IQ annoying hi"
         }
-      ],
-      "appearance_status": "uncertain"
+      ]
     },
     {
       "entity": "Shane Davis",
@@ -364,25 +305,23 @@
       "block_count": 2,
       "first_timestamp": "48:01",
       "last_timestamp": "05:24:03",
-      "discussion_span_seconds": 16561.7,
       "importance_guess": "secondary",
       "sentiment": {
-        "label": "positive",
-        "score": 0.896,
-        "positive_hits": 127,
-        "negative_hits": 7
+        "label": "mixed",
+        "score": 0.231,
+        "positive_hits": 8,
+        "negative_hits": 5
       },
       "receipts": [
         {
           "timestamp": "48:01",
-          "excerpt": "[laughter] >> No, he's not doing this for He has no good intentions. It's all just bitter bitterness and resentment. Like, so >> yes. Well, it's beyond that. It's bitter. It's bitterness. It's resentment. Plus, it's his ability to LAR, right? He got to come into a space and pretend to be somebody who he isn't. No one asks questions because we all assume that everyone's a normal [ __ ] person, right? We all assume, no one assumes that th"
+          "excerpt": "[laughter] >> No, he's not doing this for He has no good intentions. It's all just bitter bitterness and resentment. Like, so >> yes. Well, it's beyond that. It's bitter. It's bitterness. It's resentment. Plus, it's his ability to LAR, right? He got to come into a space and pretend to be somebody who he isn't. No one asks questions because we all assume that"
         },
         {
           "timestamp": "05:12:00",
-          "excerpt": "pika pika pika pika pika. Sturgeis knows all the words though. Don't worry. Where's team rocket? Oh [ __ ] [music] Sunglasses. >> Okay. So here's here's my question. Like this is the the classic Disney question for you. Uh toy. [clears throat] >> Okay. So this this Pikachu is wearing a dress, right? >> Yes. >> That implies peak of shame, right? >> Implies what now? >> Shame. Like they they have shame. Like they wear clothes. We wear clo"
+          "excerpt": "pika pika pika pika pika. Sturgeis knows all the words though. Don't worry. Where's team rocket? Oh [ __ ] [music] Sunglasses. >> Okay. So here's here's my question. Like this is the the classic Disney question for you. Uh toy. [clears throat] >> Okay. So this this Pikachu is wearing a dress, right? >> Yes. >> That implies peak of shame, right? >> Implies wh"
         }
-      ],
-      "appearance_status": "uncertain"
+      ]
     },
     {
       "entity": "Jon Del Arroz",
@@ -390,223 +329,126 @@
       "block_count": 2,
       "first_timestamp": "05:24:00",
       "last_timestamp": "05:48:02",
-      "discussion_span_seconds": 1442.2,
       "importance_guess": "secondary",
       "sentiment": {
-        "label": "positive",
-        "score": 0.889,
-        "positive_hits": 204,
-        "negative_hits": 12
+        "label": "mixed",
+        "score": 0.059,
+        "positive_hits": 9,
+        "negative_hits": 8
       },
       "receipts": [
         {
           "timestamp": "05:24:00",
-          "excerpt": ">> Oh, okay. The physical ones. Yeah. Back then, >> when it when it comes to Magic, people hate when I say this, but when it comes to trading card games, it is like pay to win, right? >> It sure seems like it. Yeah. >> Well, I mean, you uh there are better like people like people hate I say this, right? But there are cards that are better than other cards, right? >> Sure. Right. >> The game. >> Yeah. Like so you can have like a card tha"
+          "excerpt": ">> Oh, okay. The physical ones. Yeah. Back then, >> when it when it comes to Magic, people hate when I say this, but when it comes to trading card games, it is like pay to win, right? >> It sure seems like it. Yeah. >> Well, I mean, you uh there are better like people like people hate I say this, right? But there are cards that are better than other cards, r"
         },
         {
           "timestamp": "05:36:00",
-          "excerpt": "were going to do to me because Gamergate and they were going to rape me.\" >> What? Really? >> Yeah. She did a [ __ ] thing where she's like, \"Oh my god, like I SEE A GUY IN like a [ __ ] gamer t-shirt and like immediately because like men are so toxic online and gamers suck so bad that like I was scared.\" >> I've only ever seen like >> I've only ever seen her like like Will Weaton doing like you know like normal like playing board games"
+          "excerpt": "were going to do to me because Gamergate and they were going to rape me.\" >> What? Really? >> Yeah. She did a [ __ ] thing where she's like, \"Oh my god, like I SEE A GUY IN like a [ __ ] gamer t-shirt and like immediately because like men are so toxic online and gamers suck so bad that like I was scared.\" >> I've only ever seen like >> I've only ever seen he"
         }
-      ],
-      "appearance_status": "uncertain"
-    },
-    {
-      "entity": "Cecil",
-      "mentions": 1,
-      "block_count": 1,
-      "first_timestamp": "03:48:02",
-      "last_timestamp": "04:00:02",
-      "discussion_span_seconds": 720.0,
-      "importance_guess": "passing",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.851,
-        "positive_hits": 62,
-        "negative_hits": 5
-      },
-      "receipts": [
-        {
-          "timestamp": "03:48:02",
-          "excerpt": ". [laughter] >> Get tosski. Go get up there. All right. So, uh this is from Katie's Rumble. Okay. Let's uh I'll read the comments on Katie's Rumble. Okay. Not that many. >> All right. So, Katie's Rumble. 12 comments. >> Cecil is F. That's That's reasonable. >> Disgustingly so. Okay, I guess we read this one. This is the one that um Riley had on his Twitter. >> The one that >> hit the follow and share. Okay. Eh wasn't a fan of this stream. Cl"
-        }
-      ],
-      "appearance_status": "uncertain"
-    },
-    {
-      "entity": "DarkGift Comics",
-      "mentions": 1,
-      "block_count": 1,
-      "first_timestamp": "01:24:01",
-      "last_timestamp": "01:36:03",
-      "discussion_span_seconds": 722.7,
-      "importance_guess": "passing",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.952,
-        "positive_hits": 41,
-        "negative_hits": 1
-      },
-      "receipts": [
-        {
-          "timestamp": "01:24:01",
-          "excerpt": "Kenny Swag says actively lulled when they didn't know what Discount Tuesday was. Timely presentation says shows me they never grew up poor or trying to find a way trying to find ways to save money. saying this as a poor person. Uh, oink oink paologist says, \"Seems like the well is only drying up for Riley, who was already irrelevant before he was born.\" >> Correct. >> Accomplished code says, \"I didn't know Veto surrounded himself with t"
-        }
-      ],
-      "appearance_status": "uncertain"
-    },
-    {
-      "entity": "Fencegate",
-      "mentions": 1,
-      "block_count": 1,
-      "first_timestamp": "02:48:03",
-      "last_timestamp": "03:00:01",
-      "discussion_span_seconds": 718.8,
-      "importance_guess": "passing",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.874,
-        "positive_hits": 89,
-        "negative_hits": 6
-      },
-      "receipts": [
-        {
-          "timestamp": "02:48:03",
-          "excerpt": ">> These damn pedestrians think they own the sidewalk. And let me tell you something. >> Let me tell YOU SOMETHING. >> I [ __ ] hate these damn crackers. >> Thanks for getting me away. >> Wh Why Why does uh Ruby is like the only one who's like You don't feel bad. Like he's like he ran away and then he got hit and you're like ah poor Ruby got hit by a car >> from the koala man and for changing my diaper. >> No problem. >> Now you get som"
-        }
-      ],
-      "appearance_status": "uncertain"
+      ]
     }
   ],
   "chapters": [
     {
       "start": "00:03",
       "end": "12:02",
-      "title": "Frog Tony / Liam Gray / Sturgis",
+      "title": "Liam Gray / Frog Tony / Sturgis",
       "entities": [
-        "Frog Tony",
         "Liam Gray",
+        "Frog Tony",
         "Sturgis",
         "Stray Beans"
       ],
-      "summary_seed": "Yeah, yeah, yeah, yeah. [laughter] Represent. >> AH [screaming] [ __ ] HERE WE GO AGAIN. [music] MORE MOTHERFERS CATCH THOSE DAMN FROGGERS. Too late. THEY ALREADY CROSSED THE COUNTY LINE. FROG TONY AND THE CREW are gone again. Another thousand miles [music] and running. Froggers got the whole town buzzing. Pearl clutch patrol keep fronting. Fake tears fall. WE KNOW THEY BLUFFING. [music] Another thousand miles and ru",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "possible_clip": false,
+      "summary_seed": "Yeah, yeah, yeah, yeah. [laughter] Represent. >> AH [screaming] [ __ ] HERE WE GO AGAIN. [music] MORE MOTHERFERS CATCH THOSE DAMN FROGGERS. Too late. THEY ALREADY CROSSED THE COUNTY LINE. FROG TONY AND THE CREW are gone again. Another thousand miles [music] and running. Froggers got the whole town buzzing. Pearl clutch patrol keep fronting. Fake te"
     },
     {
       "start": "12:01",
       "end": "24:04",
-      "title": "Sturgis / Vito Gesualdi",
+      "title": "Sturgis",
       "entities": [
-        "Sturgis",
-        "Vito Gesualdi"
+        "Sturgis"
       ],
-      "summary_seed": "I JUST WANT TO SEE this person be better. You suck. This sucks. Shut the [ __ ] up. YOU A [ __ ] STIRER. That's cool and perfectly fine. yada yada yada. Has some things on my mind. It's great. Happy being here walking and strolling on the SIDEWALKS OF CHICAGO. WOO! COOKING AND SMOKING. SAYS, \"HEY, I'm a fan. I'm a Sturgis fan now. He is great. An an above average American, well behaved, not annoying or disruptive.\" I",
-      "clip_likelihood": false,
-      "transition_markers": 3
+      "possible_clip": false,
+      "summary_seed": "I JUST WANT TO SEE this person be better. You suck. This sucks. Shut the [ __ ] up. YOU A [ __ ] STIRER. That's cool and perfectly fine. yada yada yada. Has some things on my mind. It's great. Happy being here walking and strolling on the SIDEWALKS OF CHICAGO. WOO! COOKING AND SMOKING. SAYS, \"HEY, I'm a fan. I'm a Sturgis fan now. He is great. An a"
     },
     {
       "start": "24:00",
       "end": "36:04",
-      "title": "Clip/reaction: Stray Beans / Liam Gray",
-      "entities": [
-        "Stray Beans",
-        "Liam Gray"
-      ],
-      "summary_seed": ">> Free food at the end of the night, man. And I'll finally figure out what's what's going on with the milkshake machine, right? Like I'll have the inside scoop. >> Yeah. What the [ __ ] Ice cream machine never works. >> All right. >> Land obsolescence. Uh, we got one one last thing that we have to go over. Guys, I'm gonna need you to pour one out. Uh, for Finnbar Saunders, Finnbar got his account back today. He got",
-      "clip_likelihood": true,
-      "transition_markers": 0
-    },
-    {
-      "start": "36:00",
-      "end": "48:03",
       "title": "Liam Gray / Stray Beans",
       "entities": [
         "Liam Gray",
         "Stray Beans"
       ],
-      "summary_seed": ">> Stupid. It was stupid. >> A lot of them also became murderous [ __ ] Yeah. I knocked out on the new KCOA revival series. Coca-Co. [laughter] >> I cracked my toe in the bed post. Ah, that that's got to hurt. That's got to hurt. Ident that once I broke it. Yeah. >> They have a habit of taking the young female characters and making them OP. Feminism at work. Yeah. They've always pushed Jubilee for some reason though.",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "possible_clip": true,
+      "summary_seed": ">> Free food at the end of the night, man. And I'll finally figure out what's what's going on with the milkshake machine, right? Like I'll have the inside scoop. >> Yeah. What the [ __ ] Ice cream machine never works. >> All right. >> Land obsolescence. Uh, we got one one last thing that we have to go over. Guys, I'm gonna need you to pour one out."
+    },
+    {
+      "start": "36:00",
+      "end": "48:03",
+      "title": "Liam Gray",
+      "entities": [
+        "Liam Gray"
+      ],
+      "possible_clip": false,
+      "summary_seed": ">> Stupid. It was stupid. >> A lot of them also became murderous [ __ ] Yeah. I knocked out on the new KCOA revival series. Coca-Co. [laughter] >> I cracked my toe in the bed post. Ah, that that's got to hurt. That's got to hurt. Ident that once I broke it. Yeah. >> They have a habit of taking the young female characters and making them OP. Feminis"
     },
     {
       "start": "48:01",
       "end": "01:00:05",
-      "title": "Liam Gray / Frog Tony / Shane Davis",
-      "entities": [
-        "Liam Gray",
-        "Frog Tony",
-        "Shane Davis"
-      ],
-      "summary_seed": "[laughter] >> No, he's not doing this for He has no good intentions. It's all just bitter bitterness and resentment. Like, so >> yes. Well, it's beyond that. It's bitter. It's bitterness. It's resentment. Plus, it's his ability to LAR, right? He got to come into a space and pretend to be somebody who he isn't. No one asks questions because we all assume that everyone's a normal [ __ ] person, right? We all assume, no",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "[laughter] >> No, he's not doing this for He has no good intentions. It's all just bitter bitterness and resentment. Like, so >> yes. Well, it's beyond that. It's bitter. It's bitterness. It's resentment. Plus, it's his ability to LAR, right? He got to come into a space and pretend to be somebody who he isn't. No one asks questions because we all a"
     },
     {
       "start": "01:00:02",
       "end": "01:12:02",
-      "title": "Dick Masterson / Eric July / Sturgis",
+      "title": "Liam Gray / Sturgis / Eric July",
       "entities": [
-        "Dick Masterson",
-        "Eric July",
-        "Sturgis",
         "Liam Gray",
-        "Frog Tony",
-        "Vito Gesualdi",
-        "Ethan Van Sciver"
+        "Sturgis",
+        "Eric July"
       ],
-      "summary_seed": ">> there's no um biggest problem tonight. I know Dick Dick said that he was going to do Biggest Problem for the rest of the month, right? >> Till July, but uh the first show after he made the announcement, uh he's called off. >> You think they'll have a big blowout final episode or No, >> no, I think he's going to call off for the rest of the rest of July. >> I think that's it. I think we already had a last episode.",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "possible_clip": false,
+      "summary_seed": ">> there's no um biggest problem tonight. I know Dick Dick said that he was going to do Biggest Problem for the rest of the month, right? >> Till July, but uh the first show after he made the announcement, uh he's called off. >> You think they'll have a big blowout final episode or No, >> no, I think he's going to call off for the rest of the rest"
     },
     {
       "start": "01:12:00",
       "end": "01:24:04",
-      "title": "Vito Gesualdi / Dick Masterson",
-      "entities": [
-        "Vito Gesualdi",
-        "Dick Masterson"
-      ],
-      "summary_seed": "they looked like retards. >> Y >> it's also very clear how hard they're trying to emulate Dick's [ __ ] method of arguing he started doing the last couple of years. They're so desperate for validation from internet dad. It's really [ __ ] cringy. >> Is it that bad? >> Yes, dude. >> Yes. Yes, >> dude. >> Oh, you're not ready for this. Told me just wait. Uh, Knight of the Eldry says, \"He seems to generally love being i",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "they looked like retards. >> Y >> it's also very clear how hard they're trying to emulate Dick's [ __ ] method of arguing he started doing the last couple of years. They're so desperate for validation from internet dad. It's really [ __ ] cringy. >> Is it that bad? >> Yes, dude. >> Yes. Yes, >> dude. >> Oh, you're not ready for this. Told me just w"
     },
     {
       "start": "01:24:01",
       "end": "01:36:03",
-      "title": "Clip/reaction: Sturgis / Vito Gesualdi / Stray Beans",
+      "title": "Sturgis / Eric July",
       "entities": [
         "Sturgis",
-        "Vito Gesualdi",
-        "Stray Beans",
-        "Eric July",
-        "DarkGift Comics"
+        "Eric July"
       ],
-      "summary_seed": "Kenny Swag says actively lulled when they didn't know what Discount Tuesday was. Timely presentation says shows me they never grew up poor or trying to find a way trying to find ways to save money. saying this as a poor person. Uh, oink oink paologist says, \"Seems like the well is only drying up for Riley, who was already irrelevant before he was born.\" >> Correct. >> Accomplished code says, \"I didn't know Veto surro",
-      "clip_likelihood": true,
-      "transition_markers": 0
+      "possible_clip": true,
+      "summary_seed": "Kenny Swag says actively lulled when they didn't know what Discount Tuesday was. Timely presentation says shows me they never grew up poor or trying to find a way trying to find ways to save money. saying this as a poor person. Uh, oink oink paologist says, \"Seems like the well is only drying up for Riley, who was already irrelevant before he was b"
     },
     {
       "start": "01:36:00",
       "end": "01:48:01",
-      "title": "ComicsGate",
-      "entities": [
-        "ComicsGate"
-      ],
-      "summary_seed": "panel, so she knows all about that [ __ ] >> Dish are fellow sex workers. [laughter] >> I don't know who these new people on panel are. Uh, this guy here. No [ __ ] clue. [snorts] >> But obviously it's Frederick Gumant and >> so awkward. >> I think that's Patrick being >> on that panel and just being quiet. >> Why would you even go on? Like I I would not go on like if they're like [ __ ] on veto and like it's not goi",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "panel, so she knows all about that [ __ ] >> Dish are fellow sex workers. [laughter] >> I don't know who these new people on panel are. Uh, this guy here. No [ __ ] clue. [snorts] >> But obviously it's Frederick Gumant and >> so awkward. >> I think that's Patrick being >> on that panel and just being quiet. >> Why would you even go on? Like I I wou"
     },
     {
       "start": "01:48:00",
       "end": "02:00:03",
-      "title": "Sturgis / Ethan Van Sciver",
+      "title": "Sturgis",
       "entities": [
-        "Sturgis",
-        "Ethan Van Sciver"
+        "Sturgis"
       ],
-      "summary_seed": "video game podcast. >> You have no continuity of self. >> It's got that's got nothing to do with Tim Rogers. Tim Rogers didn't kick me off. >> No, they ran it by him. >> Yeah. In what way did he not have control over that? You see how Dick has control over this fear and if he were to tell me to stop hurting you that I might consider it. Dick has control over this sphere and if he tells me to stop hurting you, I might",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "possible_clip": false,
+      "summary_seed": "video game podcast. >> You have no continuity of self. >> It's got that's got nothing to do with Tim Rogers. Tim Rogers didn't kick me off. >> No, they ran it by him. >> Yeah. In what way did he not have control over that? You see how Dick has control over this fear and if he were to tell me to stop hurting you that I might consider it. Dick has co"
     },
     {
       "start": "02:00:01",
@@ -615,1076 +457,390 @@
       "entities": [
         "Eric July"
       ],
-      "summary_seed": ">> that's Wow. >> The gay op was when Riley was feeding Tony his illegal downloading talking point. Yeah. [snorts] >> Uh James Coup says, \"What is big bone drunk dropless corn person does Riley >> bring to the table?\" Uh Riley brings nothing to the table. Abso fuckingutely nothing. >> Well, he used to have a hot girlfriend, but that's gone. >> True. That's true. >> He's got anger. Lots of that. >> That's all he had.",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "possible_clip": false,
+      "summary_seed": ">> that's Wow. >> The gay op was when Riley was feeding Tony his illegal downloading talking point. Yeah. [snorts] >> Uh James Coup says, \"What is big bone drunk dropless corn person does Riley >> bring to the table?\" Uh Riley brings nothing to the table. Abso fuckingutely nothing. >> Well, he used to have a hot girlfriend, but that's gone. >> True"
     },
     {
       "start": "02:12:01",
       "end": "02:24:04",
       "title": "General discussion",
       "entities": [],
-      "summary_seed": ">> veto what uh veto what real world is? What >> interesting? >> Why not? >> Didn't ask for one. >> He didn't want to give you credit. >> I mean, I was just there helping with the filming. I didn't do a lot of work, so help. >> Expect one. >> Which part did you help with? >> You know, uh being like, \"Hey, uh let's center you up here.\" You know, I I called across the street. It was one shot. It wasn't a big deal. >> Y",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "possible_clip": false,
+      "summary_seed": ">> veto what uh veto what real world is? What >> interesting? >> Why not? >> Didn't ask for one. >> He didn't want to give you credit. >> I mean, I was just there helping with the filming. I didn't do a lot of work, so help. >> Expect one. >> Which part did you help with? >> You know, uh being like, \"Hey, uh let's center you up here.\" You know, I I"
     },
     {
       "start": "02:24:01",
       "end": "02:36:01",
       "title": "General discussion",
       "entities": [],
-      "summary_seed": ">> right? Katie could be [ __ ] uh >> Well, that's right. It's her show. She should be wrangling these tards. >> So >> like they're going down these rabbit holes that have nothing to do with anything. They're just trying to make Beetle Spur out and he's not going to at some point. You got to let go. >> I'm sure they're high they were high-fiving themselves afterward until like they saw the comments. You're like, \"Oh,",
-      "clip_likelihood": false,
-      "transition_markers": 1
+      "possible_clip": false,
+      "summary_seed": ">> right? Katie could be [ __ ] uh >> Well, that's right. It's her show. She should be wrangling these tards. >> So >> like they're going down these rabbit holes that have nothing to do with anything. They're just trying to make Beetle Spur out and he's not going to at some point. You got to let go. >> I'm sure they're high they were high-fiving th"
     },
     {
       "start": "02:36:00",
       "end": "02:48:04",
-      "title": "Ethan Van Sciver",
+      "title": "Sturgis",
       "entities": [
-        "Ethan Van Sciver"
+        "Sturgis"
       ],
-      "summary_seed": "and all these other things, they like to add music and [ __ ] I put no music so I can put the music in myself in editing maybe. But but I'm saying like >> the the uh the audio levels like it's not like the music is super loud and like the the u the sound effects of the car driving are lows like it's properly synced the audio levels. >> Yeah. Mixed. Yeah. >> Right. >> Right. >> Like that's what like when I try to do t",
-      "clip_likelihood": false,
-      "transition_markers": 1
+      "possible_clip": false,
+      "summary_seed": "and all these other things, they like to add music and [ __ ] I put no music so I can put the music in myself in editing maybe. But but I'm saying like >> the the uh the audio levels like it's not like the music is super loud and like the the u the sound effects of the car driving are lows like it's properly synced the audio levels. >> Yeah. Mixed."
     },
     {
       "start": "02:48:03",
       "end": "03:00:01",
-      "title": "Fencegate",
-      "entities": [
-        "Fencegate"
-      ],
-      "summary_seed": ">> These damn pedestrians think they own the sidewalk. And let me tell you something. >> Let me tell YOU SOMETHING. >> I [ __ ] hate these damn crackers. >> Thanks for getting me away. >> Wh Why Why does uh Ruby is like the only one who's like You don't feel bad. Like he's like he ran away and then he got hit and you're like ah poor Ruby got hit by a car >> from the koala man and for changing my diaper. >> No problem",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": ">> These damn pedestrians think they own the sidewalk. And let me tell you something. >> Let me tell YOU SOMETHING. >> I [ __ ] hate these damn crackers. >> Thanks for getting me away. >> Wh Why Why does uh Ruby is like the only one who's like You don't feel bad. Like he's like he ran away and then he got hit and you're like ah poor Ruby got hit by"
     },
     {
       "start": "03:00:00",
       "end": "03:12:01",
-      "title": "Ethan Van Sciver / Vito Gesualdi / Stray Beans",
+      "title": "Sturgis / Stray Beans",
       "entities": [
-        "Ethan Van Sciver",
-        "Vito Gesualdi",
+        "Sturgis",
         "Stray Beans"
       ],
-      "summary_seed": "like oh [ __ ] I didn't see that coming. That's good. Like and you have good setups for it, too, which is awesome. And again, it's [laughter] Mystery Creator in chat. Mystery Creator, >> do you have plans to bring them back >> for episode three? Will they be back even though they're all >> gone? >> Well, it was just a story in a book that Liam was reading. >> They could all be back. I also lost it when the whole cyni",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "possible_clip": false,
+      "summary_seed": "like oh [ __ ] I didn't see that coming. That's good. Like and you have good setups for it, too, which is awesome. And again, it's [laughter] Mystery Creator in chat. Mystery Creator, >> do you have plans to bring them back >> for episode three? Will they be back even though they're all >> gone? >> Well, it was just a story in a book that Liam was"
     },
     {
       "start": "03:12:00",
       "end": "03:24:01",
-      "title": "Vito Gesualdi / ComicsGate",
-      "entities": [
-        "Vito Gesualdi",
-        "ComicsGate"
-      ],
-      "summary_seed": "because he'll come in and he'll he'll fix this for us, right? >> Yeah. They they wanted Bald They wanted Boulder to come in and fix things, but what Boulder did was show up, then his pants immediately fell down and he tripped over. That's the equivalent of what he did on this podcast. [laughter] >> Are you >> pretty much? Yeah. >> That's fair. you there static. >> It's it's bad showmanship. Boulder, the joke is funny",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "because he'll come in and he'll he'll fix this for us, right? >> Yeah. They they wanted Bald They wanted Boulder to come in and fix things, but what Boulder did was show up, then his pants immediately fell down and he tripped over. That's the equivalent of what he did on this podcast. [laughter] >> Are you >> pretty much? Yeah. >> That's fair. you"
     },
     {
       "start": "03:24:00",
       "end": "03:36:02",
       "title": "General discussion",
       "entities": [],
-      "summary_seed": "THE GAMES with >> just one. >> Take a breath. >> YOU'RE LIKE EVERYONE. >> Uh Bino talked has talked about his friends. He's talked about like doing things with friends and like didn't he have like a whole sledding story like with his friends, right? Growing up. Uh we we seen we went over Veto's [ __ ] like high school uh website where he talks about people in his class and friends that he's had. So it's saying that V",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "possible_clip": false,
+      "summary_seed": "THE GAMES with >> just one. >> Take a breath. >> YOU'RE LIKE EVERYONE. >> Uh Bino talked has talked about his friends. He's talked about like doing things with friends and like didn't he have like a whole sledding story like with his friends, right? Growing up. Uh we we seen we went over Veto's [ __ ] like high school uh website where he talks abou"
     },
     {
       "start": "03:36:00",
       "end": "03:48:06",
-      "title": "General discussion",
-      "entities": [],
-      "summary_seed": "work on stuff. This was more important than hanging out with Josh Denny. >> I didn't want to see Jackass that badly. Actually, we might get food after. So, let me see. >> He didn't want to see it that badly either. >> I love how they're like, \"Hey, uh, you got no friends. I was going to hang out with Jack.\" So, you thought this was more important. Like Riley Riley goes from one minute going, \"You should do things tha",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "title": "Sturgis",
+      "entities": [
+        "Sturgis"
+      ],
+      "possible_clip": false,
+      "summary_seed": "work on stuff. This was more important than hanging out with Josh Denny. >> I didn't want to see Jackass that badly. Actually, we might get food after. So, let me see. >> He didn't want to see it that badly either. >> I love how they're like, \"Hey, uh, you got no friends. I was going to hang out with Jack.\" So, you thought this was more important."
     },
     {
       "start": "03:48:02",
       "end": "04:00:02",
-      "title": "Stray Beans / Cecil",
+      "title": "Sturgis",
       "entities": [
-        "Stray Beans",
-        "Cecil"
+        "Sturgis"
       ],
-      "summary_seed": "you sound on the verge of tears. >> That's how Veto always sounds. See, like they got to make [ __ ] up now, right? Like you sound like you're crying, Veto. You're definitely >> You sound like you're crying. You're mad, Veto. You're mad. >> [ __ ] TJ with the voices. God damn it. >> Okay. >> Oh, I have a question for you. >> Just take it. Damn. >> Yeah. I have a I have a question. >> Why would I Why would I respond w",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "possible_clip": false,
+      "summary_seed": "you sound on the verge of tears. >> That's how Veto always sounds. See, like they got to make [ __ ] up now, right? Like you sound like you're crying, Veto. You're definitely >> You sound like you're crying. You're mad, Veto. You're mad. >> [ __ ] TJ with the voices. God damn it. >> Okay. >> Oh, I have a question for you. >> Just take it. Damn. >>"
     },
     {
       "start": "04:00:01",
       "end": "04:12:03",
-      "title": "ComicsGate",
+      "title": "Sturgis",
       "entities": [
-        "ComicsGate"
+        "Sturgis"
       ],
-      "summary_seed": "stream is [ __ ] Comics Gate is about comics and talented people. This stream was a collection of losers. I >> She's almost like what I've been saying the whole time. >> Right. [clears throat] >> No comics whatsoever were discussed. >> I had to turn this episode off. Watching Clipper and Johnny trying to get under Veto's skin was just some low IQ annoying high school bully [ __ ] I don't watch any CG slum shows for t",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "possible_clip": false,
+      "summary_seed": "stream is [ __ ] Comics Gate is about comics and talented people. This stream was a collection of losers. I >> She's almost like what I've been saying the whole time. >> Right. [clears throat] >> No comics whatsoever were discussed. >> I had to turn this episode off. Watching Clipper and Johnny trying to get under Veto's skin was just some low IQ a"
     },
     {
       "start": "04:12:01",
       "end": "04:24:07",
-      "title": "Stray Beans",
+      "title": "Sturgis",
       "entities": [
-        "Stray Beans"
+        "Sturgis"
       ],
-      "summary_seed": "little 20 oz bottle of water. That's all you're drinking. >> Like a 16 ounce boy. Yeah, weird metabolism. >> I know. Like usually the food like food has enough liquid in it. I don't like that's why I'm confused. Like most food >> Well, no, but your body does require water >> or crackers. >> Like literally on survival shows like they'll tell you not if you have no water to drink, they'll tell you not to eat because th",
-      "clip_likelihood": false,
-      "transition_markers": 1
+      "possible_clip": false,
+      "summary_seed": "little 20 oz bottle of water. That's all you're drinking. >> Like a 16 ounce boy. Yeah, weird metabolism. >> I know. Like usually the food like food has enough liquid in it. I don't like that's why I'm confused. Like most food >> Well, no, but your body does require water >> or crackers. >> Like literally on survival shows like they'll tell you not"
     },
     {
       "start": "04:24:03",
       "end": "04:36:05",
-      "title": "General discussion",
-      "entities": [],
-      "summary_seed": "what was that? Detective Conan shirt, >> Kirby hat. The >> cameraman's wandering off >> like this like like say something like give me context. I have no [ __ ] clue. At least [laughter] value card. >> Here's some cards with a case guys. The Pokemon cards. I recognize like two or three of these characters. And that's Pikachu. I recognize Pikachu. >> Hey, be nice. His mom's doing the best she can. >> Oh, that's where",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "title": "Sturgis",
+      "entities": [
+        "Sturgis"
+      ],
+      "possible_clip": false,
+      "summary_seed": "what was that? Detective Conan shirt, >> Kirby hat. The >> cameraman's wandering off >> like this like like say something like give me context. I have no [ __ ] clue. At least [laughter] value card. >> Here's some cards with a case guys. The Pokemon cards. I recognize like two or three of these characters. And that's Pikachu. I recognize Pikachu. >"
     },
     {
       "start": "04:36:03",
       "end": "04:48:01",
-      "title": "General discussion",
-      "entities": [],
-      "summary_seed": ">> theme cafe is fine, but a kids theme park is kind of weird. Yeah, I wouldn't do that. Go see a a New Japan show. I'd go see New Japan and an all Japan show if I can get to both of them. >> [ __ ] yeah, that'd be cool. >> These places must be for children and Western men. [laughter] >> Biz the adults again. >> Not in the same place. >> He says, \"Not the bars. The ramen shops serve beer and saki. Plus, if you drop b",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "title": "Sturgis",
+      "entities": [
+        "Sturgis"
+      ],
+      "possible_clip": false,
+      "summary_seed": ">> theme cafe is fine, but a kids theme park is kind of weird. Yeah, I wouldn't do that. Go see a a New Japan show. I'd go see New Japan and an all Japan show if I can get to both of them. >> [ __ ] yeah, that'd be cool. >> These places must be for children and Western men. [laughter] >> Biz the adults again. >> Not in the same place. >> He says, \""
     },
     {
       "start": "04:48:00",
       "end": "05:00:03",
-      "title": "General discussion",
-      "entities": [],
-      "summary_seed": "[snorts] Average tourist. Uh the Japanese really don't travel for this stuff as much. Uh those might be other Asian national. I still have Pokemon Yellow for the Game Boy. I still have uh Pokemon Fire Red and Leaf Green for was it the Game Boy Advance? I think it's like he's doing PDF cosplay. That's fun. That's mean. That's mean. [snorts] We did lose a but Kanto bud. Oh [ __ ] he took his head off. Look, look at tha",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "title": "Sturgis",
+      "entities": [
+        "Sturgis"
+      ],
+      "possible_clip": false,
+      "summary_seed": "[snorts] Average tourist. Uh the Japanese really don't travel for this stuff as much. Uh those might be other Asian national. I still have Pokemon Yellow for the Game Boy. I still have uh Pokemon Fire Red and Leaf Green for was it the Game Boy Advance? I think it's like he's doing PDF cosplay. That's fun. That's mean. That's mean. [snorts] We did l"
     },
     {
       "start": "05:00:01",
       "end": "05:12:03",
-      "title": "General discussion",
-      "entities": [],
-      "summary_seed": "making the noise. [applause and cheering] >> Oh, Mr. Robato. I think it's like for kids to pretend like they're healing their Pokemon maybe. I don't know. >> We just got these drinks. You got the Squirtle drink here. Lemon just like lemon and milk. >> He likes his drinks. >> That's nasty. Okay. I don't know what I I've heard like a lot of like Japanese like lemon and milk and milk and this like what the [ __ ] is wit",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "title": "Sturgis",
+      "entities": [
+        "Sturgis"
+      ],
+      "possible_clip": false,
+      "summary_seed": "making the noise. [applause and cheering] >> Oh, Mr. Robato. I think it's like for kids to pretend like they're healing their Pokemon maybe. I don't know. >> We just got these drinks. You got the Squirtle drink here. Lemon just like lemon and milk. >> He likes his drinks. >> That's nasty. Okay. I don't know what I I've heard like a lot of like Japa"
     },
     {
       "start": "05:12:00",
       "end": "05:24:03",
-      "title": "Shane Davis",
+      "title": "Sturgis",
       "entities": [
-        "Shane Davis"
+        "Sturgis"
       ],
-      "summary_seed": "pika pika pika pika pika. Sturgeis knows all the words though. Don't worry. Where's team rocket? Oh [ __ ] [music] Sunglasses. >> Okay. So here's here's my question. Like this is the the classic Disney question for you. Uh toy. [clears throat] >> Okay. So this this Pikachu is wearing a dress, right? >> Yes. >> That implies peak of shame, right? >> Implies what now? >> Shame. Like they they have shame. Like they wear",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "possible_clip": false,
+      "summary_seed": "pika pika pika pika pika. Sturgeis knows all the words though. Don't worry. Where's team rocket? Oh [ __ ] [music] Sunglasses. >> Okay. So here's here's my question. Like this is the the classic Disney question for you. Uh toy. [clears throat] >> Okay. So this this Pikachu is wearing a dress, right? >> Yes. >> That implies peak of shame, right? >>"
     },
     {
       "start": "05:24:00",
       "end": "05:36:02",
-      "title": "Eric July / Jon Del Arroz",
+      "title": "Sturgis / Eric July",
       "entities": [
-        "Eric July",
-        "Jon Del Arroz"
+        "Sturgis",
+        "Eric July"
       ],
-      "summary_seed": ">> Oh, okay. The physical ones. Yeah. Back then, >> when it when it comes to Magic, people hate when I say this, but when it comes to trading card games, it is like pay to win, right? >> It sure seems like it. Yeah. >> Well, I mean, you uh there are better like people like people hate I say this, right? But there are cards that are better than other cards, right? >> Sure. Right. >> The game. >> Yeah. Like so you can",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "possible_clip": false,
+      "summary_seed": ">> Oh, okay. The physical ones. Yeah. Back then, >> when it when it comes to Magic, people hate when I say this, but when it comes to trading card games, it is like pay to win, right? >> It sure seems like it. Yeah. >> Well, I mean, you uh there are better like people like people hate I say this, right? But there are cards that are better than othe"
     },
     {
       "start": "05:36:00",
       "end": "05:48:02",
-      "title": "Jon Del Arroz",
+      "title": "Sturgis",
       "entities": [
-        "Jon Del Arroz"
+        "Sturgis"
       ],
-      "summary_seed": "were going to do to me because Gamergate and they were going to rape me.\" >> What? Really? >> Yeah. She did a [ __ ] thing where she's like, \"Oh my god, like I SEE A GUY IN like a [ __ ] gamer t-shirt and like immediately because like men are so toxic online and gamers suck so bad that like I was scared.\" >> I've only ever seen like >> I've only ever seen her like like Will Weaton doing like you know like normal like",
-      "clip_likelihood": false,
-      "transition_markers": 1
+      "possible_clip": false,
+      "summary_seed": "were going to do to me because Gamergate and they were going to rape me.\" >> What? Really? >> Yeah. She did a [ __ ] thing where she's like, \"Oh my god, like I SEE A GUY IN like a [ __ ] gamer t-shirt and like immediately because like men are so toxic online and gamers suck so bad that like I was scared.\" >> I've only ever seen like >> I've only ev"
     },
     {
       "start": "05:48:04",
       "end": "06:00:01",
-      "title": "General discussion",
-      "entities": [],
-      "summary_seed": ">> He's taking a picture of the map, bud. Look at the beavers, bud. Winona got a big brown beaver, bud. A lot of people don't know that, bud. What is that? Is that Bedoff? Is that the the bedoff Pokemon? >> Nice beaver shot there. >> Supposed to be Ryhorns. Take down hill. That's why you see all the Ryhorns. >> Those aren't Kanto Pokemon. >> Yeah. Yes. They're just walking around in a children's park is a big O again",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "title": "Sturgis",
+      "entities": [
+        "Sturgis"
+      ],
+      "possible_clip": false,
+      "summary_seed": ">> He's taking a picture of the map, bud. Look at the beavers, bud. Winona got a big brown beaver, bud. A lot of people don't know that, bud. What is that? Is that Bedoff? Is that the the bedoff Pokemon? >> Nice beaver shot there. >> Supposed to be Ryhorns. Take down hill. That's why you see all the Ryhorns. >> Those aren't Kanto Pokemon. >> Yeah."
     },
     {
       "start": "06:00:01",
       "end": "06:12:00",
-      "title": "General discussion",
-      "entities": [],
-      "summary_seed": ">> Oh, decade. [ __ ] >> [ __ ] I don't go to the theater much anymore. Trying to think of the last, you know, the last movie I went to. >> No, in the last 10 years. That's >> I [clears throat] know that that is in the last 10 years. I would say No Way Home. Uh not No Way Home, but uh the [ __ ] the last one? The last Spider-Man movie. >> That was pretty great. Was it No Way Home? What the [ __ ] is it? And >> uh End",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "title": "Sturgis",
+      "entities": [
+        "Sturgis"
+      ],
+      "possible_clip": false,
+      "summary_seed": ">> Oh, decade. [ __ ] >> [ __ ] I don't go to the theater much anymore. Trying to think of the last, you know, the last movie I went to. >> No, in the last 10 years. That's >> I [clears throat] know that that is in the last 10 years. I would say No Way Home. Uh not No Way Home, but uh the [ __ ] the last one? The last Spider-Man movie. >> That was"
     },
     {
       "start": "06:12:00",
       "end": "06:24:00",
-      "title": "General discussion",
-      "entities": [],
-      "summary_seed": "[laughter] >> Lungren. Okay. >> So, Lungren as Thor. Um, who would be the Wasp. It's got to be a female actress that's from the 90s. Who would >> Sandra Bulock? >> Yeah. You know what? Sandra Bulock probably would do a good [ __ ] Wasp. Sandra Bulock. Perfect. Yeah. Yeah. >> So, now we need a Iron Man. Who would be Iron Man? >> Tom Cruz. People said Tom Cruz was going to be the Iron Man. I guess we should go with tha",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "title": "Sturgis",
+      "entities": [
+        "Sturgis"
+      ],
+      "possible_clip": false,
+      "summary_seed": "[laughter] >> Lungren. Okay. >> So, Lungren as Thor. Um, who would be the Wasp. It's got to be a female actress that's from the 90s. Who would >> Sandra Bulock? >> Yeah. You know what? Sandra Bulock probably would do a good [ __ ] Wasp. Sandra Bulock. Perfect. Yeah. Yeah. >> So, now we need a Iron Man. Who would be Iron Man? >> Tom Cruz. People sai"
     },
     {
       "start": "06:24:02",
       "end": "06:25:14",
       "title": "General discussion",
       "entities": [],
-      "summary_seed": ">> It's all the questions. And as you can see, I will answer the questions even if they are uncomfortable, even if they are um [ __ ] that I shouldn't be answering. I could have just avoided that, right? But it is what it is. All right. Uh, thank you guys for watching. 44 of you hung out for the entirety of the show, I think. Um, as we meandered through some Veto content, some uh, Sturgeis content, and of course, we",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "possible_clip": false,
+      "summary_seed": ">> It's all the questions. And as you can see, I will answer the questions even if they are uncomfortable, even if they are um [ __ ] that I shouldn't be answering. I could have just avoided that, right? But it is what it is. All right. Uh, thank you guys for watching. 44 of you hung out for the entirety of the show, I think. Um, as we meandered th"
     }
   ],
   "claim_candidates": [
     {
-      "claimant": "Every time he",
-      "claim": "he's gone, he like increases his output.",
-      "timestamp": "00:03",
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Sturgis"
+      ],
+      "claim": "Uh, a week ago, if you had asked me if Sturgis or Synynic was more was more likely to have hit on a chick using hentai and to have been catfished by a man, I would have said it was 50/50.",
+      "timestamp": "04:24:03",
       "status": "candidate_claim",
-      "receipt": "Every time he says he's gone, he like increases his output."
-    },
-    {
-      "claimant": "haven't heard it um to but uh I basically",
-      "claim": "I enjoyed the content that he made that um that video right and I offered to fund new videos.",
-      "timestamp": "00:03",
-      "status": "candidate_claim",
-      "receipt": "Uh you probably haven't heard it um to but uh I basically said I enjoyed the content that he made that um that video right and I offered to fund new videos."
+      "confidence": 0.55,
+      "receipt": "Uh, a week ago, if you had asked me if Sturgis or Synynic was more was more likely to have hit on a chick using hentai and to have been catfished by a man, I would have said it was 50/50."
     },
     {
       "claimant": "unknown speaker",
-      "claim": "I know the history of uh the alphabet enough to know.",
-      "timestamp": "00:03",
+      "subjects": [
+        "Sturgis"
+      ],
+      "claim": "Do you think Sturgis is [laughter] Nana Ju says, \"Uh, I took my sister to the Power Ranger show.\" Nice.",
+      "timestamp": "05:12:00",
+      "status": "candidate_claim",
+      "confidence": 0.55,
+      "receipt": "Do you think Sturgis is [laughter] Nana Ju says, \"Uh, I took my sister to the Power Ranger show.\" Nice."
+    },
+    {
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Sturgis"
+      ],
+      "claim": "Um, I know over here in America, like Sturgis is American, right?",
+      "timestamp": "05:00:01",
+      "status": "candidate_claim",
+      "confidence": 0.55,
+      "receipt": "Um, I know over here in America, like Sturgis is American, right?"
+    },
+    {
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Sturgis"
+      ],
+      "claim": "Uh I know you're probably watching because you always like Sturgis he his friends will tell him one of his like Tony was watching your video.",
+      "timestamp": "04:00:01",
       "status": "opinion_or_inference",
-      "receipt": "So, I think I know the history of uh the alphabet enough to know."
-    },
-    {
-      "claimant": "we're going to go with that uh because I",
-      "claim": "it and that's how this show.",
-      "timestamp": "00:03",
-      "status": "candidate_claim",
-      "receipt": "I don't know if that's uh accurate historically, but we're going to go with that uh because I said it and that's how this show."
+      "confidence": 0.42,
+      "receipt": "Uh I know you're probably watching because you always like Sturgis he his friends will tell him one of his like Tony was watching your video."
     },
     {
       "claimant": "unknown speaker",
-      "claim": "I'm kind of an [ __ ] and I'm always like, \"Fuck you guys.",
-      "timestamp": "12:01",
-      "status": "candidate_claim",
-      "receipt": "I know I'm kind of an [ __ ] and I'm always like, \"Fuck you guys."
-    },
-    {
-      "claimant": "Cosmic",
-      "claim": "I am his her first subscriber.",
-      "timestamp": "12:01",
-      "status": "candidate_claim",
-      "receipt": "Cosmic says I am his her first subscriber."
-    },
-    {
-      "claimant": "Jay Woo",
-      "claim": "Riley's crashing out on Twitter and blaming Katie for letting Veto on.",
-      "timestamp": "12:01",
-      "status": "candidate_claim",
-      "receipt": "Jay Woo says Riley's crashing out on Twitter and blaming Katie for letting Veto on."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "so.",
-      "timestamp": "12:01",
+      "subjects": [
+        "Sturgis"
+      ],
+      "claim": "I think Sturgis doesn't know how to regulate his emotions.",
+      "timestamp": "04:48:00",
       "status": "opinion_or_inference",
-      "receipt": "I've never played spades, but I believe so."
+      "confidence": 0.42,
+      "receipt": "I think Sturgis doesn't know how to regulate his emotions."
     },
     {
       "claimant": "unknown speaker",
-      "claim": "uh you're trying to score tricks is what me and TJ did in Las Vegas.",
-      "timestamp": "12:01",
-      "status": "hearsay_candidate",
-      "receipt": "I heard uh you're trying to score tricks is what me and TJ did in Las Vegas."
-    },
-    {
-      "claimant": "Angela",
-      "claim": "that belly is crying out for butterfly kisses.",
-      "timestamp": "12:01",
-      "status": "candidate_claim",
-      "receipt": "Angela says that belly is crying out for butterfly kisses."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "they can send you a letter.",
-      "timestamp": "12:01",
+      "subjects": [
+        "Sturgis"
+      ],
+      "claim": "I I think that arm that hand is too old for Sturgis.",
+      "timestamp": "04:48:00",
       "status": "opinion_or_inference",
-      "receipt": "No, I [snorts] I I I think they can send you a letter."
-    },
-    {
-      "claimant": "Share this",
-      "claim": "uh your account has been temporarily limited.",
-      "timestamp": "24:00",
-      "status": "candidate_claim",
-      "receipt": "Share this says uh your account has been temporarily limited."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "they've made a mistake.",
-      "timestamp": "24:00",
-      "status": "opinion_or_inference",
-      "receipt": "I believe they've made a mistake."
-    },
-    {
-      "claimant": "It says it",
-      "claim": "this uh this tweet has violated uh blah blah blah blah blah.",
-      "timestamp": "24:00",
-      "status": "candidate_claim",
-      "receipt": "It says it says this uh this tweet has violated uh blah blah blah blah blah."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "we still have the video, right?",
-      "timestamp": "24:00",
-      "status": "opinion_or_inference",
-      "receipt": "But I believe we still have the video, right?"
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "I've downloaded uh that particular video.",
-      "timestamp": "24:00",
-      "status": "opinion_or_inference",
-      "receipt": "I believe I've downloaded uh that particular video."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "Fimbar got it.",
-      "timestamp": "24:00",
-      "status": "candidate_claim",
-      "receipt": "Was it Did he put it I because I know Fimbar got it."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "they are obligated.",
-      "timestamp": "24:00",
-      "status": "opinion_or_inference",
-      "receipt": "Like, if he was in the contract that he's executive producer, then I think they are obligated."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "you watched all that [ __ ] [snorts] It's really good.",
-      "timestamp": "24:00",
-      "status": "candidate_claim",
-      "receipt": "I know you watched all that [ __ ] [snorts] It's really good."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "like there was a big uh vampire thing with Dracula and like taking Storm as his bride or some [ __ ] because there's like what ifs about it.",
-      "timestamp": "24:00",
-      "status": "candidate_claim",
-      "receipt": "I know like there was a big uh vampire thing with Dracula and like taking Storm as his bride or some [ __ ] because there's like what ifs about it."
-    },
-    {
-      "claimant": "it even",
-      "claim": "in the video, everything is blacked out.",
-      "timestamp": "36:00",
-      "status": "candidate_claim",
-      "receipt": "As you can see, it even says in the video, everything is blacked out."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "I think we need to put this in context, right?",
-      "timestamp": "36:00",
-      "status": "opinion_or_inference",
-      "receipt": "wait, I I think I think we need to put this in context, right?"
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "it's the voice of God, is it?",
-      "timestamp": "36:00",
-      "status": "opinion_or_inference",
-      "receipt": "I think it's the voice of God, is it?"
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "we need further context.",
-      "timestamp": "36:00",
-      "status": "opinion_or_inference",
-      "receipt": "But I think we need further context."
-    },
-    {
-      "claimant": "This is the guy that",
-      "claim": "he was on the football team in high school without irony with his complete chest.",
-      "timestamp": "36:00",
-      "status": "candidate_claim",
-      "receipt": "This is the guy that said he was on the football team in high school without irony with his complete chest."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "he was in the library watching from the library.",
-      "timestamp": "36:00",
-      "status": "opinion_or_inference",
-      "receipt": "I think he was in the library watching from the library."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "he does do a lot of charity work to be perfectly honest.",
-      "timestamp": "36:00",
-      "status": "opinion_or_inference",
-      "receipt": "I think he does do a lot of charity work to be perfectly honest."
-    },
-    {
-      "claimant": "he was on he was on ABS's stream and he",
-      "claim": "he was 51, right?",
-      "timestamp": "36:00",
-      "status": "candidate_claim",
-      "receipt": "Hey, um he was on he was on ABS's stream and he said he was 51, right?"
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "him, I thought something was off with his voice.",
-      "timestamp": "48:01",
-      "status": "hearsay_candidate",
-      "receipt": "The first time I heard him, I thought something was off with his voice."
-    },
-    {
-      "claimant": "all I've ever",
-      "claim": "about Cynic is that he's a spur and he was here to [ __ ] stuff up.",
-      "timestamp": "48:01",
-      "status": "candidate_claim",
-      "receipt": "And I all all I've ever exerted, all I've ever said about Cynic is that he's a spur and he was here to [ __ ] stuff up."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "it should have been whispered.",
-      "timestamp": "48:01",
-      "status": "opinion_or_inference",
-      "receipt": "I think it should have been whispered."
-    },
-    {
-      "claimant": "I know Dick Dick",
-      "claim": "that he was going to do Biggest Problem for the rest of the month, right?",
-      "timestamp": "01:00:02",
-      "status": "candidate_claim",
-      "receipt": "I know Dick Dick said that he was going to do Biggest Problem for the rest of the month, right?"
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "he's going to call off for the rest of the rest of July.",
-      "timestamp": "01:00:02",
-      "status": "opinion_or_inference",
-      "receipt": "no, I think he's going to call off for the rest of the rest of July."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "we already had a last episode.",
-      "timestamp": "01:00:02",
-      "status": "opinion_or_inference",
-      "receipt": "I think we already had a last episode."
-    },
-    {
-      "claimant": "Riley",
-      "claim": "that Veto was disowned by his family.",
-      "timestamp": "01:00:02",
-      "status": "candidate_claim",
-      "receipt": "Riley claims that Veto was disowned by his family."
-    },
-    {
-      "claimant": "He says last night he",
-      "claim": "this didn't existed and then he deleted it.",
-      "timestamp": "01:00:02",
-      "status": "candidate_claim",
-      "receipt": "He says last night he said this didn't existed and then he deleted it."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "there's people in all everyone's family, right?",
-      "timestamp": "01:00:02",
-      "status": "opinion_or_inference",
-      "receipt": "I think there's people in all everyone's family, right?"
-    },
-    {
-      "claimant": "Sadu",
-      "claim": "the one with the [ __ ] voice.",
-      "timestamp": "01:00:02",
-      "status": "candidate_claim",
-      "receipt": "So, uh the first one says, \"Who's the local again?\" Uh, Sadu says the one with the [ __ ] voice."
-    },
-    {
-      "claimant": "MC",
-      "claim": "every single person in this video.",
-      "timestamp": "01:00:02",
-      "status": "candidate_claim",
-      "receipt": "MC says every single person in this video."
-    },
-    {
-      "claimant": "Embarrassed user",
-      "claim": "sounds like this.",
-      "timestamp": "01:00:02",
-      "status": "candidate_claim",
-      "receipt": "Embarrassed user says sounds like this."
+      "confidence": 0.42,
+      "receipt": "I I think that arm that hand is too old for Sturgis."
     }
   ],
   "quote_candidates": [
     {
       "timestamp": "12:01",
       "text": "They haven't called me and told me that I'm fired.",
-      "significance_score": 2
+      "subjects": [],
+      "significance_score": 1
     },
     {
       "timestamp": "12:01",
       "text": "That's that's they have to actually I have to be there to be fired, right?",
-      "significance_score": 2
+      "subjects": [],
+      "significance_score": 1
     },
     {
       "timestamp": "12:01",
       "text": "That means I have like two weeks before I I'm fired.",
-      "significance_score": 2
+      "subjects": [],
+      "significance_score": 1
     },
     {
       "timestamp": "24:00",
       "text": "Uh they fired him for being a perve.",
-      "significance_score": 2
+      "subjects": [],
+      "significance_score": 1
     },
     {
       "timestamp": "24:00",
       "text": "Oh, well, we fired him, so we we're going to take his name off.",
-      "significance_score": 2
-    },
-    {
-      "timestamp": "01:24:01",
-      "text": "Riley's threatening him in real life.",
-      "significance_score": 2
-    },
-    {
-      "timestamp": "01:24:01",
-      "text": "He's he's threatening Veto's life, saying the only thing keeping you safe was being on Dick's leash, quote unquote.",
-      "significance_score": 2
-    },
-    {
-      "timestamp": "01:48:00",
-      "text": "Uh, and I thought I had anger issues.",
-      "significance_score": 2
-    },
-    {
-      "timestamp": "02:12:01",
-      "text": "I guess gave up on Leo and now he's got to make threats at Veto.",
-      "significance_score": 2
-    },
-    {
-      "timestamp": "06:12:00",
-      "text": "Just got the trade of the first run and the first issues of the next.",
-      "significance_score": 2
-    },
-    {
-      "timestamp": "00:03",
-      "text": "The froggers hit the road never looking [music] back.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "12:01",
-      "text": "Man, we're never going to get through this intro if everyone keeps giving us such respect.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "12:01",
-      "text": "I know I'm kind of an [ __ ] and I'm always like, \"Fuck you guys.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "12:01",
-      "text": "He's always been polite, funny, like he's always the same way to me on Twitter.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "12:01",
-      "text": "We're I'm definitely never going to work uh tomorrow and then maybe never ever again, right?",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "12:01",
-      "text": "I've never played spades, but I believe so.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "12:01",
-      "text": "I don't That's why I've never played Yuger.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "12:01",
-      "text": "I've never played like white people things.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "12:01",
-      "text": "[snorts] Um, when someone asks you if you want to play 52 pickup, never say yes.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "12:01",
-      "text": "I used to take pictures like whenever I would see like a car crash or something, I would take pictures and save them on my phone to use for an excuse later, right?",
+      "subjects": [],
       "significance_score": 1
     }
   ],
   "relationship_signals": [
     {
-      "left": "Sturgis",
-      "right": "Vito Gesualdi",
-      "signal_type": "criticised",
-      "timestamp": "12:01",
-      "confidence": 0.45,
-      "receipt": "STIRER. That's cool and perfectly fine. yada yada yada. Has some things on my mind. It's great. Happy being here walking and strolling on the SIDEWALKS OF CHICAGO. WOO! COOKING AND SMOKING. SAYS, \"HEY, I'm a fan. I'm a Sturgis fan now. He is great. An an above average American, well behaved, not annoying or disruptive.\" I mean, that's just what we see on video. I don't think Sturgis is stupid enough to actually film himself being disruptive.",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Sturgis",
-      "right": "Vito Gesualdi",
-      "signal_type": "separation",
-      "timestamp": "12:01",
-      "confidence": 0.45,
-      "receipt": "STIRER. That's cool and perfectly fine. yada yada yada. Has some things on my mind. It's great. Happy being here walking and strolling on the SIDEWALKS OF CHICAGO. WOO! COOKING AND SMOKING. SAYS, \"HEY, I'm a fan. I'm a Sturgis fan now. He is great. An an above average American, well behaved, not annoying or disruptive.\" I mean, that's just what we see on video. I don't think Sturgis is stupid enough to actually film himself being disruptive.",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
-      "right": "Stray Beans",
-      "signal_type": "defended",
-      "timestamp": "24:00",
-      "confidence": 0.45,
-      "receipt": "he dwarf does not want you to see. >> The banned video. My gosh. Oh, we don't get hit. >> I'm sure we'll be okay. There's no way. There's there. Come on. Again, this is us we're talking about. >> Otherwise, he'll become Liam Gray. He'll become the quarter ring. We'll see. I challenge you with war. >> So, uh here here was Finnbar. As you can see, Finnbar Saunders 12:21 p.m. my time, July 9th. He says, \"Here's Johnny, which says, \"We have reviewed",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
       "left": "Liam Gray",
       "right": "Stray Beans",
       "signal_type": "separation",
       "timestamp": "24:00",
-      "confidence": 0.45,
-      "receipt": "he dwarf does not want you to see. >> The banned video. My gosh. Oh, we don't get hit. >> I'm sure we'll be okay. There's no way. There's there. Come on. Again, this is us we're talking about. >> Otherwise, he'll become Liam Gray. He'll become the quarter ring. We'll see. I challenge you with war. >> So, uh here here was Finnbar. As you can see, Finnbar Saunders 12:21 p.m. my time, July 9th. He says, \"Here's Johnny, which says, \"We have reviewed",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Dick Masterson",
-      "right": "Sturgis",
-      "signal_type": "criticised",
-      "timestamp": "01:00:02",
-      "confidence": 0.45,
-      "receipt": ">> there's no um biggest problem tonight. I know Dick Dick said that he was going to do Biggest Problem for the rest of the month, right? >> Till July, but uh the first show after he made the announcement, uh he's called off. >> You think they'll have a big blowout final episode or No, >> no, I think he's going to call off for the rest of the rest of July. >> I think that's it. I think we already had a last episode. >> Wow, that would b",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Dick Masterson",
-      "right": "Liam Gray",
-      "signal_type": "criticised",
-      "timestamp": "01:00:02",
-      "confidence": 0.45,
-      "receipt": ">> there's no um biggest problem tonight. I know Dick Dick said that he was going to do Biggest Problem for the rest of the month, right? >> Till July, but uh the first show after he made the announcement, uh he's called off. >> You think they'll have a big blowout final episode or No, >> no, I think he's going to call off for the rest of the rest of July. >> I think that's it. I think we already had a last episode. >> Wow, that would b",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Dick Masterson",
-      "right": "Frog Tony",
-      "signal_type": "criticised",
-      "timestamp": "01:00:02",
-      "confidence": 0.45,
-      "receipt": ">> there's no um biggest problem tonight. I know Dick Dick said that he was going to do Biggest Problem for the rest of the month, right? >> Till July, but uh the first show after he made the announcement, uh he's called off. >> You think they'll have a big blowout final episode or No, >> no, I think he's going to call off for the rest of the rest of July. >> I think that's it. I think we already had a last episode. >> Wow, that would b",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Dick Masterson",
-      "right": "Vito Gesualdi",
-      "signal_type": "criticised",
-      "timestamp": "01:00:02",
-      "confidence": 0.45,
-      "receipt": ">> there's no um biggest problem tonight. I know Dick Dick said that he was going to do Biggest Problem for the rest of the month, right? >> Till July, but uh the first show after he made the announcement, uh he's called off. >> You think they'll have a big blowout final episode or No, >> no, I think he's going to call off for the rest of the rest of July. >> I think that's it. I think we already had a last episode. >> Wow, that would b",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Dick Masterson",
-      "right": "Ethan Van Sciver",
-      "signal_type": "criticised",
-      "timestamp": "01:00:02",
-      "confidence": 0.45,
-      "receipt": ">> there's no um biggest problem tonight. I know Dick Dick said that he was going to do Biggest Problem for the rest of the month, right? >> Till July, but uh the first show after he made the announcement, uh he's called off. >> You think they'll have a big blowout final episode or No, >> no, I think he's going to call off for the rest of the rest of July. >> I think that's it. I think we already had a last episode. >> Wow, that would b",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Dick Masterson",
-      "right": "Eric July",
-      "signal_type": "criticised",
-      "timestamp": "01:00:02",
-      "confidence": 0.45,
-      "receipt": ">> there's no um biggest problem tonight. I know Dick Dick said that he was going to do Biggest Problem for the rest of the month, right? >> Till July, but uh the first show after he made the announcement, uh he's called off. >> You think they'll have a big blowout final episode or No, >> no, I think he's going to call off for the rest of the rest of July. >> I think that's it. I think we already had a last episode. >> Wow, that would b",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Sturgis",
-      "right": "Liam Gray",
-      "signal_type": "criticised",
-      "timestamp": "01:00:02",
-      "confidence": 0.45,
-      "receipt": "tream the other day, he said, \"When Riley gets on mic with me, he looks like a [ __ ] idiot.\" And he looks like a [ __ ] idiot. Straight up. >> Surprise. Yeah. >> Yes. >> That's true. >> I will unsub if you don't get to Sturgis in Japan. We We're going to get there, Pit. We're going to [laughter] get there. I promise. >> It might be a minute, >> but we will get there. Okay. Says, \"Leave your own comments on the Rumble page and you may get them",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Sturgis",
-      "right": "Frog Tony",
-      "signal_type": "criticised",
-      "timestamp": "01:00:02",
-      "confidence": 0.45,
-      "receipt": "tream the other day, he said, \"When Riley gets on mic with me, he looks like a [ __ ] idiot.\" And he looks like a [ __ ] idiot. Straight up. >> Surprise. Yeah. >> Yes. >> That's true. >> I will unsub if you don't get to Sturgis in Japan. We We're going to get there, Pit. We're going to [laughter] get there. I promise. >> It might be a minute, >> but we will get there. Okay. Says, \"Leave your own comments on the Rumble page and you may get them",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Sturgis",
-      "right": "Vito Gesualdi",
-      "signal_type": "criticised",
-      "timestamp": "01:00:02",
-      "confidence": 0.45,
-      "receipt": "tream the other day, he said, \"When Riley gets on mic with me, he looks like a [ __ ] idiot.\" And he looks like a [ __ ] idiot. Straight up. >> Surprise. Yeah. >> Yes. >> That's true. >> I will unsub if you don't get to Sturgis in Japan. We We're going to get there, Pit. We're going to [laughter] get there. I promise. >> It might be a minute, >> but we will get there. Okay. Says, \"Leave your own comments on the Rumble page and you may get them",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Sturgis",
-      "right": "Ethan Van Sciver",
-      "signal_type": "criticised",
-      "timestamp": "01:00:02",
-      "confidence": 0.45,
-      "receipt": "tream the other day, he said, \"When Riley gets on mic with me, he looks like a [ __ ] idiot.\" And he looks like a [ __ ] idiot. Straight up. >> Surprise. Yeah. >> Yes. >> That's true. >> I will unsub if you don't get to Sturgis in Japan. We We're going to get there, Pit. We're going to [laughter] get there. I promise. >> It might be a minute, >> but we will get there. Okay. Says, \"Leave your own comments on the Rumble page and you may get them",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Sturgis",
-      "right": "Eric July",
-      "signal_type": "criticised",
-      "timestamp": "01:00:02",
-      "confidence": 0.45,
-      "receipt": "tream the other day, he said, \"When Riley gets on mic with me, he looks like a [ __ ] idiot.\" And he looks like a [ __ ] idiot. Straight up. >> Surprise. Yeah. >> Yes. >> That's true. >> I will unsub if you don't get to Sturgis in Japan. We We're going to get there, Pit. We're going to [laughter] get there. I promise. >> It might be a minute, >> but we will get there. Okay. Says, \"Leave your own comments on the Rumble page and you may get them",
-      "warning": "co-mention plus language signal; requires interpretation"
+      "confidence": 0.48,
+      "receipt": "e banned video. My gosh. Oh, we don't get hit. >> I'm sure we'll be okay. There's no way. There's there. Come on. Again, this is us we're talking about. >> Otherwise, he'll become Liam Gray. He'll become the quarter ring. We'll see. I challenge you with war. >> So, uh here here was Finnbar. As you can see, Finnbar Saunders 12:21 p.m. my time, July 9th. He says, \"Here",
+      "warning": "candidate relationship evidence; requires review"
     },
     {
       "left": "Liam Gray",
-      "right": "Frog Tony",
-      "signal_type": "criticised",
-      "timestamp": "01:00:02",
-      "confidence": 0.45,
-      "receipt": "t, folks. Hail CG. Hail CG. I totally understand. Things will be changing soon, says Katie. No, they won't. >> How will they be changing? Yeah. How will they be changing? [laughter] >> I'M NO LONGER GOING TO BE clipping Liam Gray. Next day clips Liam Gray. I'm no longer going to be clipping uh CG drama. Ethan, I'm only going to clip Eric July for you. Next day, nothing but CG drama. When was the last time you clipped Eric July? You built your ch",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
-      "right": "Vito Gesualdi",
-      "signal_type": "criticised",
-      "timestamp": "01:00:02",
-      "confidence": 0.45,
-      "receipt": "t, folks. Hail CG. Hail CG. I totally understand. Things will be changing soon, says Katie. No, they won't. >> How will they be changing? Yeah. How will they be changing? [laughter] >> I'M NO LONGER GOING TO BE clipping Liam Gray. Next day clips Liam Gray. I'm no longer going to be clipping uh CG drama. Ethan, I'm only going to clip Eric July for you. Next day, nothing but CG drama. When was the last time you clipped Eric July? You built your ch",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
-      "right": "Ethan Van Sciver",
-      "signal_type": "criticised",
-      "timestamp": "01:00:02",
-      "confidence": 0.45,
-      "receipt": "t, folks. Hail CG. Hail CG. I totally understand. Things will be changing soon, says Katie. No, they won't. >> How will they be changing? Yeah. How will they be changing? [laughter] >> I'M NO LONGER GOING TO BE clipping Liam Gray. Next day clips Liam Gray. I'm no longer going to be clipping uh CG drama. Ethan, I'm only going to clip Eric July for you. Next day, nothing but CG drama. When was the last time you clipped Eric July? You built your ch",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
-      "right": "Eric July",
-      "signal_type": "criticised",
-      "timestamp": "01:00:02",
-      "confidence": 0.45,
-      "receipt": "t, folks. Hail CG. Hail CG. I totally understand. Things will be changing soon, says Katie. No, they won't. >> How will they be changing? Yeah. How will they be changing? [laughter] >> I'M NO LONGER GOING TO BE clipping Liam Gray. Next day clips Liam Gray. I'm no longer going to be clipping uh CG drama. Ethan, I'm only going to clip Eric July for you. Next day, nothing but CG drama. When was the last time you clipped Eric July? You built your ch",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Frog Tony",
-      "right": "Vito Gesualdi",
-      "signal_type": "criticised",
-      "timestamp": "01:00:02",
-      "confidence": 0.45,
-      "receipt": ">> there's no um biggest problem tonight. I know Dick Dick said that he was going to do Biggest Problem for the rest of the month, right? >> Till July, but uh the first show after he made the announcement, uh he's called off. >> You think they'll have a big blowout final episode or No, >> no, I think he's going to call off for the rest of the rest of July. >> I think that's it. I think we already had a last episode. >> Wow, that would b",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Frog Tony",
-      "right": "Ethan Van Sciver",
-      "signal_type": "criticised",
-      "timestamp": "01:00:02",
-      "confidence": 0.45,
-      "receipt": ">> there's no um biggest problem tonight. I know Dick Dick said that he was going to do Biggest Problem for the rest of the month, right? >> Till July, but uh the first show after he made the announcement, uh he's called off. >> You think they'll have a big blowout final episode or No, >> no, I think he's going to call off for the rest of the rest of July. >> I think that's it. I think we already had a last episode. >> Wow, that would b",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Frog Tony",
-      "right": "Eric July",
-      "signal_type": "criticised",
-      "timestamp": "01:00:02",
-      "confidence": 0.45,
-      "receipt": ">> there's no um biggest problem tonight. I know Dick Dick said that he was going to do Biggest Problem for the rest of the month, right? >> Till July, but uh the first show after he made the announcement, uh he's called off. >> You think they'll have a big blowout final episode or No, >> no, I think he's going to call off for the rest of the rest of July. >> I think that's it. I think we already had a last episode. >> Wow, that would b",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Vito Gesualdi",
-      "right": "Ethan Van Sciver",
-      "signal_type": "criticised",
-      "timestamp": "01:00:02",
-      "confidence": 0.45,
-      "receipt": ">> there's no um biggest problem tonight. I know Dick Dick said that he was going to do Biggest Problem for the rest of the month, right? >> Till July, but uh the first show after he made the announcement, uh he's called off. >> You think they'll have a big blowout final episode or No, >> no, I think he's going to call off for the rest of the rest of July. >> I think that's it. I think we already had a last episode. >> Wow, that would b",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Vito Gesualdi",
-      "right": "Eric July",
-      "signal_type": "criticised",
-      "timestamp": "01:00:02",
-      "confidence": 0.45,
-      "receipt": ">> there's no um biggest problem tonight. I know Dick Dick said that he was going to do Biggest Problem for the rest of the month, right? >> Till July, but uh the first show after he made the announcement, uh he's called off. >> You think they'll have a big blowout final episode or No, >> no, I think he's going to call off for the rest of the rest of July. >> I think that's it. I think we already had a last episode. >> Wow, that would b",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Ethan Van Sciver",
-      "right": "Eric July",
-      "signal_type": "criticised",
-      "timestamp": "01:00:02",
-      "confidence": 0.45,
-      "receipt": ">> there's no um biggest problem tonight. I know Dick Dick said that he was going to do Biggest Problem for the rest of the month, right? >> Till July, but uh the first show after he made the announcement, uh he's called off. >> You think they'll have a big blowout final episode or No, >> no, I think he's going to call off for the rest of the rest of July. >> I think that's it. I think we already had a last episode. >> Wow, that would b",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Dick Masterson",
-      "right": "Sturgis",
-      "signal_type": "promoted",
-      "timestamp": "01:00:02",
-      "confidence": 0.45,
-      "receipt": ">> there's no um biggest problem tonight. I know Dick Dick said that he was going to do Biggest Problem for the rest of the month, right? >> Till July, but uh the first show after he made the announcement, uh he's called off. >> You think they'll have a big blowout final episode or No, >> no, I think he's going to call off for the rest of the rest of July. >> I think that's it. I think we already had a last episode. >> Wow, that would b",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Dick Masterson",
-      "right": "Liam Gray",
-      "signal_type": "promoted",
-      "timestamp": "01:00:02",
-      "confidence": 0.45,
-      "receipt": ">> there's no um biggest problem tonight. I know Dick Dick said that he was going to do Biggest Problem for the rest of the month, right? >> Till July, but uh the first show after he made the announcement, uh he's called off. >> You think they'll have a big blowout final episode or No, >> no, I think he's going to call off for the rest of the rest of July. >> I think that's it. I think we already had a last episode. >> Wow, that would b",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Dick Masterson",
-      "right": "Frog Tony",
-      "signal_type": "promoted",
-      "timestamp": "01:00:02",
-      "confidence": 0.45,
-      "receipt": ">> there's no um biggest problem tonight. I know Dick Dick said that he was going to do Biggest Problem for the rest of the month, right? >> Till July, but uh the first show after he made the announcement, uh he's called off. >> You think they'll have a big blowout final episode or No, >> no, I think he's going to call off for the rest of the rest of July. >> I think that's it. I think we already had a last episode. >> Wow, that would b",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Dick Masterson",
-      "right": "Vito Gesualdi",
-      "signal_type": "promoted",
-      "timestamp": "01:00:02",
-      "confidence": 0.45,
-      "receipt": ">> there's no um biggest problem tonight. I know Dick Dick said that he was going to do Biggest Problem for the rest of the month, right? >> Till July, but uh the first show after he made the announcement, uh he's called off. >> You think they'll have a big blowout final episode or No, >> no, I think he's going to call off for the rest of the rest of July. >> I think that's it. I think we already had a last episode. >> Wow, that would b",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Dick Masterson",
-      "right": "Ethan Van Sciver",
-      "signal_type": "promoted",
-      "timestamp": "01:00:02",
-      "confidence": 0.45,
-      "receipt": ">> there's no um biggest problem tonight. I know Dick Dick said that he was going to do Biggest Problem for the rest of the month, right? >> Till July, but uh the first show after he made the announcement, uh he's called off. >> You think they'll have a big blowout final episode or No, >> no, I think he's going to call off for the rest of the rest of July. >> I think that's it. I think we already had a last episode. >> Wow, that would b",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Dick Masterson",
-      "right": "Eric July",
-      "signal_type": "promoted",
-      "timestamp": "01:00:02",
-      "confidence": 0.45,
-      "receipt": ">> there's no um biggest problem tonight. I know Dick Dick said that he was going to do Biggest Problem for the rest of the month, right? >> Till July, but uh the first show after he made the announcement, uh he's called off. >> You think they'll have a big blowout final episode or No, >> no, I think he's going to call off for the rest of the rest of July. >> I think that's it. I think we already had a last episode. >> Wow, that would b",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Sturgis",
-      "right": "Liam Gray",
-      "signal_type": "promoted",
-      "timestamp": "01:00:02",
-      "confidence": 0.45,
-      "receipt": "tream the other day, he said, \"When Riley gets on mic with me, he looks like a [ __ ] idiot.\" And he looks like a [ __ ] idiot. Straight up. >> Surprise. Yeah. >> Yes. >> That's true. >> I will unsub if you don't get to Sturgis in Japan. We We're going to get there, Pit. We're going to [laughter] get there. I promise. >> It might be a minute, >> but we will get there. Okay. Says, \"Leave your own comments on the Rumble page and you may get them",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Sturgis",
-      "right": "Frog Tony",
-      "signal_type": "promoted",
-      "timestamp": "01:00:02",
-      "confidence": 0.45,
-      "receipt": "tream the other day, he said, \"When Riley gets on mic with me, he looks like a [ __ ] idiot.\" And he looks like a [ __ ] idiot. Straight up. >> Surprise. Yeah. >> Yes. >> That's true. >> I will unsub if you don't get to Sturgis in Japan. We We're going to get there, Pit. We're going to [laughter] get there. I promise. >> It might be a minute, >> but we will get there. Okay. Says, \"Leave your own comments on the Rumble page and you may get them",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Sturgis",
-      "right": "Vito Gesualdi",
-      "signal_type": "promoted",
-      "timestamp": "01:00:02",
-      "confidence": 0.45,
-      "receipt": "tream the other day, he said, \"When Riley gets on mic with me, he looks like a [ __ ] idiot.\" And he looks like a [ __ ] idiot. Straight up. >> Surprise. Yeah. >> Yes. >> That's true. >> I will unsub if you don't get to Sturgis in Japan. We We're going to get there, Pit. We're going to [laughter] get there. I promise. >> It might be a minute, >> but we will get there. Okay. Says, \"Leave your own comments on the Rumble page and you may get them",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Sturgis",
-      "right": "Ethan Van Sciver",
-      "signal_type": "promoted",
-      "timestamp": "01:00:02",
-      "confidence": 0.45,
-      "receipt": "tream the other day, he said, \"When Riley gets on mic with me, he looks like a [ __ ] idiot.\" And he looks like a [ __ ] idiot. Straight up. >> Surprise. Yeah. >> Yes. >> That's true. >> I will unsub if you don't get to Sturgis in Japan. We We're going to get there, Pit. We're going to [laughter] get there. I promise. >> It might be a minute, >> but we will get there. Okay. Says, \"Leave your own comments on the Rumble page and you may get them",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Sturgis",
-      "right": "Eric July",
-      "signal_type": "promoted",
-      "timestamp": "01:00:02",
-      "confidence": 0.45,
-      "receipt": "tream the other day, he said, \"When Riley gets on mic with me, he looks like a [ __ ] idiot.\" And he looks like a [ __ ] idiot. Straight up. >> Surprise. Yeah. >> Yes. >> That's true. >> I will unsub if you don't get to Sturgis in Japan. We We're going to get there, Pit. We're going to [laughter] get there. I promise. >> It might be a minute, >> but we will get there. Okay. Says, \"Leave your own comments on the Rumble page and you may get them",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
-      "right": "Frog Tony",
-      "signal_type": "promoted",
-      "timestamp": "01:00:02",
-      "confidence": 0.45,
-      "receipt": "t, folks. Hail CG. Hail CG. I totally understand. Things will be changing soon, says Katie. No, they won't. >> How will they be changing? Yeah. How will they be changing? [laughter] >> I'M NO LONGER GOING TO BE clipping Liam Gray. Next day clips Liam Gray. I'm no longer going to be clipping uh CG drama. Ethan, I'm only going to clip Eric July for you. Next day, nothing but CG drama. When was the last time you clipped Eric July? You built your ch",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
-      "right": "Vito Gesualdi",
-      "signal_type": "promoted",
-      "timestamp": "01:00:02",
-      "confidence": 0.45,
-      "receipt": "t, folks. Hail CG. Hail CG. I totally understand. Things will be changing soon, says Katie. No, they won't. >> How will they be changing? Yeah. How will they be changing? [laughter] >> I'M NO LONGER GOING TO BE clipping Liam Gray. Next day clips Liam Gray. I'm no longer going to be clipping uh CG drama. Ethan, I'm only going to clip Eric July for you. Next day, nothing but CG drama. When was the last time you clipped Eric July? You built your ch",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
-      "right": "Ethan Van Sciver",
-      "signal_type": "promoted",
-      "timestamp": "01:00:02",
-      "confidence": 0.45,
-      "receipt": "t, folks. Hail CG. Hail CG. I totally understand. Things will be changing soon, says Katie. No, they won't. >> How will they be changing? Yeah. How will they be changing? [laughter] >> I'M NO LONGER GOING TO BE clipping Liam Gray. Next day clips Liam Gray. I'm no longer going to be clipping uh CG drama. Ethan, I'm only going to clip Eric July for you. Next day, nothing but CG drama. When was the last time you clipped Eric July? You built your ch",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
-      "right": "Eric July",
-      "signal_type": "promoted",
-      "timestamp": "01:00:02",
-      "confidence": 0.45,
-      "receipt": "t, folks. Hail CG. Hail CG. I totally understand. Things will be changing soon, says Katie. No, they won't. >> How will they be changing? Yeah. How will they be changing? [laughter] >> I'M NO LONGER GOING TO BE clipping Liam Gray. Next day clips Liam Gray. I'm no longer going to be clipping uh CG drama. Ethan, I'm only going to clip Eric July for you. Next day, nothing but CG drama. When was the last time you clipped Eric July? You built your ch",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Frog Tony",
-      "right": "Vito Gesualdi",
-      "signal_type": "promoted",
-      "timestamp": "01:00:02",
-      "confidence": 0.45,
-      "receipt": ">> there's no um biggest problem tonight. I know Dick Dick said that he was going to do Biggest Problem for the rest of the month, right? >> Till July, but uh the first show after he made the announcement, uh he's called off. >> You think they'll have a big blowout final episode or No, >> no, I think he's going to call off for the rest of the rest of July. >> I think that's it. I think we already had a last episode. >> Wow, that would b",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Frog Tony",
-      "right": "Ethan Van Sciver",
-      "signal_type": "promoted",
-      "timestamp": "01:00:02",
-      "confidence": 0.45,
-      "receipt": ">> there's no um biggest problem tonight. I know Dick Dick said that he was going to do Biggest Problem for the rest of the month, right? >> Till July, but uh the first show after he made the announcement, uh he's called off. >> You think they'll have a big blowout final episode or No, >> no, I think he's going to call off for the rest of the rest of July. >> I think that's it. I think we already had a last episode. >> Wow, that would b",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Frog Tony",
-      "right": "Eric July",
-      "signal_type": "promoted",
-      "timestamp": "01:00:02",
-      "confidence": 0.45,
-      "receipt": ">> there's no um biggest problem tonight. I know Dick Dick said that he was going to do Biggest Problem for the rest of the month, right? >> Till July, but uh the first show after he made the announcement, uh he's called off. >> You think they'll have a big blowout final episode or No, >> no, I think he's going to call off for the rest of the rest of July. >> I think that's it. I think we already had a last episode. >> Wow, that would b",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Vito Gesualdi",
-      "right": "Ethan Van Sciver",
-      "signal_type": "promoted",
-      "timestamp": "01:00:02",
-      "confidence": 0.45,
-      "receipt": ">> there's no um biggest problem tonight. I know Dick Dick said that he was going to do Biggest Problem for the rest of the month, right? >> Till July, but uh the first show after he made the announcement, uh he's called off. >> You think they'll have a big blowout final episode or No, >> no, I think he's going to call off for the rest of the rest of July. >> I think that's it. I think we already had a last episode. >> Wow, that would b",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Vito Gesualdi",
-      "right": "Eric July",
-      "signal_type": "promoted",
-      "timestamp": "01:00:02",
-      "confidence": 0.45,
-      "receipt": ">> there's no um biggest problem tonight. I know Dick Dick said that he was going to do Biggest Problem for the rest of the month, right? >> Till July, but uh the first show after he made the announcement, uh he's called off. >> You think they'll have a big blowout final episode or No, >> no, I think he's going to call off for the rest of the rest of July. >> I think that's it. I think we already had a last episode. >> Wow, that would b",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Ethan Van Sciver",
-      "right": "Eric July",
-      "signal_type": "promoted",
-      "timestamp": "01:00:02",
-      "confidence": 0.45,
-      "receipt": ">> there's no um biggest problem tonight. I know Dick Dick said that he was going to do Biggest Problem for the rest of the month, right? >> Till July, but uh the first show after he made the announcement, uh he's called off. >> You think they'll have a big blowout final episode or No, >> no, I think he's going to call off for the rest of the rest of July. >> I think that's it. I think we already had a last episode. >> Wow, that would b",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Dick Masterson",
       "right": "Sturgis",
       "signal_type": "collaborated",
       "timestamp": "01:00:02",
-      "confidence": 0.45,
-      "receipt": ">> there's no um biggest problem tonight. I know Dick Dick said that he was going to do Biggest Problem for the rest of the month, right? >> Till July, but uh the first show after he made the announcement, uh he's called off. >> You think they'll have a big blowout final episode or No, >> no, I think he's going to call off for the rest of the rest of July. >> I think that's it. I think we already had a last episode. >> Wow, that would b",
-      "warning": "co-mention plus language signal; requires interpretation"
+      "confidence": 0.48,
+      "receipt": "derstand. Things will be changing soon, says Katie. No, they won't. >> How will they be changing? Yeah. How will they be changing? [laughter] >> I'M NO LONGER GOING TO BE clipping Liam Gray. Next day clips Liam Gray. I'm no longer going to be clipping uh CG drama. Ethan, I'm only going to clip Eric July for you. Next day, nothing but CG drama. When was the last time",
+      "warning": "candidate relationship evidence; requires review"
     },
     {
-      "left": "Dick Masterson",
-      "right": "Liam Gray",
+      "left": "Liam Gray",
+      "right": "Eric July",
       "signal_type": "collaborated",
       "timestamp": "01:00:02",
-      "confidence": 0.45,
-      "receipt": ">> there's no um biggest problem tonight. I know Dick Dick said that he was going to do Biggest Problem for the rest of the month, right? >> Till July, but uh the first show after he made the announcement, uh he's called off. >> You think they'll have a big blowout final episode or No, >> no, I think he's going to call off for the rest of the rest of July. >> I think that's it. I think we already had a last episode. >> Wow, that would b",
-      "warning": "co-mention plus language signal; requires interpretation"
+      "confidence": 0.48,
+      "receipt": "derstand. Things will be changing soon, says Katie. No, they won't. >> How will they be changing? Yeah. How will they be changing? [laughter] >> I'M NO LONGER GOING TO BE clipping Liam Gray. Next day clips Liam Gray. I'm no longer going to be clipping uh CG drama. Ethan, I'm only going to clip Eric July for you. Next day, nothing but CG drama. When was the last time",
+      "warning": "candidate relationship evidence; requires review"
     },
     {
-      "left": "Dick Masterson",
-      "right": "Frog Tony",
+      "left": "Sturgis",
+      "right": "Eric July",
       "signal_type": "collaborated",
       "timestamp": "01:00:02",
-      "confidence": 0.45,
-      "receipt": ">> there's no um biggest problem tonight. I know Dick Dick said that he was going to do Biggest Problem for the rest of the month, right? >> Till July, but uh the first show after he made the announcement, uh he's called off. >> You think they'll have a big blowout final episode or No, >> no, I think he's going to call off for the rest of the rest of July. >> I think that's it. I think we already had a last episode. >> Wow, that would b",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Dick Masterson",
-      "right": "Vito Gesualdi",
-      "signal_type": "collaborated",
-      "timestamp": "01:00:02",
-      "confidence": 0.45,
-      "receipt": ">> there's no um biggest problem tonight. I know Dick Dick said that he was going to do Biggest Problem for the rest of the month, right? >> Till July, but uh the first show after he made the announcement, uh he's called off. >> You think they'll have a big blowout final episode or No, >> no, I think he's going to call off for the rest of the rest of July. >> I think that's it. I think we already had a last episode. >> Wow, that would b",
-      "warning": "co-mention plus language signal; requires interpretation"
+      "confidence": 0.48,
+      "receipt": "y gets on mic with me, he looks like a [ __ ] idiot.\" And he looks like a [ __ ] idiot. Straight up. >> Surprise. Yeah. >> Yes. >> That's true. >> I will unsub if you don't get to Sturgis in Japan. We We're going to get there, Pit. We're going to [laughter] get there. I promise. >> It might be a minute, >> but we will get there. Okay. Says, \"Leave your own comments",
+      "warning": "candidate relationship evidence; requires review"
     }
   ],
-  "story_matches": [],
+  "story_matches": [
+    {
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.833
+    },
+    {
+      "story_id": "steel-toe-hro",
+      "title": "Steel Toe HRO",
+      "score": 0.667
+    },
+    {
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.6
+    },
+    {
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.5
+    },
+    {
+      "story_id": "nick-rekieta-reputation-fallout",
+      "title": "Nick Rekieta reputation and downfall coverage",
+      "score": 0.5
+    }
+  ],
+  "review_priority": 100,
   "uncertainty_flags": [
-    "speaker identity may be unknown",
+    "speaker attribution may be unknown",
     "clip voices may be mistaken for live participants",
-    "sentiment lexicon does not reliably detect sarcasm",
-    "relationship signals are candidates, not declarations",
-    "claims are not verified facts"
+    "sentiment lexicon cannot reliably detect sarcasm",
+    "claims and relationship signals remain candidates"
   ]
 }

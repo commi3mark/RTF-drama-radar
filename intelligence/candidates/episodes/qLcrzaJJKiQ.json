@@ -1,0 +1,378 @@
+{
+  "schema_version": "octopuss-candidate-episode-v0.1",
+  "video_id": "qLcrzaJJKiQ",
+  "title": "Supergirl BOMBED! - Comicsgate Suburbs",
+  "source": "Frog Tony",
+  "published": "2026-06-29T04:12:59+00:00",
+  "review_priority": 52,
+  "participant_candidates": [
+    {
+      "entity": "Frog Tony",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Frog Tony",
+      "mentions": 10,
+      "block_count": 4,
+      "first_timestamp": "00:00",
+      "last_timestamp": "01:12:02",
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.652,
+        "positive_hits": 19,
+        "negative_hits": 4
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "Yeah. Hey everybody, my name is Evil. [music] Their name is PJ Harvey. Let's go. Mama told me yeah. Life [music] mama told me yeah. Come on. Mama [music] told me one day I'mma grow up big and I'mma be a king. And my papa [music] told me it's okay to sit. Don't forget your dreams cuz they'll get [music] you through this. What life they call living but I call"
+        },
+        {
+          "timestamp": "12:02",
+          "excerpt": "the life of me have not been able to remember, but it was amazing. I have not uh for $7.99 Australian. Stray Bean says, \"Please ask Ottoy and Liam if they saw the Dark Knight Recreated Project and what they thought.\" >> Have you? >> No, I didn't I didn't know anything about it. What's What's this? >> Stray posted it in the um in the suburbs room like a day o"
+        },
+        {
+          "timestamp": "48:01",
+          "excerpt": "college, so they're immediately going to go from from high school to college.\" Also, I don't know if this is like um like if he's like writing this to like get back at the dude that like uh was his high school bully or whatever, but like the bad guy Kaden, not only does he beat him in in the in the big championship game, right? But they also tell you that he"
+        },
+        {
+          "timestamp": "01:00:03",
+          "excerpt": "The also like what what didn't make sense to me. So she gets Salamandroid and I don't know if like some of this is just being um because of the old issues and and you know trying to fit the new story within the confines of the old story, right? >> But they they create Salamandroid and she's like you're Salamandroid and you are going to protect Cyberfrog, rig"
+        }
+      ]
+    },
+    {
+      "entity": "Cyberfrog",
+      "mentions": 10,
+      "block_count": 3,
+      "first_timestamp": "00:00",
+      "last_timestamp": "01:12:02",
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.647,
+        "positive_hits": 14,
+        "negative_hits": 3
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": ">> So, I got obviously the Great War of Separation from the Ripperverse written by Chuck Dixon. So, uh you know, >> yeah, none of you [ __ ] is Chuck Dixon. >> None of them. I got Cyberfrog Blood Honey written by Ethan Vans Skyver and Jeremon. >> Who wrote this? [ __ ] Doesn't say. I guess Jeremiah Love and other people. There's no credit page. I just realized there'"
+        },
+        {
+          "timestamp": "48:01",
+          "excerpt": "oking like a normal football match when it's drawn. That's the problem because you don't really see anything happen. >> So, no no stakes. Not not very good. All right. I also read Cyberfrog Blood Honey. Uh if you have not read Cyberfrog Blood Honey, I'm going to spoil it. So, uh, be aware of that. >> Don't worry. Ethan did that, uh, on one of his streams where he wen"
+        },
+        {
+          "timestamp": "01:00:03",
+          "excerpt": "know trying to fit the new story within the confines of the old story, right? >> But they they create Salamandroid and she's like you're Salamandroid and you are going to protect Cyberfrog, right? She uses their like alien names or whatever, but she's like you're gonna you're gonna protect Cyberfrog. you're going to do it >> two rounds, right? I think. >> Yeah. And"
+        }
+      ]
+    },
+    {
+      "entity": "Liam Gray",
+      "mentions": 10,
+      "block_count": 9,
+      "first_timestamp": "00:00",
+      "last_timestamp": "02:12:01",
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.377,
+        "positive_hits": 42,
+        "negative_hits": 19
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "rs. So I'm guessing the football player just told them the story and then they got someone >> into a actual script, right? >> Yeah. Yeah, that sounds about right. >> What's up Mr. Liam Gray? How you doing? >> Hello. Hello. Hey. How are you, man? I'm doing all right. Bit tired. Bit tired, but I'm doing all right. >> I haven't. So, uh, what you been up to, Oto? It's be"
+        },
+        {
+          "timestamp": "12:02",
+          "excerpt": "the life of me have not been able to remember, but it was amazing. I have not uh for $7.99 Australian. Stray Bean says, \"Please ask Ottoy and Liam if they saw the Dark Knight Recreated Project and what they thought.\" >> Have you? >> No, I didn't I didn't know anything about it. What's What's this? >> Stray posted it in the um in the suburbs room like a day o"
+        },
+        {
+          "timestamp": "24:02",
+          "excerpt": ">> [snorts] >> Uh, when it comes to these things, I am [ __ ] autistic. All right. It's all cape [ __ ] bud. Cape [ __ ] [laughter] >> How you doing, TJ? >> But it is. Um, one I read another Scott Snider book >> because everybody was talking about witches because they were like, \"Oh, look, if you like absolute Batman, you're going to love witches.\" A lot of"
+        },
+        {
+          "timestamp": "36:00",
+          "excerpt": "gets bigger, he gets extra mass and then when he gets smaller, he shutters mass, but because of the density, that's why he maintains the same level of strength as being a normalsized man. >> Okay. >> Because if he shrunk down and he didn't lose mass, if he just shrunk, that would that would be like creating like a black hole almost. >> Yeah. So, >> dude, >>"
+        },
+        {
+          "timestamp": "01:00:03",
+          "excerpt": "The also like what what didn't make sense to me. So she gets Salamandroid and I don't know if like some of this is just being um because of the old issues and and you know trying to fit the new story within the confines of the old story, right? >> But they they create Salamandroid and she's like you're Salamandroid and you are going to protect Cyberfrog, rig"
+        }
+      ]
+    },
+    {
+      "entity": "Ethan Van Sciver",
+      "mentions": 10,
+      "block_count": 4,
+      "first_timestamp": "00:00",
+      "last_timestamp": "01:24:03",
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.579,
+        "positive_hits": 15,
+        "negative_hits": 4
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "Yeah. Hey everybody, my name is Evil. [music] Their name is PJ Harvey. Let's go. Mama told me yeah. Life [music] mama told me yeah. Come on. Mama [music] told me one day I'mma grow up big and I'mma be a king. And my papa [music] told me it's okay to sit. Don't forget your dreams cuz they'll get [music] you through this. What life they call living but I call"
+        },
+        {
+          "timestamp": "48:01",
+          "excerpt": "college, so they're immediately going to go from from high school to college.\" Also, I don't know if this is like um like if he's like writing this to like get back at the dude that like uh was his high school bully or whatever, but like the bad guy Kaden, not only does he beat him in in the in the big championship game, right? But they also tell you that he"
+        },
+        {
+          "timestamp": "01:00:03",
+          "excerpt": "The also like what what didn't make sense to me. So she gets Salamandroid and I don't know if like some of this is just being um because of the old issues and and you know trying to fit the new story within the confines of the old story, right? >> But they they create Salamandroid and she's like you're Salamandroid and you are going to protect Cyberfrog, rig"
+        },
+        {
+          "timestamp": "01:12:02",
+          "excerpt": "know? [laughter] >> No, there's no Beavers and Butt in this, but I'm saying he's at the very I'm just making a joke. You know what I mean? It's like he's [ __ ] around. It's not like he's preparing humanity for the coming swarm or anything. You know what I mean? >> Well, they tell him well in the book. >> Yeah. >> They talk about how like uh humanity doesn't"
+        }
+      ]
+    },
+    {
+      "entity": "ComicsGate",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "02:00:01",
+      "last_timestamp": "02:12:01",
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.375,
+        "positive_hits": 11,
+        "negative_hits": 5
+      },
+      "receipts": [
+        {
+          "timestamp": "02:00:01",
+          "excerpt": ">> Like if you were following Brian Ceri the whole time, right, as he's reacting to the different events as he's going. >> Yeah. So it's not okay. That's >> so Yeah. So it's just jumps from like here's these characters doing stuff, here's these characters. There's no like this is what's important right now. There's an earlier shot in the book uh where they c"
+        }
+      ]
+    },
+    {
+      "entity": "Eric July",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "02:00:01",
+      "last_timestamp": "02:12:01",
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.375,
+        "positive_hits": 11,
+        "negative_hits": 5
+      },
+      "receipts": [
+        {
+          "timestamp": "02:00:01",
+          "excerpt": "> I said what's up Ray? You're in the middle of the show. >> Oh what you what what you talking about >> right now? I'm talking about the great war of separation number one and why Eric July's ripperverse comic was not good. >> Oh that that sounds fun. Yeah, it is. Leave leave a one in the chat if you care about Mexico, says Samogo. >> Wait, who's on the panel? >> Uh,"
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "12:04",
+      "title": "Liam Gray / Cyberfrog",
+      "entities": [
+        "Liam Gray",
+        "Cyberfrog"
+      ],
+      "possible_clip": false,
+      "summary_seed": "Yeah. Hey everybody, my name is Evil. [music] Their name is PJ Harvey. Let's go. Mama told me yeah. Life [music] mama told me yeah. Come on. Mama [music] told me one day I'mma grow up big and I'mma be a king. And my papa [music] told me it's okay to sit. Don't forget your dreams cuz they'll get [music] you through this. What life they call living b"
+    },
+    {
+      "start": "12:02",
+      "end": "24:02",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "the life of me have not been able to remember, but it was amazing. I have not uh for $7.99 Australian. Stray Bean says, \"Please ask Ottoy and Liam if they saw the Dark Knight Recreated Project and what they thought.\" >> Have you? >> No, I didn't I didn't know anything about it. What's What's this? >> Stray posted it in the um in the suburbs room li"
+    },
+    {
+      "start": "24:02",
+      "end": "36:03",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": ">> [snorts] >> Uh, when it comes to these things, I am [ __ ] autistic. All right. It's all cape [ __ ] bud. Cape [ __ ] [laughter] >> How you doing, TJ? >> But it is. Um, one I read another Scott Snider book >> because everybody was talking about witches because they were like, \"Oh, look, if you like absolute Batman, you're going to love witches.\""
+    },
+    {
+      "start": "36:00",
+      "end": "48:03",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "gets bigger, he gets extra mass and then when he gets smaller, he shutters mass, but because of the density, that's why he maintains the same level of strength as being a normalsized man. >> Okay. >> Because if he shrunk down and he didn't lose mass, if he just shrunk, that would that would be like creating like a black hole almost. >> Yeah. So, >>"
+    },
+    {
+      "start": "48:01",
+      "end": "01:00:01",
+      "title": "Cyberfrog",
+      "entities": [
+        "Cyberfrog"
+      ],
+      "possible_clip": false,
+      "summary_seed": "college, so they're immediately going to go from from high school to college.\" Also, I don't know if this is like um like if he's like writing this to like get back at the dude that like uh was his high school bully or whatever, but like the bad guy Kaden, not only does he beat him in in the in the big championship game, right? But they also tell y"
+    },
+    {
+      "start": "01:00:03",
+      "end": "01:12:02",
+      "title": "Cyberfrog",
+      "entities": [
+        "Cyberfrog"
+      ],
+      "possible_clip": false,
+      "summary_seed": "The also like what what didn't make sense to me. So she gets Salamandroid and I don't know if like some of this is just being um because of the old issues and and you know trying to fit the new story within the confines of the old story, right? >> But they they create Salamandroid and she's like you're Salamandroid and you are going to protect Cybe"
+    },
+    {
+      "start": "01:12:02",
+      "end": "01:24:03",
+      "title": "Cyberfrog",
+      "entities": [
+        "Cyberfrog"
+      ],
+      "possible_clip": false,
+      "summary_seed": "know? [laughter] >> No, there's no Beavers and Butt in this, but I'm saying he's at the very I'm just making a joke. You know what I mean? It's like he's [ __ ] around. It's not like he's preparing humanity for the coming swarm or anything. You know what I mean? >> Well, they tell him well in the book. >> Yeah. >> They talk about how like uh humani"
+    },
+    {
+      "start": "01:24:01",
+      "end": "01:36:02",
+      "title": "Cyberfrog",
+      "entities": [
+        "Cyberfrog"
+      ],
+      "possible_clip": false,
+      "summary_seed": "city gets taken over and [ __ ] like that, but the rural areas they're >> Well, [ __ ] What's it Liam? You don't think all the people in the ghetto in the city have guns, >> man? See? No. Yeah, I'm sure. I mean, yeah, there there could totally be like ghetto ghetto gang guys fighting [ __ ] vespers as they take over the city and [ __ ] People hidin"
+    },
+    {
+      "start": "01:36:00",
+      "end": "01:48:02",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "anything away from the art. Very pretty, but there is really nothing like nothing happens. The buildup to the Vespas coming was a good buildup and then there's no payoff because you don't get to see the war, right? I I almost think that at part two, like if it ended at part two where he falls into the ocean or into the river or whatever, right, and"
+    },
+    {
+      "start": "01:48:00",
+      "end": "02:00:03",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "States is only >> it's already separated. >> Yeah. So, the United States is the East Coast and Texas. For whatever reason, Texas and the East Coast decided to stay together. Florida decided to become >> Yeah. Florida East Coast. Florida is its own state. The Mid Southern Alliance is its own state. Chicago is just like like Illinois and that is just"
+    },
+    {
+      "start": "02:00:01",
+      "end": "02:12:01",
+      "title": "Frog Tony / Eric July",
+      "entities": [
+        "Frog Tony",
+        "Eric July"
+      ],
+      "possible_clip": false,
+      "summary_seed": ">> Like if you were following Brian Ceri the whole time, right, as he's reacting to the different events as he's going. >> Yeah. So it's not okay. That's >> so Yeah. So it's just jumps from like here's these characters doing stuff, here's these characters. There's no like this is what's important right now. There's an earlier shot in the book uh wh"
+    },
+    {
+      "start": "02:12:01",
+      "end": "02:24:02",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": true,
+      "summary_seed": "[laughter] >> whereas like like the whole idea of like Clark Kent Superman, like that wouldn't fool anyone in the real world, right? But like if I'm like a totally different person like oh he went from a six-foot Mexican to a 5'11 blonde chick. You're like oh that's clearly not the same person. Right. Right. >> Yeah. No, it's a good point. Good poi"
+    },
+    {
+      "start": "02:24:00",
+      "end": "02:36:04",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "durability, but you had to be a cold, unthinking machine incapable of human emotion. Now, you were previously human, but now you have lost human emotion and you have a super robot body and you're immortal. Would you do it or would you stay? >> You lost me. You got You got too much setup uh for for me to even think about how to answer that. >> Yes,"
+    },
+    {
+      "start": "02:36:02",
+      "end": "02:47:23",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": ">> He introduced villains. He paid he he like paid people to create villains and [ __ ] >> Yes, he did. >> The media creating villains. I don't That would have to be >> Oh, where have I seen that before? >> Yeah. [laughter] I don't know what you're talking about. >> I I don't know about the media. I just know a media mogul paid a scientist to creat"
+    }
+  ],
+  "claims": [
+    {
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Cyberfrog"
+      ],
+      "claim": "Um I you I know that Cyberfrog has his like croak that he can do like his thunder croak, but Salamandroid without being cyber linked up has the ability to like a dragon breathe this huge torrent of purple flames.",
+      "timestamp": "01:00:03",
+      "status": "candidate_claim",
+      "confidence": 0.55,
+      "receipt": "Um I you I know that Cyberfrog has his like croak that he can do like his thunder croak, but Salamandroid without being cyber linked up has the ability to like a dragon breathe this huge torrent of purple flames."
+    },
+    {
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Cyberfrog"
+      ],
+      "claim": "I think it's a good addition to Cyberfrog and it's I always look forward to the next year number that we're going to see a lot.",
+      "timestamp": "01:00:03",
+      "status": "opinion_or_inference",
+      "confidence": 0.42,
+      "receipt": "I think it's a good addition to Cyberfrog and it's I always look forward to the next year number that we're going to see a lot."
+    }
+  ],
+  "quotes": [
+    {
+      "timestamp": "00:00",
+      "text": "I can strike them out with three [ __ ] in an arm sl.",
+      "subjects": [],
+      "significance_score": 1
+    },
+    {
+      "timestamp": "12:02",
+      "text": "Never again will mortal eyes gaze upon the hideous countenance of Victor Vondoom.",
+      "subjects": [],
+      "significance_score": 1
+    }
+  ],
+  "relationships": [],
+  "story_matches": [
+    {
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.5
+    },
+    {
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.5
+    },
+    {
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.4
+    }
+  ],
+  "uncertainty_flags": [
+    "speaker attribution may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon cannot reliably detect sarcasm",
+    "claims and relationship signals remain candidates"
+  ]
+}

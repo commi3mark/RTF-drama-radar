@@ -1,6 +1,6 @@
 {
-  "schema_version": "octopuss-preanalysis-v0.1",
-  "generated_at": "2026-07-15T21:04:19.646371+00:00",
+  "schema_version": "octopuss-preanalysis-v0.2",
+  "generated_at": "2026-07-15T21:17:13.423136+00:00",
   "video_id": "O5BcX4ir3-0",
   "title": "The Tribunal of Liam Gray | DROPBOX DRAMA",
   "source": "KatyDid",
@@ -19,7 +19,7 @@
     {
       "entity": "KatyDid",
       "role_guess": "host_or_channel_identity",
-      "confidence": 0.72,
+      "confidence": 0.75,
       "signals": [
         "packet source/channel identity"
       ]
@@ -28,59 +28,31 @@
   "subjects": [
     {
       "entity": "Liam Gray",
-      "mentions": 21,
+      "mentions": 10,
       "block_count": 3,
       "first_timestamp": "00:00",
       "last_timestamp": "31:51",
-      "discussion_span_seconds": 1911.0,
       "importance_guess": "major",
       "sentiment": {
-        "label": "positive",
-        "score": 0.841,
-        "positive_hits": 139,
-        "negative_hits": 12
+        "label": "mixed",
+        "score": 0.111,
+        "positive_hits": 5,
+        "negative_hits": 4
       },
       "receipts": [
         {
           "timestamp": "00:00",
-          "excerpt": "K. >> Hey, what's up? >> Good morning. >> Good morning. So, I I just now tuned in. So, I watched Trashcast last night and and then I was then I noticed the stream this this Wow, let me start all over. Jesus Christ. The stream you're watching apparently you could not watch it and I have been told I need to go and take a look at it. So, what is Give me the download of what this is. >> Uh, Straight Beans trying to ignite Liam into a uh ato"
+          "excerpt": "K. >> Hey, what's up? >> Good morning. >> Good morning. So, I I just now tuned in. So, I watched Trashcast last night and and then I was then I noticed the stream this this Wow, let me start all over. Jesus Christ. The stream you're watching apparently you could not watch it and I have been told I need to go and take a look at it. So, what is Give me the dow"
         },
         {
           "timestamp": "12:00",
-          "excerpt": ">> One minute. One more time. One more time. That's it. >> Hello. >> Hang on. Hang on. Can you hear me? >> Yeah. Yeah. One more time. What was that? Sorry. If this is an open case and you can't tell the names, I think they mean you can't say the names. Why are you talking about it? Because you know the people were in the group and can hide evidence. >> Okay. Well, that's pretty easy that one if you sort of think about it. For a starter,"
+          "excerpt": ">> One minute. One more time. One more time. That's it. >> Hello. >> Hang on. Hang on. Can you hear me? >> Yeah. Yeah. One more time. What was that? Sorry. If this is an open case and you can't tell the names, I think they mean you can't say the names. Why are you talking about it? Because you know the people were in the group and can hide evidence. >> Okay."
         },
         {
           "timestamp": "24:02",
-          "excerpt": "you're like one of the wall campaign guys, then you already know who the people on that list are. Like Pan would for sure. Like you guys would know. So, like this wasn't a secret. Like this isn't something I kept like hush hush. Like I said, I told Flash, I told Tug, I told like I've told everyone that I sort of knew that was going on. Like how cuz I was I was angry and I was angry as shit about it because I felt like the police weren't"
+          "excerpt": "you're like one of the wall campaign guys, then you already know who the people on that list are. Like Pan would for sure. Like you guys would know. So, like this wasn't a secret. Like this isn't something I kept like hush hush. Like I said, I told Flash, I told Tug, I told like I've told everyone that I sort of knew that was going on. Like how cuz I was I w"
         }
-      ],
-      "appearance_status": "uncertain"
-    },
-    {
-      "entity": "Dropbox Drama",
-      "mentions": 11,
-      "block_count": 2,
-      "first_timestamp": "00:00",
-      "last_timestamp": "24:03",
-      "discussion_span_seconds": 1443.2,
-      "importance_guess": "major",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.845,
-        "positive_hits": 95,
-        "negative_hits": 8
-      },
-      "receipts": [
-        {
-          "timestamp": "00:00",
-          "excerpt": "K. >> Hey, what's up? >> Good morning. >> Good morning. So, I I just now tuned in. So, I watched Trashcast last night and and then I was then I noticed the stream this this Wow, let me start all over. Jesus Christ. The stream you're watching apparently you could not watch it and I have been told I need to go and take a look at it. So, what is Give me the download of what this is. >> Uh, Straight Beans trying to ignite Liam into a uh ato"
-        },
-        {
-          "timestamp": "12:00",
-          "excerpt": ">> One minute. One more time. One more time. That's it. >> Hello. >> Hang on. Hang on. Can you hear me? >> Yeah. Yeah. One more time. What was that? Sorry. If this is an open case and you can't tell the names, I think they mean you can't say the names. Why are you talking about it? Because you know the people were in the group and can hide evidence. >> Okay. Well, that's pretty easy that one if you sort of think about it. For a starter,"
-        }
-      ],
-      "appearance_status": "uncertain"
+      ]
     },
     {
       "entity": "Stray Beans",
@@ -88,65 +60,19 @@
       "block_count": 1,
       "first_timestamp": "00:00",
       "last_timestamp": "12:02",
-      "discussion_span_seconds": 721.8,
       "importance_guess": "secondary",
       "sentiment": {
         "label": "positive",
-        "score": 0.83,
-        "positive_hits": 43,
-        "negative_hits": 4
+        "score": 1.0,
+        "positive_hits": 4,
+        "negative_hits": 0
       },
       "receipts": [
         {
           "timestamp": "00:00",
-          "excerpt": "that's the answer to question one. And then he moves on to question two and it's like, dude, you're just giving him away to cop out. Like he's clearly bullshitting. Like there's none of this happen unwatchable, too. Was Stray Beans audio is completely fucked up. >> It's garbage. Yeah. >> Now, on the FFS, did y'all say on panel to him? Like, did you verbally say this to him? >> Yeah, we said it on panel >> questions. Okay. >> Yeah. And then and the"
+          "excerpt": "hen he moves on to question two and it's like, dude, you're just giving him away to cop out. Like he's clearly bullshitting. Like there's none of this happen unwatchable, too. Was Stray Beans audio is completely fucked up. >> It's garbage. Yeah. >> Now, on the FFS, did y'all say on panel to him? Like, did you verbally say this to him? >> Yeah, we said it on panel >> qu"
         }
-      ],
-      "appearance_status": "uncertain"
-    },
-    {
-      "entity": "Trashcast",
-      "mentions": 2,
-      "block_count": 1,
-      "first_timestamp": "00:00",
-      "last_timestamp": "12:02",
-      "discussion_span_seconds": 721.8,
-      "importance_guess": "passing",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.83,
-        "positive_hits": 43,
-        "negative_hits": 4
-      },
-      "receipts": [
-        {
-          "timestamp": "00:00",
-          "excerpt": "K. >> Hey, what's up? >> Good morning. >> Good morning. So, I I just now tuned in. So, I watched Trashcast last night and and then I was then I noticed the stream this this Wow, let me start all over. Jesus Christ. The stream you're watching apparently you could not watch it and I have been told I need to go and take a look"
-        }
-      ],
-      "appearance_status": "uncertain"
-    },
-    {
-      "entity": "Yellow Flash",
-      "mentions": 2,
-      "block_count": 1,
-      "first_timestamp": "00:00",
-      "last_timestamp": "12:02",
-      "discussion_span_seconds": 721.8,
-      "importance_guess": "passing",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.83,
-        "positive_hits": 43,
-        "negative_hits": 4
-      },
-      "receipts": [
-        {
-          "timestamp": "00:00",
-          "excerpt": "ably would have cuz I spoke to him pretty regularly when stuff happened because I was really livid over what was going on with um with fucking uh with his daughter and even yellow in fact he had to know about it because Yellow Flash know about it because a huge part of the reason that Yellow Flash blew up against NASA way back in the day if you remember him going off at NASA was because of that stuff. So, we go back and relisten to what he's saying"
-        }
-      ],
-      "appearance_status": "uncertain"
+      ]
     },
     {
       "entity": "Ethan Van Sciver",
@@ -154,21 +80,19 @@
       "block_count": 1,
       "first_timestamp": "24:02",
       "last_timestamp": "31:51",
-      "discussion_span_seconds": 469.3,
       "importance_guess": "passing",
       "sentiment": {
-        "label": "positive",
-        "score": 0.833,
-        "positive_hits": 44,
-        "negative_hits": 4
+        "label": "mixed",
+        "score": -0.333,
+        "positive_hits": 1,
+        "negative_hits": 2
       },
       "receipts": [
         {
           "timestamp": "24:02",
-          "excerpt": "you're like one of the wall campaign guys, then you already know who the people on that list are. Like Pan would for sure. Like you guys would know. So, like this wasn't a secret. Like this isn't something I kept like hush hush. Like I said, I told Flash, I told Tug, I told like I've told everyone that I sort of knew that was going on. Like how cuz I was I was angry and I was angry as shit about it because I felt like the police weren't"
+          "excerpt": "you're like one of the wall campaign guys, then you already know who the people on that list are. Like Pan would for sure. Like you guys would know. So, like this wasn't a secret. Like this isn't something I kept like hush hush. Like I said, I told Flash, I told Tug, I told like I've told everyone that I sort of knew that was going on. Like how cuz I was I w"
         }
-      ],
-      "appearance_status": "uncertain"
+      ]
     },
     {
       "entity": "Frog Tony",
@@ -176,399 +100,78 @@
       "block_count": 1,
       "first_timestamp": "24:02",
       "last_timestamp": "31:51",
-      "discussion_span_seconds": 469.3,
       "importance_guess": "passing",
       "sentiment": {
-        "label": "positive",
-        "score": 0.833,
-        "positive_hits": 44,
-        "negative_hits": 4
+        "label": "mixed",
+        "score": -0.333,
+        "positive_hits": 1,
+        "negative_hits": 2
       },
       "receipts": [
         {
           "timestamp": "24:02",
-          "excerpt": "m going to assume that you're with, spent that entire time running around telling everyone I'm not a real artist. Instead of I said, \"If you pay me, I'll do art.\" And not one fucking person came forward to hire me until Frog Tony. So, you guys want to talk shit? I've been in galleries. I've been paid upwards of $3,000 for show art, you know, like um that's been displayed in in museums, you know? I've been doing this for like 16 years. And not in"
+          "excerpt": "t that entire time running around telling everyone I'm not a real artist. Instead of I said, \"If you pay me, I'll do art.\" And not one fucking person came forward to hire me until Frog Tony. So, you guys want to talk shit? I've been in galleries. I've been paid upwards of $3,000 for show art, you know, like um that's been displayed in in museums, you know? I've been"
         }
-      ],
-      "appearance_status": "uncertain"
+      ]
     }
   ],
   "chapters": [
     {
       "start": "00:00",
       "end": "12:02",
-      "title": "Liam Gray / Dropbox Drama / Stray Beans",
+      "title": "Stray Beans",
       "entities": [
-        "Liam Gray",
-        "Dropbox Drama",
-        "Stray Beans",
-        "Trashcast",
-        "Yellow Flash"
+        "Stray Beans"
       ],
-      "summary_seed": "K. >> Hey, what's up? >> Good morning. >> Good morning. So, I I just now tuned in. So, I watched Trashcast last night and and then I was then I noticed the stream this this Wow, let me start all over. Jesus Christ. The stream you're watching apparently you could not watch it and I have been told I need to go and take a look at it. So, what is Give me the download of what this is. >> Uh, Straight Beans trying to ignit",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "possible_clip": false,
+      "summary_seed": "K. >> Hey, what's up? >> Good morning. >> Good morning. So, I I just now tuned in. So, I watched Trashcast last night and and then I was then I noticed the stream this this Wow, let me start all over. Jesus Christ. The stream you're watching apparently you could not watch it and I have been told I need to go and take a look at it. So, what is Give"
     },
     {
       "start": "12:00",
       "end": "24:03",
-      "title": "Dropbox Drama / Liam Gray",
-      "entities": [
-        "Dropbox Drama",
-        "Liam Gray"
-      ],
-      "summary_seed": ">> One minute. One more time. One more time. That's it. >> Hello. >> Hang on. Hang on. Can you hear me? >> Yeah. Yeah. One more time. What was that? Sorry. If this is an open case and you can't tell the names, I think they mean you can't say the names. Why are you talking about it? Because you know the people were in the group and can hide evidence. >> Okay. Well, that's pretty easy that one if you sort of think abou",
-      "clip_likelihood": false,
-      "transition_markers": 4
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": ">> One minute. One more time. One more time. That's it. >> Hello. >> Hang on. Hang on. Can you hear me? >> Yeah. Yeah. One more time. What was that? Sorry. If this is an open case and you can't tell the names, I think they mean you can't say the names. Why are you talking about it? Because you know the people were in the group and can hide evidence"
     },
     {
       "start": "24:02",
       "end": "31:51",
-      "title": "Liam Gray / Ethan Van Sciver / Frog Tony",
+      "title": "Frog Tony",
       "entities": [
-        "Liam Gray",
-        "Ethan Van Sciver",
         "Frog Tony"
       ],
-      "summary_seed": "you're like one of the wall campaign guys, then you already know who the people on that list are. Like Pan would for sure. Like you guys would know. So, like this wasn't a secret. Like this isn't something I kept like hush hush. Like I said, I told Flash, I told Tug, I told like I've told everyone that I sort of knew that was going on. Like how cuz I was I was angry and I was angry as shit about it because I felt lik",
-      "clip_likelihood": false,
-      "transition_markers": 1
+      "possible_clip": false,
+      "summary_seed": "you're like one of the wall campaign guys, then you already know who the people on that list are. Like Pan would for sure. Like you guys would know. So, like this wasn't a secret. Like this isn't something I kept like hush hush. Like I said, I told Flash, I told Tug, I told like I've told everyone that I sort of knew that was going on. Like how cuz"
     }
   ],
   "claim_candidates": [
     {
-      "claimant": "They challenged They",
-      "claim": "I wouldn't do this.",
-      "timestamp": "00:00",
-      "status": "candidate_claim",
-      "receipt": "They challenged They said I wouldn't do this."
-    },
-    {
-      "claimant": "They",
-      "claim": "I wouldn't ask you three questions because our side of this shit fight is evil where we don't do things in good faith and uh you know we're the bad guys of this.",
-      "timestamp": "00:00",
-      "status": "candidate_claim",
-      "receipt": "They said I wouldn't ask you three questions because our side of this shit fight is evil where we don't do things in good faith and uh you know we're the bad guys of this."
-    },
-    {
-      "claimant": "So they they",
-      "claim": "we wouldn't do it.",
-      "timestamp": "00:00",
-      "status": "candidate_claim",
-      "receipt": "So they they said we wouldn't do it."
-    },
-    {
-      "claimant": "They",
-      "claim": "I wouldn't they were like you're not going to ask this of Liam Stray Bean.",
-      "timestamp": "00:00",
-      "status": "candidate_claim",
-      "receipt": "They said I wouldn't they were like you're not going to ask this of Liam Stray Bean."
-    },
-    {
       "claimant": "unknown speaker",
-      "claim": "DG is not going to change his mind.",
-      "timestamp": "00:00",
-      "status": "candidate_claim",
-      "receipt": "So, at bare minimum, right, at bare minimum, I know DG is not going to change his mind."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "Synynic's not going to change his mind, but FFS chat, everybody else listening, we're the side that's willing to actually um have conversations like this in good faith, if you have questions, we will ask it of each other.",
-      "timestamp": "00:00",
-      "status": "candidate_claim",
-      "receipt": "I know Synynic's not going to change his mind, but FFS chat, everybody else listening, we're the side that's willing to actually um have conversations like this in good faith, if you have questions, we will ask it of each other."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "that that's he probably is thinking they're going to pre prejudge me by my, you know, horrific, you know, deformities and um but if they get to know me for who I am, then maybe they'll love me.",
-      "timestamp": "00:00",
-      "status": "opinion_or_inference",
-      "receipt": "I think that that's he probably is thinking they're going to pre prejudge me by my, you know, horrific, you know, deformities and um but if they get to know me for who I am, then maybe they'll love me."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "Vic King was one of them.",
-      "timestamp": "00:00",
-      "status": "candidate_claim",
-      "receipt": "I know Vic King was one of them."
-    },
-    {
-      "claimant": "don't think I searched for Dropbox but it",
-      "claim": "Dropbox updates.",
-      "timestamp": "00:00",
-      "status": "candidate_claim",
-      "receipt": "so I've got to go through I've got to find out like what's the thing that the the uh the fucking one minute what if I search for the word Dropbox the uh I got to see like cuz they send you when they send you an email back it doesn't say like FBI on it has like this other thing I'm not going to be able to find anything here I don't think I searched for Dropbox but it says Dropbox updates."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "I might have just found it.",
-      "timestamp": "00:00",
-      "status": "opinion_or_inference",
-      "receipt": "I think I might have just found it."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "Tug and I have had a conversation about it.",
-      "timestamp": "00:00",
-      "status": "opinion_or_inference",
-      "receipt": "I believe Tug and I have had a conversation about it."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "we're talking about situation with",
-      "timestamp": "00:00",
-      "status": "opinion_or_inference",
-      "receipt": "Uh September 8th, I believe we're talking about situation with"
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "they mean you can't say the names.",
-      "timestamp": "12:00",
-      "status": "opinion_or_inference",
-      "receipt": "If this is an open case and you can't tell the names, I think they mean you can't say the names."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "it was like a little over a year.",
-      "timestamp": "12:00",
-      "status": "opinion_or_inference",
-      "receipt": "I think it was like a little over a year."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "it was a bit over a year before they finally took his Dropbox link down.",
-      "timestamp": "12:00",
-      "status": "opinion_or_inference",
-      "receipt": "But I think it was a bit over a year before they finally took his Dropbox link down."
-    },
-    {
-      "claimant": "Uh someone",
-      "claim": "something in the in the comments the other day that I hadn't actually considered where they said like, \"Well, what if they were investigated and they didn't find anything?\" And I'm like, \"Well, that's possible.",
-      "timestamp": "12:00",
-      "status": "candidate_claim",
-      "receipt": "Uh someone said something in the in the comments the other day that I hadn't actually considered where they said like, \"Well, what if they were investigated and they didn't find anything?\" And I'm like, \"Well, that's possible."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "we've left the thing, but let me just check.",
-      "timestamp": "12:00",
-      "status": "opinion_or_inference",
-      "receipt": "I think we've left the thing, but let me just check."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "these are the guys, but I'm not 100% sure, so don't quote me.",
-      "timestamp": "12:00",
-      "status": "opinion_or_inference",
-      "receipt": "I think these are the guys, but I'm not 100% sure, so don't quote me."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "this is the old room here.",
-      "timestamp": "12:00",
-      "status": "opinion_or_inference",
-      "receipt": "I think this is the old room here."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "it's going to be fun.",
-      "timestamp": "12:00",
-      "status": "candidate_claim",
-      "receipt": "so this is going to be EAP and I know it's going to be fun."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "that I think that Yeah, I think that the goal here is to like",
-      "timestamp": "12:00",
-      "status": "opinion_or_inference",
-      "receipt": "I think that I think that Yeah, I think that the goal here is to like"
-    },
-    {
-      "claimant": "He",
-      "claim": "this and that could mean",
-      "timestamp": "12:00",
-      "status": "candidate_claim",
-      "receipt": "He said this and that could mean"
-    },
-    {
-      "claimant": "he",
-      "claim": "he first he's like it must have been around 2020.",
-      "timestamp": "12:00",
-      "status": "candidate_claim",
-      "receipt": "And uh on sort of weighs in, he said he first he's like it must have been around 2020."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "that they did eventually take the Dropbox down.",
-      "timestamp": "12:00",
-      "status": "candidate_claim",
-      "receipt": "Um and uh and then if anyone wanted to do any bothered bothering to sort of figure things out like since they're so big brain um but I know that they did eventually take the Dropbox down."
-    },
-    {
-      "claimant": "comic gate drama",
-      "claim": "it uh made posts about this and he has said that he had he knows that people on cynic stream knows he's lying about stuff but aren't challenging.",
+      "subjects": [
+        "Frog Tony"
+      ],
+      "claim": "Instead of I said, \"If you pay me, I'll do art.\" And not one fucking person came forward to hire me until Frog Tony.",
       "timestamp": "24:02",
       "status": "candidate_claim",
-      "receipt": "comic gate drama said it uh made posts about this and he has said that he had he knows that people on cynic stream knows he's lying about stuff but aren't challenging."
-    },
-    {
-      "claimant": "Liam and I were also we",
-      "claim": "we should try and we should try and treat this like uh like a try and be a little bit lighthearted about this.",
-      "timestamp": "24:02",
-      "status": "candidate_claim",
-      "receipt": "yeah, Liam and I were also we said we should try and we should try and treat this like uh like a try and be a little bit lighthearted about this."
+      "confidence": 0.55,
+      "receipt": "Instead of I said, \"If you pay me, I'll do art.\" And not one fucking person came forward to hire me until Frog Tony."
     }
   ],
-  "quote_candidates": [
+  "quote_candidates": [],
+  "relationship_signals": [],
+  "story_matches": [
     {
-      "timestamp": "12:00",
-      "text": "It's always like A to B to fucking zed.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "12:00",
-      "text": "There's never this clear line of causation between what you say and what's actually happening.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "12:00",
-      "text": "There's always rhetoric and there's always hysteria.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "12:00",
-      "text": "And it's always the worst possible interpretation of everything.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "12:00",
-      "text": "Like it's always what's the most evil vile thing we can imagine and then that's what's true, right?",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "12:00",
-      "text": "Do you think they always just accidentally come to that conclusion?",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "12:00",
-      "text": "However, in any situation, like they always just come to the most harmful and hurtful and worst interpretation of your action every single time.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "12:00",
-      "text": "It's never um it's never like it's never what what's on the face of the situation.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "24:02",
-      "text": "People lost their shirt over hiring him, and their books never came about.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "24:02",
-      "text": "You You know, I mean, like, I never hired the guy.",
-      "significance_score": 1
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.6
     }
   ],
-  "relationship_signals": [
-    {
-      "left": "Liam Gray",
-      "right": "Dropbox Drama",
-      "signal_type": "friendship_claim",
-      "timestamp": "12:00",
-      "confidence": 0.45,
-      "receipt": ">> One minute. One more time. One more time. That's it. >> Hello. >> Hang on. Hang on. Can you hear me? >> Yeah. Yeah. One more time. What was that? Sorry. If this is an open case and you can't tell the names, I think they mean you can't say the names. Why are you talking about it? Because you know the people were in the group and can hide evidence. >> Okay. Well, that's pretty easy that one if you sort of think about it. For a starter,",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
-      "right": "Ethan Van Sciver",
-      "signal_type": "promoted",
-      "timestamp": "24:02",
-      "confidence": 0.45,
-      "receipt": "you're like one of the wall campaign guys, then you already know who the people on that list are. Like Pan would for sure. Like you guys would know. So, like this wasn't a secret. Like this isn't something I kept like hush hush. Like I said, I told Flash, I told Tug, I told like I've told everyone that I sort of knew that was going on. Like how cuz I was I was angry and I was angry as shit about it because I felt like the police weren't",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
-      "right": "Frog Tony",
-      "signal_type": "promoted",
-      "timestamp": "24:02",
-      "confidence": 0.45,
-      "receipt": "you're like one of the wall campaign guys, then you already know who the people on that list are. Like Pan would for sure. Like you guys would know. So, like this wasn't a secret. Like this isn't something I kept like hush hush. Like I said, I told Flash, I told Tug, I told like I've told everyone that I sort of knew that was going on. Like how cuz I was I was angry and I was angry as shit about it because I felt like the police weren't",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Ethan Van Sciver",
-      "right": "Frog Tony",
-      "signal_type": "promoted",
-      "timestamp": "24:02",
-      "confidence": 0.45,
-      "receipt": "you're like one of the wall campaign guys, then you already know who the people on that list are. Like Pan would for sure. Like you guys would know. So, like this wasn't a secret. Like this isn't something I kept like hush hush. Like I said, I told Flash, I told Tug, I told like I've told everyone that I sort of knew that was going on. Like how cuz I was I was angry and I was angry as shit about it because I felt like the police weren't",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
-      "right": "Ethan Van Sciver",
-      "signal_type": "collaborated",
-      "timestamp": "24:02",
-      "confidence": 0.45,
-      "receipt": "you're like one of the wall campaign guys, then you already know who the people on that list are. Like Pan would for sure. Like you guys would know. So, like this wasn't a secret. Like this isn't something I kept like hush hush. Like I said, I told Flash, I told Tug, I told like I've told everyone that I sort of knew that was going on. Like how cuz I was I was angry and I was angry as shit about it because I felt like the police weren't",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
-      "right": "Frog Tony",
-      "signal_type": "collaborated",
-      "timestamp": "24:02",
-      "confidence": 0.45,
-      "receipt": "you're like one of the wall campaign guys, then you already know who the people on that list are. Like Pan would for sure. Like you guys would know. So, like this wasn't a secret. Like this isn't something I kept like hush hush. Like I said, I told Flash, I told Tug, I told like I've told everyone that I sort of knew that was going on. Like how cuz I was I was angry and I was angry as shit about it because I felt like the police weren't",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Ethan Van Sciver",
-      "right": "Frog Tony",
-      "signal_type": "collaborated",
-      "timestamp": "24:02",
-      "confidence": 0.45,
-      "receipt": "you're like one of the wall campaign guys, then you already know who the people on that list are. Like Pan would for sure. Like you guys would know. So, like this wasn't a secret. Like this isn't something I kept like hush hush. Like I said, I told Flash, I told Tug, I told like I've told everyone that I sort of knew that was going on. Like how cuz I was I was angry and I was angry as shit about it because I felt like the police weren't",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
-      "right": "Ethan Van Sciver",
-      "signal_type": "friendship_claim",
-      "timestamp": "24:02",
-      "confidence": 0.45,
-      "receipt": "you're like one of the wall campaign guys, then you already know who the people on that list are. Like Pan would for sure. Like you guys would know. So, like this wasn't a secret. Like this isn't something I kept like hush hush. Like I said, I told Flash, I told Tug, I told like I've told everyone that I sort of knew that was going on. Like how cuz I was I was angry and I was angry as shit about it because I felt like the police weren't",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
-      "right": "Frog Tony",
-      "signal_type": "friendship_claim",
-      "timestamp": "24:02",
-      "confidence": 0.45,
-      "receipt": "you're like one of the wall campaign guys, then you already know who the people on that list are. Like Pan would for sure. Like you guys would know. So, like this wasn't a secret. Like this isn't something I kept like hush hush. Like I said, I told Flash, I told Tug, I told like I've told everyone that I sort of knew that was going on. Like how cuz I was I was angry and I was angry as shit about it because I felt like the police weren't",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Ethan Van Sciver",
-      "right": "Frog Tony",
-      "signal_type": "friendship_claim",
-      "timestamp": "24:02",
-      "confidence": 0.45,
-      "receipt": "you're like one of the wall campaign guys, then you already know who the people on that list are. Like Pan would for sure. Like you guys would know. So, like this wasn't a secret. Like this isn't something I kept like hush hush. Like I said, I told Flash, I told Tug, I told like I've told everyone that I sort of knew that was going on. Like how cuz I was I was angry and I was angry as shit about it because I felt like the police weren't",
-      "warning": "co-mention plus language signal; requires interpretation"
-    }
-  ],
-  "story_matches": [],
+  "review_priority": 25,
   "uncertainty_flags": [
-    "speaker identity may be unknown",
+    "speaker attribution may be unknown",
     "clip voices may be mistaken for live participants",
-    "sentiment lexicon does not reliably detect sarcasm",
-    "relationship signals are candidates, not declarations",
-    "claims are not verified facts"
+    "sentiment lexicon cannot reliably detect sarcasm",
+    "claims and relationship signals remain candidates"
   ]
 }

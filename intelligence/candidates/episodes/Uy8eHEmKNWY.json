@@ -1,0 +1,129 @@
+{
+  "schema_version": "octopuss-candidate-episode-v0.1",
+  "video_id": "Uy8eHEmKNWY",
+  "title": "Kino Casino: Nerdrotic Fires Chrissie Mayr from Friday Night Tights (Jul 10, 2026)",
+  "source": "Elissa Clips",
+  "published": "2026-07-11T18:46:43+00:00",
+  "review_priority": 17,
+  "participant_candidates": [
+    {
+      "entity": "Elissa Clips",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Chrissie Mayr",
+      "mentions": 10,
+      "block_count": 1,
+      "first_timestamp": "00:00",
+      "last_timestamp": "05:21",
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.429,
+        "positive_hits": 2,
+        "negative_hits": 5
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "So, Friday Night Tights today formally announced, and we'll go there in a minute, that they have fired Chrissy Mayor. If you click on that, if you click on that link I sent you, Andy, it should uh take us right there. By the way, THEY HAD SARGON. WOW. >> More salt in the wound for J. >> Oh my god. Wait, >> that J drank Sargon'sing semen. They announced his f"
+        }
+      ]
+    },
+    {
+      "entity": "Friday Night Tights",
+      "mentions": 3,
+      "block_count": 1,
+      "first_timestamp": "00:00",
+      "last_timestamp": "05:21",
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.429,
+        "positive_hits": 2,
+        "negative_hits": 5
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "So, Friday Night Tights today formally announced, and we'll go there in a minute, that they have fired Chrissy Mayor. If you click on that, if you click on that link I sent you, Andy, it should uh take u"
+        }
+      ]
+    },
+    {
+      "entity": "TheQuartering",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "00:00",
+      "last_timestamp": "05:21",
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.429,
+        "positive_hits": 2,
+        "negative_hits": 5
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "So, Friday Night Tights today formally announced, and we'll go there in a minute, that they have fired Chrissy Mayor. If you click on that, if you click on that link I sent you, Andy, it should uh take us right there. By the way, THEY HAD SARGON. WOW. >> More salt in the wound for J. >> Oh my god. Wait, >> that J drank Sargon'sing semen. They announced his f"
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "05:21",
+      "title": "Friday Night Tights",
+      "entities": [
+        "Friday Night Tights"
+      ],
+      "possible_clip": true,
+      "summary_seed": "So, Friday Night Tights today formally announced, and we'll go there in a minute, that they have fired Chrissy Mayor. If you click on that, if you click on that link I sent you, Andy, it should uh take us right there. By the way, THEY HAD SARGON. WOW. >> More salt in the wound for J. >> Oh my god. Wait, >> that J drank Sargon'sing semen. They annou"
+    }
+  ],
+  "claims": [],
+  "quotes": [
+    {
+      "timestamp": "00:00",
+      "text": "So, Friday Night Tights today formally announced, and we'll go there in a minute, that they have fired Chrissy Mayor.",
+      "subjects": [
+        "Friday Night Tights"
+      ],
+      "significance_score": 2
+    },
+    {
+      "timestamp": "00:00",
+      "text": "Uh, looks like Chrissy is still seething that she got the boot from FNT and now she is doing the rounds claiming she got cancelled.",
+      "subjects": [],
+      "significance_score": 1
+    },
+    {
+      "timestamp": "00:00",
+      "text": "uh she dressed up as Frost so MANY times she claiming she got cancelled.",
+      "subjects": [],
+      "significance_score": 1
+    }
+  ],
+  "relationships": [],
+  "story_matches": [
+    {
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "score": 0.714
+    }
+  ],
+  "uncertainty_flags": [
+    "speaker attribution may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon cannot reliably detect sarcasm",
+    "claims and relationship signals remain candidates"
+  ]
+}

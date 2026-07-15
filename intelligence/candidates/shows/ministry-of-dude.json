@@ -1,0 +1,262 @@
+{
+  "show_id": "ministry-of-dude",
+  "name": "Ministry of Dude",
+  "episodes": [
+    {
+      "video_id": "T80sgrQa_kA",
+      "title": "Is Leem throwing in the towel?! | #934"
+    },
+    {
+      "video_id": "pltu7sa30D8",
+      "title": "Scarlett lives her best life | #932"
+    },
+    {
+      "video_id": "jVMsgBTgicI",
+      "title": "Steel Toe gets hit with his very own HRO | #936"
+    },
+    {
+      "video_id": "3q0Lk5Vap5U",
+      "title": "It's All Fine - Friday Special | #935"
+    },
+    {
+      "video_id": "4sQhgipvxyU",
+      "title": "I said Columbia, but Ralph just went to more Messico | #931"
+    }
+  ],
+  "participant_candidates": [
+    {
+      "video_id": "T80sgrQa_kA",
+      "entity": "Ministry of Dude",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    },
+    {
+      "video_id": "pltu7sa30D8",
+      "entity": "Ministry of Dude",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    },
+    {
+      "video_id": "jVMsgBTgicI",
+      "entity": "Ministry of Dude",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    },
+    {
+      "video_id": "3q0Lk5Vap5U",
+      "entity": "Ministry of Dude",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    },
+    {
+      "video_id": "4sQhgipvxyU",
+      "entity": "Ministry of Dude",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subject_history": [
+    {
+      "video_id": "T80sgrQa_kA",
+      "entity": "Aaron Imholte",
+      "importance": "major",
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.333,
+        "positive_hits": 8,
+        "negative_hits": 4
+      }
+    },
+    {
+      "video_id": "T80sgrQa_kA",
+      "entity": "Liam Gray",
+      "importance": "major",
+      "sentiment": {
+        "label": "mixed",
+        "score": -0.143,
+        "positive_hits": 6,
+        "negative_hits": 8
+      }
+    },
+    {
+      "video_id": "T80sgrQa_kA",
+      "entity": "Ethan Van Sciver",
+      "importance": "secondary",
+      "sentiment": {
+        "label": "mixed",
+        "score": -0.2,
+        "positive_hits": 2,
+        "negative_hits": 3
+      }
+    },
+    {
+      "video_id": "T80sgrQa_kA",
+      "entity": "Vito Gesualdi",
+      "importance": "passing",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5,
+        "positive_hits": 1,
+        "negative_hits": 3
+      }
+    },
+    {
+      "video_id": "pltu7sa30D8",
+      "entity": "Ethan Van Sciver",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.6,
+        "positive_hits": 16,
+        "negative_hits": 4
+      }
+    },
+    {
+      "video_id": "pltu7sa30D8",
+      "entity": "Frog Tony",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.455,
+        "positive_hits": 8,
+        "negative_hits": 3
+      }
+    },
+    {
+      "video_id": "pltu7sa30D8",
+      "entity": "Shane Davis",
+      "importance": "passing",
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.25,
+        "positive_hits": 5,
+        "negative_hits": 3
+      }
+    },
+    {
+      "video_id": "pltu7sa30D8",
+      "entity": "Aaron Imholte",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "positive_hits": 3,
+        "negative_hits": 0
+      }
+    },
+    {
+      "video_id": "jVMsgBTgicI",
+      "entity": "Aaron Imholte",
+      "importance": "major",
+      "sentiment": {
+        "label": "mixed",
+        "score": -0.2,
+        "positive_hits": 4,
+        "negative_hits": 6
+      }
+    },
+    {
+      "video_id": "jVMsgBTgicI",
+      "entity": "Liam Gray",
+      "importance": "secondary",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5,
+        "positive_hits": 2,
+        "negative_hits": 6
+      }
+    },
+    {
+      "video_id": "3q0Lk5Vap5U",
+      "entity": "Frog Tony",
+      "importance": "major",
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.273,
+        "positive_hits": 14,
+        "negative_hits": 8
+      }
+    },
+    {
+      "video_id": "3q0Lk5Vap5U",
+      "entity": "Chrissie Mayr",
+      "importance": "secondary",
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.0,
+        "positive_hits": 7,
+        "negative_hits": 7
+      }
+    },
+    {
+      "video_id": "3q0Lk5Vap5U",
+      "entity": "Ethan Van Sciver",
+      "importance": "passing",
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.0,
+        "positive_hits": 3,
+        "negative_hits": 3
+      }
+    },
+    {
+      "video_id": "3q0Lk5Vap5U",
+      "entity": "Liam Gray",
+      "importance": "passing",
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.333,
+        "positive_hits": 4,
+        "negative_hits": 2
+      }
+    },
+    {
+      "video_id": "4sQhgipvxyU",
+      "entity": "Ethan Van Sciver",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.625,
+        "positive_hits": 13,
+        "negative_hits": 3
+      }
+    },
+    {
+      "video_id": "4sQhgipvxyU",
+      "entity": "Vito Gesualdi",
+      "importance": "passing",
+      "sentiment": {
+        "label": "mixed",
+        "score": -0.111,
+        "positive_hits": 4,
+        "negative_hits": 5
+      }
+    },
+    {
+      "video_id": "4sQhgipvxyU",
+      "entity": "Frog Tony",
+      "importance": "passing",
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.111,
+        "positive_hits": 5,
+        "negative_hits": 4
+      }
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
-  "schema_version": "octopuss-preanalysis-v0.1",
-  "generated_at": "2026-07-15T21:04:18.032886+00:00",
+  "schema_version": "octopuss-preanalysis-v0.2",
+  "generated_at": "2026-07-15T21:17:11.785348+00:00",
   "video_id": "zkW4zLSQ7eQ",
   "title": "You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto!",
   "source": "Ethan Van Sciver",
@@ -19,351 +19,232 @@
     {
       "entity": "Ethan Van Sciver",
       "role_guess": "host_or_channel_identity",
-      "confidence": 0.72,
+      "confidence": 0.75,
       "signals": [
         "packet source/channel identity"
-      ]
-    },
-    {
-      "entity": "Liam Gray",
-      "role_guess": "likely_participant",
-      "confidence": 0.43,
-      "signals": [
-        "directly addressed 2 times",
-        "appears in 3 distant transcript blocks"
-      ]
-    },
-    {
-      "entity": "Sturgis",
-      "role_guess": "likely_participant",
-      "confidence": 0.4,
-      "signals": [
-        "directly addressed 6 times",
-        "possible clip voice rather than live participant"
-      ]
-    },
-    {
-      "entity": "Cyberfrog",
-      "role_guess": "likely_participant",
-      "confidence": 0.47,
-      "signals": [
-        "directly addressed 1 times",
-        "appears in 6 distant transcript blocks"
-      ]
-    },
-    {
-      "entity": "Frog Tony",
-      "role_guess": "likely_participant",
-      "confidence": 0.51,
-      "signals": [
-        "directly addressed 1 times",
-        "appears in 7 distant transcript blocks"
-      ]
-    },
-    {
-      "entity": "Eric July",
-      "role_guess": "likely_participant",
-      "confidence": 0.59,
-      "signals": [
-        "directly addressed 2 times",
-        "appears in 7 distant transcript blocks"
       ]
     }
   ],
   "subjects": [
     {
-      "entity": "Liam Gray",
-      "mentions": 90,
-      "block_count": 3,
-      "first_timestamp": "12:01",
-      "last_timestamp": "01:24:02",
-      "discussion_span_seconds": 4320.9,
-      "importance_guess": "major",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.879,
-        "positive_hits": 232,
-        "negative_hits": 15
-      },
-      "receipts": [
-        {
-          "timestamp": "12:01",
-          "excerpt": "ou can do stuff like it doesn't do that anymore. It goes uh you know listen we it has been screened for content. What the hell are you talking about? What am I paying for? And then like the idea that it wouldn't make uh Liam Gray into Pikachu like honestly it almost lost my sub today. Uh it's like no we can't do that. I'm like you will do that. You will make Liam Gray into a Pokemon. And finally, it did, but it was like the iPad that did it. Lim"
-        },
-        {
-          "timestamp": "36:01",
-          "excerpt": "Eric July video, uh a big black square. I should have said that would have been better. Yeah, there's a little bit of that in Zach. Zach wants to be look back on history. Like I didn't take a side. I wasn't with the right or the left. This is what Zach wants people to like say about him. I wasn't about the right or the left. I was about art. I was about what art, what good art is. And ultimately, uh, I'm against people who don't appreci"
-        },
-        {
-          "timestamp": "01:12:02",
-          "excerpt": "ied. That's awesome. Thank you for $10. Yeah. It's at that moment that you realize like there has to be somebody else, like an impartial system that will make it clear to everyone that you're better than them. You know, Liam Gray doesn't have that. I think he really wants something like that. An opportunity to prove that he's better. like somebody who was impartial and he almost had something kind of like it with me like I was like you're a king"
-        }
-      ],
-      "appearance_status": "uncertain"
-    },
-    {
       "entity": "Ethan Van Sciver",
-      "mentions": 48,
+      "mentions": 10,
       "block_count": 4,
       "first_timestamp": "12:01",
       "last_timestamp": "01:12:04",
-      "discussion_span_seconds": 3602.8,
       "importance_guess": "major",
       "sentiment": {
         "label": "positive",
-        "score": 0.85,
-        "positive_hits": 295,
-        "negative_hits": 24
+        "score": 0.522,
+        "positive_hits": 35,
+        "negative_hits": 11
       },
       "receipts": [
         {
           "timestamp": "12:01",
-          "excerpt": ">> [music] >> Welcome to 5XL FM where the trash flows. [music] >> There I am real small. Here I am real big. Ethan Van Skyver here. 5x LFM Philadelphia trash cast your show. You're the fan. You're the audience. You love this stuff. Can't get enough of it. And I'm here to serve it up. Nice big steaming plate of garbage for you tonight featuring some of your favorite characters. [music] >> Hello. Hi guys. [music] >> What is this? Hot Mike"
+          "excerpt": ">> [music] >> Welcome to 5XL FM where the trash flows. [music] >> There I am real small. Here I am real big. Ethan Van Skyver here. 5x LFM Philadelphia trash cast your show. You're the fan. You're the audience. You love this stuff. Can't get enough of it. And I'm here to serve it up. Nice big steaming plate of garbage for you tonight featuring some of your f"
         },
         {
           "timestamp": "36:01",
-          "excerpt": "Eric July video, uh a big black square. I should have said that would have been better. Yeah, there's a little bit of that in Zach. Zach wants to be look back on history. Like I didn't take a side. I wasn't with the right or the left. This is what Zach wants people to like say about him. I wasn't about the right or the left. I was about art. I was about what art, what good art is. And ultimately, uh, I'm against people who don't appreci"
+          "excerpt": "Eric July video, uh a big black square. I should have said that would have been better. Yeah, there's a little bit of that in Zach. Zach wants to be look back on history. Like I didn't take a side. I wasn't with the right or the left. This is what Zach wants people to like say about him. I wasn't about the right or the left. I was about art. I was about what"
         },
         {
           "timestamp": "48:01",
-          "excerpt": "His mom's Jewish, so he's Jewish like just by birth. Um, okay. Here we go. ISO number one trailer celebrating 4 years. Four years of our July. I forgot about that. I forgot about the frog croak. Remember this? So, this was a thing and and like uh the ripards were all laughing about this and then I said, \"Was that a frog croak and then getting electrocuted?\" Listen to that. I totally forgot about that. I mean, listen, there was a great p"
+          "excerpt": "His mom's Jewish, so he's Jewish like just by birth. Um, okay. Here we go. ISO number one trailer celebrating 4 years. Four years of our July. I forgot about that. I forgot about the frog croak. Remember this? So, this was a thing and and like uh the ripards were all laughing about this and then I said, \"Was that a frog croak and then getting electrocuted?\""
         },
         {
           "timestamp": "01:00:01",
-          "excerpt": "characters. [music] You can see why he tries to stay out of the city. Who is this family friend and what is their connection with Darren Fontano? How does this meeting between him and Avery turn out? [music] And does he get the information [laughter] that Altona needs? How does this impact the psyche of Avery who went from a hero to now bluecollar civilian? [laughter] These are all questions that will be answered in Isome issue number o"
+          "excerpt": "characters. [music] You can see why he tries to stay out of the city. Who is this family friend and what is their connection with Darren Fontano? How does this meeting between him and Avery turn out? [music] And does he get the information [laughter] that Altona needs? How does this impact the psyche of Avery who went from a hero to now bluecollar civilian?"
         }
-      ],
-      "appearance_status": "uncertain"
+      ]
     },
     {
-      "entity": "Sturgis",
-      "mentions": 42,
-      "block_count": 1,
-      "first_timestamp": "02:48:00",
-      "last_timestamp": "03:00:02",
-      "discussion_span_seconds": 722.1,
-      "importance_guess": "major",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.871,
-        "positive_hits": 58,
-        "negative_hits": 4
-      },
-      "receipts": [
-        {
-          "timestamp": "02:48:00",
-          "excerpt": "h a pocket in it and then you put the phone in the pocket and then cut a hole like a little rip in the towel where the camera is and then you hung it on the towel rack. That would do it for uh David L says, \"Please do a Sturgis in Japan video before lem videos.\" Okay, I will. I got that coming up too. That's the subject on the Joseph Smokelli says, \"For the next Kings, can we draw our next Can we draw our favorite heroes on the toilet? We neve"
-        }
-      ],
-      "appearance_status": "uncertain"
-    },
-    {
-      "entity": "Shane Davis",
-      "mentions": 32,
-      "block_count": 4,
+      "entity": "Liam Gray",
+      "mentions": 10,
+      "block_count": 3,
       "first_timestamp": "12:01",
       "last_timestamp": "01:24:02",
-      "discussion_span_seconds": 4320.9,
       "importance_guess": "major",
       "sentiment": {
-        "label": "positive",
-        "score": 0.882,
-        "positive_hits": 318,
-        "negative_hits": 20
-      },
-      "receipts": [
-        {
-          "timestamp": "12:01",
-          "excerpt": ">> [music] >> Welcome to 5XL FM where the trash flows. [music] >> There I am real small. Here I am real big. Ethan Van Skyver here. 5x LFM Philadelphia trash cast your show. You're the fan. You're the audience. You love this stuff. Can't get enough of it. And I'm here to serve it up. Nice big steaming plate of garbage for you tonight featuring some of your favorite characters. [music] >> Hello. Hi guys. [music] >> What is this? Hot Mike"
-        },
-        {
-          "timestamp": "24:01",
-          "excerpt": "y no drawing. There's a double page spread that's beautiful in every page, but there really isn't much work. And if you go back and look at it, you'll see that for yourself. You'll say, \"Wow, compared to what, like, say Shane Davis is putting out with the Glorious Rex right now. Like, we have to sing for our supper.\" Like, you know, we really do have to rock it. I'm not sure that we could put out a book that looks like Spawn number one and you guy"
-        },
-        {
-          "timestamp": "36:01",
-          "excerpt": "Eric July video, uh a big black square. I should have said that would have been better. Yeah, there's a little bit of that in Zach. Zach wants to be look back on history. Like I didn't take a side. I wasn't with the right or the left. This is what Zach wants people to like say about him. I wasn't about the right or the left. I was about art. I was about what art, what good art is. And ultimately, uh, I'm against people who don't appreci"
-        },
-        {
-          "timestamp": "01:12:02",
-          "excerpt": "yelled at me in the comments, by the way, and I I saw it. But I was like, \"Oh man.\" Uh, I said, \"Uh, yeah, Cyberfrog, I'm the greatest.\" Like, Cyfrog is the greatest indie comic book. He goes, \"No wonder John Mailen and Shane Davis don't stream with you cuz you're saying stuff like, uh, you know, you're the greatest. Thanks a lot.\" And I was like, uh, maybe you're [clears throat] right. I don't know. Tommy Reviews says, \"I graduated in 2011.\" You'"
-        }
-      ],
-      "appearance_status": "uncertain"
-    },
-    {
-      "entity": "Cyberfrog",
-      "mentions": 14,
-      "block_count": 6,
-      "first_timestamp": "12:01",
-      "last_timestamp": "04:24:02",
-      "discussion_span_seconds": 15120.8,
-      "importance_guess": "major",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.888,
-        "positive_hits": 389,
-        "negative_hits": 23
-      },
-      "receipts": [
-        {
-          "timestamp": "12:01",
-          "excerpt": "and then it's like the camera goes dark and then and I'm like this uh and then the camera goes dark and then oops and I'm like this profile shot and I'm like getting ready to make an announcement and the announcement is Cyberfrog THC gummies sick of these woke THC gummies. Uh, hold on. Jose M says, \"Are you on good terms with head wound bar post lem meltdown?\" Oh, that's a good question. No, I mean, I can't ever be on good terms with him again."
-        },
-        {
-          "timestamp": "24:01",
-          "excerpt": "e um I pulled out all my Spawn books the other day cuz I'm, you know, I'm like, I wonder uh part of me is going like, okay, when Cyber Frog 3 is done, uh what if we go ahead and we just do a monthly could I do a monthly Cyberfrog uh that takes place in the '9s so that I can tell all the ' 90s stories? I need to tell like origin stories of some of these characters and how it all happened. And I was like, I wonder how they did it like back then. L"
-        },
-        {
-          "timestamp": "01:12:02",
-          "excerpt": "but when you buy a book from us, you own a piece of history. It matters. These events will not >> Curious Comics yelled at me in the comments, by the way, and I I saw it. But I was like, \"Oh man.\" Uh, I said, \"Uh, yeah, Cyberfrog, I'm the greatest.\" Like, Cyfrog is the greatest indie comic book. He goes, \"No wonder John Mailen and Shane Davis don't stream with you cuz you're saying stuff like, uh, you know, you're the greatest. Thanks a lot.\" An"
-        },
-        {
-          "timestamp": "02:00:01",
-          "excerpt": "irst thing was obviously a big hit. It's only going to get bigger from here. And I thought it would, too. you know, I definitely thought uh it was going to be bigger. Uh and I told him that I said, \"Cyrog one sold this. Cyberfrog 2 sold this. We had a big improvement from one to two. Cyber Frog one was really good though. Cyberfog 2 was even better.\" Um so, you know, Eric was like, \"Yeah.\" I was like, \"If you if you just scale like from Cyberfog"
-        },
-        {
-          "timestamp": "02:24:01",
-          "excerpt": "se all this other stuff is like irrelevant. I spent it. I gave it here. I gave it there. What's the end result? What is the widget that you made? It's on number one. You know what I mean? That's what it is. Listen, I uh Cyberfrog books are amazing. I'm so proud of all of them. I'm so proud of them. I'll show them to anybody. Anybody will be blown away by them. Cyberfrog 3 is going to be amazing. Rainbow the Brood is already pretty good. I hope i"
-        },
-        {
-          "timestamp": "04:12:00",
-          "excerpt": "? So, sometimes I draw what I see in my dreams, but mostly I goof off or sketch caricatures of my pals for my pals and cute girls. Hey, everyone's got to start somewhere. And we see on the walls uh that he also has more Cyberfrog art, including this piece here. This is uh the 1998 Diary of Heather Swain Cyberfug piece. I don't think I can get that to focus. Um but he has borrowed I think this is Vinnie Te's poster for Through the Woods. Uh and s"
-        }
-      ],
-      "appearance_status": "uncertain"
-    },
-    {
-      "entity": "Frog Tony",
-      "mentions": 14,
-      "block_count": 7,
-      "first_timestamp": "12:01",
-      "last_timestamp": "03:24:00",
-      "discussion_span_seconds": 11518.4,
-      "importance_guess": "major",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.887,
-        "positive_hits": 452,
-        "negative_hits": 27
-      },
-      "receipts": [
-        {
-          "timestamp": "12:01",
-          "excerpt": ">> [music] >> Welcome to 5XL FM where the trash flows. [music] >> There I am real small. Here I am real big. Ethan Van Skyver here. 5x LFM Philadelphia trash cast your show. You're the fan. You're the audience. You love this stuff. Can't get enough of it. And I'm here to serve it up. Nice big steaming plate of garbage for you tonight featuring some of your favorite characters. [music] >> Hello. Hi guys. [music] >> What is this? Hot Mike"
-        },
-        {
-          "timestamp": "24:01",
-          "excerpt": "he and I are going to have to have a talk. I just mean a talk. By the way, I'm not saying pull up or anything. But yeah, there there are lines that you should not you should not ever cross and that's one of them. So, I don't think Lee ever did anything like that to me. Certain people um can get forgiveness. And I can look past uh indiscretions and uh you know, past unkind words. Yeah. Not not that that's I once you do that, you cross th"
-        },
-        {
-          "timestamp": "48:01",
-          "excerpt": "His mom's Jewish, so he's Jewish like just by birth. Um, okay. Here we go. ISO number one trailer celebrating 4 years. Four years of our July. I forgot about that. I forgot about the frog croak. Remember this? So, this was a thing and and like uh the ripards were all laughing about this and then I said, \"Was that a frog croak and then getting electrocuted?\" Listen to that. I totally forgot about that. I mean, listen, there was a great p"
-        },
-        {
-          "timestamp": "01:00:01",
-          "excerpt": "characters. [music] You can see why he tries to stay out of the city. Who is this family friend and what is their connection with Darren Fontano? How does this meeting between him and Avery turn out? [music] And does he get the information [laughter] that Altona needs? How does this impact the psyche of Avery who went from a hero to now bluecollar civilian? [laughter] These are all questions that will be answered in Isome issue number o"
-        },
-        {
-          "timestamp": "02:00:01",
-          "excerpt": "an ad. He has a [ __ ] ad in his graphic novel. You dummy. Who Who does that? so he wouldn't qualify anyway. >> First class mail isn't an option either. So when we sent via USPS, we sent priority. Believe it or not, our shipping rates weren't expensive. We actually didn't charge you guys enough. There was a time where we were like 30 grand in a hole on >> Yeah, we got [ __ ] too on uh um warts and all. Warts and all was crazy. Like we l"
-        },
-        {
-          "timestamp": "02:36:01",
-          "excerpt": "films their genitals and he's going to get caught on his birthday at a birthday party. What do you think of that? I'm like, God, I love that. I'm not a I'm not a critic at all. Can there be children at his birthday party, too? I'm not saying he has to film them, but can there be children at his birthday party who he endangers as well? And God would be like, he'd be like, \"You were made in my image, son.\" Oh my god. Oh, thank you, God. I"
-        }
-      ],
-      "appearance_status": "uncertain"
-    },
-    {
-      "entity": "Eric July",
-      "mentions": 13,
-      "block_count": 7,
-      "first_timestamp": "12:01",
-      "last_timestamp": "02:36:03",
-      "discussion_span_seconds": 8641.5,
-      "importance_guess": "major",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.87,
-        "positive_hits": 433,
-        "negative_hits": 30
-      },
-      "receipts": [
-        {
-          "timestamp": "12:01",
-          "excerpt": "on't get mad at her for that. I always [clears throat] tell her everything down here is yours. Everything that belongs to daddy's to daddy's yours. Uh you know what's daddy's is Ava. Hi folks, how are you? Is it better? Eric July. Eric July says Tony Soprano. Uh it is Eric July right now. Uh this is the uh day after the 4-year anniversary of Ripverse, which uh [laughter] you got I had some people yelling at me saying uh hey uh you know you didn'"
-        },
-        {
-          "timestamp": "36:01",
-          "excerpt": "Eric July video, uh a big black square. I should have said that would have been better. Yeah, there's a little bit of that in Zach. Zach wants to be look back on history. Like I didn't take a side. I wasn't with the right or the"
-        },
-        {
-          "timestamp": "01:12:02",
-          "excerpt": "w. I'm not sure. John said, \"I'm not doing Trashcast a long time ago.\" Uh, even though he completely and fully agrees with almost everything we say here. I think early on Oh, I know. The thing is when I came out against Eric July, a lot of people said, \"Don't do that. It's going to be very costly.\" um you know in terms of uh you know fans and I knew that obviously I knew that godamn like you think I wanted to do this you think I wanted to come o"
-        },
-        {
-          "timestamp": "01:24:00",
-          "excerpt": "like the most budget [ __ ] Brazilian nobodies so that he can pump this [ __ ] out quicker, faster, cheaper for himself. Uh, and uh, that's who this guy is. So, you know, it's like I I think the difference between like Eric July and somebody like Liam Gray is that if Liam Gray is making his own books, which we've debated, I'm not sure, but if he Liam says he made Dino King, if Liam did make Dino King, it's a sincere effort. He's trying hard to"
-        },
-        {
-          "timestamp": "01:36:00",
-          "excerpt": "to why he doesn't do trash guys.\" I assume that, Yurashima, I'm asking you what you think though. Like, if if you think John doesn't think, well, I don't want to get, you know, I don't want to get in the weeds with the Eric July drama and that's why I don't do well, what's the reason in your opinion? Uh, here's Tommy Reviews. Uh, by the way, thank you. [music] None of you [ __ ] are Chuck Dixon. >> Tommy Review says, \"In Rocky 5, Rocky retires"
-        },
-        {
-          "timestamp": "01:48:00",
-          "excerpt": "worth of shipping money because of her ad. But then again, that $250,000 is probably exactly the amount of money that she received from the government that funded your whole enterprise to begin with. You really believe Eric July had $300,000 in the bank that he was just chilling with like from what? Unless his man all these guys, they're [ __ ] in-laws are rich every single time. Gash Matar says, \"Wait, Eric and his wife are black.\" Yeah. No, E"
-        }
-      ],
-      "appearance_status": "uncertain"
-    },
-    {
-      "entity": "Dropbox Drama",
-      "mentions": 7,
-      "block_count": 1,
-      "first_timestamp": "04:00:00",
-      "last_timestamp": "04:12:02",
-      "discussion_span_seconds": 722.3,
-      "importance_guess": "secondary",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.667,
-        "positive_hits": 50,
+        "label": "mixed",
+        "score": 0.31,
+        "positive_hits": 19,
         "negative_hits": 10
       },
       "receipts": [
         {
-          "timestamp": "04:00:00",
-          "excerpt": ">> you know, it's Katie is a fairly recent person here, you know, >> but Liam Liam's like, uh, because Katie did this, that's why nobody wants to. He said the same thing with me. Like, because I Is he going to say me? Hold on. >> Me anyway. Because I was friends with Frog Tony. >> Okay. So, he's going to blame recent situations for the fact that people have, you know, these longstanding kind of grudges against him. Um, and they've, you"
+          "timestamp": "12:01",
+          "excerpt": "anymore. It goes uh you know listen we it has been screened for content. What the hell are you talking about? What am I paying for? And then like the idea that it wouldn't make uh Liam Gray into Pikachu like honestly it almost lost my sub today. Uh it's like no we can't do that. I'm like you will do that. You will make Liam Gray into a Pokemon. And finally, it did, b"
+        },
+        {
+          "timestamp": "36:01",
+          "excerpt": "Eric July video, uh a big black square. I should have said that would have been better. Yeah, there's a little bit of that in Zach. Zach wants to be look back on history. Like I didn't take a side. I wasn't with the right or the left. This is what Zach wants people to like say about him. I wasn't about the right or the left. I was about art. I was about what"
+        },
+        {
+          "timestamp": "01:12:02",
+          "excerpt": "Yeah. It's at that moment that you realize like there has to be somebody else, like an impartial system that will make it clear to everyone that you're better than them. You know, Liam Gray doesn't have that. I think he really wants something like that. An opportunity to prove that he's better. like somebody who was impartial and he almost had something kind of like"
         }
-      ],
-      "appearance_status": "uncertain"
+      ]
     },
     {
-      "entity": "Cecil",
-      "mentions": 6,
-      "block_count": 2,
-      "first_timestamp": "01:00:01",
-      "last_timestamp": "03:00:02",
-      "discussion_span_seconds": 7201.4,
-      "importance_guess": "secondary",
+      "entity": "Eric July",
+      "mentions": 10,
+      "block_count": 7,
+      "first_timestamp": "12:01",
+      "last_timestamp": "02:36:03",
+      "importance_guess": "major",
       "sentiment": {
-        "label": "positive",
-        "score": 0.778,
-        "positive_hits": 120,
-        "negative_hits": 15
+        "label": "mixed",
+        "score": 0.321,
+        "positive_hits": 35,
+        "negative_hits": 18
       },
       "receipts": [
         {
-          "timestamp": "01:00:01",
-          "excerpt": "Tony 7073. And possibly Earth is such a fascinating book. But that's what you say when you're smart. You call things fascinating. It's fascinating. Fascinating. >> That could be of great use to >> Why does he sound like Cecil's character that Cecil plays? What's Cecil's character's name? That's like hurt me. Yeah, Oxmol. He sounds like Ox. [laughter] He does though. It's not me. I'm just imitating him. He does sound the character sounds like"
+          "timestamp": "12:01",
+          "excerpt": "clears throat] tell her everything down here is yours. Everything that belongs to daddy's to daddy's yours. Uh you know what's daddy's is Ava. Hi folks, how are you? Is it better? Eric July. Eric July says Tony Soprano. Uh it is Eric July right now. Uh this is the uh day after the 4-year anniversary of Ripverse, which uh [laughter] you got I had some people yelling a"
         },
         {
-          "timestamp": "02:48:00",
-          "excerpt": "ilm Far Frogo's friends, not his kids, not his friends kids, but if I wanted to film Farago's friends hairy hippie genitals, what would I do? What's the best way to do that? Uh, Ethan, did you get that bathroom video of Cecil or Jesse? Oh, when they were staying over my house? Yeah, I did. I told Cecil, I said, \"Remember when I did that to you?\" [laughter] Remember the hidden camera you found when you were shedding in my guest bathroom? He s"
+          "timestamp": "36:01",
+          "excerpt": "Eric July video, uh a big black square. I should have said that would have been better. Yeah, there's a little bit of that in Zach. Zach wants to be look back on history. Like I didn't take"
+        },
+        {
+          "timestamp": "01:12:02",
+          "excerpt": "ng Trashcast a long time ago.\" Uh, even though he completely and fully agrees with almost everything we say here. I think early on Oh, I know. The thing is when I came out against Eric July, a lot of people said, \"Don't do that. It's going to be very costly.\" um you know in terms of uh you know fans and I knew that obviously I knew that godamn like you think I wanted"
+        },
+        {
+          "timestamp": "01:24:00",
+          "excerpt": "obodies so that he can pump this [ __ ] out quicker, faster, cheaper for himself. Uh, and uh, that's who this guy is. So, you know, it's like I I think the difference between like Eric July and somebody like Liam Gray is that if Liam Gray is making his own books, which we've debated, I'm not sure, but if he Liam says he made Dino King, if Liam did make Dino King, it'"
+        },
+        {
+          "timestamp": "01:36:00",
+          "excerpt": "ume that, Yurashima, I'm asking you what you think though. Like, if if you think John doesn't think, well, I don't want to get, you know, I don't want to get in the weeds with the Eric July drama and that's why I don't do well, what's the reason in your opinion? Uh, here's Tommy Reviews. Uh, by the way, thank you. [music] None of you [ __ ] are Chuck Dixon. >> Tommy"
         }
-      ],
-      "appearance_status": "uncertain"
+      ]
+    },
+    {
+      "entity": "Shane Davis",
+      "mentions": 10,
+      "block_count": 4,
+      "first_timestamp": "12:01",
+      "last_timestamp": "01:24:02",
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.371,
+        "positive_hits": 24,
+        "negative_hits": 11
+      },
+      "receipts": [
+        {
+          "timestamp": "12:01",
+          "excerpt": ">> [music] >> Welcome to 5XL FM where the trash flows. [music] >> There I am real small. Here I am real big. Ethan Van Skyver here. 5x LFM Philadelphia trash cast your show. You're the fan. You're the audience. You love this stuff. Can't get enough of it. And I'm here to serve it up. Nice big steaming plate of garbage for you tonight featuring some of your f"
+        },
+        {
+          "timestamp": "24:01",
+          "excerpt": "ad that's beautiful in every page, but there really isn't much work. And if you go back and look at it, you'll see that for yourself. You'll say, \"Wow, compared to what, like, say Shane Davis is putting out with the Glorious Rex right now. Like, we have to sing for our supper.\" Like, you know, we really do have to rock it. I'm not sure that we could put out a book that"
+        },
+        {
+          "timestamp": "36:01",
+          "excerpt": "Eric July video, uh a big black square. I should have said that would have been better. Yeah, there's a little bit of that in Zach. Zach wants to be look back on history. Like I didn't take a side. I wasn't with the right or the left. This is what Zach wants people to like say about him. I wasn't about the right or the left. I was about art. I was about what"
+        },
+        {
+          "timestamp": "01:12:02",
+          "excerpt": ", and I I saw it. But I was like, \"Oh man.\" Uh, I said, \"Uh, yeah, Cyberfrog, I'm the greatest.\" Like, Cyfrog is the greatest indie comic book. He goes, \"No wonder John Mailen and Shane Davis don't stream with you cuz you're saying stuff like, uh, you know, you're the greatest. Thanks a lot.\" And I was like, uh, maybe you're [clears throat] right. I don't know. Tommy R"
+        }
+      ]
+    },
+    {
+      "entity": "Cyberfrog",
+      "mentions": 10,
+      "block_count": 6,
+      "first_timestamp": "12:01",
+      "last_timestamp": "04:24:02",
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.436,
+        "positive_hits": 28,
+        "negative_hits": 11
+      },
+      "receipts": [
+        {
+          "timestamp": "12:01",
+          "excerpt": "and then and I'm like this uh and then the camera goes dark and then oops and I'm like this profile shot and I'm like getting ready to make an announcement and the announcement is Cyberfrog THC gummies sick of these woke THC gummies. Uh, hold on. Jose M says, \"Are you on good terms with head wound bar post lem meltdown?\" Oh, that's a good question. No, I mean, I can'"
+        },
+        {
+          "timestamp": "24:01",
+          "excerpt": "other day cuz I'm, you know, I'm like, I wonder uh part of me is going like, okay, when Cyber Frog 3 is done, uh what if we go ahead and we just do a monthly could I do a monthly Cyberfrog uh that takes place in the '9s so that I can tell all the ' 90s stories? I need to tell like origin stories of some of these characters and how it all happened. And I was like, I"
+        },
+        {
+          "timestamp": "01:12:02",
+          "excerpt": "a piece of history. It matters. These events will not >> Curious Comics yelled at me in the comments, by the way, and I I saw it. But I was like, \"Oh man.\" Uh, I said, \"Uh, yeah, Cyberfrog, I'm the greatest.\" Like, Cyfrog is the greatest indie comic book. He goes, \"No wonder John Mailen and Shane Davis don't stream with you cuz you're saying stuff like, uh, you know"
+        },
+        {
+          "timestamp": "02:00:01",
+          "excerpt": "only going to get bigger from here. And I thought it would, too. you know, I definitely thought uh it was going to be bigger. Uh and I told him that I said, \"Cyrog one sold this. Cyberfrog 2 sold this. We had a big improvement from one to two. Cyber Frog one was really good though. Cyberfog 2 was even better.\" Um so, you know, Eric was like, \"Yeah.\" I was like, \"If"
+        },
+        {
+          "timestamp": "02:24:01",
+          "excerpt": "nt. I spent it. I gave it here. I gave it there. What's the end result? What is the widget that you made? It's on number one. You know what I mean? That's what it is. Listen, I uh Cyberfrog books are amazing. I'm so proud of all of them. I'm so proud of them. I'll show them to anybody. Anybody will be blown away by them. Cyberfrog 3 is going to be amazing. Rainbow th"
+        }
+      ]
+    },
+    {
+      "entity": "Frog Tony",
+      "mentions": 10,
+      "block_count": 7,
+      "first_timestamp": "12:01",
+      "last_timestamp": "03:24:00",
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.623,
+        "positive_hits": 43,
+        "negative_hits": 10
+      },
+      "receipts": [
+        {
+          "timestamp": "12:01",
+          "excerpt": ">> [music] >> Welcome to 5XL FM where the trash flows. [music] >> There I am real small. Here I am real big. Ethan Van Skyver here. 5x LFM Philadelphia trash cast your show. You're the fan. You're the audience. You love this stuff. Can't get enough of it. And I'm here to serve it up. Nice big steaming plate of garbage for you tonight featuring some of your f"
+        },
+        {
+          "timestamp": "24:01",
+          "excerpt": "he and I are going to have to have a talk. I just mean a talk. By the way, I'm not saying pull up or anything. But yeah, there there are lines that you should not you should not ever cross and that's one of them. So, I don't think Lee ever did anything like that to me. Certain people um can get forgiveness. And I can look past uh indiscretions and uh you kno"
+        },
+        {
+          "timestamp": "48:01",
+          "excerpt": "His mom's Jewish, so he's Jewish like just by birth. Um, okay. Here we go. ISO number one trailer celebrating 4 years. Four years of our July. I forgot about that. I forgot about the frog croak. Remember this? So, this was a thing and and like uh the ripards were all laughing about this and then I said, \"Was that a frog croak and then getting electrocuted?\""
+        },
+        {
+          "timestamp": "01:00:01",
+          "excerpt": "characters. [music] You can see why he tries to stay out of the city. Who is this family friend and what is their connection with Darren Fontano? How does this meeting between him and Avery turn out? [music] And does he get the information [laughter] that Altona needs? How does this impact the psyche of Avery who went from a hero to now bluecollar civilian?"
+        },
+        {
+          "timestamp": "02:00:01",
+          "excerpt": "an ad. He has a [ __ ] ad in his graphic novel. You dummy. Who Who does that? so he wouldn't qualify anyway. >> First class mail isn't an option either. So when we sent via USPS, we sent priority. Believe it or not, our shipping rates weren't expensive. We actually didn't charge you guys enough. There was a time where we were like 30 grand in a hole on >> Ye"
+        }
+      ]
+    },
+    {
+      "entity": "Sturgis",
+      "mentions": 10,
+      "block_count": 1,
+      "first_timestamp": "02:48:00",
+      "last_timestamp": "03:00:02",
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.0,
+        "positive_hits": 2,
+        "negative_hits": 2
+      },
+      "receipts": [
+        {
+          "timestamp": "02:48:00",
+          "excerpt": "one in the pocket and then cut a hole like a little rip in the towel where the camera is and then you hung it on the towel rack. That would do it for uh David L says, \"Please do a Sturgis in Japan video before lem videos.\" Okay, I will. I got that coming up too. That's the subject on the Joseph Smokelli says, \"For the next Kings, can we draw our next Can we draw ou"
+        }
+      ]
     },
     {
       "entity": "ComicsGate",
@@ -371,63 +252,27 @@
       "block_count": 3,
       "first_timestamp": "01:24:00",
       "last_timestamp": "02:36:03",
-      "discussion_span_seconds": 4322.7,
       "importance_guess": "major",
       "sentiment": {
         "label": "positive",
-        "score": 0.886,
-        "positive_hits": 166,
-        "negative_hits": 10
+        "score": 0.619,
+        "positive_hits": 17,
+        "negative_hits": 4
       },
       "receipts": [
         {
           "timestamp": "01:24:00",
-          "excerpt": "better comics. He always talks about making more of them faster, delivering them quicker, and getting your money faster. He's never wanted He's never shown any interest in learning how to make comic books. Not really. These are just comic bookshaped articles. They're not real stories. He hires people who are his friends, people who will listen to him. He hires budget artists from overseas. He doesn't even keep his money in America. I me"
+          "excerpt": "better comics. He always talks about making more of them faster, delivering them quicker, and getting your money faster. He's never wanted He's never shown any interest in learning how to make comic books. Not really. These are just comic bookshaped articles. They're not real stories. He hires people who are his friends, people who will listen to him. He hir"
         },
         {
           "timestamp": "02:12:03",
-          "excerpt": "Huh? >> [laughter] >> Comics Gate is love. Yeah, that's what the warehouse looks like. Well, that's what it looked like uh a while ago. It's We don't have nearly as many and everything's up on pallets now. That [snorts] was when the toys first arrived, all the toys. And it was like the greatest thing in the world, man. When those toys first showed up, it's just awesome. And every now and then, somebody would say, \"Those books don't exis"
+          "excerpt": "Huh? >> [laughter] >> Comics Gate is love. Yeah, that's what the warehouse looks like. Well, that's what it looked like uh a while ago. It's We don't have nearly as many and everything's up on pallets now. That [snorts] was when the toys first arrived, all the toys. And it was like the greatest thing in the world, man. When those toys first showed up, it's j"
         },
         {
           "timestamp": "02:24:01",
-          "excerpt": "u don't work in comics again. You're not going to be allowed.\" Like, he was one of the gatekeepers of Comics Gate. And he bothered everybody. He bothered Graham Nolan. Like, he bothered everybody who was associated with ComicsGate. Uh, and to see this disgrace, Eric's disgrace is one thing. It's okay. It's just a little embarrassing with what Eric's going through and he's gonna he's gonna crash. Andrew Farago, I couldn't ask. If God said to me li"
+          "excerpt": "going to be allowed.\" Like, he was one of the gatekeepers of Comics Gate. And he bothered everybody. He bothered Graham Nolan. Like, he bothered everybody who was associated with ComicsGate. Uh, and to see this disgrace, Eric's disgrace is one thing. It's okay. It's just a little embarrassing with what Eric's going through and he's gonna he's gonna crash. Andrew Fara"
         }
-      ],
-      "appearance_status": "uncertain"
-    },
-    {
-      "entity": "Dick Masterson",
-      "mentions": 4,
-      "block_count": 4,
-      "first_timestamp": "00:00",
-      "last_timestamp": "02:36:03",
-      "discussion_span_seconds": 9362.6,
-      "importance_guess": "major",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.911,
-        "positive_hits": 235,
-        "negative_hits": 11
-      },
-      "receipts": [
-        {
-          "timestamp": "00:00",
-          "excerpt": "[music] [music] Loneliness [singing] is the [music] coat you wear. [singing] A deep shade [music] of blue is all [singing] there. [music] The sun ain't going to shine [music] anymore. The moon ain't going to rise to the sky. The tears are always loud [music] in your eyes when you're with [music] me. [music] Emptiness [music] is the place you're in [music] with nothing to [singing] lose but no [music] more to win. The sun ain't going to"
-        },
-        {
-          "timestamp": "48:01",
-          "excerpt": "His mom's Jewish, so he's Jewish like just by birth. Um, okay. Here we go. ISO number one trailer celebrating 4 years. Four years of our July. I forgot about that. I forgot about the frog croak. Remember this? So, this was a thing and and like uh the ripards were all laughing about this and then I said, \"Was that a frog croak and then getting electrocuted?\" Listen to that. I totally forgot about that. I mean, listen, there was a great p"
-        },
-        {
-          "timestamp": "01:12:02",
-          "excerpt": "you went to school in the 50s, says Kefo Fanatic. [laughter] I went to school in the 80s. All through the 80s. Oh, it was such a good time, guys. If you miss the 80s, I think all of you lived in the 80s. I think you're all my age roughly, maybe 10 years younger. Going to school in the 80s was the best. We had Reagan, we had the Challenger explosion, we had Cindy Looper, we had Michael Jackson. What did you guys have? Blink 182 and Bill"
-        },
-        {
-          "timestamp": "02:24:01",
-          "excerpt": "enough Eric July content. This is the four-year anniversary, so we got to take a moment to laugh at this clown. Matt Sicilian says, \"God bless Dick Mastersonson. [laughter] You can't just say like you can't. It's not a matter of like number one made 3.7 million.\" That's not what it is. It's he spent 3.7 million to make this piece of [ __ ] number one. Because all this other"
-        }
-      ],
-      "appearance_status": "uncertain"
+      ]
     },
     {
       "entity": "TheQuartering",
@@ -435,103 +280,19 @@
       "block_count": 1,
       "first_timestamp": "02:36:01",
       "last_timestamp": "02:48:02",
-      "discussion_span_seconds": 721.1,
       "importance_guess": "secondary",
       "sentiment": {
         "label": "positive",
-        "score": 0.923,
-        "positive_hits": 50,
-        "negative_hits": 2
+        "score": 1.0,
+        "positive_hits": 3,
+        "negative_hits": 0
       },
       "receipts": [
         {
           "timestamp": "02:36:01",
-          "excerpt": "films their genitals and he's going to get caught on his birthday at a birthday party. What do you think of that? I'm like, God, I love that. I'm not a I'm not a critic at all. Can there be children at his birthday party, too? I'm not saying he has to film them, but can there be children at his birthday party who he endangers as well? And God would be like, he'd be like, \"You were made in my image, son.\" Oh my god. Oh, thank you, God. I"
+          "excerpt": "films their genitals and he's going to get caught on his birthday at a birthday party. What do you think of that? I'm like, God, I love that. I'm not a I'm not a critic at all. Can there be children at his birthday party, too? I'm not saying he has to film them, but can there be children at his birthday party who he endangers as well? And God would be like,"
         }
-      ],
-      "appearance_status": "uncertain"
-    },
-    {
-      "entity": "Trashcast",
-      "mentions": 3,
-      "block_count": 3,
-      "first_timestamp": "12:01",
-      "last_timestamp": "01:24:02",
-      "discussion_span_seconds": 4320.9,
-      "importance_guess": "major",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.879,
-        "positive_hits": 232,
-        "negative_hits": 15
-      },
-      "receipts": [
-        {
-          "timestamp": "12:01",
-          "excerpt": ">> [music] >> Welcome to 5XL FM where the trash flows. [music] >> There I am real small. Here I am real big. Ethan Van Skyver here. 5x LFM Philadelphia trash cast your show. You're the fan. You're the audience. You love this stuff. Can't get enough of it. And I'm here to serve it up. Nice big steaming plate of garbage for you tonight featuring some of your favorite characters. [music] >> Hello. Hi guys. [music] >> What is this? Hot Mike"
-        },
-        {
-          "timestamp": "36:01",
-          "excerpt": "Eric July video, uh a big black square. I should have said that would have been better. Yeah, there's a little bit of that in Zach. Zach wants to be look back on history. Like I didn't take a side. I wasn't with the right or the left. This is what Zach wants people to like say about him. I wasn't about the right or the left. I was about art. I was about what art, what good art is. And ultimately, uh, I'm against people who don't appreci"
-        },
-        {
-          "timestamp": "01:12:02",
-          "excerpt": "uh why worry about the other 999? He did include me. So, I am inspiring. I am a bright shining light. Um, Northman says, \"Shane streams with you, but why not John?\" I don't know. I'm not sure. John said, \"I'm not doing Trashcast a long time ago.\" Uh, even though he completely and fully agrees with almost everything we say here. I think early on Oh, I know. The thing is when I came out against Eric July, a lot of people said, \"Don't do that. It'"
-        }
-      ],
-      "appearance_status": "uncertain"
-    },
-    {
-      "entity": "Jon Malin",
-      "mentions": 2,
-      "block_count": 2,
-      "first_timestamp": "01:12:02",
-      "last_timestamp": "04:42:59",
-      "discussion_span_seconds": 12656.7,
-      "importance_guess": "secondary",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.929,
-        "positive_hits": 82,
-        "negative_hits": 3
-      },
-      "receipts": [
-        {
-          "timestamp": "01:12:02",
-          "excerpt": "you went to school in the 50s, says Kefo Fanatic. [laughter] I went to school in the 80s. All through the 80s. Oh, it was such a good time, guys. If you miss the 80s, I think all of you lived in the 80s. I think you're all my age roughly, maybe 10 years younger. Going to school in the 80s was the best. We had Reagan, we had the Challenger explosion, we had Cindy Looper, we had Michael Jackson. What did you guys have? Blink 182 and Bill"
-        },
-        {
-          "timestamp": "04:36:01",
-          "excerpt": "it's it's sold. Yeah, this is sold. I I started it like these are bids. I started it at 99 cents. Uh and these are bids. Now JD Kirby says, \"Someone go to deal.\" Uh let me see. I'm back from watching Shane and Yansy showing up back me bro and explaining and answering questions about it. That is good. We're going to be launching BackMe Bro uh next week. So, I hope you guys are there for that. All right. I'm going to put Liam Gay's Dino t"
-        }
-      ],
-      "appearance_status": "uncertain"
-    },
-    {
-      "entity": "KatyDid",
-      "mentions": 2,
-      "block_count": 2,
-      "first_timestamp": "03:48:00",
-      "last_timestamp": "04:12:02",
-      "discussion_span_seconds": 1442.1,
-      "importance_guess": "secondary",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.621,
-        "positive_hits": 94,
-        "negative_hits": 22
-      },
-      "receipts": [
-        {
-          "timestamp": "03:48:00",
-          "excerpt": ">> I read it yesterday. I had your copy of Xenoype. I reread it and I can't find it. All right, forget it. >> And we're going to respond to it because there's some >> I'll find it. We'll look at it. It's around here somewhere. I don't know if it was intentional or otherwise. As you guys know, I call him TJ. He's JJ there. Because there's like three TJs. I'm going to have to change the name of the stream now. Can I do that live? Let me s"
-        },
-        {
-          "timestamp": "04:00:00",
-          "excerpt": ">> you know, it's Katie is a fairly recent person here, you know, >> but Liam Liam's like, uh, because Katie did this, that's why nobody wants to. He said the same thing with me. Like, because I Is he going to say me? Hold on. >> Me anyway. Because I was friends with Frog Tony. >> Okay. So, he's going to blame recent situations for the fact that people have, you know, these longstanding kind of grudges against him. Um, and they've, you"
-        }
-      ],
-      "appearance_status": "uncertain"
+      ]
     },
     {
       "entity": "Stray Beans",
@@ -539,21 +300,19 @@
       "block_count": 1,
       "first_timestamp": "04:00:00",
       "last_timestamp": "04:12:02",
-      "discussion_span_seconds": 722.3,
       "importance_guess": "passing",
       "sentiment": {
-        "label": "positive",
-        "score": 0.667,
-        "positive_hits": 50,
-        "negative_hits": 10
+        "label": "mixed",
+        "score": -0.091,
+        "positive_hits": 5,
+        "negative_hits": 6
       },
       "receipts": [
         {
           "timestamp": "04:00:00",
-          "excerpt": "a real threat or anything uh to be worried about. Otherwise, everything is real vague all the time. It's weird. Um I'm not going to watch that right now. There's a video on Katy Ds called The Tribunal of Liam Gray where Stray Beans goes over to him regarding the the CP Dropbox, the alleged CP Dropbox, and goes, \"Uh, you know, people are asking like if you had this Dropbox like and you knew names, why not say names?\" And Liam conveniently has said"
+          "excerpt": "ed about. Otherwise, everything is real vague all the time. It's weird. Um I'm not going to watch that right now. There's a video on Katy Ds called The Tribunal of Liam Gray where Stray Beans goes over to him regarding the the CP Dropbox, the alleged CP Dropbox, and goes, \"Uh, you know, people are asking like if you had this Dropbox like and you knew names, why not say"
         }
-      ],
-      "appearance_status": "uncertain"
+      ]
     },
     {
       "entity": "Aaron Imholte",
@@ -561,201 +320,105 @@
       "block_count": 1,
       "first_timestamp": "01:24:00",
       "last_timestamp": "01:36:02",
-      "discussion_span_seconds": 722.4,
       "importance_guess": "passing",
       "sentiment": {
         "label": "positive",
-        "score": 0.967,
-        "positive_hits": 59,
-        "negative_hits": 1
+        "score": 1.0,
+        "positive_hits": 3,
+        "negative_hits": 0
       },
       "receipts": [
         {
           "timestamp": "01:24:00",
-          "excerpt": "better comics. He always talks about making more of them faster, delivering them quicker, and getting your money faster. He's never wanted He's never shown any interest in learning how to make comic books. Not really. These are just comic bookshaped articles. They're not real stories. He hires people who are his friends, people who will listen to him. He hires budget artists from overseas. He doesn't even keep his money in America. I me"
+          "excerpt": "better comics. He always talks about making more of them faster, delivering them quicker, and getting your money faster. He's never wanted He's never shown any interest in learning how to make comic books. Not really. These are just comic bookshaped articles. They're not real stories. He hires people who are his friends, people who will listen to him. He hir"
         }
-      ],
-      "appearance_status": "uncertain"
-    },
-    {
-      "entity": "Alpha Core",
-      "mentions": 1,
-      "block_count": 1,
-      "first_timestamp": "02:24:01",
-      "last_timestamp": "02:36:03",
-      "discussion_span_seconds": 721.8,
-      "importance_guess": "passing",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.821,
-        "positive_hits": 71,
-        "negative_hits": 7
-      },
-      "receipts": [
-        {
-          "timestamp": "02:24:01",
-          "excerpt": "itative. You know what I mean? Like people giving you what you want and it's like what are you talking about? Like uh who's saying I want yra? Who did anybody say that? Did anybody say I want yra? Did anybody say I want alpha core? Did anybody say I want I mean people say I want shungite. And where's Shungai? I've actually heard people say I want shungite. Because you wanted it says comics. I guess that's a comic book phrase because you demanded"
-        }
-      ],
-      "appearance_status": "uncertain"
-    },
-    {
-      "entity": "BackMeBro",
-      "mentions": 1,
-      "block_count": 1,
-      "first_timestamp": "04:36:01",
-      "last_timestamp": "04:42:59",
-      "discussion_span_seconds": 418.0,
-      "importance_guess": "passing",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.833,
-        "positive_hits": 11,
-        "negative_hits": 1
-      },
-      "receipts": [
-        {
-          "timestamp": "04:36:01",
-          "excerpt": "it's it's sold. Yeah, this is sold. I I started it like these are bids. I started it at 99 cents. Uh and these are bids. Now JD Kirby says, \"Someone go to deal.\" Uh let me see. I'm back from watching Shane and Yansy showing up back me bro and explaining and answering questions about it. That is good. We're going to be launching BackMe Bro uh next week. So, I hope you guys are there for that. All right. I'm going to put Liam Gay's Dino t"
-        }
-      ],
-      "appearance_status": "uncertain"
-    },
-    {
-      "entity": "Fencegate",
-      "mentions": 1,
-      "block_count": 1,
-      "first_timestamp": "03:36:01",
-      "last_timestamp": "03:47:59",
-      "discussion_span_seconds": 718.4,
-      "importance_guess": "passing",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.833,
-        "positive_hits": 44,
-        "negative_hits": 4
-      },
-      "receipts": [
-        {
-          "timestamp": "03:36:01",
-          "excerpt": "and over here all the way down there. Some more Sudowoods. We got some geodudes. >> Geodudes >> and a Graler. This is foreplay. >> Got the elf up there chilling, sleeping. >> Wow, I see the light. Sturgis is tough as P count. This is really funny. [laughter] There's a horn. There's another horn that's up his butthole. Look. [laughter] Oh, look. There's the horn that he was sitting on. Oh, that's disgusting. Oh my god. Oh, look at this."
-        }
-      ],
-      "appearance_status": "uncertain"
+      ]
     }
   ],
   "chapters": [
     {
       "start": "00:00",
       "end": "11:55",
-      "title": "Dick Masterson",
-      "entities": [
-        "Dick Masterson"
-      ],
-      "summary_seed": "[music] [music] Loneliness [singing] is the [music] coat you wear. [singing] A deep shade [music] of blue is all [singing] there. [music] The sun ain't going to shine [music] anymore. The moon ain't going to rise to the sky. The tears are always loud [music] in your eyes when you're with [music] me. [music] Emptiness [music] is the place you're in [music] with nothing to [singing] lose but no [music] more to win. The",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "[music] [music] Loneliness [singing] is the [music] coat you wear. [singing] A deep shade [music] of blue is all [singing] there. [music] The sun ain't going to shine [music] anymore. The moon ain't going to rise to the sky. The tears are always loud [music] in your eyes when you're with [music] me. [music] Emptiness [music] is the place you're in"
     },
     {
       "start": "12:01",
       "end": "24:02",
-      "title": "Clip/reaction: Ethan Van Sciver / Liam Gray / Eric July",
+      "title": "Liam Gray / Eric July / Cyberfrog",
       "entities": [
-        "Ethan Van Sciver",
         "Liam Gray",
         "Eric July",
-        "Shane Davis",
-        "Cyberfrog",
-        "Frog Tony",
-        "Trashcast"
+        "Cyberfrog"
       ],
-      "summary_seed": ">> [music] >> Welcome to 5XL FM where the trash flows. [music] >> There I am real small. Here I am real big. Ethan Van Skyver here. 5x LFM Philadelphia trash cast your show. You're the fan. You're the audience. You love this stuff. Can't get enough of it. And I'm here to serve it up. Nice big steaming plate of garbage for you tonight featuring some of your favorite characters. [music] >> Hello. Hi guys. [music] >> Wh",
-      "clip_likelihood": true,
-      "transition_markers": 0
+      "possible_clip": true,
+      "summary_seed": ">> [music] >> Welcome to 5XL FM where the trash flows. [music] >> There I am real small. Here I am real big. Ethan Van Skyver here. 5x LFM Philadelphia trash cast your show. You're the fan. You're the audience. You love this stuff. Can't get enough of it. And I'm here to serve it up. Nice big steaming plate of garbage for you tonight featuring some"
     },
     {
       "start": "24:01",
       "end": "36:04",
-      "title": "Cyberfrog / Shane Davis / Frog Tony",
+      "title": "Eric July / Shane Davis / Cyberfrog",
       "entities": [
-        "Cyberfrog",
+        "Eric July",
         "Shane Davis",
-        "Frog Tony"
+        "Cyberfrog"
       ],
-      "summary_seed": "he and I are going to have to have a talk. I just mean a talk. By the way, I'm not saying pull up or anything. But yeah, there there are lines that you should not you should not ever cross and that's one of them. So, I don't think Lee ever did anything like that to me. Certain people um can get forgiveness. And I can look past uh indiscretions and uh you know, past unkind words. Yeah. Not not that that's I once you d",
-      "clip_likelihood": false,
-      "transition_markers": 1
+      "possible_clip": false,
+      "summary_seed": "he and I are going to have to have a talk. I just mean a talk. By the way, I'm not saying pull up or anything. But yeah, there there are lines that you should not you should not ever cross and that's one of them. So, I don't think Lee ever did anything like that to me. Certain people um can get forgiveness. And I can look past uh indiscretions and"
     },
     {
       "start": "36:01",
       "end": "48:03",
-      "title": "Shane Davis / Ethan Van Sciver / Liam Gray",
+      "title": "Eric July",
       "entities": [
-        "Shane Davis",
-        "Ethan Van Sciver",
-        "Liam Gray",
-        "Eric July",
-        "Trashcast"
+        "Eric July"
       ],
-      "summary_seed": "Eric July video, uh a big black square. I should have said that would have been better. Yeah, there's a little bit of that in Zach. Zach wants to be look back on history. Like I didn't take a side. I wasn't with the right or the left. This is what Zach wants people to like say about him. I wasn't about the right or the left. I was about art. I was about what art, what good art is. And ultimately, uh, I'm against peop",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "possible_clip": false,
+      "summary_seed": "Eric July video, uh a big black square. I should have said that would have been better. Yeah, there's a little bit of that in Zach. Zach wants to be look back on history. Like I didn't take a side. I wasn't with the right or the left. This is what Zach wants people to like say about him. I wasn't about the right or the left. I was about art. I was"
     },
     {
       "start": "48:01",
       "end": "01:00:03",
-      "title": "Frog Tony / Ethan Van Sciver / Dick Masterson",
+      "title": "Eric July",
       "entities": [
-        "Frog Tony",
-        "Ethan Van Sciver",
-        "Dick Masterson"
+        "Eric July"
       ],
-      "summary_seed": "His mom's Jewish, so he's Jewish like just by birth. Um, okay. Here we go. ISO number one trailer celebrating 4 years. Four years of our July. I forgot about that. I forgot about the frog croak. Remember this? So, this was a thing and and like uh the ripards were all laughing about this and then I said, \"Was that a frog croak and then getting electrocuted?\" Listen to that. I totally forgot about that. I mean, listen,",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "possible_clip": false,
+      "summary_seed": "His mom's Jewish, so he's Jewish like just by birth. Um, okay. Here we go. ISO number one trailer celebrating 4 years. Four years of our July. I forgot about that. I forgot about the frog croak. Remember this? So, this was a thing and and like uh the ripards were all laughing about this and then I said, \"Was that a frog croak and then getting elect"
     },
     {
       "start": "01:00:01",
       "end": "01:12:04",
-      "title": "Cecil / Ethan Van Sciver / Frog Tony",
-      "entities": [
-        "Cecil",
-        "Ethan Van Sciver",
-        "Frog Tony"
-      ],
-      "summary_seed": "characters. [music] You can see why he tries to stay out of the city. Who is this family friend and what is their connection with Darren Fontano? How does this meeting between him and Avery turn out? [music] And does he get the information [laughter] that Altona needs? How does this impact the psyche of Avery who went from a hero to now bluecollar civilian? [laughter] These are all questions that will be answered in",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "characters. [music] You can see why he tries to stay out of the city. Who is this family friend and what is their connection with Darren Fontano? How does this meeting between him and Avery turn out? [music] And does he get the information [laughter] that Altona needs? How does this impact the psyche of Avery who went from a hero to now bluecollar"
     },
     {
       "start": "01:12:02",
       "end": "01:24:02",
-      "title": "Liam Gray / Shane Davis / Cyberfrog",
+      "title": "Liam Gray / Eric July / Shane Davis",
       "entities": [
         "Liam Gray",
-        "Shane Davis",
-        "Cyberfrog",
         "Eric July",
-        "Dick Masterson",
-        "Trashcast",
-        "Jon Malin"
+        "Shane Davis",
+        "Cyberfrog"
       ],
-      "summary_seed": "you went to school in the 50s, says Kefo Fanatic. [laughter] I went to school in the 80s. All through the 80s. Oh, it was such a good time, guys. If you miss the 80s, I think all of you lived in the 80s. I think you're all my age roughly, maybe 10 years younger. Going to school in the 80s was the best. We had Reagan, we had the Challenger explosion, we had Cindy Looper, we had Michael Jackson. What did you guys have?",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "possible_clip": false,
+      "summary_seed": "you went to school in the 50s, says Kefo Fanatic. [laughter] I went to school in the 80s. All through the 80s. Oh, it was such a good time, guys. If you miss the 80s, I think all of you lived in the 80s. I think you're all my age roughly, maybe 10 years younger. Going to school in the 80s was the best. We had Reagan, we had the Challenger explosion"
     },
     {
       "start": "01:24:00",
       "end": "01:36:02",
-      "title": "Clip/reaction: Eric July / ComicsGate / Aaron Imholte",
+      "title": "Liam Gray / Eric July",
       "entities": [
-        "Eric July",
-        "ComicsGate",
-        "Aaron Imholte"
+        "Liam Gray",
+        "Eric July"
       ],
-      "summary_seed": "better comics. He always talks about making more of them faster, delivering them quicker, and getting your money faster. He's never wanted He's never shown any interest in learning how to make comic books. Not really. These are just comic bookshaped articles. They're not real stories. He hires people who are his friends, people who will listen to him. He hires budget artists from overseas. He doesn't even keep his mo",
-      "clip_likelihood": true,
-      "transition_markers": 0
+      "possible_clip": true,
+      "summary_seed": "better comics. He always talks about making more of them faster, delivering them quicker, and getting your money faster. He's never wanted He's never shown any interest in learning how to make comic books. Not really. These are just comic bookshaped articles. They're not real stories. He hires people who are his friends, people who will listen to h"
     },
     {
       "start": "01:36:00",
@@ -764,9 +427,8 @@
       "entities": [
         "Eric July"
       ],
-      "summary_seed": ">> uh your e I don't believe John thinks that way. Um thinks what way? What do you think John thinks about it? All right, hold on a second. You can don't just send me a little super chat that says that. Uh Mike D83 says, uh I don't think Liam made Dino King as when asked to draw it, he would intentionally get his stream copyright struck. Is that true? How many of these rip averse ethics were broken? Says uh Jay Bama.",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "possible_clip": false,
+      "summary_seed": ">> uh your e I don't believe John thinks that way. Um thinks what way? What do you think John thinks about it? All right, hold on a second. You can don't just send me a little super chat that says that. Uh Mike D83 says, uh I don't think Liam made Dino King as when asked to draw it, he would intentionally get his stream copyright struck. Is that tr"
     },
     {
       "start": "01:48:00",
@@ -775,1032 +437,546 @@
       "entities": [
         "Eric July"
       ],
-      "summary_seed": "her jewelry business uh and turned that money over to Eric and his comic book business. Um but she had to put an advertisement for her jewelry business in his book. There are some people who believe that's the case. Sounds plausible to me. At first, I thought it was silly because I was like, because she put an ad in your book, you can't use media mail to ship anymore because there's an advertisement in it. And theref",
-      "clip_likelihood": false,
-      "transition_markers": 1
+      "possible_clip": false,
+      "summary_seed": "her jewelry business uh and turned that money over to Eric and his comic book business. Um but she had to put an advertisement for her jewelry business in his book. There are some people who believe that's the case. Sounds plausible to me. At first, I thought it was silly because I was like, because she put an ad in your book, you can't use media m"
     },
     {
       "start": "02:00:01",
       "end": "02:11:59",
-      "title": "Cyberfrog / Frog Tony",
-      "entities": [
-        "Cyberfrog",
-        "Frog Tony"
-      ],
-      "summary_seed": "an ad. He has a [ __ ] ad in his graphic novel. You dummy. Who Who does that? so he wouldn't qualify anyway. >> First class mail isn't an option either. So when we sent via USPS, we sent priority. Believe it or not, our shipping rates weren't expensive. We actually didn't charge you guys enough. There was a time where we were like 30 grand in a hole on >> Yeah, we got [ __ ] too on uh um warts and all. Warts and all",
-      "clip_likelihood": false,
-      "transition_markers": 1
-    },
-    {
-      "start": "02:12:03",
-      "end": "02:24:03",
-      "title": "ComicsGate",
-      "entities": [
-        "ComicsGate"
-      ],
-      "summary_seed": "Huh? >> [laughter] >> Comics Gate is love. Yeah, that's what the warehouse looks like. Well, that's what it looked like uh a while ago. It's We don't have nearly as many and everything's up on pallets now. That [snorts] was when the toys first arrived, all the toys. And it was like the greatest thing in the world, man. When those toys first showed up, it's just awesome. And every now and then, somebody would say, \"Th",
-      "clip_likelihood": false,
-      "transition_markers": 1
-    },
-    {
-      "start": "02:24:01",
-      "end": "02:36:03",
-      "title": "ComicsGate / Cyberfrog / Eric July",
-      "entities": [
-        "ComicsGate",
-        "Cyberfrog",
-        "Eric July",
-        "Dick Masterson",
-        "Alpha Core"
-      ],
-      "summary_seed": "enough Eric July content. This is the four-year anniversary, so we got to take a moment to laugh at this clown. Matt Sicilian says, \"God bless Dick Mastersonson. [laughter] You can't just say like you can't. It's not a matter of like number one made 3.7 million.\" That's not what it is. It's he spent 3.7 million to make this piece of [ __ ] number one. Because all this other stuff is like irrelevant. I spent it. I gav",
-      "clip_likelihood": false,
-      "transition_markers": 0
-    },
-    {
-      "start": "02:36:01",
-      "end": "02:48:02",
-      "title": "TheQuartering / Frog Tony",
-      "entities": [
-        "TheQuartering",
-        "Frog Tony"
-      ],
-      "summary_seed": "films their genitals and he's going to get caught on his birthday at a birthday party. What do you think of that? I'm like, God, I love that. I'm not a I'm not a critic at all. Can there be children at his birthday party, too? I'm not saying he has to film them, but can there be children at his birthday party who he endangers as well? And God would be like, he'd be like, \"You were made in my image, son.\" Oh my god. O",
-      "clip_likelihood": false,
-      "transition_markers": 2
-    },
-    {
-      "start": "02:48:00",
-      "end": "03:00:02",
-      "title": "Clip/reaction: Sturgis / Cecil",
-      "entities": [
-        "Sturgis",
-        "Cecil"
-      ],
-      "summary_seed": "that would be arranged. Like there's room up there, but still. Yeah, it would have to look messy in order for that to be something that you could do hidden in a towel. What if it's on a towel rack? What if you had a towel? What if you had a towel with a pocket in it and then you put the phone in the pocket and then cut a hole like a little rip in the towel where the camera is and then you hung it on the towel rack. T",
-      "clip_likelihood": true,
-      "transition_markers": 0
-    },
-    {
-      "start": "03:00:01",
-      "end": "03:12:03",
-      "title": "Clip/reaction: General discussion",
-      "entities": [],
-      "summary_seed": "would have a problem. I wouldn't have a problem. [laughter] He's in Poke Park in Japan. He's like flexing on the fact that like there's a slight incline. uh here and he's going to do it. He like he's like my fat haters. That's me. I'm not a I don't hate Do I hate Sturgis? Uh he is smiling right now. He's smirking. He is smirking right now cuz he just owned his haters. So he's saying, \"I'm not going to have a problem",
-      "clip_likelihood": true,
-      "transition_markers": 1
-    },
-    {
-      "start": "03:12:01",
-      "end": "03:24:00",
-      "title": "Frog Tony",
-      "entities": [
-        "Frog Tony"
-      ],
-      "summary_seed": "[laughter] Why? Why is Why are we zooming in on those people? This was the last time they were seen. They didn't realize that they were standing right next to their killer. They had no idea. Look at that face, dude. That is devastating. Why did the camera zoom in on them, on those individuals that are not his family or friends? Mad Relic says that looks like it's Disney California, but Pokemon themed and without dece",
-      "clip_likelihood": false,
-      "transition_markers": 0
-    },
-    {
-      "start": "03:24:03",
-      "end": "03:36:04",
-      "title": "General discussion",
-      "entities": [],
-      "summary_seed": ">> [music] [music] >> Heat. Heat. [music] Heat [music] up [music] here. [music] Okay, I'm I'm back. Okay, that's fine. Sorry about that. Yeah, I froze and then I couldn't get back. Let's get back to the Pikachu show, shall we? All right, hold on. We're waiting on uh It's not up yet. I don't know what's going on. We're having a little difficulty here. Can't see anything. I know. I know. Take it out. Put it back in. Ta",
-      "clip_likelihood": false,
-      "transition_markers": 1
-    },
-    {
-      "start": "03:36:01",
-      "end": "03:47:59",
-      "title": "Clip/reaction: Fencegate",
-      "entities": [
-        "Fencegate"
-      ],
-      "summary_seed": "and over here all the way down there. Some more Sudowoods. We got some geodudes. >> Geodudes >> and a Graler. This is foreplay. >> Got the elf up there chilling, sleeping. >> Wow, I see the light. Sturgis is tough as P count. This is really funny. [laughter] There's a horn. There's another horn that's up his butthole. Look. [laughter] Oh, look. There's the horn that he was sitting on. Oh, that's disgusting. Oh my god",
-      "clip_likelihood": true,
-      "transition_markers": 1
-    },
-    {
-      "start": "03:48:00",
-      "end": "04:00:03",
-      "title": "KatyDid",
-      "entities": [
-        "KatyDid"
-      ],
-      "summary_seed": ">> I read it yesterday. I had your copy of Xenoype. I reread it and I can't find it. All right, forget it. >> And we're going to respond to it because there's some >> I'll find it. We'll look at it. It's around here somewhere. I don't know if it was intentional or otherwise. As you guys know, I call him TJ. He's JJ there. Because there's like three TJs. I'm going to have to change the name of the stream now. Can I do",
-      "clip_likelihood": false,
-      "transition_markers": 3
-    },
-    {
-      "start": "04:00:00",
-      "end": "04:12:02",
-      "title": "Clip/reaction: Dropbox Drama / Stray Beans / KatyDid",
-      "entities": [
-        "Dropbox Drama",
-        "Stray Beans",
-        "KatyDid"
-      ],
-      "summary_seed": ">> you know, it's Katie is a fairly recent person here, you know, >> but Liam Liam's like, uh, because Katie did this, that's why nobody wants to. He said the same thing with me. Like, because I Is he going to say me? Hold on. >> Me anyway. Because I was friends with Frog Tony. >> Okay. So, he's going to blame recent situations for the fact that people have, you know, these longstanding kind of grudges against him. U",
-      "clip_likelihood": true,
-      "transition_markers": 4
-    },
-    {
-      "start": "04:12:00",
-      "end": "04:24:02",
       "title": "Cyberfrog",
       "entities": [
         "Cyberfrog"
       ],
-      "summary_seed": "It doesn't prove anything. There's so much weirdness. Like, there's just It does not prove a goddamn thing. Oh, that you're saying none of your uh off camera narration. Yeah. And people say that the police officer sounded a bit like your wife. bit like your wife in any case. But it like I don't know why she would need to even be like you don't need to fake and have that be your wife because she didn't say anything. S",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "possible_clip": false,
+      "summary_seed": "an ad. He has a [ __ ] ad in his graphic novel. You dummy. Who Who does that? so he wouldn't qualify anyway. >> First class mail isn't an option either. So when we sent via USPS, we sent priority. Believe it or not, our shipping rates weren't expensive. We actually didn't charge you guys enough. There was a time where we were like 30 grand in a hol"
+    },
+    {
+      "start": "02:12:03",
+      "end": "02:24:03",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "Huh? >> [laughter] >> Comics Gate is love. Yeah, that's what the warehouse looks like. Well, that's what it looked like uh a while ago. It's We don't have nearly as many and everything's up on pallets now. That [snorts] was when the toys first arrived, all the toys. And it was like the greatest thing in the world, man. When those toys first showed"
+    },
+    {
+      "start": "02:24:01",
+      "end": "02:36:03",
+      "title": "Eric July / ComicsGate / Cyberfrog",
+      "entities": [
+        "Eric July",
+        "ComicsGate",
+        "Cyberfrog"
+      ],
+      "possible_clip": false,
+      "summary_seed": "enough Eric July content. This is the four-year anniversary, so we got to take a moment to laugh at this clown. Matt Sicilian says, \"God bless Dick Mastersonson. [laughter] You can't just say like you can't. It's not a matter of like number one made 3.7 million.\" That's not what it is. It's he spent 3.7 million to make this piece of [ __ ] number o"
+    },
+    {
+      "start": "02:36:01",
+      "end": "02:48:02",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "films their genitals and he's going to get caught on his birthday at a birthday party. What do you think of that? I'm like, God, I love that. I'm not a I'm not a critic at all. Can there be children at his birthday party, too? I'm not saying he has to film them, but can there be children at his birthday party who he endangers as well? And God would"
+    },
+    {
+      "start": "02:48:00",
+      "end": "03:00:02",
+      "title": "Sturgis",
+      "entities": [
+        "Sturgis"
+      ],
+      "possible_clip": true,
+      "summary_seed": "that would be arranged. Like there's room up there, but still. Yeah, it would have to look messy in order for that to be something that you could do hidden in a towel. What if it's on a towel rack? What if you had a towel? What if you had a towel with a pocket in it and then you put the phone in the pocket and then cut a hole like a little rip in t"
+    },
+    {
+      "start": "03:00:01",
+      "end": "03:12:03",
+      "title": "Eric July / Sturgis",
+      "entities": [
+        "Eric July",
+        "Sturgis"
+      ],
+      "possible_clip": true,
+      "summary_seed": "would have a problem. I wouldn't have a problem. [laughter] He's in Poke Park in Japan. He's like flexing on the fact that like there's a slight incline. uh here and he's going to do it. He like he's like my fat haters. That's me. I'm not a I don't hate Do I hate Sturgis? Uh he is smiling right now. He's smirking. He is smirking right now cuz he ju"
+    },
+    {
+      "start": "03:12:01",
+      "end": "03:24:00",
+      "title": "Frog Tony / Sturgis",
+      "entities": [
+        "Frog Tony",
+        "Sturgis"
+      ],
+      "possible_clip": false,
+      "summary_seed": "[laughter] Why? Why is Why are we zooming in on those people? This was the last time they were seen. They didn't realize that they were standing right next to their killer. They had no idea. Look at that face, dude. That is devastating. Why did the camera zoom in on them, on those individuals that are not his family or friends? Mad Relic says that"
+    },
+    {
+      "start": "03:24:03",
+      "end": "03:36:04",
+      "title": "Sturgis",
+      "entities": [
+        "Sturgis"
+      ],
+      "possible_clip": false,
+      "summary_seed": ">> [music] [music] >> Heat. Heat. [music] Heat [music] up [music] here. [music] Okay, I'm I'm back. Okay, that's fine. Sorry about that. Yeah, I froze and then I couldn't get back. Let's get back to the Pikachu show, shall we? All right, hold on. We're waiting on uh It's not up yet. I don't know what's going on. We're having a little difficulty her"
+    },
+    {
+      "start": "03:36:01",
+      "end": "03:47:59",
+      "title": "Liam Gray / Sturgis",
+      "entities": [
+        "Liam Gray",
+        "Sturgis"
+      ],
+      "possible_clip": true,
+      "summary_seed": "and over here all the way down there. Some more Sudowoods. We got some geodudes. >> Geodudes >> and a Graler. This is foreplay. >> Got the elf up there chilling, sleeping. >> Wow, I see the light. Sturgis is tough as P count. This is really funny. [laughter] There's a horn. There's another horn that's up his butthole. Look. [laughter] Oh, look. The"
+    },
+    {
+      "start": "03:48:00",
+      "end": "04:00:03",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": ">> I read it yesterday. I had your copy of Xenoype. I reread it and I can't find it. All right, forget it. >> And we're going to respond to it because there's some >> I'll find it. We'll look at it. It's around here somewhere. I don't know if it was intentional or otherwise. As you guys know, I call him TJ. He's JJ there. Because there's like three"
+    },
+    {
+      "start": "04:00:00",
+      "end": "04:12:02",
+      "title": "Liam Gray / Frog Tony / Shane Davis",
+      "entities": [
+        "Liam Gray",
+        "Frog Tony",
+        "Shane Davis",
+        "Stray Beans"
+      ],
+      "possible_clip": true,
+      "summary_seed": ">> you know, it's Katie is a fairly recent person here, you know, >> but Liam Liam's like, uh, because Katie did this, that's why nobody wants to. He said the same thing with me. Like, because I Is he going to say me? Hold on. >> Me anyway. Because I was friends with Frog Tony. >> Okay. So, he's going to blame recent situations for the fact that pe"
+    },
+    {
+      "start": "04:12:00",
+      "end": "04:24:02",
+      "title": "Liam Gray / Cyberfrog",
+      "entities": [
+        "Liam Gray",
+        "Cyberfrog"
+      ],
+      "possible_clip": false,
+      "summary_seed": "It doesn't prove anything. There's so much weirdness. Like, there's just It does not prove a goddamn thing. Oh, that you're saying none of your uh off camera narration. Yeah. And people say that the police officer sounded a bit like your wife. bit like your wife in any case. But it like I don't know why she would need to even be like you don't need"
     },
     {
       "start": "04:24:00",
       "end": "04:36:04",
-      "title": "General discussion",
-      "entities": [],
-      "summary_seed": "this is a daycare. Come on, guys. Show me what you got. So, this is more Liam training the kids kind of fantasy, I think. Hey, mom. Why don't you check in the Strafords? I'll take care of this. [laughter] Thanks, sweetie. Uh, and then more of this kind of like this guy's not standing for Lyn, but if he was like, you could see why he would be because she's playing with all the kids, you know, he's roughousing with him",
-      "clip_likelihood": false,
-      "transition_markers": 3
+      "title": "Liam Gray / Cyberfrog",
+      "entities": [
+        "Liam Gray",
+        "Cyberfrog"
+      ],
+      "possible_clip": false,
+      "summary_seed": "this is a daycare. Come on, guys. Show me what you got. So, this is more Liam training the kids kind of fantasy, I think. Hey, mom. Why don't you check in the Strafords? I'll take care of this. [laughter] Thanks, sweetie. Uh, and then more of this kind of like this guy's not standing for Lyn, but if he was like, you could see why he would be becaus"
     },
     {
       "start": "04:36:01",
       "end": "04:42:59",
-      "title": "Jon Malin / BackMeBro",
+      "title": "Liam Gray / Sturgis / Shane Davis",
       "entities": [
-        "Jon Malin",
-        "BackMeBro"
+        "Liam Gray",
+        "Sturgis",
+        "Shane Davis"
       ],
-      "summary_seed": "it's it's sold. Yeah, this is sold. I I started it like these are bids. I started it at 99 cents. Uh and these are bids. Now JD Kirby says, \"Someone go to deal.\" Uh let me see. I'm back from watching Shane and Yansy showing up back me bro and explaining and answering questions about it. That is good. We're going to be launching BackMe Bro uh next week. So, I hope you guys are there for that. All right. I'm going to p",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "possible_clip": false,
+      "summary_seed": "it's it's sold. Yeah, this is sold. I I started it like these are bids. I started it at 99 cents. Uh and these are bids. Now JD Kirby says, \"Someone go to deal.\" Uh let me see. I'm back from watching Shane and Yansy showing up back me bro and explaining and answering questions about it. That is good. We're going to be launching BackMe Bro uh next w"
     }
   ],
   "claim_candidates": [
     {
-      "claimant": "ass and took the key and",
-      "claim": "he shared custody.",
-      "timestamp": "00:00",
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Liam Gray",
+        "Stray Beans"
+      ],
+      "claim": "There's a video on Katy Ds called The Tribunal of Liam Gray where Stray Beans goes over to him regarding the the CP Dropbox, the alleged CP Dropbox, and goes, \"Uh, you know, people are asking like if you had this Dropbox like and you knew names, why not say names?\" And Liam conveniently has said that like he reported the Dropbox, he's responsible for Jim Jimmy Slick getting arrested.",
+      "timestamp": "04:00:00",
       "status": "candidate_claim",
-      "receipt": "Call a ho ass [ __ ] Wife's boyfriend left your [ __ ] ass and took the key and said he shared custody."
+      "confidence": 0.55,
+      "receipt": "There's a video on Katy Ds called The Tribunal of Liam Gray where Stray Beans goes over to him regarding the the CP Dropbox, the alleged CP Dropbox, and goes, \"Uh, you know, people are asking like if you had this Dropbox like and you knew names, why not say names?\" And Liam conveniently has said that like he reported the Dropbox, he's responsible for Jim Jimmy Slick getting arrested."
     },
     {
       "claimant": "unknown speaker",
-      "claim": "your timeline might [music] be off on that one, brother.",
-      "timestamp": "00:00",
-      "status": "opinion_or_inference",
-      "receipt": "I think your timeline might [music] be off on that one, brother."
+      "subjects": [
+        "Stray Beans"
+      ],
+      "claim": "And it's complete [ __ ] And then like Stray Beans walks away from that going, \"See, I told you we take accountability for the things that we say around here.\" Uh, nothing was said.",
+      "timestamp": "04:00:00",
+      "status": "candidate_claim",
+      "confidence": 0.55,
+      "receipt": "And it's complete [ __ ] And then like Stray Beans walks away from that going, \"See, I told you we take accountability for the things that we say around here.\" Uh, nothing was said."
     },
     {
       "claimant": "unknown speaker",
-      "claim": "your timeline might be off on that one because Good Sheeperd is alleging that we [music] have had unauthorized use of their trademark.",
-      "timestamp": "00:00",
-      "status": "opinion_or_inference",
-      "receipt": "No, I think your timeline might be off on that one because Good Sheeperd is alleging that we [music] have had unauthorized use of their trademark."
-    },
-    {
-      "claimant": "my mom",
-      "claim": "you don't go screw skanky ho or you going to get me when I was 17.",
-      "timestamp": "00:00",
+      "subjects": [
+        "Cyberfrog"
+      ],
+      "claim": "But I was like, \"Oh man.\" Uh, I said, \"Uh, yeah, Cyberfrog, I'm the greatest.\" Like, Cyfrog is the greatest indie comic book.",
+      "timestamp": "01:12:02",
       "status": "candidate_claim",
-      "receipt": "[music] [music] When I was only three, [music] my mom said you don't go screw skanky ho or you going to get me when I was 17."
-    },
-    {
-      "claimant": "for the anniversary of Ripverse and I",
-      "claim": "uh no.",
-      "timestamp": "12:01",
-      "status": "candidate_claim",
-      "receipt": "Uh this is the uh day after the 4-year anniversary of Ripverse, which uh [laughter] you got I had some people yelling at me saying uh hey uh you know you didn't do anything for the anniversary of Ripverse and I said uh no."
+      "confidence": 0.55,
+      "receipt": "But I was like, \"Oh man.\" Uh, I said, \"Uh, yeah, Cyberfrog, I'm the greatest.\" Like, Cyfrog is the greatest indie comic book."
     },
     {
       "claimant": "unknown speaker",
-      "claim": "this is the same shirt he wore on his Fox.",
-      "timestamp": "12:01",
-      "status": "opinion_or_inference",
-      "receipt": "[laughter] I think this is the same shirt he wore on his Fox."
+      "subjects": [
+        "Sturgis"
+      ],
+      "claim": "That would do it for uh David L says, \"Please do a Sturgis in Japan video before lem videos.\" Okay, I will.",
+      "timestamp": "02:48:00",
+      "status": "candidate_claim",
+      "confidence": 0.55,
+      "receipt": "That would do it for uh David L says, \"Please do a Sturgis in Japan video before lem videos.\" Okay, I will."
     },
     {
       "claimant": "unknown speaker",
-      "claim": "this is the same shirt that he wore on his Fox News appearance.",
-      "timestamp": "12:01",
-      "status": "opinion_or_inference",
-      "receipt": "Like, uh, yeah, I think this is the same shirt that he wore on his Fox News appearance."
-    },
-    {
-      "claimant": "here's Jose M",
-      "claim": "that frame is his rip signal.",
-      "timestamp": "12:01",
+      "subjects": [
+        "Sturgis"
+      ],
+      "claim": "It's the only time the only time a woman will play with Sturgis' balls, says Commiskate Drama.",
+      "timestamp": "03:12:01",
       "status": "candidate_claim",
-      "receipt": "Uh, here's Jose M says that frame is his rip signal."
-    },
-    {
-      "claimant": "so Shane and Yansy",
-      "claim": "they want to put off the launch of BackMe Bro a week.",
-      "timestamp": "12:01",
-      "status": "candidate_claim",
-      "receipt": "I'll let you know.\" And then he said, \"We're going to put it off a week.\" And I went, \"Okay.\" Uh, so Shane and Yansy said they want to put off the launch of BackMe Bro a week."
+      "confidence": 0.55,
+      "receipt": "It's the only time the only time a woman will play with Sturgis' balls, says Commiskate Drama."
     },
     {
       "claimant": "unknown speaker",
-      "claim": "there are like three or four different Atrocities figures if I'm not mistaken.",
-      "timestamp": "24:01",
-      "status": "opinion_or_inference",
-      "receipt": "And I think there are like three or four different Atrocities figures if I'm not mistaken."
-    },
-    {
-      "claimant": "Um but anyway this Bovian and somebody",
-      "claim": "did you create Bovian?",
-      "timestamp": "24:01",
+      "subjects": [
+        "Liam Gray"
+      ],
+      "claim": "He says, \"I want to be an illustrator.\" So, this is in no way a standin for Liam Gray.",
+      "timestamp": "04:12:00",
       "status": "candidate_claim",
-      "receipt": "Um but anyway this Bovian and somebody said did you create Bovian?"
+      "confidence": 0.55,
+      "receipt": "He says, \"I want to be an illustrator.\" So, this is in no way a standin for Liam Gray."
     },
     {
       "claimant": "unknown speaker",
-      "claim": "Eric is really good at, uh, is Eric is good at presenting L's, which are obviously L's to anyone who knows, uh, as W's.",
-      "timestamp": "24:01",
-      "status": "opinion_or_inference",
-      "receipt": "One of the things that I think Eric is really good at, uh, is Eric is good at presenting L's, which are obviously L's to anyone who knows, uh, as W's."
-    },
-    {
-      "claimant": "Yash Mataro",
-      "claim": "hashets means leash in ripene.",
-      "timestamp": "24:01",
+      "subjects": [
+        "Eric July"
+      ],
+      "claim": "The thing is when I came out against Eric July, a lot of people said, \"Don't do that.",
+      "timestamp": "01:12:02",
       "status": "candidate_claim",
-      "receipt": "Yash Mataro says hashets means leash in ripene."
-    },
-    {
-      "claimant": "Jose M",
-      "claim": "you ever feel like Zach uh takes pot shots over here by talking about people sending super chats and you reading them or is he referring to F&T exclusively?",
-      "timestamp": "24:01",
-      "status": "candidate_claim",
-      "receipt": "Jose M says you ever feel like Zach uh takes pot shots over here by talking about people sending super chats and you reading them or is he referring to F&T exclusively?"
+      "confidence": 0.55,
+      "receipt": "The thing is when I came out against Eric July, a lot of people said, \"Don't do that."
     },
     {
       "claimant": "unknown speaker",
-      "claim": "there are some like when you say all current comics are [ __ ] you're wrong.",
-      "timestamp": "24:01",
-      "status": "opinion_or_inference",
-      "receipt": "Like I just I think there are some like when you say all current comics are [ __ ] you're wrong."
+      "subjects": [
+        "Sturgis"
+      ],
+      "claim": "Sturgis is a delight than trying to understand what Yansy said about it.",
+      "timestamp": "04:36:01",
+      "status": "candidate_claim",
+      "confidence": 0.55,
+      "receipt": "Sturgis is a delight than trying to understand what Yansy said about it."
     },
     {
       "claimant": "unknown speaker",
-      "claim": "that's [ __ ] weird and psycho.",
-      "timestamp": "24:01",
-      "status": "opinion_or_inference",
-      "receipt": "I think that's [ __ ] weird and psycho."
-    },
-    {
-      "claimant": "I should have",
-      "claim": "that would have been better.",
-      "timestamp": "36:01",
+      "subjects": [
+        "Shane Davis"
+      ],
+      "claim": "Uh Shane Davis says, \"Zoom in.\" Zoom in on what?",
+      "timestamp": "04:36:01",
       "status": "candidate_claim",
-      "receipt": "I should have said that would have been better."
+      "confidence": 0.55,
+      "receipt": "Uh Shane Davis says, \"Zoom in.\" Zoom in on what?"
     },
     {
       "claimant": "unknown speaker",
-      "claim": "that's that's what Zach would want his legacy to be.",
-      "timestamp": "36:01",
+      "subjects": [
+        "Liam Gray",
+        "Eric July"
+      ],
+      "claim": "So, you know, it's like I I think the difference between like Eric July and somebody like Liam Gray is that if Liam Gray is making his own books, which we've debated, I'm not sure, but if he Liam says he made Dino King, if Liam did make Dino King, it's a sincere effort.",
+      "timestamp": "01:24:00",
       "status": "opinion_or_inference",
-      "receipt": "And I think that's that's what Zach would want his legacy to be."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "he perceives the Friday Night Tight Zeros and Geeks and Gamers to be completely illiterate when it comes to understanding art or being supportive of creative efforts.",
-      "timestamp": "36:01",
-      "status": "opinion_or_inference",
-      "receipt": "So, you know, right now he perceives, rightly so, I think he perceives the Friday Night Tight Zeros and Geeks and Gamers to be completely illiterate when it comes to understanding art or being supportive of creative efforts."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "also if he seemed to be anti-trans, anything like that, I think he wants to apologize for that.",
-      "timestamp": "36:01",
-      "status": "opinion_or_inference",
-      "receipt": "I think also if he seemed to be anti-trans, anything like that, I think he wants to apologize for that."
-    },
-    {
-      "claimant": "Odin 99M",
-      "claim": "100% the8s was the apex of American pop culture.",
-      "timestamp": "36:01",
-      "status": "candidate_claim",
-      "receipt": "Um, so, uh, Odin 99M says 100% the8s was the apex of American pop culture."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "he is busy doing something else of his own, which is good.",
-      "timestamp": "36:01",
-      "status": "opinion_or_inference",
-      "receipt": "I think he is busy doing something else of his own, which is good."
-    },
-    {
-      "claimant": "It",
-      "claim": "straight out of Does anybody call me an anti-semite?",
-      "timestamp": "36:01",
-      "status": "candidate_claim",
-      "receipt": "It says straight out of Does anybody call me an anti-semite?"
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "that's what they uh kind of figured out about Eric.",
-      "timestamp": "36:01",
-      "status": "opinion_or_inference",
-      "receipt": "And I think that's what they uh kind of figured out about Eric."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "it was one of Jeff's friends last names.",
-      "timestamp": "36:01",
-      "status": "opinion_or_inference",
-      "receipt": "Cranestyle says, \"Blessings upon you and all of CG Ethan Masletov Lheim, but Ovian sounds like a new pharmaceutical.\" I think it was one of Jeff's friends last names."
-    },
-    {
-      "claimant": "So Shane",
-      "claim": "uh he wants to delay it a week.",
-      "timestamp": "36:01",
-      "status": "candidate_claim",
-      "receipt": "So Shane said uh he wants to delay it a week."
-    },
-    {
-      "claimant": "but he",
-      "claim": "maybe not.",
-      "timestamp": "36:01",
-      "status": "candidate_claim",
-      "receipt": "It's going to be Sunday, but he said maybe not."
-    },
-    {
-      "claimant": "And then like I think Friday he",
-      "claim": "yeah it's going to be Sunday.",
-      "timestamp": "36:01",
-      "status": "opinion_or_inference",
-      "receipt": "And then like I think Friday he said yeah it's going to be Sunday."
-    },
-    {
-      "claimant": "Uh Pan",
-      "claim": "you're starting to understand Adolf's argument.",
-      "timestamp": "36:01",
-      "status": "candidate_claim",
-      "receipt": "Uh Pan says you're starting to understand Adolf's argument."
-    },
-    {
-      "claimant": "the road and",
-      "claim": "uh comics today are better in some cases than the SJW era of 2017 or so, but there are still large swats of crap in what should be major titles.",
-      "timestamp": "36:01",
-      "status": "candidate_claim",
-      "receipt": "the road and says uh comics today are better in some cases than the SJW era of 2017 or so, but there are still large swats of crap in what should be major titles."
-    },
-    {
-      "claimant": "there there has been some We love Israel",
-      "claim": "straight out of in unsubs.",
-      "timestamp": "36:01",
-      "status": "opinion_or_inference",
-      "receipt": "I think there there has been some We love Israel says straight out of in unsubs."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "that there are some there are some good comics that are out there right now and that's just the way it is.",
-      "timestamp": "36:01",
-      "status": "opinion_or_inference",
-      "receipt": "Uh yeah, I think that there are some there are some good comics that are out there right now and that's just the way it is."
-    },
-    {
-      "claimant": "Dappel Darling says Shane",
-      "claim": "they're all working out the secret tears.",
-      "timestamp": "36:01",
-      "status": "candidate_claim",
-      "receipt": "Dappel Darling says Shane said they're all working out the secret tears."
-    },
-    {
-      "claimant": "That is what he",
-      "claim": "to me too.",
-      "timestamp": "36:01",
-      "status": "candidate_claim",
-      "receipt": "That is what he said to me too."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "you can shoot fireballs, can't you?",
-      "timestamp": "48:01",
-      "status": "opinion_or_inference",
-      "receipt": "Like I feel like you're supposed to hit it with your head and then um you hit it with your head and then you become twice as tall and then I think you can shoot fireballs, can't you?"
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "you bunk it once, you get you be twice as tall and then like you hit the next one and a mushroom or flower.",
-      "timestamp": "48:01",
-      "status": "opinion_or_inference",
-      "receipt": "I think you bunk it once, you get you be twice as tall and then like you hit the next one and a mushroom or flower."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "you jump on I can't remember.",
-      "timestamp": "48:01",
-      "status": "opinion_or_inference",
-      "receipt": "Like there's a mushroom that'll come down and I think you jump on I can't remember."
-    },
-    {
-      "claimant": "Dan Lawless",
-      "claim": "he just needs a propeller on the top of his hat.",
-      "timestamp": "48:01",
-      "status": "candidate_claim",
-      "receipt": "Dan Lawless says he just needs a propeller on the top of his hat."
-    },
-    {
-      "claimant": "Jose F",
-      "claim": "was such ass, dude.",
-      "timestamp": "01:00:01",
-      "status": "candidate_claim",
-      "receipt": "Jose F says was such ass, dude."
-    },
-    {
-      "claimant": "doing ox ball makes me uncomfortable",
-      "claim": "Llama Jaganti.",
-      "timestamp": "01:00:01",
-      "status": "candidate_claim",
-      "receipt": "Uh, Ethan doing ox ball makes me uncomfortable says Llama Jaganti."
-    },
-    {
-      "claimant": "Jose M",
-      "claim": "Mike Partiko would make a good document standin.",
-      "timestamp": "01:00:01",
-      "status": "candidate_claim",
-      "receipt": "Jose M says Mike Partiko would make a good document standin."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "you probably know more about these characters than Eric does.",
-      "timestamp": "01:00:01",
-      "status": "opinion_or_inference",
-      "receipt": "I think you probably know more about these characters than Eric does."
-    },
-    {
-      "claimant": "You",
-      "claim": "this is why you should give me your money instead cuz these guys they hate you and they're don't Yeah, but like I like Spider-Man.",
-      "timestamp": "01:00:01",
-      "status": "candidate_claim",
-      "receipt": "You said this is why you should give me your money instead cuz these guys they hate you and they're don't Yeah, but like I like Spider-Man."
+      "confidence": 0.42,
+      "receipt": "So, you know, it's like I I think the difference between like Eric July and somebody like Liam Gray is that if Liam Gray is making his own books, which we've debated, I'm not sure, but if he Liam says he made Dino King, if Liam did make Dino King, it's a sincere effort."
     }
   ],
   "quote_candidates": [
     {
-      "timestamp": "02:36:01",
-      "text": "Worse booster says, \"Ethan has thought a lot about this.\" I Okay, I admit it.",
-      "significance_score": 3
+      "timestamp": "00:00",
+      "text": "A a lawsuit trying to [ __ ] with someone's business.",
+      "subjects": [],
+      "significance_score": 1
     },
     {
-      "timestamp": "03:48:00",
-      "text": "always this is always this narcissist thing where it's like, you know, it's not that they're threatening and making fun of me.",
-      "significance_score": 3
+      "timestamp": "00:00",
+      "text": "Did you accuse him of starting that lawsuit?",
+      "subjects": [],
+      "significance_score": 1
     },
     {
-      "timestamp": "48:01",
-      "text": "isome issue number one is the first book released through rippleverse publishing which makes it extremely significant",
-      "significance_score": 2
+      "timestamp": "00:00",
+      "text": "Outside of the given context, most of what I'm about to say isn't even aimed [music] at the people that filed the lawsuit.",
+      "subjects": [],
+      "significance_score": 1
     },
     {
-      "timestamp": "01:36:00",
-      "text": "I remember like by issue four, issue three, the book was dead.",
-      "significance_score": 2
-    },
-    {
-      "timestamp": "01:36:00",
-      "text": "Um and by issue four, the editor collaborated with me to trick Gail into quitting.",
-      "significance_score": 2
+      "timestamp": "00:00",
+      "text": "What I will say is that again the guy that sent that goofy ass email that tried to again gay op his way into kind of a a lawsuit someone took",
+      "subjects": [],
+      "significance_score": 1
     },
     {
       "timestamp": "01:36:00",
       "text": "We remember what DC remembered what happened last time they fired Gail from a project.",
-      "significance_score": 2
+      "subjects": [],
+      "significance_score": 1
     },
     {
-      "timestamp": "01:36:00",
-      "text": "Um, so by issue four, like they kind of tricked Gail by giving her a tight deadline that she couldn't make and saying, \"We need this firestorm by Sunday or Monday.\" Monday.",
-      "significance_score": 2
+      "timestamp": "02:12:03",
+      "text": "I can confirm that between the writing and artwork on one of these books, we've spent over $60,000 on it.",
+      "subjects": [],
+      "significance_score": 1
     },
     {
-      "timestamp": "01:36:00",
-      "text": "Um, and we got Joe Harris to come on board with issue five and write cuz Gail went, \"Well, [ __ ] it.",
-      "significance_score": 2
+      "timestamp": "02:12:03",
+      "text": "Uh Sam Davidson says, \"The other night lem had his [ __ ] gardener hair haird do wearing his Zelda Green Lantern homage sweatshirt threatening to strike everyone in CG saying you has no idea the power oy has.\" I got that video up there.",
+      "subjects": [],
+      "significance_score": 1
     },
     {
-      "timestamp": "01:36:00",
-      "text": "So, I kind of said, uh, listen, what's going to happen is I'm going to come in and I'm going to write and draw issue seven and eight, I think it was, to try to get some energy into the book.",
-      "significance_score": 2
-    },
-    {
-      "timestamp": "01:36:00",
-      "text": "Uh, so, um, I came in and I drew issues seven and eight, which they were really fun.",
-      "significance_score": 2
-    },
-    {
-      "timestamp": "01:36:00",
-      "text": "I mean, once people decide that they read issue number one and they're not into it, they they ain't coming back.",
-      "significance_score": 2
-    },
-    {
-      "timestamp": "03:36:01",
-      "text": "So I'm take my knife today and whereas I'm sure they're going to say that this is a violent threat.",
-      "significance_score": 2
-    },
-    {
-      "timestamp": "03:48:00",
-      "text": "Do you holding a knife right up here?\" And then people went, \"Boy, that really seemed like a threat to what Katie did.\" He's like, \"What me?",
-      "significance_score": 2
-    },
-    {
-      "timestamp": "03:48:00",
-      "text": "talking about Dan Lawless while holding a knife and not making violent threats in any way against him because we're normal mature adult people and do not live in hysteria land.",
-      "significance_score": 2
+      "timestamp": "02:36:01",
+      "text": "Worse booster says, \"Ethan has thought a lot about this.\" I Okay, I admit it.",
+      "subjects": [],
+      "significance_score": 1
     },
     {
       "timestamp": "03:48:00",
       "text": "And you know, uh JJ should know that I'm not going to strike his channel or hurt him in any way.",
-      "significance_score": 2
+      "subjects": [],
+      "significance_score": 1
     },
     {
       "timestamp": "03:48:00",
-      "text": "Dan, he keeps trying to downplay that knife threat.",
-      "significance_score": 2
-    },
-    {
-      "timestamp": "03:48:00",
-      "text": "is a threatening to do evil stuff to my wife and child.",
-      "significance_score": 2
-    },
-    {
-      "timestamp": "03:48:00",
-      "text": "Nobody's threatening to do evil stuff to his wife or child.",
-      "significance_score": 2
-    },
-    {
-      "timestamp": "03:48:00",
-      "text": "And Liam was like, \"That was a threat.",
-      "significance_score": 2
-    },
-    {
-      "timestamp": "03:48:00",
-      "text": "He was threatening me.\" And he just cut everything out except for that one part.",
-      "significance_score": 2
+      "text": "so just as a profound lack of judgment on my behalf I guess but like yeah no I'm not going to strike JJ's channel I have no you know uh intent to do so look at all of these like he's got like little things on him this is going to be fun.",
+      "subjects": [],
+      "significance_score": 1
     }
   ],
   "relationship_signals": [
     {
       "left": "Liam Gray",
-      "right": "Ethan Van Sciver",
+      "right": "Eric July",
       "signal_type": "defended",
       "timestamp": "12:01",
-      "confidence": 0.45,
-      "receipt": "ou can do stuff like it doesn't do that anymore. It goes uh you know listen we it has been screened for content. What the hell are you talking about? What am I paying for? And then like the idea that it wouldn't make uh Liam Gray into Pikachu like honestly it almost lost my sub today. Uh it's like no we can't do that. I'm like you will do that. You will make Liam Gray into a Pokemon. And finally, it did, but it was like the iPad that did it. Lim",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
-      "right": "Shane Davis",
-      "signal_type": "defended",
-      "timestamp": "12:01",
-      "confidence": 0.45,
-      "receipt": "ou can do stuff like it doesn't do that anymore. It goes uh you know listen we it has been screened for content. What the hell are you talking about? What am I paying for? And then like the idea that it wouldn't make uh Liam Gray into Pikachu like honestly it almost lost my sub today. Uh it's like no we can't do that. I'm like you will do that. You will make Liam Gray into a Pokemon. And finally, it did, but it was like the iPad that did it. Lim",
-      "warning": "co-mention plus language signal; requires interpretation"
+      "confidence": 0.48,
+      "receipt": "anymore. It goes uh you know listen we it has been screened for content. What the hell are you talking about? What am I paying for? And then like the idea that it wouldn't make uh Liam Gray into Pikachu like honestly it almost lost my sub today. Uh it's like no we can't do that. I'm like you will do that. You will make Liam Gray into a Pokemon. And finally, it did, b",
+      "warning": "candidate relationship evidence; requires review"
     },
     {
       "left": "Liam Gray",
       "right": "Cyberfrog",
       "signal_type": "defended",
       "timestamp": "12:01",
-      "confidence": 0.45,
-      "receipt": "ou can do stuff like it doesn't do that anymore. It goes uh you know listen we it has been screened for content. What the hell are you talking about? What am I paying for? And then like the idea that it wouldn't make uh Liam Gray into Pikachu like honestly it almost lost my sub today. Uh it's like no we can't do that. I'm like you will do that. You will make Liam Gray into a Pokemon. And finally, it did, but it was like the iPad that did it. Lim",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
-      "right": "Frog Tony",
-      "signal_type": "defended",
-      "timestamp": "12:01",
-      "confidence": 0.45,
-      "receipt": "ou can do stuff like it doesn't do that anymore. It goes uh you know listen we it has been screened for content. What the hell are you talking about? What am I paying for? And then like the idea that it wouldn't make uh Liam Gray into Pikachu like honestly it almost lost my sub today. Uh it's like no we can't do that. I'm like you will do that. You will make Liam Gray into a Pokemon. And finally, it did, but it was like the iPad that did it. Lim",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
-      "right": "Eric July",
-      "signal_type": "defended",
-      "timestamp": "12:01",
-      "confidence": 0.45,
-      "receipt": "ou can do stuff like it doesn't do that anymore. It goes uh you know listen we it has been screened for content. What the hell are you talking about? What am I paying for? And then like the idea that it wouldn't make uh Liam Gray into Pikachu like honestly it almost lost my sub today. Uh it's like no we can't do that. I'm like you will do that. You will make Liam Gray into a Pokemon. And finally, it did, but it was like the iPad that did it. Lim",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
-      "right": "Trashcast",
-      "signal_type": "defended",
-      "timestamp": "12:01",
-      "confidence": 0.45,
-      "receipt": "ou can do stuff like it doesn't do that anymore. It goes uh you know listen we it has been screened for content. What the hell are you talking about? What am I paying for? And then like the idea that it wouldn't make uh Liam Gray into Pikachu like honestly it almost lost my sub today. Uh it's like no we can't do that. I'm like you will do that. You will make Liam Gray into a Pokemon. And finally, it did, but it was like the iPad that did it. Lim",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Ethan Van Sciver",
-      "right": "Shane Davis",
-      "signal_type": "defended",
-      "timestamp": "12:01",
-      "confidence": 0.45,
-      "receipt": ">> [music] >> Welcome to 5XL FM where the trash flows. [music] >> There I am real small. Here I am real big. Ethan Van Skyver here. 5x LFM Philadelphia trash cast your show. You're the fan. You're the audience. You love this stuff. Can't get enough of it. And I'm here to serve it up. Nice big steaming plate of garbage for you tonight featuring some of your favorite characters. [music] >> Hello. Hi guys. [music] >> What is this? Hot Mike",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Ethan Van Sciver",
-      "right": "Cyberfrog",
-      "signal_type": "defended",
-      "timestamp": "12:01",
-      "confidence": 0.45,
-      "receipt": ">> [music] >> Welcome to 5XL FM where the trash flows. [music] >> There I am real small. Here I am real big. Ethan Van Skyver here. 5x LFM Philadelphia trash cast your show. You're the fan. You're the audience. You love this stuff. Can't get enough of it. And I'm here to serve it up. Nice big steaming plate of garbage for you tonight featuring some of your favorite characters. [music] >> Hello. Hi guys. [music] >> What is this? Hot Mike",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Ethan Van Sciver",
-      "right": "Frog Tony",
-      "signal_type": "defended",
-      "timestamp": "12:01",
-      "confidence": 0.45,
-      "receipt": ">> [music] >> Welcome to 5XL FM where the trash flows. [music] >> There I am real small. Here I am real big. Ethan Van Skyver here. 5x LFM Philadelphia trash cast your show. You're the fan. You're the audience. You love this stuff. Can't get enough of it. And I'm here to serve it up. Nice big steaming plate of garbage for you tonight featuring some of your favorite characters. [music] >> Hello. Hi guys. [music] >> What is this? Hot Mike",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Ethan Van Sciver",
-      "right": "Eric July",
-      "signal_type": "defended",
-      "timestamp": "12:01",
-      "confidence": 0.45,
-      "receipt": ">> [music] >> Welcome to 5XL FM where the trash flows. [music] >> There I am real small. Here I am real big. Ethan Van Skyver here. 5x LFM Philadelphia trash cast your show. You're the fan. You're the audience. You love this stuff. Can't get enough of it. And I'm here to serve it up. Nice big steaming plate of garbage for you tonight featuring some of your favorite characters. [music] >> Hello. Hi guys. [music] >> What is this? Hot Mike",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Ethan Van Sciver",
-      "right": "Trashcast",
-      "signal_type": "defended",
-      "timestamp": "12:01",
-      "confidence": 0.45,
-      "receipt": ">> [music] >> Welcome to 5XL FM where the trash flows. [music] >> There I am real small. Here I am real big. Ethan Van Skyver here. 5x LFM Philadelphia trash cast your show. You're the fan. You're the audience. You love this stuff. Can't get enough of it. And I'm here to serve it up. Nice big steaming plate of garbage for you tonight featuring some of your favorite characters. [music] >> Hello. Hi guys. [music] >> What is this? Hot Mike",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Shane Davis",
-      "right": "Cyberfrog",
-      "signal_type": "defended",
-      "timestamp": "12:01",
-      "confidence": 0.45,
-      "receipt": ">> [music] >> Welcome to 5XL FM where the trash flows. [music] >> There I am real small. Here I am real big. Ethan Van Skyver here. 5x LFM Philadelphia trash cast your show. You're the fan. You're the audience. You love this stuff. Can't get enough of it. And I'm here to serve it up. Nice big steaming plate of garbage for you tonight featuring some of your favorite characters. [music] >> Hello. Hi guys. [music] >> What is this? Hot Mike",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Shane Davis",
-      "right": "Frog Tony",
-      "signal_type": "defended",
-      "timestamp": "12:01",
-      "confidence": 0.45,
-      "receipt": ">> [music] >> Welcome to 5XL FM where the trash flows. [music] >> There I am real small. Here I am real big. Ethan Van Skyver here. 5x LFM Philadelphia trash cast your show. You're the fan. You're the audience. You love this stuff. Can't get enough of it. And I'm here to serve it up. Nice big steaming plate of garbage for you tonight featuring some of your favorite characters. [music] >> Hello. Hi guys. [music] >> What is this? Hot Mike",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Shane Davis",
-      "right": "Eric July",
-      "signal_type": "defended",
-      "timestamp": "12:01",
-      "confidence": 0.45,
-      "receipt": ">> [music] >> Welcome to 5XL FM where the trash flows. [music] >> There I am real small. Here I am real big. Ethan Van Skyver here. 5x LFM Philadelphia trash cast your show. You're the fan. You're the audience. You love this stuff. Can't get enough of it. And I'm here to serve it up. Nice big steaming plate of garbage for you tonight featuring some of your favorite characters. [music] >> Hello. Hi guys. [music] >> What is this? Hot Mike",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Shane Davis",
-      "right": "Trashcast",
-      "signal_type": "defended",
-      "timestamp": "12:01",
-      "confidence": 0.45,
-      "receipt": ">> [music] >> Welcome to 5XL FM where the trash flows. [music] >> There I am real small. Here I am real big. Ethan Van Skyver here. 5x LFM Philadelphia trash cast your show. You're the fan. You're the audience. You love this stuff. Can't get enough of it. And I'm here to serve it up. Nice big steaming plate of garbage for you tonight featuring some of your favorite characters. [music] >> Hello. Hi guys. [music] >> What is this? Hot Mike",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Cyberfrog",
-      "right": "Frog Tony",
-      "signal_type": "defended",
-      "timestamp": "12:01",
-      "confidence": 0.45,
-      "receipt": "and then it's like the camera goes dark and then and I'm like this uh and then the camera goes dark and then oops and I'm like this profile shot and I'm like getting ready to make an announcement and the announcement is Cyberfrog THC gummies sick of these woke THC gummies. Uh, hold on. Jose M says, \"Are you on good terms with head wound bar post lem meltdown?\" Oh, that's a good question. No, I mean, I can't ever be on good terms with him again.",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Cyberfrog",
-      "right": "Eric July",
-      "signal_type": "defended",
-      "timestamp": "12:01",
-      "confidence": 0.45,
-      "receipt": "and then it's like the camera goes dark and then and I'm like this uh and then the camera goes dark and then oops and I'm like this profile shot and I'm like getting ready to make an announcement and the announcement is Cyberfrog THC gummies sick of these woke THC gummies. Uh, hold on. Jose M says, \"Are you on good terms with head wound bar post lem meltdown?\" Oh, that's a good question. No, I mean, I can't ever be on good terms with him again.",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Cyberfrog",
-      "right": "Trashcast",
-      "signal_type": "defended",
-      "timestamp": "12:01",
-      "confidence": 0.45,
-      "receipt": "and then it's like the camera goes dark and then and I'm like this uh and then the camera goes dark and then oops and I'm like this profile shot and I'm like getting ready to make an announcement and the announcement is Cyberfrog THC gummies sick of these woke THC gummies. Uh, hold on. Jose M says, \"Are you on good terms with head wound bar post lem meltdown?\" Oh, that's a good question. No, I mean, I can't ever be on good terms with him again.",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Frog Tony",
-      "right": "Eric July",
-      "signal_type": "defended",
-      "timestamp": "12:01",
-      "confidence": 0.45,
-      "receipt": ">> [music] >> Welcome to 5XL FM where the trash flows. [music] >> There I am real small. Here I am real big. Ethan Van Skyver here. 5x LFM Philadelphia trash cast your show. You're the fan. You're the audience. You love this stuff. Can't get enough of it. And I'm here to serve it up. Nice big steaming plate of garbage for you tonight featuring some of your favorite characters. [music] >> Hello. Hi guys. [music] >> What is this? Hot Mike",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Frog Tony",
-      "right": "Trashcast",
-      "signal_type": "defended",
-      "timestamp": "12:01",
-      "confidence": 0.45,
-      "receipt": ">> [music] >> Welcome to 5XL FM where the trash flows. [music] >> There I am real small. Here I am real big. Ethan Van Skyver here. 5x LFM Philadelphia trash cast your show. You're the fan. You're the audience. You love this stuff. Can't get enough of it. And I'm here to serve it up. Nice big steaming plate of garbage for you tonight featuring some of your favorite characters. [music] >> Hello. Hi guys. [music] >> What is this? Hot Mike",
-      "warning": "co-mention plus language signal; requires interpretation"
+      "confidence": 0.48,
+      "receipt": "anymore. It goes uh you know listen we it has been screened for content. What the hell are you talking about? What am I paying for? And then like the idea that it wouldn't make uh Liam Gray into Pikachu like honestly it almost lost my sub today. Uh it's like no we can't do that. I'm like you will do that. You will make Liam Gray into a Pokemon. And finally, it did, b",
+      "warning": "candidate relationship evidence; requires review"
     },
     {
       "left": "Eric July",
-      "right": "Trashcast",
+      "right": "Cyberfrog",
       "signal_type": "defended",
       "timestamp": "12:01",
-      "confidence": 0.45,
-      "receipt": "on't get mad at her for that. I always [clears throat] tell her everything down here is yours. Everything that belongs to daddy's to daddy's yours. Uh you know what's daddy's is Ava. Hi folks, how are you? Is it better? Eric July. Eric July says Tony Soprano. Uh it is Eric July right now. Uh this is the uh day after the 4-year anniversary of Ripverse, which uh [laughter] you got I had some people yelling at me saying uh hey uh you know you didn'",
-      "warning": "co-mention plus language signal; requires interpretation"
+      "confidence": 0.48,
+      "receipt": "clears throat] tell her everything down here is yours. Everything that belongs to daddy's to daddy's yours. Uh you know what's daddy's is Ava. Hi folks, how are you? Is it better? Eric July. Eric July says Tony Soprano. Uh it is Eric July right now. Uh this is the uh day after the 4-year anniversary of Ripverse, which uh [laughter] you got I had some people yelling a",
+      "warning": "candidate relationship evidence; requires review"
     },
     {
       "left": "Liam Gray",
-      "right": "Ethan Van Sciver",
-      "signal_type": "criticised",
+      "right": "Eric July",
+      "signal_type": "promoted",
       "timestamp": "12:01",
-      "confidence": 0.45,
-      "receipt": "ou can do stuff like it doesn't do that anymore. It goes uh you know listen we it has been screened for content. What the hell are you talking about? What am I paying for? And then like the idea that it wouldn't make uh Liam Gray into Pikachu like honestly it almost lost my sub today. Uh it's like no we can't do that. I'm like you will do that. You will make Liam Gray into a Pokemon. And finally, it did, but it was like the iPad that did it. Lim",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
-      "right": "Shane Davis",
-      "signal_type": "criticised",
-      "timestamp": "12:01",
-      "confidence": 0.45,
-      "receipt": "ou can do stuff like it doesn't do that anymore. It goes uh you know listen we it has been screened for content. What the hell are you talking about? What am I paying for? And then like the idea that it wouldn't make uh Liam Gray into Pikachu like honestly it almost lost my sub today. Uh it's like no we can't do that. I'm like you will do that. You will make Liam Gray into a Pokemon. And finally, it did, but it was like the iPad that did it. Lim",
-      "warning": "co-mention plus language signal; requires interpretation"
+      "confidence": 0.48,
+      "receipt": "anymore. It goes uh you know listen we it has been screened for content. What the hell are you talking about? What am I paying for? And then like the idea that it wouldn't make uh Liam Gray into Pikachu like honestly it almost lost my sub today. Uh it's like no we can't do that. I'm like you will do that. You will make Liam Gray into a Pokemon. And finally, it did, b",
+      "warning": "candidate relationship evidence; requires review"
     },
     {
       "left": "Liam Gray",
       "right": "Cyberfrog",
-      "signal_type": "criticised",
+      "signal_type": "promoted",
       "timestamp": "12:01",
-      "confidence": 0.45,
-      "receipt": "ou can do stuff like it doesn't do that anymore. It goes uh you know listen we it has been screened for content. What the hell are you talking about? What am I paying for? And then like the idea that it wouldn't make uh Liam Gray into Pikachu like honestly it almost lost my sub today. Uh it's like no we can't do that. I'm like you will do that. You will make Liam Gray into a Pokemon. And finally, it did, but it was like the iPad that did it. Lim",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
-      "right": "Frog Tony",
-      "signal_type": "criticised",
-      "timestamp": "12:01",
-      "confidence": 0.45,
-      "receipt": "ou can do stuff like it doesn't do that anymore. It goes uh you know listen we it has been screened for content. What the hell are you talking about? What am I paying for? And then like the idea that it wouldn't make uh Liam Gray into Pikachu like honestly it almost lost my sub today. Uh it's like no we can't do that. I'm like you will do that. You will make Liam Gray into a Pokemon. And finally, it did, but it was like the iPad that did it. Lim",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
-      "right": "Eric July",
-      "signal_type": "criticised",
-      "timestamp": "12:01",
-      "confidence": 0.45,
-      "receipt": "ou can do stuff like it doesn't do that anymore. It goes uh you know listen we it has been screened for content. What the hell are you talking about? What am I paying for? And then like the idea that it wouldn't make uh Liam Gray into Pikachu like honestly it almost lost my sub today. Uh it's like no we can't do that. I'm like you will do that. You will make Liam Gray into a Pokemon. And finally, it did, but it was like the iPad that did it. Lim",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
-      "right": "Trashcast",
-      "signal_type": "criticised",
-      "timestamp": "12:01",
-      "confidence": 0.45,
-      "receipt": "ou can do stuff like it doesn't do that anymore. It goes uh you know listen we it has been screened for content. What the hell are you talking about? What am I paying for? And then like the idea that it wouldn't make uh Liam Gray into Pikachu like honestly it almost lost my sub today. Uh it's like no we can't do that. I'm like you will do that. You will make Liam Gray into a Pokemon. And finally, it did, but it was like the iPad that did it. Lim",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Ethan Van Sciver",
-      "right": "Shane Davis",
-      "signal_type": "criticised",
-      "timestamp": "12:01",
-      "confidence": 0.45,
-      "receipt": ">> [music] >> Welcome to 5XL FM where the trash flows. [music] >> There I am real small. Here I am real big. Ethan Van Skyver here. 5x LFM Philadelphia trash cast your show. You're the fan. You're the audience. You love this stuff. Can't get enough of it. And I'm here to serve it up. Nice big steaming plate of garbage for you tonight featuring some of your favorite characters. [music] >> Hello. Hi guys. [music] >> What is this? Hot Mike",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Ethan Van Sciver",
-      "right": "Cyberfrog",
-      "signal_type": "criticised",
-      "timestamp": "12:01",
-      "confidence": 0.45,
-      "receipt": ">> [music] >> Welcome to 5XL FM where the trash flows. [music] >> There I am real small. Here I am real big. Ethan Van Skyver here. 5x LFM Philadelphia trash cast your show. You're the fan. You're the audience. You love this stuff. Can't get enough of it. And I'm here to serve it up. Nice big steaming plate of garbage for you tonight featuring some of your favorite characters. [music] >> Hello. Hi guys. [music] >> What is this? Hot Mike",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Ethan Van Sciver",
-      "right": "Frog Tony",
-      "signal_type": "criticised",
-      "timestamp": "12:01",
-      "confidence": 0.45,
-      "receipt": ">> [music] >> Welcome to 5XL FM where the trash flows. [music] >> There I am real small. Here I am real big. Ethan Van Skyver here. 5x LFM Philadelphia trash cast your show. You're the fan. You're the audience. You love this stuff. Can't get enough of it. And I'm here to serve it up. Nice big steaming plate of garbage for you tonight featuring some of your favorite characters. [music] >> Hello. Hi guys. [music] >> What is this? Hot Mike",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Ethan Van Sciver",
-      "right": "Eric July",
-      "signal_type": "criticised",
-      "timestamp": "12:01",
-      "confidence": 0.45,
-      "receipt": ">> [music] >> Welcome to 5XL FM where the trash flows. [music] >> There I am real small. Here I am real big. Ethan Van Skyver here. 5x LFM Philadelphia trash cast your show. You're the fan. You're the audience. You love this stuff. Can't get enough of it. And I'm here to serve it up. Nice big steaming plate of garbage for you tonight featuring some of your favorite characters. [music] >> Hello. Hi guys. [music] >> What is this? Hot Mike",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Ethan Van Sciver",
-      "right": "Trashcast",
-      "signal_type": "criticised",
-      "timestamp": "12:01",
-      "confidence": 0.45,
-      "receipt": ">> [music] >> Welcome to 5XL FM where the trash flows. [music] >> There I am real small. Here I am real big. Ethan Van Skyver here. 5x LFM Philadelphia trash cast your show. You're the fan. You're the audience. You love this stuff. Can't get enough of it. And I'm here to serve it up. Nice big steaming plate of garbage for you tonight featuring some of your favorite characters. [music] >> Hello. Hi guys. [music] >> What is this? Hot Mike",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Shane Davis",
-      "right": "Cyberfrog",
-      "signal_type": "criticised",
-      "timestamp": "12:01",
-      "confidence": 0.45,
-      "receipt": ">> [music] >> Welcome to 5XL FM where the trash flows. [music] >> There I am real small. Here I am real big. Ethan Van Skyver here. 5x LFM Philadelphia trash cast your show. You're the fan. You're the audience. You love this stuff. Can't get enough of it. And I'm here to serve it up. Nice big steaming plate of garbage for you tonight featuring some of your favorite characters. [music] >> Hello. Hi guys. [music] >> What is this? Hot Mike",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Shane Davis",
-      "right": "Frog Tony",
-      "signal_type": "criticised",
-      "timestamp": "12:01",
-      "confidence": 0.45,
-      "receipt": ">> [music] >> Welcome to 5XL FM where the trash flows. [music] >> There I am real small. Here I am real big. Ethan Van Skyver here. 5x LFM Philadelphia trash cast your show. You're the fan. You're the audience. You love this stuff. Can't get enough of it. And I'm here to serve it up. Nice big steaming plate of garbage for you tonight featuring some of your favorite characters. [music] >> Hello. Hi guys. [music] >> What is this? Hot Mike",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Shane Davis",
-      "right": "Eric July",
-      "signal_type": "criticised",
-      "timestamp": "12:01",
-      "confidence": 0.45,
-      "receipt": ">> [music] >> Welcome to 5XL FM where the trash flows. [music] >> There I am real small. Here I am real big. Ethan Van Skyver here. 5x LFM Philadelphia trash cast your show. You're the fan. You're the audience. You love this stuff. Can't get enough of it. And I'm here to serve it up. Nice big steaming plate of garbage for you tonight featuring some of your favorite characters. [music] >> Hello. Hi guys. [music] >> What is this? Hot Mike",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Shane Davis",
-      "right": "Trashcast",
-      "signal_type": "criticised",
-      "timestamp": "12:01",
-      "confidence": 0.45,
-      "receipt": ">> [music] >> Welcome to 5XL FM where the trash flows. [music] >> There I am real small. Here I am real big. Ethan Van Skyver here. 5x LFM Philadelphia trash cast your show. You're the fan. You're the audience. You love this stuff. Can't get enough of it. And I'm here to serve it up. Nice big steaming plate of garbage for you tonight featuring some of your favorite characters. [music] >> Hello. Hi guys. [music] >> What is this? Hot Mike",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Cyberfrog",
-      "right": "Frog Tony",
-      "signal_type": "criticised",
-      "timestamp": "12:01",
-      "confidence": 0.45,
-      "receipt": "and then it's like the camera goes dark and then and I'm like this uh and then the camera goes dark and then oops and I'm like this profile shot and I'm like getting ready to make an announcement and the announcement is Cyberfrog THC gummies sick of these woke THC gummies. Uh, hold on. Jose M says, \"Are you on good terms with head wound bar post lem meltdown?\" Oh, that's a good question. No, I mean, I can't ever be on good terms with him again.",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Cyberfrog",
-      "right": "Eric July",
-      "signal_type": "criticised",
-      "timestamp": "12:01",
-      "confidence": 0.45,
-      "receipt": "and then it's like the camera goes dark and then and I'm like this uh and then the camera goes dark and then oops and I'm like this profile shot and I'm like getting ready to make an announcement and the announcement is Cyberfrog THC gummies sick of these woke THC gummies. Uh, hold on. Jose M says, \"Are you on good terms with head wound bar post lem meltdown?\" Oh, that's a good question. No, I mean, I can't ever be on good terms with him again.",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Cyberfrog",
-      "right": "Trashcast",
-      "signal_type": "criticised",
-      "timestamp": "12:01",
-      "confidence": 0.45,
-      "receipt": "and then it's like the camera goes dark and then and I'm like this uh and then the camera goes dark and then oops and I'm like this profile shot and I'm like getting ready to make an announcement and the announcement is Cyberfrog THC gummies sick of these woke THC gummies. Uh, hold on. Jose M says, \"Are you on good terms with head wound bar post lem meltdown?\" Oh, that's a good question. No, I mean, I can't ever be on good terms with him again.",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Frog Tony",
-      "right": "Eric July",
-      "signal_type": "criticised",
-      "timestamp": "12:01",
-      "confidence": 0.45,
-      "receipt": ">> [music] >> Welcome to 5XL FM where the trash flows. [music] >> There I am real small. Here I am real big. Ethan Van Skyver here. 5x LFM Philadelphia trash cast your show. You're the fan. You're the audience. You love this stuff. Can't get enough of it. And I'm here to serve it up. Nice big steaming plate of garbage for you tonight featuring some of your favorite characters. [music] >> Hello. Hi guys. [music] >> What is this? Hot Mike",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Frog Tony",
-      "right": "Trashcast",
-      "signal_type": "criticised",
-      "timestamp": "12:01",
-      "confidence": 0.45,
-      "receipt": ">> [music] >> Welcome to 5XL FM where the trash flows. [music] >> There I am real small. Here I am real big. Ethan Van Skyver here. 5x LFM Philadelphia trash cast your show. You're the fan. You're the audience. You love this stuff. Can't get enough of it. And I'm here to serve it up. Nice big steaming plate of garbage for you tonight featuring some of your favorite characters. [music] >> Hello. Hi guys. [music] >> What is this? Hot Mike",
-      "warning": "co-mention plus language signal; requires interpretation"
+      "confidence": 0.48,
+      "receipt": "anymore. It goes uh you know listen we it has been screened for content. What the hell are you talking about? What am I paying for? And then like the idea that it wouldn't make uh Liam Gray into Pikachu like honestly it almost lost my sub today. Uh it's like no we can't do that. I'm like you will do that. You will make Liam Gray into a Pokemon. And finally, it did, b",
+      "warning": "candidate relationship evidence; requires review"
     },
     {
       "left": "Eric July",
-      "right": "Trashcast",
-      "signal_type": "criticised",
-      "timestamp": "12:01",
-      "confidence": 0.45,
-      "receipt": "on't get mad at her for that. I always [clears throat] tell her everything down here is yours. Everything that belongs to daddy's to daddy's yours. Uh you know what's daddy's is Ava. Hi folks, how are you? Is it better? Eric July. Eric July says Tony Soprano. Uh it is Eric July right now. Uh this is the uh day after the 4-year anniversary of Ripverse, which uh [laughter] you got I had some people yelling at me saying uh hey uh you know you didn'",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
-      "right": "Ethan Van Sciver",
-      "signal_type": "promoted",
-      "timestamp": "12:01",
-      "confidence": 0.45,
-      "receipt": "ou can do stuff like it doesn't do that anymore. It goes uh you know listen we it has been screened for content. What the hell are you talking about? What am I paying for? And then like the idea that it wouldn't make uh Liam Gray into Pikachu like honestly it almost lost my sub today. Uh it's like no we can't do that. I'm like you will do that. You will make Liam Gray into a Pokemon. And finally, it did, but it was like the iPad that did it. Lim",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
-      "right": "Shane Davis",
-      "signal_type": "promoted",
-      "timestamp": "12:01",
-      "confidence": 0.45,
-      "receipt": "ou can do stuff like it doesn't do that anymore. It goes uh you know listen we it has been screened for content. What the hell are you talking about? What am I paying for? And then like the idea that it wouldn't make uh Liam Gray into Pikachu like honestly it almost lost my sub today. Uh it's like no we can't do that. I'm like you will do that. You will make Liam Gray into a Pokemon. And finally, it did, but it was like the iPad that did it. Lim",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
       "right": "Cyberfrog",
       "signal_type": "promoted",
       "timestamp": "12:01",
-      "confidence": 0.45,
-      "receipt": "ou can do stuff like it doesn't do that anymore. It goes uh you know listen we it has been screened for content. What the hell are you talking about? What am I paying for? And then like the idea that it wouldn't make uh Liam Gray into Pikachu like honestly it almost lost my sub today. Uh it's like no we can't do that. I'm like you will do that. You will make Liam Gray into a Pokemon. And finally, it did, but it was like the iPad that did it. Lim",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
-      "right": "Frog Tony",
-      "signal_type": "promoted",
-      "timestamp": "12:01",
-      "confidence": 0.45,
-      "receipt": "ou can do stuff like it doesn't do that anymore. It goes uh you know listen we it has been screened for content. What the hell are you talking about? What am I paying for? And then like the idea that it wouldn't make uh Liam Gray into Pikachu like honestly it almost lost my sub today. Uh it's like no we can't do that. I'm like you will do that. You will make Liam Gray into a Pokemon. And finally, it did, but it was like the iPad that did it. Lim",
-      "warning": "co-mention plus language signal; requires interpretation"
+      "confidence": 0.48,
+      "receipt": "clears throat] tell her everything down here is yours. Everything that belongs to daddy's to daddy's yours. Uh you know what's daddy's is Ava. Hi folks, how are you? Is it better? Eric July. Eric July says Tony Soprano. Uh it is Eric July right now. Uh this is the uh day after the 4-year anniversary of Ripverse, which uh [laughter] you got I had some people yelling a",
+      "warning": "candidate relationship evidence; requires review"
     },
     {
       "left": "Liam Gray",
       "right": "Eric July",
       "signal_type": "promoted",
-      "timestamp": "12:01",
-      "confidence": 0.45,
-      "receipt": "ou can do stuff like it doesn't do that anymore. It goes uh you know listen we it has been screened for content. What the hell are you talking about? What am I paying for? And then like the idea that it wouldn't make uh Liam Gray into Pikachu like honestly it almost lost my sub today. Uh it's like no we can't do that. I'm like you will do that. You will make Liam Gray into a Pokemon. And finally, it did, but it was like the iPad that did it. Lim",
-      "warning": "co-mention plus language signal; requires interpretation"
+      "timestamp": "01:24:00",
+      "confidence": 0.48,
+      "receipt": "this [ __ ] out quicker, faster, cheaper for himself. Uh, and uh, that's who this guy is. So, you know, it's like I I think the difference between like Eric July and somebody like Liam Gray is that if Liam Gray is making his own books, which we've debated, I'm not sure, but if he Liam says he made Dino King, if Liam did make Dino King, it's a sincere effort. He's try",
+      "warning": "candidate relationship evidence; requires review"
     },
     {
       "left": "Liam Gray",
-      "right": "Trashcast",
-      "signal_type": "promoted",
-      "timestamp": "12:01",
-      "confidence": 0.45,
-      "receipt": "ou can do stuff like it doesn't do that anymore. It goes uh you know listen we it has been screened for content. What the hell are you talking about? What am I paying for? And then like the idea that it wouldn't make uh Liam Gray into Pikachu like honestly it almost lost my sub today. Uh it's like no we can't do that. I'm like you will do that. You will make Liam Gray into a Pokemon. And finally, it did, but it was like the iPad that did it. Lim",
-      "warning": "co-mention plus language signal; requires interpretation"
+      "right": "Frog Tony",
+      "signal_type": "criticised",
+      "timestamp": "04:00:00",
+      "confidence": 0.48,
+      "receipt": "g uh to be worried about. Otherwise, everything is real vague all the time. It's weird. Um I'm not going to watch that right now. There's a video on Katy Ds called The Tribunal of Liam Gray where Stray Beans goes over to him regarding the the CP Dropbox, the alleged CP Dropbox, and goes, \"Uh, you know, people are asking like if you had this Dropbox like and you knew",
+      "warning": "candidate relationship evidence; requires review"
     },
     {
-      "left": "Ethan Van Sciver",
+      "left": "Liam Gray",
+      "right": "Shane Davis",
+      "signal_type": "criticised",
+      "timestamp": "04:00:00",
+      "confidence": 0.48,
+      "receipt": "g uh to be worried about. Otherwise, everything is real vague all the time. It's weird. Um I'm not going to watch that right now. There's a video on Katy Ds called The Tribunal of Liam Gray where Stray Beans goes over to him regarding the the CP Dropbox, the alleged CP Dropbox, and goes, \"Uh, you know, people are asking like if you had this Dropbox like and you knew",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Stray Beans",
+      "signal_type": "criticised",
+      "timestamp": "04:00:00",
+      "confidence": 0.48,
+      "receipt": "g uh to be worried about. Otherwise, everything is real vague all the time. It's weird. Um I'm not going to watch that right now. There's a video on Katy Ds called The Tribunal of Liam Gray where Stray Beans goes over to him regarding the the CP Dropbox, the alleged CP Dropbox, and goes, \"Uh, you know, people are asking like if you had this Dropbox like and you knew",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Shane Davis",
+      "signal_type": "criticised",
+      "timestamp": "04:00:00",
+      "confidence": 0.48,
+      "receipt": "e, uh, because Katie did this, that's why nobody wants to. He said the same thing with me. Like, because I Is he going to say me? Hold on. >> Me anyway. Because I was friends with Frog Tony. >> Okay. So, he's going to blame recent situations for the fact that people have, you know, these longstanding kind of grudges against him. Um, and they've, you know, [clears thr",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Stray Beans",
+      "signal_type": "criticised",
+      "timestamp": "04:00:00",
+      "confidence": 0.48,
+      "receipt": "e, uh, because Katie did this, that's why nobody wants to. He said the same thing with me. Like, because I Is he going to say me? Hold on. >> Me anyway. Because I was friends with Frog Tony. >> Okay. So, he's going to blame recent situations for the fact that people have, you know, these longstanding kind of grudges against him. Um, and they've, you know, [clears thr",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "left": "Shane Davis",
+      "right": "Stray Beans",
+      "signal_type": "criticised",
+      "timestamp": "04:00:00",
+      "confidence": 0.48,
+      "receipt": "campaign? You mean somebody like Matt Bar? Like, what exactly are you talking about? Who wouldn't support you because you were in my crew? You know what I mean? Do you see like uh Shane Davis saying [ __ ] like that? Shane Davis is also supportive of me. Do you think he cares? Like if there's somebody who isn't supporting him because he's my friend or is friendly towar",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Frog Tony",
+      "signal_type": "promoted",
+      "timestamp": "04:00:00",
+      "confidence": 0.48,
+      "receipt": "g uh to be worried about. Otherwise, everything is real vague all the time. It's weird. Um I'm not going to watch that right now. There's a video on Katy Ds called The Tribunal of Liam Gray where Stray Beans goes over to him regarding the the CP Dropbox, the alleged CP Dropbox, and goes, \"Uh, you know, people are asking like if you had this Dropbox like and you knew",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "left": "Liam Gray",
       "right": "Shane Davis",
       "signal_type": "promoted",
-      "timestamp": "12:01",
-      "confidence": 0.45,
-      "receipt": ">> [music] >> Welcome to 5XL FM where the trash flows. [music] >> There I am real small. Here I am real big. Ethan Van Skyver here. 5x LFM Philadelphia trash cast your show. You're the fan. You're the audience. You love this stuff. Can't get enough of it. And I'm here to serve it up. Nice big steaming plate of garbage for you tonight featuring some of your favorite characters. [music] >> Hello. Hi guys. [music] >> What is this? Hot Mike",
-      "warning": "co-mention plus language signal; requires interpretation"
+      "timestamp": "04:00:00",
+      "confidence": 0.48,
+      "receipt": "g uh to be worried about. Otherwise, everything is real vague all the time. It's weird. Um I'm not going to watch that right now. There's a video on Katy Ds called The Tribunal of Liam Gray where Stray Beans goes over to him regarding the the CP Dropbox, the alleged CP Dropbox, and goes, \"Uh, you know, people are asking like if you had this Dropbox like and you knew",
+      "warning": "candidate relationship evidence; requires review"
     },
     {
-      "left": "Ethan Van Sciver",
-      "right": "Cyberfrog",
+      "left": "Liam Gray",
+      "right": "Stray Beans",
       "signal_type": "promoted",
-      "timestamp": "12:01",
-      "confidence": 0.45,
-      "receipt": ">> [music] >> Welcome to 5XL FM where the trash flows. [music] >> There I am real small. Here I am real big. Ethan Van Skyver here. 5x LFM Philadelphia trash cast your show. You're the fan. You're the audience. You love this stuff. Can't get enough of it. And I'm here to serve it up. Nice big steaming plate of garbage for you tonight featuring some of your favorite characters. [music] >> Hello. Hi guys. [music] >> What is this? Hot Mike",
-      "warning": "co-mention plus language signal; requires interpretation"
+      "timestamp": "04:00:00",
+      "confidence": 0.48,
+      "receipt": "g uh to be worried about. Otherwise, everything is real vague all the time. It's weird. Um I'm not going to watch that right now. There's a video on Katy Ds called The Tribunal of Liam Gray where Stray Beans goes over to him regarding the the CP Dropbox, the alleged CP Dropbox, and goes, \"Uh, you know, people are asking like if you had this Dropbox like and you knew",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Shane Davis",
+      "signal_type": "promoted",
+      "timestamp": "04:00:00",
+      "confidence": 0.48,
+      "receipt": "e, uh, because Katie did this, that's why nobody wants to. He said the same thing with me. Like, because I Is he going to say me? Hold on. >> Me anyway. Because I was friends with Frog Tony. >> Okay. So, he's going to blame recent situations for the fact that people have, you know, these longstanding kind of grudges against him. Um, and they've, you know, [clears thr",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "left": "Frog Tony",
+      "right": "Stray Beans",
+      "signal_type": "promoted",
+      "timestamp": "04:00:00",
+      "confidence": 0.48,
+      "receipt": "e, uh, because Katie did this, that's why nobody wants to. He said the same thing with me. Like, because I Is he going to say me? Hold on. >> Me anyway. Because I was friends with Frog Tony. >> Okay. So, he's going to blame recent situations for the fact that people have, you know, these longstanding kind of grudges against him. Um, and they've, you know, [clears thr",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "left": "Shane Davis",
+      "right": "Stray Beans",
+      "signal_type": "promoted",
+      "timestamp": "04:00:00",
+      "confidence": 0.48,
+      "receipt": "campaign? You mean somebody like Matt Bar? Like, what exactly are you talking about? Who wouldn't support you because you were in my crew? You know what I mean? Do you see like uh Shane Davis saying [ __ ] like that? Shane Davis is also supportive of me. Do you think he cares? Like if there's somebody who isn't supporting him because he's my friend or is friendly towar",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "left": "Liam Gray",
+      "right": "Frog Tony",
+      "signal_type": "separation",
+      "timestamp": "04:00:00",
+      "confidence": 0.48,
+      "receipt": "g uh to be worried about. Otherwise, everything is real vague all the time. It's weird. Um I'm not going to watch that right now. There's a video on Katy Ds called The Tribunal of Liam Gray where Stray Beans goes over to him regarding the the CP Dropbox, the alleged CP Dropbox, and goes, \"Uh, you know, people are asking like if you had this Dropbox like and you knew",
+      "warning": "candidate relationship evidence; requires review"
     }
   ],
-  "story_matches": [],
+  "story_matches": [
+    {
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 1.0
+    },
+    {
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.75
+    },
+    {
+      "story_id": "nick-rekieta-reputation-fallout",
+      "title": "Nick Rekieta reputation and downfall coverage",
+      "score": 0.667
+    },
+    {
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.6
+    },
+    {
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "score": 0.571
+    }
+  ],
+  "review_priority": 100,
   "uncertainty_flags": [
-    "speaker identity may be unknown",
+    "speaker attribution may be unknown",
     "clip voices may be mistaken for live participants",
-    "sentiment lexicon does not reliably detect sarcasm",
-    "relationship signals are candidates, not declarations",
-    "claims are not verified facts"
+    "sentiment lexicon cannot reliably detect sarcasm",
+    "claims and relationship signals remain candidates"
   ]
 }

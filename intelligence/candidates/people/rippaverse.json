@@ -1,0 +1,62 @@
+{
+  "entity_id": "rippaverse",
+  "name": "Rippaverse",
+  "appearance_candidates": [],
+  "discussions": [
+    {
+      "video_id": "7JzZNez4ZBE",
+      "title": "FFS: Shane Davis Stops By! Discusses JDA & BACKmeBro",
+      "source": "KatyDid",
+      "importance": "passing",
+      "mentions": 1,
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.333,
+        "positive_hits": 2,
+        "negative_hits": 1
+      },
+      "receipts": [
+        {
+          "timestamp": "12:00",
+          "excerpt": "hane. You're coming on my show next week. >> [laughter] >> Um >> Go ahead. >> Kirk in the chat earlier I noticed he said I I I should have take should have taken a page from a Rip Rippaverse's book in making a site. I I don't understand what the point of that would have been. The only difference is that's not a crowdfunding site. Like those books are already done. >>"
+        }
+      ]
+    }
+  ],
+  "claim_candidates": [
+    {
+      "video_id": "7JzZNez4ZBE",
+      "title": "FFS: Shane Davis Stops By! Discusses JDA & BACKmeBro",
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Rippaverse"
+      ],
+      "claim": "Kirk in the chat earlier I noticed he said I I I should have take should have taken a page from a Rip Rippaverse's book in making a site.",
+      "timestamp": "12:00",
+      "status": "candidate_claim",
+      "confidence": 0.55,
+      "receipt": "Kirk in the chat earlier I noticed he said I I I should have take should have taken a page from a Rip Rippaverse's book in making a site."
+    }
+  ],
+  "relationship_candidates": [
+    {
+      "video_id": "7JzZNez4ZBE",
+      "title": "FFS: Shane Davis Stops By! Discusses JDA & BACKmeBro",
+      "left": "Shane Davis",
+      "right": "Rippaverse",
+      "signal_type": "promoted",
+      "timestamp": "12:00",
+      "confidence": 0.48,
+      "receipt": "nd is people tagging Ethan to tell me what to do. >> That was weird. Yeah, that was fucking weird. >> I wait wait wait. I thought that's how it worked. I thought that I had to get Shane Davis to do what I wanted to do. I have to go to Daddy Ethan and tell him. >> No, what I do is I DM him and I say I'm going to fucking hit you and then he just comes on the show. I don'",
+      "warning": "candidate relationship evidence; requires review"
+    }
+  ],
+  "story_candidates": [
+    {
+      "video_id": "7JzZNez4ZBE",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 1.0
+    }
+  ]
+}

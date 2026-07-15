@@ -1,0 +1,39 @@
+{
+  "schema_version": "octopuss-candidate-episode-v0.1",
+  "video_id": "lCn5jxcykGo",
+  "title": "TheQuartering is Going to the Ren Fair (Jul 9, 2026)",
+  "source": "Elissa Clips",
+  "published": "2026-07-10T02:21:44+00:00",
+  "review_priority": 0,
+  "participant_candidates": [
+    {
+      "entity": "Elissa Clips",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subjects": [],
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "03:31",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "I've I've sent my wife to pick up a bunch of meat, so I'm going to try to just do carnivore starting over the weekend. I did I did like carnivore light the last few days. Sometimes it's hard when you have like We had like a bunch of food in the fridge and freezer, and I'm like, \"Well, I don't want to waste that.\" Like I I bought, you know, orange c"
+    }
+  ],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker attribution may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon cannot reliably detect sarcasm",
+    "claims and relationship signals remain candidates"
+  ]
+}

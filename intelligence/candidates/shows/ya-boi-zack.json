@@ -1,0 +1,34 @@
+{
+  "show_id": "ya-boi-zack",
+  "name": "Ya Boi Zack",
+  "episodes": [
+    {
+      "video_id": "YUpeiVaoNa0",
+      "title": "EVEN A STOPPED CLOCK IS CORRECT TWICE A DAY- Deniz Camp ACCURATELY Describes Right-Wing Comics Sites"
+    }
+  ],
+  "participant_candidates": [
+    {
+      "video_id": "YUpeiVaoNa0",
+      "entity": "Ya Boi Zack",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subject_history": [
+    {
+      "video_id": "YUpeiVaoNa0",
+      "entity": "Friday Night Tights",
+      "importance": "passing",
+      "sentiment": {
+        "label": "mixed",
+        "score": -0.333,
+        "positive_hits": 4,
+        "negative_hits": 8
+      }
+    }
+  ]
+}

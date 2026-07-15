@@ -1,6 +1,6 @@
 {
-  "schema_version": "octopuss-preanalysis-v0.1",
-  "generated_at": "2026-07-15T21:04:18.090416+00:00",
+  "schema_version": "octopuss-preanalysis-v0.2",
+  "generated_at": "2026-07-15T21:17:12.163768+00:00",
   "video_id": "YJ3EPWpShMU",
   "title": "Rekieta Law: Aaron Imholte’s HRO Won’t Last Forever & the Daily Mail Article (Jul 10, 2026)",
   "source": "Elissa Clips",
@@ -19,7 +19,7 @@
     {
       "entity": "Elissa Clips",
       "role_guess": "host_or_channel_identity",
-      "confidence": 0.72,
+      "confidence": 0.75,
       "signals": [
         "packet source/channel identity"
       ]
@@ -28,25 +28,23 @@
   "subjects": [
     {
       "entity": "Nick Rekieta",
-      "mentions": 4,
+      "mentions": 3,
       "block_count": 1,
       "first_timestamp": "00:00",
       "last_timestamp": "07:52",
-      "discussion_span_seconds": 472.9,
       "importance_guess": "secondary",
       "sentiment": {
-        "label": "positive",
-        "score": 0.765,
-        "positive_hits": 15,
+        "label": "mixed",
+        "score": 0.0,
+        "positive_hits": 2,
         "negative_hits": 2
       },
       "receipts": [
         {
           "timestamp": "00:00",
-          "excerpt": "Hey, what's up guys? Welcome to Law Explaining the Interwebs. I am your host Nick Rekieta of Rekieta Law, a small law firm in Central Minnesota. That is where I'm from. It does not necessarily mean that it's still open. It just means that's where I'm from. Just in case you're the Ethics Commission then you d"
+          "excerpt": "Hey, what's up guys? Welcome to Law Explaining the Interwebs. I am your host Nick Rekieta of Rekieta Law, a small law firm in Central Minnesota. That is where I'm from. It does not necessarily mean that it's still open. It just means that's where I'm from. Just in case"
         }
-      ],
-      "appearance_status": "uncertain"
+      ]
     }
   ],
   "chapters": [
@@ -57,98 +55,32 @@
       "entities": [
         "Nick Rekieta"
       ],
-      "summary_seed": "Hey, what's up guys? Welcome to Law Explaining the Interwebs. I am your host Nick Rekieta of Rekieta Law, a small law firm in Central Minnesota. That is where I'm from. It does not necessarily mean that it's still open. It just means that's where I'm from. Just in case you're the Ethics Commission then you don't understand basic English. And you may be watching this video maybe because it was reported to you by one b",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "possible_clip": false,
+      "summary_seed": "Hey, what's up guys? Welcome to Law Explaining the Interwebs. I am your host Nick Rekieta of Rekieta Law, a small law firm in Central Minnesota. That is where I'm from. It does not necessarily mean that it's still open. It just means that's where I'm from. Just in case you're the Ethics Commission then you don't understand basic English. And you ma"
     }
   ],
-  "claim_candidates": [
-    {
-      "claimant": "unknown speaker",
-      "claim": "that's how it's supposed to be though.",
-      "timestamp": "00:00",
-      "status": "opinion_or_inference",
-      "receipt": "I think that's how it's supposed to be though."
-    },
-    {
-      "claimant": "Ann Piccalo",
-      "claim": "your new wheels.",
-      "timestamp": "00:00",
-      "status": "candidate_claim",
-      "receipt": "Ann Piccalo says your new wheels."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "this is um personal stuff and then we'll we'll get back into the Charlie Kirk thing.",
-      "timestamp": "00:00",
-      "status": "candidate_claim",
-      "receipt": "I know this is um personal stuff and then we'll we'll get back into the Charlie Kirk thing."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "I'm going to get screwed on it, also.",
-      "timestamp": "00:00",
-      "status": "candidate_claim",
-      "receipt": "And when I tell you what's been going on now, and here's the funny thing, I know I'm going to get screwed on it, also."
-    },
-    {
-      "claimant": "That's a very funny joke every time he",
-      "claim": "it.",
-      "timestamp": "00:00",
-      "status": "candidate_claim",
-      "receipt": "That's a very funny joke every time he says it."
-    },
-    {
-      "claimant": "cuz you",
-      "claim": "you're a fan of the show, I believe you.",
-      "timestamp": "00:00",
-      "status": "opinion_or_inference",
-      "receipt": "Uh, by the way if that Daily Mail guy, like if you're on here watching, cuz you said you're a fan of the show, I believe you."
-    },
-    {
-      "claimant": "The Daily Mail",
-      "claim": "it happened, so therefore it must have.",
-      "timestamp": "00:00",
-      "status": "candidate_claim",
-      "receipt": "The Daily Mail said it happened, so therefore it must have."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "you just underestimate just how interesting I am.",
-      "timestamp": "00:00",
-      "status": "opinion_or_inference",
-      "receipt": "Kiwi, I think you just underestimate just how interesting I am."
-    }
-  ],
+  "claim_candidates": [],
   "quote_candidates": [
     {
       "timestamp": "00:00",
-      "text": "All they have to do is just never do anything.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "00:00",
-      "text": "You know, when when I say driving, I'm not always driving.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "00:00",
-      "text": "In fact, I've never talked about politics at all.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "00:00",
-      "text": "I want you put those little hands, small hands, Marco.",
+      "text": "I look forward to coverage of the lawsuit.",
+      "subjects": [],
       "significance_score": 1
     }
   ],
   "relationship_signals": [],
-  "story_matches": [],
+  "story_matches": [
+    {
+      "story_id": "nick-rekieta-reputation-fallout",
+      "title": "Nick Rekieta reputation and downfall coverage",
+      "score": 0.667
+    }
+  ],
+  "review_priority": 11,
   "uncertainty_flags": [
-    "speaker identity may be unknown",
+    "speaker attribution may be unknown",
     "clip voices may be mistaken for live participants",
-    "sentiment lexicon does not reliably detect sarcasm",
-    "relationship signals are candidates, not declarations",
-    "claims are not verified facts"
+    "sentiment lexicon cannot reliably detect sarcasm",
+    "claims and relationship signals remain candidates"
   ]
 }

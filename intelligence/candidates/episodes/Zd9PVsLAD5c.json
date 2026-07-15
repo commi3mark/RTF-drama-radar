@@ -1,0 +1,410 @@
+{
+  "schema_version": "octopuss-candidate-episode-v0.1",
+  "video_id": "Zd9PVsLAD5c",
+  "title": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
+  "source": "Ethan Van Sciver",
+  "published": "2026-07-07T04:26:42+00:00",
+  "review_priority": 53,
+  "participant_candidates": [
+    {
+      "entity": "Ethan Van Sciver",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Frog Tony",
+      "mentions": 10,
+      "block_count": 4,
+      "first_timestamp": "00:04",
+      "last_timestamp": "02:36:02",
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.714,
+        "positive_hits": 42,
+        "negative_hits": 7
+      },
+      "receipts": [
+        {
+          "timestamp": "00:04",
+          "excerpt": "7 miles from target. Hostiles inbound shoot break. Heat. Heat. Heat. 6:00 in the rings. >> I'm going to pop. I did have a relationship with Mr. Lewinsky that was not appropriate. >> In fact, >> I'm going to get you. >> It constituted a critical lapse in judgment. >> Keep it in your pants, Saxs, man. >> This is an emergency broadcast. >> Why can't I finish my"
+        },
+        {
+          "timestamp": "12:00",
+          "excerpt": "it, you know. So, >> I love that stuff. That's great. >> How are we doing? >> I'm done with those. I'm going to I'm going to >> I'm done with those. I'm going to tackle the uh the uh the uh collaboration book, too. >> Oh, okay. Good. >> What are you working on, Bosch? >> Working on this, actually. This is my latest page on a certain book that I'm working on."
+        },
+        {
+          "timestamp": "01:48:01",
+          "excerpt": "them both uh come to the band stand and sing. And Annette uh is a cute gal but cannot sing. She she doesn't have a voice. Oh, really? >> Yeah. Oh, yeah. It was rough. >> Well, she has a Disney voice where she would just sing like she she was a teen uh you know. >> Yeah. >> She was a mousketeer, wasn't she? >> Musketeer. Like she would sing well enough, you k"
+        },
+        {
+          "timestamp": "02:24:00",
+          "excerpt": "is no migration. Uh, that there are two separate sites. >> Aaron Sleepers here. He says, \"Evs, it's funny. My W was self's not likely to ever get a chance to work with DC, but over the years I've ended up doing steampunk versions of most DC characters. I've seen Billy's I think Billyy's seen some of my portfolio. My point is there are plenty of good ideas st"
+        }
+      ]
+    },
+    {
+      "entity": "Ethan Van Sciver",
+      "mentions": 10,
+      "block_count": 5,
+      "first_timestamp": "12:00",
+      "last_timestamp": "02:00:02",
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.571,
+        "positive_hits": 33,
+        "negative_hits": 9
+      },
+      "receipts": [
+        {
+          "timestamp": "12:00",
+          "excerpt": "it, you know. So, >> I love that stuff. That's great. >> How are we doing? >> I'm done with those. I'm going to I'm going to >> I'm done with those. I'm going to tackle the uh the uh the uh collaboration book, too. >> Oh, okay. Good. >> What are you working on, Bosch? >> Working on this, actually. This is my latest page on a certain book that I'm working on."
+        },
+        {
+          "timestamp": "36:00",
+          "excerpt": ">> man? I haven't been shooting over a year. Tell them to come out to Long Island, man. We'll go. >> No effing way. EJ Morgis, this will be the best night of my life. Where's EJ? >> What's going on? >> Come on, connect. >> EJ, how's it going, man? >> There he is. >> He's not Oh, is he in now? >> Hey, EJ. >> Uh, my screen. There we go. >> Yeah, there you are."
+        },
+        {
+          "timestamp": "01:00:01",
+          "excerpt": "second second best underdog compared to drank all the beer we had we had in Boston. They drank every how dare they come and go and do that. >> I can't blame them for like a boss better than New York. New York's a [ __ ] hole. >> I think you're casting a very strange Scottish spell on me, buddy. What are you doing there? What does that speak? How dare you? >>"
+        },
+        {
+          "timestamp": "01:12:00",
+          "excerpt": "papers and stuff because like they were like looking at my ID and were like where did you get this? Where did you get this? >> Like a super chat. $20 super chat here. So, it's not that we Italians have a greater percentage of criminals than everyone else. We're just the best at it. >> Capichap, >> it's the most entertaining. >> De Julius, gentlemen, recogniz"
+        },
+        {
+          "timestamp": "01:48:01",
+          "excerpt": "them both uh come to the band stand and sing. And Annette uh is a cute gal but cannot sing. She she doesn't have a voice. Oh, really? >> Yeah. Oh, yeah. It was rough. >> Well, she has a Disney voice where she would just sing like she she was a teen uh you know. >> Yeah. >> She was a mousketeer, wasn't she? >> Musketeer. Like she would sing well enough, you k"
+        }
+      ]
+    },
+    {
+      "entity": "Shane Davis",
+      "mentions": 10,
+      "block_count": 2,
+      "first_timestamp": "36:00",
+      "last_timestamp": "01:00:06",
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.667,
+        "positive_hits": 15,
+        "negative_hits": 3
+      },
+      "receipts": [
+        {
+          "timestamp": "36:00",
+          "excerpt": ">> man? I haven't been shooting over a year. Tell them to come out to Long Island, man. We'll go. >> No effing way. EJ Morgis, this will be the best night of my life. Where's EJ? >> What's going on? >> Come on, connect. >> EJ, how's it going, man? >> There he is. >> He's not Oh, is he in now? >> Hey, EJ. >> Uh, my screen. There we go. >> Yeah, there you are."
+        },
+        {
+          "timestamp": "48:01",
+          "excerpt": "going to be, you know, a slow roll out because we got to, uh, get everybody acclimated to it, you know. Um, I imagine like people getting on board, which there's a room full of people already, that each one of you guys are going to need like some sort of guidance on it or have questions. So, we got to take time to go through everybody and eventually people w"
+        }
+      ]
+    },
+    {
+      "entity": "Aaron Imholte",
+      "mentions": 6,
+      "block_count": 3,
+      "first_timestamp": "01:36:00",
+      "last_timestamp": "02:48:03",
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.92,
+        "positive_hits": 24,
+        "negative_hits": 1
+      },
+      "receipts": [
+        {
+          "timestamp": "01:36:00",
+          "excerpt": ">> you look at that [ __ ] R2-D2 character toy that didn't look anything like him. I mean, it just didn't look anything like the real R2-D2. It took him like 30 years to get it right. >> Nothing >> and nobody did anything about it. You know, I got that Superman MIGO doll. He looked like Ricardo Montalbond. He didn't look like Christopher Reeves. [laughter] >"
+        },
+        {
+          "timestamp": "02:24:00",
+          "excerpt": "is no migration. Uh, that there are two separate sites. >> Aaron Sleepers here. He says, \"Evs, it's funny. My W was self's not likely to ever get a chance to work with DC, but over the years I've ended up doing steampunk versions of most DC characters. I've seen Billy's I think Billyy's seen some of my portfolio. My point is there are plenty of good ideas st"
+        },
+        {
+          "timestamp": "02:36:01",
+          "excerpt": "that's slick. Uh, Water Catch or anybody. Come on back with 270. 270. Meter Pegasus. >> I think Meter Pegasus bought my Oh, yeah. He bought my um uh I think my Teenage Mut Ninja Turtle with uh >> Nice. >> So, he's going to have a collection of these. My other that was a color piece, too. So, John said on his birthday that he was 39 + 10. All right, that make"
+        }
+      ]
+    },
+    {
+      "entity": "ComicsGate",
+      "mentions": 5,
+      "block_count": 5,
+      "first_timestamp": "00:04",
+      "last_timestamp": "03:18:07",
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.704,
+        "positive_hits": 46,
+        "negative_hits": 8
+      },
+      "receipts": [
+        {
+          "timestamp": "00:04",
+          "excerpt": "7 miles from target. Hostiles inbound shoot break. Heat. Heat. Heat. 6:00 in the rings. >> I'm going to pop. I did have a relationship with Mr. Lewinsky that was not appropriate. >> In fact, >> I'm going to get you. >> It constituted a critical lapse in judgment. >> Keep it in your pants, Saxs, man. >> This is an emergency broadcast. >> Why can't I finish my"
+        },
+        {
+          "timestamp": "01:48:01",
+          "excerpt": "hese. [laughter] >> People are always telling me that I should change the name ComicCape. Today, I offered an alternative. Let's see how that went. I [music] am going to abandon # comicsgate to describe what I'm building in 2021. The mainstream is dead. There's no conflict there anymore. We've won. I invite you all to immigrate over to Independent Comics Empire. I'm s"
+        },
+        {
+          "timestamp": "02:00:03",
+          "excerpt": "stay in their own little blue world. >> I don't think they'd let me over there. You know what I mean? >> JD Vance off like twice, I think. >> Really? >> Yeah. You can't. They'll kick you off. I remember Billy. I came in here and I was hot. I was mad because they said we're leaving because uh of Elon because he was back on. I was like, \"You [ __ ] You pieces"
+        },
+        {
+          "timestamp": "02:24:00",
+          "excerpt": "is no migration. Uh, that there are two separate sites. >> Aaron Sleepers here. He says, \"Evs, it's funny. My W was self's not likely to ever get a chance to work with DC, but over the years I've ended up doing steampunk versions of most DC characters. I've seen Billy's I think Billyy's seen some of my portfolio. My point is there are plenty of good ideas st"
+        },
+        {
+          "timestamp": "03:12:00",
+          "excerpt": "this? >> Oh no, this Yeah, Batman 1989. So this is the um Yeah. So this is the first Batman movie running out of the Flugenheim and I want to do the lettering for it. So I'm a massive fan of Anton first, the production 1989. Love that guy's drawings. So, I want to go in and and put the texture in the buildings when uh you guys said we're doing Gotham tonight"
+        }
+      ]
+    },
+    {
+      "entity": "Cyberfrog",
+      "mentions": 4,
+      "block_count": 3,
+      "first_timestamp": "00:04",
+      "last_timestamp": "02:00:02",
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.622,
+        "positive_hits": 30,
+        "negative_hits": 7
+      },
+      "receipts": [
+        {
+          "timestamp": "00:04",
+          "excerpt": "7 miles from target. Hostiles inbound shoot break. Heat. Heat. Heat. 6:00 in the rings. >> I'm going to pop. I did have a relationship with Mr. Lewinsky that was not appropriate. >> In fact, >> I'm going to get you. >> It constituted a critical lapse in judgment. >> Keep it in your pants, Saxs, man. >> This is an emergency broadcast. >> Why can't I finish my"
+        },
+        {
+          "timestamp": "36:00",
+          "excerpt": "w? >> Hey, EJ. >> Uh, my screen. There we go. >> Yeah, there you are. >> EJ Morg. Ladies and gentlemen, we got we got some super duper guests tonight. Unbelievable. EJ Morris, uh, Cyberfrog artist Supreme EJ Morgos is here. >> Is Is that what that is? Awesome. >> Yes, indeed. Uh, EJ >> EJ, what's going on? >> So, EJ, we're drawing Batman tonight or Gotham City, whate"
+        },
+        {
+          "timestamp": "01:48:01",
+          "excerpt": "numbers a pathetic narcissism. Abolish ice now means two things. Yep. Thanks for making our job easier, Ethan. [laughter] one. What did he win? Last I checked, Smile still outsold Cyberfrog by about a hundfold. What did he win? Irrelevance. >> Also, Ice in relation to comics is already the name of an independent comic expo that is sometimes held in Birmingham. No. >>"
+        }
+      ]
+    },
+    {
+      "entity": "Liam Gray",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "02:12:01",
+      "last_timestamp": "02:24:02",
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.889,
+        "positive_hits": 17,
+        "negative_hits": 1
+      },
+      "receipts": [
+        {
+          "timestamp": "02:12:01",
+          "excerpt": "k. >> I'm not going to keep it secret. I know that. >> Of course, I will. >> No, you won't. >> Shane, it's not it's not >> Yeah, I don't keep secrets when they're about gossip and Liam Gray. You know what I mean? It's like if Anna tells me something funny about this person, those are the kind of secrets I don't keep. Uh, you know, the secrets about your book. Uh, yea"
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:04",
+      "end": "12:00",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "7 miles from target. Hostiles inbound shoot break. Heat. Heat. Heat. 6:00 in the rings. >> I'm going to pop. I did have a relationship with Mr. Lewinsky that was not appropriate. >> In fact, >> I'm going to get you. >> It constituted a critical lapse in judgment. >> Keep it in your pants, Saxs, man. >> This is an emergency broadcast. >> Why can't I"
+    },
+    {
+      "start": "12:00",
+      "end": "24:03",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "it, you know. So, >> I love that stuff. That's great. >> How are we doing? >> I'm done with those. I'm going to I'm going to >> I'm done with those. I'm going to tackle the uh the uh the uh collaboration book, too. >> Oh, okay. Good. >> What are you working on, Bosch? >> Working on this, actually. This is my latest page on a certain book that I'm w"
+    },
+    {
+      "start": "24:00",
+      "end": "36:02",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "It's like, >> oh, >> like [clears throat] this. And it's like not human. You know what I mean? It's like >> the the look on her face like a baby. >> That shot of her making that face and I went, \"What the hell is this movie about? Looks terrifying, man.\" >> Yeah, because he says like he wants to go out with his friends instead of hang out with her."
+    },
+    {
+      "start": "36:00",
+      "end": "48:02",
+      "title": "Cyberfrog",
+      "entities": [
+        "Cyberfrog"
+      ],
+      "possible_clip": false,
+      "summary_seed": ">> man? I haven't been shooting over a year. Tell them to come out to Long Island, man. We'll go. >> No effing way. EJ Morgis, this will be the best night of my life. Where's EJ? >> What's going on? >> Come on, connect. >> EJ, how's it going, man? >> There he is. >> He's not Oh, is he in now? >> Hey, EJ. >> Uh, my screen. There we go. >> Yeah, ther"
+    },
+    {
+      "start": "48:01",
+      "end": "01:00:06",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "going to be, you know, a slow roll out because we got to, uh, get everybody acclimated to it, you know. Um, I imagine like people getting on board, which there's a room full of people already, that each one of you guys are going to need like some sort of guidance on it or have questions. So, we got to take time to go through everybody and eventuall"
+    },
+    {
+      "start": "01:00:01",
+      "end": "01:12:02",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "second second best underdog compared to drank all the beer we had we had in Boston. They drank every how dare they come and go and do that. >> I can't blame them for like a boss better than New York. New York's a [ __ ] hole. >> I think you're casting a very strange Scottish spell on me, buddy. What are you doing there? What does that speak? How da"
+    },
+    {
+      "start": "01:12:00",
+      "end": "01:24:03",
+      "title": "Shane Davis",
+      "entities": [
+        "Shane Davis"
+      ],
+      "possible_clip": false,
+      "summary_seed": "papers and stuff because like they were like looking at my ID and were like where did you get this? Where did you get this? >> Like a super chat. $20 super chat here. So, it's not that we Italians have a greater percentage of criminals than everyone else. We're just the best at it. >> Capichap, >> it's the most entertaining. >> De Julius, gentlemen"
+    },
+    {
+      "start": "01:24:01",
+      "end": "01:36:03",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "a couple of sketches that were I mean not like you know I'm not Alex Ross like I didn't sit there and make it look exactly like Ray Leota >> model as a base model. Yeah >> kind of. Yeah. Just a thought you know. >> Well that's interesting visually. You had an engine. >> Some point maybe I'll draw a little bit of that. Be fun to draw. I got to draw"
+    },
+    {
+      "start": "01:36:00",
+      "end": "01:48:03",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": ">> you look at that [ __ ] R2-D2 character toy that didn't look anything like him. I mean, it just didn't look anything like the real R2-D2. It took him like 30 years to get it right. >> Nothing >> and nobody did anything about it. You know, I got that Superman MIGO doll. He looked like Ricardo Montalbond. He didn't look like Christopher Reeves. [l"
+    },
+    {
+      "start": "01:48:01",
+      "end": "02:00:02",
+      "title": "ComicsGate / Cyberfrog",
+      "entities": [
+        "ComicsGate",
+        "Cyberfrog"
+      ],
+      "possible_clip": true,
+      "summary_seed": "them both uh come to the band stand and sing. And Annette uh is a cute gal but cannot sing. She she doesn't have a voice. Oh, really? >> Yeah. Oh, yeah. It was rough. >> Well, she has a Disney voice where she would just sing like she she was a teen uh you know. >> Yeah. >> She was a mousketeer, wasn't she? >> Musketeer. Like she would sing well eno"
+    },
+    {
+      "start": "02:00:03",
+      "end": "02:12:02",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "stay in their own little blue world. >> I don't think they'd let me over there. You know what I mean? >> JD Vance off like twice, I think. >> Really? >> Yeah. You can't. They'll kick you off. I remember Billy. I came in here and I was hot. I was mad because they said we're leaving because uh of Elon because he was back on. I was like, \"You [ __ ] Y"
+    },
+    {
+      "start": "02:12:01",
+      "end": "02:24:02",
+      "title": "Liam Gray / Shane Davis",
+      "entities": [
+        "Liam Gray",
+        "Shane Davis"
+      ],
+      "possible_clip": false,
+      "summary_seed": "I mean, >> give them back to the people, Shane. They should be happy fans. You know, they should be happy. And >> you know, you shouldn't buy you shouldn't buy your your Christmas presents uh for Terry too with that. >> Shouldn't leave >> your profits either. That's right. >> Should die. This is >> tell you what to do with your profits. >> Sean typ"
+    },
+    {
+      "start": "02:24:00",
+      "end": "02:36:02",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "is no migration. Uh, that there are two separate sites. >> Aaron Sleepers here. He says, \"Evs, it's funny. My W was self's not likely to ever get a chance to work with DC, but over the years I've ended up doing steampunk versions of most DC characters. I've seen Billy's I think Billyy's seen some of my portfolio. My point is there are plenty of goo"
+    },
+    {
+      "start": "02:36:01",
+      "end": "02:48:03",
+      "title": "Frog Tony / Shane Davis",
+      "entities": [
+        "Frog Tony",
+        "Shane Davis"
+      ],
+      "possible_clip": false,
+      "summary_seed": "that's slick. Uh, Water Catch or anybody. Come on back with 270. 270. Meter Pegasus. >> I think Meter Pegasus bought my Oh, yeah. He bought my um uh I think my Teenage Mut Ninja Turtle with uh >> Nice. >> So, he's going to have a collection of these. My other that was a color piece, too. So, John said on his birthday that he was 39 + 10. All right,"
+    },
+    {
+      "start": "02:48:01",
+      "end": "03:00:04",
+      "title": "Shane Davis",
+      "entities": [
+        "Shane Davis"
+      ],
+      "possible_clip": false,
+      "summary_seed": ">> going around. I actually got to see photos of the characters before I had to sign paperwork and all this [ __ ] >> Nice. Yeah. Uh but uh 110 thank you for that. But I did Twoface a bunch of images of Twoface Rock, >> Raja Ghoul, and Scarecrow. And I they wanted me to go through the entire library of uh Garcia Lopez stuff and re and kind of give"
+    },
+    {
+      "start": "03:00:01",
+      "end": "03:12:00",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": ">> Yep. I wish he would he would have his comics. >> Ladies and gentlemen, we're looking for $60 or more for EJ Morris's Bane tonight. Uh he could fill in the area around the bat symbol. Oh, you want him to color the bat symbol in like black? He could probably do that. >> Yeah, I could do that. Pop it, man. That would be cool. >> Or do the backgrou"
+    },
+    {
+      "start": "03:12:00",
+      "end": "03:18:07",
+      "title": "Shane Davis",
+      "entities": [
+        "Shane Davis"
+      ],
+      "possible_clip": false,
+      "summary_seed": "this? >> Oh no, this Yeah, Batman 1989. So this is the um Yeah. So this is the first Batman movie running out of the Flugenheim and I want to do the lettering for it. So I'm a massive fan of Anton first, the production 1989. Love that guy's drawings. So, I want to go in and and put the texture in the buildings when uh you guys said we're doing Goth"
+    }
+  ],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "story_matches": [
+    {
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 1.0
+    },
+    {
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.75
+    },
+    {
+      "story_id": "thequartering-kino-casino-conflict",
+      "title": "TheQuartering / Kino Casino conflict",
+      "score": 0.5
+    },
+    {
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.4
+    }
+  ],
+  "uncertainty_flags": [
+    "speaker attribution may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon cannot reliably detect sarcasm",
+    "claims and relationship signals remain candidates"
+  ]
+}

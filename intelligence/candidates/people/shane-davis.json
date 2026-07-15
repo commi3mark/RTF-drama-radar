@@ -1,0 +1,1590 @@
+{
+  "entity_id": "shane-davis",
+  "name": "Shane Davis",
+  "appearance_candidates": [
+    {
+      "video_id": "3up8iIaCs_E",
+      "title": "Absolute Batman Scam? Mark Brooks Exposes How Retailers Screw Artists!",
+      "source": "Shane Davis",
+      "entity": "Shane Davis",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    },
+    {
+      "video_id": "p4tTJHqHSRE",
+      "title": "Netflix NEEDS God! They Want Christian Viewers NOW?!",
+      "source": "Shane Davis",
+      "entity": "Shane Davis",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "discussions": [
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "title": "Gabbing With Ga......You know",
+      "source": "FFS Cast",
+      "importance": "major",
+      "mentions": 10,
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.158,
+        "positive_hits": 11,
+        "negative_hits": 8
+      },
+      "receipts": [
+        {
+          "timestamp": "24:01",
+          "excerpt": "So, uh, wait, is it wait there? Uh, you were hoping for Wheeler drama. The Wheeler stuff is [ __ ] crazy right now. I haven't done any I I've been watching Wheeler go after [ __ ] Shane Davis's website and I can show some of that. This was [ __ ] stupid and sickening to me in a way. Let me go uh pull this up. Let me go find it right quick. See if I can find it because"
+        },
+        {
+          "timestamp": "36:01",
+          "excerpt": "He was like doing this weird love bomb then I'm an [ __ ] thing that he does and so that's a no for me dog. People say I don't trust the Wheelers if the choice is the Wheelers or Shane Davis. Uh wait, HOLD ON. $5 from Finatra. Why did you do that? Now I've got to send you money to your [ __ ] Kofi. It says, \"Uh, Mono eats bud and has pinworms.\" I I don't think that's"
+        }
+      ]
+    },
+    {
+      "video_id": "LS_14uOaG2E",
+      "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "source": "Ethan Van Sciver",
+      "importance": "major",
+      "mentions": 10,
+      "sentiment": {
+        "label": "negative",
+        "score": -0.379,
+        "positive_hits": 18,
+        "negative_hits": 40
+      },
+      "receipts": [
+        {
+          "timestamp": "12:00",
+          "excerpt": ". [music] >> Tommy Reviews says Chrissy is on Tim Cass. Chat doesn't disappoint. Yikes. >> Bosch, I love the burn Holtz series, says Odinson. Now, [music] >> ladies and gentlemen, Shane Davis, sorry. Love it. [music] >> What was that comment about? >> Uh, >> love the burn Hulk series. [music] >> I appreciate it, man. Thanks, man. >> I'm also doing watch. [music] >> Uh,"
+        },
+        {
+          "timestamp": "24:01",
+          "excerpt": "uh oppressed or something. I don't know >> what did she do that got them all wrong. >> Oh terrible things. She did heinous acts against mankind. Oh >> I knew it. >> Damn it. You thumbmed it up. Um she I don't know she didn't know >> she had Millie Mac on her show who was too close to courting. So it was killed by association by by association double associat"
+        },
+        {
+          "timestamp": "48:01",
+          "excerpt": "cat. He couldn't roll with the jokes, man. And the guy just doesn't have a sense of humor. >> The book is called Cash Crab, Mike. >> Yeah, it's that type of person that uh is always like his raider is always on the lookout for something to that is going to offend or attack him. And uh they never chill out. And that's why they're always like so [ __ ] and neu"
+        },
+        {
+          "timestamp": "01:36:00",
+          "excerpt": "that guy >> Sturgis? He's a YouTuber named Renowned Zero uh who was a comics gate critic and obsessive fan of Eric July. Uh he makes content all the time where it's like Ethan and Shane Davis coping and seething and it'll be like uh me with hold on let me show you like a lot of his stuff. Uh, and it'll be like me with like peanut butter on my dick and I got Shane on a"
+        }
+      ]
+    },
+    {
+      "video_id": "zkW4zLSQ7eQ",
+      "title": "You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto!",
+      "source": "Ethan Van Sciver",
+      "importance": "major",
+      "mentions": 10,
+      "sentiment": {
+        "label": "positive",
+        "score": 0.371,
+        "positive_hits": 24,
+        "negative_hits": 11
+      },
+      "receipts": [
+        {
+          "timestamp": "12:01",
+          "excerpt": ">> [music] >> Welcome to 5XL FM where the trash flows. [music] >> There I am real small. Here I am real big. Ethan Van Skyver here. 5x LFM Philadelphia trash cast your show. You're the fan. You're the audience. You love this stuff. Can't get enough of it. And I'm here to serve it up. Nice big steaming plate of garbage for you tonight featuring some of your f"
+        },
+        {
+          "timestamp": "24:01",
+          "excerpt": "ad that's beautiful in every page, but there really isn't much work. And if you go back and look at it, you'll see that for yourself. You'll say, \"Wow, compared to what, like, say Shane Davis is putting out with the Glorious Rex right now. Like, we have to sing for our supper.\" Like, you know, we really do have to rock it. I'm not sure that we could put out a book that"
+        },
+        {
+          "timestamp": "36:01",
+          "excerpt": "Eric July video, uh a big black square. I should have said that would have been better. Yeah, there's a little bit of that in Zach. Zach wants to be look back on history. Like I didn't take a side. I wasn't with the right or the left. This is what Zach wants people to like say about him. I wasn't about the right or the left. I was about art. I was about what"
+        },
+        {
+          "timestamp": "01:12:02",
+          "excerpt": ", and I I saw it. But I was like, \"Oh man.\" Uh, I said, \"Uh, yeah, Cyberfrog, I'm the greatest.\" Like, Cyfrog is the greatest indie comic book. He goes, \"No wonder John Mailen and Shane Davis don't stream with you cuz you're saying stuff like, uh, you know, you're the greatest. Thanks a lot.\" And I was like, uh, maybe you're [clears throat] right. I don't know. Tommy R"
+        }
+      ]
+    },
+    {
+      "video_id": "66FqtP0Wves",
+      "title": "It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on \"WOKE\"! LANTERNS Spoilers?!",
+      "source": "Ethan Van Sciver",
+      "importance": "secondary",
+      "mentions": 4,
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.0,
+        "positive_hits": 11,
+        "negative_hits": 11
+      },
+      "receipts": [
+        {
+          "timestamp": "48:02",
+          "excerpt": "him in all this uh, and uh, kind of said uh, yeah, like I like him. He's always been nice to me. What does that have to do with anything? He's striking channels. Like I mean if if Shane Davis started striking channels I would have to say Shane is being a [ __ ] [ __ ] He needs to stop striking channels period. I you just have to say that doesn't matter if he's your bes"
+        },
+        {
+          "timestamp": "01:00:03",
+          "excerpt": "really loud. You don't even need to laugh hardly at all when you're actually on the show. We're trying to make the audience laugh, not each other laugh. Although, if you can make Shane Davis piss his pants laughing, that's then that's funny over a joke that you tell. But again, Shane and John and they know how to be on the air. That's weird. [clears throat] >> That wo"
+        }
+      ]
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "title": "The Ark Of Leem, LDA-King Stream",
+      "source": "FFS Cast",
+      "importance": "secondary",
+      "mentions": 5,
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.067,
+        "positive_hits": 8,
+        "negative_hits": 7
+      },
+      "receipts": [
+        {
+          "timestamp": "01:48:01",
+          "excerpt": "lowns, this guy did send me a night letter the other night. And you know what? Welcome, >> Dad. You know what I do when I feel like a loser? I look at this. [snorts] >> Take that, Shane Davis. How do you >> How does that night make you feel? >> How do you How does that make you feel, Shane? Huh? I'm going to dog biscuits, boy. >> Yeah. How do you feel? I I I treated Li"
+        },
+        {
+          "timestamp": "03:12:02",
+          "excerpt": "ld always be worse. >> I don't think it has to be an offer, you know? Here we go. >> Dad, you know what I do when I feel like a loser? I look at this. [snorts] >> Yeah, take that, Shane Davis. I hope you're watching, [ __ ] He >> won't remember that we said this and he'll go on a stream in [ __ ] a week from now and repeat this [ __ ] >> Yeah, a drunk, man. Come on. Yo"
+        }
+      ]
+    },
+    {
+      "video_id": "VBJwPPZ1LeY",
+      "title": "Sturgis Went To Japan On Thirsty Thursday!",
+      "source": "Frog Tony",
+      "importance": "secondary",
+      "mentions": 3,
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.231,
+        "positive_hits": 8,
+        "negative_hits": 5
+      },
+      "receipts": [
+        {
+          "timestamp": "48:01",
+          "excerpt": "[laughter] >> No, he's not doing this for He has no good intentions. It's all just bitter bitterness and resentment. Like, so >> yes. Well, it's beyond that. It's bitter. It's bitterness. It's resentment. Plus, it's his ability to LAR, right? He got to come into a space and pretend to be somebody who he isn't. No one asks questions because we all assume that"
+        },
+        {
+          "timestamp": "05:12:00",
+          "excerpt": "pika pika pika pika pika. Sturgeis knows all the words though. Don't worry. Where's team rocket? Oh [ __ ] [music] Sunglasses. >> Okay. So here's here's my question. Like this is the the classic Disney question for you. Uh toy. [clears throat] >> Okay. So this this Pikachu is wearing a dress, right? >> Yes. >> That implies peak of shame, right? >> Implies wh"
+        }
+      ]
+    },
+    {
+      "video_id": "RxZ_OdBN2f0",
+      "title": "Katydid Caught LYING AGAIN! - Detractor Kings",
+      "source": "Frog Tony",
+      "importance": "secondary",
+      "mentions": 2,
+      "sentiment": {
+        "label": "mixed",
+        "score": -0.053,
+        "positive_hits": 9,
+        "negative_hits": 10
+      },
+      "receipts": [
+        {
+          "timestamp": "24:01",
+          "excerpt": "r one review. Ripverse or ripoff verse? Again, I coined the [ __ ] phrase ripoff verse. Okay, >> welcome to the riperverse. [snorts] I reviewed it. Imm number one. Ism number one. Shane Davis was doing a cover for Ism number two, which means they were still friendly with [ __ ] Eric July when I was talking about Ism. How would how would me [ __ ] on Ism get me friendly"
+        },
+        {
+          "timestamp": "02:00:00",
+          "excerpt": ">> that have creative uh again bones in their body. >> Was it >> I don't know. I don't think >> Mike >> Yeah. Yeah. Epic Mike. Yeah, is he suggesting that like uh Geeks and Gamers, Jeremy, uh [ __ ] Ryan Canel, they're all gonna like make movies and [ __ ] >> Sure. >> Look, I get that like a couple Okay, hold on. I get that like a couple YouTubers made some"
+        }
+      ]
+    },
+    {
+      "video_id": "ibGd2AqrEXg",
+      "title": "JON DEL ARROZ: HERES THE ATTENTION YOU ORDERED - SHANE DAVIS BACK ME BRO INTERNET BEEF - EXTRA SALTY",
+      "source": "Commi3 Mark",
+      "importance": "major",
+      "mentions": 10,
+      "sentiment": {
+        "label": "negative",
+        "score": -0.355,
+        "positive_hits": 10,
+        "negative_hits": 21
+      },
+      "receipts": [
+        {
+          "timestamp": "24:01",
+          "excerpt": "it. Like that's people who watched the video >> pause like um and then left again. So >> that's funny. Look how high it is. Like it's the highest point of the show. 40% of people tune in to watch. >> That's the only reason. >> This is why I'm saying you know what you need to do is you need to move that segment around. Uh, and like never have it in a regular"
+        },
+        {
+          "timestamp": "36:02",
+          "excerpt": "le time. They've been doing it since 2018 and [laughter] it really treats their audiences like they're complete idiots. And Shane Dave >> calling this an idiot again. Oh, here's a Shane Davis mine. Let's go back a sec. [snorts] >> It's another thing that they do that's a big deal uh every single time and they've been doing it since 2018 and [laughter] it really treats"
+        },
+        {
+          "timestamp": "48:01",
+          "excerpt": "pretty obvious at this juncture. So that's what's going on on griff number one. Griff number two is what's >> here we go. This is when it's gone to the Shane stuff and it >> with Shane Davis. Like I said, they've got the equivalent of the comic book industry all new number one first issue. Marvel Comics just did this this last month with Fantastic 4. They've got the m"
+        },
+        {
+          "timestamp": "01:00:02",
+          "excerpt": "at he I guess didn't have any receipts for >> Yeah, he doesn't show any receipts like in that video at all. >> Just such a clown show. Now, uh, it was brought to my attention that Shane Davis from Comics Gate, the guy who used to work at DC Comics here, uh, did a threehour live stream about me. [laughter] >> You can't make this stuff up. >> Um, but this is what they do"
+        }
+      ]
+    },
+    {
+      "video_id": "MOQPFnHJYR0",
+      "title": "Cynic Got CATFISHED And EVS Continues To SPIRAL On Thirsty Thursday!",
+      "source": "Frog Tony",
+      "importance": "passing",
+      "mentions": 1,
+      "sentiment": {
+        "label": "negative",
+        "score": -0.429,
+        "positive_hits": 2,
+        "negative_hits": 5
+      },
+      "receipts": [
+        {
+          "timestamp": "01:48:01",
+          "excerpt": "remember when nobody knew who I swear the [ __ ] up >> you guys. >> You going to let you You're constantly complaining about people not letting you finish and won't let me get a [ __ ] word out. >> I remember either. >> I swear to [ __ ] God, TJ. Shut the [ __ ] up. Let me finish. I was here doing my own thing. I didn't go into comics chats. I wasn't [ __ ]"
+        }
+      ]
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "title": "Gabbing With Ga......You Know",
+      "source": "FFS Cast",
+      "importance": "major",
+      "mentions": 10,
+      "sentiment": {
+        "label": "mixed",
+        "score": -0.097,
+        "positive_hits": 14,
+        "negative_hits": 17
+      },
+      "receipts": [
+        {
+          "timestamp": "48:01",
+          "excerpt": "at home workout.\" I've never >> these people, man. Like all these [ __ ] people. All these [ __ ] people. Did I tell y'all? Did I tell y'all by the way? I got a night letter from Shane Davis last night. Uh >> oh. >> I did. I did. >> You know what I told him? >> I told him I told that [ __ ] he was scared of Frog Pony because frogs don't have thumbs. when he uh he goes"
+        },
+        {
+          "timestamp": "01:00:01",
+          "excerpt": "mes. So, he feels Let's see. [clears throat] You know what, man? This rumor is really starting to get the [ __ ] out of hand. It's really about to get the in the night letter that Shane Davis sent me last night, this cocky, smarmy son of a [ __ ] right? Said, uh, \"Listen here.\" In the beginning, it said, \"Listen here, you little shit.\" Can you believe that, man? Can yo"
+        },
+        {
+          "timestamp": "01:48:00",
+          "excerpt": "UH, LOOK. And also, if we hit the the the monetary amount on the yellows, I I'm going to count that. It doesn't have to just be 10. So, I'm going to add up all of them if we get there. So, we're we're way closer than what I even thought cuz I need to do uh regular goody two shoes stuff and Stormtrooper uh Julian Caesar stuff. But he says Vent was busy making"
+        }
+      ]
+    },
+    {
+      "video_id": "6GIxuFOICAI",
+      "title": "Catching Up With The Rippaverse! - Detractor Kings",
+      "source": "Frog Tony",
+      "importance": "passing",
+      "mentions": 2,
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.0,
+        "positive_hits": 1,
+        "negative_hits": 1
+      },
+      "receipts": [
+        {
+          "timestamp": "02:00:01",
+          "excerpt": "think I'm going to go [ __ ] pick up a comic? I I order Uber Eats for [ __ ] restaurants that are down the street. Okay. >> Yeah. Well, I mean, most people they won't they they're going to want them shipped. I I don't expect any people within, you know, maybe 50 miles of even ordering from me, but I mean, maybe that'll happen. I don't know. >> Uh, Credence s"
+        }
+      ]
+    },
+    {
+      "video_id": "7LMz5W0-mLs",
+      "title": "Finbarr STOMPS A Dwarf! - OPEN PANEL MADHOUSE!!!!",
+      "source": "Frog Tony",
+      "importance": "passing",
+      "mentions": 1,
+      "sentiment": {
+        "label": "positive",
+        "score": 0.714,
+        "positive_hits": 6,
+        "negative_hits": 1
+      },
+      "receipts": [
+        {
+          "timestamp": "01:24:00",
+          "excerpt": "take text out of it. it was flagged manually by somebody. And what Sonic says, and I don't know if he's already said it or he says it later, is that uh somebody's somebody's reviewed it already or something along them lines. No, they haven't. When you flag it, it gets taken down immediately and your account is locked. >> Yeah. >> Then you have a choice to ta"
+        }
+      ]
+    },
+    {
+      "video_id": "LdLy2G5TM4c",
+      "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+      "source": "Commi3 Mark",
+      "importance": "passing",
+      "mentions": 1,
+      "sentiment": {
+        "label": "positive",
+        "score": 0.667,
+        "positive_hits": 5,
+        "negative_hits": 1
+      },
+      "receipts": [
+        {
+          "timestamp": "12:00",
+          "excerpt": "ay. See, like uh it's going to be fun. Um All right. But that's this week. We have to talk about last week first. And last week we covered JDA. JDA was trying to pick a fight with Shane Davis, so we just picked a fight with him. Uh credit to JDA um for a moment. Like the whole the whole stream was a trap. like uh had I explained to these before like they had a whole bu"
+        }
+      ]
+    },
+    {
+      "video_id": "N52SC2cLnvY",
+      "title": "TRASHCAST # 267 BIGGEST PROBLEM was insane. Vito is a outta control. I pity him.",
+      "source": "Ethan Van Sciver",
+      "importance": "secondary",
+      "mentions": 3,
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.0,
+        "positive_hits": 6,
+        "negative_hits": 6
+      },
+      "receipts": [
+        {
+          "timestamp": "12:00",
+          "excerpt": "parked in a garage at Sunset Station Hotel. All right. As officers approached the vehicle, Howlet blasted music over the car stereo. I wonder if the music was AI music threatening Shane Davis and refused commands to exit. He did, however, ask cops for a drink of water. Shocking video. The ensuing reaction, insuring reaction shows the officer surrounding the vehicle dra"
+        }
+      ]
+    },
+    {
+      "video_id": "X0hbv1uKEGA",
+      "title": "Becoming All Powerful & the Ultimate Underdog!",
+      "source": "KatyDid",
+      "importance": "passing",
+      "mentions": 2,
+      "sentiment": {
+        "label": "mixed",
+        "score": -0.25,
+        "positive_hits": 3,
+        "negative_hits": 5
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "ith my fucking family like that. Everyone knew how important it was for me to be able to go. I was going to see people I loved that I haven't seen in like 20 years. You know, like Shane Davis said, I said on the stream, Shane Davis says, \"Oh, it's not a big deal even if you don't go.\" I was like, \"It's a big deal to me because I wanted to see people I haven't seen in 2"
+        }
+      ]
+    },
+    {
+      "video_id": "FrQfU1Y84Nk",
+      "title": "DRAW-MUH STREAM! REIGNBOW THE BRUTE Death of Papa Smerc page 3 pt3",
+      "source": "Ethan Van Sciver",
+      "importance": "major",
+      "mentions": 6,
+      "sentiment": {
+        "label": "mixed",
+        "score": -0.077,
+        "positive_hits": 12,
+        "negative_hits": 14
+      },
+      "receipts": [
+        {
+          "timestamp": "12:01",
+          "excerpt": "just stays the same. uh he just kind of uh you know is talks about who is uh the most annoying to him at any given point and the zeros are annoying to him right now. Will JDA join Shane Davis in Back Me. What is this Katie clip? Do I watch that or do I put on music? I don't [clears throat] know. Yeah, that was great, man. Part of me, like for the longest time, I've bee"
+        },
+        {
+          "timestamp": "36:00",
+          "excerpt": ">> [music] >> Still again. [music] >> 200 W Studios says, \"I was a huge Firestorm fan since 1978. Was there on day one when Fury came out, Raymond was in the uh Justice League, 30-year hero. No way was he racist. How come we don't black friends? Mom, why? Because uh it'd be great if mom told him. [laughter] All right, Gail, you write that. I'm going to write"
+        },
+        {
+          "timestamp": "48:01",
+          "excerpt": "cares. It's like it's not like uh oh no, you know, I've been in last place before. I've been in first place before. I've been in the middle most of the time. Um and it's not a big deal. We don't hate each other. You know, we're just kind of [ __ ] around. >> But John wants clearly defined rules and he wants everybody to play by them. Understood. I get it. an"
+        }
+      ]
+    },
+    {
+      "video_id": "Zd9PVsLAD5c",
+      "title": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
+      "source": "Ethan Van Sciver",
+      "importance": "major",
+      "mentions": 10,
+      "sentiment": {
+        "label": "positive",
+        "score": 0.667,
+        "positive_hits": 15,
+        "negative_hits": 3
+      },
+      "receipts": [
+        {
+          "timestamp": "36:00",
+          "excerpt": ">> man? I haven't been shooting over a year. Tell them to come out to Long Island, man. We'll go. >> No effing way. EJ Morgis, this will be the best night of my life. Where's EJ? >> What's going on? >> Come on, connect. >> EJ, how's it going, man? >> There he is. >> He's not Oh, is he in now? >> Hey, EJ. >> Uh, my screen. There we go. >> Yeah, there you are."
+        },
+        {
+          "timestamp": "48:01",
+          "excerpt": "going to be, you know, a slow roll out because we got to, uh, get everybody acclimated to it, you know. Um, I imagine like people getting on board, which there's a room full of people already, that each one of you guys are going to need like some sort of guidance on it or have questions. So, we got to take time to go through everybody and eventually people w"
+        }
+      ]
+    },
+    {
+      "video_id": "pltu7sa30D8",
+      "title": "Scarlett lives her best life | #932",
+      "source": "Ministry of Dude",
+      "importance": "passing",
+      "mentions": 1,
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.25,
+        "positive_hits": 5,
+        "negative_hits": 3
+      },
+      "receipts": [
+        {
+          "timestamp": "12:01",
+          "excerpt": "like not even a lit cigarette. >> You get just get out of here, you [ __ ] kids. This is not play place. This is where people live and sleep. Get out of here. I'm practicing. I'm trying. [laughter] >> By the way, Stephen sent like three 3,800 juice. >> That might be a whole >> See, we got um what we got? We got We got to go all the way to the top. I just Oh,"
+        }
+      ]
+    },
+    {
+      "video_id": "odC_ijF0FE4",
+      "title": "JCW Lunacy #89 Watch Party",
+      "source": "Frog Tony",
+      "importance": "passing",
+      "mentions": 1,
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "positive_hits": 2,
+        "negative_hits": 0
+      },
+      "receipts": [
+        {
+          "timestamp": "01:48:00",
+          "excerpt": ">> I think it's a way to feel good for violent >> keep the heat on onto >> too tough. Tony following >> beating him up. >> You're beating up Tonyy's most at home in his neck of the woods now. >> And there's nothing any of the Luchas can do. Veto's reaching out, but he must feel 100 miles away. Break your thumb. Break your thumb. That's how we escape. Escape"
+        }
+      ]
+    },
+    {
+      "video_id": "7JzZNez4ZBE",
+      "title": "FFS: Shane Davis Stops By! Discusses JDA & BACKmeBro",
+      "source": "KatyDid",
+      "importance": "major",
+      "mentions": 10,
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.0,
+        "positive_hits": 5,
+        "negative_hits": 5
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "true or not. So, we'll see. There he is. What's up, Shane? >> I got I don't know what shit is going on over here, but I am here for a few minutes, so >> Yeah, yeah. Well, I mean, you don't have to be. I heard tonight's the >> shit? HIT ME WITH THE HARD QUESTIONS. >> WELL, WE WE'VE CAUGHT YOU SLURRING, so we caught you slurring. We caught you slurring. >> Cyn"
+        }
+      ]
+    },
+    {
+      "video_id": "3up8iIaCs_E",
+      "title": "Absolute Batman Scam? Mark Brooks Exposes How Retailers Screw Artists!",
+      "source": "Shane Davis",
+      "importance": "passing",
+      "mentions": 1,
+      "sentiment": {
+        "label": "unclear",
+        "score": 0.0,
+        "positive_hits": 0,
+        "negative_hits": 0
+      },
+      "receipts": [
+        {
+          "timestamp": "00:04",
+          "excerpt": "Hello guys, I'm Shane Davis and we're here to talk about the big fiasco with absolute Batman as Mark Brooks says, \"Give me that money. Give me that money.\" That's what Mark Brooks is saying for absolute Batm"
+        }
+      ]
+    },
+    {
+      "video_id": "p4tTJHqHSRE",
+      "title": "Netflix NEEDS God! They Want Christian Viewers NOW?!",
+      "source": "Shane Davis",
+      "importance": "passing",
+      "mentions": 1,
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "positive_hits": 1,
+        "negative_hits": 0
+      },
+      "receipts": [
+        {
+          "timestamp": "00:04",
+          "excerpt": "Hello guys. I'm Shane Davis and we're going to talk a little bit today about Netflix and their quick pivot, okay, that they're doing towards strategy to faith and family. These two things they want to do wit"
+        }
+      ]
+    }
+  ],
+  "claim_candidates": [
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "title": "Gabbing With Ga......You know",
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Shane Davis"
+      ],
+      "claim": "I do know that he's supposed to be So, Mono said, \"What is Shane Davis's book fulfillment date?\" I don't know right now.",
+      "timestamp": "36:01",
+      "status": "candidate_claim",
+      "confidence": 0.55,
+      "receipt": "I do know that he's supposed to be So, Mono said, \"What is Shane Davis's book fulfillment date?\" I don't know right now."
+    },
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "title": "Gabbing With Ga......You know",
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Shane Davis"
+      ],
+      "claim": "I guess we'll pop over and look at uh Shane Davis's thing where Ethan said he's killing the Kings.",
+      "timestamp": "48:00",
+      "status": "candidate_claim",
+      "confidence": 0.55,
+      "receipt": "I guess we'll pop over and look at uh Shane Davis's thing where Ethan said he's killing the Kings."
+    },
+    {
+      "video_id": "LS_14uOaG2E",
+      "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Shane Davis"
+      ],
+      "claim": "Uh, one more week, uh, I think six more days until Shane Davis launches back me, bro.",
+      "timestamp": "03:12:00",
+      "status": "opinion_or_inference",
+      "confidence": 0.42,
+      "receipt": "Uh, one more week, uh, I think six more days until Shane Davis launches back me, bro."
+    },
+    {
+      "video_id": "zkW4zLSQ7eQ",
+      "title": "You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto!",
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Shane Davis"
+      ],
+      "claim": "Uh Shane Davis says, \"Zoom in.\" Zoom in on what?",
+      "timestamp": "04:36:01",
+      "status": "candidate_claim",
+      "confidence": 0.55,
+      "receipt": "Uh Shane Davis says, \"Zoom in.\" Zoom in on what?"
+    },
+    {
+      "video_id": "ibGd2AqrEXg",
+      "title": "JON DEL ARROZ: HERES THE ATTENTION YOU ORDERED - SHANE DAVIS BACK ME BRO INTERNET BEEF - EXTRA SALTY",
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Shane Davis"
+      ],
+      "claim": "I DIDN'T WATCH [laughter] I can't say Shane Davis like I don't I don't know if he's um brain damaged like uh from he's I I know that he was a massive drug addict, a massive alcoholic at some point.",
+      "timestamp": "01:12:03",
+      "status": "candidate_claim",
+      "confidence": 0.55,
+      "receipt": "I DIDN'T WATCH [laughter] I can't say Shane Davis like I don't I don't know if he's um brain damaged like uh from he's I I know that he was a massive drug addict, a massive alcoholic at some point."
+    },
+    {
+      "video_id": "ibGd2AqrEXg",
+      "title": "JON DEL ARROZ: HERES THE ATTENTION YOU ORDERED - SHANE DAVIS BACK ME BRO INTERNET BEEF - EXTRA SALTY",
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Shane Davis"
+      ],
+      "claim": "[laughter] I can't say Shane Davis like I don't I don't know if he's um brain damaged like uh from he's I I know that he was a massive drug addict.",
+      "timestamp": "01:12:03",
+      "status": "candidate_claim",
+      "confidence": 0.55,
+      "receipt": "[laughter] I can't say Shane Davis like I don't I don't know if he's um brain damaged like uh from he's I I know that he was a massive drug addict."
+    },
+    {
+      "video_id": "X0hbv1uKEGA",
+      "title": "Becoming All Powerful & the Ultimate Underdog!",
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Shane Davis"
+      ],
+      "claim": "You know, like Shane Davis said, I said on the stream, Shane Davis says, \"Oh, it's not a big deal even if you don't go.\" I was like, \"It's a big deal to me because I wanted to see people I haven't seen in 20 years.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "confidence": 0.55,
+      "receipt": "You know, like Shane Davis said, I said on the stream, Shane Davis says, \"Oh, it's not a big deal even if you don't go.\" I was like, \"It's a big deal to me because I wanted to see people I haven't seen in 20 years."
+    },
+    {
+      "video_id": "7JzZNez4ZBE",
+      "title": "FFS: Shane Davis Stops By! Discusses JDA & BACKmeBro",
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Shane Davis"
+      ],
+      "claim": "If I was a viewer of his I was like yeah, fuck comic skating and fuck Shane Davis and then all of a sudden I saw you were on his website on Shane Davis's back me bro.",
+      "timestamp": "12:00",
+      "status": "candidate_claim",
+      "confidence": 0.55,
+      "receipt": "If I was a viewer of his I was like yeah, fuck comic skating and fuck Shane Davis and then all of a sudden I saw you were on his website on Shane Davis's back me bro."
+    },
+    {
+      "video_id": "3up8iIaCs_E",
+      "title": "Absolute Batman Scam? Mark Brooks Exposes How Retailers Screw Artists!",
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Shane Davis"
+      ],
+      "claim": "Hello guys, I'm Shane Davis and we're here to talk about the big fiasco with absolute Batman as Mark Brooks says, \"Give me that money.",
+      "timestamp": "00:04",
+      "status": "candidate_claim",
+      "confidence": 0.55,
+      "receipt": "Hello guys, I'm Shane Davis and we're here to talk about the big fiasco with absolute Batman as Mark Brooks says, \"Give me that money."
+    }
+  ],
+  "relationship_candidates": [
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "title": "Gabbing With Ga......You know",
+      "left": "Frog Tony",
+      "right": "Shane Davis",
+      "signal_type": "criticised",
+      "timestamp": "24:01",
+      "confidence": 0.48,
+      "receipt": "hank you so much. I appreciate it, man. Oh god. So, oh man, I don't know where I want to go first. We got the Snider Hype video. I do want to torture the chat with a little bit of Frog Tony's first ever non-drama stream. Just a little bit of it. I want to see what they do. I haven't watched it. I saw like a split second of it and I was like, we'll see how this goes.",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "title": "Gabbing With Ga......You know",
+      "left": "Frog Tony",
+      "right": "Shane Davis",
+      "signal_type": "promoted",
+      "timestamp": "24:01",
+      "confidence": 0.48,
+      "receipt": "hank you so much. I appreciate it, man. Oh god. So, oh man, I don't know where I want to go first. We got the Snider Hype video. I do want to torture the chat with a little bit of Frog Tony's first ever non-drama stream. Just a little bit of it. I want to see what they do. I haven't watched it. I saw like a split second of it and I was like, we'll see how this goes.",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "title": "Gabbing With Ga......You know",
+      "left": "Frog Tony",
+      "right": "Shane Davis",
+      "signal_type": "separation",
+      "timestamp": "24:01",
+      "confidence": 0.48,
+      "receipt": "hank you so much. I appreciate it, man. Oh god. So, oh man, I don't know where I want to go first. We got the Snider Hype video. I do want to torture the chat with a little bit of Frog Tony's first ever non-drama stream. Just a little bit of it. I want to see what they do. I haven't watched it. I saw like a split second of it and I was like, we'll see how this goes.",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "title": "Gabbing With Ga......You know",
+      "left": "Eric July",
+      "right": "Shane Davis",
+      "signal_type": "promoted",
+      "timestamp": "01:48:00",
+      "confidence": 0.48,
+      "receipt": "t's the same [ __ ] >> Like you would have fans you would have people who like appreciated what you guys did if you weren't so aggressively hostile. And if you looked at like what Eric July did, like you know the one good thing Eric did was he just kind of went okay now I the owner of a multi-million dollar business so I got to move differently. It is and it's like u",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "title": "Gabbing With Ga......You know",
+      "left": "Shane Davis",
+      "right": "Cyberfrog",
+      "signal_type": "criticised",
+      "timestamp": "02:48:01",
+      "confidence": 0.48,
+      "receipt": "f. >> I always believe Liam over every one of you kings, man. Every time Liam says something, I go that sounds like it's uh it's true. That's legit. Especially when he talks about Shane Davis, which is, >> you know, we all know how he is. That guy. >> What about What about when he talks about >> fences? one. I lost. >> I don't believe him when he talks about fences at",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "title": "Gabbing With Ga......You know",
+      "left": "Shane Davis",
+      "right": "Cyberfrog",
+      "signal_type": "promoted",
+      "timestamp": "02:48:01",
+      "confidence": 0.48,
+      "receipt": "f. >> I always believe Liam over every one of you kings, man. Every time Liam says something, I go that sounds like it's uh it's true. That's legit. Especially when he talks about Shane Davis, which is, >> you know, we all know how he is. That guy. >> What about What about when he talks about >> fences? one. I lost. >> I don't believe him when he talks about fences at",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "LS_14uOaG2E",
+      "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "left": "Shane Davis",
+      "right": "Friday Night Tights",
+      "signal_type": "legal_conflict",
+      "timestamp": "12:00",
+      "confidence": 0.48,
+      "receipt": ". [music] >> Tommy Reviews says Chrissy is on Tim Cass. Chat doesn't disappoint. Yikes. >> Bosch, I love the burn Holtz series, says Odinson. Now, [music] >> ladies and gentlemen, Shane Davis, sorry. Love it. [music] >> What was that comment about? >> Uh, >> love the burn Hulk series. [music] >> I appreciate it, man. Thanks, man. >> I'm also doing watch. [music] >> Uh,",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "LS_14uOaG2E",
+      "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "left": "Shane Davis",
+      "right": "Friday Night Tights",
+      "signal_type": "separation",
+      "timestamp": "12:00",
+      "confidence": 0.48,
+      "receipt": ". [music] >> Tommy Reviews says Chrissy is on Tim Cass. Chat doesn't disappoint. Yikes. >> Bosch, I love the burn Holtz series, says Odinson. Now, [music] >> ladies and gentlemen, Shane Davis, sorry. Love it. [music] >> What was that comment about? >> Uh, >> love the burn Hulk series. [music] >> I appreciate it, man. Thanks, man. >> I'm also doing watch. [music] >> Uh,",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "LS_14uOaG2E",
+      "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "left": "Sturgis",
+      "right": "Shane Davis",
+      "signal_type": "criticised",
+      "timestamp": "01:36:00",
+      "confidence": 0.48,
+      "receipt": "has like a fountains and uh people. >> It's like being in an island. What's he I don't understand who he is or I mean I see that he's creepy to be like that but who is that guy >> Sturgis? He's a YouTuber named Renowned Zero uh who was a comics gate critic and obsessive fan of Eric July. Uh he makes content all the time where it's like Ethan and Shane Davis coping",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "LS_14uOaG2E",
+      "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "left": "Eric July",
+      "right": "Shane Davis",
+      "signal_type": "criticised",
+      "timestamp": "01:36:00",
+      "confidence": 0.48,
+      "receipt": "who he is or I mean I see that he's creepy to be like that but who is that guy >> Sturgis? He's a YouTuber named Renowned Zero uh who was a comics gate critic and obsessive fan of Eric July. Uh he makes content all the time where it's like Ethan and Shane Davis coping and seething and it'll be like uh me with hold on let me show you like a lot of his stuff. Uh, and i",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "LS_14uOaG2E",
+      "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "left": "Shane Davis",
+      "right": "Friday Night Tights",
+      "signal_type": "criticised",
+      "timestamp": "01:36:00",
+      "confidence": 0.48,
+      "receipt": "that guy >> Sturgis? He's a YouTuber named Renowned Zero uh who was a comics gate critic and obsessive fan of Eric July. Uh he makes content all the time where it's like Ethan and Shane Davis coping and seething and it'll be like uh me with hold on let me show you like a lot of his stuff. Uh, and it'll be like me with like peanut butter on my dick and I got Shane on a",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "LS_14uOaG2E",
+      "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "left": "Shane Davis",
+      "right": "Cyberfrog",
+      "signal_type": "criticised",
+      "timestamp": "01:36:00",
+      "confidence": 0.48,
+      "receipt": "that guy >> Sturgis? He's a YouTuber named Renowned Zero uh who was a comics gate critic and obsessive fan of Eric July. Uh he makes content all the time where it's like Ethan and Shane Davis coping and seething and it'll be like uh me with hold on let me show you like a lot of his stuff. Uh, and it'll be like me with like peanut butter on my dick and I got Shane on a",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "LS_14uOaG2E",
+      "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "left": "Sturgis",
+      "right": "Shane Davis",
+      "signal_type": "promoted",
+      "timestamp": "01:36:00",
+      "confidence": 0.48,
+      "receipt": "has like a fountains and uh people. >> It's like being in an island. What's he I don't understand who he is or I mean I see that he's creepy to be like that but who is that guy >> Sturgis? He's a YouTuber named Renowned Zero uh who was a comics gate critic and obsessive fan of Eric July. Uh he makes content all the time where it's like Ethan and Shane Davis coping",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "LS_14uOaG2E",
+      "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "left": "Eric July",
+      "right": "Shane Davis",
+      "signal_type": "promoted",
+      "timestamp": "01:36:00",
+      "confidence": 0.48,
+      "receipt": "who he is or I mean I see that he's creepy to be like that but who is that guy >> Sturgis? He's a YouTuber named Renowned Zero uh who was a comics gate critic and obsessive fan of Eric July. Uh he makes content all the time where it's like Ethan and Shane Davis coping and seething and it'll be like uh me with hold on let me show you like a lot of his stuff. Uh, and i",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "LS_14uOaG2E",
+      "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "left": "Shane Davis",
+      "right": "Friday Night Tights",
+      "signal_type": "promoted",
+      "timestamp": "01:36:00",
+      "confidence": 0.48,
+      "receipt": "that guy >> Sturgis? He's a YouTuber named Renowned Zero uh who was a comics gate critic and obsessive fan of Eric July. Uh he makes content all the time where it's like Ethan and Shane Davis coping and seething and it'll be like uh me with hold on let me show you like a lot of his stuff. Uh, and it'll be like me with like peanut butter on my dick and I got Shane on a",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "zkW4zLSQ7eQ",
+      "title": "You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto!",
+      "left": "Liam Gray",
+      "right": "Shane Davis",
+      "signal_type": "criticised",
+      "timestamp": "04:00:00",
+      "confidence": 0.48,
+      "receipt": "g uh to be worried about. Otherwise, everything is real vague all the time. It's weird. Um I'm not going to watch that right now. There's a video on Katy Ds called The Tribunal of Liam Gray where Stray Beans goes over to him regarding the the CP Dropbox, the alleged CP Dropbox, and goes, \"Uh, you know, people are asking like if you had this Dropbox like and you knew",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "zkW4zLSQ7eQ",
+      "title": "You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto!",
+      "left": "Frog Tony",
+      "right": "Shane Davis",
+      "signal_type": "criticised",
+      "timestamp": "04:00:00",
+      "confidence": 0.48,
+      "receipt": "e, uh, because Katie did this, that's why nobody wants to. He said the same thing with me. Like, because I Is he going to say me? Hold on. >> Me anyway. Because I was friends with Frog Tony. >> Okay. So, he's going to blame recent situations for the fact that people have, you know, these longstanding kind of grudges against him. Um, and they've, you know, [clears thr",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "zkW4zLSQ7eQ",
+      "title": "You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto!",
+      "left": "Shane Davis",
+      "right": "Stray Beans",
+      "signal_type": "criticised",
+      "timestamp": "04:00:00",
+      "confidence": 0.48,
+      "receipt": "campaign? You mean somebody like Matt Bar? Like, what exactly are you talking about? Who wouldn't support you because you were in my crew? You know what I mean? Do you see like uh Shane Davis saying [ __ ] like that? Shane Davis is also supportive of me. Do you think he cares? Like if there's somebody who isn't supporting him because he's my friend or is friendly towar",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "zkW4zLSQ7eQ",
+      "title": "You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto!",
+      "left": "Liam Gray",
+      "right": "Shane Davis",
+      "signal_type": "promoted",
+      "timestamp": "04:00:00",
+      "confidence": 0.48,
+      "receipt": "g uh to be worried about. Otherwise, everything is real vague all the time. It's weird. Um I'm not going to watch that right now. There's a video on Katy Ds called The Tribunal of Liam Gray where Stray Beans goes over to him regarding the the CP Dropbox, the alleged CP Dropbox, and goes, \"Uh, you know, people are asking like if you had this Dropbox like and you knew",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "zkW4zLSQ7eQ",
+      "title": "You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto!",
+      "left": "Frog Tony",
+      "right": "Shane Davis",
+      "signal_type": "promoted",
+      "timestamp": "04:00:00",
+      "confidence": 0.48,
+      "receipt": "e, uh, because Katie did this, that's why nobody wants to. He said the same thing with me. Like, because I Is he going to say me? Hold on. >> Me anyway. Because I was friends with Frog Tony. >> Okay. So, he's going to blame recent situations for the fact that people have, you know, these longstanding kind of grudges against him. Um, and they've, you know, [clears thr",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "zkW4zLSQ7eQ",
+      "title": "You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto!",
+      "left": "Shane Davis",
+      "right": "Stray Beans",
+      "signal_type": "promoted",
+      "timestamp": "04:00:00",
+      "confidence": 0.48,
+      "receipt": "campaign? You mean somebody like Matt Bar? Like, what exactly are you talking about? Who wouldn't support you because you were in my crew? You know what I mean? Do you see like uh Shane Davis saying [ __ ] like that? Shane Davis is also supportive of me. Do you think he cares? Like if there's somebody who isn't supporting him because he's my friend or is friendly towar",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "66FqtP0Wves",
+      "title": "It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on \"WOKE\"! LANTERNS Spoilers?!",
+      "left": "Liam Gray",
+      "right": "Shane Davis",
+      "signal_type": "collaborated",
+      "timestamp": "48:02",
+      "confidence": 0.48,
+      "receipt": "mes. Some of these guys, no, you got to leave their channels alone, [ __ ] They're allowed to do that. Those are the rules of YouTube. We're running into that a little bit with uh Liam Gray. Liam doesn't understand it either. Once you get a taste for the power of striking down somebody's channel, I guess it's addictive. These guys just quartering and Liam, they just",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "66FqtP0Wves",
+      "title": "It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on \"WOKE\"! LANTERNS Spoilers?!",
+      "left": "Shane Davis",
+      "right": "Kino Casino",
+      "signal_type": "collaborated",
+      "timestamp": "48:02",
+      "confidence": 0.48,
+      "receipt": "him in all this uh, and uh, kind of said uh, yeah, like I like him. He's always been nice to me. What does that have to do with anything? He's striking channels. Like I mean if if Shane Davis started striking channels I would have to say Shane is being a [ __ ] [ __ ] He needs to stop striking channels period. I you just have to say that doesn't matter if he's your bes",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "66FqtP0Wves",
+      "title": "It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on \"WOKE\"! LANTERNS Spoilers?!",
+      "left": "Liam Gray",
+      "right": "Shane Davis",
+      "signal_type": "separation",
+      "timestamp": "48:02",
+      "confidence": 0.48,
+      "receipt": "mes. Some of these guys, no, you got to leave their channels alone, [ __ ] They're allowed to do that. Those are the rules of YouTube. We're running into that a little bit with uh Liam Gray. Liam doesn't understand it either. Once you get a taste for the power of striking down somebody's channel, I guess it's addictive. These guys just quartering and Liam, they just",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "66FqtP0Wves",
+      "title": "It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on \"WOKE\"! LANTERNS Spoilers?!",
+      "left": "Shane Davis",
+      "right": "Kino Casino",
+      "signal_type": "separation",
+      "timestamp": "48:02",
+      "confidence": 0.48,
+      "receipt": "him in all this uh, and uh, kind of said uh, yeah, like I like him. He's always been nice to me. What does that have to do with anything? He's striking channels. Like I mean if if Shane Davis started striking channels I would have to say Shane is being a [ __ ] [ __ ] He needs to stop striking channels period. I you just have to say that doesn't matter if he's your bes",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "66FqtP0Wves",
+      "title": "It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on \"WOKE\"! LANTERNS Spoilers?!",
+      "left": "Sturgis",
+      "right": "Shane Davis",
+      "signal_type": "separation",
+      "timestamp": "01:00:03",
+      "confidence": 0.48,
+      "receipt": "f those things where like I don't really care. Um I don't like Chrissy. I don't like those guys. So yeah, go ahead. You guys [ __ ] on each other. Uh David L says, \"Is there a new Sturgis in Japan video? Those were hilarious. I hope he tried. Thanks for the trash cast.\" Yes, there is another one. Yeah, I don't know if you want to watch it, but uh we could definitel",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "66FqtP0Wves",
+      "title": "It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on \"WOKE\"! LANTERNS Spoilers?!",
+      "left": "Shane Davis",
+      "right": "Friday Night Tights",
+      "signal_type": "separation",
+      "timestamp": "01:00:03",
+      "confidence": 0.48,
+      "receipt": "really loud. You don't even need to laugh hardly at all when you're actually on the show. We're trying to make the audience laugh, not each other laugh. Although, if you can make Shane Davis piss his pants laughing, that's then that's funny over a joke that you tell. But again, Shane and John and they know how to be on the air. That's weird. [clears throat] >> That wo",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "RxZ_OdBN2f0",
+      "title": "Katydid Caught LYING AGAIN! - Detractor Kings",
+      "left": "Eric July",
+      "right": "Shane Davis",
+      "signal_type": "defended",
+      "timestamp": "24:01",
+      "confidence": 0.48,
+      "receipt": "m. What Katie did >> man I hate her name because like what Katie did did what Katie did did what she done did is uh >> Katie done she was watching Nick Ricada. She was watching uh Eric July Yellow Flash because you know the weeb wars [ __ ] right? So she was watching the weeb wars [ __ ] and all the [ __ ] >> What the hell? Okay, >> pause it. Pause it. What's the wee",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "RxZ_OdBN2f0",
+      "title": "Katydid Caught LYING AGAIN! - Detractor Kings",
+      "left": "Frog Tony",
+      "right": "Shane Davis",
+      "signal_type": "defended",
+      "timestamp": "24:01",
+      "confidence": 0.48,
+      "receipt": "atie was a big fan of Eric July because she said that, right? >> Probably too. Yeah. tug. Uh, so, >> oh, okay. >> The idea that she was a I was here two years before I ever gotten Frog Tony stream. Uh, I mean, the fact that Katie repeatedly has said Frog Tony's the reason why I'm here. If it wasn't for Frog Tony, I wouldn't be in comics. Frog Tonyy's the one who brou",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "RxZ_OdBN2f0",
+      "title": "Katydid Caught LYING AGAIN! - Detractor Kings",
+      "left": "Sturgis",
+      "right": "Shane Davis",
+      "signal_type": "defended",
+      "timestamp": "24:01",
+      "confidence": 0.48,
+      "receipt": "the chat, Mike. I'll address that in a second. Um, except Tony. Uh, except Tony. Tony, don't listen. He butchered Vic's name. Vicona, right? Manona. Vic uh Manion. Katie was a she Sturgis. Yeah. Weren't you going after uh anyway before way before Ethan? Yes. >> Minana whatever. Everyone says Vic Miniona. Okay. Who cares? Vic the guy who >> Miola like there are peop",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "RxZ_OdBN2f0",
+      "title": "Katydid Caught LYING AGAIN! - Detractor Kings",
+      "left": "Eric July",
+      "right": "Shane Davis",
+      "signal_type": "collaborated",
+      "timestamp": "24:01",
+      "confidence": 0.48,
+      "receipt": "m. What Katie did >> man I hate her name because like what Katie did did what Katie did did what she done did is uh >> Katie done she was watching Nick Ricada. She was watching uh Eric July Yellow Flash because you know the weeb wars [ __ ] right? So she was watching the weeb wars [ __ ] and all the [ __ ] >> What the hell? Okay, >> pause it. Pause it. What's the wee",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "RxZ_OdBN2f0",
+      "title": "Katydid Caught LYING AGAIN! - Detractor Kings",
+      "left": "Frog Tony",
+      "right": "Shane Davis",
+      "signal_type": "collaborated",
+      "timestamp": "24:01",
+      "confidence": 0.48,
+      "receipt": "atie was a big fan of Eric July because she said that, right? >> Probably too. Yeah. tug. Uh, so, >> oh, okay. >> The idea that she was a I was here two years before I ever gotten Frog Tony stream. Uh, I mean, the fact that Katie repeatedly has said Frog Tony's the reason why I'm here. If it wasn't for Frog Tony, I wouldn't be in comics. Frog Tonyy's the one who brou",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "ibGd2AqrEXg",
+      "title": "JON DEL ARROZ: HERES THE ATTENTION YOU ORDERED - SHANE DAVIS BACK ME BRO INTERNET BEEF - EXTRA SALTY",
+      "left": "Shane Davis",
+      "right": "ComicsGate",
+      "signal_type": "promoted",
+      "timestamp": "01:24:01",
+      "confidence": 0.48,
+      "receipt": "d they just lie to the same like group of like few uh super chatters at this that that they can't they can't even like get out of their own uh way and it's really really sad. Now, Shane Davis actually like is one of the few of these guys that actually does deliver his comics. And so, you'd think like maybe he wants to just like chill and like not cause a bunch of contr",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "ibGd2AqrEXg",
+      "title": "JON DEL ARROZ: HERES THE ATTENTION YOU ORDERED - SHANE DAVIS BACK ME BRO INTERNET BEEF - EXTRA SALTY",
+      "left": "Shane Davis",
+      "right": "Cyberfrog",
+      "signal_type": "promoted",
+      "timestamp": "01:24:01",
+      "confidence": 0.48,
+      "receipt": "d they just lie to the same like group of like few uh super chatters at this that that they can't they can't even like get out of their own uh way and it's really really sad. Now, Shane Davis actually like is one of the few of these guys that actually does deliver his comics. And so, you'd think like maybe he wants to just like chill and like not cause a bunch of contr",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "ibGd2AqrEXg",
+      "title": "JON DEL ARROZ: HERES THE ATTENTION YOU ORDERED - SHANE DAVIS BACK ME BRO INTERNET BEEF - EXTRA SALTY",
+      "left": "Eric July",
+      "right": "Shane Davis",
+      "signal_type": "criticised",
+      "timestamp": "01:48:00",
+      "confidence": 0.48,
+      "receipt": "re. Now this is pretty interesting. Shane Davis is super mad at me for doubting the numbers on his website. Shane and the rest of the CG had no problem doubting the numbers on the Eric July campaign. Now, what's really really funny is when he talks, >> we never said anything about doubting Eric. >> I don't remember saying anything about the numbers on Eric July stuff",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "ibGd2AqrEXg",
+      "title": "JON DEL ARROZ: HERES THE ATTENTION YOU ORDERED - SHANE DAVIS BACK ME BRO INTERNET BEEF - EXTRA SALTY",
+      "left": "Eric July",
+      "right": "Shane Davis",
+      "signal_type": "promoted",
+      "timestamp": "01:48:00",
+      "confidence": 0.48,
+      "receipt": "re. Now this is pretty interesting. Shane Davis is super mad at me for doubting the numbers on his website. Shane and the rest of the CG had no problem doubting the numbers on the Eric July campaign. Now, what's really really funny is when he talks, >> we never said anything about doubting Eric. >> I don't remember saying anything about the numbers on Eric July stuff",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "LdLy2G5TM4c",
+      "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+      "left": "Eric July",
+      "right": "Shane Davis",
+      "signal_type": "promoted",
+      "timestamp": "12:00",
+      "confidence": 0.48,
+      "receipt": "Yeah, we'll uh I already have the page loaded up, so we'll have a scroll through. I can see if there's some other great ones. So, this week we're going to be talking about this uh Eric July murder mystery crossover thing. Um, I love like true crime stories and documentaries. Like, so it's fun to like uh [snorts] play detective for the week. Uh, this week in fact on t",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "X0hbv1uKEGA",
+      "title": "Becoming All Powerful & the Ultimate Underdog!",
+      "left": "Liam Gray",
+      "right": "Shane Davis",
+      "signal_type": "promoted",
+      "timestamp": "00:00",
+      "confidence": 0.48,
+      "receipt": "ards a campaign. Not my mega fans, just my average fan. Most of my backers don't just buy one $25 book. That's not what you're dealing with when you're dealing with no-name nobody Liam Gray. How many of you guys would have backed Ray Ray's book if I brought him onto this show and we joked around and I spoke to him maybe once a week for about 3 weeks. Just raise your",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "X0hbv1uKEGA",
+      "title": "Becoming All Powerful & the Ultimate Underdog!",
+      "left": "Eric July",
+      "right": "Shane Davis",
+      "signal_type": "promoted",
+      "timestamp": "00:00",
+      "confidence": 0.48,
+      "receipt": "nd go, \"This is a W W good W dopamine.\" And, you know, then think that you've got to win on me. You understand? Everyone else understands this is fucking normal adult life, right? Eric July content tried up. So, yeah, Liam's going to be the content now. Oh, fucking don't don't think that's happening. Reminds me this song. I can't load it, unfortunately. JJ seems hone",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "X0hbv1uKEGA",
+      "title": "Becoming All Powerful & the Ultimate Underdog!",
+      "left": "Shane Davis",
+      "right": "ComicsGate",
+      "signal_type": "promoted",
+      "timestamp": "00:00",
+      "confidence": 0.48,
+      "receipt": "ith my fucking family like that. Everyone knew how important it was for me to be able to go. I was going to see people I loved that I haven't seen in like 20 years. You know, like Shane Davis said, I said on the stream, Shane Davis says, \"Oh, it's not a big deal even if you don't go.\" I was like, \"It's a big deal to me because I wanted to see people I haven't seen in 2",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "7JzZNez4ZBE",
+      "title": "FFS: Shane Davis Stops By! Discusses JDA & BACKmeBro",
+      "left": "Shane Davis",
+      "right": "Rippaverse",
+      "signal_type": "promoted",
+      "timestamp": "12:00",
+      "confidence": 0.48,
+      "receipt": "nd is people tagging Ethan to tell me what to do. >> That was weird. Yeah, that was fucking weird. >> I wait wait wait. I thought that's how it worked. I thought that I had to get Shane Davis to do what I wanted to do. I have to go to Daddy Ethan and tell him. >> No, what I do is I DM him and I say I'm going to fucking hit you and then he just comes on the show. I don'",
+      "warning": "candidate relationship evidence; requires review"
+    }
+  ],
+  "story_candidates": [
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 1.0
+    },
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.8
+    },
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.5
+    },
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "score": 0.429
+    },
+    {
+      "video_id": "LS_14uOaG2E",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 1.0
+    },
+    {
+      "video_id": "LS_14uOaG2E",
+      "story_id": "thequartering-kino-casino-conflict",
+      "title": "TheQuartering / Kino Casino conflict",
+      "score": 0.75
+    },
+    {
+      "video_id": "LS_14uOaG2E",
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.6
+    },
+    {
+      "video_id": "LS_14uOaG2E",
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "score": 0.571
+    },
+    {
+      "video_id": "LS_14uOaG2E",
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.5
+    },
+    {
+      "video_id": "zkW4zLSQ7eQ",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 1.0
+    },
+    {
+      "video_id": "zkW4zLSQ7eQ",
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.75
+    },
+    {
+      "video_id": "zkW4zLSQ7eQ",
+      "story_id": "nick-rekieta-reputation-fallout",
+      "title": "Nick Rekieta reputation and downfall coverage",
+      "score": 0.667
+    },
+    {
+      "video_id": "zkW4zLSQ7eQ",
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.6
+    },
+    {
+      "video_id": "zkW4zLSQ7eQ",
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "score": 0.571
+    },
+    {
+      "video_id": "66FqtP0Wves",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 1.0
+    },
+    {
+      "video_id": "66FqtP0Wves",
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.8
+    },
+    {
+      "video_id": "66FqtP0Wves",
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.75
+    },
+    {
+      "video_id": "66FqtP0Wves",
+      "story_id": "thequartering-kino-casino-conflict",
+      "title": "TheQuartering / Kino Casino conflict",
+      "score": 0.75
+    },
+    {
+      "video_id": "66FqtP0Wves",
+      "story_id": "thequartering-coffee-business-scrutiny",
+      "title": "TheQuartering coffee-business scrutiny and expansion",
+      "score": 0.667
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 1.0
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.8
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.5
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "story_id": "thequartering-coffee-business-scrutiny",
+      "title": "TheQuartering coffee-business scrutiny and expansion",
+      "score": 0.5
+    },
+    {
+      "video_id": "VBJwPPZ1LeY",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.833
+    },
+    {
+      "video_id": "VBJwPPZ1LeY",
+      "story_id": "steel-toe-hro",
+      "title": "Steel Toe HRO",
+      "score": 0.667
+    },
+    {
+      "video_id": "VBJwPPZ1LeY",
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.6
+    },
+    {
+      "video_id": "VBJwPPZ1LeY",
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.5
+    },
+    {
+      "video_id": "VBJwPPZ1LeY",
+      "story_id": "nick-rekieta-reputation-fallout",
+      "title": "Nick Rekieta reputation and downfall coverage",
+      "score": 0.5
+    },
+    {
+      "video_id": "RxZ_OdBN2f0",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.833
+    },
+    {
+      "video_id": "RxZ_OdBN2f0",
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.8
+    },
+    {
+      "video_id": "RxZ_OdBN2f0",
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.5
+    },
+    {
+      "video_id": "RxZ_OdBN2f0",
+      "story_id": "nick-rekieta-reputation-fallout",
+      "title": "Nick Rekieta reputation and downfall coverage",
+      "score": 0.5
+    },
+    {
+      "video_id": "RxZ_OdBN2f0",
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "score": 0.429
+    },
+    {
+      "video_id": "ibGd2AqrEXg",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.833
+    },
+    {
+      "video_id": "ibGd2AqrEXg",
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.75
+    },
+    {
+      "video_id": "ibGd2AqrEXg",
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "score": 0.429
+    },
+    {
+      "video_id": "ibGd2AqrEXg",
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.4
+    },
+    {
+      "video_id": "MOQPFnHJYR0",
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.8
+    },
+    {
+      "video_id": "MOQPFnHJYR0",
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.75
+    },
+    {
+      "video_id": "MOQPFnHJYR0",
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "score": 0.571
+    },
+    {
+      "video_id": "MOQPFnHJYR0",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.5
+    },
+    {
+      "video_id": "MOQPFnHJYR0",
+      "story_id": "thequartering-coffee-business-scrutiny",
+      "title": "TheQuartering coffee-business scrutiny and expansion",
+      "score": 0.5
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 1.0
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.8
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.75
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "score": 0.429
+    },
+    {
+      "video_id": "6GIxuFOICAI",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.833
+    },
+    {
+      "video_id": "6GIxuFOICAI",
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.8
+    },
+    {
+      "video_id": "6GIxuFOICAI",
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.75
+    },
+    {
+      "video_id": "6GIxuFOICAI",
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "score": 0.571
+    },
+    {
+      "video_id": "7LMz5W0-mLs",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.833
+    },
+    {
+      "video_id": "7LMz5W0-mLs",
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.6
+    },
+    {
+      "video_id": "7LMz5W0-mLs",
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.5
+    },
+    {
+      "video_id": "7LMz5W0-mLs",
+      "story_id": "thequartering-coffee-business-scrutiny",
+      "title": "TheQuartering coffee-business scrutiny and expansion",
+      "score": 0.5
+    },
+    {
+      "video_id": "7LMz5W0-mLs",
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "score": 0.429
+    },
+    {
+      "video_id": "LdLy2G5TM4c",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.833
+    },
+    {
+      "video_id": "LdLy2G5TM4c",
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.6
+    },
+    {
+      "video_id": "LdLy2G5TM4c",
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "score": 0.429
+    },
+    {
+      "video_id": "N52SC2cLnvY",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.833
+    },
+    {
+      "video_id": "N52SC2cLnvY",
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.75
+    },
+    {
+      "video_id": "N52SC2cLnvY",
+      "story_id": "nick-rekieta-reputation-fallout",
+      "title": "Nick Rekieta reputation and downfall coverage",
+      "score": 0.667
+    },
+    {
+      "video_id": "N52SC2cLnvY",
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.6
+    },
+    {
+      "video_id": "N52SC2cLnvY",
+      "story_id": "thequartering-coffee-business-scrutiny",
+      "title": "TheQuartering coffee-business scrutiny and expansion",
+      "score": 0.5
+    },
+    {
+      "video_id": "X0hbv1uKEGA",
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.75
+    },
+    {
+      "video_id": "X0hbv1uKEGA",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.5
+    },
+    {
+      "video_id": "FrQfU1Y84Nk",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.833
+    },
+    {
+      "video_id": "FrQfU1Y84Nk",
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.6
+    },
+    {
+      "video_id": "FrQfU1Y84Nk",
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.5
+    },
+    {
+      "video_id": "Zd9PVsLAD5c",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 1.0
+    },
+    {
+      "video_id": "Zd9PVsLAD5c",
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.75
+    },
+    {
+      "video_id": "Zd9PVsLAD5c",
+      "story_id": "thequartering-kino-casino-conflict",
+      "title": "TheQuartering / Kino Casino conflict",
+      "score": 0.5
+    },
+    {
+      "video_id": "Zd9PVsLAD5c",
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.4
+    },
+    {
+      "video_id": "pltu7sa30D8",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.667
+    },
+    {
+      "video_id": "pltu7sa30D8",
+      "story_id": "steel-toe-hro",
+      "title": "Steel Toe HRO",
+      "score": 0.667
+    },
+    {
+      "video_id": "pltu7sa30D8",
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "score": 0.429
+    },
+    {
+      "video_id": "pltu7sa30D8",
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.4
+    },
+    {
+      "video_id": "odC_ijF0FE4",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.833
+    },
+    {
+      "video_id": "odC_ijF0FE4",
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.6
+    },
+    {
+      "video_id": "odC_ijF0FE4",
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "score": 0.429
+    },
+    {
+      "video_id": "7JzZNez4ZBE",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 1.0
+    },
+    {
+      "video_id": "3up8iIaCs_E",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.833
+    },
+    {
+      "video_id": "p4tTJHqHSRE",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.833
+    }
+  ]
+}

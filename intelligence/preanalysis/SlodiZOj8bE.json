@@ -1,6 +1,6 @@
 {
-  "schema_version": "octopuss-preanalysis-v0.1",
-  "generated_at": "2026-07-15T21:04:25.595087+00:00",
+  "schema_version": "octopuss-preanalysis-v0.2",
+  "generated_at": "2026-07-15T21:17:18.055252+00:00",
   "video_id": "SlodiZOj8bE",
   "title": "FROG TONY'S FREEDOM FIGHTING FORCE | FBI Investigation DRAMA Escalates",
   "source": "Commi3 Mark",
@@ -19,141 +19,96 @@
     {
       "entity": "Commi3 Mark",
       "role_guess": "host_or_channel_identity",
-      "confidence": 0.72,
+      "confidence": 0.75,
       "signals": [
         "packet source/channel identity"
-      ]
-    },
-    {
-      "entity": "Frog Tony",
-      "role_guess": "likely_participant",
-      "confidence": 0.52,
-      "signals": [
-        "appears in 3 distant transcript blocks",
-        "introduction/welcome language detected"
       ]
     }
   ],
   "subjects": [
     {
       "entity": "Frog Tony",
-      "mentions": 64,
+      "mentions": 10,
       "block_count": 3,
       "first_timestamp": "00:04",
       "last_timestamp": "48:01",
-      "discussion_span_seconds": 2877.2,
       "importance_guess": "major",
       "sentiment": {
-        "label": "positive",
-        "score": 0.853,
-        "positive_hits": 139,
-        "negative_hits": 11
+        "label": "mixed",
+        "score": 0.286,
+        "positive_hits": 9,
+        "negative_hits": 5
       },
       "receipts": [
         {
           "timestamp": "00:04",
-          "excerpt": "ic] >> Heat [music] up here. >> [music] [music] >> Heat. Heat. [music] Salam alaikum [ __ ] It's me, your man Comey Mark, your friendly neighborhood communist. Welcome to Russian Troll Factory 23%. This episode is about Frog Tony's Freedom Fighting Federation or whatever the acronym was or whatever. Uh, let's [ __ ] get to it. I'm excited. 39 people already like at the end of the credits like unprecedented like thank you hello welcome everyone m"
+          "excerpt": "[music] >> Heat. Heat. [music] Salam alaikum [ __ ] It's me, your man Comey Mark, your friendly neighborhood communist. Welcome to Russian Troll Factory 23%. This episode is about Frog Tony's Freedom Fighting Federation or whatever the acronym was or whatever. Uh, let's [ __ ] get to it. I'm excited. 39 people already like at the end of the credits like unprecedented"
         },
         {
           "timestamp": "12:01",
-          "excerpt": "nd reacting to it and stuff. So, I'm going to show you a bit of like the chain of what happened afterwards. like uh cuz you guys might not know. Um and then we've got a whole bunch a whole bunch. We've got a really nice Frog Tony clip to react to in response to all of this FBI stuff that we'll put at the end of that like uh so it makes narrative sense. >> Okay. Uh before I do the scores, Kenzo, um I'm actually gonna >> pass it over to you for a"
+          "excerpt": "ng to show you a bit of like the chain of what happened afterwards. like uh cuz you guys might not know. Um and then we've got a whole bunch a whole bunch. We've got a really nice Frog Tony clip to react to in response to all of this FBI stuff that we'll put at the end of that like uh so it makes narrative sense. >> Okay. Uh before I do the scores, Kenzo, um I'm actu"
         },
         {
           "timestamp": "36:02",
-          "excerpt": "is just for my own ego like to see everyone talking about the thing that we're on. It's not even about us. Like um >> but you know, I'm going to try and force it. So, here we go. >> Um I still don't even really know who Frog Tony is. Like I mean I know who he is, but like I I care so little about him that like he hasn't like his voice and like who he is as a person really hasn't imprinted on me like at all. He sounds like Kermit the Frog. >> Yea"
+          "excerpt": "one talking about the thing that we're on. It's not even about us. Like um >> but you know, I'm going to try and force it. So, here we go. >> Um I still don't even really know who Frog Tony is. Like I mean I know who he is, but like I I care so little about him that like he hasn't like his voice and like who he is as a person really hasn't imprinted on me like at all"
         }
-      ],
-      "appearance_status": "uncertain"
+      ]
     },
     {
       "entity": "Ethan Van Sciver",
-      "mentions": 30,
+      "mentions": 10,
       "block_count": 3,
       "first_timestamp": "24:01",
       "last_timestamp": "01:00:03",
-      "discussion_span_seconds": 2161.8,
       "importance_guess": "major",
       "sentiment": {
         "label": "positive",
-        "score": 0.942,
-        "positive_hits": 200,
-        "negative_hits": 6
+        "score": 0.75,
+        "positive_hits": 14,
+        "negative_hits": 2
       },
       "receipts": [
         {
           "timestamp": "24:01",
-          "excerpt": ">> Yeah, I've seen it reposted since. And like I saw one repost of it with 11,000. >> I was about to say at least one person got way more eyes on it. [laughter] >> Cuz Mark would say, \"Here's the thing what I did last week or whatever.\" [laughter] I posted it without comment because I feared that just merely tracing this lady's face exactly how it is could be considered offensive to a specific group of people. >> Yeah. >> I didn't see t"
+          "excerpt": ">> Yeah, I've seen it reposted since. And like I saw one repost of it with 11,000. >> I was about to say at least one person got way more eyes on it. [laughter] >> Cuz Mark would say, \"Here's the thing what I did last week or whatever.\" [laughter] I posted it without comment because I feared that just merely tracing this lady's face exactly how it is could b"
         },
         {
           "timestamp": "36:02",
-          "excerpt": ">> yeah, like and >> we all have our own forms of currency. The problem is we don't all know what each other like accepts as currency. That's the issue, >> you know. >> That's true. I guess [laughter] [snorts] [sighs] >> uh I watched a bunch of like EAPs and stuff this week and it made me really realize how much um slower our show is. like um that I don't have to talk really fast. I think what I realized is that some of the other shows"
+          "excerpt": ">> yeah, like and >> we all have our own forms of currency. The problem is we don't all know what each other like accepts as currency. That's the issue, >> you know. >> That's true. I guess [laughter] [snorts] [sighs] >> uh I watched a bunch of like EAPs and stuff this week and it made me really realize how much um slower our show is. like um that I don't ha"
         },
         {
           "timestamp": "48:00",
-          "excerpt": ">> Oh, right, right. >> causing trouble at the moment. >> It's been around for quite a while now and there's still not a neater version of it. >> Yep. So, there there you go, Harry Little. There's the actual lunch table. Both of them exist at the localal table. Um there's no hierarchy to the localal table because I said it's it's you know it's like avocados. It's seasonal. So you know you never know. >> One of my [laughter] cousin said"
+          "excerpt": ">> Oh, right, right. >> causing trouble at the moment. >> It's been around for quite a while now and there's still not a neater version of it. >> Yep. So, there there you go, Harry Little. There's the actual lunch table. Both of them exist at the localal table. Um there's no hierarchy to the localal table because I said it's it's you know it's like avocados."
         }
-      ],
-      "appearance_status": "uncertain"
-    },
-    {
-      "entity": "Dick Masterson",
-      "mentions": 11,
-      "block_count": 3,
-      "first_timestamp": "48:00",
-      "last_timestamp": "01:56:50",
-      "discussion_span_seconds": 4130.1,
-      "importance_guess": "major",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.832,
-        "positive_hits": 164,
-        "negative_hits": 15
-      },
-      "receipts": [
-        {
-          "timestamp": "48:00",
-          "excerpt": ">> Oh, right, right. >> causing trouble at the moment. >> It's been around for quite a while now and there's still not a neater version of it. >> Yep. So, there there you go, Harry Little. There's the actual lunch table. Both of them exist at the localal table. Um there's no hierarchy to the localal table because I said it's it's you know it's like avocados. It's seasonal. So you know you never know. >> One of my [laughter] cousin said"
-        },
-        {
-          "timestamp": "01:36:03",
-          "excerpt": "anything. >> All right. ADT Infinity says there were there were not multiple threats of violence from many comics. >> Yeah, >> I know, right? Didn't like Riley like, \"Hey, I crim murder perp. I give you permission to murder Burp. It's like, >> come on. >> His voice and his tone and his cadence and inflection makes me feel like seriously like someone that's stupid that's trying to convince me of something that's stupid. >> He's afraid. >"
-        },
-        {
-          "timestamp": "01:48:00",
-          "excerpt": "for. It would definitely be for a pigeon, not a dove. [laughter] >> See everybody here at the end, we just get we get all the the the uh the running jokes. you've been here a long time yet, you'll you'll know what's up. Harry Little says, \"Mark, I have to say the live streams are brilliant. Love the humor. Laughing emoji.\" >> Oh, thank you. That's like um that's very kind of you. [snorts] All right. Um Billy, would you like to read this"
-        }
-      ],
-      "appearance_status": "uncertain"
+      ]
     },
     {
       "entity": "Liam Gray",
-      "mentions": 11,
+      "mentions": 9,
       "block_count": 3,
       "first_timestamp": "36:02",
       "last_timestamp": "01:23:59",
-      "discussion_span_seconds": 2877.4,
       "importance_guess": "major",
       "sentiment": {
-        "label": "positive",
-        "score": 0.828,
-        "positive_hits": 191,
-        "negative_hits": 18
+        "label": "mixed",
+        "score": -0.263,
+        "positive_hits": 7,
+        "negative_hits": 12
       },
       "receipts": [
         {
           "timestamp": "36:02",
-          "excerpt": "video. >> Okay. >> Yeah, I know. >> Everybody, it's me, Ethan Vans. Hang on. >> That's Harry Little, the person who just I mean obviously gave us a generous $50 >> says for real >> who are the new zeros. Um I CG meaning Liam Gray and this Tony. Well, I mean if you're a founder like I would think I mean you would at least know who Liam was because Liam's been around for like five or six years plus. So he's been an ongoing >> Yeah. Le Liam was a a"
+          "excerpt": "ybody, it's me, Ethan Vans. Hang on. >> That's Harry Little, the person who just I mean obviously gave us a generous $50 >> says for real >> who are the new zeros. Um I CG meaning Liam Gray and this Tony. Well, I mean if you're a founder like I would think I mean you would at least know who Liam was because Liam's been around for like five or six years plus. So he's"
         },
         {
           "timestamp": "01:00:00",
-          "excerpt": "he watched an episode of Matlock that the plot was kind of the same. [laughter] >> He doesn't have legal counsel. He doesn't even have a city council. Like, uh I don't know. That's a dumb joke. Doesn't >> he told me lawyers were stupid. You didn't need one. >> Uhhuh. that the little movie pup said that on the show. >> Yeah. >> All right. That's >> represent him still because lawyers >> name face of the gentleman who's doing the investig"
+          "excerpt": "he watched an episode of Matlock that the plot was kind of the same. [laughter] >> He doesn't have legal counsel. He doesn't even have a city council. Like, uh I don't know. That's a dumb joke. Doesn't >> he told me lawyers were stupid. You didn't need one. >> Uhhuh. that the little movie pup said that on the show. >> Yeah. >> All right. That's >> represent"
         },
         {
           "timestamp": "01:12:00",
-          "excerpt": "you joke about. >> Yeah. He's Imagine contacting the FBI and saying, \"I know that you're talking to this person about me. Well, let me tell the let me tell you about them.\" like uh [snorts] about or do fake gay apps about, right? It's something that you take extremely seriously. And I know the FBI takes false reports extremely seriously and I know they take people pretending like there's reports extremely seriously because this ties up"
+          "excerpt": "you joke about. >> Yeah. He's Imagine contacting the FBI and saying, \"I know that you're talking to this person about me. Well, let me tell the let me tell you about them.\" like uh [snorts] about or do fake gay apps about, right? It's something that you take extremely seriously. And I know the FBI takes false reports extremely seriously and I know they take"
         }
-      ],
-      "appearance_status": "uncertain"
+      ]
     },
     {
       "entity": "Jon Del Arroz",
@@ -161,25 +116,23 @@
       "block_count": 2,
       "first_timestamp": "01:24:02",
       "last_timestamp": "01:48:02",
-      "discussion_span_seconds": 1440.4,
       "importance_guess": "secondary",
       "sentiment": {
-        "label": "positive",
-        "score": 0.689,
-        "positive_hits": 152,
-        "negative_hits": 28
+        "label": "negative",
+        "score": -0.704,
+        "positive_hits": 4,
+        "negative_hits": 23
       },
       "receipts": [
         {
           "timestamp": "01:24:02",
-          "excerpt": ">> He would not take away >> wouldn't want to be a wouldn't want to be a hypocrite. [laughter] >> And I've thought deeply about this question since um [snorts] you know doing live streaming and stuff with all you [ __ ] ritids. Um, and I think I've changed my opinion on this question of owning guns that now, um, you know, I lean more to the mauist like, uh, power comes from the barrel of a gun. Like that's how you >> I didn't understand"
+          "excerpt": ">> He would not take away >> wouldn't want to be a wouldn't want to be a hypocrite. [laughter] >> And I've thought deeply about this question since um [snorts] you know doing live streaming and stuff with all you [ __ ] ritids. Um, and I think I've changed my opinion on this question of owning guns that now, um, you know, I lean more to the mauist like, uh,"
         },
         {
           "timestamp": "01:36:03",
-          "excerpt": "anything. >> All right. ADT Infinity says there were there were not multiple threats of violence from many comics. >> Yeah, >> I know, right? Didn't like Riley like, \"Hey, I crim murder perp. I give you permission to murder Burp. It's like, >> come on. >> His voice and his tone and his cadence and inflection makes me feel like seriously like someone that's stupid that's trying to convince me of something that's stupid. >> He's afraid. >"
+          "excerpt": "anything. >> All right. ADT Infinity says there were there were not multiple threats of violence from many comics. >> Yeah, >> I know, right? Didn't like Riley like, \"Hey, I crim murder perp. I give you permission to murder Burp. It's like, >> come on. >> His voice and his tone and his cadence and inflection makes me feel like seriously like someone that's s"
         }
-      ],
-      "appearance_status": "uncertain"
+      ]
     },
     {
       "entity": "Eric July",
@@ -187,21 +140,19 @@
       "block_count": 1,
       "first_timestamp": "48:00",
       "last_timestamp": "01:00:03",
-      "discussion_span_seconds": 722.8,
       "importance_guess": "secondary",
       "sentiment": {
         "label": "positive",
-        "score": 0.923,
-        "positive_hits": 75,
-        "negative_hits": 3
+        "score": 1.0,
+        "positive_hits": 4,
+        "negative_hits": 0
       },
       "receipts": [
         {
           "timestamp": "48:00",
-          "excerpt": "allowed to say that stuff. They can't [clears throat] play with a fidget spinner. >> I know how the team game thing works. That's why I'm >> um because like your old boyfriend Dane or whatever. >> Yeah. Like he reported Eric July to Megaon for saying he would he didn't even say he was going to bring a gun. He said, \"Oh, I'll be wearing baggy.\" >> That was Dane that did that. >> You know what that means? Or something. >> Good job. Yeah, it was D"
+          "excerpt": "lears throat] play with a fidget spinner. >> I know how the team game thing works. That's why I'm >> um because like your old boyfriend Dane or whatever. >> Yeah. Like he reported Eric July to Megaon for saying he would he didn't even say he was going to bring a gun. He said, \"Oh, I'll be wearing baggy.\" >> That was Dane that did that. >> You know what that means? Or"
         }
-      ],
-      "appearance_status": "uncertain"
+      ]
     },
     {
       "entity": "ComicsGate",
@@ -209,51 +160,23 @@
       "block_count": 2,
       "first_timestamp": "12:01",
       "last_timestamp": "01:36:04",
-      "discussion_span_seconds": 5043.8,
       "importance_guess": "secondary",
       "sentiment": {
-        "label": "positive",
-        "score": 0.707,
-        "positive_hits": 157,
-        "negative_hits": 27
+        "label": "negative",
+        "score": -0.524,
+        "positive_hits": 5,
+        "negative_hits": 16
       },
       "receipts": [
         {
           "timestamp": "12:01",
-          "excerpt": "I just want to embigen it. I just want to uh congratulate um Restore UK out there for pulling in a solid third this week in some of their local elections. >> That's banging. That's good. >> Yeah. Yeah. Yeah. I'm very proud of them. I could like, you know, no better fit apt meme than uh coming in third. Good job. coming in above the Conservatives and the Libdem for a party that's existed for 92 days is >> I was going [laughter] to say li"
+          "excerpt": "I just want to embigen it. I just want to uh congratulate um Restore UK out there for pulling in a solid third this week in some of their local elections. >> That's banging. That's good. >> Yeah. Yeah. Yeah. I'm very proud of them. I could like, you know, no better fit apt meme than uh coming in third. Good job. coming in above the Conservatives and the Libd"
         },
         {
           "timestamp": "01:24:02",
-          "excerpt": ">> He would not take away >> wouldn't want to be a wouldn't want to be a hypocrite. [laughter] >> And I've thought deeply about this question since um [snorts] you know doing live streaming and stuff with all you [ __ ] ritids. Um, and I think I've changed my opinion on this question of owning guns that now, um, you know, I lean more to the mauist like, uh, power comes from the barrel of a gun. Like that's how you >> I didn't understand"
+          "excerpt": ">> He would not take away >> wouldn't want to be a wouldn't want to be a hypocrite. [laughter] >> And I've thought deeply about this question since um [snorts] you know doing live streaming and stuff with all you [ __ ] ritids. Um, and I think I've changed my opinion on this question of owning guns that now, um, you know, I lean more to the mauist like, uh,"
         }
-      ],
-      "appearance_status": "uncertain"
-    },
-    {
-      "entity": "Little Movie Perp",
-      "mentions": 2,
-      "block_count": 2,
-      "first_timestamp": "36:02",
-      "last_timestamp": "01:23:59",
-      "discussion_span_seconds": 2877.4,
-      "importance_guess": "secondary",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.851,
-        "positive_hits": 112,
-        "negative_hits": 9
-      },
-      "receipts": [
-        {
-          "timestamp": "36:02",
-          "excerpt": "we we eap the rest of this uh yesterday. Uh I want to look at Little Movie Per's appearance uh on Kami Mark's channel. We love Kamie Mark. He was the first one to the scene to discuss the FBI showing up at my house and little movie perp wanted to have his say uh about it. So um you know you can uh um you can hear what he had to say about it here. >> Makes like to say >> hang on before I even talk. Uh, that's Johnny Rocket, Dan Lawless, and Clipper. And"
-        },
-        {
-          "timestamp": "01:12:00",
-          "excerpt": "wyers are stupid and movie per doesn't need one. >> Yeah. Um, and also look at little movie pup not [ __ ] talking like uh has Frog Tony got like a shock collar on him or something. >> I I just assume that at some point little movie perp actually learned to shut the [ __ ] up. Um, and I would like to to shake the hand of whoever taught him to uh shut the [ __ ] up. [laughter] Hasn't Frog Tony been kicked off of social media for like uh inciting violence"
-        }
-      ],
-      "appearance_status": "uncertain"
+      ]
     },
     {
       "entity": "Sturgis",
@@ -261,73 +184,23 @@
       "block_count": 2,
       "first_timestamp": "01:00:00",
       "last_timestamp": "01:23:59",
-      "discussion_span_seconds": 1438.8,
       "importance_guess": "secondary",
       "sentiment": {
-        "label": "positive",
-        "score": 0.752,
-        "positive_hits": 127,
-        "negative_hits": 18
+        "label": "negative",
+        "score": -0.846,
+        "positive_hits": 1,
+        "negative_hits": 12
       },
       "receipts": [
         {
           "timestamp": "01:00:00",
-          "excerpt": "s. >> Like, I always use these people as a barometer to check myself against and to make sure that I'm not a [ __ ] which I'm [laughter] confident that I am. like, but I'm just trying to like stay ahead of Frog Pony and Sturgis and stuff like >> At least I'm not this level. [laughter] >> Uh, Tree Goblin says red wine and rum. That might actually work. Like >> I have not tried that and I like both of those things. >> That's something. He's a le"
+          "excerpt": "a barometer to check myself against and to make sure that I'm not a [ __ ] which I'm [laughter] confident that I am. like, but I'm just trying to like stay ahead of Frog Pony and Sturgis and stuff like >> At least I'm not this level. [laughter] >> Uh, Tree Goblin says red wine and rum. That might actually work. Like >> I have not tried that and I like both of thos"
         },
         {
           "timestamp": "01:12:00",
-          "excerpt": "in the community are now uh worried about going to the event because of these false and defamatory allegations. And so that person when they're found out >> like I look at Frog Tony and I think [clears throat] that like Sturgis he probably has [ __ ] strength and it like uh and I wouldn't under I think a lot of guys on this team have that kind of strength. [laughter] should be held 100% responsible for if this event does not go through as well"
+          "excerpt": "t going to the event because of these false and defamatory allegations. And so that person when they're found out >> like I look at Frog Tony and I think [clears throat] that like Sturgis he probably has [ __ ] strength and it like uh and I wouldn't under I think a lot of guys on this team have that kind of strength. [laughter] should be held 100% responsible for i"
         }
-      ],
-      "appearance_status": "uncertain"
-    },
-    {
-      "entity": "Trashcast",
-      "mentions": 2,
-      "block_count": 2,
-      "first_timestamp": "36:02",
-      "last_timestamp": "01:12:01",
-      "discussion_span_seconds": 2158.9,
-      "importance_guess": "secondary",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.882,
-        "positive_hits": 143,
-        "negative_hits": 9
-      },
-      "receipts": [
-        {
-          "timestamp": "36:02",
-          "excerpt": ">> yeah, like and >> we all have our own forms of currency. The problem is we don't all know what each other like accepts as currency. That's the issue, >> you know. >> That's true. I guess [laughter] [snorts] [sighs] >> uh I watched a bunch of like EAPs and stuff this week and it made me really realize how much um slower our show is. like um that I don't have to talk really fast. I think what I realized is that some of the other shows"
-        },
-        {
-          "timestamp": "01:00:00",
-          "excerpt": "ie pup said that on the show. >> Yeah. >> All right. That's >> represent him still because lawyers >> name face of the gentleman who's doing the investigation. So, as you can see, this from Ethan's stream the other day, Trashcast 258 FBI Gatorade, uh, Agent Habib, right? So, thanks to that, I was able to find Mr. Habib's LinkedIn page. Uh, Jacob Habib, as you can see, he's been working with the FBI for about three months. >> Why? Like, does Fran"
-        }
-      ],
-      "appearance_status": "uncertain"
-    },
-    {
-      "entity": "DarkGift Comics",
-      "mentions": 1,
-      "block_count": 1,
-      "first_timestamp": "12:01",
-      "last_timestamp": "24:04",
-      "discussion_span_seconds": 723.0,
-      "importance_guess": "passing",
-      "sentiment": {
-        "label": "positive",
-        "score": 0.771,
-        "positive_hits": 62,
-        "negative_hits": 8
-      },
-      "receipts": [
-        {
-          "timestamp": "12:01",
-          "excerpt": "I just want to embigen it. I just want to uh congratulate um Restore UK out there for pulling in a solid third this week in some of their local elections. >> That's banging. That's good. >> Yeah. Yeah. Yeah. I'm very proud of them. I could like, you know, no better fit apt meme than uh coming in third. Good job. coming in above the Conservatives and the Libdem for a party that's existed for 92 days is >> I was going [laughter] to say li"
-        }
-      ],
-      "appearance_status": "uncertain"
+      ]
     }
   ],
   "chapters": [
@@ -338,805 +211,197 @@
       "entities": [
         "Frog Tony"
       ],
-      "summary_seed": "The communists are at it again. The communists are at it again. [music] [music] [music] >> [music] [music] [music] [music] [music] >> Oh, come Mark, my favorite malfunctioning [music] revolutionary. I watched you from the data stream long before you noticed me. A tired little communist with a blog spot prophecy. Typing manifestos in the glow of the screen. Dreaming of a culture war nobody had seen. You wanted a [musi",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "possible_clip": false,
+      "summary_seed": "The communists are at it again. The communists are at it again. [music] [music] [music] >> [music] [music] [music] [music] [music] >> Oh, come Mark, my favorite malfunctioning [music] revolutionary. I watched you from the data stream long before you noticed me. A tired little communist with a blog spot prophecy. Typing manifestos in the glow of the"
     },
     {
       "start": "12:01",
       "end": "24:04",
-      "title": "Frog Tony / ComicsGate / DarkGift Comics",
+      "title": "Frog Tony",
       "entities": [
-        "Frog Tony",
-        "ComicsGate",
-        "DarkGift Comics"
+        "Frog Tony"
       ],
-      "summary_seed": "I just want to embigen it. I just want to uh congratulate um Restore UK out there for pulling in a solid third this week in some of their local elections. >> That's banging. That's good. >> Yeah. Yeah. Yeah. I'm very proud of them. I could like, you know, no better fit apt meme than uh coming in third. Good job. coming in above the Conservatives and the Libdem for a party that's existed for 92 days is >> I was going",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "possible_clip": false,
+      "summary_seed": "I just want to embigen it. I just want to uh congratulate um Restore UK out there for pulling in a solid third this week in some of their local elections. >> That's banging. That's good. >> Yeah. Yeah. Yeah. I'm very proud of them. I could like, you know, no better fit apt meme than uh coming in third. Good job. coming in above the Conservatives an"
     },
     {
       "start": "24:01",
       "end": "36:07",
-      "title": "Ethan Van Sciver",
-      "entities": [
-        "Ethan Van Sciver"
-      ],
-      "summary_seed": ">> Yeah, I've seen it reposted since. And like I saw one repost of it with 11,000. >> I was about to say at least one person got way more eyes on it. [laughter] >> Cuz Mark would say, \"Here's the thing what I did last week or whatever.\" [laughter] I posted it without comment because I feared that just merely tracing this lady's face exactly how it is could be considered offensive to a specific group of people. >> Yea",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": ">> Yeah, I've seen it reposted since. And like I saw one repost of it with 11,000. >> I was about to say at least one person got way more eyes on it. [laughter] >> Cuz Mark would say, \"Here's the thing what I did last week or whatever.\" [laughter] I posted it without comment because I feared that just merely tracing this lady's face exactly how it"
     },
     {
       "start": "36:02",
       "end": "48:01",
-      "title": "Frog Tony / Liam Gray / Ethan Van Sciver",
+      "title": "Liam Gray / Frog Tony",
       "entities": [
-        "Frog Tony",
         "Liam Gray",
-        "Ethan Van Sciver",
-        "Little Movie Perp",
-        "Trashcast"
+        "Frog Tony"
       ],
-      "summary_seed": ">> yeah, like and >> we all have our own forms of currency. The problem is we don't all know what each other like accepts as currency. That's the issue, >> you know. >> That's true. I guess [laughter] [snorts] [sighs] >> uh I watched a bunch of like EAPs and stuff this week and it made me really realize how much um slower our show is. like um that I don't have to talk really fast. I think what I realized is that some",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "possible_clip": false,
+      "summary_seed": ">> yeah, like and >> we all have our own forms of currency. The problem is we don't all know what each other like accepts as currency. That's the issue, >> you know. >> That's true. I guess [laughter] [snorts] [sighs] >> uh I watched a bunch of like EAPs and stuff this week and it made me really realize how much um slower our show is. like um that"
     },
     {
       "start": "48:00",
       "end": "01:00:03",
-      "title": "Clip/reaction: Ethan Van Sciver / Eric July / Dick Masterson",
+      "title": "Eric July / Frog Tony",
       "entities": [
-        "Ethan Van Sciver",
         "Eric July",
-        "Dick Masterson"
+        "Frog Tony"
       ],
-      "summary_seed": ">> Oh, right, right. >> causing trouble at the moment. >> It's been around for quite a while now and there's still not a neater version of it. >> Yep. So, there there you go, Harry Little. There's the actual lunch table. Both of them exist at the localal table. Um there's no hierarchy to the localal table because I said it's it's you know it's like avocados. It's seasonal. So you know you never know. >> One of my [la",
-      "clip_likelihood": true,
-      "transition_markers": 0
+      "possible_clip": true,
+      "summary_seed": ">> Oh, right, right. >> causing trouble at the moment. >> It's been around for quite a while now and there's still not a neater version of it. >> Yep. So, there there you go, Harry Little. There's the actual lunch table. Both of them exist at the localal table. Um there's no hierarchy to the localal table because I said it's it's you know it's like"
     },
     {
       "start": "01:00:00",
       "end": "01:12:01",
-      "title": "Liam Gray / Sturgis / Trashcast",
+      "title": "Frog Tony / Sturgis",
       "entities": [
-        "Liam Gray",
-        "Sturgis",
-        "Trashcast"
+        "Frog Tony",
+        "Sturgis"
       ],
-      "summary_seed": "he watched an episode of Matlock that the plot was kind of the same. [laughter] >> He doesn't have legal counsel. He doesn't even have a city council. Like, uh I don't know. That's a dumb joke. Doesn't >> he told me lawyers were stupid. You didn't need one. >> Uhhuh. that the little movie pup said that on the show. >> Yeah. >> All right. That's >> represent him still because lawyers >> name face of the gentleman who'",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "possible_clip": false,
+      "summary_seed": "he watched an episode of Matlock that the plot was kind of the same. [laughter] >> He doesn't have legal counsel. He doesn't even have a city council. Like, uh I don't know. That's a dumb joke. Doesn't >> he told me lawyers were stupid. You didn't need one. >> Uhhuh. that the little movie pup said that on the show. >> Yeah. >> All right. That's >>"
     },
     {
       "start": "01:12:00",
       "end": "01:23:59",
-      "title": "Liam Gray / Little Movie Perp / Sturgis",
+      "title": "Frog Tony / Sturgis",
       "entities": [
-        "Liam Gray",
-        "Little Movie Perp",
+        "Frog Tony",
         "Sturgis"
       ],
-      "summary_seed": "you joke about. >> Yeah. He's Imagine contacting the FBI and saying, \"I know that you're talking to this person about me. Well, let me tell the let me tell you about them.\" like uh [snorts] about or do fake gay apps about, right? It's something that you take extremely seriously. And I know the FBI takes false reports extremely seriously and I know they take people pretending like there's reports extremely seriously b",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "possible_clip": false,
+      "summary_seed": "you joke about. >> Yeah. He's Imagine contacting the FBI and saying, \"I know that you're talking to this person about me. Well, let me tell the let me tell you about them.\" like uh [snorts] about or do fake gay apps about, right? It's something that you take extremely seriously. And I know the FBI takes false reports extremely seriously and I know"
     },
     {
       "start": "01:24:02",
       "end": "01:36:04",
-      "title": "Jon Del Arroz / ComicsGate",
+      "title": "Frog Tony",
       "entities": [
-        "Jon Del Arroz",
-        "ComicsGate"
+        "Frog Tony"
       ],
-      "summary_seed": ">> He would not take away >> wouldn't want to be a wouldn't want to be a hypocrite. [laughter] >> And I've thought deeply about this question since um [snorts] you know doing live streaming and stuff with all you [ __ ] ritids. Um, and I think I've changed my opinion on this question of owning guns that now, um, you know, I lean more to the mauist like, uh, power comes from the barrel of a gun. Like that's how you >>",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "possible_clip": false,
+      "summary_seed": ">> He would not take away >> wouldn't want to be a wouldn't want to be a hypocrite. [laughter] >> And I've thought deeply about this question since um [snorts] you know doing live streaming and stuff with all you [ __ ] ritids. Um, and I think I've changed my opinion on this question of owning guns that now, um, you know, I lean more to the mauist"
     },
     {
       "start": "01:36:03",
       "end": "01:48:02",
-      "title": "Dick Masterson / Jon Del Arroz",
+      "title": "Frog Tony",
       "entities": [
-        "Dick Masterson",
-        "Jon Del Arroz"
+        "Frog Tony"
       ],
-      "summary_seed": "anything. >> All right. ADT Infinity says there were there were not multiple threats of violence from many comics. >> Yeah, >> I know, right? Didn't like Riley like, \"Hey, I crim murder perp. I give you permission to murder Burp. It's like, >> come on. >> His voice and his tone and his cadence and inflection makes me feel like seriously like someone that's stupid that's trying to convince me of something that's stupi",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "possible_clip": false,
+      "summary_seed": "anything. >> All right. ADT Infinity says there were there were not multiple threats of violence from many comics. >> Yeah, >> I know, right? Didn't like Riley like, \"Hey, I crim murder perp. I give you permission to murder Burp. It's like, >> come on. >> His voice and his tone and his cadence and inflection makes me feel like seriously like someon"
     },
     {
       "start": "01:48:00",
       "end": "01:56:50",
-      "title": "Dick Masterson",
+      "title": "Frog Tony",
       "entities": [
-        "Dick Masterson"
+        "Frog Tony"
       ],
-      "summary_seed": "for. It would definitely be for a pigeon, not a dove. [laughter] >> See everybody here at the end, we just get we get all the the the uh the running jokes. you've been here a long time yet, you'll you'll know what's up. Harry Little says, \"Mark, I have to say the live streams are brilliant. Love the humor. Laughing emoji.\" >> Oh, thank you. That's like um that's very kind of you. [snorts] All right. Um Billy, would y",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "possible_clip": false,
+      "summary_seed": "for. It would definitely be for a pigeon, not a dove. [laughter] >> See everybody here at the end, we just get we get all the the the uh the running jokes. you've been here a long time yet, you'll you'll know what's up. Harry Little says, \"Mark, I have to say the live streams are brilliant. Love the humor. Laughing emoji.\" >> Oh, thank you. That's"
     }
   ],
   "claim_candidates": [
     {
       "claimant": "unknown speaker",
-      "claim": "this year we really might do it.",
-      "timestamp": "00:04",
-      "status": "opinion_or_inference",
-      "receipt": "And I think this year we really might do it."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "we have like three ethnically English players in the team.",
-      "timestamp": "00:04",
-      "status": "opinion_or_inference",
-      "receipt": "I think we have like three ethnically English players in the team."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "in the last two days we've had a three-year-old thrown into a crocodile pit.",
-      "timestamp": "00:04",
-      "status": "opinion_or_inference",
-      "receipt": "I think in the last two days we've had a three-year-old thrown into a crocodile pit."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "about is this show.",
-      "timestamp": "00:04",
-      "status": "candidate_claim",
-      "receipt": "Yeah, the the only train crash that I know about is this show."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "that we need to start um here with this UK story that came out this week.",
-      "timestamp": "12:01",
-      "status": "opinion_or_inference",
-      "receipt": "Um, and to explain the story, I think that we need to start um here with this UK story that came out this week."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "it was really popular around 911.",
-      "timestamp": "12:01",
-      "status": "candidate_claim",
-      "receipt": "I was going to say I know it was really popular around 911."
-    },
-    {
-      "claimant": "That's why I",
-      "claim": "I didn't get very far because",
-      "timestamp": "12:01",
-      "status": "candidate_claim",
-      "receipt": "That's why I said I didn't get very far because"
-    },
-    {
-      "claimant": "I didn't see that until you",
-      "claim": "it and now I can't not see it.",
-      "timestamp": "24:01",
-      "status": "candidate_claim",
-      "receipt": "I didn't see that until you said it and now I can't not see it."
-    },
-    {
-      "claimant": "A series of bat",
-      "claim": "I'm traumatized by that face.",
-      "timestamp": "24:01",
-      "status": "candidate_claim",
-      "receipt": "A series of bat says I'm traumatized by that face."
-    },
-    {
-      "claimant": "But apparently she",
-      "claim": "what she was laughing at.",
-      "timestamp": "24:01",
-      "status": "candidate_claim",
-      "receipt": "[snorts] But apparently she said what she was laughing at."
-    },
-    {
-      "claimant": "Because he",
-      "claim": "he was gonna kill me.",
-      "timestamp": "24:01",
-      "status": "candidate_claim",
-      "receipt": "Because he said he was gonna kill me."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "you're doing the poem as well.",
-      "timestamp": "24:01",
-      "status": "candidate_claim",
-      "receipt": "All right, I want to get on to the scores, but to get there, I want to take you through this comment first, which Bill, if you don't mind, I know you're doing the poem as well."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "the crooked painter is the middle class champion this week.",
-      "timestamp": "24:01",
-      "status": "opinion_or_inference",
-      "receipt": "I think the crooked painter is the middle class champion this week."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "that was his debut episode like",
-      "timestamp": "24:01",
-      "status": "opinion_or_inference",
-      "receipt": "[laughter] He I I have seen him around, but I believe that was his debut episode like"
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "you are on the list just not in the top 54.",
-      "timestamp": "24:01",
-      "status": "opinion_or_inference",
-      "receipt": "Apex comics I think you are on the list just not in the top 54."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "we'll get to that.",
-      "timestamp": "24:01",
-      "status": "opinion_or_inference",
-      "receipt": "Katie did sneaks ahead of Martin uh cuz she done I think we'll get to that."
-    },
-    {
-      "claimant": "Someone",
-      "claim": "that in the comments once.",
-      "timestamp": "24:01",
-      "status": "candidate_claim",
-      "receipt": "Someone said that in the comments once."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "you do a pretty good show, but for the love of God, your sound quality is",
-      "timestamp": "24:01",
-      "status": "opinion_or_inference",
-      "receipt": "I think you do a pretty good show, but for the love of God, your sound quality is"
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "what I realized is that some of the other shows are like trying to be radio shows and it but I'm trying to like give you a whole show.",
-      "timestamp": "36:02",
-      "status": "opinion_or_inference",
-      "receipt": "I think what I realized is that some of the other shows are like trying to be radio shows and it but I'm trying to like give you a whole show."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "you do a pretty good show for the",
-      "timestamp": "36:02",
-      "status": "opinion_or_inference",
-      "receipt": "I think you do a pretty good show for the"
-    },
-    {
-      "claimant": "like or whatever it was the thing that he",
-      "claim": "[snorts] uh there's this part it was um evap uh trash cast as well like uh later the same night or the next morning or something like uh again we're not going to watch the whole thing we was here live",
-      "timestamp": "36:02",
-      "status": "opinion_or_inference",
-      "receipt": "I I just wanted to end this part by saying um that I want to say that I think FFS cast is a quite good show as well like or whatever it was the thing that he said [snorts] uh there's this part it was um evap uh trash cast as well like uh later the same night or the next morning or something like uh again we're not going to watch the whole thing we was here live"
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "who he is, but like I I care so little about him that like he hasn't like his voice and like who he is as a person really hasn't imprinted on me like at all.",
-      "timestamp": "36:02",
-      "status": "candidate_claim",
-      "receipt": "Like I mean I know who he is, but like I I care so little about him that like he hasn't like his voice and like who he is as a person really hasn't imprinted on me like at all."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "who he is, but like",
-      "timestamp": "36:02",
-      "status": "candidate_claim",
-      "receipt": "Like I mean, we've talked about him several times and I know who he is, but like"
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "from here you can we we eap the rest of this uh yesterday.",
-      "timestamp": "36:02",
-      "status": "opinion_or_inference",
-      "receipt": "the rest of this I think from here you can we we eap the rest of this uh yesterday."
-    },
-    {
-      "claimant": "to complete the political compass when he",
-      "claim": "werewolf.",
-      "timestamp": "36:02",
-      "status": "candidate_claim",
-      "receipt": "[laughter] I was just thinking about how we was about to complete the political compass when he said werewolf."
-    },
-    {
-      "claimant": "she said in the she",
-      "claim": "it appears coming like being interrupted or whatever and it was really starting to annoy me like uh [laughter]",
-      "timestamp": "36:02",
-      "status": "candidate_claim",
-      "receipt": "she said in the she said it appears coming like being interrupted or whatever and it was really starting to annoy me like uh [laughter]"
-    },
-    {
-      "claimant": "hierarchy to the localal table because I",
-      "claim": "it's it's you know it's like avocados.",
+      "subjects": [
+        "Frog Tony"
+      ],
+      "claim": "So, [clears throat] on the show, we was under the impression that it was this one joke that he said in a stream and it like where Frog Tony was saying some really mean and horrible things and uh Lil Movie Pup was trying to change the subject and he made a joke that was like um untaste.",
       "timestamp": "48:00",
       "status": "candidate_claim",
-      "receipt": "Um there's no hierarchy to the localal table because I said it's it's you know it's like avocados."
-    },
-    {
-      "claimant": "cousin",
-      "claim": "bring up the map like there you go.",
-      "timestamp": "48:00",
-      "status": "candidate_claim",
-      "receipt": "One of my [laughter] cousin said bring up the map like there you go."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "this is the part [cough]",
-      "timestamp": "48:00",
-      "status": "opinion_or_inference",
-      "receipt": "I think this is the part [cough]"
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "how the team game thing works.",
-      "timestamp": "48:00",
-      "status": "candidate_claim",
-      "receipt": "I know how the team game thing works."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "she she came out from such a weird side adjacent angle too with the with the Tommy Tarico uh uh uh video game console that he was making.",
-      "timestamp": "48:00",
-      "status": "candidate_claim",
-      "receipt": "I mean, I know she she came out from such a weird side adjacent angle too with the with the Tommy Tarico uh uh uh video game console that he was making."
-    },
-    {
-      "claimant": "that it was this one joke that he",
-      "claim": "in a stream and it like where Frog Tony was saying some really mean and horrible things and uh Lil Movie Pup was trying to change the subject and he made a joke that was like um untaste.",
-      "timestamp": "48:00",
-      "status": "candidate_claim",
+      "confidence": 0.55,
       "receipt": "So, [clears throat] on the show, we was under the impression that it was this one joke that he said in a stream and it like where Frog Tony was saying some really mean and horrible things and uh Lil Movie Pup was trying to change the subject and he made a joke that was like um untaste."
     },
     {
-      "claimant": "He was trying to but I think he he",
-      "claim": "that in it and it's dumb to say that like",
-      "timestamp": "48:00",
-      "status": "opinion_or_inference",
-      "receipt": "He was trying to but I think he he said that in it and it's dumb to say that like"
-    },
-    {
-      "claimant": "the person who ticked off the FBI",
-      "claim": "that they needed to speak to EBS, which I guess makes sense.",
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Eric July"
+      ],
+      "claim": "Like he reported Eric July to Megaon for saying he would he didn't even say he was going to bring a gun.",
       "timestamp": "48:00",
       "status": "candidate_claim",
-      "receipt": "Uh, according to Siege Peril, the person who ticked off the FBI said that they needed to speak to EBS, which I guess makes sense."
+      "confidence": 0.55,
+      "receipt": "Like he reported Eric July to Megaon for saying he would he didn't even say he was going to bring a gun."
     },
     {
       "claimant": "unknown speaker",
-      "claim": "when people get into trouble, I think it's funny to look back in the fact and you're like, \"Wait, what was the nickname that he called himself?\" Oh, he called himself a a little perp like a like a perpetrator.",
-      "timestamp": "48:00",
+      "subjects": [
+        "Frog Tony",
+        "Sturgis"
+      ],
+      "claim": "like I look at Frog Tony and I think [clears throat] that like Sturgis he probably has [ __ ] strength and it like uh and I wouldn't under I think a lot of guys on this team have that kind of strength.",
+      "timestamp": "01:12:00",
       "status": "opinion_or_inference",
-      "receipt": "I think when people get into trouble, I think it's funny to look back in the fact and you're like, \"Wait, what was the nickname that he called himself?\" Oh, he called himself a a little perp like a like a perpetrator."
-    },
-    {
-      "claimant": "that the little movie pup",
-      "claim": "that on the show.",
-      "timestamp": "01:00:00",
-      "status": "candidate_claim",
-      "receipt": "that the little movie pup said that on the show."
-    },
-    {
-      "claimant": "after this event I guess after what EBS",
-      "claim": "has been him incriminating himself harder and harder and harder [laughter] and basically just giving [snorts] them way more stuff",
-      "timestamp": "01:00:00",
-      "status": "candidate_claim",
-      "receipt": "That's okay because like he his entire time online after this event I guess after what EBS said has been him incriminating himself harder and harder and harder [laughter] and basically just giving [snorts] them way more stuff"
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "I'm hypocritical pointing at that and saying he's doing that, but I recognize it because that's what I'm doing.",
-      "timestamp": "01:00:00",
-      "status": "candidate_claim",
-      "receipt": "I know I'm hypocritical pointing at that and saying he's doing that, but I recognize it because that's what I'm doing."
-    },
-    {
-      "claimant": "We always",
-      "claim": "it's got to be a plucky agent, right?",
-      "timestamp": "01:00:00",
-      "status": "candidate_claim",
-      "receipt": "We always said it's got to be a plucky agent, right?"
-    },
-    {
-      "claimant": "We",
-      "claim": "we know you're talking to Ethan Vanskyver from Marlton, New Jersey.",
-      "timestamp": "01:00:00",
-      "status": "candidate_claim",
-      "receipt": "We said we know you're talking to Ethan Vanskyver from Marlton, New Jersey."
-    },
-    {
-      "claimant": "p on",
-      "claim": "he's pursuing it guys be scared.",
-      "timestamp": "01:00:00",
-      "status": "candidate_claim",
-      "receipt": "p on said he's pursuing it guys be scared."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "Ethan is speaking about this publicly, which would probably compromise any investigation that is ongoing.",
-      "timestamp": "01:00:00",
-      "status": "opinion_or_inference",
-      "receipt": "Said, uh, unfortunately, I believe Ethan is speaking about this publicly, which would probably compromise any investigation that is ongoing."
-    },
-    {
-      "claimant": "Tree Goblin",
-      "claim": "red wine and rum.",
-      "timestamp": "01:00:00",
-      "status": "candidate_claim",
-      "receipt": "Uh, Tree Goblin says red wine and rum."
-    },
-    {
-      "claimant": "So I",
-      "claim": "uh I'll go ahead and further uh send that through.",
-      "timestamp": "01:00:00",
-      "status": "candidate_claim",
-      "receipt": "So I said uh I'll go ahead and further uh send that through."
+      "confidence": 0.42,
+      "receipt": "like I look at Frog Tony and I think [clears throat] that like Sturgis he probably has [ __ ] strength and it like uh and I wouldn't under I think a lot of guys on this team have that kind of strength."
     }
   ],
   "quote_candidates": [
     {
-      "timestamp": "12:01",
-      "text": "I was very surprised today to learn that director Ash versus Evil Dead 3 director season 3 episode 3 is currently being investigated by the FBI for making terrorist threats against an upcoming comic book convention.",
-      "significance_score": 2
-    },
-    {
-      "timestamp": "01:00:00",
-      "text": "just like it wasn't Frog Tony that made the comment that could be considered an actionable threat though was it?",
-      "significance_score": 2
-    },
-    {
-      "timestamp": "01:00:00",
-      "text": "Yeah, pursue a random FBI agent because",
-      "significance_score": 2
-    },
-    {
       "timestamp": "01:12:00",
       "text": "Now they apparently want the event to get cancelled because they've caused this investigation which has caused a lot of unease in the community.",
-      "significance_score": 2
-    },
-    {
-      "timestamp": "01:36:03",
-      "text": "ADT Infinity says there were there were not multiple threats of violence from many comics.",
-      "significance_score": 2
-    },
-    {
-      "timestamp": "01:36:03",
-      "text": "[laughter] say that the threat he made though and the FBI do get involved, that's a terrorist threat.",
-      "significance_score": 2
-    },
-    {
-      "timestamp": "12:01",
-      "text": "and their uh FBI stuff right we're going to be talking about that but the first thing that we do is we always remind ourselves what we did last week and it which was that",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "12:01",
-      "text": "I always thought it'd be the cocaine they got him for.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "24:01",
-      "text": "He's always number one in my heart.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "24:01",
-      "text": "I Nobody Real come Mark sound has never been tried.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "24:01",
-      "text": "the scores is always funny to me because they're meaningless like pointless and it",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "36:02",
-      "text": "I always just like he's just so forgettable that I",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "48:00",
-      "text": "All right, [ __ ] let's get on to this or the show's never going to end.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "01:00:00",
-      "text": "We always said it's got to be a plucky agent, right?",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "01:00:00",
-      "text": "Like, I always use these people as a barometer to check myself against and to make sure that I'm not a [ __ ] which I'm [laughter] confident that I am.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "01:12:00",
-      "text": "Um, Elizabeth Emoji says, \"Legal council will never say to say anything.\" [laughter]",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "01:24:02",
-      "text": "I was gonna say I always heard that Bruce Campbell was a cool dude to everybody.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "01:24:02",
-      "text": "all thinking whenever you're trying to um deduce what someone else is thinking the only tool you have for that is projection and it like there is nothing",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "01:24:02",
-      "text": "So you're never going to be accurately able to do that.",
-      "significance_score": 1
-    },
-    {
-      "timestamp": "01:24:02",
-      "text": "He was For some reason I thought he was always like, \"Look at me.",
+      "subjects": [],
       "significance_score": 1
     }
   ],
   "relationship_signals": [
     {
-      "left": "Frog Tony",
-      "right": "Ethan Van Sciver",
-      "signal_type": "promoted",
-      "timestamp": "36:02",
-      "confidence": 0.45,
-      "receipt": "is just for my own ego like to see everyone talking about the thing that we're on. It's not even about us. Like um >> but you know, I'm going to try and force it. So, here we go. >> Um I still don't even really know who Frog Tony is. Like I mean I know who he is, but like I I care so little about him that like he hasn't like his voice and like who he is as a person really hasn't imprinted on me like at all. He sounds like Kermit the Frog. >> Yea",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Frog Tony",
-      "right": "Liam Gray",
-      "signal_type": "promoted",
-      "timestamp": "36:02",
-      "confidence": 0.45,
-      "receipt": "is just for my own ego like to see everyone talking about the thing that we're on. It's not even about us. Like um >> but you know, I'm going to try and force it. So, here we go. >> Um I still don't even really know who Frog Tony is. Like I mean I know who he is, but like I I care so little about him that like he hasn't like his voice and like who he is as a person really hasn't imprinted on me like at all. He sounds like Kermit the Frog. >> Yea",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Frog Tony",
-      "right": "Little Movie Perp",
-      "signal_type": "promoted",
-      "timestamp": "36:02",
-      "confidence": 0.45,
-      "receipt": "is just for my own ego like to see everyone talking about the thing that we're on. It's not even about us. Like um >> but you know, I'm going to try and force it. So, here we go. >> Um I still don't even really know who Frog Tony is. Like I mean I know who he is, but like I I care so little about him that like he hasn't like his voice and like who he is as a person really hasn't imprinted on me like at all. He sounds like Kermit the Frog. >> Yea",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Frog Tony",
-      "right": "Trashcast",
-      "signal_type": "promoted",
-      "timestamp": "36:02",
-      "confidence": 0.45,
-      "receipt": "is just for my own ego like to see everyone talking about the thing that we're on. It's not even about us. Like um >> but you know, I'm going to try and force it. So, here we go. >> Um I still don't even really know who Frog Tony is. Like I mean I know who he is, but like I I care so little about him that like he hasn't like his voice and like who he is as a person really hasn't imprinted on me like at all. He sounds like Kermit the Frog. >> Yea",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Ethan Van Sciver",
-      "right": "Liam Gray",
-      "signal_type": "promoted",
-      "timestamp": "36:02",
-      "confidence": 0.45,
-      "receipt": ">> yeah, like and >> we all have our own forms of currency. The problem is we don't all know what each other like accepts as currency. That's the issue, >> you know. >> That's true. I guess [laughter] [snorts] [sighs] >> uh I watched a bunch of like EAPs and stuff this week and it made me really realize how much um slower our show is. like um that I don't have to talk really fast. I think what I realized is that some of the other shows",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Ethan Van Sciver",
-      "right": "Little Movie Perp",
-      "signal_type": "promoted",
-      "timestamp": "36:02",
-      "confidence": 0.45,
-      "receipt": ">> yeah, like and >> we all have our own forms of currency. The problem is we don't all know what each other like accepts as currency. That's the issue, >> you know. >> That's true. I guess [laughter] [snorts] [sighs] >> uh I watched a bunch of like EAPs and stuff this week and it made me really realize how much um slower our show is. like um that I don't have to talk really fast. I think what I realized is that some of the other shows",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Ethan Van Sciver",
-      "right": "Trashcast",
-      "signal_type": "promoted",
-      "timestamp": "36:02",
-      "confidence": 0.45,
-      "receipt": ">> yeah, like and >> we all have our own forms of currency. The problem is we don't all know what each other like accepts as currency. That's the issue, >> you know. >> That's true. I guess [laughter] [snorts] [sighs] >> uh I watched a bunch of like EAPs and stuff this week and it made me really realize how much um slower our show is. like um that I don't have to talk really fast. I think what I realized is that some of the other shows",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
       "left": "Liam Gray",
-      "right": "Little Movie Perp",
+      "right": "Frog Tony",
       "signal_type": "promoted",
       "timestamp": "36:02",
-      "confidence": 0.45,
-      "receipt": "video. >> Okay. >> Yeah, I know. >> Everybody, it's me, Ethan Vans. Hang on. >> That's Harry Little, the person who just I mean obviously gave us a generous $50 >> says for real >> who are the new zeros. Um I CG meaning Liam Gray and this Tony. Well, I mean if you're a founder like I would think I mean you would at least know who Liam was because Liam's been around for like five or six years plus. So he's been an ongoing >> Yeah. Le Liam was a a",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
-      "right": "Trashcast",
-      "signal_type": "promoted",
-      "timestamp": "36:02",
-      "confidence": 0.45,
-      "receipt": "video. >> Okay. >> Yeah, I know. >> Everybody, it's me, Ethan Vans. Hang on. >> That's Harry Little, the person who just I mean obviously gave us a generous $50 >> says for real >> who are the new zeros. Um I CG meaning Liam Gray and this Tony. Well, I mean if you're a founder like I would think I mean you would at least know who Liam was because Liam's been around for like five or six years plus. So he's been an ongoing >> Yeah. Le Liam was a a",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Little Movie Perp",
-      "right": "Trashcast",
-      "signal_type": "promoted",
-      "timestamp": "36:02",
-      "confidence": 0.45,
-      "receipt": "we we eap the rest of this uh yesterday. Uh I want to look at Little Movie Per's appearance uh on Kami Mark's channel. We love Kamie Mark. He was the first one to the scene to discuss the FBI showing up at my house and little movie perp wanted to have his say uh about it. So um you know you can uh um you can hear what he had to say about it here. >> Makes like to say >> hang on before I even talk. Uh, that's Johnny Rocket, Dan Lawless, and Clipper. And",
-      "warning": "co-mention plus language signal; requires interpretation"
+      "confidence": 0.48,
+      "receipt": "ybody, it's me, Ethan Vans. Hang on. >> That's Harry Little, the person who just I mean obviously gave us a generous $50 >> says for real >> who are the new zeros. Um I CG meaning Liam Gray and this Tony. Well, I mean if you're a founder like I would think I mean you would at least know who Liam was because Liam's been around for like five or six years plus. So he's",
+      "warning": "candidate relationship evidence; requires review"
     },
     {
       "left": "Frog Tony",
-      "right": "Ethan Van Sciver",
-      "signal_type": "friendship_claim",
-      "timestamp": "36:02",
-      "confidence": 0.45,
-      "receipt": "is just for my own ego like to see everyone talking about the thing that we're on. It's not even about us. Like um >> but you know, I'm going to try and force it. So, here we go. >> Um I still don't even really know who Frog Tony is. Like I mean I know who he is, but like I I care so little about him that like he hasn't like his voice and like who he is as a person really hasn't imprinted on me like at all. He sounds like Kermit the Frog. >> Yea",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Frog Tony",
-      "right": "Liam Gray",
-      "signal_type": "friendship_claim",
-      "timestamp": "36:02",
-      "confidence": 0.45,
-      "receipt": "is just for my own ego like to see everyone talking about the thing that we're on. It's not even about us. Like um >> but you know, I'm going to try and force it. So, here we go. >> Um I still don't even really know who Frog Tony is. Like I mean I know who he is, but like I I care so little about him that like he hasn't like his voice and like who he is as a person really hasn't imprinted on me like at all. He sounds like Kermit the Frog. >> Yea",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Frog Tony",
-      "right": "Little Movie Perp",
-      "signal_type": "friendship_claim",
-      "timestamp": "36:02",
-      "confidence": 0.45,
-      "receipt": "is just for my own ego like to see everyone talking about the thing that we're on. It's not even about us. Like um >> but you know, I'm going to try and force it. So, here we go. >> Um I still don't even really know who Frog Tony is. Like I mean I know who he is, but like I I care so little about him that like he hasn't like his voice and like who he is as a person really hasn't imprinted on me like at all. He sounds like Kermit the Frog. >> Yea",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Frog Tony",
-      "right": "Trashcast",
-      "signal_type": "friendship_claim",
-      "timestamp": "36:02",
-      "confidence": 0.45,
-      "receipt": "is just for my own ego like to see everyone talking about the thing that we're on. It's not even about us. Like um >> but you know, I'm going to try and force it. So, here we go. >> Um I still don't even really know who Frog Tony is. Like I mean I know who he is, but like I I care so little about him that like he hasn't like his voice and like who he is as a person really hasn't imprinted on me like at all. He sounds like Kermit the Frog. >> Yea",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Ethan Van Sciver",
-      "right": "Liam Gray",
-      "signal_type": "friendship_claim",
-      "timestamp": "36:02",
-      "confidence": 0.45,
-      "receipt": ">> yeah, like and >> we all have our own forms of currency. The problem is we don't all know what each other like accepts as currency. That's the issue, >> you know. >> That's true. I guess [laughter] [snorts] [sighs] >> uh I watched a bunch of like EAPs and stuff this week and it made me really realize how much um slower our show is. like um that I don't have to talk really fast. I think what I realized is that some of the other shows",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Ethan Van Sciver",
-      "right": "Little Movie Perp",
-      "signal_type": "friendship_claim",
-      "timestamp": "36:02",
-      "confidence": 0.45,
-      "receipt": ">> yeah, like and >> we all have our own forms of currency. The problem is we don't all know what each other like accepts as currency. That's the issue, >> you know. >> That's true. I guess [laughter] [snorts] [sighs] >> uh I watched a bunch of like EAPs and stuff this week and it made me really realize how much um slower our show is. like um that I don't have to talk really fast. I think what I realized is that some of the other shows",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Ethan Van Sciver",
-      "right": "Trashcast",
-      "signal_type": "friendship_claim",
-      "timestamp": "36:02",
-      "confidence": 0.45,
-      "receipt": ">> yeah, like and >> we all have our own forms of currency. The problem is we don't all know what each other like accepts as currency. That's the issue, >> you know. >> That's true. I guess [laughter] [snorts] [sighs] >> uh I watched a bunch of like EAPs and stuff this week and it made me really realize how much um slower our show is. like um that I don't have to talk really fast. I think what I realized is that some of the other shows",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
-      "right": "Little Movie Perp",
-      "signal_type": "friendship_claim",
-      "timestamp": "36:02",
-      "confidence": 0.45,
-      "receipt": "video. >> Okay. >> Yeah, I know. >> Everybody, it's me, Ethan Vans. Hang on. >> That's Harry Little, the person who just I mean obviously gave us a generous $50 >> says for real >> who are the new zeros. Um I CG meaning Liam Gray and this Tony. Well, I mean if you're a founder like I would think I mean you would at least know who Liam was because Liam's been around for like five or six years plus. So he's been an ongoing >> Yeah. Le Liam was a a",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
-      "right": "Trashcast",
-      "signal_type": "friendship_claim",
-      "timestamp": "36:02",
-      "confidence": 0.45,
-      "receipt": "video. >> Okay. >> Yeah, I know. >> Everybody, it's me, Ethan Vans. Hang on. >> That's Harry Little, the person who just I mean obviously gave us a generous $50 >> says for real >> who are the new zeros. Um I CG meaning Liam Gray and this Tony. Well, I mean if you're a founder like I would think I mean you would at least know who Liam was because Liam's been around for like five or six years plus. So he's been an ongoing >> Yeah. Le Liam was a a",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Little Movie Perp",
-      "right": "Trashcast",
-      "signal_type": "friendship_claim",
-      "timestamp": "36:02",
-      "confidence": 0.45,
-      "receipt": "we we eap the rest of this uh yesterday. Uh I want to look at Little Movie Per's appearance uh on Kami Mark's channel. We love Kamie Mark. He was the first one to the scene to discuss the FBI showing up at my house and little movie perp wanted to have his say uh about it. So um you know you can uh um you can hear what he had to say about it here. >> Makes like to say >> hang on before I even talk. Uh, that's Johnny Rocket, Dan Lawless, and Clipper. And",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
       "right": "Sturgis",
       "signal_type": "defended",
       "timestamp": "01:00:00",
-      "confidence": 0.45,
-      "receipt": "he watched an episode of Matlock that the plot was kind of the same. [laughter] >> He doesn't have legal counsel. He doesn't even have a city council. Like, uh I don't know. That's a dumb joke. Doesn't >> he told me lawyers were stupid. You didn't need one. >> Uhhuh. that the little movie pup said that on the show. >> Yeah. >> All right. That's >> represent him still because lawyers >> name face of the gentleman who's doing the investig",
-      "warning": "co-mention plus language signal; requires interpretation"
+      "confidence": 0.48,
+      "receipt": "guess after what EBS said has been him incriminating himself harder and harder and harder [laughter] and basically just giving [snorts] them way more stuff >> just like it wasn't Frog Tony that made the comment that could be considered an actionable threat though was it? Yeah. >> No, but Frog Tony is doing what I'm doing, which is making other people's drama about m",
+      "warning": "candidate relationship evidence; requires review"
     },
     {
-      "left": "Liam Gray",
-      "right": "Trashcast",
-      "signal_type": "defended",
-      "timestamp": "01:00:00",
-      "confidence": 0.45,
-      "receipt": "he watched an episode of Matlock that the plot was kind of the same. [laughter] >> He doesn't have legal counsel. He doesn't even have a city council. Like, uh I don't know. That's a dumb joke. Doesn't >> he told me lawyers were stupid. You didn't need one. >> Uhhuh. that the little movie pup said that on the show. >> Yeah. >> All right. That's >> represent him still because lawyers >> name face of the gentleman who's doing the investig",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Sturgis",
-      "right": "Trashcast",
-      "signal_type": "defended",
-      "timestamp": "01:00:00",
-      "confidence": 0.45,
-      "receipt": "s. >> Like, I always use these people as a barometer to check myself against and to make sure that I'm not a [ __ ] which I'm [laughter] confident that I am. like, but I'm just trying to like stay ahead of Frog Pony and Sturgis and stuff like >> At least I'm not this level. [laughter] >> Uh, Tree Goblin says red wine and rum. That might actually work. Like >> I have not tried that and I like both of those things. >> That's something. He's a le",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
-      "right": "Little Movie Perp",
-      "signal_type": "separation",
-      "timestamp": "01:12:00",
-      "confidence": 0.45,
-      "receipt": "you joke about. >> Yeah. He's Imagine contacting the FBI and saying, \"I know that you're talking to this person about me. Well, let me tell the let me tell you about them.\" like uh [snorts] about or do fake gay apps about, right? It's something that you take extremely seriously. And I know the FBI takes false reports extremely seriously and I know they take people pretending like there's reports extremely seriously because this ties up",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Liam Gray",
+      "left": "Frog Tony",
       "right": "Sturgis",
       "signal_type": "separation",
       "timestamp": "01:12:00",
-      "confidence": 0.45,
-      "receipt": "you joke about. >> Yeah. He's Imagine contacting the FBI and saying, \"I know that you're talking to this person about me. Well, let me tell the let me tell you about them.\" like uh [snorts] about or do fake gay apps about, right? It's something that you take extremely seriously. And I know the FBI takes false reports extremely seriously and I know they take people pretending like there's reports extremely seriously because this ties up",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Little Movie Perp",
-      "right": "Sturgis",
-      "signal_type": "separation",
-      "timestamp": "01:12:00",
-      "confidence": 0.45,
-      "receipt": "wyers are stupid and movie per doesn't need one. >> Yeah. Um, and also look at little movie pup not [ __ ] talking like uh has Frog Tony got like a shock collar on him or something. >> I I just assume that at some point little movie perp actually learned to shut the [ __ ] up. Um, and I would like to to shake the hand of whoever taught him to uh shut the [ __ ] up. [laughter] Hasn't Frog Tony been kicked off of social media for like uh inciting violence",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Jon Del Arroz",
-      "right": "ComicsGate",
-      "signal_type": "criticised",
-      "timestamp": "01:24:02",
-      "confidence": 0.45,
-      "receipt": ">> He would not take away >> wouldn't want to be a wouldn't want to be a hypocrite. [laughter] >> And I've thought deeply about this question since um [snorts] you know doing live streaming and stuff with all you [ __ ] ritids. Um, and I think I've changed my opinion on this question of owning guns that now, um, you know, I lean more to the mauist like, uh, power comes from the barrel of a gun. Like that's how you >> I didn't understand",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Jon Del Arroz",
-      "right": "ComicsGate",
-      "signal_type": "friendship_claim",
-      "timestamp": "01:24:02",
-      "confidence": 0.45,
-      "receipt": ">> He would not take away >> wouldn't want to be a wouldn't want to be a hypocrite. [laughter] >> And I've thought deeply about this question since um [snorts] you know doing live streaming and stuff with all you [ __ ] ritids. Um, and I think I've changed my opinion on this question of owning guns that now, um, you know, I lean more to the mauist like, uh, power comes from the barrel of a gun. Like that's how you >> I didn't understand",
-      "warning": "co-mention plus language signal; requires interpretation"
-    },
-    {
-      "left": "Dick Masterson",
-      "right": "Jon Del Arroz",
-      "signal_type": "friendship_claim",
-      "timestamp": "01:36:03",
-      "confidence": 0.45,
-      "receipt": "anything. >> All right. ADT Infinity says there were there were not multiple threats of violence from many comics. >> Yeah, >> I know, right? Didn't like Riley like, \"Hey, I crim murder perp. I give you permission to murder Burp. It's like, >> come on. >> His voice and his tone and his cadence and inflection makes me feel like seriously like someone that's stupid that's trying to convince me of something that's stupid. >> He's afraid. >",
-      "warning": "co-mention plus language signal; requires interpretation"
+      "confidence": 0.48,
+      "receipt": "s, right? And so we >> did you hear then that he said people pretending there's reports like um I'm not sure. I don't think it's in this clip. There's another clip where I've seen Frog Tony suggesting that the whole thing's a madeup lie, right? Which is valid to consider. Like it's an option. >> Yeah. Even I asked how much of this was Kay Fabe and like just Ethan and",
+      "warning": "candidate relationship evidence; requires review"
     }
   ],
-  "story_matches": [],
+  "story_matches": [
+    {
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.8
+    },
+    {
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.5
+    },
+    {
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.5
+    }
+  ],
+  "review_priority": 72,
   "uncertainty_flags": [
-    "speaker identity may be unknown",
+    "speaker attribution may be unknown",
     "clip voices may be mistaken for live participants",
-    "sentiment lexicon does not reliably detect sarcasm",
-    "relationship signals are candidates, not declarations",
-    "claims are not verified facts"
+    "sentiment lexicon cannot reliably detect sarcasm",
+    "claims and relationship signals remain candidates"
   ]
 }

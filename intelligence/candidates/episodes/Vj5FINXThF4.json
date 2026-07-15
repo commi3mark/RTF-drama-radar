@@ -1,0 +1,173 @@
+{
+  "schema_version": "octopuss-candidate-episode-v0.1",
+  "video_id": "Vj5FINXThF4",
+  "title": "TheQuartering: Friday Night Tights is a Huge Pword for Firing Chrissie Mayr (Jul 13, 2026)",
+  "source": "Elissa Clips",
+  "published": "2026-07-13T23:29:23+00:00",
+  "review_priority": 30,
+  "participant_candidates": [
+    {
+      "entity": "Elissa Clips",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Chrissie Mayr",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "00:00",
+      "last_timestamp": "07:17",
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.0,
+        "positive_hits": 5,
+        "negative_hits": 5
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "his one-on-one experience where we're just kind of chatting and and working together to, you know, get to the bottom of stories and and and and interacting. >> [snorts] >> When is Chrissie Mayr doing a first appearance on what? I'm not sure. Does she have a new show? Shout out to her. Uh I thought she was only on a timeout from Friday Night Tights. Friday Night Tights, t"
+        }
+      ]
+    },
+    {
+      "entity": "Friday Night Tights",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "00:00",
+      "last_timestamp": "07:17",
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.0,
+        "positive_hits": 5,
+        "negative_hits": 5
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "cting. >> [snorts] >> When is Chrissie Mayr doing a first appearance on what? I'm not sure. Does she have a new show? Shout out to her. Uh I thought she was only on a timeout from Friday Night Tights. Friday Night Tights, the the show, told me I even got community noted that said she wasn't fired for having Melanie Mac on her podcast. But it seems to me that she has been fired"
+        }
+      ]
+    },
+    {
+      "entity": "TheQuartering",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "00:00",
+      "last_timestamp": "07:17",
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.0,
+        "positive_hits": 5,
+        "negative_hits": 5
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "Hey, hey. How's everyone going? How's everyone doing on this Monday? Monday, Monday, Monday. We've got all the weekend news. It's very hot in Wisconsin right now. 90s-ish degrees. Very, very hot. Uh very, very hot. Um but you know. >> [music] >> That's the way it goes. The morning show is not is not [music] cooked. We may we may still keep the morning show."
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "07:17",
+      "title": "Chrissie Mayr / Friday Night Tights",
+      "entities": [
+        "Chrissie Mayr",
+        "Friday Night Tights"
+      ],
+      "possible_clip": false,
+      "summary_seed": "Hey, hey. How's everyone going? How's everyone doing on this Monday? Monday, Monday, Monday. We've got all the weekend news. It's very hot in Wisconsin right now. 90s-ish degrees. Very, very hot. Uh very, very hot. Um but you know. >> [music] >> That's the way it goes. The morning show is not is not [music] cooked. We may we may still keep the morn"
+    }
+  ],
+  "claims": [
+    {
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Friday Night Tights"
+      ],
+      "claim": "Friday Night Tights, the the show, told me I even got community noted that said she wasn't fired for having Melanie Mac on her podcast.",
+      "timestamp": "00:00",
+      "status": "candidate_claim",
+      "confidence": 0.55,
+      "receipt": "Friday Night Tights, the the show, told me I even got community noted that said she wasn't fired for having Melanie Mac on her podcast."
+    }
+  ],
+  "quotes": [
+    {
+      "timestamp": "00:00",
+      "text": "Friday Night Tights, the the show, told me I even got community noted that said she wasn't fired for having Melanie Mac on her podcast.",
+      "subjects": [
+        "Friday Night Tights"
+      ],
+      "significance_score": 2
+    },
+    {
+      "timestamp": "00:00",
+      "text": "But it seems to me that she has been fired.",
+      "subjects": [],
+      "significance_score": 1
+    },
+    {
+      "timestamp": "00:00",
+      "text": "You know, I got community noted and said she wasn't fired.",
+      "subjects": [],
+      "significance_score": 1
+    },
+    {
+      "timestamp": "00:00",
+      "text": "Now, I was told that she wasn't fired.",
+      "subjects": [],
+      "significance_score": 1
+    },
+    {
+      "timestamp": "00:00",
+      "text": "But looks like to me that she was fired for simply having Melanie Mac on her show, but I don't know.",
+      "subjects": [],
+      "significance_score": 1
+    }
+  ],
+  "relationships": [
+    {
+      "left": "Chrissie Mayr",
+      "right": "Friday Night Tights",
+      "signal_type": "collaborated",
+      "timestamp": "00:00",
+      "confidence": 0.48,
+      "receipt": "his one-on-one experience where we're just kind of chatting and and working together to, you know, get to the bottom of stories and and and and interacting. >> [snorts] >> When is Chrissie Mayr doing a first appearance on what? I'm not sure. Does she have a new show? Shout out to her. Uh I thought she was only on a timeout from Friday Night Tights. Friday Night Tights, t",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "left": "Chrissie Mayr",
+      "right": "Friday Night Tights",
+      "signal_type": "separation",
+      "timestamp": "00:00",
+      "confidence": 0.48,
+      "receipt": "his one-on-one experience where we're just kind of chatting and and working together to, you know, get to the bottom of stories and and and and interacting. >> [snorts] >> When is Chrissie Mayr doing a first appearance on what? I'm not sure. Does she have a new show? Shout out to her. Uh I thought she was only on a timeout from Friday Night Tights. Friday Night Tights, t",
+      "warning": "candidate relationship evidence; requires review"
+    }
+  ],
+  "story_matches": [
+    {
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "score": 0.857
+    }
+  ],
+  "uncertainty_flags": [
+    "speaker attribution may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon cannot reliably detect sarcasm",
+    "claims and relationship signals remain candidates"
+  ]
+}

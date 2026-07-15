@@ -1,0 +1,613 @@
+{
+  "show_id": "elissa-clips",
+  "name": "Elissa Clips",
+  "episodes": [
+    {
+      "video_id": "lUXAeP8oPgw",
+      "title": "Kino Casino: TheQuartering Vlogs Ep. 1 (Jul 8, 2026)"
+    },
+    {
+      "video_id": "Vj5FINXThF4",
+      "title": "TheQuartering: Friday Night Tights is a Huge Pword for Firing Chrissie Mayr (Jul 13, 2026)"
+    },
+    {
+      "video_id": "nfZd95BuM5U",
+      "title": "TONIGHT ON KINO CASINO!! TheQuartering CBC Dropship Confirmed! Total DSP Victory! Angry Joe & More!!"
+    },
+    {
+      "video_id": "3VGvnr2bjKw",
+      "title": "Potentially Criminal on Nick Rekieta’s Downfall (Jul 12, 2026)"
+    },
+    {
+      "video_id": "xoq_kc-M_I8",
+      "title": "MATI: The Rekieta Segment - Nontent Skelly’s Daily Mail Article (Jul 10, 2026)"
+    },
+    {
+      "video_id": "R2AEOMp6S6M",
+      "title": "Jer the Ren Fair Creeper Returns This Weekend! & a Coffee Brand Cope Session w/ TheQuartering"
+    },
+    {
+      "video_id": "Uy8eHEmKNWY",
+      "title": "Kino Casino: Nerdrotic Fires Chrissie Mayr from Friday Night Tights (Jul 10, 2026)"
+    },
+    {
+      "video_id": "_9MjvkgkY9c",
+      "title": "TheQuartering’s K Cup Crisis PR & Crying Victim After Starting War with Kino Casino (Jul 14, 2026)"
+    },
+    {
+      "video_id": "dcgJdp8BRKs",
+      "title": "Professional Streamer TheQuartering - Gooners Gonna Goon (Jul 14, 2026)"
+    },
+    {
+      "video_id": "Zmx83V8vKSU",
+      "title": "MATI: TheQuartering’s Dropship Brand Dropship (Jul 10, 2026)"
+    },
+    {
+      "video_id": "9NJQwnK7qJg",
+      "title": "TheQuartering’s Mobility Scooter w/ Tuesday Night’s Main Event (Jul 7, 2026)"
+    },
+    {
+      "video_id": "YJ3EPWpShMU",
+      "title": "Rekieta Law: Aaron Imholte’s HRO Won’t Last Forever & the Daily Mail Article (Jul 10, 2026)"
+    },
+    {
+      "video_id": "jMj649E220I",
+      "title": "Kino Casino: Brad Cool’s Offer to TheQuartering & Jer’s DEFINITELY Banned from the Ren Fair Jul 2026"
+    },
+    {
+      "video_id": "ErvISz34rtE",
+      "title": "Coffee Brand Coffee’s Wednesday Meeting w/ Jeremy Hambly TheQuartering (Jul 8, 2026)"
+    },
+    {
+      "video_id": "HTrcwhelzCU",
+      "title": "Chrissie Mayr Officially Fired from Friday Night Tights (Jul 9, 2026)"
+    },
+    {
+      "video_id": "AnfyGS7ozeM",
+      "title": "Kino Casino: JF Gariepy’s Love Quest Continues & an Obsession Review (Jul 8, 2026)"
+    },
+    {
+      "video_id": "iZU8Ozto3VQ",
+      "title": "MATI: Metokur & Cog Bend Over for Ethan Ralph (Jul 10, 2026)"
+    },
+    {
+      "video_id": "7dsbRrEAJUo",
+      "title": "DDayCobra Hopes Chrissie Mayr Makes a Million Dollars (Jul 13, 2026)"
+    },
+    {
+      "video_id": "fSf1nYxE34A",
+      "title": "Friday Night Tights Wishes Chrissie Mayr the Best (Jul 10, 2026)"
+    },
+    {
+      "video_id": "K90vNVrRj38",
+      "title": "Rekieta Law: Rumble Was a Mistake & Kick Has Potential (if he can get it working) Jul 11, 2026"
+    },
+    {
+      "video_id": "lCn5jxcykGo",
+      "title": "TheQuartering is Going to the Ren Fair (Jul 9, 2026)"
+    }
+  ],
+  "participant_candidates": [
+    {
+      "video_id": "lUXAeP8oPgw",
+      "entity": "Elissa Clips",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    },
+    {
+      "video_id": "Vj5FINXThF4",
+      "entity": "Elissa Clips",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    },
+    {
+      "video_id": "nfZd95BuM5U",
+      "entity": "Elissa Clips",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    },
+    {
+      "video_id": "3VGvnr2bjKw",
+      "entity": "Elissa Clips",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    },
+    {
+      "video_id": "xoq_kc-M_I8",
+      "entity": "Elissa Clips",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    },
+    {
+      "video_id": "R2AEOMp6S6M",
+      "entity": "Elissa Clips",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    },
+    {
+      "video_id": "Uy8eHEmKNWY",
+      "entity": "Elissa Clips",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    },
+    {
+      "video_id": "_9MjvkgkY9c",
+      "entity": "Elissa Clips",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    },
+    {
+      "video_id": "dcgJdp8BRKs",
+      "entity": "Elissa Clips",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    },
+    {
+      "video_id": "Zmx83V8vKSU",
+      "entity": "Elissa Clips",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    },
+    {
+      "video_id": "9NJQwnK7qJg",
+      "entity": "Elissa Clips",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    },
+    {
+      "video_id": "YJ3EPWpShMU",
+      "entity": "Elissa Clips",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    },
+    {
+      "video_id": "jMj649E220I",
+      "entity": "Elissa Clips",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    },
+    {
+      "video_id": "ErvISz34rtE",
+      "entity": "Elissa Clips",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    },
+    {
+      "video_id": "HTrcwhelzCU",
+      "entity": "Elissa Clips",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    },
+    {
+      "video_id": "AnfyGS7ozeM",
+      "entity": "Elissa Clips",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    },
+    {
+      "video_id": "iZU8Ozto3VQ",
+      "entity": "Elissa Clips",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    },
+    {
+      "video_id": "7dsbRrEAJUo",
+      "entity": "Elissa Clips",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    },
+    {
+      "video_id": "fSf1nYxE34A",
+      "entity": "Elissa Clips",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    },
+    {
+      "video_id": "K90vNVrRj38",
+      "entity": "Elissa Clips",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    },
+    {
+      "video_id": "lCn5jxcykGo",
+      "entity": "Elissa Clips",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subject_history": [
+    {
+      "video_id": "lUXAeP8oPgw",
+      "entity": "TheQuartering",
+      "importance": "major",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.429,
+        "positive_hits": 6,
+        "negative_hits": 15
+      }
+    },
+    {
+      "video_id": "lUXAeP8oPgw",
+      "entity": "Ethan Van Sciver",
+      "importance": "passing",
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0,
+        "positive_hits": 0,
+        "negative_hits": 1
+      }
+    },
+    {
+      "video_id": "lUXAeP8oPgw",
+      "entity": "Kino Casino",
+      "importance": "passing",
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.333,
+        "positive_hits": 2,
+        "negative_hits": 1
+      }
+    },
+    {
+      "video_id": "Vj5FINXThF4",
+      "entity": "Chrissie Mayr",
+      "importance": "passing",
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.0,
+        "positive_hits": 5,
+        "negative_hits": 5
+      }
+    },
+    {
+      "video_id": "Vj5FINXThF4",
+      "entity": "Friday Night Tights",
+      "importance": "passing",
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.0,
+        "positive_hits": 5,
+        "negative_hits": 5
+      }
+    },
+    {
+      "video_id": "Vj5FINXThF4",
+      "entity": "TheQuartering",
+      "importance": "passing",
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.0,
+        "positive_hits": 5,
+        "negative_hits": 5
+      }
+    },
+    {
+      "video_id": "nfZd95BuM5U",
+      "entity": "TheQuartering",
+      "importance": "passing",
+      "sentiment": {
+        "label": "mixed",
+        "score": -0.333,
+        "positive_hits": 1,
+        "negative_hits": 2
+      }
+    },
+    {
+      "video_id": "nfZd95BuM5U",
+      "entity": "Kino Casino",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "positive_hits": 4,
+        "negative_hits": 0
+      }
+    },
+    {
+      "video_id": "3VGvnr2bjKw",
+      "entity": "Aaron Imholte",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5,
+        "positive_hits": 3,
+        "negative_hits": 1
+      }
+    },
+    {
+      "video_id": "3VGvnr2bjKw",
+      "entity": "Ethan Van Sciver",
+      "importance": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5,
+        "positive_hits": 3,
+        "negative_hits": 1
+      }
+    },
+    {
+      "video_id": "3VGvnr2bjKw",
+      "entity": "TheQuartering",
+      "importance": "passing",
+      "sentiment": {
+        "label": "mixed",
+        "score": -0.2,
+        "positive_hits": 2,
+        "negative_hits": 3
+      }
+    },
+    {
+      "video_id": "xoq_kc-M_I8",
+      "entity": "Nick Rekieta",
+      "importance": "secondary",
+      "sentiment": {
+        "label": "unclear",
+        "score": 0.0,
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "video_id": "xoq_kc-M_I8",
+      "entity": "Aaron Imholte",
+      "importance": "passing",
+      "sentiment": {
+        "label": "unclear",
+        "score": 0.0,
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "video_id": "R2AEOMp6S6M",
+      "entity": "TheQuartering",
+      "importance": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5,
+        "positive_hits": 12,
+        "negative_hits": 4
+      }
+    },
+    {
+      "video_id": "Uy8eHEmKNWY",
+      "entity": "Chrissie Mayr",
+      "importance": "major",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.429,
+        "positive_hits": 2,
+        "negative_hits": 5
+      }
+    },
+    {
+      "video_id": "Uy8eHEmKNWY",
+      "entity": "Friday Night Tights",
+      "importance": "secondary",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.429,
+        "positive_hits": 2,
+        "negative_hits": 5
+      }
+    },
+    {
+      "video_id": "Uy8eHEmKNWY",
+      "entity": "TheQuartering",
+      "importance": "passing",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.429,
+        "positive_hits": 2,
+        "negative_hits": 5
+      }
+    },
+    {
+      "video_id": "_9MjvkgkY9c",
+      "entity": "TheQuartering",
+      "importance": "secondary",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.778,
+        "positive_hits": 2,
+        "negative_hits": 16
+      }
+    },
+    {
+      "video_id": "dcgJdp8BRKs",
+      "entity": "TheQuartering",
+      "importance": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.714,
+        "positive_hits": 6,
+        "negative_hits": 1
+      }
+    },
+    {
+      "video_id": "Zmx83V8vKSU",
+      "entity": "TheQuartering",
+      "importance": "major",
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.143,
+        "positive_hits": 4,
+        "negative_hits": 3
+      }
+    },
+    {
+      "video_id": "9NJQwnK7qJg",
+      "entity": "TheQuartering",
+      "importance": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "positive_hits": 5,
+        "negative_hits": 0
+      }
+    },
+    {
+      "video_id": "YJ3EPWpShMU",
+      "entity": "Nick Rekieta",
+      "importance": "secondary",
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.0,
+        "positive_hits": 2,
+        "negative_hits": 2
+      }
+    },
+    {
+      "video_id": "jMj649E220I",
+      "entity": "TheQuartering",
+      "importance": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.556,
+        "positive_hits": 7,
+        "negative_hits": 2
+      }
+    },
+    {
+      "video_id": "ErvISz34rtE",
+      "entity": "TheQuartering",
+      "importance": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "positive_hits": 6,
+        "negative_hits": 0
+      }
+    },
+    {
+      "video_id": "HTrcwhelzCU",
+      "entity": "Chrissie Mayr",
+      "importance": "secondary",
+      "sentiment": {
+        "label": "mixed",
+        "score": -0.333,
+        "positive_hits": 6,
+        "negative_hits": 12
+      }
+    },
+    {
+      "video_id": "HTrcwhelzCU",
+      "entity": "TheQuartering",
+      "importance": "secondary",
+      "sentiment": {
+        "label": "mixed",
+        "score": -0.333,
+        "positive_hits": 6,
+        "negative_hits": 12
+      }
+    },
+    {
+      "video_id": "HTrcwhelzCU",
+      "entity": "Ethan Van Sciver",
+      "importance": "passing",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.467,
+        "positive_hits": 4,
+        "negative_hits": 11
+      }
+    },
+    {
+      "video_id": "iZU8Ozto3VQ",
+      "entity": "Ethan Van Sciver",
+      "importance": "secondary",
+      "sentiment": {
+        "label": "unclear",
+        "score": 0.0,
+        "positive_hits": 0,
+        "negative_hits": 0
+      }
+    },
+    {
+      "video_id": "7dsbRrEAJUo",
+      "entity": "Chrissie Mayr",
+      "importance": "passing",
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0,
+        "positive_hits": 0,
+        "negative_hits": 1
+      }
+    },
+    {
+      "video_id": "fSf1nYxE34A",
+      "entity": "Chrissie Mayr",
+      "importance": "secondary",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "positive_hits": 1,
+        "negative_hits": 0
+      }
+    }
+  ]
+}

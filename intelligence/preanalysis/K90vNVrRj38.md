@@ -2,36 +2,25 @@
 
 - **Video ID:** `K90vNVrRj38`
 - **Source:** Elissa Clips
-- **Published:** 2026-07-13T00:44:41+00:00
-- **Generated:** 2026-07-15T21:04:18.065621+00:00
+- **Review priority:** 0/100
 
-## Likely participants
+## Participant candidates
 
-- **Elissa Clips** — host_or_channel_identity; confidence 72%; packet source/channel identity
+- **Elissa Clips** — host_or_channel_identity (75%)
 
-## Subjects and sentiment receipts
+## Subjects
 
-## Topic map
 
-- **00:00–03:14** — General discussion
+## Strong claim candidates
 
-## Claim candidates
+_None passed the strong filter._
 
-- **00:00 — unknown speaker:** there's potential there. _[opinion_or_inference]_
-- **00:00 — unknown speaker:** I look a a little different after my stuff. _[candidate_claim]_
+## Quote candidates
+
+_None passed the strong filter._
+
+## Relationship candidates
+
+_None passed the filter._
 
 ## Story matches
-
-_No existing story match crossed the threshold._
-
-## Relationship signals
-
-_No relationship-language candidates detected._
-
-## Uncertainty flags
-
-- speaker identity may be unknown
-- clip voices may be mistaken for live participants
-- sentiment lexicon does not reliably detect sarcasm
-- relationship signals are candidates, not declarations
-- claims are not verified facts

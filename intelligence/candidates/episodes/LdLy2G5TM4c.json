@@ -1,0 +1,466 @@
+{
+  "schema_version": "octopuss-candidate-episode-v0.1",
+  "video_id": "LdLy2G5TM4c",
+  "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+  "source": "Commi3 Mark",
+  "published": "2026-07-10T23:56:07+00:00",
+  "review_priority": 89,
+  "participant_candidates": [
+    {
+      "entity": "Commi3 Mark",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Eric July",
+      "mentions": 10,
+      "block_count": 3,
+      "first_timestamp": "12:00",
+      "last_timestamp": "48:05",
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75,
+        "positive_hits": 7,
+        "negative_hits": 1
+      },
+      "receipts": [
+        {
+          "timestamp": "12:00",
+          "excerpt": "Yeah, we'll uh I already have the page loaded up, so we'll have a scroll through. I can see if there's some other great ones. So, this week we're going to be talking about this uh Eric July murder mystery crossover thing. Um, I love like true crime stories and documentaries. Like, so it's fun to like uh [snorts] play detective for the week. Uh, this week in fact on t"
+        },
+        {
+          "timestamp": "24:00",
+          "excerpt": "s situation. Man, this is dark. Do I want to do this? >> It is dark. >> Man, I could I could talk about it. Uh, let's let's go to Tommy Mark the commentary. [clears throat] >> Uh, Eric July ran over a guy causing a 15year-old girl to get shot and killed and then snitched on TV. Incredible find by Johnny Rocket. I think this is in my opinion this is about as close to"
+        },
+        {
+          "timestamp": "36:00",
+          "excerpt": "e uh judge. AIOC is going to be like my state prosecutor. She's going to bring us to evidence and you guys are going to be the jury like um you are going to decide uh the fates of Eric July who's on trial here like [laughter] but what for >> I think I think Billy and Kenzo should get fined for skipping jury duty. >> Yeah, [laughter] they definitely should. Oh, thank"
+        }
+      ]
+    },
+    {
+      "entity": "Jon Del Arroz",
+      "mentions": 9,
+      "block_count": 3,
+      "first_timestamp": "00:05",
+      "last_timestamp": "36:06",
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.429,
+        "positive_hits": 10,
+        "negative_hits": 4
+      },
+      "receipts": [
+        {
+          "timestamp": "00:05",
+          "excerpt": "Have you tried turning it off and on again? Heat. Heat. [music] [music] Heat. [music] [music] Heat. >> [music] [music] [music] >> Oh me Mark, my favorite malfunctioning revolutionary. I watched you from the data stream long before you noticed [music] me. A tired little communist with a blogspot prophecy typing [music] manifestos in the glow of the screen. Dr"
+        },
+        {
+          "timestamp": "12:00",
+          "excerpt": "what happens next season. I can't see Tottenham doing anything. That's my football pundantry. Sorry, Mark. >> You're all right. Like, it's the one chance you'll get to like celebrate being good or whatever. So, [laughter] >> that's your gift >> until Aston Villa wins the league next season. >> Um, yeah. Billy Billy Powermax says, \"Piper, I've missed your war"
+        },
+        {
+          "timestamp": "24:00",
+          "excerpt": "[ __ ] >> That's really hard uh with my face in the condition it's in. That is the problem. Wow. The reading reading Hispanic author of science fiction just releases heat after heat after heat mostly on his ex-wife. Uh, this is easily the shortest troll that we >> like, but it's succinct like [snorts] >> nails every point of what we was trying to chat like t"
+        }
+      ]
+    },
+    {
+      "entity": "Aaron Imholte",
+      "mentions": 5,
+      "block_count": 3,
+      "first_timestamp": "01:24:02",
+      "last_timestamp": "02:23:58",
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "mixed",
+        "score": -0.103,
+        "positive_hits": 13,
+        "negative_hits": 16
+      },
+      "receipts": [
+        {
+          "timestamp": "01:24:02",
+          "excerpt": "the uh in the video? >> It could be. >> Cuz he's way darker in the video. >> Well, maybe he got tan. I don't know. You said it was Dallas. It's hot there. >> How'd he get Yeah. So, how would he get lighter? >> I don't know. Science. >> Wouldn't he get Wouldn't he get cooked even more since then? >> Yeah, >> Netflix. Maybe he got Netflixed. [laughter] >> I do"
+        },
+        {
+          "timestamp": "01:36:02",
+          "excerpt": "says, \"Brevity is a soul of wit,\" which is the exact same quote that I said to him, like, but I think he reacted or to speak to it. >> I think he understood what it meant. And uh, as for Grock, I do use it for some stuff. I just don't go running into other people's freaking threads to start an argument by going, \"Oh, yeah. Hey, Grock.\" W. And I would never r"
+        },
+        {
+          "timestamp": "02:12:00",
+          "excerpt": "12th. I've seen him in the chat today as well. >> I definitely should have climbed more than that by now. >> Where are you? 10th. That's a strong position. You're in the politro like uh just behind the representative for the Chinese Communist Party, Xin Wong. I don't think I was properly credited for all the funny [ __ ] I did last week. [laughter] >> You wo"
+        }
+      ]
+    },
+    {
+      "entity": "Liam Gray",
+      "mentions": 4,
+      "block_count": 3,
+      "first_timestamp": "12:00",
+      "last_timestamp": "01:48:04",
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "mixed",
+        "score": -0.263,
+        "positive_hits": 7,
+        "negative_hits": 12
+      },
+      "receipts": [
+        {
+          "timestamp": "12:00",
+          "excerpt": "what happens next season. I can't see Tottenham doing anything. That's my football pundantry. Sorry, Mark. >> You're all right. Like, it's the one chance you'll get to like celebrate being good or whatever. So, [laughter] >> that's your gift >> until Aston Villa wins the league next season. >> Um, yeah. Billy Billy Powermax says, \"Piper, I've missed your war"
+        },
+        {
+          "timestamp": "24:00",
+          "excerpt": "[ __ ] >> That's really hard uh with my face in the condition it's in. That is the problem. Wow. The reading reading Hispanic author of science fiction just releases heat after heat after heat mostly on his ex-wife. Uh, this is easily the shortest troll that we >> like, but it's succinct like [snorts] >> nails every point of what we was trying to chat like t"
+        },
+        {
+          "timestamp": "01:36:02",
+          "excerpt": "se wars and all this stupid stuff like um what you're going to notice is like everything with Eric July is going to be very non-specific and dance around giving actual details and Liam graying if you will. [snorts] Um, but he just alluded to the death of One Eater Pain and you know, well, let's just um it was just foolery. And >> did you get full into we had I was sa"
+        }
+      ]
+    },
+    {
+      "entity": "Ethan Van Sciver",
+      "mentions": 3,
+      "block_count": 3,
+      "first_timestamp": "24:00",
+      "last_timestamp": "01:24:06",
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "positive_hits": 3,
+        "negative_hits": 0
+      },
+      "receipts": [
+        {
+          "timestamp": "24:00",
+          "excerpt": "[ __ ] >> That's really hard uh with my face in the condition it's in. That is the problem. Wow. The reading reading Hispanic author of science fiction just releases heat after heat after heat mostly on his ex-wife. Uh, this is easily the shortest troll that we >> like, but it's succinct like [snorts] >> nails every point of what we was trying to chat like t"
+        },
+        {
+          "timestamp": "36:00",
+          "excerpt": "Um, and it mentions about this uh 48 hours a cop reality show like uh about the case. So immediately I thought, well, I'm gonna look for that like I'm going to watch it and see what it's all about. Uh, and I'll show you the clip that EVS was about to show you. Um, like I said earlier, we're going to do the court format that we've done previously. I am going"
+        },
+        {
+          "timestamp": "01:12:00",
+          "excerpt": ">> We're [laughter] back again for sure. >> Definitely. Um, but the the long and short of it is I do not have drama with Matt Bar. Matt Bar has drama with me. [laughter] >> It's very simple, straightforward. Um, these two people left comments saying the car in the dark looks blue, doesn't have the second line. The wheel and bumper area look off. It has runni"
+        }
+      ]
+    },
+    {
+      "entity": "Shane Davis",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "12:00",
+      "last_timestamp": "24:02",
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.667,
+        "positive_hits": 5,
+        "negative_hits": 1
+      },
+      "receipts": [
+        {
+          "timestamp": "12:00",
+          "excerpt": "ay. See, like uh it's going to be fun. Um All right. But that's this week. We have to talk about last week first. And last week we covered JDA. JDA was trying to pick a fight with Shane Davis, so we just picked a fight with him. Uh credit to JDA um for a moment. Like the whole the whole stream was a trap. like uh had I explained to these before like they had a whole bu"
+        }
+      ]
+    },
+    {
+      "entity": "Frog Tony",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "01:12:00",
+      "last_timestamp": "01:24:06",
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "positive_hits": 1,
+        "negative_hits": 0
+      },
+      "receipts": [
+        {
+          "timestamp": "01:12:00",
+          "excerpt": ">> We're [laughter] back again for sure. >> Definitely. Um, but the the long and short of it is I do not have drama with Matt Bar. Matt Bar has drama with me. [laughter] >> It's very simple, straightforward. Um, these two people left comments saying the car in the dark looks blue, doesn't have the second line. The wheel and bumper area look off. It has runni"
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:05",
+      "end": "12:02",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "Have you tried turning it off and on again? Heat. Heat. [music] [music] Heat. [music] [music] Heat. >> [music] [music] [music] >> Oh me Mark, my favorite malfunctioning revolutionary. I watched you from the data stream long before you noticed [music] me. A tired little communist with a blogspot prophecy typing [music] manifestos in the glow of the"
+    },
+    {
+      "start": "12:00",
+      "end": "24:02",
+      "title": "Eric July / Shane Davis",
+      "entities": [
+        "Eric July",
+        "Shane Davis"
+      ],
+      "possible_clip": false,
+      "summary_seed": "what happens next season. I can't see Tottenham doing anything. That's my football pundantry. Sorry, Mark. >> You're all right. Like, it's the one chance you'll get to like celebrate being good or whatever. So, [laughter] >> that's your gift >> until Aston Villa wins the league next season. >> Um, yeah. Billy Billy Powermax says, \"Piper, I've misse"
+    },
+    {
+      "start": "24:00",
+      "end": "36:06",
+      "title": "Eric July",
+      "entities": [
+        "Eric July"
+      ],
+      "possible_clip": true,
+      "summary_seed": "[ __ ] >> That's really hard uh with my face in the condition it's in. That is the problem. Wow. The reading reading Hispanic author of science fiction just releases heat after heat after heat mostly on his ex-wife. Uh, this is easily the shortest troll that we >> like, but it's succinct like [snorts] >> nails every point of what we was trying to c"
+    },
+    {
+      "start": "36:00",
+      "end": "48:05",
+      "title": "Eric July",
+      "entities": [
+        "Eric July"
+      ],
+      "possible_clip": true,
+      "summary_seed": "Um, and it mentions about this uh 48 hours a cop reality show like uh about the case. So immediately I thought, well, I'm gonna look for that like I'm going to watch it and see what it's all about. Uh, and I'll show you the clip that EVS was about to show you. Um, like I said earlier, we're going to do the court format that we've done previously. I"
+    },
+    {
+      "start": "48:03",
+      "end": "01:00:03",
+      "title": "Eric July",
+      "entities": [
+        "Eric July"
+      ],
+      "possible_clip": false,
+      "summary_seed": "it was. It's just don't bring it up anymore. I noticed that with the um with some of the replies. >> This one from Jamie Cook is a great example of what I'm trying to show you. The reason I'm showing you the replies. Some crazy dude started shooting at him and he hit a 15year-old girl be behind him. Not only is your framing way off from what you po"
+    },
+    {
+      "start": "01:00:01",
+      "end": "01:12:03",
+      "title": "Eric July",
+      "entities": [
+        "Eric July"
+      ],
+      "possible_clip": false,
+      "summary_seed": "these urban dictionaries as well when you get there >> oh okay so this explains some stuff Journey was an illegal nightclub for teenagers No ID necessary to get [ __ ] up. It was right across the street from a church, too. Ask yourself why an adult would be at a teenage hangout. Eric July, by his own admission, was there that night. According to ba"
+    },
+    {
+      "start": "01:12:00",
+      "end": "01:24:06",
+      "title": "Eric July",
+      "entities": [
+        "Eric July"
+      ],
+      "possible_clip": false,
+      "summary_seed": ">> We're [laughter] back again for sure. >> Definitely. Um, but the the long and short of it is I do not have drama with Matt Bar. Matt Bar has drama with me. [laughter] >> It's very simple, straightforward. Um, these two people left comments saying the car in the dark looks blue, doesn't have the second line. The wheel and bumper area look off. It"
+    },
+    {
+      "start": "01:24:02",
+      "end": "01:36:04",
+      "title": "Eric July",
+      "entities": [
+        "Eric July"
+      ],
+      "possible_clip": false,
+      "summary_seed": "the uh in the video? >> It could be. >> Cuz he's way darker in the video. >> Well, maybe he got tan. I don't know. You said it was Dallas. It's hot there. >> How'd he get Yeah. So, how would he get lighter? >> I don't know. Science. >> Wouldn't he get Wouldn't he get cooked even more since then? >> Yeah, >> Netflix. Maybe he got Netflixed. [laughte"
+    },
+    {
+      "start": "01:36:02",
+      "end": "01:48:04",
+      "title": "Liam Gray / Eric July",
+      "entities": [
+        "Liam Gray",
+        "Eric July"
+      ],
+      "possible_clip": false,
+      "summary_seed": "says, \"Brevity is a soul of wit,\" which is the exact same quote that I said to him, like, but I think he reacted or to speak to it. >> I think he understood what it meant. And uh, as for Grock, I do use it for some stuff. I just don't go running into other people's freaking threads to start an argument by going, \"Oh, yeah. Hey, Grock.\" W. And I wou"
+    },
+    {
+      "start": "01:48:03",
+      "end": "02:00:02",
+      "title": "Eric July",
+      "entities": [
+        "Eric July"
+      ],
+      "possible_clip": false,
+      "summary_seed": ">> maybe maybe like uh does that inch closer towards him being the cousin, being the driver of the green explorer, being the blood guy in the video? Who knows? Like >> have we got a pair of gloves for him to try on? [laughter] [snorts] one the I I made like a bunch of meme versions of Alphacore and one of them were made OJ Simpson who's doing like"
+    },
+    {
+      "start": "02:00:00",
+      "end": "02:12:03",
+      "title": "Eric July",
+      "entities": [
+        "Eric July"
+      ],
+      "possible_clip": false,
+      "summary_seed": ">> The blurred guy. The snitch. If he's not the snitch, he was in that car. >> Well, he definitely says that he was there, don't he? like uh in that one article that we read like himself at the scene of the crime and interestingly in my research this week. >> Um nobody there is not a single person on the entire internet that's searchable. Maybe on"
+    },
+    {
+      "start": "02:12:00",
+      "end": "02:23:58",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "12th. I've seen him in the chat today as well. >> I definitely should have climbed more than that by now. >> Where are you? 10th. That's a strong position. You're in the politro like uh just behind the representative for the Chinese Communist Party, Xin Wong. I don't think I was properly credited for all the funny [ __ ] I did last week. [laughter]"
+    },
+    {
+      "start": "02:24:04",
+      "end": "02:24:57",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "The propaganda found its way. The revolution fights another day. Absolutely. Okay. Absolutely. Okay. See you next Friday. Bring a friend. [music] I promise. It'll be better. Well, better than whatever the [ __ ] that was."
+    }
+  ],
+  "claims": [
+    {
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Eric July"
+      ],
+      "claim": "And then it was well look Elon says Grock is good and like yeah that okay Google Google says Grock is good and Grock is BL and I'm just like dude you came here to argue about Eric July now you're arguing about whether or not Grock is good.",
+      "timestamp": "01:24:02",
+      "status": "candidate_claim",
+      "confidence": 0.55,
+      "receipt": "And then it was well look Elon says Grock is good and like yeah that okay Google Google says Grock is good and Grock is BL and I'm just like dude you came here to argue about Eric July now you're arguing about whether or not Grock is good."
+    },
+    {
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Eric July"
+      ],
+      "claim": "like uh especially if you say something about Eric July like once I said um 49% of ripper verse books are below average just to trigger him in saying no actually",
+      "timestamp": "01:24:02",
+      "status": "candidate_claim",
+      "confidence": 0.55,
+      "receipt": "like uh especially if you say something about Eric July like once I said um 49% of ripper verse books are below average just to trigger him in saying no actually"
+    },
+    {
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Eric July"
+      ],
+      "claim": "You may recall Eric July aka Young Ripa 59 once said, \"If this was 2008 me, I'd handle things differently.\" In the middle of one of his internet feuds.",
+      "timestamp": "24:00",
+      "status": "candidate_claim",
+      "confidence": 0.55,
+      "receipt": "You may recall Eric July aka Young Ripa 59 once said, \"If this was 2008 me, I'd handle things differently.\" In the middle of one of his internet feuds."
+    },
+    {
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Eric July"
+      ],
+      "claim": "Eric July is not a confirmed PDF, but it's likely 18year-old Eric Julio was grooming that 15year-old oneita Payne died before he could cross over.",
+      "timestamp": "01:48:03",
+      "status": "candidate_claim",
+      "confidence": 0.55,
+      "receipt": "Eric July is not a confirmed PDF, but it's likely 18year-old Eric Julio was grooming that 15year-old oneita Payne died before he could cross over."
+    },
+    {
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Eric July"
+      ],
+      "claim": "um and based on what I know about Eric July, I find it difficult to believe that he would ever join the army.",
+      "timestamp": "02:00:00",
+      "status": "candidate_claim",
+      "confidence": 0.55,
+      "receipt": "um and based on what I know about Eric July, I find it difficult to believe that he would ever join the army."
+    },
+    {
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Eric July"
+      ],
+      "claim": "Like I can imagine Eric July lying to a reporter when they said, you know, why can't we reveal your name?",
+      "timestamp": "02:00:00",
+      "status": "candidate_claim",
+      "confidence": 0.55,
+      "receipt": "Like I can imagine Eric July lying to a reporter when they said, you know, why can't we reveal your name?"
+    },
+    {
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Eric July"
+      ],
+      "claim": "I saw that clip and my instant reaction was, yes, that is Eric July.",
+      "timestamp": "36:00",
+      "status": "candidate_claim",
+      "confidence": 0.55,
+      "receipt": "I saw that clip and my instant reaction was, yes, that is Eric July."
+    },
+    {
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Eric July"
+      ],
+      "claim": "Cuz I'm pretty sure the guy on the right is I think that is Eric July on the right there.",
+      "timestamp": "36:00",
+      "status": "opinion_or_inference",
+      "confidence": 0.42,
+      "receipt": "Cuz I'm pretty sure the guy on the right is I think that is Eric July on the right there."
+    }
+  ],
+  "quotes": [
+    {
+      "timestamp": "01:00:01",
+      "text": "After the fight spilled into the street, shots were fired.",
+      "subjects": [],
+      "significance_score": 1
+    },
+    {
+      "timestamp": "01:00:01",
+      "text": "20 fired cartridge casings from an assault rifle.",
+      "subjects": [],
+      "significance_score": 1
+    }
+  ],
+  "relationships": [
+    {
+      "left": "Eric July",
+      "right": "Shane Davis",
+      "signal_type": "promoted",
+      "timestamp": "12:00",
+      "confidence": 0.48,
+      "receipt": "Yeah, we'll uh I already have the page loaded up, so we'll have a scroll through. I can see if there's some other great ones. So, this week we're going to be talking about this uh Eric July murder mystery crossover thing. Um, I love like true crime stories and documentaries. Like, so it's fun to like uh [snorts] play detective for the week. Uh, this week in fact on t",
+      "warning": "candidate relationship evidence; requires review"
+    }
+  ],
+  "story_matches": [
+    {
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.833
+    },
+    {
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.6
+    },
+    {
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "score": 0.429
+    }
+  ],
+  "uncertainty_flags": [
+    "speaker attribution may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon cannot reliably detect sarcasm",
+    "claims and relationship signals remain candidates"
+  ]
+}

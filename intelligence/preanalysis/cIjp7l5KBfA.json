@@ -1,6 +1,6 @@
 {
-  "schema_version": "octopuss-preanalysis-v0.1",
-  "generated_at": "2026-07-15T21:04:21.789451+00:00",
+  "schema_version": "octopuss-preanalysis-v0.2",
+  "generated_at": "2026-07-15T21:17:15.150678+00:00",
   "video_id": "cIjp7l5KBfA",
   "title": "Why the \"World Sport\" is different...",
   "source": "Eric July",
@@ -19,7 +19,7 @@
     {
       "entity": "Eric July",
       "role_guess": "host_or_channel_identity",
-      "confidence": 0.72,
+      "confidence": 0.75,
       "signals": [
         "packet source/channel identity"
       ]
@@ -32,41 +32,19 @@
       "end": "04:24",
       "title": "General discussion",
       "entities": [],
-      "summary_seed": "All right, awesome conversation happening right now, and I wanted to chime in on it because people are arguing whether if our best like athletes play soccer, if we dominate the sport. And this is obviously on the back of that embarrassing loss to Belgium at the World Cup. And there are some good arguments, and I think there's some bad ones as well. But for starters, America is already closing the gap. There are more",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "possible_clip": false,
+      "summary_seed": "All right, awesome conversation happening right now, and I wanted to chime in on it because people are arguing whether if our best like athletes play soccer, if we dominate the sport. And this is obviously on the back of that embarrassing loss to Belgium at the World Cup. And there are some good arguments, and I think there's some bad ones as well."
     }
   ],
-  "claim_candidates": [
-    {
-      "claimant": "unknown speaker",
-      "claim": "there's some bad ones as well.",
-      "timestamp": "00:00",
-      "status": "opinion_or_inference",
-      "receipt": "And there are some good arguments, and I think there's some bad ones as well."
-    },
-    {
-      "claimant": "unknown speaker",
-      "claim": "he's stronger in lower body than most people give him credit for, but he's just not the most physically opposing guy, and they consider him the goat.",
-      "timestamp": "00:00",
-      "status": "opinion_or_inference",
-      "receipt": "They'll point to like Messi, although I think he's stronger in lower body than most people give him credit for, but he's just not the most physically opposing guy, and they consider him the goat."
-    }
-  ],
-  "quote_candidates": [
-    {
-      "timestamp": "00:00",
-      "text": "So, it's not simply about our best pro players in other sports and what if they played soccer, it's about all the athletes who never went pro and got funneled elsewhere.",
-      "significance_score": 1
-    }
-  ],
+  "claim_candidates": [],
+  "quote_candidates": [],
   "relationship_signals": [],
   "story_matches": [],
+  "review_priority": 0,
   "uncertainty_flags": [
-    "speaker identity may be unknown",
+    "speaker attribution may be unknown",
     "clip voices may be mistaken for live participants",
-    "sentiment lexicon does not reliably detect sarcasm",
-    "relationship signals are candidates, not declarations",
-    "claims are not verified facts"
+    "sentiment lexicon cannot reliably detect sarcasm",
+    "claims and relationship signals remain candidates"
   ]
 }

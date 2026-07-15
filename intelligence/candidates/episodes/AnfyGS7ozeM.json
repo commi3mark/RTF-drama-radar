@@ -1,0 +1,61 @@
+{
+  "schema_version": "octopuss-candidate-episode-v0.1",
+  "video_id": "AnfyGS7ozeM",
+  "title": "Kino Casino: JF Gariepy’s Love Quest Continues & an Obsession Review (Jul 8, 2026)",
+  "source": "Elissa Clips",
+  "published": "2026-07-13T00:56:25+00:00",
+  "review_priority": 8,
+  "participant_candidates": [
+    {
+      "entity": "Elissa Clips",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subjects": [],
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "12:04",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "JF Garppy. Now I have decided to make it my personal mission to felt JF because [laughter] there's gold in them hills. The thing is nobody can suffer through it because it's so boring. There's no human being on earth with the mental fortitude to actually >> What is going on everyone? DSP here with some absolutely amazing positive news tonight. >> I"
+    },
+    {
+      "start": "12:02",
+      "end": "24:04",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "what? Like, there's just no standard. It's like, well, you won't accept this. You you DON'T WANT A JOB. >> WELL, SUCK MY I'LL GIVE YOU MONEY. IS THAT NOT A JOB, [screaming] SWAN? LIKE, WHAT? I'll tell you what happened. She probably is crazy or on pills. But then she searched his name and the first thing that popped up was missing woman in Canada l"
+    },
+    {
+      "start": "24:01",
+      "end": "32:46",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "and not stop it. And then when he has a chance to end it, >> he's like, \"You'd rather be dead than with me.\" And you're like, >> \"Well, JF JF sympathizes with this.\" Like JF's sick in the head. Let's just let him go. Let's let him go. >> And she screams and she bangs on the wall. >> Um yeah, ju just regular female behavior. Anyone who's had a girlf"
+    }
+  ],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "story_matches": [
+    {
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.5
+    }
+  ],
+  "uncertainty_flags": [
+    "speaker attribution may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon cannot reliably detect sarcasm",
+    "claims and relationship signals remain candidates"
+  ]
+}

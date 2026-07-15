@@ -1,0 +1,265 @@
+{
+  "schema_version": "octopuss-candidate-episode-v0.1",
+  "video_id": "T80sgrQa_kA",
+  "title": "Is Leem throwing in the towel?! | #934",
+  "source": "Ministry of Dude",
+  "published": "2026-07-10T14:37:05+00:00",
+  "review_priority": 52,
+  "participant_candidates": [
+    {
+      "entity": "Ministry of Dude",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Aaron Imholte",
+      "mentions": 10,
+      "block_count": 2,
+      "first_timestamp": "12:02",
+      "last_timestamp": "36:02",
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.333,
+        "positive_hits": 8,
+        "negative_hits": 4
+      },
+      "receipts": [
+        {
+          "timestamp": "12:02",
+          "excerpt": ">> Do you remember the poop squatch? >> No. You don't you don't remember poopy butt. >> You don't remember the poop squash? [crying] Andy ditch. He's a classic. >> He's a classic LCA. He's one that I believe JJ found >> years ago and he I think he was the very first >> very first LOL to give us a shout out. >> He complained about us. I just need to see a fac"
+        },
+        {
+          "timestamp": "24:01",
+          "excerpt": "background is and all of that I think that translates but it's >> it's kind of different >> well when I say that I mean there's different aspects honestly like streaming like It combines like skills I learned from like doing like color timing and stuff like that and like editing software, chroma keying, stuff like that. [snorts] >> And then like it also comb"
+        }
+      ]
+    },
+    {
+      "entity": "Liam Gray",
+      "mentions": 10,
+      "block_count": 4,
+      "first_timestamp": "36:02",
+      "last_timestamp": "01:48:03",
+      "importance_guess": "major",
+      "sentiment": {
+        "label": "mixed",
+        "score": -0.143,
+        "positive_hits": 6,
+        "negative_hits": 8
+      },
+      "receipts": [
+        {
+          "timestamp": "36:02",
+          "excerpt": "[laughter] that's what I'm saying. >> The guy like, there you go. >> What the >> What do you want? >> If we don't get massive donos after you just dropped that, I don't know what this audience even wants for a show anymore. Well, I'll tell you this. Is >> that what it takes? >> You just went over 711 with that one. Nice work. [cheering] Did they really have"
+        },
+        {
+          "timestamp": "48:01",
+          "excerpt": ">> Yeah. >> If he like had an audience of like, I don't know, say say he had a thousand people to 1500 people watching every show, morning and night. He could probably do like 500 bucks an episode easy. He might get that naturally, but you're never going to get to >> say that have to be people that like him. >> Exactly. Exactly. And like the show and he's ne"
+        },
+        {
+          "timestamp": "01:24:01",
+          "excerpt": "understand why >> and you suddenly know now. >> You got >> I did it all along. >> I did it all. >> In here. >> Don't put me in the show with a black person. >> [laughter] >> I'm dizzy. >> Yeah, he's uh he's a piece of [ __ ] >> It's all an act. >> Stop. >> Oh, yeah. That's [laughter] [gasps] head. So, like I could do that kind of [ __ ] I do it sometimes to"
+        },
+        {
+          "timestamp": "01:36:01",
+          "excerpt": "head, bro? >> Is it the light or is he >> Oh, have you not seen his new haircut? >> Saying goodbye. >> Is he dressed like is he trying to be like a German artist? Like, hello, my name is Hans. I only wear black turtlenecks and I like to paint on walls. >> I think I think someone told him kids like that haircut. >> Can you give me like the Zoomer haircut, the"
+        }
+      ]
+    },
+    {
+      "entity": "Ethan Van Sciver",
+      "mentions": 3,
+      "block_count": 2,
+      "first_timestamp": "01:00:02",
+      "last_timestamp": "01:48:03",
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "mixed",
+        "score": -0.2,
+        "positive_hits": 2,
+        "negative_hits": 3
+      },
+      "receipts": [
+        {
+          "timestamp": "01:00:02",
+          "excerpt": "Finally, someone who does protect and serve. >> Shut it off. His [laughter] mother is like, \"Do it. Do it. Put him out of our misery. Do it now. [laughter] >> He's rich.\" And officer, >> he's rich. >> Don't shoot him. Could you at least do me the kindness of shooting me? >> Officer, he has a gun in his diapers. He has a gun in his diaper. [laughter] >> There"
+        },
+        {
+          "timestamp": "01:36:01",
+          "excerpt": "head, bro? >> Is it the light or is he >> Oh, have you not seen his new haircut? >> Saying goodbye. >> Is he dressed like is he trying to be like a German artist? Like, hello, my name is Hans. I only wear black turtlenecks and I like to paint on walls. >> I think I think someone told him kids like that haircut. >> Can you give me like the Zoomer haircut, the"
+        }
+      ]
+    },
+    {
+      "entity": "Vito Gesualdi",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "01:24:01",
+      "last_timestamp": "01:36:02",
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5,
+        "positive_hits": 1,
+        "negative_hits": 3
+      },
+      "receipts": [
+        {
+          "timestamp": "01:24:01",
+          "excerpt": "understand why >> and you suddenly know now. >> You got >> I did it all along. >> I did it all. >> In here. >> Don't put me in the show with a black person. >> [laughter] >> I'm dizzy. >> Yeah, he's uh he's a piece of [ __ ] >> It's all an act. >> Stop. >> Oh, yeah. That's [laughter] [gasps] head. So, like I could do that kind of [ __ ] I do it sometimes to"
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "12:01",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "Heat. [music] [music] [music] [music] Hey, Heat. Heat. [music] [music] [music] Hey, Heat. >> [music] [music] >> Heat. Heat. >> [music] >> Heat. [music] [music] Hey, Heat. >> [music] >> Heat. Heat. [music] >> [music] [music] [music] >> Heat. Heat. N. Heat. Heat. [music] [music] >> [music] >> Heat. Heat. >> [music] [music] >> Oh baby, your [music] pr"
+    },
+    {
+      "start": "12:02",
+      "end": "24:03",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": ">> Do you remember the poop squatch? >> No. You don't you don't remember poopy butt. >> You don't remember the poop squash? [crying] Andy ditch. He's a classic. >> He's a classic LCA. He's one that I believe JJ found >> years ago and he I think he was the very first >> very first LOL to give us a shout out. >> He complained about us. I just need to"
+    },
+    {
+      "start": "24:01",
+      "end": "36:02",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "background is and all of that I think that translates but it's >> it's kind of different >> well when I say that I mean there's different aspects honestly like streaming like It combines like skills I learned from like doing like color timing and stuff like that and like editing software, chroma keying, stuff like that. [snorts] >> And then like it"
+    },
+    {
+      "start": "36:02",
+      "end": "48:03",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "[laughter] that's what I'm saying. >> The guy like, there you go. >> What the >> What do you want? >> If we don't get massive donos after you just dropped that, I don't know what this audience even wants for a show anymore. Well, I'll tell you this. Is >> that what it takes? >> You just went over 711 with that one. Nice work. [cheering] Did they re"
+    },
+    {
+      "start": "48:01",
+      "end": "01:00:04",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": true,
+      "summary_seed": ">> Yeah. >> If he like had an audience of like, I don't know, say say he had a thousand people to 1500 people watching every show, morning and night. He could probably do like 500 bucks an episode easy. He might get that naturally, but you're never going to get to >> say that have to be people that like him. >> Exactly. Exactly. And like the show a"
+    },
+    {
+      "start": "01:00:02",
+      "end": "01:12:04",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "Finally, someone who does protect and serve. >> Shut it off. His [laughter] mother is like, \"Do it. Do it. Put him out of our misery. Do it now. [laughter] >> He's rich.\" And officer, >> he's rich. >> Don't shoot him. Could you at least do me the kindness of shooting me? >> Officer, he has a gun in his diapers. He has a gun in his diaper. [laughter"
+    },
+    {
+      "start": "01:12:00",
+      "end": "01:24:03",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "this was 2020. this arrest. Did I'm guessing >> I don't know why this resurfaced now, but I was like this is the first time I'm seeing this. >> So, >> yeah. Where is Where is he now? >> Diffuser to help me relax. >> I got a billy club that'll help you relax, buddy. >> I'm being arrested. >> Hands behind your back. >> I'm being arrested. [laughter]"
+    },
+    {
+      "start": "01:24:01",
+      "end": "01:36:02",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "understand why >> and you suddenly know now. >> You got >> I did it all along. >> I did it all. >> In here. >> Don't put me in the show with a black person. >> [laughter] >> I'm dizzy. >> Yeah, he's uh he's a piece of [ __ ] >> It's all an act. >> Stop. >> Oh, yeah. That's [laughter] [gasps] head. So, like I could do that kind of [ __ ] I do it som"
+    },
+    {
+      "start": "01:36:01",
+      "end": "01:48:03",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "head, bro? >> Is it the light or is he >> Oh, have you not seen his new haircut? >> Saying goodbye. >> Is he dressed like is he trying to be like a German artist? Like, hello, my name is Hans. I only wear black turtlenecks and I like to paint on walls. >> I think I think someone told him kids like that haircut. >> Can you give me like the Zoomer ha"
+    },
+    {
+      "start": "01:48:01",
+      "end": "02:00:01",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": true,
+      "summary_seed": ">> Oh my god, he's he's raising a bunch of hipsters, guys. We got to [laughter] have some intervention there. >> This can't go on for for another generation. >> I mean, when I really want to challenge him, Kyle, I'll throw on some of Montreal. >> I knew that made your eyes roll [laughter] it out. >> Lovely D. >> I liked that. There's like one album"
+    },
+    {
+      "start": "02:00:04",
+      "end": "02:07:08",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "like No, I don't feel like it. [music] >> You know, you're making the show worse just because of your oppositional defiance disorder. >> Yeah, Kyle, you're doing this, not me. This is your fault. [laughter] >> It's my fault. Yeah, >> I skip I skip to every song >> incredibly. Like I skip all dialogue from song to song. [laughter] >> Oh my god, Tatt"
+    }
+  ],
+  "claims": [],
+  "quotes": [
+    {
+      "timestamp": "00:00",
+      "text": "I got fired for all [music] my lies and sexual assault.",
+      "subjects": [],
+      "significance_score": 1
+    },
+    {
+      "timestamp": "01:24:01",
+      "text": "And it's looking like there's going to be additional legislation and legal action that's going to need",
+      "subjects": [],
+      "significance_score": 1
+    },
+    {
+      "timestamp": "01:36:01",
+      "text": "So uh for those of you that are like trying to keep up with like uh with the uh with the old with the strike wars, Liam's Liam's oneman war on the on the worm men.",
+      "subjects": [],
+      "significance_score": 1
+    }
+  ],
+  "relationships": [],
+  "story_matches": [
+    {
+      "story_id": "steel-toe-hro",
+      "title": "Steel Toe HRO",
+      "score": 0.667
+    },
+    {
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.5
+    },
+    {
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.5
+    },
+    {
+      "story_id": "nick-rekieta-reputation-fallout",
+      "title": "Nick Rekieta reputation and downfall coverage",
+      "score": 0.5
+    },
+    {
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "score": 0.429
+    }
+  ],
+  "uncertainty_flags": [
+    "speaker attribution may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon cannot reliably detect sarcasm",
+    "claims and relationship signals remain candidates"
+  ]
+}

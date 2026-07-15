@@ -1,6 +1,6 @@
 {
-  "schema_version": "octopuss-preanalysis-v0.1",
-  "generated_at": "2026-07-15T21:04:20.631895+00:00",
+  "schema_version": "octopuss-preanalysis-v0.2",
+  "generated_at": "2026-07-15T21:17:14.345174+00:00",
   "video_id": "k3BD76GAF6I",
   "title": "Nice and Easy - tunes with q",
   "source": "ComicsGate Commandos",
@@ -19,7 +19,7 @@
     {
       "entity": "ComicsGate Commandos",
       "role_guess": "host_or_channel_identity",
-      "confidence": 0.72,
+      "confidence": 0.75,
       "signals": [
         "packet source/channel identity"
       ]
@@ -32,20 +32,19 @@
       "end": "02:43",
       "title": "General discussion",
       "entities": [],
-      "summary_seed": "[music] >> Let's take it nice and easy. It's going to be so easy for us to fall in love. >> [music] >> Hey, baby, what's your hurry? Relax. Don't you worry. We're going to fall in love. We're on the road to romance. [music] That's safe to say, but let's make all the stops [music] along the way. The problem now, of course, [music] is to simply hold your horses. To rush would be a crime. >> [singing] >> Cuz nice [music",
-      "clip_likelihood": false,
-      "transition_markers": 0
+      "possible_clip": false,
+      "summary_seed": "[music] >> Let's take it nice and easy. It's going to be so easy for us to fall in love. >> [music] >> Hey, baby, what's your hurry? Relax. Don't you worry. We're going to fall in love. We're on the road to romance. [music] That's safe to say, but let's make all the stops [music] along the way. The problem now, of course, [music] is to simply hold"
     }
   ],
   "claim_candidates": [],
   "quote_candidates": [],
   "relationship_signals": [],
   "story_matches": [],
+  "review_priority": 0,
   "uncertainty_flags": [
-    "speaker identity may be unknown",
+    "speaker attribution may be unknown",
     "clip voices may be mistaken for live participants",
-    "sentiment lexicon does not reliably detect sarcasm",
-    "relationship signals are candidates, not declarations",
-    "claims are not verified facts"
+    "sentiment lexicon cannot reliably detect sarcasm",
+    "claims and relationship signals remain candidates"
   ]
 }

@@ -1,0 +1,93 @@
+{
+  "schema_version": "octopuss-candidate-episode-v0.1",
+  "video_id": "YUpeiVaoNa0",
+  "title": "EVEN A STOPPED CLOCK IS CORRECT TWICE A DAY- Deniz Camp ACCURATELY Describes Right-Wing Comics Sites",
+  "source": "Ya Boi Zack",
+  "published": "2026-07-13T16:47:14+00:00",
+  "review_priority": 24,
+  "participant_candidates": [
+    {
+      "entity": "Ya Boi Zack",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Friday Night Tights",
+      "mentions": 1,
+      "block_count": 1,
+      "first_timestamp": "00:01",
+      "last_timestamp": "12:03",
+      "importance_guess": "passing",
+      "sentiment": {
+        "label": "mixed",
+        "score": -0.333,
+        "positive_hits": 4,
+        "negative_hits": 8
+      },
+      "receipts": [
+        {
+          "timestamp": "00:01",
+          "excerpt": "he what was the guy from? He quit just to run a farm. Nobody just quits the rat race in Hollywood and says like, \"Oh, by the way, I was the insider source for Geeks and Gamers and Friday Night Tights and Cosmic Book News and all these [ __ ] I was that's me.\" They never want to write a book inside Source: Tales from within Hollywood. They never do that ever cuz it's fake. thes"
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:01",
+      "end": "12:03",
+      "title": "Friday Night Tights",
+      "entities": [
+        "Friday Night Tights"
+      ],
+      "possible_clip": false,
+      "summary_seed": "Hi everyone, it's your boy Zach. So yesterday uh I recorded uh was driving to the doctor's um the 8 billionth um I hate uh perches letter writers uh video. I was like I'll spare the world. This is kind of worthless. But um later I was going through some comments and I saw a tweet by Denise Camp and I think this one will be more focused especially s"
+    },
+    {
+      "start": "12:00",
+      "end": "16:21",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "What? What is this? Nations rise and fall. Businesses go out of business. Relationships end. Are you really in middle age just worrying about the Q3 deliverables in Koala Lumpur for Valiant? Are you driving right now? What are all the businesses you're driving by? Oh, oh, what what if that hotel what if I need to go to that hotel and and what if it"
+    }
+  ],
+  "claims": [
+    {
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Friday Night Tights"
+      ],
+      "claim": "Nobody just quits the rat race in Hollywood and says like, \"Oh, by the way, I was the insider source for Geeks and Gamers and Friday Night Tights and Cosmic Book News and all these [ __ ] I was that's me.\" They never want to write a book inside Source: Tales from within Hollywood.",
+      "timestamp": "00:01",
+      "status": "candidate_claim",
+      "confidence": 0.55,
+      "receipt": "Nobody just quits the rat race in Hollywood and says like, \"Oh, by the way, I was the insider source for Geeks and Gamers and Friday Night Tights and Cosmic Book News and all these [ __ ] I was that's me.\" They never want to write a book inside Source: Tales from within Hollywood."
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "story_matches": [
+    {
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "score": 0.571
+    },
+    {
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.5
+    }
+  ],
+  "uncertainty_flags": [
+    "speaker attribution may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon cannot reliably detect sarcasm",
+    "claims and relationship signals remain candidates"
+  ]
+}

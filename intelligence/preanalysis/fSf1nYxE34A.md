@@ -2,44 +2,26 @@
 
 - **Video ID:** `fSf1nYxE34A`
 - **Source:** Elissa Clips
-- **Published:** 2026-07-11T00:30:28+00:00
-- **Generated:** 2026-07-15T21:04:19.397352+00:00
+- **Review priority:** 3/100
 
-## Likely participants
+## Participant candidates
 
-- **Elissa Clips** — host_or_channel_identity; confidence 72%; packet source/channel identity
+- **Elissa Clips** — host_or_channel_identity (75%)
 
-## Subjects and sentiment receipts
+## Subjects
 
-### Chrissie Mayr
+- **Chrissie Mayr** — secondary; 3 mentions; positive
 
-- Importance: **secondary**
-- Mentions: **3** across **1** blocks
-- Span: 00:00–01:00
-- Sentiment guess: **positive** (+1.000)
+## Strong claim candidates
 
-- **00:00:** Uh, Garfield's Bizarre Adventure for $50. What's [cheering] up, dude? Oh. It finally gets brought up. Okay. Uh, looks like Chrissy is still seething that she got the boot from F&T, and now she is doing the rounds claiming she got canceled. Uh, she dressed up as Frost so many times she became her. The house always wins. Well, thank you, Garfield. Um, Chrissy is is no longer on the show. I think that's been pretty obvious to a lot of peop
+_None passed the strong filter._
 
-## Topic map
+## Quote candidates
 
-- **00:00–01:00** — Chrissie Mayr
+_None passed the strong filter._
 
-## Claim candidates
+## Relationship candidates
 
-- **00:00 — unknown speaker:** that's been pretty obvious to a lot of people. _[opinion_or_inference]_
+_None passed the filter._
 
 ## Story matches
-
-_No existing story match crossed the threshold._
-
-## Relationship signals
-
-_No relationship-language candidates detected._
-
-## Uncertainty flags
-
-- speaker identity may be unknown
-- clip voices may be mistaken for live participants
-- sentiment lexicon does not reliably detect sarcasm
-- relationship signals are candidates, not declarations
-- claims are not verified facts

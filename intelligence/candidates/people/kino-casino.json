@@ -1,0 +1,322 @@
+{
+  "entity_id": "kino-casino",
+  "name": "Kino Casino",
+  "appearance_candidates": [],
+  "discussions": [
+    {
+      "video_id": "LS_14uOaG2E",
+      "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "source": "Ethan Van Sciver",
+      "importance": "passing",
+      "mentions": 2,
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5,
+        "positive_hits": 6,
+        "negative_hits": 2
+      },
+      "receipts": [
+        {
+          "timestamp": "01:48:02",
+          "excerpt": "Shaken. Um, it's really good. Uh, Josem M for $20 says, \"Finally caught up. Uh, caught your five part raw high kid review on a long drive. Sturgeis turned on CG over JSOM. Once on Kino Casino PPP said, Safa Ethan Van Skyver. Uh, Warski laughed and read a comment saying Safa Evan. It might have been a yellow [ __ ] comment.\" Yeah, yellow [ __ ] love. I mean, Yellow Flas"
+        }
+      ]
+    },
+    {
+      "video_id": "66FqtP0Wves",
+      "title": "It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on \"WOKE\"! LANTERNS Spoilers?!",
+      "source": "Ethan Van Sciver",
+      "importance": "secondary",
+      "mentions": 2,
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.2,
+        "positive_hits": 15,
+        "negative_hits": 10
+      },
+      "receipts": [
+        {
+          "timestamp": "36:02",
+          "excerpt": "n this whole thing. I got in trouble for actually defending the quartering in a way. Uh whereas uh you know people said he why is the quartering mad? He has no reason to be mad at Kino Casino and I said he does. They said that there's a big Jewish guy who's [ __ ] his wife. And if that isn't true, the quartering has a Jewish friend who is a bull in some weird sex commu"
+        },
+        {
+          "timestamp": "48:02",
+          "excerpt": "ur best friend. Uh you don't sit there and go he's always been nice to me. Yeah but he's striking down people's channels and it doesn't matter if you like the people. I don't like Kino Casino. I don't I think most of Jeremy's uh enemies in this case are people that I don't really like. But even still no. And then, by the way, they make content about me sometimes. Some"
+        }
+      ]
+    },
+    {
+      "video_id": "lUXAeP8oPgw",
+      "title": "Kino Casino: TheQuartering Vlogs Ep. 1 (Jul 8, 2026)",
+      "source": "Elissa Clips",
+      "importance": "passing",
+      "mentions": 1,
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.333,
+        "positive_hits": 2,
+        "negative_hits": 1
+      },
+      "receipts": [
+        {
+          "timestamp": "01:24:01",
+          "excerpt": "is real, you I need this clip. He said, \"Did you guys see I hypocrite clowning on Jar's income the other day?\" There ain't noing way, dog. the saddest words of voice and pen. The Kino Casino was right again. >> If you don't remember, what's his name? Lyndon was super >> that we said thating J was broke and losing everything and he did this whole segment saying we were"
+        }
+      ]
+    },
+    {
+      "video_id": "nfZd95BuM5U",
+      "title": "TONIGHT ON KINO CASINO!! TheQuartering CBC Dropship Confirmed! Total DSP Victory! Angry Joe & More!!",
+      "source": "Elissa Clips",
+      "importance": "passing",
+      "mentions": 1,
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0,
+        "positive_hits": 4,
+        "negative_hits": 0
+      },
+      "receipts": [
+        {
+          "timestamp": "12:01",
+          "excerpt": "like a welcome home. It's like J with like the dead air technical issues. [laughter] Then Joe, like it was honestly one of the most surreal moments of my life. Uttered the words, \"KINO CASINO, >> LET'S GO.\" [screaming] >> AT ONE POINT HE was tricked into saying, \"Whoa, buddy.\" And then Alex is saying, \"Whoa, buddy.\" >> He said it like that, though. >> Yeah. In the back"
+        }
+      ]
+    }
+  ],
+  "claim_candidates": [
+    {
+      "video_id": "LS_14uOaG2E",
+      "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Kino Casino"
+      ],
+      "claim": "Once on Kino Casino PPP said, Safa Ethan Van Skyver.",
+      "timestamp": "01:48:02",
+      "status": "candidate_claim",
+      "confidence": 0.55,
+      "receipt": "Once on Kino Casino PPP said, Safa Ethan Van Skyver."
+    },
+    {
+      "video_id": "LS_14uOaG2E",
+      "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Kino Casino"
+      ],
+      "claim": "I mean, Yellow Flash loves Kino Casino, and I think he's the one who kind of spurs them on.",
+      "timestamp": "01:48:02",
+      "status": "opinion_or_inference",
+      "confidence": 0.42,
+      "receipt": "I mean, Yellow Flash loves Kino Casino, and I think he's the one who kind of spurs them on."
+    },
+    {
+      "video_id": "66FqtP0Wves",
+      "title": "It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on \"WOKE\"! LANTERNS Spoilers?!",
+      "claimant": "unknown speaker",
+      "subjects": [
+        "Kino Casino"
+      ],
+      "claim": "He has no reason to be mad at Kino Casino and I said he does.",
+      "timestamp": "36:02",
+      "status": "candidate_claim",
+      "confidence": 0.55,
+      "receipt": "He has no reason to be mad at Kino Casino and I said he does."
+    }
+  ],
+  "relationship_candidates": [
+    {
+      "video_id": "66FqtP0Wves",
+      "title": "It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on \"WOKE\"! LANTERNS Spoilers?!",
+      "left": "Eric July",
+      "right": "Kino Casino",
+      "signal_type": "promoted",
+      "timestamp": "36:02",
+      "confidence": 0.48,
+      "receipt": "rding Eric Julian Amazon, I'm a nobody. I'm not Chuck Dixon. Uh, I released a sci-fi novel after a successful Kickstarter and initially sold 37 copies on Amazon for a rank of 35K. Eric July is not a nobody. It's embarrassing that I beat him. Yeah, people can't believe it that, you know, I'm saying uh to these ripards, I'm saying, uh, listen, uh, he, they're like, he",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "66FqtP0Wves",
+      "title": "It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on \"WOKE\"! LANTERNS Spoilers?!",
+      "left": "Cyberfrog",
+      "right": "Kino Casino",
+      "signal_type": "promoted",
+      "timestamp": "36:02",
+      "confidence": 0.48,
+      "receipt": "'ll circle back to those and that was embarrassing but at least it's like let's just be honest about it couple of them that I put pause on and it's like the like Rainbow the Brute Cyberfrog 3 um the um uh prequels the books mostly the comic books are the ones that I'm uh working on right now we'll get those out and then we'll move on we'll get the other ones out lite",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "66FqtP0Wves",
+      "title": "It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on \"WOKE\"! LANTERNS Spoilers?!",
+      "left": "Eric July",
+      "right": "Kino Casino",
+      "signal_type": "separation",
+      "timestamp": "36:02",
+      "confidence": 0.48,
+      "receipt": "rding Eric Julian Amazon, I'm a nobody. I'm not Chuck Dixon. Uh, I released a sci-fi novel after a successful Kickstarter and initially sold 37 copies on Amazon for a rank of 35K. Eric July is not a nobody. It's embarrassing that I beat him. Yeah, people can't believe it that, you know, I'm saying uh to these ripards, I'm saying, uh, listen, uh, he, they're like, he",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "66FqtP0Wves",
+      "title": "It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on \"WOKE\"! LANTERNS Spoilers?!",
+      "left": "Cyberfrog",
+      "right": "Kino Casino",
+      "signal_type": "separation",
+      "timestamp": "36:02",
+      "confidence": 0.48,
+      "receipt": "'ll circle back to those and that was embarrassing but at least it's like let's just be honest about it couple of them that I put pause on and it's like the like Rainbow the Brute Cyberfrog 3 um the um uh prequels the books mostly the comic books are the ones that I'm uh working on right now we'll get those out and then we'll move on we'll get the other ones out lite",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "66FqtP0Wves",
+      "title": "It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on \"WOKE\"! LANTERNS Spoilers?!",
+      "left": "Liam Gray",
+      "right": "Kino Casino",
+      "signal_type": "collaborated",
+      "timestamp": "48:02",
+      "confidence": 0.48,
+      "receipt": "mes. Some of these guys, no, you got to leave their channels alone, [ __ ] They're allowed to do that. Those are the rules of YouTube. We're running into that a little bit with uh Liam Gray. Liam doesn't understand it either. Once you get a taste for the power of striking down somebody's channel, I guess it's addictive. These guys just quartering and Liam, they just",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "66FqtP0Wves",
+      "title": "It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on \"WOKE\"! LANTERNS Spoilers?!",
+      "left": "Shane Davis",
+      "right": "Kino Casino",
+      "signal_type": "collaborated",
+      "timestamp": "48:02",
+      "confidence": 0.48,
+      "receipt": "him in all this uh, and uh, kind of said uh, yeah, like I like him. He's always been nice to me. What does that have to do with anything? He's striking channels. Like I mean if if Shane Davis started striking channels I would have to say Shane is being a [ __ ] [ __ ] He needs to stop striking channels period. I you just have to say that doesn't matter if he's your bes",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "66FqtP0Wves",
+      "title": "It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on \"WOKE\"! LANTERNS Spoilers?!",
+      "left": "Liam Gray",
+      "right": "Kino Casino",
+      "signal_type": "separation",
+      "timestamp": "48:02",
+      "confidence": 0.48,
+      "receipt": "mes. Some of these guys, no, you got to leave their channels alone, [ __ ] They're allowed to do that. Those are the rules of YouTube. We're running into that a little bit with uh Liam Gray. Liam doesn't understand it either. Once you get a taste for the power of striking down somebody's channel, I guess it's addictive. These guys just quartering and Liam, they just",
+      "warning": "candidate relationship evidence; requires review"
+    },
+    {
+      "video_id": "66FqtP0Wves",
+      "title": "It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on \"WOKE\"! LANTERNS Spoilers?!",
+      "left": "Shane Davis",
+      "right": "Kino Casino",
+      "signal_type": "separation",
+      "timestamp": "48:02",
+      "confidence": 0.48,
+      "receipt": "him in all this uh, and uh, kind of said uh, yeah, like I like him. He's always been nice to me. What does that have to do with anything? He's striking channels. Like I mean if if Shane Davis started striking channels I would have to say Shane is being a [ __ ] [ __ ] He needs to stop striking channels period. I you just have to say that doesn't matter if he's your bes",
+      "warning": "candidate relationship evidence; requires review"
+    }
+  ],
+  "story_candidates": [
+    {
+      "video_id": "LS_14uOaG2E",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 1.0
+    },
+    {
+      "video_id": "LS_14uOaG2E",
+      "story_id": "thequartering-kino-casino-conflict",
+      "title": "TheQuartering / Kino Casino conflict",
+      "score": 0.75
+    },
+    {
+      "video_id": "LS_14uOaG2E",
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.6
+    },
+    {
+      "video_id": "LS_14uOaG2E",
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "score": 0.571
+    },
+    {
+      "video_id": "LS_14uOaG2E",
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.5
+    },
+    {
+      "video_id": "66FqtP0Wves",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 1.0
+    },
+    {
+      "video_id": "66FqtP0Wves",
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "score": 0.8
+    },
+    {
+      "video_id": "66FqtP0Wves",
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "score": 0.75
+    },
+    {
+      "video_id": "66FqtP0Wves",
+      "story_id": "thequartering-kino-casino-conflict",
+      "title": "TheQuartering / Kino Casino conflict",
+      "score": 0.75
+    },
+    {
+      "video_id": "66FqtP0Wves",
+      "story_id": "thequartering-coffee-business-scrutiny",
+      "title": "TheQuartering coffee-business scrutiny and expansion",
+      "score": 0.667
+    },
+    {
+      "video_id": "lUXAeP8oPgw",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.5
+    },
+    {
+      "video_id": "lUXAeP8oPgw",
+      "story_id": "thequartering-coffee-business-scrutiny",
+      "title": "TheQuartering coffee-business scrutiny and expansion",
+      "score": 0.5
+    },
+    {
+      "video_id": "lUXAeP8oPgw",
+      "story_id": "thequartering-kino-casino-conflict",
+      "title": "TheQuartering / Kino Casino conflict",
+      "score": 0.5
+    },
+    {
+      "video_id": "lUXAeP8oPgw",
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "score": 0.429
+    },
+    {
+      "video_id": "nfZd95BuM5U",
+      "story_id": "thequartering-kino-casino-conflict",
+      "title": "TheQuartering / Kino Casino conflict",
+      "score": 0.75
+    },
+    {
+      "video_id": "nfZd95BuM5U",
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "score": 0.5
+    },
+    {
+      "video_id": "nfZd95BuM5U",
+      "story_id": "thequartering-coffee-business-scrutiny",
+      "title": "TheQuartering coffee-business scrutiny and expansion",
+      "score": 0.5
+    }
+  ]
+}

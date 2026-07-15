@@ -1,0 +1,75 @@
+{
+  "schema_version": "octopuss-candidate-episode-v0.1",
+  "video_id": "YJ3EPWpShMU",
+  "title": "Rekieta Law: Aaron Imholte’s HRO Won’t Last Forever & the Daily Mail Article (Jul 10, 2026)",
+  "source": "Elissa Clips",
+  "published": "2026-07-11T17:52:41+00:00",
+  "review_priority": 11,
+  "participant_candidates": [
+    {
+      "entity": "Elissa Clips",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "entity": "Nick Rekieta",
+      "mentions": 3,
+      "block_count": 1,
+      "first_timestamp": "00:00",
+      "last_timestamp": "07:52",
+      "importance_guess": "secondary",
+      "sentiment": {
+        "label": "mixed",
+        "score": 0.0,
+        "positive_hits": 2,
+        "negative_hits": 2
+      },
+      "receipts": [
+        {
+          "timestamp": "00:00",
+          "excerpt": "Hey, what's up guys? Welcome to Law Explaining the Interwebs. I am your host Nick Rekieta of Rekieta Law, a small law firm in Central Minnesota. That is where I'm from. It does not necessarily mean that it's still open. It just means that's where I'm from. Just in case"
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "07:52",
+      "title": "Nick Rekieta",
+      "entities": [
+        "Nick Rekieta"
+      ],
+      "possible_clip": false,
+      "summary_seed": "Hey, what's up guys? Welcome to Law Explaining the Interwebs. I am your host Nick Rekieta of Rekieta Law, a small law firm in Central Minnesota. That is where I'm from. It does not necessarily mean that it's still open. It just means that's where I'm from. Just in case you're the Ethics Commission then you don't understand basic English. And you ma"
+    }
+  ],
+  "claims": [],
+  "quotes": [
+    {
+      "timestamp": "00:00",
+      "text": "I look forward to coverage of the lawsuit.",
+      "subjects": [],
+      "significance_score": 1
+    }
+  ],
+  "relationships": [],
+  "story_matches": [
+    {
+      "story_id": "nick-rekieta-reputation-fallout",
+      "title": "Nick Rekieta reputation and downfall coverage",
+      "score": 0.667
+    }
+  ],
+  "uncertainty_flags": [
+    "speaker attribution may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon cannot reliably detect sarcasm",
+    "claims and relationship signals remain candidates"
+  ]
+}

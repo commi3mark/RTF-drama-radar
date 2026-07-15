@@ -1,0 +1,39 @@
+{
+  "schema_version": "octopuss-candidate-episode-v0.1",
+  "video_id": "yNnnMg6brR0",
+  "title": "It’s Rippaverse Day!",
+  "source": "Eric July",
+  "published": "2026-07-11T20:05:58+00:00",
+  "review_priority": 0,
+  "participant_candidates": [
+    {
+      "entity": "Eric July",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subjects": [],
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "01:12",
+      "title": "General discussion",
+      "entities": [],
+      "possible_clip": false,
+      "summary_seed": "What's good, everybody? I am actually out of town with my family. Which you know I'm recording in the car, but I want to say thank you all so much. Today is July the 11th. If you don't know what that means, it means that it's Ripperverse days. The first Well, actually 4 years. Year 4. It marks year 4. It's crazy to even think about since we've laun"
+    }
+  ],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "story_matches": [],
+  "uncertainty_flags": [
+    "speaker attribution may be unknown",
+    "clip voices may be mistaken for live participants",
+    "sentiment lexicon cannot reliably detect sarcasm",
+    "claims and relationship signals remain candidates"
+  ]
+}

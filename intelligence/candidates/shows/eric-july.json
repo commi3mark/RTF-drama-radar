@@ -1,0 +1,48 @@
+{
+  "show_id": "eric-july",
+  "name": "Eric July",
+  "episodes": [
+    {
+      "video_id": "yNnnMg6brR0",
+      "title": "It’s Rippaverse Day!"
+    },
+    {
+      "video_id": "STNCdSrYxEc",
+      "title": "Are People ACTUALLY Tired of \"Wokeness?\""
+    },
+    {
+      "video_id": "cIjp7l5KBfA",
+      "title": "Why the \"World Sport\" is different..."
+    }
+  ],
+  "participant_candidates": [
+    {
+      "video_id": "yNnnMg6brR0",
+      "entity": "Eric July",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    },
+    {
+      "video_id": "STNCdSrYxEc",
+      "entity": "Eric July",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    },
+    {
+      "video_id": "cIjp7l5KBfA",
+      "entity": "Eric July",
+      "role_guess": "host_or_channel_identity",
+      "confidence": 0.75,
+      "signals": [
+        "packet source/channel identity"
+      ]
+    }
+  ],
+  "subject_history": []
+}
