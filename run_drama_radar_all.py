@@ -15,6 +15,7 @@ def main() -> int:
         ("OCTOPUSS packet validation", [sys.executable, str(ROOT / "validate_octopuss_packets.py")]),
         ("OCTOPUSS compact pre-analysis", [sys.executable, str(ROOT / "octopuss_preanalyse.py")]),
         ("OCTOPUSS candidate filing", [sys.executable, str(ROOT / "octopuss_file_candidates.py")]),
+        ("OCTOPUSS living stories", [sys.executable, str(ROOT / "build_living_stories.py")]),
         ("OCTOPUSS reviewed intelligence filing", [sys.executable, str(ROOT / "apply_octopuss_analysis.py")]),
         ("Feed linking", [sys.executable, str(ROOT / "link_transcripts.py")]),
         ("Monthly archive", [sys.executable, str(ROOT / "archive_months.py")]),

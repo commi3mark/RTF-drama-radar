@@ -13,6 +13,7 @@ PUBLISH_PATHS = [
     "intelligence/evidence-packets",
     "intelligence/preanalysis",
     "intelligence/candidates",
+    "intelligence/living-stories",
     "intelligence/episodes",
     "intelligence/people",
     "intelligence/shows",
@@ -30,12 +31,8 @@ PUBLISH_PATHS = [
 
 def run_git(*args: str, capture: bool = False) -> str:
     completed = subprocess.run(
-        ["git", *args],
-        cwd=ROOT,
-        check=True,
-        text=True,
-        encoding="utf-8",
-        errors="replace",
+        ["git", *args], cwd=ROOT, check=True, text=True,
+        encoding="utf-8", errors="replace",
         stdout=subprocess.PIPE if capture else None,
         stderr=subprocess.STDOUT if capture else None,
     )
@@ -44,19 +41,16 @@ def run_git(*args: str, capture: bool = False) -> str:
 
 def main() -> int:
     cfg = settings().get("git", {})
-
     if not cfg.get("enabled", False):
         print("Git publishing is disabled.")
         return 0
 
     branch = str(cfg.get("branch", "main")).strip() or "main"
     remote = str(cfg.get("remote", "origin")).strip() or "origin"
-
     run_git("pull", "--ff-only", remote, branch)
 
     existing = [path for path in PUBLISH_PATHS if (ROOT / path).exists()]
-    run_git("add", "-A", "--", *existing, "intelligence/auto")
-
+    run_git("add", "-A", "--", *existing)
     changed = run_git("diff", "--cached", "--name-only", capture=True)
     if not changed:
         print("Git publishing: no generated changes.")
@@ -66,7 +60,6 @@ def main() -> int:
     timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     run_git("commit", "-m", f"{prefix} — {timestamp}")
     run_git("push", remote, branch)
-
     count = len([line for line in changed.splitlines() if line.strip()])
     print(f"Git publishing complete: pushed {count} changed files.")
     return 0
