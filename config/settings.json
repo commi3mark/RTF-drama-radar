@@ -46,6 +46,7 @@
     20
   ],
   "scheduled_transcript_tolerance_minutes": 45,
+  "octopuss_block_minutes": 12,
   "retry_hours": {
     "TranscriptsDisabled": 24,
     "VideoUnplayable": 12,
@@ -73,6 +74,7 @@
     "latest_log": "logs/latest-run.log",
     "lock": "state/radar.lock",
     "transcripts": "transcripts",
-    "archive": "archive"
+    "archive": "archive",
+    "octopuss_packets": "intelligence/evidence-packets"
   }
 }

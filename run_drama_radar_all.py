@@ -21,6 +21,14 @@ def main() -> int:
             [sys.executable, str(ROOT / "build_transcript_index.py")],
         ),
         (
+            "OCTOPUSS evidence packets",
+            [sys.executable, str(ROOT / "build_octopuss_packets.py")],
+        ),
+        (
+            "OCTOPUSS packet validation",
+            [sys.executable, str(ROOT / "validate_octopuss_packets.py")],
+        ),
+        (
             "Feed linking",
             [sys.executable, str(ROOT / "link_transcripts.py")],
         ),

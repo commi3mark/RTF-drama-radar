@@ -10,6 +10,7 @@ PUBLISH_PATHS = [
     "data",
     "archive",
     "transcripts",
+    "intelligence/evidence-packets",
     "state/transcript-retries.json",
     "logs/health.json",
 ]
@@ -37,7 +38,11 @@ def main() -> int:
         return 0
 
     try:
-        repository_root = run_git("rev-parse", "--show-toplevel", capture=True)
+        repository_root = run_git(
+            "rev-parse",
+            "--show-toplevel",
+            capture=True,
+        )
     except (subprocess.CalledProcessError, FileNotFoundError):
         print("Git publishing skipped: this folder is not a Git repository.")
         return 0
@@ -49,7 +54,6 @@ def main() -> int:
     branch = str(cfg.get("branch", "main")).strip() or "main"
     remote = str(cfg.get("remote", "origin")).strip() or "origin"
 
-    # Pull only by fast-forward. This will never create a surprise merge commit.
     try:
         run_git("pull", "--ff-only", remote, branch)
     except subprocess.CalledProcessError:
@@ -59,7 +63,9 @@ def main() -> int:
         )
         return 1
 
-    existing_paths = [path for path in PUBLISH_PATHS if (ROOT / path).exists()]
+    existing_paths = [
+        path for path in PUBLISH_PATHS if (ROOT / path).exists()
+    ]
     if not existing_paths:
         print("Git publishing skipped: no generated output paths exist.")
         return 0
@@ -74,14 +80,20 @@ def main() -> int:
     prefix = str(
         cfg.get("commit_message_prefix", "Automated Drama Radar update")
     ).strip()
-    timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    message = f"{prefix} — {timestamp}"
+    timestamp_text = datetime.now(timezone.utc).strftime(
+        "%Y-%m-%d %H:%M UTC"
+    )
+    message = f"{prefix} — {timestamp_text}"
 
     run_git("commit", "-m", message)
     run_git("push", remote, branch)
 
-    changed_count = len([line for line in changed.splitlines() if line.strip()])
-    print(f"Git publishing complete: pushed {changed_count} changed files.")
+    changed_count = len(
+        [line for line in changed.splitlines() if line.strip()]
+    )
+    print(
+        f"Git publishing complete: pushed {changed_count} changed files."
+    )
     return 0
 
 
