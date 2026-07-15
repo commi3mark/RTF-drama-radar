@@ -1,18 +1,63 @@
 [
   {
+    "video_id": "ZgbvZRJnCIk",
+    "title": "Gabbing With Ga......You know",
+    "source": "FFS Cast",
+    "published": "2026-07-15T03:34:34+00:00",
+    "url": "https://www.youtube.com/watch?v=ZgbvZRJnCIk",
+    "segment_count": 5650,
+    "transcript_file": "transcripts/2026-07/Gabbing With Ga......You know [ZgbvZRJnCIk].json",
+    "sha256": "b4bb78ba5a4244a6e34e612611afdffb3136f75b011df1707ba90e819cf87a01",
+    "occurrence_count": 46,
+    "quote_count": 70,
+    "bundle_count": 49,
+    "narrative_count": 49,
+    "processed_at": "2026-07-15T13:59:05.812531+00:00"
+  },
+  {
+    "video_id": "IiuHUxargVk",
+    "title": "Daddy Daughter Day (CG lies to you and why I am right)",
+    "source": "Liam Gray",
+    "published": "2026-07-15T02:57:09+00:00",
+    "url": "https://www.youtube.com/watch?v=IiuHUxargVk",
+    "segment_count": 204,
+    "transcript_file": "transcripts/2026-07/Daddy Daughter Day (CG lies to you and why I am right) [IiuHUxargVk].json",
+    "sha256": "b02942f1173635dcbf78c1b0a2ad91b6f5410319d140583f152cd83fcedda93a",
+    "occurrence_count": 1,
+    "quote_count": 2,
+    "bundle_count": 2,
+    "narrative_count": 2,
+    "processed_at": "2026-07-15T13:59:03.342118+00:00"
+  },
+  {
+    "video_id": "_9MjvkgkY9c",
+    "title": "TheQuartering’s K Cup Crisis PR & Crying Victim After Starting War with Kino Casino (Jul 14, 2026)",
+    "source": "Elissa Clips",
+    "published": "2026-07-15T00:23:47+00:00",
+    "url": "https://www.youtube.com/watch?v=_9MjvkgkY9c",
+    "segment_count": 641,
+    "transcript_file": "transcripts/2026-07/TheQuartering’s K Cup Crisis PR & Crying Victim After Starting War with Kino Casino (Jul 14, 2026) [_9MjvkgkY9c].json",
+    "sha256": "19b3ea097d2d81aa12ebce5f75b15a49b67aa812973c0e795019a9f91b23f410",
+    "occurrence_count": 0,
+    "quote_count": 0,
+    "bundle_count": 0,
+    "narrative_count": 0,
+    "processed_at": "2026-07-15T13:59:08.565659+00:00"
+  },
+  {
     "video_id": "dcgJdp8BRKs",
     "title": "Professional Streamer TheQuartering - Gooners Gonna Goon (Jul 14, 2026)",
     "source": "Elissa Clips",
     "published": "2026-07-14T22:21:40+00:00",
     "url": "https://www.youtube.com/watch?v=dcgJdp8BRKs",
-    "language": "en",
-    "is_generated": true,
     "segment_count": 318,
     "transcript_file": "transcripts/2026-07/Professional Streamer TheQuartering - Gooners Gonna Goon (Jul 14, 2026) [dcgJdp8BRKs].json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026-07/Professional%20Streamer%20TheQuartering%20-%20Gooners%20Gonna%20Goon%20%28Jul%2014%2C%202026%29%20%5BdcgJdp8BRKs%5D.json",
-    "mention_counts": {
-      "TheQuartering": 3
-    }
+    "sha256": "fdae0f5f099947753d5898e30a5278101183923fd2033204d00ce7df29cabf01",
+    "occurrence_count": 0,
+    "quote_count": 0,
+    "bundle_count": 0,
+    "narrative_count": 0,
+    "processed_at": "2026-07-15T13:59:06.635252+00:00"
   },
   {
     "video_id": "iZU8Ozto3VQ",
@@ -20,14 +65,14 @@
     "source": "Elissa Clips",
     "published": "2026-07-14T21:56:51+00:00",
     "url": "https://www.youtube.com/watch?v=iZU8Ozto3VQ",
-    "language": "en",
-    "is_generated": true,
     "segment_count": 279,
     "transcript_file": "transcripts/2026-07/MATI Metokur & Cog Bend Over for Ethan Ralph (Jul 10, 2026) [iZU8Ozto3VQ].json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026-07/MATI%20Metokur%20%26%20Cog%20Bend%20Over%20for%20Ethan%20Ralph%20%28Jul%2010%2C%202026%29%20%5BiZU8Ozto3VQ%5D.json",
-    "mention_counts": {
-      "Ethan Van Sciver": 3
-    }
+    "sha256": "43796c0d4c616f06dd06a59730cca1e51784ab868db7e3e4a995ed69266e2ea4",
+    "occurrence_count": 0,
+    "quote_count": 0,
+    "bundle_count": 0,
+    "narrative_count": 0,
+    "processed_at": "2026-07-15T13:59:06.579880+00:00"
   },
   {
     "video_id": "Zmx83V8vKSU",
@@ -35,14 +80,29 @@
     "source": "Elissa Clips",
     "published": "2026-07-14T16:57:04+00:00",
     "url": "https://www.youtube.com/watch?v=Zmx83V8vKSU",
-    "language": "en",
-    "is_generated": true,
     "segment_count": 224,
     "transcript_file": "transcripts/2026-07/MATI TheQuartering’s Dropship Brand Dropship (Jul 10, 2026) [Zmx83V8vKSU].json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026-07/MATI%20TheQuartering%E2%80%99s%20Dropship%20Brand%20Dropship%20%28Jul%2010%2C%202026%29%20%5BZmx83V8vKSU%5D.json",
-    "mention_counts": {
-      "TheQuartering": 10
-    }
+    "sha256": "120929986a0d0b44d6325cf6325b0209beaae563f3fa81f945cf22de04c16b07",
+    "occurrence_count": 0,
+    "quote_count": 0,
+    "bundle_count": 0,
+    "narrative_count": 0,
+    "processed_at": "2026-07-15T13:59:06.589304+00:00"
+  },
+  {
+    "video_id": "jVMsgBTgicI",
+    "title": "Steel Toe gets hit with his very own HRO | #936",
+    "source": "Ministry of Dude",
+    "published": "2026-07-14T14:43:34+00:00",
+    "url": "https://www.youtube.com/watch?v=jVMsgBTgicI",
+    "segment_count": 3208,
+    "transcript_file": "transcripts/2026-07/Steel Toe gets hit with his very own HRO #936 [jVMsgBTgicI].json",
+    "sha256": "da82f95b5eb83d1350647b0c2726c1c994d154ecf60c6adfc939c16e3509dd21",
+    "occurrence_count": 3,
+    "quote_count": 5,
+    "bundle_count": 3,
+    "narrative_count": 3,
+    "processed_at": "2026-07-15T13:59:07.038972+00:00"
   },
   {
     "video_id": "7dsbRrEAJUo",
@@ -50,14 +110,14 @@
     "source": "Elissa Clips",
     "published": "2026-07-14T00:43:09+00:00",
     "url": "https://www.youtube.com/watch?v=7dsbRrEAJUo",
-    "language": "en",
-    "is_generated": true,
     "segment_count": 16,
     "transcript_file": "transcripts/2026-07/DDayCobra Hopes Chrissie Mayr Makes a Million Dollars (Jul 13, 2026) [7dsbRrEAJUo].json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026-07/DDayCobra%20Hopes%20Chrissie%20Mayr%20Makes%20a%20Million%20Dollars%20%28Jul%2013%2C%202026%29%20%5B7dsbRrEAJUo%5D.json",
-    "mention_counts": {
-      "Chrissie Mayr": 1
-    }
+    "sha256": "372a52ad54239737d7fea4609f8a631245fc9b8b01bfcebe36feb7abd439b330",
+    "occurrence_count": 0,
+    "quote_count": 0,
+    "bundle_count": 0,
+    "narrative_count": 0,
+    "processed_at": "2026-07-15T13:59:03.344598+00:00"
   },
   {
     "video_id": "Vj5FINXThF4",
@@ -65,16 +125,14 @@
     "source": "Elissa Clips",
     "published": "2026-07-13T23:29:23+00:00",
     "url": "https://www.youtube.com/watch?v=Vj5FINXThF4",
-    "language": "en",
-    "is_generated": true,
     "segment_count": 216,
     "transcript_file": "transcripts/2026-07/TheQuartering Friday Night Tights is a Huge Pword for Firing Chrissie Mayr (Jul 13, 2026) [Vj5FINXThF4].json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026-07/TheQuartering%20Friday%20Night%20Tights%20is%20a%20Huge%20Pword%20for%20Firing%20Chrissie%20Mayr%20%28Jul%2013%2C%202026%29%20%5BVj5FINXThF4%5D.json",
-    "mention_counts": {
-      "Chrissie Mayr": 1,
-      "Friday Night Tights": 1,
-      "TheQuartering": 1
-    }
+    "sha256": "a39bda71b68c73b8bfe2f6a3d08c5adb878309787711e251d8b61514e00346aa",
+    "occurrence_count": 0,
+    "quote_count": 0,
+    "bundle_count": 0,
+    "narrative_count": 0,
+    "processed_at": "2026-07-15T13:59:08.524987+00:00"
   },
   {
     "video_id": "LS_14uOaG2E",
@@ -82,33 +140,44 @@
     "source": "Ethan Van Sciver",
     "published": "2026-07-13T23:19:06+00:00",
     "url": "https://www.youtube.com/watch?v=LS_14uOaG2E",
-    "language": "en",
-    "is_generated": true,
     "segment_count": 5268,
     "transcript_file": "transcripts/2026/07/#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES! [LS_14uOaG2E].json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026/07/%23COMICSGATE%20KINGS%21%20ComicsGate%20Characters%20vs.%20VAMPIRES%21%20%5BLS_14uOaG2E%5D.json",
-    "mention_counts": {
-      "Shane Davis": 53,
-      "Ethan Van Sciver": 39,
-      "Chrissie Mayr": 15,
-      "Sturgis": 14,
-      "Yellow Flash": 9,
-      "TheQuartering": 8,
-      "ComicsGate": 7,
-      "Dick Masterson": 7,
-      "Liam Gray": 7,
-      "Frog Tony": 6,
-      "Friday Night Tights": 5,
-      "Cyberfrog": 4,
-      "Trashcast": 4,
-      "Jon Malin": 3,
-      "Cecil": 2,
-      "Kino Casino": 2,
-      "Nerdrotic": 2,
-      "Aaron Imholte": 1,
-      "Eric July": 1,
-      "Yanzi Lin": 1
-    }
+    "sha256": "1cf73d957c41fc6deefbc67c2f0d86d608f6eb22f9c56569376c5e0ce17fe6ba",
+    "occurrence_count": 4,
+    "quote_count": 7,
+    "bundle_count": 5,
+    "narrative_count": 5,
+    "processed_at": "2026-07-15T13:59:02.703793+00:00"
+  },
+  {
+    "video_id": "xG3Jg1rJ6nA",
+    "title": "Vito Disparaging EVS (TBPITU EPISODE #71) #comicsgate #comics #art",
+    "source": "Clippaverse",
+    "published": "2026-07-13T22:16:35+00:00",
+    "url": "https://www.youtube.com/shorts/xG3Jg1rJ6nA",
+    "segment_count": 9,
+    "transcript_file": "transcripts/2026-07/Vito Disparaging EVS (TBPITU EPISODE #71) #comicsgate #comics #art [xG3Jg1rJ6nA].json",
+    "sha256": "2b28f154c87f0575966a90bd1e664c4abbdaab3c0905bdeb969bf4b7c7ff596b",
+    "occurrence_count": 1,
+    "quote_count": 1,
+    "bundle_count": 1,
+    "narrative_count": 1,
+    "processed_at": "2026-07-15T13:59:08.661884+00:00"
+  },
+  {
+    "video_id": "YUpeiVaoNa0",
+    "title": "EVEN A STOPPED CLOCK IS CORRECT TWICE A DAY- Deniz Camp ACCURATELY Describes Right-Wing Comics Sites",
+    "source": "Ya Boi Zack",
+    "published": "2026-07-13T16:47:14+00:00",
+    "url": "https://www.youtube.com/watch?v=YUpeiVaoNa0",
+    "segment_count": 371,
+    "transcript_file": "transcripts/2026-07/EVEN A STOPPED CLOCK IS CORRECT TWICE A DAY- Deniz Camp ACCURATELY Describes Right-Wing Comics Sites [YUpeiVaoNa0].json",
+    "sha256": "c028056303d61d47947b724adbd203e8d838290223dc5f7616f67a938341ceda",
+    "occurrence_count": 0,
+    "quote_count": 0,
+    "bundle_count": 0,
+    "narrative_count": 0,
+    "processed_at": "2026-07-15T13:59:03.381302+00:00"
   },
   {
     "video_id": "3VGvnr2bjKw",
@@ -116,16 +185,29 @@
     "source": "Elissa Clips",
     "published": "2026-07-13T13:12:53+00:00",
     "url": "https://www.youtube.com/watch?v=3VGvnr2bjKw",
-    "language": "en",
-    "is_generated": null,
     "segment_count": 565,
     "transcript_file": "transcripts/2026/07/3VGvnr2bjKw.json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026/07/3VGvnr2bjKw.json",
-    "mention_counts": {
-      "Aaron Imholte": 26,
-      "Ethan Van Sciver": 1,
-      "TheQuartering": 1
-    }
+    "sha256": "c328775713340597f7e63a354ab6fad055d67cb8957def3cda8488aaa04c687d",
+    "occurrence_count": 0,
+    "quote_count": 0,
+    "bundle_count": 0,
+    "narrative_count": 0,
+    "processed_at": "2026-07-15T13:59:02.723653+00:00"
+  },
+  {
+    "video_id": "p4tTJHqHSRE",
+    "title": "Netflix NEEDS God! They Want Christian Viewers NOW?!",
+    "source": "Shane Davis",
+    "published": "2026-07-13T10:15:18+00:00",
+    "url": "https://www.youtube.com/watch?v=p4tTJHqHSRE",
+    "segment_count": 347,
+    "transcript_file": "transcripts/2026-07/Netflix NEEDS God! They Want Christian Viewers NOW! [p4tTJHqHSRE].json",
+    "sha256": "179230a9d240ead51d0284a573a616ba33756c77edf6d216b0f56d5d3f769776",
+    "occurrence_count": 0,
+    "quote_count": 0,
+    "bundle_count": 0,
+    "narrative_count": 0,
+    "processed_at": "2026-07-15T13:59:06.620845+00:00"
   },
   {
     "video_id": "zkW4zLSQ7eQ",
@@ -133,33 +215,14 @@
     "source": "Ethan Van Sciver",
     "published": "2026-07-13T06:01:02+00:00",
     "url": "https://www.youtube.com/watch?v=zkW4zLSQ7eQ",
-    "language": "en",
-    "is_generated": true,
     "segment_count": 6784,
     "transcript_file": "transcripts/2026/07/You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto! [zkW4zLSQ7eQ].json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026/07/You%20hit%20the%20JACKPOT%20on%20SPOOKY%20LINKS%21%20Time%20for%20TRASHCAST%20%23%20273%21%21%21%20Sturgis%20goes%20to%20PokePark%20Kanto%21%20%5BzkW4zLSQ7eQ%5D.json",
-    "mention_counts": {
-      "Liam Gray": 90,
-      "Ethan Van Sciver": 48,
-      "Sturgis": 42,
-      "Shane Davis": 32,
-      "Cyberfrog": 14,
-      "Frog Tony": 14,
-      "Eric July": 13,
-      "Dropbox Drama": 7,
-      "Cecil": 6,
-      "ComicsGate": 5,
-      "Dick Masterson": 4,
-      "TheQuartering": 3,
-      "Trashcast": 3,
-      "Jon Malin": 2,
-      "KatyDid": 2,
-      "Stray Beans": 2,
-      "Aaron Imholte": 1,
-      "Alpha Core": 1,
-      "BackMeBro": 1,
-      "Fencegate": 1
-    }
+    "sha256": "0edc2ee01755e37623c82ba9ba1a4d8a360986cdf9f50b8af2fed54dc8780870",
+    "occurrence_count": 31,
+    "quote_count": 55,
+    "bundle_count": 34,
+    "narrative_count": 34,
+    "processed_at": "2026-07-15T13:59:03.249862+00:00"
   },
   {
     "video_id": "9NJQwnK7qJg",
@@ -167,14 +230,14 @@
     "source": "Elissa Clips",
     "published": "2026-07-13T02:56:01+00:00",
     "url": "https://www.youtube.com/watch?v=9NJQwnK7qJg",
-    "language": "en",
-    "is_generated": true,
     "segment_count": 118,
     "transcript_file": "transcripts/2026/07/TheQuartering’s Mobility Scooter w Tuesday Night’s Main Event (Jul 7, 2026) [9NJQwnK7qJg].json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026/07/TheQuartering%E2%80%99s%20Mobility%20Scooter%20w%20Tuesday%20Night%E2%80%99s%20Main%20Event%20%28Jul%207%2C%202026%29%20%5B9NJQwnK7qJg%5D.json",
-    "mention_counts": {
-      "TheQuartering": 8
-    }
+    "sha256": "4e6f11dd726fdfa454aaee2500cc9988b5e3d232a2a05c6bbfa3354c5271b921",
+    "occurrence_count": 0,
+    "quote_count": 0,
+    "bundle_count": 0,
+    "narrative_count": 0,
+    "processed_at": "2026-07-15T13:59:03.181409+00:00"
   },
   {
     "video_id": "AnfyGS7ozeM",
@@ -182,14 +245,14 @@
     "source": "Elissa Clips",
     "published": "2026-07-13T00:56:25+00:00",
     "url": "https://www.youtube.com/watch?v=AnfyGS7ozeM",
-    "language": "en",
-    "is_generated": true,
     "segment_count": 855,
     "transcript_file": "transcripts/2026/07/Kino Casino JF Gariepy’s Love Quest Continues & an Obsession Review (Jul 8, 2026) [AnfyGS7ozeM].json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026/07/Kino%20Casino%20JF%20Gariepy%E2%80%99s%20Love%20Quest%20Continues%20%26%20an%20Obsession%20Review%20%28Jul%208%2C%202026%29%20%5BAnfyGS7ozeM%5D.json",
-    "mention_counts": {
-      "Dick Masterson": 1
-    }
+    "sha256": "6c59d6504f02bc524c7a2841a73497c5c808f188c04599ce49b9c0dddbd04cbb",
+    "occurrence_count": 0,
+    "quote_count": 0,
+    "bundle_count": 0,
+    "narrative_count": 0,
+    "processed_at": "2026-07-15T13:59:02.998562+00:00"
   },
   {
     "video_id": "K90vNVrRj38",
@@ -197,12 +260,14 @@
     "source": "Elissa Clips",
     "published": "2026-07-13T00:44:41+00:00",
     "url": "https://www.youtube.com/watch?v=K90vNVrRj38",
-    "language": "en",
-    "is_generated": true,
     "segment_count": 82,
     "transcript_file": "transcripts/2026/07/Rekieta Law Rumble Was a Mistake & Kick Has Potential (if he can get it working) Jul 11, 2026 [K90vNVrRj38].json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026/07/Rekieta%20Law%20Rumble%20Was%20a%20Mistake%20%26%20Kick%20Has%20Potential%20%28if%20he%20can%20get%20it%20working%29%20Jul%2011%2C%202026%20%5BK90vNVrRj38%5D.json",
-    "mention_counts": {}
+    "sha256": "69d0411969c231bed88bab3d2b8aad8a9f9b70392cbdf5152f699f83acd6a1ee",
+    "occurrence_count": 0,
+    "quote_count": 0,
+    "bundle_count": 0,
+    "narrative_count": 0,
+    "processed_at": "2026-07-15T13:59:03.058580+00:00"
   },
   {
     "video_id": "haKM6g11LrM",
@@ -210,14 +275,29 @@
     "source": "KatyDid",
     "published": "2026-07-12T14:33:02+00:00",
     "url": "https://www.youtube.com/watch?v=haKM6g11LrM",
-    "language": "en",
-    "is_generated": true,
     "segment_count": 220,
     "transcript_file": "transcripts/2026/07/Ethan Van Sciver Learns The Truth of DRONES! The Khola King Fear [haKM6g11LrM].json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026/07/Ethan%20Van%20Sciver%20Learns%20The%20Truth%20of%20DRONES%21%20The%20Khola%20King%20Fear%20%5BhaKM6g11LrM%5D.json",
-    "mention_counts": {
-      "Liam Gray": 9
-    }
+    "sha256": "52323a3e18ada0ac2ed643a077e5b30dff8092f12a8f328b111e608a60b14726",
+    "occurrence_count": 0,
+    "quote_count": 0,
+    "bundle_count": 0,
+    "narrative_count": 0,
+    "processed_at": "2026-07-15T13:59:02.832773+00:00"
+  },
+  {
+    "video_id": "yNnnMg6brR0",
+    "title": "It’s Rippaverse Day!",
+    "source": "Eric July",
+    "published": "2026-07-11T20:05:58+00:00",
+    "url": "https://www.youtube.com/shorts/yNnnMg6brR0",
+    "segment_count": 35,
+    "transcript_file": "transcripts/2026-07/It’s Rippaverse Day! [yNnnMg6brR0].json",
+    "sha256": "3ed85a27021237ddf586fc29762385ad674d19103c595c3e22d910feb0e3ae3a",
+    "occurrence_count": 0,
+    "quote_count": 0,
+    "bundle_count": 0,
+    "narrative_count": 0,
+    "processed_at": "2026-07-15T13:59:06.569464+00:00"
   },
   {
     "video_id": "Uy8eHEmKNWY",
@@ -225,17 +305,14 @@
     "source": "Elissa Clips",
     "published": "2026-07-11T18:46:43+00:00",
     "url": "https://www.youtube.com/watch?v=Uy8eHEmKNWY",
-    "language": "en",
-    "is_generated": true,
     "segment_count": 135,
     "transcript_file": "transcripts/2026/07/Kino Casino Nerdrotic Fires Chrissie Mayr from Friday Night Tights (Jul 10, 2026) [Uy8eHEmKNWY].json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026/07/Kino%20Casino%20Nerdrotic%20Fires%20Chrissie%20Mayr%20from%20Friday%20Night%20Tights%20%28Jul%2010%2C%202026%29%20%5BUy8eHEmKNWY%5D.json",
-    "mention_counts": {
-      "Chrissie Mayr": 16,
-      "Friday Night Tights": 3,
-      "Nerdrotic": 1,
-      "TheQuartering": 1
-    }
+    "sha256": "49c20a21bd946f33603fca88e4489321893c4e113a02bc6104a69bc1de02b34b",
+    "occurrence_count": 0,
+    "quote_count": 0,
+    "bundle_count": 0,
+    "narrative_count": 0,
+    "processed_at": "2026-07-15T13:59:03.007488+00:00"
   },
   {
     "video_id": "YJ3EPWpShMU",
@@ -243,14 +320,29 @@
     "source": "Elissa Clips",
     "published": "2026-07-11T17:52:41+00:00",
     "url": "https://www.youtube.com/watch?v=YJ3EPWpShMU",
-    "language": "en",
-    "is_generated": true,
     "segment_count": 193,
     "transcript_file": "transcripts/2026/07/Rekieta Law Aaron Imholte’s HRO Won’t Last Forever & the Daily Mail Article (Jul 10, 2026) [YJ3EPWpShMU].json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026/07/Rekieta%20Law%20Aaron%20Imholte%E2%80%99s%20HRO%20Won%E2%80%99t%20Last%20Forever%20%26%20the%20Daily%20Mail%20Article%20%28Jul%2010%2C%202026%29%20%5BYJ3EPWpShMU%5D.json",
-    "mention_counts": {
-      "Nick Rekieta": 4
-    }
+    "sha256": "3a4f0bf66f1437898e4672b3fa918aa36b9ec8d68849c4ac2bd34745ace5c430",
+    "occurrence_count": 0,
+    "quote_count": 0,
+    "bundle_count": 0,
+    "narrative_count": 0,
+    "processed_at": "2026-07-15T13:59:03.049145+00:00"
+  },
+  {
+    "video_id": "3q0Lk5Vap5U",
+    "title": "It's All Fine - Friday Special | #935",
+    "source": "Ministry of Dude",
+    "published": "2026-07-11T16:52:27+00:00",
+    "url": "https://www.youtube.com/watch?v=3q0Lk5Vap5U",
+    "segment_count": 3934,
+    "transcript_file": "transcripts/2026-07/It's All Fine - Friday Special #935 [3q0Lk5Vap5U].json",
+    "sha256": "a966d279ce9cc151605f20bf8ce5067c9e389066dad63770ae0a2d89172aae86",
+    "occurrence_count": 4,
+    "quote_count": 7,
+    "bundle_count": 5,
+    "narrative_count": 5,
+    "processed_at": "2026-07-15T13:59:06.563512+00:00"
   },
   {
     "video_id": "9OJNBEVnTBk",
@@ -258,16 +350,14 @@
     "source": "Frog Tony",
     "published": "2026-07-11T15:39:46+00:00",
     "url": "https://www.youtube.com/watch?v=9OJNBEVnTBk",
-    "language": "en",
-    "is_generated": true,
     "segment_count": 2621,
     "transcript_file": "transcripts/2026/07/JCW Lunacy #90 Watch Party [9OJNBEVnTBk].json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026/07/JCW%20Lunacy%20%2390%20Watch%20Party%20%5B9OJNBEVnTBk%5D.json",
-    "mention_counts": {
-      "Frog Tony": 28,
-      "Dick Masterson": 2,
-      "Vito Gesualdi": 1
-    }
+    "sha256": "04db2b7a116f663160d95632bec41ccc3c82c1a6a7f00c4ff9841b80b2d2ad74",
+    "occurrence_count": 12,
+    "quote_count": 14,
+    "bundle_count": 12,
+    "narrative_count": 12,
+    "processed_at": "2026-07-15T13:59:02.920192+00:00"
   },
   {
     "video_id": "66FqtP0Wves",
@@ -275,32 +365,29 @@
     "source": "Ethan Van Sciver",
     "published": "2026-07-11T04:50:41+00:00",
     "url": "https://www.youtube.com/watch?v=66FqtP0Wves",
-    "language": "en",
-    "is_generated": true,
     "segment_count": 5568,
     "transcript_file": "transcripts/2026/07/It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on WOKE! LANTERNS Spoilers! [66FqtP0Wves].json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026/07/It%27s%20OFFICIAL%21%20TRASHCAST%20%23272%20FIRES%20CHRISSIE%20MAYR%21%20ERICHETTE%20JULY%20on%20WOKE%21%20LANTERNS%20Spoilers%21%20%5B66FqtP0Wves%5D.json",
-    "mention_counts": {
-      "Liam Gray": 134,
-      "Ethan Van Sciver": 51,
-      "Cecil": 49,
-      "Chrissie Mayr": 49,
-      "TheQuartering": 33,
-      "Sturgis": 19,
-      "Nerdrotic": 15,
-      "Eric July": 13,
-      "Aaron Imholte": 12,
-      "Frog Tony": 10,
-      "Cyberfrog": 8,
-      "ComicsGate": 6,
-      "Trashcast": 5,
-      "Dick Masterson": 4,
-      "Shane Davis": 4,
-      "Yellow Flash": 3,
-      "Friday Night Tights": 2,
-      "Jon Del Arroz": 2,
-      "Kino Casino": 2
-    }
+    "sha256": "ffb0ea6c9d772895c1f75f1fa4d4e403dbdf325bc88967882570a4c3b18efe25",
+    "occurrence_count": 26,
+    "quote_count": 49,
+    "bundle_count": 29,
+    "narrative_count": 29,
+    "processed_at": "2026-07-15T13:59:02.892789+00:00"
+  },
+  {
+    "video_id": "8_9rhLQ1_cU",
+    "title": "The Ark Of Leem, LDA-King Stream",
+    "source": "FFS Cast",
+    "published": "2026-07-11T04:18:29+00:00",
+    "url": "https://www.youtube.com/watch?v=8_9rhLQ1_cU",
+    "segment_count": 7554,
+    "transcript_file": "transcripts/2026-07/The Ark Of Leem, LDA-King Stream [8_9rhLQ1_cU].json",
+    "sha256": "297a4305fd510d61f41523e26b43ec7ff76b9ef7314829060ac1373633643f3c",
+    "occurrence_count": 65,
+    "quote_count": 122,
+    "bundle_count": 68,
+    "narrative_count": 68,
+    "processed_at": "2026-07-15T13:59:08.512091+00:00"
   },
   {
     "video_id": "fSf1nYxE34A",
@@ -308,14 +395,14 @@
     "source": "Elissa Clips",
     "published": "2026-07-11T00:30:28+00:00",
     "url": "https://www.youtube.com/watch?v=fSf1nYxE34A",
-    "language": "en",
-    "is_generated": true,
     "segment_count": 26,
     "transcript_file": "transcripts/2026/07/Friday Night Tights Wishes Chrissie Mayr the Best (Jul 10, 2026) [fSf1nYxE34A].json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026/07/Friday%20Night%20Tights%20Wishes%20Chrissie%20Mayr%20the%20Best%20%28Jul%2010%2C%202026%29%20%5BfSf1nYxE34A%5D.json",
-    "mention_counts": {
-      "Chrissie Mayr": 3
-    }
+    "sha256": "4dd938c5076a41680d28073af1d99900d0681dd9b2a6b8c37873b4f03d3172b2",
+    "occurrence_count": 0,
+    "quote_count": 0,
+    "bundle_count": 0,
+    "narrative_count": 0,
+    "processed_at": "2026-07-15T13:59:02.865013+00:00"
   },
   {
     "video_id": "LdLy2G5TM4c",
@@ -323,21 +410,14 @@
     "source": "Commi3 Mark",
     "published": "2026-07-10T23:56:07+00:00",
     "url": "https://www.youtube.com/watch?v=LdLy2G5TM4c",
-    "language": "en",
-    "is_generated": true,
     "segment_count": 3158,
     "transcript_file": "transcripts/2026/07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026/07/ERIC%20JULY%2C%20ISOM%20%26%20RIPPAVERSE%27s%20MURDER%20MYSTERY%20ORIGIN%20STORY%20-%20COMICSGATE%20DRAMA%20RUSSIAN%20TROLL%20FACTORY%20%5BLdLy2G5TM4c%5D.json",
-    "mention_counts": {
-      "Eric July": 57,
-      "Jon Del Arroz": 10,
-      "Aaron Imholte": 5,
-      "Liam Gray": 4,
-      "Ethan Van Sciver": 3,
-      "Alpha Core": 1,
-      "Frog Tony": 1,
-      "Shane Davis": 1
-    }
+    "sha256": "84e722c35819ee95afddc870c2edc16f11bfdf0aaa7c83c462156f60e37c75af",
+    "occurrence_count": 16,
+    "quote_count": 34,
+    "bundle_count": 19,
+    "narrative_count": 19,
+    "processed_at": "2026-07-15T13:59:02.822881+00:00"
   },
   {
     "video_id": "R2AEOMp6S6M",
@@ -345,16 +425,14 @@
     "source": "Elissa Clips",
     "published": "2026-07-10T22:48:52+00:00",
     "url": "https://www.youtube.com/watch?v=R2AEOMp6S6M",
-    "language": "en",
-    "is_generated": true,
     "segment_count": 472,
     "transcript_file": "transcripts/2026/07/Jer the Ren Fair Creeper Returns This Weekend! & a Coffee Brand Cope Session w TheQuartering [R2AEOMp6S6M].json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026/07/Jer%20the%20Ren%20Fair%20Creeper%20Returns%20This%20Weekend%21%20%26%20a%20Coffee%20Brand%20Cope%20Session%20w%20TheQuartering%20%5BR2AEOMp6S6M%5D.json",
-    "mention_counts": {
-      "TheQuartering": 3,
-      "Dick Masterson": 1,
-      "Yellow Flash": 1
-    }
+    "sha256": "8c11864e492e8172f4a56430bd0607a88c4e7137ec8b4f94c7198e03a2ae9d89",
+    "occurrence_count": 0,
+    "quote_count": 0,
+    "bundle_count": 0,
+    "narrative_count": 0,
+    "processed_at": "2026-07-15T13:59:02.930584+00:00"
   },
   {
     "video_id": "nfZd95BuM5U",
@@ -362,15 +440,14 @@
     "source": "Elissa Clips",
     "published": "2026-07-10T20:05:26+00:00",
     "url": "https://www.youtube.com/watch?v=nfZd95BuM5U",
-    "language": "en",
-    "is_generated": true,
     "segment_count": 404,
     "transcript_file": "transcripts/2026/07/TONIGHT ON KINO CASINO!! TheQuartering CBC Dropship Confirmed! Total DSP Victory! Angry Joe & More!! [nfZd95BuM5U].json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026/07/TONIGHT%20ON%20KINO%20CASINO%21%21%20TheQuartering%20CBC%20Dropship%20Confirmed%21%20Total%20DSP%20Victory%21%20Angry%20Joe%20%26%20More%21%21%20%5BnfZd95BuM5U%5D.json",
-    "mention_counts": {
-      "Kino Casino": 1,
-      "TheQuartering": 1
-    }
+    "sha256": "40cefce273b57415662def1241de784ba26de185f02db37799350e3ce67f71cb",
+    "occurrence_count": 0,
+    "quote_count": 0,
+    "bundle_count": 0,
+    "narrative_count": 0,
+    "processed_at": "2026-07-15T13:59:03.190833+00:00"
   },
   {
     "video_id": "fq2D80GqXqQ",
@@ -378,18 +455,14 @@
     "source": "KatyDid",
     "published": "2026-07-10T20:05:14+00:00",
     "url": "https://www.youtube.com/watch?v=fq2D80GqXqQ",
-    "language": "en",
-    "is_generated": true,
     "segment_count": 538,
     "transcript_file": "transcripts/2026/07/Chrissie Mayr Officially FIRED from FRIDAY NIGHT TIGHTS j.A.C.k Show July 9th 2026 [fq2D80GqXqQ].json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026/07/Chrissie%20Mayr%20Officially%20FIRED%20from%20FRIDAY%20NIGHT%20TIGHTS%20j.A.C.k%20Show%20July%209th%202026%20%5Bfq2D80GqXqQ%5D.json",
-    "mention_counts": {
-      "Chrissie Mayr": 7,
-      "TheQuartering": 7,
-      "Nerdrotic": 4,
-      "Cecil": 3,
-      "Ethan Van Sciver": 1
-    }
+    "sha256": "3216dd4c0b04aeb081c5ca4ae51e90adfd38ee5feb487c61d1ee115b36ce10dd",
+    "occurrence_count": 1,
+    "quote_count": 4,
+    "bundle_count": 1,
+    "narrative_count": 1,
+    "processed_at": "2026-07-15T13:59:02.763829+00:00"
   },
   {
     "video_id": "O5BcX4ir3-0",
@@ -397,20 +470,14 @@
     "source": "KatyDid",
     "published": "2026-07-10T18:12:59+00:00",
     "url": "https://www.youtube.com/watch?v=O5BcX4ir3-0",
-    "language": "en",
-    "is_generated": true,
     "segment_count": 837,
     "transcript_file": "transcripts/2026/07/The Tribunal of Liam Gray DROPBOX DRAMA [O5BcX4ir3-0].json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026/07/The%20Tribunal%20of%20Liam%20Gray%20DROPBOX%20DRAMA%20%5BO5BcX4ir3-0%5D.json",
-    "mention_counts": {
-      "Liam Gray": 21,
-      "Dropbox Drama": 11,
-      "Stray Beans": 4,
-      "Trashcast": 2,
-      "Yellow Flash": 2,
-      "Ethan Van Sciver": 1,
-      "Frog Tony": 1
-    }
+    "sha256": "893c3739dcab4a8446132882e6acf081cb1ed512a215706bb78e158fc3947f10",
+    "occurrence_count": 2,
+    "quote_count": 7,
+    "bundle_count": 4,
+    "narrative_count": 4,
+    "processed_at": "2026-07-15T13:59:03.162589+00:00"
   },
   {
     "video_id": "xoq_kc-M_I8",
@@ -418,15 +485,29 @@
     "source": "Elissa Clips",
     "published": "2026-07-10T18:12:57+00:00",
     "url": "https://www.youtube.com/watch?v=xoq_kc-M_I8",
-    "language": "en",
-    "is_generated": true,
     "segment_count": 150,
     "transcript_file": "transcripts/2026/07/MATI The Rekieta Segment - Nontent Skelly’s Daily Mail Article (Jul 10, 2026) [xoq_kc-M_I8].json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026/07/MATI%20The%20Rekieta%20Segment%20-%20Nontent%20Skelly%E2%80%99s%20Daily%20Mail%20Article%20%28Jul%2010%2C%202026%29%20%5Bxoq_kc-M_I8%5D.json",
-    "mention_counts": {
-      "Nick Rekieta": 5,
-      "Aaron Imholte": 1
-    }
+    "sha256": "7b8432e108f135d39c8914f0da982372b933a4d1dc7c5b219e672c9b2a04d3f9",
+    "occurrence_count": 0,
+    "quote_count": 0,
+    "bundle_count": 0,
+    "narrative_count": 0,
+    "processed_at": "2026-07-15T13:59:03.038713+00:00"
+  },
+  {
+    "video_id": "T80sgrQa_kA",
+    "title": "Is Leem throwing in the towel?! | #934",
+    "source": "Ministry of Dude",
+    "published": "2026-07-10T14:37:05+00:00",
+    "url": "https://www.youtube.com/watch?v=T80sgrQa_kA",
+    "segment_count": 3165,
+    "transcript_file": "transcripts/2026-07/Is Leem throwing in the towel! #934 [T80sgrQa_kA].json",
+    "sha256": "687cbc9f68f16e46d0a792b7466e685fd8f8819823fe4d5b8530017fc0ff6a3a",
+    "occurrence_count": 4,
+    "quote_count": 5,
+    "bundle_count": 3,
+    "narrative_count": 3,
+    "processed_at": "2026-07-15T13:59:06.263433+00:00"
   },
   {
     "video_id": "HTrcwhelzCU",
@@ -434,18 +515,14 @@
     "source": "Elissa Clips",
     "published": "2026-07-10T13:42:14+00:00",
     "url": "https://www.youtube.com/watch?v=HTrcwhelzCU",
-    "language": "en",
-    "is_generated": true,
     "segment_count": 434,
     "transcript_file": "transcripts/2026/07/Chrissie Mayr Officially Fired from Friday Night Tights (Jul 9, 2026) [HTrcwhelzCU].json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026/07/Chrissie%20Mayr%20Officially%20Fired%20from%20Friday%20Night%20Tights%20%28Jul%209%2C%202026%29%20%5BHTrcwhelzCU%5D.json",
-    "mention_counts": {
-      "Chrissie Mayr": 7,
-      "TheQuartering": 7,
-      "Nerdrotic": 5,
-      "Cecil": 3,
-      "Ethan Van Sciver": 1
-    }
+    "sha256": "be5553f7976201789f061730593f0babef00404a014c72c24cf29d2ad30ebfbd",
+    "occurrence_count": 0,
+    "quote_count": 0,
+    "bundle_count": 0,
+    "narrative_count": 0,
+    "processed_at": "2026-07-15T13:59:02.754405+00:00"
   },
   {
     "video_id": "VBJwPPZ1LeY",
@@ -453,27 +530,14 @@
     "source": "Frog Tony",
     "published": "2026-07-10T07:46:34+00:00",
     "url": "https://www.youtube.com/watch?v=VBJwPPZ1LeY",
-    "language": "en",
-    "is_generated": true,
     "segment_count": 10483,
     "transcript_file": "transcripts/2026/07/Sturgis Went To Japan On Thirsty Thursday! [VBJwPPZ1LeY].json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026/07/Sturgis%20Went%20To%20Japan%20On%20Thirsty%20Thursday%21%20%5BVBJwPPZ1LeY%5D.json",
-    "mention_counts": {
-      "Dick Masterson": 78,
-      "Sturgis": 59,
-      "Liam Gray": 58,
-      "Frog Tony": 47,
-      "Vito Gesualdi": 18,
-      "Ethan Van Sciver": 13,
-      "Stray Beans": 11,
-      "Eric July": 5,
-      "ComicsGate": 3,
-      "Shane Davis": 3,
-      "Jon Del Arroz": 2,
-      "Cecil": 1,
-      "DarkGift Comics": 1,
-      "Fencegate": 1
-    }
+    "sha256": "c483a87a5349862c748c84e969714f8d21b672ac92602be547658137d287f916",
+    "occurrence_count": 554,
+    "quote_count": 683,
+    "bundle_count": 292,
+    "narrative_count": 292,
+    "processed_at": "2026-07-15T13:59:03.120056+00:00"
   },
   {
     "video_id": "lCn5jxcykGo",
@@ -481,12 +545,14 @@
     "source": "Elissa Clips",
     "published": "2026-07-10T02:21:44+00:00",
     "url": "https://www.youtube.com/watch?v=lCn5jxcykGo",
-    "language": "en",
-    "is_generated": true,
     "segment_count": 113,
     "transcript_file": "transcripts/2026/07/TheQuartering is Going to the Ren Fair (Jul 9, 2026) [lCn5jxcykGo].json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026/07/TheQuartering%20is%20Going%20to%20the%20Ren%20Fair%20%28Jul%209%2C%202026%29%20%5BlCn5jxcykGo%5D.json",
-    "mention_counts": {}
+    "sha256": "97229eee0a438c4c2d8dd60af2fec092e4e5a63f6d37e524d9ce30b62bc886fd",
+    "occurrence_count": 0,
+    "quote_count": 0,
+    "bundle_count": 0,
+    "narrative_count": 0,
+    "processed_at": "2026-07-15T13:59:03.172014+00:00"
   },
   {
     "video_id": "jMj649E220I",
@@ -494,14 +560,14 @@
     "source": "Elissa Clips",
     "published": "2026-07-10T00:33:20+00:00",
     "url": "https://www.youtube.com/watch?v=jMj649E220I",
-    "language": "en",
-    "is_generated": true,
     "segment_count": 240,
     "transcript_file": "transcripts/2026/07/Kino Casino Brad Cool’s Offer to TheQuartering & Jer’s DEFINITELY Banned from the Ren Fair Jul 2026 [jMj649E220I].json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026/07/Kino%20Casino%20Brad%20Cool%E2%80%99s%20Offer%20to%20TheQuartering%20%26%20Jer%E2%80%99s%20DEFINITELY%20Banned%20from%20the%20Ren%20Fair%20Jul%202026%20%5BjMj649E220I%5D.json",
-    "mention_counts": {
-      "TheQuartering": 8
-    }
+    "sha256": "dc6a2e52be60deb1353896e363e8907babb90c5a02756c39d84ad4cbd6ba17d0",
+    "occurrence_count": 0,
+    "quote_count": 0,
+    "bundle_count": 0,
+    "narrative_count": 0,
+    "processed_at": "2026-07-15T13:59:02.988149+00:00"
   },
   {
     "video_id": "atuAmOfu6no",
@@ -509,15 +575,14 @@
     "source": "KatyDid",
     "published": "2026-07-09T23:07:14+00:00",
     "url": "https://www.youtube.com/watch?v=atuAmOfu6no",
-    "language": "en",
-    "is_generated": true,
     "segment_count": 83,
     "transcript_file": "transcripts/2026/07/SHOUT OUT TO ALPHACORE #3!! Rippaverse @Jon_Malin [atuAmOfu6no].json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026/07/SHOUT%20OUT%20TO%20ALPHACORE%20%233%21%21%20Rippaverse%20%40Jon_Malin%20%5BatuAmOfu6no%5D.json",
-    "mention_counts": {
-      "Alpha Core": 8,
-      "Ethan Van Sciver": 1
-    }
+    "sha256": "6eccf0b9ccd4790285c0c6a4f9bd6fe909d520d62b884f53ca256ccf0e9f8971",
+    "occurrence_count": 0,
+    "quote_count": 0,
+    "bundle_count": 0,
+    "narrative_count": 0,
+    "processed_at": "2026-07-15T13:59:03.068472+00:00"
   },
   {
     "video_id": "lUXAeP8oPgw",
@@ -525,16 +590,89 @@
     "source": "Elissa Clips",
     "published": "2026-07-09T22:58:59+00:00",
     "url": "https://www.youtube.com/watch?v=lUXAeP8oPgw",
-    "language": "en",
-    "is_generated": true,
     "segment_count": 2466,
     "transcript_file": "transcripts/2026/07/Kino Casino TheQuartering Vlogs Ep. 1 (Jul 8, 2026) [lUXAeP8oPgw].json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026/07/Kino%20Casino%20TheQuartering%20Vlogs%20Ep.%201%20%28Jul%208%2C%202026%29%20%5BlUXAeP8oPgw%5D.json",
-    "mention_counts": {
-      "TheQuartering": 5,
-      "Ethan Van Sciver": 1,
-      "Kino Casino": 1
-    }
+    "sha256": "483410e71bd96fb40e7903c40d443fb7ab0550466cb2c1d1915ae30f2b7020af",
+    "occurrence_count": 0,
+    "quote_count": 0,
+    "bundle_count": 0,
+    "narrative_count": 0,
+    "processed_at": "2026-07-15T13:59:03.019395+00:00"
+  },
+  {
+    "video_id": "STNCdSrYxEc",
+    "title": "Are People ACTUALLY Tired of \"Wokeness?\"",
+    "source": "Eric July",
+    "published": "2026-07-09T15:47:15+00:00",
+    "url": "https://www.youtube.com/watch?v=STNCdSrYxEc",
+    "segment_count": 231,
+    "transcript_file": "transcripts/2026-07/Are People ACTUALLY Tired of Wokeness [STNCdSrYxEc].json",
+    "sha256": "9c75c0c8b0a9c38feaf86a7ef89990ab26f900bb4f3dea919f4de5bcf6bc8135",
+    "occurrence_count": 0,
+    "quote_count": 0,
+    "bundle_count": 0,
+    "narrative_count": 0,
+    "processed_at": "2026-07-15T13:59:03.301943+00:00"
+  },
+  {
+    "video_id": "ims2nZAnn-s",
+    "title": "F - IT: We Are Soooooo Back (AGANE)",
+    "source": "Piper",
+    "published": "2026-07-09T03:55:54+00:00",
+    "url": "https://www.youtube.com/watch?v=ims2nZAnn-s",
+    "segment_count": 3779,
+    "transcript_file": "transcripts/2026-07/F - IT We Are Soooooo Back (AGANE) [ims2nZAnn-s].json",
+    "sha256": "a93627b321d7f466a118c6e2c3ee6c2f6743b951d047b273b8d84b8be2b68dc1",
+    "occurrence_count": 9,
+    "quote_count": 11,
+    "bundle_count": 7,
+    "narrative_count": 7,
+    "processed_at": "2026-07-15T13:59:03.748342+00:00"
+  },
+  {
+    "video_id": "k3BD76GAF6I",
+    "title": "Nice and Easy - tunes with q",
+    "source": "ComicsGate Commandos",
+    "published": "2026-07-09T03:22:48+00:00",
+    "url": "https://www.youtube.com/watch?v=k3BD76GAF6I",
+    "segment_count": 38,
+    "transcript_file": "transcripts/2026-07/Nice and Easy - tunes with q [k3BD76GAF6I].json",
+    "sha256": "8c864293be894b39a47bc3f93bbba3fb703548b4da89312dc915e2ff824e5d7d",
+    "occurrence_count": 0,
+    "quote_count": 0,
+    "bundle_count": 0,
+    "narrative_count": 0,
+    "processed_at": "2026-07-15T13:59:06.624812+00:00"
+  },
+  {
+    "video_id": "mDEdnIK_uuc",
+    "title": "More - tunes with q",
+    "source": "ComicsGate Commandos",
+    "published": "2026-07-09T03:17:03+00:00",
+    "url": "https://www.youtube.com/watch?v=mDEdnIK_uuc",
+    "segment_count": 39,
+    "transcript_file": "transcripts/2026-07/More - tunes with q [mDEdnIK_uuc].json",
+    "sha256": "77fe44aeba95323309e987bfcb83ee9e0f7aa28d0ac9d45b361df26bd02f27ab",
+    "occurrence_count": 0,
+    "quote_count": 0,
+    "bundle_count": 0,
+    "narrative_count": 0,
+    "processed_at": "2026-07-15T13:59:06.592573+00:00"
+  },
+  {
+    "video_id": "Sd_qKoB4Kjk",
+    "title": "Under New Management",
+    "source": "Liam Gray",
+    "published": "2026-07-09T02:57:16+00:00",
+    "url": "https://www.youtube.com/watch?v=Sd_qKoB4Kjk",
+    "segment_count": 1384,
+    "transcript_file": "transcripts/2026-07/Under New Management [Sd_qKoB4Kjk].json",
+    "sha256": "8c56850d74d426180472ac0b04bf021d3d2effe181dafb0fc153b354aa545e64",
+    "occurrence_count": 0,
+    "quote_count": 0,
+    "bundle_count": 0,
+    "narrative_count": 0,
+    "processed_at": "2026-07-15T13:59:08.657419+00:00"
   },
   {
     "video_id": "ErvISz34rtE",
@@ -542,14 +680,29 @@
     "source": "Elissa Clips",
     "published": "2026-07-09T00:21:23+00:00",
     "url": "https://www.youtube.com/watch?v=ErvISz34rtE",
-    "language": "en",
-    "is_generated": true,
     "segment_count": 441,
     "transcript_file": "transcripts/2026/07/Coffee Brand Coffee’s Wednesday Meeting w Jeremy Hambly TheQuartering (Jul 8, 2026) [ErvISz34rtE].json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026/07/Coffee%20Brand%20Coffee%E2%80%99s%20Wednesday%20Meeting%20w%20Jeremy%20Hambly%20TheQuartering%20%28Jul%208%2C%202026%29%20%5BErvISz34rtE%5D.json",
-    "mention_counts": {
-      "TheQuartering": 4
-    }
+    "sha256": "19ec8036f632e2c556fbf24996f073508fb4ee52d1c2a317c7ffca58d84eb3a9",
+    "occurrence_count": 0,
+    "quote_count": 0,
+    "bundle_count": 0,
+    "narrative_count": 0,
+    "processed_at": "2026-07-15T13:59:02.773253+00:00"
+  },
+  {
+    "video_id": "pltu7sa30D8",
+    "title": "Scarlett lives her best life | #932",
+    "source": "Ministry of Dude",
+    "published": "2026-07-08T21:44:21+00:00",
+    "url": "https://www.youtube.com/watch?v=pltu7sa30D8",
+    "segment_count": 2081,
+    "transcript_file": "transcripts/2026-07/Scarlett lives her best life #932 [pltu7sa30D8].json",
+    "sha256": "e6a98934455996a283c4844217b378be49ee2475f9d550277560cf9c6060b5f6",
+    "occurrence_count": 2,
+    "quote_count": 2,
+    "bundle_count": 1,
+    "narrative_count": 1,
+    "processed_at": "2026-07-15T13:59:06.753276+00:00"
   },
   {
     "video_id": "2m31Eip6Cmg",
@@ -557,19 +710,14 @@
     "source": "KatyDid",
     "published": "2026-07-08T15:54:46+00:00",
     "url": "https://www.youtube.com/watch?v=2m31Eip6Cmg",
-    "language": "en",
-    "is_generated": true,
     "segment_count": 1111,
     "transcript_file": "transcripts/2026/07/CG AFTER DARK #35 [2m31Eip6Cmg].json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026/07/CG%20AFTER%20DARK%20%2335%20%5B2m31Eip6Cmg%5D.json",
-    "mention_counts": {
-      "Vito Gesualdi": 37,
-      "Dick Masterson": 23,
-      "Liam Gray": 6,
-      "Frog Tony": 3,
-      "Cecil": 1,
-      "ComicsGate": 1
-    }
+    "sha256": "1c557165f0355cec9ac9d90926ba282b376d4b2733b2489e49024a8adfb4fc61",
+    "occurrence_count": 47,
+    "quote_count": 54,
+    "bundle_count": 32,
+    "narrative_count": 32,
+    "processed_at": "2026-07-15T13:59:02.744485+00:00"
   },
   {
     "video_id": "V1nqAzwILiM",
@@ -577,17 +725,29 @@
     "source": "KatyDid",
     "published": "2026-07-08T12:40:22+00:00",
     "url": "https://www.youtube.com/watch?v=V1nqAzwILiM",
-    "language": "en",
-    "is_generated": true,
     "segment_count": 280,
     "transcript_file": "transcripts/2026/07/Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! TRASHCAST [V1nqAzwILiM].json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026/07/Why%20Vito%20%26%20Liam%20Gray%20are%20BOTH%20lolcows%21%20EVS%20laughs%20over%20FENCEGATE%21%20TRASHCAST%20%5BV1nqAzwILiM%5D.json",
-    "mention_counts": {
-      "Liam Gray": 33,
-      "Fencegate": 10,
-      "Yellow Flash": 2,
-      "Ethan Van Sciver": 1
-    }
+    "sha256": "fdd0092b4bfa406d2ee9cb2c3387b79df1f79703cf88c7d8a400bb5222227b82",
+    "occurrence_count": 3,
+    "quote_count": 6,
+    "bundle_count": 5,
+    "narrative_count": 5,
+    "processed_at": "2026-07-15T13:59:03.230022+00:00"
+  },
+  {
+    "video_id": "3up8iIaCs_E",
+    "title": "Absolute Batman Scam? Mark Brooks Exposes How Retailers Screw Artists!",
+    "source": "Shane Davis",
+    "published": "2026-07-08T10:15:11+00:00",
+    "url": "https://www.youtube.com/watch?v=3up8iIaCs_E",
+    "segment_count": 391,
+    "transcript_file": "transcripts/2026-07/Absolute Batman Scam Mark Brooks Exposes How Retailers Screw Artists! [3up8iIaCs_E].json",
+    "sha256": "8a259dd17b6078951fa466a43f2f83968d5b0e45af075b9cb64092eabc8805c8",
+    "occurrence_count": 0,
+    "quote_count": 0,
+    "bundle_count": 0,
+    "narrative_count": 0,
+    "processed_at": "2026-07-15T13:59:03.281110+00:00"
   },
   {
     "video_id": "7LMz5W0-mLs",
@@ -595,26 +755,59 @@
     "source": "Frog Tony",
     "published": "2026-07-08T05:22:18+00:00",
     "url": "https://www.youtube.com/watch?v=7LMz5W0-mLs",
-    "language": "en",
-    "is_generated": true,
     "segment_count": 6756,
     "transcript_file": "transcripts/2026/07/Finbarr STOMPS A Dwarf! - OPEN PANEL MADHOUSE!!!! [7LMz5W0-mLs].json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026/07/Finbarr%20STOMPS%20A%20Dwarf%21%20-%20OPEN%20PANEL%20MADHOUSE%21%21%21%21%20%5B7LMz5W0-mLs%5D.json",
-    "mention_counts": {
-      "Liam Gray": 169,
-      "Frog Tony": 115,
-      "DarkGift Comics": 11,
-      "Dropbox Drama": 7,
-      "Dick Masterson": 5,
-      "Stray Beans": 5,
-      "Ethan Van Sciver": 4,
-      "Eric July": 3,
-      "Fencegate": 3,
-      "KatyDid": 3,
-      "Sturgis": 2,
-      "Shane Davis": 1,
-      "Yellow Flash": 1
-    }
+    "sha256": "60ca89425729792e55f8246807094bb80e2fee349484c777e442a39ec0311151",
+    "occurrence_count": 50,
+    "quote_count": 90,
+    "bundle_count": 52,
+    "narrative_count": 52,
+    "processed_at": "2026-07-15T13:59:02.862533+00:00"
+  },
+  {
+    "video_id": "MmvMoleX9Ls",
+    "title": "Gabbing With Ga......You Know",
+    "source": "FFS Cast",
+    "published": "2026-07-08T03:33:10+00:00",
+    "url": "https://www.youtube.com/watch?v=MmvMoleX9Ls",
+    "segment_count": 6034,
+    "transcript_file": "transcripts/2026-07/Gabbing With Ga......You Know [MmvMoleX9Ls].json",
+    "sha256": "4209555d2ce403e208d0dbd5bb252b6693154122f01521a2566914f04a899fa5",
+    "occurrence_count": 51,
+    "quote_count": 87,
+    "bundle_count": 53,
+    "narrative_count": 53,
+    "processed_at": "2026-07-15T13:59:04.885011+00:00"
+  },
+  {
+    "video_id": "cIjp7l5KBfA",
+    "title": "Why the \"World Sport\" is different...",
+    "source": "Eric July",
+    "published": "2026-07-07T22:18:34+00:00",
+    "url": "https://www.youtube.com/watch?v=cIjp7l5KBfA",
+    "segment_count": 118,
+    "transcript_file": "transcripts/2026-07/Why the World Sport is different [cIjp7l5KBfA].json",
+    "sha256": "448ab48df8dc785a54f8f60002fa61c7504aa355674950f6025df794680a6b0b",
+    "occurrence_count": 0,
+    "quote_count": 0,
+    "bundle_count": 0,
+    "narrative_count": 0,
+    "processed_at": "2026-07-15T13:59:08.679243+00:00"
+  },
+  {
+    "video_id": "4sQhgipvxyU",
+    "title": "I said Columbia, but Ralph just went to more Messico | #931",
+    "source": "Ministry of Dude",
+    "published": "2026-07-07T14:46:31+00:00",
+    "url": "https://www.youtube.com/watch?v=4sQhgipvxyU",
+    "segment_count": 2855,
+    "transcript_file": "transcripts/2026-07/I said Columbia, but Ralph just went to more Messico #931 [4sQhgipvxyU].json",
+    "sha256": "f602b4ebf1d0b7ba74e7aa370da0389e0d5d4794a663480c156dca93a617d0cd",
+    "occurrence_count": 11,
+    "quote_count": 15,
+    "bundle_count": 10,
+    "narrative_count": 10,
+    "processed_at": "2026-07-15T13:59:06.058585+00:00"
   },
   {
     "video_id": "RxZ_OdBN2f0",
@@ -622,31 +815,14 @@
     "source": "Frog Tony",
     "published": "2026-07-07T05:46:59+00:00",
     "url": "https://www.youtube.com/watch?v=RxZ_OdBN2f0",
-    "language": "en",
-    "is_generated": true,
     "segment_count": 6732,
     "transcript_file": "transcripts/2026/07/Katydid Caught LYING AGAIN! - Detractor Kings [RxZ_OdBN2f0].json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026/07/Katydid%20Caught%20LYING%20AGAIN%21%20-%20Detractor%20Kings%20%5BRxZ_OdBN2f0%5D.json",
-    "mention_counts": {
-      "Frog Tony": 98,
-      "Dick Masterson": 85,
-      "Ethan Van Sciver": 28,
-      "Liam Gray": 26,
-      "Eric July": 24,
-      "Jon Del Arroz": 15,
-      "ComicsGate": 14,
-      "Sturgis": 8,
-      "Nerdrotic": 6,
-      "Stray Beans": 6,
-      "Vito Gesualdi": 6,
-      "DarkGift Comics": 5,
-      "KatyDid": 2,
-      "Shane Davis": 2,
-      "TheQuartering": 2,
-      "Little Movie Perp": 1,
-      "Nick Rekieta": 1,
-      "Trashcast": 1
-    }
+    "sha256": "d79b8ccdc62c2ec40e3d63bed1fe0bdff28fc9d6d404aca585c7b7aaeb5d9800",
+    "occurrence_count": 256,
+    "quote_count": 337,
+    "bundle_count": 166,
+    "narrative_count": 166,
+    "processed_at": "2026-07-15T13:59:02.978228+00:00"
   },
   {
     "video_id": "Zd9PVsLAD5c",
@@ -654,24 +830,14 @@
     "source": "Ethan Van Sciver",
     "published": "2026-07-07T04:26:42+00:00",
     "url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c",
-    "language": "en",
-    "is_generated": true,
     "segment_count": 5302,
     "transcript_file": "transcripts/2026/07/COMICSGATE KINGS Let's draw GOTHAM characters! [Zd9PVsLAD5c].json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026/07/COMICSGATE%20KINGS%20Let%27s%20draw%20GOTHAM%20characters%21%20%5BZd9PVsLAD5c%5D.json",
-    "mention_counts": {
-      "Shane Davis": 50,
-      "Ethan Van Sciver": 34,
-      "Frog Tony": 14,
-      "Aaron Imholte": 6,
-      "ComicsGate": 5,
-      "BackMeBro": 4,
-      "Cyberfrog": 4,
-      "Yanzi Lin": 4,
-      "Dick Masterson": 3,
-      "Jon Malin": 3,
-      "Liam Gray": 1
-    }
+    "sha256": "5968f446428d89c0a4925ce5fb7d9a89a69c3b626e111e99aa5526cd8e3a0271",
+    "occurrence_count": 6,
+    "quote_count": 10,
+    "bundle_count": 9,
+    "narrative_count": 9,
+    "processed_at": "2026-07-15T13:59:02.789125+00:00"
   },
   {
     "video_id": "lYws0Rqt8Bs",
@@ -679,22 +845,14 @@
     "source": "Frog Tony",
     "published": "2026-07-06T04:14:55+00:00",
     "url": "https://www.youtube.com/watch?v=lYws0Rqt8Bs",
-    "language": "en",
-    "is_generated": true,
     "segment_count": 4203,
     "transcript_file": "transcripts/2026/07/Supergirl BOMBS And Might END The DCU! - CG Suburbs [lYws0Rqt8Bs].json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026/07/Supergirl%20BOMBS%20And%20Might%20END%20The%20DCU%21%20-%20CG%20Suburbs%20%5BlYws0Rqt8Bs%5D.json",
-    "mention_counts": {
-      "Frog Tony": 24,
-      "Liam Gray": 19,
-      "Stray Beans": 4,
-      "Eric July": 3,
-      "Dick Masterson": 2,
-      "ComicsGate": 1,
-      "Ethan Van Sciver": 1,
-      "Fencegate": 1,
-      "Little Movie Perp": 1
-    }
+    "sha256": "f763f46a0535df17a99f39b527e192fd6371a6b9ef3abf1f11c8621beecbe583",
+    "occurrence_count": 6,
+    "quote_count": 13,
+    "bundle_count": 7,
+    "narrative_count": 7,
+    "processed_at": "2026-07-15T13:59:03.135681+00:00"
   },
   {
     "video_id": "Uf6bzqxJAAk",
@@ -702,20 +860,14 @@
     "source": "KatyDid",
     "published": "2026-07-06T01:43:35+00:00",
     "url": "https://www.youtube.com/watch?v=Uf6bzqxJAAk",
-    "language": "en",
-    "is_generated": true,
     "segment_count": 556,
     "transcript_file": "transcripts/2026/07/TRASHCAST #265 The Khola King & Ethan Van Sciver Exchange [Uf6bzqxJAAk].json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026/07/TRASHCAST%20%23265%20The%20Khola%20King%20%26%20Ethan%20Van%20Sciver%20Exchange%20%5BUf6bzqxJAAk%5D.json",
-    "mention_counts": {
-      "Liam Gray": 34,
-      "Ethan Van Sciver": 5,
-      "Nick Rekieta": 3,
-      "Yellow Flash": 2,
-      "DarkGift Comics": 1,
-      "Eric July": 1,
-      "TheQuartering": 1
-    }
+    "sha256": "9ea66cf8f90a58c77f28724fb69ea993417c706b524a51ed5c4dec33b97ed2f2",
+    "occurrence_count": 8,
+    "quote_count": 14,
+    "bundle_count": 6,
+    "narrative_count": 6,
+    "processed_at": "2026-07-15T13:59:03.219607+00:00"
   },
   {
     "video_id": "X0hbv1uKEGA",
@@ -723,20 +875,14 @@
     "source": "KatyDid",
     "published": "2026-07-04T22:09:49+00:00",
     "url": "https://www.youtube.com/watch?v=X0hbv1uKEGA",
-    "language": "en",
-    "is_generated": true,
     "segment_count": 390,
     "transcript_file": "transcripts/2026/07/Becoming All Powerful & the Ultimate Underdog! [X0hbv1uKEGA].json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026/07/Becoming%20All%20Powerful%20%26%20the%20Ultimate%20Underdog%21%20%5BX0hbv1uKEGA%5D.json",
-    "mention_counts": {
-      "Liam Gray": 16,
-      "Ethan Van Sciver": 5,
-      "Stray Beans": 3,
-      "Shane Davis": 2,
-      "ComicsGate": 1,
-      "Eric July": 1,
-      "Jon Malin": 1
-    }
+    "sha256": "f8df9d86ea071445c1e95f96e343baf17fc49365345f279c0fea98da50037348",
+    "occurrence_count": 3,
+    "quote_count": 3,
+    "bundle_count": 2,
+    "narrative_count": 2,
+    "processed_at": "2026-07-15T13:59:02.733574+00:00"
   },
   {
     "video_id": "x7BWNaTUIpQ",
@@ -744,16 +890,14 @@
     "source": "KatyDid",
     "published": "2026-07-04T20:45:28+00:00",
     "url": "https://www.youtube.com/watch?v=x7BWNaTUIpQ",
-    "language": "en",
-    "is_generated": true,
     "segment_count": 352,
     "transcript_file": "transcripts/2026/07/Liam Gray and His Mighty Chalice Anna TSWG, Cecil, Rekieta and more [x7BWNaTUIpQ].json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026/07/Liam%20Gray%20and%20His%20Mighty%20Chalice%20Anna%20TSWG%2C%20Cecil%2C%20Rekieta%20and%20more%20%5Bx7BWNaTUIpQ%5D.json",
-    "mention_counts": {
-      "Cecil": 9,
-      "Liam Gray": 8,
-      "Jon Malin": 3
-    }
+    "sha256": "12f94ee612acc024e970a080a73250ff1bb7bffb054d7008c7f2841075320ed7",
+    "occurrence_count": 2,
+    "quote_count": 3,
+    "bundle_count": 1,
+    "narrative_count": 1,
+    "processed_at": "2026-07-15T13:59:03.028793+00:00"
   },
   {
     "video_id": "IGwEBXZDVt0",
@@ -761,20 +905,14 @@
     "source": "KatyDid",
     "published": "2026-07-04T15:15:35+00:00",
     "url": "https://www.youtube.com/watch?v=IGwEBXZDVt0",
-    "language": "en",
-    "is_generated": true,
     "segment_count": 2040,
     "transcript_file": "transcripts/2026/07/The Biggest Problem in the Universe Comes to an END! [IGwEBXZDVt0].json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026/07/The%20Biggest%20Problem%20in%20the%20Universe%20Comes%20to%20an%20END%21%20%5BIGwEBXZDVt0%5D.json",
-    "mention_counts": {
-      "Dick Masterson": 21,
-      "Eric July": 12,
-      "Frog Tony": 11,
-      "Ethan Van Sciver": 6,
-      "Liam Gray": 4,
-      "Vito Gesualdi": 2,
-      "Cyberfrog": 1
-    }
+    "sha256": "ffc3b4c39ff2c8e6711219acf540231be5307e65d9eb5c2f531c89f69e9d3de8",
+    "occurrence_count": 83,
+    "quote_count": 132,
+    "bundle_count": 72,
+    "narrative_count": 72,
+    "processed_at": "2026-07-15T13:59:03.152203+00:00"
   },
   {
     "video_id": "odC_ijF0FE4",
@@ -782,20 +920,14 @@
     "source": "Frog Tony",
     "published": "2026-07-04T14:28:36+00:00",
     "url": "https://www.youtube.com/watch?v=odC_ijF0FE4",
-    "language": "en",
-    "is_generated": true,
     "segment_count": 2841,
     "transcript_file": "transcripts/2026/07/JCW Lunacy #89 Watch Party [odC_ijF0FE4].json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026/07/JCW%20Lunacy%20%2389%20Watch%20Party%20%5BodC_ijF0FE4%5D.json",
-    "mention_counts": {
-      "Frog Tony": 37,
-      "Dick Masterson": 14,
-      "Vito Gesualdi": 8,
-      "Ethan Van Sciver": 3,
-      "Liam Gray": 2,
-      "Shane Davis": 1,
-      "TheQuartering": 1
-    }
+    "sha256": "8cf422867ef091cbcf52204175f75f96cfa30860dc4d52574262ed936687b056",
+    "occurrence_count": 51,
+    "quote_count": 67,
+    "bundle_count": 40,
+    "narrative_count": 40,
+    "processed_at": "2026-07-15T13:59:02.907793+00:00"
   },
   {
     "video_id": "ibGd2AqrEXg",
@@ -803,26 +935,14 @@
     "source": "Commi3 Mark",
     "published": "2026-07-03T23:55:22+00:00",
     "url": "https://www.youtube.com/watch?v=ibGd2AqrEXg",
-    "language": "en",
-    "is_generated": true,
     "segment_count": 3476,
     "transcript_file": "transcripts/2026/07/JON DEL ARROZ HERES THE ATTENTION YOU ORDERED - SHANE DAVIS BACK ME BRO INTERNET BEEF - EXTRA SALTY [ibGd2AqrEXg].json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026/07/JON%20DEL%20ARROZ%20HERES%20THE%20ATTENTION%20YOU%20ORDERED%20-%20SHANE%20DAVIS%20BACK%20ME%20BRO%20INTERNET%20BEEF%20-%20EXTRA%20SALTY%20%5BibGd2AqrEXg%5D.json",
-    "mention_counts": {
-      "Jon Del Arroz": 67,
-      "Shane Davis": 36,
-      "Ethan Van Sciver": 14,
-      "Eric July": 12,
-      "ComicsGate": 10,
-      "BackMeBro": 5,
-      "Frog Tony": 4,
-      "Liam Gray": 3,
-      "Aaron Imholte": 1,
-      "Cyberfrog": 1,
-      "DarkGift Comics": 1,
-      "Stray Beans": 1,
-      "Yanzi Lin": 1
-    }
+    "sha256": "0cc8214214d4891d2b9f454057203b55b02145b33d595a153721339862a628c2",
+    "occurrence_count": 80,
+    "quote_count": 131,
+    "bundle_count": 83,
+    "narrative_count": 83,
+    "processed_at": "2026-07-15T13:59:02.948440+00:00"
   },
   {
     "video_id": "edPpkg2kim4",
@@ -830,22 +950,14 @@
     "source": "KatyDid",
     "published": "2026-07-03T19:49:19+00:00",
     "url": "https://www.youtube.com/watch?v=edPpkg2kim4",
-    "language": "en",
-    "is_generated": true,
     "segment_count": 921,
     "transcript_file": "transcripts/2026/07/I REPORTED THE DROPBOX! Liam Gray Responds to EVS Reacting To A Viral Clip [edPpkg2kim4].json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026/07/I%20REPORTED%20THE%20DROPBOX%21%20Liam%20Gray%20Responds%20to%20EVS%20Reacting%20To%20A%20Viral%20Clip%20%5BedPpkg2kim4%5D.json",
-    "mention_counts": {
-      "Dropbox Drama": 30,
-      "Ethan Van Sciver": 30,
-      "Liam Gray": 26,
-      "DarkGift Comics": 6,
-      "Jon Del Arroz": 1,
-      "Little Movie Perp": 1,
-      "Nerdrotic": 1,
-      "TheQuartering": 1,
-      "Yellow Flash": 1
-    }
+    "sha256": "cd03d033750e975fb6a2e71083612d886b6242db019bfd68ddab28eaa39036d1",
+    "occurrence_count": 6,
+    "quote_count": 19,
+    "bundle_count": 8,
+    "narrative_count": 8,
+    "processed_at": "2026-07-15T13:59:02.874933+00:00"
   },
   {
     "video_id": "7JzZNez4ZBE",
@@ -853,20 +965,14 @@
     "source": "KatyDid",
     "published": "2026-07-03T16:57:45+00:00",
     "url": "https://www.youtube.com/watch?v=7JzZNez4ZBE",
-    "language": "en",
-    "is_generated": true,
     "segment_count": 997,
     "transcript_file": "transcripts/2026/07/FFS Shane Davis Stops By! Discusses JDA & BACKmeBro [7JzZNez4ZBE].json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026/07/FFS%20Shane%20Davis%20Stops%20By%21%20Discusses%20JDA%20%26%20BACKmeBro%20%5B7JzZNez4ZBE%5D.json",
-    "mention_counts": {
-      "Shane Davis": 16,
-      "BackMeBro": 7,
-      "Jon Del Arroz": 7,
-      "Ethan Van Sciver": 4,
-      "ComicsGate": 3,
-      "Dick Masterson": 2,
-      "Rippaverse": 1
-    }
+    "sha256": "bffce91cac56ed6dd98418fc2eb0d38fcde0be2f464a0517a76df432ded23d7f",
+    "occurrence_count": 7,
+    "quote_count": 13,
+    "bundle_count": 8,
+    "narrative_count": 8,
+    "processed_at": "2026-07-15T13:59:02.842693+00:00"
   },
   {
     "video_id": "HpCU9xQ1G4E",
@@ -874,17 +980,14 @@
     "source": "KatyDid",
     "published": "2026-07-03T12:21:34+00:00",
     "url": "https://www.youtube.com/watch?v=HpCU9xQ1G4E",
-    "language": "en",
-    "is_generated": true,
     "segment_count": 227,
     "transcript_file": "transcripts/2026/07/(RE-UPLOAD)The Aftermath Of Frog Tony's EMBARRASSING appearance on The Biggest Problem [HpCU9xQ1G4E].json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026/07/%28RE-UPLOAD%29The%20Aftermath%20Of%20Frog%20Tony%27s%20EMBARRASSING%20appearance%20on%20The%20Biggest%20Problem%20%5BHpCU9xQ1G4E%5D.json",
-    "mention_counts": {
-      "Frog Tony": 23,
-      "Vito Gesualdi": 5,
-      "Dick Masterson": 2,
-      "Liam Gray": 2
-    }
+    "sha256": "5ab003b8798f6638fb93138321d74eea3c86690eb9b0703fb645d3b66f570fbc",
+    "occurrence_count": 15,
+    "quote_count": 16,
+    "bundle_count": 7,
+    "narrative_count": 7,
+    "processed_at": "2026-07-15T13:59:02.714230+00:00"
   },
   {
     "video_id": "N52SC2cLnvY",
@@ -892,27 +995,14 @@
     "source": "Ethan Van Sciver",
     "published": "2026-07-03T06:25:18+00:00",
     "url": "https://www.youtube.com/watch?v=N52SC2cLnvY",
-    "language": "en",
-    "is_generated": true,
     "segment_count": 4432,
     "transcript_file": "transcripts/2026/07/TRASHCAST # 267 BIGGEST PROBLEM was insane. Vito is a outta control. I pity him. [N52SC2cLnvY].json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026/07/TRASHCAST%20%23%20267%20BIGGEST%20PROBLEM%20was%20insane.%20Vito%20is%20a%20outta%20control.%20I%20pity%20him.%20%5BN52SC2cLnvY%5D.json",
-    "mention_counts": {
-      "Ethan Van Sciver": 33,
-      "Dick Masterson": 20,
-      "Frog Tony": 14,
-      "Trashcast": 4,
-      "Shane Davis": 3,
-      "ComicsGate": 2,
-      "Eric July": 2,
-      "Liam Gray": 2,
-      "Cyberfrog": 1,
-      "DarkGift Comics": 1,
-      "Fencegate": 1,
-      "Nerdrotic": 1,
-      "Nick Rekieta": 1,
-      "Vito Gesualdi": 1
-    }
+    "sha256": "427d31b0fb8fab69dd4f8f16fa036afaa10f3455e962f1129493823acf02dd51",
+    "occurrence_count": 94,
+    "quote_count": 136,
+    "bundle_count": 67,
+    "narrative_count": 67,
+    "processed_at": "2026-07-15T13:59:03.208565+00:00"
   },
   {
     "video_id": "MOQPFnHJYR0",
@@ -920,29 +1010,14 @@
     "source": "Frog Tony",
     "published": "2026-07-03T05:32:32+00:00",
     "url": "https://www.youtube.com/watch?v=MOQPFnHJYR0",
-    "language": "en",
-    "is_generated": true,
     "segment_count": 6155,
     "transcript_file": "transcripts/2026/07/Cynic Got CATFISHED And EVS Continues To SPIRAL On Thirsty Thursday! [MOQPFnHJYR0].json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026/07/Cynic%20Got%20CATFISHED%20And%20EVS%20Continues%20To%20SPIRAL%20On%20Thirsty%20Thursday%21%20%5BMOQPFnHJYR0%5D.json",
-    "mention_counts": {
-      "Liam Gray": 101,
-      "Frog Tony": 50,
-      "Ethan Van Sciver": 44,
-      "Eric July": 33,
-      "Cyberfrog": 17,
-      "ComicsGate": 13,
-      "Stray Beans": 6,
-      "Cecil": 4,
-      "Trashcast": 4,
-      "Fencegate": 2,
-      "Nerdrotic": 2,
-      "Yellow Flash": 2,
-      "DarkGift Comics": 1,
-      "Little Movie Perp": 1,
-      "Shane Davis": 1,
-      "Sturgis": 1
-    }
+    "sha256": "a9fc0dba9d317abdb13e49d5c3d69ea5f49bddafb0d3eae541f1386b9a696ce6",
+    "occurrence_count": 35,
+    "quote_count": 48,
+    "bundle_count": 30,
+    "narrative_count": 30,
+    "processed_at": "2026-07-15T13:59:02.807973+00:00"
   },
   {
     "video_id": "FrQfU1Y84Nk",
@@ -950,25 +1025,14 @@
     "source": "Ethan Van Sciver",
     "published": "2026-06-30T21:23:41+00:00",
     "url": "https://www.youtube.com/watch?v=FrQfU1Y84Nk",
-    "language": "en",
-    "is_generated": true,
     "segment_count": 2362,
     "transcript_file": "transcripts/2026/06/DRAW-MUH STREAM! REIGNBOW THE BRUTE Death of Papa Smerc page 3 pt3 [FrQfU1Y84Nk].json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026/06/DRAW-MUH%20STREAM%21%20REIGNBOW%20THE%20BRUTE%20Death%20of%20Papa%20Smerc%20page%203%20pt3%20%5BFrQfU1Y84Nk%5D.json",
-    "mention_counts": {
-      "Liam Gray": 28,
-      "Ethan Van Sciver": 12,
-      "Shane Davis": 6,
-      "Yellow Flash": 6,
-      "Cyberfrog": 3,
-      "Frog Tony": 2,
-      "Aaron Imholte": 1,
-      "Anna That Star Wars Girl": 1,
-      "ComicsGate": 1,
-      "Eric July": 1,
-      "Jon Del Arroz": 1,
-      "Trashcast": 1
-    }
+    "sha256": "eec4f198010a1512a47a96d67b6919e7550b75ab3aea173a7c7b18be1061397b",
+    "occurrence_count": 6,
+    "quote_count": 11,
+    "bundle_count": 8,
+    "narrative_count": 8,
+    "processed_at": "2026-07-15T13:59:02.627612+00:00"
   },
   {
     "video_id": "6GIxuFOICAI",
@@ -976,33 +1040,14 @@
     "source": "Frog Tony",
     "published": "2026-06-30T05:04:06+00:00",
     "url": "https://www.youtube.com/watch?v=6GIxuFOICAI",
-    "language": "en",
-    "is_generated": true,
     "segment_count": 5747,
     "transcript_file": "transcripts/2026/06/Catching Up With The Rippaverse! - Detractor Kings [6GIxuFOICAI].json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026/06/Catching%20Up%20With%20The%20Rippaverse%21%20-%20Detractor%20Kings%20%5B6GIxuFOICAI%5D.json",
-    "mention_counts": {
-      "Frog Tony": 36,
-      "Liam Gray": 29,
-      "Ethan Van Sciver": 22,
-      "Eric July": 17,
-      "Nerdrotic": 16,
-      "TheQuartering": 8,
-      "ComicsGate": 6,
-      "Cyberfrog": 3,
-      "Fencegate": 3,
-      "Jon Del Arroz": 3,
-      "DarkGift Comics": 2,
-      "Shane Davis": 2,
-      "Stray Beans": 2,
-      "Trashcast": 2,
-      "Aaron Imholte": 1,
-      "BackMeBro": 1,
-      "Chrissie Mayr": 1,
-      "Dick Masterson": 1,
-      "Little Movie Perp": 1,
-      "Yellow Flash": 1
-    }
+    "sha256": "42c1034c03099eddcb3706a66c7d7e954a30a2f7af089060b37655742527c404",
+    "occurrence_count": 31,
+    "quote_count": 53,
+    "bundle_count": 32,
+    "narrative_count": 32,
+    "processed_at": "2026-07-15T13:59:02.614746+00:00"
   },
   {
     "video_id": "qLcrzaJJKiQ",
@@ -1010,19 +1055,14 @@
     "source": "Frog Tony",
     "published": "2026-06-29T04:12:59+00:00",
     "url": "https://www.youtube.com/watch?v=qLcrzaJJKiQ",
-    "language": "en",
-    "is_generated": true,
     "segment_count": 4620,
     "transcript_file": "transcripts/2026/06/Supergirl BOMBED! - Comicsgate Suburbs [qLcrzaJJKiQ].json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026/06/Supergirl%20BOMBED%21%20-%20Comicsgate%20Suburbs%20%5BqLcrzaJJKiQ%5D.json",
-    "mention_counts": {
-      "Cyberfrog": 47,
-      "Frog Tony": 33,
-      "Liam Gray": 19,
-      "Ethan Van Sciver": 17,
-      "ComicsGate": 1,
-      "Eric July": 1
-    }
+    "sha256": "2e56f4ea1017a88e95c3fc8a9b78ff4417c2ec22025f5947c0f94ad2c4da0530",
+    "occurrence_count": 3,
+    "quote_count": 7,
+    "bundle_count": 5,
+    "narrative_count": 5,
+    "processed_at": "2026-07-15T13:59:02.686928+00:00"
   },
   {
     "video_id": "F1ouqRPhAdM",
@@ -1030,15 +1070,14 @@
     "source": "Frog Tony",
     "published": "2026-06-27T16:10:55+00:00",
     "url": "https://www.youtube.com/watch?v=F1ouqRPhAdM",
-    "language": "en",
-    "is_generated": true,
     "segment_count": 2841,
     "transcript_file": "transcripts/2026/06/JCW Lunacy #88 Watch Party! [F1ouqRPhAdM].json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026/06/JCW%20Lunacy%20%2388%20Watch%20Party%21%20%5BF1ouqRPhAdM%5D.json",
-    "mention_counts": {
-      "Frog Tony": 18,
-      "Vito Gesualdi": 3
-    }
+    "sha256": "1487173d44b47cc3f976087b0285d6f7eb19f82ddff131d6fd99baf0b3d028c1",
+    "occurrence_count": 7,
+    "quote_count": 10,
+    "bundle_count": 9,
+    "narrative_count": 9,
+    "processed_at": "2026-07-15T13:59:02.656410+00:00"
   },
   {
     "video_id": "MBKTh4fSITU",
@@ -1046,20 +1085,14 @@
     "source": "Commi3 Mark",
     "published": "2026-06-26T23:47:47+00:00",
     "url": "https://www.youtube.com/watch?v=MBKTh4fSITU",
-    "language": "en",
-    "is_generated": true,
     "segment_count": 3158,
     "transcript_file": "transcripts/2026/06/MINISTRY OF UNGENTLEMANLY TWEETS EXPOSES COMMI3 MARK - OH NO! [MBKTh4fSITU].json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026/06/MINISTRY%20OF%20UNGENTLEMANLY%20TWEETS%20EXPOSES%20COMMI3%20MARK%20-%20OH%20NO%21%20%5BMBKTh4fSITU%5D.json",
-    "mention_counts": {
-      "Frog Tony": 19,
-      "Ethan Van Sciver": 4,
-      "Dick Masterson": 3,
-      "Sturgis": 3,
-      "Eric July": 2,
-      "KatyDid": 2,
-      "Liam Gray": 1
-    }
+    "sha256": "1d060d6a37d73fce08e2c795d7f4f230aa1d144bc2e0b219cabf772f76f7cc96",
+    "occurrence_count": 25,
+    "quote_count": 32,
+    "bundle_count": 22,
+    "narrative_count": 22,
+    "processed_at": "2026-07-15T13:59:02.671259+00:00"
   },
   {
     "video_id": "SlodiZOj8bE",
@@ -1067,23 +1100,13 @@
     "source": "Commi3 Mark",
     "published": "2026-06-20T11:30:01+00:00",
     "url": "https://www.youtube.com/watch?v=SlodiZOj8bE",
-    "language": "en",
-    "is_generated": true,
     "segment_count": 2820,
     "transcript_file": "transcripts/2026/06/FROG TONY'S FREEDOM FIGHTING FORCE FBI Investigation DRAMA Escalates [SlodiZOj8bE].json",
-    "raw_url": "https://raw.githubusercontent.com/commi3mark/RTF-drama-radar/refs/heads/main/transcripts/2026/06/FROG%20TONY%27S%20FREEDOM%20FIGHTING%20FORCE%20FBI%20Investigation%20DRAMA%20Escalates%20%5BSlodiZOj8bE%5D.json",
-    "mention_counts": {
-      "Frog Tony": 64,
-      "Ethan Van Sciver": 30,
-      "Dick Masterson": 11,
-      "Liam Gray": 11,
-      "Jon Del Arroz": 5,
-      "Eric July": 3,
-      "ComicsGate": 2,
-      "Little Movie Perp": 2,
-      "Sturgis": 2,
-      "Trashcast": 2,
-      "DarkGift Comics": 1
-    }
+    "sha256": "874096e7c90572ab83266f59ea270eb7d9fbd45dc322a3f08ced78c99253a2f3",
+    "occurrence_count": 57,
+    "quote_count": 81,
+    "bundle_count": 60,
+    "narrative_count": 60,
+    "processed_at": "2026-07-15T13:59:02.643511+00:00"
   }
 ]

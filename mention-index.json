@@ -1,44 +1,47 @@
 {
-  "generated_at": "2026-07-15T01:14:39.373597+00:00",
-  "transcript_count": 53,
+  "generated_at": "2026-07-15T13:59:02.411218+00:00",
+  "transcript_count": 74,
   "entity_count": 33,
-  "total_mentions": 3935,
+  "total_mentions": 5364,
   "global_totals": {
-    "Liam Gray": 863,
-    "Frog Tony": 672,
-    "Ethan Van Sciver": 460,
-    "Dick Masterson": 289,
-    "Shane Davis": 213,
-    "Eric July": 204,
-    "Sturgis": 150,
-    "TheQuartering": 116,
-    "Jon Del Arroz": 113,
-    "Cyberfrog": 103,
-    "Chrissie Mayr": 100,
-    "ComicsGate": 81,
-    "Vito Gesualdi": 81,
-    "Cecil": 78,
-    "Aaron Imholte": 55,
-    "Dropbox Drama": 55,
-    "Nerdrotic": 53,
-    "Stray Beans": 44,
-    "DarkGift Comics": 30,
+    "Liam Gray": 1374,
+    "Frog Tony": 926,
+    "Ethan Van Sciver": 687,
+    "Shane Davis": 409,
+    "Dick Masterson": 325,
+    "Eric July": 217,
+    "Sturgis": 159,
+    "Jon Del Arroz": 132,
+    "TheQuartering": 121,
+    "Aaron Imholte": 120,
+    "Cyberfrog": 106,
+    "Chrissie Mayr": 104,
+    "ComicsGate": 97,
+    "Cecil": 89,
+    "Vito Gesualdi": 85,
+    "Stray Beans": 61,
+    "Dropbox Drama": 56,
+    "Nerdrotic": 55,
+    "DarkGift Comics": 46,
+    "Trashcast": 34,
     "Yellow Flash": 30,
-    "Trashcast": 28,
-    "Fencegate": 22,
-    "BackMeBro": 18,
-    "Nick Rekieta": 14,
-    "Jon Malin": 12,
-    "Friday Night Tights": 11,
+    "Fencegate": 23,
+    "BackMeBro": 22,
+    "Nick Rekieta": 15,
+    "Jon Malin": 14,
+    "Friday Night Tights": 13,
     "Alpha Core": 10,
     "KatyDid": 9,
-    "Little Movie Perp": 7,
+    "Little Movie Perp": 9,
+    "Yanzi Lin": 7,
     "Kino Casino": 6,
-    "Yanzi Lin": 6,
-    "Anna That Star Wars Girl": 1,
+    "Anna That Star Wars Girl": 2,
     "Rippaverse": 1
   },
   "by_source": {
+    "Clippaverse": {
+      "Ethan Van Sciver": 1
+    },
     "Commi3 Mark": {
       "Frog Tony": 88,
       "Jon Del Arroz": 82,
@@ -61,7 +64,7 @@
       "Yanzi Lin": 1
     },
     "Elissa Clips": {
-      "TheQuartering": 52,
+      "TheQuartering": 54,
       "Chrissie Mayr": 28,
       "Aaron Imholte": 27,
       "Nick Rekieta": 9,
@@ -105,6 +108,30 @@
       "DarkGift Comics": 1,
       "Nick Rekieta": 1,
       "Vito Gesualdi": 1
+    },
+    "FFS Cast": {
+      "Liam Gray": 421,
+      "Frog Tony": 236,
+      "Ethan Van Sciver": 197,
+      "Shane Davis": 193,
+      "Stray Beans": 17,
+      "DarkGift Comics": 16,
+      "Dick Masterson": 16,
+      "Jon Del Arroz": 16,
+      "ComicsGate": 15,
+      "Eric July": 12,
+      "Sturgis": 9,
+      "Cecil": 6,
+      "Trashcast": 6,
+      "BackMeBro": 3,
+      "TheQuartering": 3,
+      "Jon Malin": 2,
+      "Little Movie Perp": 2,
+      "Nerdrotic": 2,
+      "Cyberfrog": 1,
+      "Fencegate": 1,
+      "Nick Rekieta": 1,
+      "Yanzi Lin": 1
     },
     "Frog Tony": {
       "Frog Tony": 486,
@@ -161,20 +188,87 @@
       "Cyberfrog": 1,
       "Little Movie Perp": 1,
       "Rippaverse": 1
+    },
+    "Liam Gray": {
+      "Liam Gray": 46,
+      "Ethan Van Sciver": 6,
+      "Cecil": 5,
+      "Anna That Star Wars Girl": 1,
+      "Chrissie Mayr": 1,
+      "Cyberfrog": 1,
+      "Friday Night Tights": 1
+    },
+    "Ministry of Dude": {
+      "Aaron Imholte": 65,
+      "Liam Gray": 32,
+      "Dick Masterson": 20,
+      "Ethan Van Sciver": 20,
+      "Frog Tony": 7,
+      "Vito Gesualdi": 4,
+      "Chrissie Mayr": 3,
+      "Dropbox Drama": 1,
+      "Shane Davis": 1
+    },
+    "Piper": {
+      "Liam Gray": 12,
+      "Frog Tony": 11,
+      "Ethan Van Sciver": 3,
+      "Jon Del Arroz": 3,
+      "ComicsGate": 1,
+      "Cyberfrog": 1,
+      "Eric July": 1
+    },
+    "Shane Davis": {
+      "Shane Davis": 2,
+      "BackMeBro": 1
+    },
+    "Ya Boi Zack": {
+      "Friday Night Tights": 1
     }
   },
   "entities": {
     "Liam Gray": {
-      "total_mentions": 863,
-      "video_count": 28,
-      "source_count": 4,
+      "total_mentions": 1374,
+      "video_count": 37,
+      "source_count": 8,
       "mentioned_by": {
         "Frog Tony": 423,
+        "FFS Cast": 421,
         "Ethan Van Sciver": 262,
         "KatyDid": 159,
-        "Commi3 Mark": 19
+        "Liam Gray": 46,
+        "Ministry of Dude": 32,
+        "Commi3 Mark": 19,
+        "Piper": 12
       },
       "videos": [
+        {
+          "video_id": "ZgbvZRJnCIk",
+          "title": "Gabbing With Ga......You know",
+          "source": "FFS Cast",
+          "published": "2026-07-15T03:34:34+00:00",
+          "url": "https://www.youtube.com/watch?v=ZgbvZRJnCIk",
+          "count": 76,
+          "transcript_file": "transcripts/2026-07/Gabbing With Ga......You know [ZgbvZRJnCIk].json"
+        },
+        {
+          "video_id": "IiuHUxargVk",
+          "title": "Daddy Daughter Day (CG lies to you and why I am right)",
+          "source": "Liam Gray",
+          "published": "2026-07-15T02:57:09+00:00",
+          "url": "https://www.youtube.com/watch?v=IiuHUxargVk",
+          "count": 2,
+          "transcript_file": "transcripts/2026-07/Daddy Daughter Day (CG lies to you and why I am right) [IiuHUxargVk].json"
+        },
+        {
+          "video_id": "jVMsgBTgicI",
+          "title": "Steel Toe gets hit with his very own HRO | #936",
+          "source": "Ministry of Dude",
+          "published": "2026-07-14T14:43:34+00:00",
+          "url": "https://www.youtube.com/watch?v=jVMsgBTgicI",
+          "count": 4,
+          "transcript_file": "transcripts/2026-07/Steel Toe gets hit with his very own HRO #936 [jVMsgBTgicI].json"
+        },
         {
           "video_id": "LS_14uOaG2E",
           "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
@@ -203,6 +297,15 @@
           "transcript_file": "transcripts/2026/07/Ethan Van Sciver Learns The Truth of DRONES! The Khola King Fear [haKM6g11LrM].json"
         },
         {
+          "video_id": "3q0Lk5Vap5U",
+          "title": "It's All Fine - Friday Special | #935",
+          "source": "Ministry of Dude",
+          "published": "2026-07-11T16:52:27+00:00",
+          "url": "https://www.youtube.com/watch?v=3q0Lk5Vap5U",
+          "count": 1,
+          "transcript_file": "transcripts/2026-07/It's All Fine - Friday Special #935 [3q0Lk5Vap5U].json"
+        },
+        {
           "video_id": "66FqtP0Wves",
           "title": "It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on \"WOKE\"! LANTERNS Spoilers?!",
           "source": "Ethan Van Sciver",
@@ -210,6 +313,15 @@
           "url": "https://www.youtube.com/watch?v=66FqtP0Wves",
           "count": 134,
           "transcript_file": "transcripts/2026/07/It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on WOKE! LANTERNS Spoilers! [66FqtP0Wves].json"
+        },
+        {
+          "video_id": "8_9rhLQ1_cU",
+          "title": "The Ark Of Leem, LDA-King Stream",
+          "source": "FFS Cast",
+          "published": "2026-07-11T04:18:29+00:00",
+          "url": "https://www.youtube.com/watch?v=8_9rhLQ1_cU",
+          "count": 217,
+          "transcript_file": "transcripts/2026-07/The Ark Of Leem, LDA-King Stream [8_9rhLQ1_cU].json"
         },
         {
           "video_id": "LdLy2G5TM4c",
@@ -230,6 +342,15 @@
           "transcript_file": "transcripts/2026/07/The Tribunal of Liam Gray DROPBOX DRAMA [O5BcX4ir3-0].json"
         },
         {
+          "video_id": "T80sgrQa_kA",
+          "title": "Is Leem throwing in the towel?! | #934",
+          "source": "Ministry of Dude",
+          "published": "2026-07-10T14:37:05+00:00",
+          "url": "https://www.youtube.com/watch?v=T80sgrQa_kA",
+          "count": 27,
+          "transcript_file": "transcripts/2026-07/Is Leem throwing in the towel! #934 [T80sgrQa_kA].json"
+        },
+        {
           "video_id": "VBJwPPZ1LeY",
           "title": "Sturgis Went To Japan On Thirsty Thursday!",
           "source": "Frog Tony",
@@ -237,6 +358,24 @@
           "url": "https://www.youtube.com/watch?v=VBJwPPZ1LeY",
           "count": 58,
           "transcript_file": "transcripts/2026/07/Sturgis Went To Japan On Thirsty Thursday! [VBJwPPZ1LeY].json"
+        },
+        {
+          "video_id": "ims2nZAnn-s",
+          "title": "F - IT: We Are Soooooo Back (AGANE)",
+          "source": "Piper",
+          "published": "2026-07-09T03:55:54+00:00",
+          "url": "https://www.youtube.com/watch?v=ims2nZAnn-s",
+          "count": 12,
+          "transcript_file": "transcripts/2026-07/F - IT We Are Soooooo Back (AGANE) [ims2nZAnn-s].json"
+        },
+        {
+          "video_id": "Sd_qKoB4Kjk",
+          "title": "Under New Management",
+          "source": "Liam Gray",
+          "published": "2026-07-09T02:57:16+00:00",
+          "url": "https://www.youtube.com/watch?v=Sd_qKoB4Kjk",
+          "count": 44,
+          "transcript_file": "transcripts/2026-07/Under New Management [Sd_qKoB4Kjk].json"
         },
         {
           "video_id": "2m31Eip6Cmg",
@@ -264,6 +403,15 @@
           "url": "https://www.youtube.com/watch?v=7LMz5W0-mLs",
           "count": 169,
           "transcript_file": "transcripts/2026/07/Finbarr STOMPS A Dwarf! - OPEN PANEL MADHOUSE!!!! [7LMz5W0-mLs].json"
+        },
+        {
+          "video_id": "MmvMoleX9Ls",
+          "title": "Gabbing With Ga......You Know",
+          "source": "FFS Cast",
+          "published": "2026-07-08T03:33:10+00:00",
+          "url": "https://www.youtube.com/watch?v=MmvMoleX9Ls",
+          "count": 128,
+          "transcript_file": "transcripts/2026-07/Gabbing With Ga......You Know [MmvMoleX9Ls].json"
         },
         {
           "video_id": "RxZ_OdBN2f0",
@@ -430,16 +578,28 @@
       ]
     },
     "Frog Tony": {
-      "total_mentions": 672,
-      "video_count": 24,
-      "source_count": 4,
+      "total_mentions": 926,
+      "video_count": 31,
+      "source_count": 7,
       "mentioned_by": {
         "Frog Tony": 486,
+        "FFS Cast": 236,
         "Commi3 Mark": 88,
         "Ethan Van Sciver": 60,
-        "KatyDid": 38
+        "KatyDid": 38,
+        "Piper": 11,
+        "Ministry of Dude": 7
       },
       "videos": [
+        {
+          "video_id": "ZgbvZRJnCIk",
+          "title": "Gabbing With Ga......You know",
+          "source": "FFS Cast",
+          "published": "2026-07-15T03:34:34+00:00",
+          "url": "https://www.youtube.com/watch?v=ZgbvZRJnCIk",
+          "count": 36,
+          "transcript_file": "transcripts/2026-07/Gabbing With Ga......You know [ZgbvZRJnCIk].json"
+        },
         {
           "video_id": "LS_14uOaG2E",
           "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
@@ -459,6 +619,15 @@
           "transcript_file": "transcripts/2026/07/You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto! [zkW4zLSQ7eQ].json"
         },
         {
+          "video_id": "3q0Lk5Vap5U",
+          "title": "It's All Fine - Friday Special | #935",
+          "source": "Ministry of Dude",
+          "published": "2026-07-11T16:52:27+00:00",
+          "url": "https://www.youtube.com/watch?v=3q0Lk5Vap5U",
+          "count": 3,
+          "transcript_file": "transcripts/2026-07/It's All Fine - Friday Special #935 [3q0Lk5Vap5U].json"
+        },
+        {
           "video_id": "9OJNBEVnTBk",
           "title": "JCW Lunacy #90 Watch Party",
           "source": "Frog Tony",
@@ -475,6 +644,15 @@
           "url": "https://www.youtube.com/watch?v=66FqtP0Wves",
           "count": 10,
           "transcript_file": "transcripts/2026/07/It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on WOKE! LANTERNS Spoilers! [66FqtP0Wves].json"
+        },
+        {
+          "video_id": "8_9rhLQ1_cU",
+          "title": "The Ark Of Leem, LDA-King Stream",
+          "source": "FFS Cast",
+          "published": "2026-07-11T04:18:29+00:00",
+          "url": "https://www.youtube.com/watch?v=8_9rhLQ1_cU",
+          "count": 101,
+          "transcript_file": "transcripts/2026-07/The Ark Of Leem, LDA-King Stream [8_9rhLQ1_cU].json"
         },
         {
           "video_id": "LdLy2G5TM4c",
@@ -504,6 +682,24 @@
           "transcript_file": "transcripts/2026/07/Sturgis Went To Japan On Thirsty Thursday! [VBJwPPZ1LeY].json"
         },
         {
+          "video_id": "ims2nZAnn-s",
+          "title": "F - IT: We Are Soooooo Back (AGANE)",
+          "source": "Piper",
+          "published": "2026-07-09T03:55:54+00:00",
+          "url": "https://www.youtube.com/watch?v=ims2nZAnn-s",
+          "count": 11,
+          "transcript_file": "transcripts/2026-07/F - IT We Are Soooooo Back (AGANE) [ims2nZAnn-s].json"
+        },
+        {
+          "video_id": "pltu7sa30D8",
+          "title": "Scarlett lives her best life | #932",
+          "source": "Ministry of Dude",
+          "published": "2026-07-08T21:44:21+00:00",
+          "url": "https://www.youtube.com/watch?v=pltu7sa30D8",
+          "count": 2,
+          "transcript_file": "transcripts/2026-07/Scarlett lives her best life #932 [pltu7sa30D8].json"
+        },
+        {
           "video_id": "2m31Eip6Cmg",
           "title": "CG AFTER DARK #35",
           "source": "KatyDid",
@@ -520,6 +716,24 @@
           "url": "https://www.youtube.com/watch?v=7LMz5W0-mLs",
           "count": 115,
           "transcript_file": "transcripts/2026/07/Finbarr STOMPS A Dwarf! - OPEN PANEL MADHOUSE!!!! [7LMz5W0-mLs].json"
+        },
+        {
+          "video_id": "MmvMoleX9Ls",
+          "title": "Gabbing With Ga......You Know",
+          "source": "FFS Cast",
+          "published": "2026-07-08T03:33:10+00:00",
+          "url": "https://www.youtube.com/watch?v=MmvMoleX9Ls",
+          "count": 99,
+          "transcript_file": "transcripts/2026-07/Gabbing With Ga......You Know [MmvMoleX9Ls].json"
+        },
+        {
+          "video_id": "4sQhgipvxyU",
+          "title": "I said Columbia, but Ralph just went to more Messico | #931",
+          "source": "Ministry of Dude",
+          "published": "2026-07-07T14:46:31+00:00",
+          "url": "https://www.youtube.com/watch?v=4sQhgipvxyU",
+          "count": 2,
+          "transcript_file": "transcripts/2026-07/I said Columbia, but Ralph just went to more Messico #931 [4sQhgipvxyU].json"
         },
         {
           "video_id": "RxZ_OdBN2f0",
@@ -659,17 +873,40 @@
       ]
     },
     "Ethan Van Sciver": {
-      "total_mentions": 460,
-      "video_count": 31,
-      "source_count": 5,
+      "total_mentions": 687,
+      "video_count": 42,
+      "source_count": 10,
       "mentioned_by": {
         "Ethan Van Sciver": 217,
+        "FFS Cast": 197,
         "Frog Tony": 132,
         "KatyDid": 54,
         "Commi3 Mark": 51,
-        "Elissa Clips": 6
+        "Ministry of Dude": 20,
+        "Elissa Clips": 6,
+        "Liam Gray": 6,
+        "Piper": 3,
+        "Clippaverse": 1
       },
       "videos": [
+        {
+          "video_id": "ZgbvZRJnCIk",
+          "title": "Gabbing With Ga......You know",
+          "source": "FFS Cast",
+          "published": "2026-07-15T03:34:34+00:00",
+          "url": "https://www.youtube.com/watch?v=ZgbvZRJnCIk",
+          "count": 154,
+          "transcript_file": "transcripts/2026-07/Gabbing With Ga......You know [ZgbvZRJnCIk].json"
+        },
+        {
+          "video_id": "IiuHUxargVk",
+          "title": "Daddy Daughter Day (CG lies to you and why I am right)",
+          "source": "Liam Gray",
+          "published": "2026-07-15T02:57:09+00:00",
+          "url": "https://www.youtube.com/watch?v=IiuHUxargVk",
+          "count": 3,
+          "transcript_file": "transcripts/2026-07/Daddy Daughter Day (CG lies to you and why I am right) [IiuHUxargVk].json"
+        },
         {
           "video_id": "iZU8Ozto3VQ",
           "title": "MATI: Metokur & Cog Bend Over for Ethan Ralph (Jul 10, 2026)",
@@ -687,6 +924,15 @@
           "url": "https://www.youtube.com/watch?v=LS_14uOaG2E",
           "count": 39,
           "transcript_file": "transcripts/2026/07/#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES! [LS_14uOaG2E].json"
+        },
+        {
+          "video_id": "xG3Jg1rJ6nA",
+          "title": "Vito Disparaging EVS (TBPITU EPISODE #71) #comicsgate #comics #art",
+          "source": "Clippaverse",
+          "published": "2026-07-13T22:16:35+00:00",
+          "url": "https://www.youtube.com/shorts/xG3Jg1rJ6nA",
+          "count": 1,
+          "transcript_file": "transcripts/2026-07/Vito Disparaging EVS (TBPITU EPISODE #71) #comicsgate #comics #art [xG3Jg1rJ6nA].json"
         },
         {
           "video_id": "3VGvnr2bjKw",
@@ -707,6 +953,15 @@
           "transcript_file": "transcripts/2026/07/You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto! [zkW4zLSQ7eQ].json"
         },
         {
+          "video_id": "3q0Lk5Vap5U",
+          "title": "It's All Fine - Friday Special | #935",
+          "source": "Ministry of Dude",
+          "published": "2026-07-11T16:52:27+00:00",
+          "url": "https://www.youtube.com/watch?v=3q0Lk5Vap5U",
+          "count": 1,
+          "transcript_file": "transcripts/2026-07/It's All Fine - Friday Special #935 [3q0Lk5Vap5U].json"
+        },
+        {
           "video_id": "66FqtP0Wves",
           "title": "It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on \"WOKE\"! LANTERNS Spoilers?!",
           "source": "Ethan Van Sciver",
@@ -714,6 +969,15 @@
           "url": "https://www.youtube.com/watch?v=66FqtP0Wves",
           "count": 51,
           "transcript_file": "transcripts/2026/07/It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on WOKE! LANTERNS Spoilers! [66FqtP0Wves].json"
+        },
+        {
+          "video_id": "8_9rhLQ1_cU",
+          "title": "The Ark Of Leem, LDA-King Stream",
+          "source": "FFS Cast",
+          "published": "2026-07-11T04:18:29+00:00",
+          "url": "https://www.youtube.com/watch?v=8_9rhLQ1_cU",
+          "count": 18,
+          "transcript_file": "transcripts/2026-07/The Ark Of Leem, LDA-King Stream [8_9rhLQ1_cU].json"
         },
         {
           "video_id": "LdLy2G5TM4c",
@@ -741,6 +1005,15 @@
           "url": "https://www.youtube.com/watch?v=O5BcX4ir3-0",
           "count": 1,
           "transcript_file": "transcripts/2026/07/The Tribunal of Liam Gray DROPBOX DRAMA [O5BcX4ir3-0].json"
+        },
+        {
+          "video_id": "T80sgrQa_kA",
+          "title": "Is Leem throwing in the towel?! | #934",
+          "source": "Ministry of Dude",
+          "published": "2026-07-10T14:37:05+00:00",
+          "url": "https://www.youtube.com/watch?v=T80sgrQa_kA",
+          "count": 3,
+          "transcript_file": "transcripts/2026-07/Is Leem throwing in the towel! #934 [T80sgrQa_kA].json"
         },
         {
           "video_id": "HTrcwhelzCU",
@@ -779,6 +1052,33 @@
           "transcript_file": "transcripts/2026/07/Kino Casino TheQuartering Vlogs Ep. 1 (Jul 8, 2026) [lUXAeP8oPgw].json"
         },
         {
+          "video_id": "ims2nZAnn-s",
+          "title": "F - IT: We Are Soooooo Back (AGANE)",
+          "source": "Piper",
+          "published": "2026-07-09T03:55:54+00:00",
+          "url": "https://www.youtube.com/watch?v=ims2nZAnn-s",
+          "count": 3,
+          "transcript_file": "transcripts/2026-07/F - IT We Are Soooooo Back (AGANE) [ims2nZAnn-s].json"
+        },
+        {
+          "video_id": "Sd_qKoB4Kjk",
+          "title": "Under New Management",
+          "source": "Liam Gray",
+          "published": "2026-07-09T02:57:16+00:00",
+          "url": "https://www.youtube.com/watch?v=Sd_qKoB4Kjk",
+          "count": 3,
+          "transcript_file": "transcripts/2026-07/Under New Management [Sd_qKoB4Kjk].json"
+        },
+        {
+          "video_id": "pltu7sa30D8",
+          "title": "Scarlett lives her best life | #932",
+          "source": "Ministry of Dude",
+          "published": "2026-07-08T21:44:21+00:00",
+          "url": "https://www.youtube.com/watch?v=pltu7sa30D8",
+          "count": 10,
+          "transcript_file": "transcripts/2026-07/Scarlett lives her best life #932 [pltu7sa30D8].json"
+        },
+        {
           "video_id": "V1nqAzwILiM",
           "title": "Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! | TRASHCAST",
           "source": "KatyDid",
@@ -795,6 +1095,24 @@
           "url": "https://www.youtube.com/watch?v=7LMz5W0-mLs",
           "count": 4,
           "transcript_file": "transcripts/2026/07/Finbarr STOMPS A Dwarf! - OPEN PANEL MADHOUSE!!!! [7LMz5W0-mLs].json"
+        },
+        {
+          "video_id": "MmvMoleX9Ls",
+          "title": "Gabbing With Ga......You Know",
+          "source": "FFS Cast",
+          "published": "2026-07-08T03:33:10+00:00",
+          "url": "https://www.youtube.com/watch?v=MmvMoleX9Ls",
+          "count": 25,
+          "transcript_file": "transcripts/2026-07/Gabbing With Ga......You Know [MmvMoleX9Ls].json"
+        },
+        {
+          "video_id": "4sQhgipvxyU",
+          "title": "I said Columbia, but Ralph just went to more Messico | #931",
+          "source": "Ministry of Dude",
+          "published": "2026-07-07T14:46:31+00:00",
+          "url": "https://www.youtube.com/watch?v=4sQhgipvxyU",
+          "count": 6,
+          "transcript_file": "transcripts/2026-07/I said Columbia, but Ralph just went to more Messico #931 [4sQhgipvxyU].json"
         },
         {
           "video_id": "RxZ_OdBN2f0",
@@ -951,18 +1269,252 @@
         }
       ]
     },
+    "Shane Davis": {
+      "total_mentions": 409,
+      "video_count": 22,
+      "source_count": 7,
+      "mentioned_by": {
+        "FFS Cast": 193,
+        "Ethan Van Sciver": 148,
+        "Commi3 Mark": 37,
+        "KatyDid": 18,
+        "Frog Tony": 10,
+        "Shane Davis": 2,
+        "Ministry of Dude": 1
+      },
+      "videos": [
+        {
+          "video_id": "ZgbvZRJnCIk",
+          "title": "Gabbing With Ga......You know",
+          "source": "FFS Cast",
+          "published": "2026-07-15T03:34:34+00:00",
+          "url": "https://www.youtube.com/watch?v=ZgbvZRJnCIk",
+          "count": 174,
+          "transcript_file": "transcripts/2026-07/Gabbing With Ga......You know [ZgbvZRJnCIk].json"
+        },
+        {
+          "video_id": "LS_14uOaG2E",
+          "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+          "source": "Ethan Van Sciver",
+          "published": "2026-07-13T23:19:06+00:00",
+          "url": "https://www.youtube.com/watch?v=LS_14uOaG2E",
+          "count": 53,
+          "transcript_file": "transcripts/2026/07/#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES! [LS_14uOaG2E].json"
+        },
+        {
+          "video_id": "p4tTJHqHSRE",
+          "title": "Netflix NEEDS God! They Want Christian Viewers NOW?!",
+          "source": "Shane Davis",
+          "published": "2026-07-13T10:15:18+00:00",
+          "url": "https://www.youtube.com/watch?v=p4tTJHqHSRE",
+          "count": 1,
+          "transcript_file": "transcripts/2026-07/Netflix NEEDS God! They Want Christian Viewers NOW! [p4tTJHqHSRE].json"
+        },
+        {
+          "video_id": "zkW4zLSQ7eQ",
+          "title": "You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto!",
+          "source": "Ethan Van Sciver",
+          "published": "2026-07-13T06:01:02+00:00",
+          "url": "https://www.youtube.com/watch?v=zkW4zLSQ7eQ",
+          "count": 32,
+          "transcript_file": "transcripts/2026/07/You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto! [zkW4zLSQ7eQ].json"
+        },
+        {
+          "video_id": "66FqtP0Wves",
+          "title": "It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on \"WOKE\"! LANTERNS Spoilers?!",
+          "source": "Ethan Van Sciver",
+          "published": "2026-07-11T04:50:41+00:00",
+          "url": "https://www.youtube.com/watch?v=66FqtP0Wves",
+          "count": 4,
+          "transcript_file": "transcripts/2026/07/It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on WOKE! LANTERNS Spoilers! [66FqtP0Wves].json"
+        },
+        {
+          "video_id": "8_9rhLQ1_cU",
+          "title": "The Ark Of Leem, LDA-King Stream",
+          "source": "FFS Cast",
+          "published": "2026-07-11T04:18:29+00:00",
+          "url": "https://www.youtube.com/watch?v=8_9rhLQ1_cU",
+          "count": 5,
+          "transcript_file": "transcripts/2026-07/The Ark Of Leem, LDA-King Stream [8_9rhLQ1_cU].json"
+        },
+        {
+          "video_id": "LdLy2G5TM4c",
+          "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+          "source": "Commi3 Mark",
+          "published": "2026-07-10T23:56:07+00:00",
+          "url": "https://www.youtube.com/watch?v=LdLy2G5TM4c",
+          "count": 1,
+          "transcript_file": "transcripts/2026/07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
+        },
+        {
+          "video_id": "VBJwPPZ1LeY",
+          "title": "Sturgis Went To Japan On Thirsty Thursday!",
+          "source": "Frog Tony",
+          "published": "2026-07-10T07:46:34+00:00",
+          "url": "https://www.youtube.com/watch?v=VBJwPPZ1LeY",
+          "count": 3,
+          "transcript_file": "transcripts/2026/07/Sturgis Went To Japan On Thirsty Thursday! [VBJwPPZ1LeY].json"
+        },
+        {
+          "video_id": "pltu7sa30D8",
+          "title": "Scarlett lives her best life | #932",
+          "source": "Ministry of Dude",
+          "published": "2026-07-08T21:44:21+00:00",
+          "url": "https://www.youtube.com/watch?v=pltu7sa30D8",
+          "count": 1,
+          "transcript_file": "transcripts/2026-07/Scarlett lives her best life #932 [pltu7sa30D8].json"
+        },
+        {
+          "video_id": "3up8iIaCs_E",
+          "title": "Absolute Batman Scam? Mark Brooks Exposes How Retailers Screw Artists!",
+          "source": "Shane Davis",
+          "published": "2026-07-08T10:15:11+00:00",
+          "url": "https://www.youtube.com/watch?v=3up8iIaCs_E",
+          "count": 1,
+          "transcript_file": "transcripts/2026-07/Absolute Batman Scam Mark Brooks Exposes How Retailers Screw Artists! [3up8iIaCs_E].json"
+        },
+        {
+          "video_id": "7LMz5W0-mLs",
+          "title": "Finbarr STOMPS A Dwarf! - OPEN PANEL MADHOUSE!!!!",
+          "source": "Frog Tony",
+          "published": "2026-07-08T05:22:18+00:00",
+          "url": "https://www.youtube.com/watch?v=7LMz5W0-mLs",
+          "count": 1,
+          "transcript_file": "transcripts/2026/07/Finbarr STOMPS A Dwarf! - OPEN PANEL MADHOUSE!!!! [7LMz5W0-mLs].json"
+        },
+        {
+          "video_id": "MmvMoleX9Ls",
+          "title": "Gabbing With Ga......You Know",
+          "source": "FFS Cast",
+          "published": "2026-07-08T03:33:10+00:00",
+          "url": "https://www.youtube.com/watch?v=MmvMoleX9Ls",
+          "count": 14,
+          "transcript_file": "transcripts/2026-07/Gabbing With Ga......You Know [MmvMoleX9Ls].json"
+        },
+        {
+          "video_id": "RxZ_OdBN2f0",
+          "title": "Katydid Caught LYING AGAIN! - Detractor Kings",
+          "source": "Frog Tony",
+          "published": "2026-07-07T05:46:59+00:00",
+          "url": "https://www.youtube.com/watch?v=RxZ_OdBN2f0",
+          "count": 2,
+          "transcript_file": "transcripts/2026/07/Katydid Caught LYING AGAIN! - Detractor Kings [RxZ_OdBN2f0].json"
+        },
+        {
+          "video_id": "Zd9PVsLAD5c",
+          "title": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
+          "source": "Ethan Van Sciver",
+          "published": "2026-07-07T04:26:42+00:00",
+          "url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c",
+          "count": 50,
+          "transcript_file": "transcripts/2026/07/COMICSGATE KINGS Let's draw GOTHAM characters! [Zd9PVsLAD5c].json"
+        },
+        {
+          "video_id": "X0hbv1uKEGA",
+          "title": "Becoming All Powerful & the Ultimate Underdog!",
+          "source": "KatyDid",
+          "published": "2026-07-04T22:09:49+00:00",
+          "url": "https://www.youtube.com/watch?v=X0hbv1uKEGA",
+          "count": 2,
+          "transcript_file": "transcripts/2026/07/Becoming All Powerful & the Ultimate Underdog! [X0hbv1uKEGA].json"
+        },
+        {
+          "video_id": "odC_ijF0FE4",
+          "title": "JCW Lunacy #89 Watch Party",
+          "source": "Frog Tony",
+          "published": "2026-07-04T14:28:36+00:00",
+          "url": "https://www.youtube.com/watch?v=odC_ijF0FE4",
+          "count": 1,
+          "transcript_file": "transcripts/2026/07/JCW Lunacy #89 Watch Party [odC_ijF0FE4].json"
+        },
+        {
+          "video_id": "ibGd2AqrEXg",
+          "title": "JON DEL ARROZ: HERES THE ATTENTION YOU ORDERED - SHANE DAVIS BACK ME BRO INTERNET BEEF - EXTRA SALTY",
+          "source": "Commi3 Mark",
+          "published": "2026-07-03T23:55:22+00:00",
+          "url": "https://www.youtube.com/watch?v=ibGd2AqrEXg",
+          "count": 36,
+          "transcript_file": "transcripts/2026/07/JON DEL ARROZ HERES THE ATTENTION YOU ORDERED - SHANE DAVIS BACK ME BRO INTERNET BEEF - EXTRA SALTY [ibGd2AqrEXg].json"
+        },
+        {
+          "video_id": "7JzZNez4ZBE",
+          "title": "FFS: Shane Davis Stops By! Discusses JDA & BACKmeBro",
+          "source": "KatyDid",
+          "published": "2026-07-03T16:57:45+00:00",
+          "url": "https://www.youtube.com/watch?v=7JzZNez4ZBE",
+          "count": 16,
+          "transcript_file": "transcripts/2026/07/FFS Shane Davis Stops By! Discusses JDA & BACKmeBro [7JzZNez4ZBE].json"
+        },
+        {
+          "video_id": "N52SC2cLnvY",
+          "title": "TRASHCAST # 267 BIGGEST PROBLEM was insane. Vito is a outta control. I pity him.",
+          "source": "Ethan Van Sciver",
+          "published": "2026-07-03T06:25:18+00:00",
+          "url": "https://www.youtube.com/watch?v=N52SC2cLnvY",
+          "count": 3,
+          "transcript_file": "transcripts/2026/07/TRASHCAST # 267 BIGGEST PROBLEM was insane. Vito is a outta control. I pity him. [N52SC2cLnvY].json"
+        },
+        {
+          "video_id": "MOQPFnHJYR0",
+          "title": "Cynic Got CATFISHED And EVS Continues To SPIRAL On Thirsty Thursday!",
+          "source": "Frog Tony",
+          "published": "2026-07-03T05:32:32+00:00",
+          "url": "https://www.youtube.com/watch?v=MOQPFnHJYR0",
+          "count": 1,
+          "transcript_file": "transcripts/2026/07/Cynic Got CATFISHED And EVS Continues To SPIRAL On Thirsty Thursday! [MOQPFnHJYR0].json"
+        },
+        {
+          "video_id": "FrQfU1Y84Nk",
+          "title": "DRAW-MUH STREAM! REIGNBOW THE BRUTE Death of Papa Smerc page 3 pt3",
+          "source": "Ethan Van Sciver",
+          "published": "2026-06-30T21:23:41+00:00",
+          "url": "https://www.youtube.com/watch?v=FrQfU1Y84Nk",
+          "count": 6,
+          "transcript_file": "transcripts/2026/06/DRAW-MUH STREAM! REIGNBOW THE BRUTE Death of Papa Smerc page 3 pt3 [FrQfU1Y84Nk].json"
+        },
+        {
+          "video_id": "6GIxuFOICAI",
+          "title": "Catching Up With The Rippaverse! - Detractor Kings",
+          "source": "Frog Tony",
+          "published": "2026-06-30T05:04:06+00:00",
+          "url": "https://www.youtube.com/watch?v=6GIxuFOICAI",
+          "count": 2,
+          "transcript_file": "transcripts/2026/06/Catching Up With The Rippaverse! - Detractor Kings [6GIxuFOICAI].json"
+        }
+      ]
+    },
     "Dick Masterson": {
-      "total_mentions": 289,
-      "video_count": 20,
-      "source_count": 5,
+      "total_mentions": 325,
+      "video_count": 27,
+      "source_count": 7,
       "mentioned_by": {
         "Frog Tony": 187,
         "KatyDid": 48,
         "Ethan Van Sciver": 38,
+        "Ministry of Dude": 20,
+        "FFS Cast": 16,
         "Commi3 Mark": 14,
         "Elissa Clips": 2
       },
       "videos": [
+        {
+          "video_id": "ZgbvZRJnCIk",
+          "title": "Gabbing With Ga......You know",
+          "source": "FFS Cast",
+          "published": "2026-07-15T03:34:34+00:00",
+          "url": "https://www.youtube.com/watch?v=ZgbvZRJnCIk",
+          "count": 1,
+          "transcript_file": "transcripts/2026-07/Gabbing With Ga......You know [ZgbvZRJnCIk].json"
+        },
+        {
+          "video_id": "jVMsgBTgicI",
+          "title": "Steel Toe gets hit with his very own HRO | #936",
+          "source": "Ministry of Dude",
+          "published": "2026-07-14T14:43:34+00:00",
+          "url": "https://www.youtube.com/watch?v=jVMsgBTgicI",
+          "count": 1,
+          "transcript_file": "transcripts/2026-07/Steel Toe gets hit with his very own HRO #936 [jVMsgBTgicI].json"
+        },
         {
           "video_id": "LS_14uOaG2E",
           "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
@@ -991,6 +1543,15 @@
           "transcript_file": "transcripts/2026/07/Kino Casino JF Gariepy’s Love Quest Continues & an Obsession Review (Jul 8, 2026) [AnfyGS7ozeM].json"
         },
         {
+          "video_id": "3q0Lk5Vap5U",
+          "title": "It's All Fine - Friday Special | #935",
+          "source": "Ministry of Dude",
+          "published": "2026-07-11T16:52:27+00:00",
+          "url": "https://www.youtube.com/watch?v=3q0Lk5Vap5U",
+          "count": 6,
+          "transcript_file": "transcripts/2026-07/It's All Fine - Friday Special #935 [3q0Lk5Vap5U].json"
+        },
+        {
           "video_id": "9OJNBEVnTBk",
           "title": "JCW Lunacy #90 Watch Party",
           "source": "Frog Tony",
@@ -1007,6 +1568,15 @@
           "url": "https://www.youtube.com/watch?v=66FqtP0Wves",
           "count": 4,
           "transcript_file": "transcripts/2026/07/It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on WOKE! LANTERNS Spoilers! [66FqtP0Wves].json"
+        },
+        {
+          "video_id": "8_9rhLQ1_cU",
+          "title": "The Ark Of Leem, LDA-King Stream",
+          "source": "FFS Cast",
+          "published": "2026-07-11T04:18:29+00:00",
+          "url": "https://www.youtube.com/watch?v=8_9rhLQ1_cU",
+          "count": 13,
+          "transcript_file": "transcripts/2026-07/The Ark Of Leem, LDA-King Stream [8_9rhLQ1_cU].json"
         },
         {
           "video_id": "R2AEOMp6S6M",
@@ -1027,6 +1597,15 @@
           "transcript_file": "transcripts/2026/07/Sturgis Went To Japan On Thirsty Thursday! [VBJwPPZ1LeY].json"
         },
         {
+          "video_id": "pltu7sa30D8",
+          "title": "Scarlett lives her best life | #932",
+          "source": "Ministry of Dude",
+          "published": "2026-07-08T21:44:21+00:00",
+          "url": "https://www.youtube.com/watch?v=pltu7sa30D8",
+          "count": 3,
+          "transcript_file": "transcripts/2026-07/Scarlett lives her best life #932 [pltu7sa30D8].json"
+        },
+        {
           "video_id": "2m31Eip6Cmg",
           "title": "CG AFTER DARK #35",
           "source": "KatyDid",
@@ -1043,6 +1622,24 @@
           "url": "https://www.youtube.com/watch?v=7LMz5W0-mLs",
           "count": 5,
           "transcript_file": "transcripts/2026/07/Finbarr STOMPS A Dwarf! - OPEN PANEL MADHOUSE!!!! [7LMz5W0-mLs].json"
+        },
+        {
+          "video_id": "MmvMoleX9Ls",
+          "title": "Gabbing With Ga......You Know",
+          "source": "FFS Cast",
+          "published": "2026-07-08T03:33:10+00:00",
+          "url": "https://www.youtube.com/watch?v=MmvMoleX9Ls",
+          "count": 2,
+          "transcript_file": "transcripts/2026-07/Gabbing With Ga......You Know [MmvMoleX9Ls].json"
+        },
+        {
+          "video_id": "4sQhgipvxyU",
+          "title": "I said Columbia, but Ralph just went to more Messico | #931",
+          "source": "Ministry of Dude",
+          "published": "2026-07-07T14:46:31+00:00",
+          "url": "https://www.youtube.com/watch?v=4sQhgipvxyU",
+          "count": 10,
+          "transcript_file": "transcripts/2026-07/I said Columbia, but Ralph just went to more Messico #931 [4sQhgipvxyU].json"
         },
         {
           "video_id": "RxZ_OdBN2f0",
@@ -1145,174 +1742,28 @@
         }
       ]
     },
-    "Shane Davis": {
-      "total_mentions": 213,
-      "video_count": 16,
-      "source_count": 4,
-      "mentioned_by": {
-        "Ethan Van Sciver": 148,
-        "Commi3 Mark": 37,
-        "KatyDid": 18,
-        "Frog Tony": 10
-      },
-      "videos": [
-        {
-          "video_id": "LS_14uOaG2E",
-          "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
-          "source": "Ethan Van Sciver",
-          "published": "2026-07-13T23:19:06+00:00",
-          "url": "https://www.youtube.com/watch?v=LS_14uOaG2E",
-          "count": 53,
-          "transcript_file": "transcripts/2026/07/#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES! [LS_14uOaG2E].json"
-        },
-        {
-          "video_id": "zkW4zLSQ7eQ",
-          "title": "You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto!",
-          "source": "Ethan Van Sciver",
-          "published": "2026-07-13T06:01:02+00:00",
-          "url": "https://www.youtube.com/watch?v=zkW4zLSQ7eQ",
-          "count": 32,
-          "transcript_file": "transcripts/2026/07/You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto! [zkW4zLSQ7eQ].json"
-        },
-        {
-          "video_id": "66FqtP0Wves",
-          "title": "It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on \"WOKE\"! LANTERNS Spoilers?!",
-          "source": "Ethan Van Sciver",
-          "published": "2026-07-11T04:50:41+00:00",
-          "url": "https://www.youtube.com/watch?v=66FqtP0Wves",
-          "count": 4,
-          "transcript_file": "transcripts/2026/07/It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on WOKE! LANTERNS Spoilers! [66FqtP0Wves].json"
-        },
-        {
-          "video_id": "LdLy2G5TM4c",
-          "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
-          "source": "Commi3 Mark",
-          "published": "2026-07-10T23:56:07+00:00",
-          "url": "https://www.youtube.com/watch?v=LdLy2G5TM4c",
-          "count": 1,
-          "transcript_file": "transcripts/2026/07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
-        },
-        {
-          "video_id": "VBJwPPZ1LeY",
-          "title": "Sturgis Went To Japan On Thirsty Thursday!",
-          "source": "Frog Tony",
-          "published": "2026-07-10T07:46:34+00:00",
-          "url": "https://www.youtube.com/watch?v=VBJwPPZ1LeY",
-          "count": 3,
-          "transcript_file": "transcripts/2026/07/Sturgis Went To Japan On Thirsty Thursday! [VBJwPPZ1LeY].json"
-        },
-        {
-          "video_id": "7LMz5W0-mLs",
-          "title": "Finbarr STOMPS A Dwarf! - OPEN PANEL MADHOUSE!!!!",
-          "source": "Frog Tony",
-          "published": "2026-07-08T05:22:18+00:00",
-          "url": "https://www.youtube.com/watch?v=7LMz5W0-mLs",
-          "count": 1,
-          "transcript_file": "transcripts/2026/07/Finbarr STOMPS A Dwarf! - OPEN PANEL MADHOUSE!!!! [7LMz5W0-mLs].json"
-        },
-        {
-          "video_id": "RxZ_OdBN2f0",
-          "title": "Katydid Caught LYING AGAIN! - Detractor Kings",
-          "source": "Frog Tony",
-          "published": "2026-07-07T05:46:59+00:00",
-          "url": "https://www.youtube.com/watch?v=RxZ_OdBN2f0",
-          "count": 2,
-          "transcript_file": "transcripts/2026/07/Katydid Caught LYING AGAIN! - Detractor Kings [RxZ_OdBN2f0].json"
-        },
-        {
-          "video_id": "Zd9PVsLAD5c",
-          "title": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
-          "source": "Ethan Van Sciver",
-          "published": "2026-07-07T04:26:42+00:00",
-          "url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c",
-          "count": 50,
-          "transcript_file": "transcripts/2026/07/COMICSGATE KINGS Let's draw GOTHAM characters! [Zd9PVsLAD5c].json"
-        },
-        {
-          "video_id": "X0hbv1uKEGA",
-          "title": "Becoming All Powerful & the Ultimate Underdog!",
-          "source": "KatyDid",
-          "published": "2026-07-04T22:09:49+00:00",
-          "url": "https://www.youtube.com/watch?v=X0hbv1uKEGA",
-          "count": 2,
-          "transcript_file": "transcripts/2026/07/Becoming All Powerful & the Ultimate Underdog! [X0hbv1uKEGA].json"
-        },
-        {
-          "video_id": "odC_ijF0FE4",
-          "title": "JCW Lunacy #89 Watch Party",
-          "source": "Frog Tony",
-          "published": "2026-07-04T14:28:36+00:00",
-          "url": "https://www.youtube.com/watch?v=odC_ijF0FE4",
-          "count": 1,
-          "transcript_file": "transcripts/2026/07/JCW Lunacy #89 Watch Party [odC_ijF0FE4].json"
-        },
-        {
-          "video_id": "ibGd2AqrEXg",
-          "title": "JON DEL ARROZ: HERES THE ATTENTION YOU ORDERED - SHANE DAVIS BACK ME BRO INTERNET BEEF - EXTRA SALTY",
-          "source": "Commi3 Mark",
-          "published": "2026-07-03T23:55:22+00:00",
-          "url": "https://www.youtube.com/watch?v=ibGd2AqrEXg",
-          "count": 36,
-          "transcript_file": "transcripts/2026/07/JON DEL ARROZ HERES THE ATTENTION YOU ORDERED - SHANE DAVIS BACK ME BRO INTERNET BEEF - EXTRA SALTY [ibGd2AqrEXg].json"
-        },
-        {
-          "video_id": "7JzZNez4ZBE",
-          "title": "FFS: Shane Davis Stops By! Discusses JDA & BACKmeBro",
-          "source": "KatyDid",
-          "published": "2026-07-03T16:57:45+00:00",
-          "url": "https://www.youtube.com/watch?v=7JzZNez4ZBE",
-          "count": 16,
-          "transcript_file": "transcripts/2026/07/FFS Shane Davis Stops By! Discusses JDA & BACKmeBro [7JzZNez4ZBE].json"
-        },
-        {
-          "video_id": "N52SC2cLnvY",
-          "title": "TRASHCAST # 267 BIGGEST PROBLEM was insane. Vito is a outta control. I pity him.",
-          "source": "Ethan Van Sciver",
-          "published": "2026-07-03T06:25:18+00:00",
-          "url": "https://www.youtube.com/watch?v=N52SC2cLnvY",
-          "count": 3,
-          "transcript_file": "transcripts/2026/07/TRASHCAST # 267 BIGGEST PROBLEM was insane. Vito is a outta control. I pity him. [N52SC2cLnvY].json"
-        },
-        {
-          "video_id": "MOQPFnHJYR0",
-          "title": "Cynic Got CATFISHED And EVS Continues To SPIRAL On Thirsty Thursday!",
-          "source": "Frog Tony",
-          "published": "2026-07-03T05:32:32+00:00",
-          "url": "https://www.youtube.com/watch?v=MOQPFnHJYR0",
-          "count": 1,
-          "transcript_file": "transcripts/2026/07/Cynic Got CATFISHED And EVS Continues To SPIRAL On Thirsty Thursday! [MOQPFnHJYR0].json"
-        },
-        {
-          "video_id": "FrQfU1Y84Nk",
-          "title": "DRAW-MUH STREAM! REIGNBOW THE BRUTE Death of Papa Smerc page 3 pt3",
-          "source": "Ethan Van Sciver",
-          "published": "2026-06-30T21:23:41+00:00",
-          "url": "https://www.youtube.com/watch?v=FrQfU1Y84Nk",
-          "count": 6,
-          "transcript_file": "transcripts/2026/06/DRAW-MUH STREAM! REIGNBOW THE BRUTE Death of Papa Smerc page 3 pt3 [FrQfU1Y84Nk].json"
-        },
-        {
-          "video_id": "6GIxuFOICAI",
-          "title": "Catching Up With The Rippaverse! - Detractor Kings",
-          "source": "Frog Tony",
-          "published": "2026-06-30T05:04:06+00:00",
-          "url": "https://www.youtube.com/watch?v=6GIxuFOICAI",
-          "count": 2,
-          "transcript_file": "transcripts/2026/06/Catching Up With The Rippaverse! - Detractor Kings [6GIxuFOICAI].json"
-        }
-      ]
-    },
     "Eric July": {
-      "total_mentions": 204,
-      "video_count": 19,
-      "source_count": 4,
+      "total_mentions": 217,
+      "video_count": 23,
+      "source_count": 6,
       "mentioned_by": {
         "Frog Tony": 86,
         "Commi3 Mark": 74,
         "Ethan Van Sciver": 30,
-        "KatyDid": 14
+        "KatyDid": 14,
+        "FFS Cast": 12,
+        "Piper": 1
       },
       "videos": [
+        {
+          "video_id": "ZgbvZRJnCIk",
+          "title": "Gabbing With Ga......You know",
+          "source": "FFS Cast",
+          "published": "2026-07-15T03:34:34+00:00",
+          "url": "https://www.youtube.com/watch?v=ZgbvZRJnCIk",
+          "count": 4,
+          "transcript_file": "transcripts/2026-07/Gabbing With Ga......You know [ZgbvZRJnCIk].json"
+        },
         {
           "video_id": "LS_14uOaG2E",
           "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
@@ -1339,6 +1790,15 @@
           "url": "https://www.youtube.com/watch?v=66FqtP0Wves",
           "count": 13,
           "transcript_file": "transcripts/2026/07/It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on WOKE! LANTERNS Spoilers! [66FqtP0Wves].json"
+        },
+        {
+          "video_id": "8_9rhLQ1_cU",
+          "title": "The Ark Of Leem, LDA-King Stream",
+          "source": "FFS Cast",
+          "published": "2026-07-11T04:18:29+00:00",
+          "url": "https://www.youtube.com/watch?v=8_9rhLQ1_cU",
+          "count": 1,
+          "transcript_file": "transcripts/2026-07/The Ark Of Leem, LDA-King Stream [8_9rhLQ1_cU].json"
         },
         {
           "video_id": "LdLy2G5TM4c",
@@ -1359,6 +1819,15 @@
           "transcript_file": "transcripts/2026/07/Sturgis Went To Japan On Thirsty Thursday! [VBJwPPZ1LeY].json"
         },
         {
+          "video_id": "ims2nZAnn-s",
+          "title": "F - IT: We Are Soooooo Back (AGANE)",
+          "source": "Piper",
+          "published": "2026-07-09T03:55:54+00:00",
+          "url": "https://www.youtube.com/watch?v=ims2nZAnn-s",
+          "count": 1,
+          "transcript_file": "transcripts/2026-07/F - IT We Are Soooooo Back (AGANE) [ims2nZAnn-s].json"
+        },
+        {
           "video_id": "7LMz5W0-mLs",
           "title": "Finbarr STOMPS A Dwarf! - OPEN PANEL MADHOUSE!!!!",
           "source": "Frog Tony",
@@ -1366,6 +1835,15 @@
           "url": "https://www.youtube.com/watch?v=7LMz5W0-mLs",
           "count": 3,
           "transcript_file": "transcripts/2026/07/Finbarr STOMPS A Dwarf! - OPEN PANEL MADHOUSE!!!! [7LMz5W0-mLs].json"
+        },
+        {
+          "video_id": "MmvMoleX9Ls",
+          "title": "Gabbing With Ga......You Know",
+          "source": "FFS Cast",
+          "published": "2026-07-08T03:33:10+00:00",
+          "url": "https://www.youtube.com/watch?v=MmvMoleX9Ls",
+          "count": 7,
+          "transcript_file": "transcripts/2026-07/Gabbing With Ga......You Know [MmvMoleX9Ls].json"
         },
         {
           "video_id": "RxZ_OdBN2f0",
@@ -1487,12 +1965,13 @@
       ]
     },
     "Sturgis": {
-      "total_mentions": 150,
-      "video_count": 9,
-      "source_count": 3,
+      "total_mentions": 159,
+      "video_count": 10,
+      "source_count": 4,
       "mentioned_by": {
         "Ethan Van Sciver": 75,
         "Frog Tony": 70,
+        "FFS Cast": 9,
         "Commi3 Mark": 5
       },
       "videos": [
@@ -1522,6 +2001,15 @@
           "url": "https://www.youtube.com/watch?v=66FqtP0Wves",
           "count": 19,
           "transcript_file": "transcripts/2026/07/It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on WOKE! LANTERNS Spoilers! [66FqtP0Wves].json"
+        },
+        {
+          "video_id": "8_9rhLQ1_cU",
+          "title": "The Ark Of Leem, LDA-King Stream",
+          "source": "FFS Cast",
+          "published": "2026-07-11T04:18:29+00:00",
+          "url": "https://www.youtube.com/watch?v=8_9rhLQ1_cU",
+          "count": 9,
+          "transcript_file": "transcripts/2026-07/The Ark Of Leem, LDA-King Stream [8_9rhLQ1_cU].json"
         },
         {
           "video_id": "VBJwPPZ1LeY",
@@ -1579,17 +2067,168 @@
         }
       ]
     },
-    "TheQuartering": {
-      "total_mentions": 116,
-      "video_count": 21,
-      "source_count": 4,
+    "Jon Del Arroz": {
+      "total_mentions": 132,
+      "video_count": 14,
+      "source_count": 6,
       "mentioned_by": {
-        "Elissa Clips": 52,
-        "Ethan Van Sciver": 44,
-        "Frog Tony": 11,
-        "KatyDid": 9
+        "Commi3 Mark": 82,
+        "Frog Tony": 20,
+        "FFS Cast": 16,
+        "KatyDid": 8,
+        "Ethan Van Sciver": 3,
+        "Piper": 3
       },
       "videos": [
+        {
+          "video_id": "ZgbvZRJnCIk",
+          "title": "Gabbing With Ga......You know",
+          "source": "FFS Cast",
+          "published": "2026-07-15T03:34:34+00:00",
+          "url": "https://www.youtube.com/watch?v=ZgbvZRJnCIk",
+          "count": 1,
+          "transcript_file": "transcripts/2026-07/Gabbing With Ga......You know [ZgbvZRJnCIk].json"
+        },
+        {
+          "video_id": "66FqtP0Wves",
+          "title": "It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on \"WOKE\"! LANTERNS Spoilers?!",
+          "source": "Ethan Van Sciver",
+          "published": "2026-07-11T04:50:41+00:00",
+          "url": "https://www.youtube.com/watch?v=66FqtP0Wves",
+          "count": 2,
+          "transcript_file": "transcripts/2026/07/It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on WOKE! LANTERNS Spoilers! [66FqtP0Wves].json"
+        },
+        {
+          "video_id": "8_9rhLQ1_cU",
+          "title": "The Ark Of Leem, LDA-King Stream",
+          "source": "FFS Cast",
+          "published": "2026-07-11T04:18:29+00:00",
+          "url": "https://www.youtube.com/watch?v=8_9rhLQ1_cU",
+          "count": 3,
+          "transcript_file": "transcripts/2026-07/The Ark Of Leem, LDA-King Stream [8_9rhLQ1_cU].json"
+        },
+        {
+          "video_id": "LdLy2G5TM4c",
+          "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+          "source": "Commi3 Mark",
+          "published": "2026-07-10T23:56:07+00:00",
+          "url": "https://www.youtube.com/watch?v=LdLy2G5TM4c",
+          "count": 10,
+          "transcript_file": "transcripts/2026/07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
+        },
+        {
+          "video_id": "VBJwPPZ1LeY",
+          "title": "Sturgis Went To Japan On Thirsty Thursday!",
+          "source": "Frog Tony",
+          "published": "2026-07-10T07:46:34+00:00",
+          "url": "https://www.youtube.com/watch?v=VBJwPPZ1LeY",
+          "count": 2,
+          "transcript_file": "transcripts/2026/07/Sturgis Went To Japan On Thirsty Thursday! [VBJwPPZ1LeY].json"
+        },
+        {
+          "video_id": "ims2nZAnn-s",
+          "title": "F - IT: We Are Soooooo Back (AGANE)",
+          "source": "Piper",
+          "published": "2026-07-09T03:55:54+00:00",
+          "url": "https://www.youtube.com/watch?v=ims2nZAnn-s",
+          "count": 3,
+          "transcript_file": "transcripts/2026-07/F - IT We Are Soooooo Back (AGANE) [ims2nZAnn-s].json"
+        },
+        {
+          "video_id": "MmvMoleX9Ls",
+          "title": "Gabbing With Ga......You Know",
+          "source": "FFS Cast",
+          "published": "2026-07-08T03:33:10+00:00",
+          "url": "https://www.youtube.com/watch?v=MmvMoleX9Ls",
+          "count": 12,
+          "transcript_file": "transcripts/2026-07/Gabbing With Ga......You Know [MmvMoleX9Ls].json"
+        },
+        {
+          "video_id": "RxZ_OdBN2f0",
+          "title": "Katydid Caught LYING AGAIN! - Detractor Kings",
+          "source": "Frog Tony",
+          "published": "2026-07-07T05:46:59+00:00",
+          "url": "https://www.youtube.com/watch?v=RxZ_OdBN2f0",
+          "count": 15,
+          "transcript_file": "transcripts/2026/07/Katydid Caught LYING AGAIN! - Detractor Kings [RxZ_OdBN2f0].json"
+        },
+        {
+          "video_id": "ibGd2AqrEXg",
+          "title": "JON DEL ARROZ: HERES THE ATTENTION YOU ORDERED - SHANE DAVIS BACK ME BRO INTERNET BEEF - EXTRA SALTY",
+          "source": "Commi3 Mark",
+          "published": "2026-07-03T23:55:22+00:00",
+          "url": "https://www.youtube.com/watch?v=ibGd2AqrEXg",
+          "count": 67,
+          "transcript_file": "transcripts/2026/07/JON DEL ARROZ HERES THE ATTENTION YOU ORDERED - SHANE DAVIS BACK ME BRO INTERNET BEEF - EXTRA SALTY [ibGd2AqrEXg].json"
+        },
+        {
+          "video_id": "edPpkg2kim4",
+          "title": "\"I REPORTED THE DROPBOX!\" Liam Gray Responds to EVS Reacting To A Viral Clip",
+          "source": "KatyDid",
+          "published": "2026-07-03T19:49:19+00:00",
+          "url": "https://www.youtube.com/watch?v=edPpkg2kim4",
+          "count": 1,
+          "transcript_file": "transcripts/2026/07/I REPORTED THE DROPBOX! Liam Gray Responds to EVS Reacting To A Viral Clip [edPpkg2kim4].json"
+        },
+        {
+          "video_id": "7JzZNez4ZBE",
+          "title": "FFS: Shane Davis Stops By! Discusses JDA & BACKmeBro",
+          "source": "KatyDid",
+          "published": "2026-07-03T16:57:45+00:00",
+          "url": "https://www.youtube.com/watch?v=7JzZNez4ZBE",
+          "count": 7,
+          "transcript_file": "transcripts/2026/07/FFS Shane Davis Stops By! Discusses JDA & BACKmeBro [7JzZNez4ZBE].json"
+        },
+        {
+          "video_id": "FrQfU1Y84Nk",
+          "title": "DRAW-MUH STREAM! REIGNBOW THE BRUTE Death of Papa Smerc page 3 pt3",
+          "source": "Ethan Van Sciver",
+          "published": "2026-06-30T21:23:41+00:00",
+          "url": "https://www.youtube.com/watch?v=FrQfU1Y84Nk",
+          "count": 1,
+          "transcript_file": "transcripts/2026/06/DRAW-MUH STREAM! REIGNBOW THE BRUTE Death of Papa Smerc page 3 pt3 [FrQfU1Y84Nk].json"
+        },
+        {
+          "video_id": "6GIxuFOICAI",
+          "title": "Catching Up With The Rippaverse! - Detractor Kings",
+          "source": "Frog Tony",
+          "published": "2026-06-30T05:04:06+00:00",
+          "url": "https://www.youtube.com/watch?v=6GIxuFOICAI",
+          "count": 3,
+          "transcript_file": "transcripts/2026/06/Catching Up With The Rippaverse! - Detractor Kings [6GIxuFOICAI].json"
+        },
+        {
+          "video_id": "SlodiZOj8bE",
+          "title": "FROG TONY'S FREEDOM FIGHTING FORCE | FBI Investigation DRAMA Escalates",
+          "source": "Commi3 Mark",
+          "published": "2026-06-20T11:30:01+00:00",
+          "url": "https://www.youtube.com/watch?v=SlodiZOj8bE",
+          "count": 5,
+          "transcript_file": "transcripts/2026/06/FROG TONY'S FREEDOM FIGHTING FORCE FBI Investigation DRAMA Escalates [SlodiZOj8bE].json"
+        }
+      ]
+    },
+    "TheQuartering": {
+      "total_mentions": 121,
+      "video_count": 23,
+      "source_count": 5,
+      "mentioned_by": {
+        "Elissa Clips": 54,
+        "Ethan Van Sciver": 44,
+        "Frog Tony": 11,
+        "KatyDid": 9,
+        "FFS Cast": 3
+      },
+      "videos": [
+        {
+          "video_id": "_9MjvkgkY9c",
+          "title": "TheQuartering’s K Cup Crisis PR & Crying Victim After Starting War with Kino Casino (Jul 14, 2026)",
+          "source": "Elissa Clips",
+          "published": "2026-07-15T00:23:47+00:00",
+          "url": "https://www.youtube.com/watch?v=_9MjvkgkY9c",
+          "count": 2,
+          "transcript_file": "transcripts/2026-07/TheQuartering’s K Cup Crisis PR & Crying Victim After Starting War with Kino Casino (Jul 14, 2026) [_9MjvkgkY9c].json"
+        },
         {
           "video_id": "dcgJdp8BRKs",
           "title": "Professional Streamer TheQuartering - Gooners Gonna Goon (Jul 14, 2026)",
@@ -1735,6 +2374,15 @@
           "transcript_file": "transcripts/2026/07/Coffee Brand Coffee’s Wednesday Meeting w Jeremy Hambly TheQuartering (Jul 8, 2026) [ErvISz34rtE].json"
         },
         {
+          "video_id": "MmvMoleX9Ls",
+          "title": "Gabbing With Ga......You Know",
+          "source": "FFS Cast",
+          "published": "2026-07-08T03:33:10+00:00",
+          "url": "https://www.youtube.com/watch?v=MmvMoleX9Ls",
+          "count": 3,
+          "transcript_file": "transcripts/2026-07/Gabbing With Ga......You Know [MmvMoleX9Ls].json"
+        },
+        {
           "video_id": "RxZ_OdBN2f0",
           "title": "Katydid Caught LYING AGAIN! - Detractor Kings",
           "source": "Frog Tony",
@@ -1781,24 +2429,61 @@
         }
       ]
     },
-    "Jon Del Arroz": {
-      "total_mentions": 113,
-      "video_count": 10,
-      "source_count": 4,
+    "Aaron Imholte": {
+      "total_mentions": 120,
+      "video_count": 13,
+      "source_count": 5,
       "mentioned_by": {
-        "Commi3 Mark": 82,
-        "Frog Tony": 20,
-        "KatyDid": 8,
-        "Ethan Van Sciver": 3
+        "Ministry of Dude": 65,
+        "Elissa Clips": 27,
+        "Ethan Van Sciver": 21,
+        "Commi3 Mark": 6,
+        "Frog Tony": 1
       },
       "videos": [
+        {
+          "video_id": "jVMsgBTgicI",
+          "title": "Steel Toe gets hit with his very own HRO | #936",
+          "source": "Ministry of Dude",
+          "published": "2026-07-14T14:43:34+00:00",
+          "url": "https://www.youtube.com/watch?v=jVMsgBTgicI",
+          "count": 45,
+          "transcript_file": "transcripts/2026-07/Steel Toe gets hit with his very own HRO #936 [jVMsgBTgicI].json"
+        },
+        {
+          "video_id": "LS_14uOaG2E",
+          "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+          "source": "Ethan Van Sciver",
+          "published": "2026-07-13T23:19:06+00:00",
+          "url": "https://www.youtube.com/watch?v=LS_14uOaG2E",
+          "count": 1,
+          "transcript_file": "transcripts/2026/07/#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES! [LS_14uOaG2E].json"
+        },
+        {
+          "video_id": "3VGvnr2bjKw",
+          "title": "Potentially Criminal on Nick Rekieta’s Downfall (Jul 12, 2026)",
+          "source": "Elissa Clips",
+          "published": "2026-07-13T13:12:53+00:00",
+          "url": "https://www.youtube.com/watch?v=3VGvnr2bjKw",
+          "count": 26,
+          "transcript_file": "transcripts/2026/07/3VGvnr2bjKw.json"
+        },
+        {
+          "video_id": "zkW4zLSQ7eQ",
+          "title": "You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto!",
+          "source": "Ethan Van Sciver",
+          "published": "2026-07-13T06:01:02+00:00",
+          "url": "https://www.youtube.com/watch?v=zkW4zLSQ7eQ",
+          "count": 1,
+          "transcript_file": "transcripts/2026/07/You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto! [zkW4zLSQ7eQ].json"
+        },
         {
           "video_id": "66FqtP0Wves",
           "title": "It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on \"WOKE\"! LANTERNS Spoilers?!",
           "source": "Ethan Van Sciver",
           "published": "2026-07-11T04:50:41+00:00",
           "url": "https://www.youtube.com/watch?v=66FqtP0Wves",
-          "count": 2,
+          "count": 12,
           "transcript_file": "transcripts/2026/07/It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on WOKE! LANTERNS Spoilers! [66FqtP0Wves].json"
         },
         {
@@ -1807,26 +2492,44 @@
           "source": "Commi3 Mark",
           "published": "2026-07-10T23:56:07+00:00",
           "url": "https://www.youtube.com/watch?v=LdLy2G5TM4c",
-          "count": 10,
+          "count": 5,
           "transcript_file": "transcripts/2026/07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
         },
         {
-          "video_id": "VBJwPPZ1LeY",
-          "title": "Sturgis Went To Japan On Thirsty Thursday!",
-          "source": "Frog Tony",
-          "published": "2026-07-10T07:46:34+00:00",
-          "url": "https://www.youtube.com/watch?v=VBJwPPZ1LeY",
-          "count": 2,
-          "transcript_file": "transcripts/2026/07/Sturgis Went To Japan On Thirsty Thursday! [VBJwPPZ1LeY].json"
+          "video_id": "xoq_kc-M_I8",
+          "title": "MATI: The Rekieta Segment - Nontent Skelly’s Daily Mail Article (Jul 10, 2026)",
+          "source": "Elissa Clips",
+          "published": "2026-07-10T18:12:57+00:00",
+          "url": "https://www.youtube.com/watch?v=xoq_kc-M_I8",
+          "count": 1,
+          "transcript_file": "transcripts/2026/07/MATI The Rekieta Segment - Nontent Skelly’s Daily Mail Article (Jul 10, 2026) [xoq_kc-M_I8].json"
         },
         {
-          "video_id": "RxZ_OdBN2f0",
-          "title": "Katydid Caught LYING AGAIN! - Detractor Kings",
-          "source": "Frog Tony",
-          "published": "2026-07-07T05:46:59+00:00",
-          "url": "https://www.youtube.com/watch?v=RxZ_OdBN2f0",
-          "count": 15,
-          "transcript_file": "transcripts/2026/07/Katydid Caught LYING AGAIN! - Detractor Kings [RxZ_OdBN2f0].json"
+          "video_id": "T80sgrQa_kA",
+          "title": "Is Leem throwing in the towel?! | #934",
+          "source": "Ministry of Dude",
+          "published": "2026-07-10T14:37:05+00:00",
+          "url": "https://www.youtube.com/watch?v=T80sgrQa_kA",
+          "count": 19,
+          "transcript_file": "transcripts/2026-07/Is Leem throwing in the towel! #934 [T80sgrQa_kA].json"
+        },
+        {
+          "video_id": "pltu7sa30D8",
+          "title": "Scarlett lives her best life | #932",
+          "source": "Ministry of Dude",
+          "published": "2026-07-08T21:44:21+00:00",
+          "url": "https://www.youtube.com/watch?v=pltu7sa30D8",
+          "count": 1,
+          "transcript_file": "transcripts/2026-07/Scarlett lives her best life #932 [pltu7sa30D8].json"
+        },
+        {
+          "video_id": "Zd9PVsLAD5c",
+          "title": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
+          "source": "Ethan Van Sciver",
+          "published": "2026-07-07T04:26:42+00:00",
+          "url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c",
+          "count": 6,
+          "transcript_file": "transcripts/2026/07/COMICSGATE KINGS Let's draw GOTHAM characters! [Zd9PVsLAD5c].json"
         },
         {
           "video_id": "ibGd2AqrEXg",
@@ -1834,26 +2537,8 @@
           "source": "Commi3 Mark",
           "published": "2026-07-03T23:55:22+00:00",
           "url": "https://www.youtube.com/watch?v=ibGd2AqrEXg",
-          "count": 67,
-          "transcript_file": "transcripts/2026/07/JON DEL ARROZ HERES THE ATTENTION YOU ORDERED - SHANE DAVIS BACK ME BRO INTERNET BEEF - EXTRA SALTY [ibGd2AqrEXg].json"
-        },
-        {
-          "video_id": "edPpkg2kim4",
-          "title": "\"I REPORTED THE DROPBOX!\" Liam Gray Responds to EVS Reacting To A Viral Clip",
-          "source": "KatyDid",
-          "published": "2026-07-03T19:49:19+00:00",
-          "url": "https://www.youtube.com/watch?v=edPpkg2kim4",
           "count": 1,
-          "transcript_file": "transcripts/2026/07/I REPORTED THE DROPBOX! Liam Gray Responds to EVS Reacting To A Viral Clip [edPpkg2kim4].json"
-        },
-        {
-          "video_id": "7JzZNez4ZBE",
-          "title": "FFS: Shane Davis Stops By! Discusses JDA & BACKmeBro",
-          "source": "KatyDid",
-          "published": "2026-07-03T16:57:45+00:00",
-          "url": "https://www.youtube.com/watch?v=7JzZNez4ZBE",
-          "count": 7,
-          "transcript_file": "transcripts/2026/07/FFS Shane Davis Stops By! Discusses JDA & BACKmeBro [7JzZNez4ZBE].json"
+          "transcript_file": "transcripts/2026/07/JON DEL ARROZ HERES THE ATTENTION YOU ORDERED - SHANE DAVIS BACK ME BRO INTERNET BEEF - EXTRA SALTY [ibGd2AqrEXg].json"
         },
         {
           "video_id": "FrQfU1Y84Nk",
@@ -1870,31 +2555,43 @@
           "source": "Frog Tony",
           "published": "2026-06-30T05:04:06+00:00",
           "url": "https://www.youtube.com/watch?v=6GIxuFOICAI",
-          "count": 3,
+          "count": 1,
           "transcript_file": "transcripts/2026/06/Catching Up With The Rippaverse! - Detractor Kings [6GIxuFOICAI].json"
-        },
-        {
-          "video_id": "SlodiZOj8bE",
-          "title": "FROG TONY'S FREEDOM FIGHTING FORCE | FBI Investigation DRAMA Escalates",
-          "source": "Commi3 Mark",
-          "published": "2026-06-20T11:30:01+00:00",
-          "url": "https://www.youtube.com/watch?v=SlodiZOj8bE",
-          "count": 5,
-          "transcript_file": "transcripts/2026/06/FROG TONY'S FREEDOM FIGHTING FORCE FBI Investigation DRAMA Escalates [SlodiZOj8bE].json"
         }
       ]
     },
     "Cyberfrog": {
-      "total_mentions": 103,
-      "video_count": 11,
-      "source_count": 4,
+      "total_mentions": 106,
+      "video_count": 14,
+      "source_count": 7,
       "mentioned_by": {
         "Frog Tony": 67,
         "Ethan Van Sciver": 34,
         "Commi3 Mark": 1,
-        "KatyDid": 1
+        "FFS Cast": 1,
+        "KatyDid": 1,
+        "Liam Gray": 1,
+        "Piper": 1
       },
       "videos": [
+        {
+          "video_id": "ZgbvZRJnCIk",
+          "title": "Gabbing With Ga......You know",
+          "source": "FFS Cast",
+          "published": "2026-07-15T03:34:34+00:00",
+          "url": "https://www.youtube.com/watch?v=ZgbvZRJnCIk",
+          "count": 1,
+          "transcript_file": "transcripts/2026-07/Gabbing With Ga......You know [ZgbvZRJnCIk].json"
+        },
+        {
+          "video_id": "IiuHUxargVk",
+          "title": "Daddy Daughter Day (CG lies to you and why I am right)",
+          "source": "Liam Gray",
+          "published": "2026-07-15T02:57:09+00:00",
+          "url": "https://www.youtube.com/watch?v=IiuHUxargVk",
+          "count": 1,
+          "transcript_file": "transcripts/2026-07/Daddy Daughter Day (CG lies to you and why I am right) [IiuHUxargVk].json"
+        },
         {
           "video_id": "LS_14uOaG2E",
           "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
@@ -1921,6 +2618,15 @@
           "url": "https://www.youtube.com/watch?v=66FqtP0Wves",
           "count": 8,
           "transcript_file": "transcripts/2026/07/It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on WOKE! LANTERNS Spoilers! [66FqtP0Wves].json"
+        },
+        {
+          "video_id": "ims2nZAnn-s",
+          "title": "F - IT: We Are Soooooo Back (AGANE)",
+          "source": "Piper",
+          "published": "2026-07-09T03:55:54+00:00",
+          "url": "https://www.youtube.com/watch?v=ims2nZAnn-s",
+          "count": 1,
+          "transcript_file": "transcripts/2026-07/F - IT We Are Soooooo Back (AGANE) [ims2nZAnn-s].json"
         },
         {
           "video_id": "Zd9PVsLAD5c",
@@ -1997,14 +2703,16 @@
       ]
     },
     "Chrissie Mayr": {
-      "total_mentions": 100,
-      "video_count": 9,
-      "source_count": 4,
+      "total_mentions": 104,
+      "video_count": 11,
+      "source_count": 6,
       "mentioned_by": {
         "Ethan Van Sciver": 64,
         "Elissa Clips": 28,
         "KatyDid": 7,
-        "Frog Tony": 1
+        "Ministry of Dude": 3,
+        "Frog Tony": 1,
+        "Liam Gray": 1
       },
       "videos": [
         {
@@ -2044,6 +2752,15 @@
           "transcript_file": "transcripts/2026/07/Kino Casino Nerdrotic Fires Chrissie Mayr from Friday Night Tights (Jul 10, 2026) [Uy8eHEmKNWY].json"
         },
         {
+          "video_id": "3q0Lk5Vap5U",
+          "title": "It's All Fine - Friday Special | #935",
+          "source": "Ministry of Dude",
+          "published": "2026-07-11T16:52:27+00:00",
+          "url": "https://www.youtube.com/watch?v=3q0Lk5Vap5U",
+          "count": 3,
+          "transcript_file": "transcripts/2026-07/It's All Fine - Friday Special #935 [3q0Lk5Vap5U].json"
+        },
+        {
           "video_id": "66FqtP0Wves",
           "title": "It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on \"WOKE\"! LANTERNS Spoilers?!",
           "source": "Ethan Van Sciver",
@@ -2080,6 +2797,15 @@
           "transcript_file": "transcripts/2026/07/Chrissie Mayr Officially Fired from Friday Night Tights (Jul 9, 2026) [HTrcwhelzCU].json"
         },
         {
+          "video_id": "Sd_qKoB4Kjk",
+          "title": "Under New Management",
+          "source": "Liam Gray",
+          "published": "2026-07-09T02:57:16+00:00",
+          "url": "https://www.youtube.com/watch?v=Sd_qKoB4Kjk",
+          "count": 1,
+          "transcript_file": "transcripts/2026-07/Under New Management [Sd_qKoB4Kjk].json"
+        },
+        {
           "video_id": "6GIxuFOICAI",
           "title": "Catching Up With The Rippaverse! - Detractor Kings",
           "source": "Frog Tony",
@@ -2091,16 +2817,27 @@
       ]
     },
     "ComicsGate": {
-      "total_mentions": 81,
-      "video_count": 17,
-      "source_count": 4,
+      "total_mentions": 97,
+      "video_count": 21,
+      "source_count": 6,
       "mentioned_by": {
         "Frog Tony": 38,
         "Ethan Van Sciver": 26,
+        "FFS Cast": 15,
         "Commi3 Mark": 12,
-        "KatyDid": 5
+        "KatyDid": 5,
+        "Piper": 1
       },
       "videos": [
+        {
+          "video_id": "ZgbvZRJnCIk",
+          "title": "Gabbing With Ga......You know",
+          "source": "FFS Cast",
+          "published": "2026-07-15T03:34:34+00:00",
+          "url": "https://www.youtube.com/watch?v=ZgbvZRJnCIk",
+          "count": 8,
+          "transcript_file": "transcripts/2026-07/Gabbing With Ga......You know [ZgbvZRJnCIk].json"
+        },
         {
           "video_id": "LS_14uOaG2E",
           "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
@@ -2129,6 +2866,15 @@
           "transcript_file": "transcripts/2026/07/It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on WOKE! LANTERNS Spoilers! [66FqtP0Wves].json"
         },
         {
+          "video_id": "8_9rhLQ1_cU",
+          "title": "The Ark Of Leem, LDA-King Stream",
+          "source": "FFS Cast",
+          "published": "2026-07-11T04:18:29+00:00",
+          "url": "https://www.youtube.com/watch?v=8_9rhLQ1_cU",
+          "count": 2,
+          "transcript_file": "transcripts/2026-07/The Ark Of Leem, LDA-King Stream [8_9rhLQ1_cU].json"
+        },
+        {
           "video_id": "VBJwPPZ1LeY",
           "title": "Sturgis Went To Japan On Thirsty Thursday!",
           "source": "Frog Tony",
@@ -2138,6 +2884,15 @@
           "transcript_file": "transcripts/2026/07/Sturgis Went To Japan On Thirsty Thursday! [VBJwPPZ1LeY].json"
         },
         {
+          "video_id": "ims2nZAnn-s",
+          "title": "F - IT: We Are Soooooo Back (AGANE)",
+          "source": "Piper",
+          "published": "2026-07-09T03:55:54+00:00",
+          "url": "https://www.youtube.com/watch?v=ims2nZAnn-s",
+          "count": 1,
+          "transcript_file": "transcripts/2026-07/F - IT We Are Soooooo Back (AGANE) [ims2nZAnn-s].json"
+        },
+        {
           "video_id": "2m31Eip6Cmg",
           "title": "CG AFTER DARK #35",
           "source": "KatyDid",
@@ -2145,6 +2900,15 @@
           "url": "https://www.youtube.com/watch?v=2m31Eip6Cmg",
           "count": 1,
           "transcript_file": "transcripts/2026/07/CG AFTER DARK #35 [2m31Eip6Cmg].json"
+        },
+        {
+          "video_id": "MmvMoleX9Ls",
+          "title": "Gabbing With Ga......You Know",
+          "source": "FFS Cast",
+          "published": "2026-07-08T03:33:10+00:00",
+          "url": "https://www.youtube.com/watch?v=MmvMoleX9Ls",
+          "count": 5,
+          "transcript_file": "transcripts/2026-07/Gabbing With Ga......You Know [MmvMoleX9Ls].json"
         },
         {
           "video_id": "RxZ_OdBN2f0",
@@ -2256,13 +3020,128 @@
         }
       ]
     },
+    "Cecil": {
+      "total_mentions": 89,
+      "video_count": 11,
+      "source_count": 6,
+      "mentioned_by": {
+        "Ethan Van Sciver": 57,
+        "KatyDid": 13,
+        "FFS Cast": 6,
+        "Frog Tony": 5,
+        "Liam Gray": 5,
+        "Elissa Clips": 3
+      },
+      "videos": [
+        {
+          "video_id": "ZgbvZRJnCIk",
+          "title": "Gabbing With Ga......You know",
+          "source": "FFS Cast",
+          "published": "2026-07-15T03:34:34+00:00",
+          "url": "https://www.youtube.com/watch?v=ZgbvZRJnCIk",
+          "count": 6,
+          "transcript_file": "transcripts/2026-07/Gabbing With Ga......You know [ZgbvZRJnCIk].json"
+        },
+        {
+          "video_id": "LS_14uOaG2E",
+          "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+          "source": "Ethan Van Sciver",
+          "published": "2026-07-13T23:19:06+00:00",
+          "url": "https://www.youtube.com/watch?v=LS_14uOaG2E",
+          "count": 2,
+          "transcript_file": "transcripts/2026/07/#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES! [LS_14uOaG2E].json"
+        },
+        {
+          "video_id": "zkW4zLSQ7eQ",
+          "title": "You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto!",
+          "source": "Ethan Van Sciver",
+          "published": "2026-07-13T06:01:02+00:00",
+          "url": "https://www.youtube.com/watch?v=zkW4zLSQ7eQ",
+          "count": 6,
+          "transcript_file": "transcripts/2026/07/You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto! [zkW4zLSQ7eQ].json"
+        },
+        {
+          "video_id": "66FqtP0Wves",
+          "title": "It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on \"WOKE\"! LANTERNS Spoilers?!",
+          "source": "Ethan Van Sciver",
+          "published": "2026-07-11T04:50:41+00:00",
+          "url": "https://www.youtube.com/watch?v=66FqtP0Wves",
+          "count": 49,
+          "transcript_file": "transcripts/2026/07/It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on WOKE! LANTERNS Spoilers! [66FqtP0Wves].json"
+        },
+        {
+          "video_id": "fq2D80GqXqQ",
+          "title": "Chrissie Mayr Officially FIRED from FRIDAY NIGHT TIGHTS | j.A.C.k Show | July 9th 2026",
+          "source": "KatyDid",
+          "published": "2026-07-10T20:05:14+00:00",
+          "url": "https://www.youtube.com/watch?v=fq2D80GqXqQ",
+          "count": 3,
+          "transcript_file": "transcripts/2026/07/Chrissie Mayr Officially FIRED from FRIDAY NIGHT TIGHTS j.A.C.k Show July 9th 2026 [fq2D80GqXqQ].json"
+        },
+        {
+          "video_id": "HTrcwhelzCU",
+          "title": "Chrissie Mayr Officially Fired from Friday Night Tights (Jul 9, 2026)",
+          "source": "Elissa Clips",
+          "published": "2026-07-10T13:42:14+00:00",
+          "url": "https://www.youtube.com/watch?v=HTrcwhelzCU",
+          "count": 3,
+          "transcript_file": "transcripts/2026/07/Chrissie Mayr Officially Fired from Friday Night Tights (Jul 9, 2026) [HTrcwhelzCU].json"
+        },
+        {
+          "video_id": "VBJwPPZ1LeY",
+          "title": "Sturgis Went To Japan On Thirsty Thursday!",
+          "source": "Frog Tony",
+          "published": "2026-07-10T07:46:34+00:00",
+          "url": "https://www.youtube.com/watch?v=VBJwPPZ1LeY",
+          "count": 1,
+          "transcript_file": "transcripts/2026/07/Sturgis Went To Japan On Thirsty Thursday! [VBJwPPZ1LeY].json"
+        },
+        {
+          "video_id": "Sd_qKoB4Kjk",
+          "title": "Under New Management",
+          "source": "Liam Gray",
+          "published": "2026-07-09T02:57:16+00:00",
+          "url": "https://www.youtube.com/watch?v=Sd_qKoB4Kjk",
+          "count": 5,
+          "transcript_file": "transcripts/2026-07/Under New Management [Sd_qKoB4Kjk].json"
+        },
+        {
+          "video_id": "2m31Eip6Cmg",
+          "title": "CG AFTER DARK #35",
+          "source": "KatyDid",
+          "published": "2026-07-08T15:54:46+00:00",
+          "url": "https://www.youtube.com/watch?v=2m31Eip6Cmg",
+          "count": 1,
+          "transcript_file": "transcripts/2026/07/CG AFTER DARK #35 [2m31Eip6Cmg].json"
+        },
+        {
+          "video_id": "x7BWNaTUIpQ",
+          "title": "Liam Gray and His Mighty Chalice | Anna TSWG, Cecil, Rekieta and more",
+          "source": "KatyDid",
+          "published": "2026-07-04T20:45:28+00:00",
+          "url": "https://www.youtube.com/watch?v=x7BWNaTUIpQ",
+          "count": 9,
+          "transcript_file": "transcripts/2026/07/Liam Gray and His Mighty Chalice Anna TSWG, Cecil, Rekieta and more [x7BWNaTUIpQ].json"
+        },
+        {
+          "video_id": "MOQPFnHJYR0",
+          "title": "Cynic Got CATFISHED And EVS Continues To SPIRAL On Thirsty Thursday!",
+          "source": "Frog Tony",
+          "published": "2026-07-03T05:32:32+00:00",
+          "url": "https://www.youtube.com/watch?v=MOQPFnHJYR0",
+          "count": 4,
+          "transcript_file": "transcripts/2026/07/Cynic Got CATFISHED And EVS Continues To SPIRAL On Thirsty Thursday! [MOQPFnHJYR0].json"
+        }
+      ]
+    },
     "Vito Gesualdi": {
-      "total_mentions": 81,
-      "video_count": 9,
-      "source_count": 3,
+      "total_mentions": 85,
+      "video_count": 11,
+      "source_count": 4,
       "mentioned_by": {
         "KatyDid": 44,
         "Frog Tony": 36,
+        "Ministry of Dude": 4,
         "Ethan Van Sciver": 1
       },
       "videos": [
@@ -2274,6 +3153,15 @@
           "url": "https://www.youtube.com/watch?v=9OJNBEVnTBk",
           "count": 1,
           "transcript_file": "transcripts/2026/07/JCW Lunacy #90 Watch Party [9OJNBEVnTBk].json"
+        },
+        {
+          "video_id": "T80sgrQa_kA",
+          "title": "Is Leem throwing in the towel?! | #934",
+          "source": "Ministry of Dude",
+          "published": "2026-07-10T14:37:05+00:00",
+          "url": "https://www.youtube.com/watch?v=T80sgrQa_kA",
+          "count": 2,
+          "transcript_file": "transcripts/2026-07/Is Leem throwing in the towel! #934 [T80sgrQa_kA].json"
         },
         {
           "video_id": "VBJwPPZ1LeY",
@@ -2292,6 +3180,15 @@
           "url": "https://www.youtube.com/watch?v=2m31Eip6Cmg",
           "count": 37,
           "transcript_file": "transcripts/2026/07/CG AFTER DARK #35 [2m31Eip6Cmg].json"
+        },
+        {
+          "video_id": "4sQhgipvxyU",
+          "title": "I said Columbia, but Ralph just went to more Messico | #931",
+          "source": "Ministry of Dude",
+          "published": "2026-07-07T14:46:31+00:00",
+          "url": "https://www.youtube.com/watch?v=4sQhgipvxyU",
+          "count": 2,
+          "transcript_file": "transcripts/2026-07/I said Columbia, but Ralph just went to more Messico #931 [4sQhgipvxyU].json"
         },
         {
           "video_id": "RxZ_OdBN2f0",
@@ -2349,366 +3246,28 @@
         }
       ]
     },
-    "Cecil": {
-      "total_mentions": 78,
-      "video_count": 9,
-      "source_count": 4,
-      "mentioned_by": {
-        "Ethan Van Sciver": 57,
-        "KatyDid": 13,
-        "Frog Tony": 5,
-        "Elissa Clips": 3
-      },
-      "videos": [
-        {
-          "video_id": "LS_14uOaG2E",
-          "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
-          "source": "Ethan Van Sciver",
-          "published": "2026-07-13T23:19:06+00:00",
-          "url": "https://www.youtube.com/watch?v=LS_14uOaG2E",
-          "count": 2,
-          "transcript_file": "transcripts/2026/07/#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES! [LS_14uOaG2E].json"
-        },
-        {
-          "video_id": "zkW4zLSQ7eQ",
-          "title": "You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto!",
-          "source": "Ethan Van Sciver",
-          "published": "2026-07-13T06:01:02+00:00",
-          "url": "https://www.youtube.com/watch?v=zkW4zLSQ7eQ",
-          "count": 6,
-          "transcript_file": "transcripts/2026/07/You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto! [zkW4zLSQ7eQ].json"
-        },
-        {
-          "video_id": "66FqtP0Wves",
-          "title": "It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on \"WOKE\"! LANTERNS Spoilers?!",
-          "source": "Ethan Van Sciver",
-          "published": "2026-07-11T04:50:41+00:00",
-          "url": "https://www.youtube.com/watch?v=66FqtP0Wves",
-          "count": 49,
-          "transcript_file": "transcripts/2026/07/It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on WOKE! LANTERNS Spoilers! [66FqtP0Wves].json"
-        },
-        {
-          "video_id": "fq2D80GqXqQ",
-          "title": "Chrissie Mayr Officially FIRED from FRIDAY NIGHT TIGHTS | j.A.C.k Show | July 9th 2026",
-          "source": "KatyDid",
-          "published": "2026-07-10T20:05:14+00:00",
-          "url": "https://www.youtube.com/watch?v=fq2D80GqXqQ",
-          "count": 3,
-          "transcript_file": "transcripts/2026/07/Chrissie Mayr Officially FIRED from FRIDAY NIGHT TIGHTS j.A.C.k Show July 9th 2026 [fq2D80GqXqQ].json"
-        },
-        {
-          "video_id": "HTrcwhelzCU",
-          "title": "Chrissie Mayr Officially Fired from Friday Night Tights (Jul 9, 2026)",
-          "source": "Elissa Clips",
-          "published": "2026-07-10T13:42:14+00:00",
-          "url": "https://www.youtube.com/watch?v=HTrcwhelzCU",
-          "count": 3,
-          "transcript_file": "transcripts/2026/07/Chrissie Mayr Officially Fired from Friday Night Tights (Jul 9, 2026) [HTrcwhelzCU].json"
-        },
-        {
-          "video_id": "VBJwPPZ1LeY",
-          "title": "Sturgis Went To Japan On Thirsty Thursday!",
-          "source": "Frog Tony",
-          "published": "2026-07-10T07:46:34+00:00",
-          "url": "https://www.youtube.com/watch?v=VBJwPPZ1LeY",
-          "count": 1,
-          "transcript_file": "transcripts/2026/07/Sturgis Went To Japan On Thirsty Thursday! [VBJwPPZ1LeY].json"
-        },
-        {
-          "video_id": "2m31Eip6Cmg",
-          "title": "CG AFTER DARK #35",
-          "source": "KatyDid",
-          "published": "2026-07-08T15:54:46+00:00",
-          "url": "https://www.youtube.com/watch?v=2m31Eip6Cmg",
-          "count": 1,
-          "transcript_file": "transcripts/2026/07/CG AFTER DARK #35 [2m31Eip6Cmg].json"
-        },
-        {
-          "video_id": "x7BWNaTUIpQ",
-          "title": "Liam Gray and His Mighty Chalice | Anna TSWG, Cecil, Rekieta and more",
-          "source": "KatyDid",
-          "published": "2026-07-04T20:45:28+00:00",
-          "url": "https://www.youtube.com/watch?v=x7BWNaTUIpQ",
-          "count": 9,
-          "transcript_file": "transcripts/2026/07/Liam Gray and His Mighty Chalice Anna TSWG, Cecil, Rekieta and more [x7BWNaTUIpQ].json"
-        },
-        {
-          "video_id": "MOQPFnHJYR0",
-          "title": "Cynic Got CATFISHED And EVS Continues To SPIRAL On Thirsty Thursday!",
-          "source": "Frog Tony",
-          "published": "2026-07-03T05:32:32+00:00",
-          "url": "https://www.youtube.com/watch?v=MOQPFnHJYR0",
-          "count": 4,
-          "transcript_file": "transcripts/2026/07/Cynic Got CATFISHED And EVS Continues To SPIRAL On Thirsty Thursday! [MOQPFnHJYR0].json"
-        }
-      ]
-    },
-    "Aaron Imholte": {
-      "total_mentions": 55,
-      "video_count": 10,
-      "source_count": 4,
-      "mentioned_by": {
-        "Elissa Clips": 27,
-        "Ethan Van Sciver": 21,
-        "Commi3 Mark": 6,
-        "Frog Tony": 1
-      },
-      "videos": [
-        {
-          "video_id": "LS_14uOaG2E",
-          "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
-          "source": "Ethan Van Sciver",
-          "published": "2026-07-13T23:19:06+00:00",
-          "url": "https://www.youtube.com/watch?v=LS_14uOaG2E",
-          "count": 1,
-          "transcript_file": "transcripts/2026/07/#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES! [LS_14uOaG2E].json"
-        },
-        {
-          "video_id": "3VGvnr2bjKw",
-          "title": "Potentially Criminal on Nick Rekieta’s Downfall (Jul 12, 2026)",
-          "source": "Elissa Clips",
-          "published": "2026-07-13T13:12:53+00:00",
-          "url": "https://www.youtube.com/watch?v=3VGvnr2bjKw",
-          "count": 26,
-          "transcript_file": "transcripts/2026/07/3VGvnr2bjKw.json"
-        },
-        {
-          "video_id": "zkW4zLSQ7eQ",
-          "title": "You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto!",
-          "source": "Ethan Van Sciver",
-          "published": "2026-07-13T06:01:02+00:00",
-          "url": "https://www.youtube.com/watch?v=zkW4zLSQ7eQ",
-          "count": 1,
-          "transcript_file": "transcripts/2026/07/You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto! [zkW4zLSQ7eQ].json"
-        },
-        {
-          "video_id": "66FqtP0Wves",
-          "title": "It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on \"WOKE\"! LANTERNS Spoilers?!",
-          "source": "Ethan Van Sciver",
-          "published": "2026-07-11T04:50:41+00:00",
-          "url": "https://www.youtube.com/watch?v=66FqtP0Wves",
-          "count": 12,
-          "transcript_file": "transcripts/2026/07/It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on WOKE! LANTERNS Spoilers! [66FqtP0Wves].json"
-        },
-        {
-          "video_id": "LdLy2G5TM4c",
-          "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
-          "source": "Commi3 Mark",
-          "published": "2026-07-10T23:56:07+00:00",
-          "url": "https://www.youtube.com/watch?v=LdLy2G5TM4c",
-          "count": 5,
-          "transcript_file": "transcripts/2026/07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json"
-        },
-        {
-          "video_id": "xoq_kc-M_I8",
-          "title": "MATI: The Rekieta Segment - Nontent Skelly’s Daily Mail Article (Jul 10, 2026)",
-          "source": "Elissa Clips",
-          "published": "2026-07-10T18:12:57+00:00",
-          "url": "https://www.youtube.com/watch?v=xoq_kc-M_I8",
-          "count": 1,
-          "transcript_file": "transcripts/2026/07/MATI The Rekieta Segment - Nontent Skelly’s Daily Mail Article (Jul 10, 2026) [xoq_kc-M_I8].json"
-        },
-        {
-          "video_id": "Zd9PVsLAD5c",
-          "title": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
-          "source": "Ethan Van Sciver",
-          "published": "2026-07-07T04:26:42+00:00",
-          "url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c",
-          "count": 6,
-          "transcript_file": "transcripts/2026/07/COMICSGATE KINGS Let's draw GOTHAM characters! [Zd9PVsLAD5c].json"
-        },
-        {
-          "video_id": "ibGd2AqrEXg",
-          "title": "JON DEL ARROZ: HERES THE ATTENTION YOU ORDERED - SHANE DAVIS BACK ME BRO INTERNET BEEF - EXTRA SALTY",
-          "source": "Commi3 Mark",
-          "published": "2026-07-03T23:55:22+00:00",
-          "url": "https://www.youtube.com/watch?v=ibGd2AqrEXg",
-          "count": 1,
-          "transcript_file": "transcripts/2026/07/JON DEL ARROZ HERES THE ATTENTION YOU ORDERED - SHANE DAVIS BACK ME BRO INTERNET BEEF - EXTRA SALTY [ibGd2AqrEXg].json"
-        },
-        {
-          "video_id": "FrQfU1Y84Nk",
-          "title": "DRAW-MUH STREAM! REIGNBOW THE BRUTE Death of Papa Smerc page 3 pt3",
-          "source": "Ethan Van Sciver",
-          "published": "2026-06-30T21:23:41+00:00",
-          "url": "https://www.youtube.com/watch?v=FrQfU1Y84Nk",
-          "count": 1,
-          "transcript_file": "transcripts/2026/06/DRAW-MUH STREAM! REIGNBOW THE BRUTE Death of Papa Smerc page 3 pt3 [FrQfU1Y84Nk].json"
-        },
-        {
-          "video_id": "6GIxuFOICAI",
-          "title": "Catching Up With The Rippaverse! - Detractor Kings",
-          "source": "Frog Tony",
-          "published": "2026-06-30T05:04:06+00:00",
-          "url": "https://www.youtube.com/watch?v=6GIxuFOICAI",
-          "count": 1,
-          "transcript_file": "transcripts/2026/06/Catching Up With The Rippaverse! - Detractor Kings [6GIxuFOICAI].json"
-        }
-      ]
-    },
-    "Dropbox Drama": {
-      "total_mentions": 55,
-      "video_count": 4,
-      "source_count": 3,
-      "mentioned_by": {
-        "KatyDid": 41,
-        "Ethan Van Sciver": 7,
-        "Frog Tony": 7
-      },
-      "videos": [
-        {
-          "video_id": "zkW4zLSQ7eQ",
-          "title": "You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto!",
-          "source": "Ethan Van Sciver",
-          "published": "2026-07-13T06:01:02+00:00",
-          "url": "https://www.youtube.com/watch?v=zkW4zLSQ7eQ",
-          "count": 7,
-          "transcript_file": "transcripts/2026/07/You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto! [zkW4zLSQ7eQ].json"
-        },
-        {
-          "video_id": "O5BcX4ir3-0",
-          "title": "The Tribunal of Liam Gray | DROPBOX DRAMA",
-          "source": "KatyDid",
-          "published": "2026-07-10T18:12:59+00:00",
-          "url": "https://www.youtube.com/watch?v=O5BcX4ir3-0",
-          "count": 11,
-          "transcript_file": "transcripts/2026/07/The Tribunal of Liam Gray DROPBOX DRAMA [O5BcX4ir3-0].json"
-        },
-        {
-          "video_id": "7LMz5W0-mLs",
-          "title": "Finbarr STOMPS A Dwarf! - OPEN PANEL MADHOUSE!!!!",
-          "source": "Frog Tony",
-          "published": "2026-07-08T05:22:18+00:00",
-          "url": "https://www.youtube.com/watch?v=7LMz5W0-mLs",
-          "count": 7,
-          "transcript_file": "transcripts/2026/07/Finbarr STOMPS A Dwarf! - OPEN PANEL MADHOUSE!!!! [7LMz5W0-mLs].json"
-        },
-        {
-          "video_id": "edPpkg2kim4",
-          "title": "\"I REPORTED THE DROPBOX!\" Liam Gray Responds to EVS Reacting To A Viral Clip",
-          "source": "KatyDid",
-          "published": "2026-07-03T19:49:19+00:00",
-          "url": "https://www.youtube.com/watch?v=edPpkg2kim4",
-          "count": 30,
-          "transcript_file": "transcripts/2026/07/I REPORTED THE DROPBOX! Liam Gray Responds to EVS Reacting To A Viral Clip [edPpkg2kim4].json"
-        }
-      ]
-    },
-    "Nerdrotic": {
-      "total_mentions": 53,
-      "video_count": 10,
-      "source_count": 4,
-      "mentioned_by": {
-        "Frog Tony": 24,
-        "Ethan Van Sciver": 18,
-        "Elissa Clips": 6,
-        "KatyDid": 5
-      },
-      "videos": [
-        {
-          "video_id": "LS_14uOaG2E",
-          "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
-          "source": "Ethan Van Sciver",
-          "published": "2026-07-13T23:19:06+00:00",
-          "url": "https://www.youtube.com/watch?v=LS_14uOaG2E",
-          "count": 2,
-          "transcript_file": "transcripts/2026/07/#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES! [LS_14uOaG2E].json"
-        },
-        {
-          "video_id": "Uy8eHEmKNWY",
-          "title": "Kino Casino: Nerdrotic Fires Chrissie Mayr from Friday Night Tights (Jul 10, 2026)",
-          "source": "Elissa Clips",
-          "published": "2026-07-11T18:46:43+00:00",
-          "url": "https://www.youtube.com/watch?v=Uy8eHEmKNWY",
-          "count": 1,
-          "transcript_file": "transcripts/2026/07/Kino Casino Nerdrotic Fires Chrissie Mayr from Friday Night Tights (Jul 10, 2026) [Uy8eHEmKNWY].json"
-        },
-        {
-          "video_id": "66FqtP0Wves",
-          "title": "It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on \"WOKE\"! LANTERNS Spoilers?!",
-          "source": "Ethan Van Sciver",
-          "published": "2026-07-11T04:50:41+00:00",
-          "url": "https://www.youtube.com/watch?v=66FqtP0Wves",
-          "count": 15,
-          "transcript_file": "transcripts/2026/07/It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on WOKE! LANTERNS Spoilers! [66FqtP0Wves].json"
-        },
-        {
-          "video_id": "fq2D80GqXqQ",
-          "title": "Chrissie Mayr Officially FIRED from FRIDAY NIGHT TIGHTS | j.A.C.k Show | July 9th 2026",
-          "source": "KatyDid",
-          "published": "2026-07-10T20:05:14+00:00",
-          "url": "https://www.youtube.com/watch?v=fq2D80GqXqQ",
-          "count": 4,
-          "transcript_file": "transcripts/2026/07/Chrissie Mayr Officially FIRED from FRIDAY NIGHT TIGHTS j.A.C.k Show July 9th 2026 [fq2D80GqXqQ].json"
-        },
-        {
-          "video_id": "HTrcwhelzCU",
-          "title": "Chrissie Mayr Officially Fired from Friday Night Tights (Jul 9, 2026)",
-          "source": "Elissa Clips",
-          "published": "2026-07-10T13:42:14+00:00",
-          "url": "https://www.youtube.com/watch?v=HTrcwhelzCU",
-          "count": 5,
-          "transcript_file": "transcripts/2026/07/Chrissie Mayr Officially Fired from Friday Night Tights (Jul 9, 2026) [HTrcwhelzCU].json"
-        },
-        {
-          "video_id": "RxZ_OdBN2f0",
-          "title": "Katydid Caught LYING AGAIN! - Detractor Kings",
-          "source": "Frog Tony",
-          "published": "2026-07-07T05:46:59+00:00",
-          "url": "https://www.youtube.com/watch?v=RxZ_OdBN2f0",
-          "count": 6,
-          "transcript_file": "transcripts/2026/07/Katydid Caught LYING AGAIN! - Detractor Kings [RxZ_OdBN2f0].json"
-        },
-        {
-          "video_id": "edPpkg2kim4",
-          "title": "\"I REPORTED THE DROPBOX!\" Liam Gray Responds to EVS Reacting To A Viral Clip",
-          "source": "KatyDid",
-          "published": "2026-07-03T19:49:19+00:00",
-          "url": "https://www.youtube.com/watch?v=edPpkg2kim4",
-          "count": 1,
-          "transcript_file": "transcripts/2026/07/I REPORTED THE DROPBOX! Liam Gray Responds to EVS Reacting To A Viral Clip [edPpkg2kim4].json"
-        },
-        {
-          "video_id": "N52SC2cLnvY",
-          "title": "TRASHCAST # 267 BIGGEST PROBLEM was insane. Vito is a outta control. I pity him.",
-          "source": "Ethan Van Sciver",
-          "published": "2026-07-03T06:25:18+00:00",
-          "url": "https://www.youtube.com/watch?v=N52SC2cLnvY",
-          "count": 1,
-          "transcript_file": "transcripts/2026/07/TRASHCAST # 267 BIGGEST PROBLEM was insane. Vito is a outta control. I pity him. [N52SC2cLnvY].json"
-        },
-        {
-          "video_id": "MOQPFnHJYR0",
-          "title": "Cynic Got CATFISHED And EVS Continues To SPIRAL On Thirsty Thursday!",
-          "source": "Frog Tony",
-          "published": "2026-07-03T05:32:32+00:00",
-          "url": "https://www.youtube.com/watch?v=MOQPFnHJYR0",
-          "count": 2,
-          "transcript_file": "transcripts/2026/07/Cynic Got CATFISHED And EVS Continues To SPIRAL On Thirsty Thursday! [MOQPFnHJYR0].json"
-        },
-        {
-          "video_id": "6GIxuFOICAI",
-          "title": "Catching Up With The Rippaverse! - Detractor Kings",
-          "source": "Frog Tony",
-          "published": "2026-06-30T05:04:06+00:00",
-          "url": "https://www.youtube.com/watch?v=6GIxuFOICAI",
-          "count": 16,
-          "transcript_file": "transcripts/2026/06/Catching Up With The Rippaverse! - Detractor Kings [6GIxuFOICAI].json"
-        }
-      ]
-    },
     "Stray Beans": {
-      "total_mentions": 44,
-      "video_count": 10,
-      "source_count": 4,
+      "total_mentions": 61,
+      "video_count": 13,
+      "source_count": 5,
       "mentioned_by": {
         "Frog Tony": 34,
+        "FFS Cast": 17,
         "KatyDid": 7,
         "Ethan Van Sciver": 2,
         "Commi3 Mark": 1
       },
       "videos": [
         {
+          "video_id": "ZgbvZRJnCIk",
+          "title": "Gabbing With Ga......You know",
+          "source": "FFS Cast",
+          "published": "2026-07-15T03:34:34+00:00",
+          "url": "https://www.youtube.com/watch?v=ZgbvZRJnCIk",
+          "count": 5,
+          "transcript_file": "transcripts/2026-07/Gabbing With Ga......You know [ZgbvZRJnCIk].json"
+        },
+        {
           "video_id": "zkW4zLSQ7eQ",
           "title": "You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto!",
           "source": "Ethan Van Sciver",
@@ -2716,6 +3275,15 @@
           "url": "https://www.youtube.com/watch?v=zkW4zLSQ7eQ",
           "count": 2,
           "transcript_file": "transcripts/2026/07/You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto! [zkW4zLSQ7eQ].json"
+        },
+        {
+          "video_id": "8_9rhLQ1_cU",
+          "title": "The Ark Of Leem, LDA-King Stream",
+          "source": "FFS Cast",
+          "published": "2026-07-11T04:18:29+00:00",
+          "url": "https://www.youtube.com/watch?v=8_9rhLQ1_cU",
+          "count": 4,
+          "transcript_file": "transcripts/2026-07/The Ark Of Leem, LDA-King Stream [8_9rhLQ1_cU].json"
         },
         {
           "video_id": "O5BcX4ir3-0",
@@ -2743,6 +3311,15 @@
           "url": "https://www.youtube.com/watch?v=7LMz5W0-mLs",
           "count": 5,
           "transcript_file": "transcripts/2026/07/Finbarr STOMPS A Dwarf! - OPEN PANEL MADHOUSE!!!! [7LMz5W0-mLs].json"
+        },
+        {
+          "video_id": "MmvMoleX9Ls",
+          "title": "Gabbing With Ga......You Know",
+          "source": "FFS Cast",
+          "published": "2026-07-08T03:33:10+00:00",
+          "url": "https://www.youtube.com/watch?v=MmvMoleX9Ls",
+          "count": 8,
+          "transcript_file": "transcripts/2026-07/Gabbing With Ga......You Know [MmvMoleX9Ls].json"
         },
         {
           "video_id": "RxZ_OdBN2f0",
@@ -2800,17 +3377,207 @@
         }
       ]
     },
-    "DarkGift Comics": {
-      "total_mentions": 30,
-      "video_count": 10,
+    "Dropbox Drama": {
+      "total_mentions": 56,
+      "video_count": 5,
       "source_count": 4,
       "mentioned_by": {
+        "KatyDid": 41,
+        "Ethan Van Sciver": 7,
+        "Frog Tony": 7,
+        "Ministry of Dude": 1
+      },
+      "videos": [
+        {
+          "video_id": "zkW4zLSQ7eQ",
+          "title": "You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto!",
+          "source": "Ethan Van Sciver",
+          "published": "2026-07-13T06:01:02+00:00",
+          "url": "https://www.youtube.com/watch?v=zkW4zLSQ7eQ",
+          "count": 7,
+          "transcript_file": "transcripts/2026/07/You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto! [zkW4zLSQ7eQ].json"
+        },
+        {
+          "video_id": "O5BcX4ir3-0",
+          "title": "The Tribunal of Liam Gray | DROPBOX DRAMA",
+          "source": "KatyDid",
+          "published": "2026-07-10T18:12:59+00:00",
+          "url": "https://www.youtube.com/watch?v=O5BcX4ir3-0",
+          "count": 11,
+          "transcript_file": "transcripts/2026/07/The Tribunal of Liam Gray DROPBOX DRAMA [O5BcX4ir3-0].json"
+        },
+        {
+          "video_id": "T80sgrQa_kA",
+          "title": "Is Leem throwing in the towel?! | #934",
+          "source": "Ministry of Dude",
+          "published": "2026-07-10T14:37:05+00:00",
+          "url": "https://www.youtube.com/watch?v=T80sgrQa_kA",
+          "count": 1,
+          "transcript_file": "transcripts/2026-07/Is Leem throwing in the towel! #934 [T80sgrQa_kA].json"
+        },
+        {
+          "video_id": "7LMz5W0-mLs",
+          "title": "Finbarr STOMPS A Dwarf! - OPEN PANEL MADHOUSE!!!!",
+          "source": "Frog Tony",
+          "published": "2026-07-08T05:22:18+00:00",
+          "url": "https://www.youtube.com/watch?v=7LMz5W0-mLs",
+          "count": 7,
+          "transcript_file": "transcripts/2026/07/Finbarr STOMPS A Dwarf! - OPEN PANEL MADHOUSE!!!! [7LMz5W0-mLs].json"
+        },
+        {
+          "video_id": "edPpkg2kim4",
+          "title": "\"I REPORTED THE DROPBOX!\" Liam Gray Responds to EVS Reacting To A Viral Clip",
+          "source": "KatyDid",
+          "published": "2026-07-03T19:49:19+00:00",
+          "url": "https://www.youtube.com/watch?v=edPpkg2kim4",
+          "count": 30,
+          "transcript_file": "transcripts/2026/07/I REPORTED THE DROPBOX! Liam Gray Responds to EVS Reacting To A Viral Clip [edPpkg2kim4].json"
+        }
+      ]
+    },
+    "Nerdrotic": {
+      "total_mentions": 55,
+      "video_count": 11,
+      "source_count": 5,
+      "mentioned_by": {
+        "Frog Tony": 24,
+        "Ethan Van Sciver": 18,
+        "Elissa Clips": 6,
+        "KatyDid": 5,
+        "FFS Cast": 2
+      },
+      "videos": [
+        {
+          "video_id": "LS_14uOaG2E",
+          "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+          "source": "Ethan Van Sciver",
+          "published": "2026-07-13T23:19:06+00:00",
+          "url": "https://www.youtube.com/watch?v=LS_14uOaG2E",
+          "count": 2,
+          "transcript_file": "transcripts/2026/07/#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES! [LS_14uOaG2E].json"
+        },
+        {
+          "video_id": "Uy8eHEmKNWY",
+          "title": "Kino Casino: Nerdrotic Fires Chrissie Mayr from Friday Night Tights (Jul 10, 2026)",
+          "source": "Elissa Clips",
+          "published": "2026-07-11T18:46:43+00:00",
+          "url": "https://www.youtube.com/watch?v=Uy8eHEmKNWY",
+          "count": 1,
+          "transcript_file": "transcripts/2026/07/Kino Casino Nerdrotic Fires Chrissie Mayr from Friday Night Tights (Jul 10, 2026) [Uy8eHEmKNWY].json"
+        },
+        {
+          "video_id": "66FqtP0Wves",
+          "title": "It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on \"WOKE\"! LANTERNS Spoilers?!",
+          "source": "Ethan Van Sciver",
+          "published": "2026-07-11T04:50:41+00:00",
+          "url": "https://www.youtube.com/watch?v=66FqtP0Wves",
+          "count": 15,
+          "transcript_file": "transcripts/2026/07/It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on WOKE! LANTERNS Spoilers! [66FqtP0Wves].json"
+        },
+        {
+          "video_id": "fq2D80GqXqQ",
+          "title": "Chrissie Mayr Officially FIRED from FRIDAY NIGHT TIGHTS | j.A.C.k Show | July 9th 2026",
+          "source": "KatyDid",
+          "published": "2026-07-10T20:05:14+00:00",
+          "url": "https://www.youtube.com/watch?v=fq2D80GqXqQ",
+          "count": 4,
+          "transcript_file": "transcripts/2026/07/Chrissie Mayr Officially FIRED from FRIDAY NIGHT TIGHTS j.A.C.k Show July 9th 2026 [fq2D80GqXqQ].json"
+        },
+        {
+          "video_id": "HTrcwhelzCU",
+          "title": "Chrissie Mayr Officially Fired from Friday Night Tights (Jul 9, 2026)",
+          "source": "Elissa Clips",
+          "published": "2026-07-10T13:42:14+00:00",
+          "url": "https://www.youtube.com/watch?v=HTrcwhelzCU",
+          "count": 5,
+          "transcript_file": "transcripts/2026/07/Chrissie Mayr Officially Fired from Friday Night Tights (Jul 9, 2026) [HTrcwhelzCU].json"
+        },
+        {
+          "video_id": "MmvMoleX9Ls",
+          "title": "Gabbing With Ga......You Know",
+          "source": "FFS Cast",
+          "published": "2026-07-08T03:33:10+00:00",
+          "url": "https://www.youtube.com/watch?v=MmvMoleX9Ls",
+          "count": 2,
+          "transcript_file": "transcripts/2026-07/Gabbing With Ga......You Know [MmvMoleX9Ls].json"
+        },
+        {
+          "video_id": "RxZ_OdBN2f0",
+          "title": "Katydid Caught LYING AGAIN! - Detractor Kings",
+          "source": "Frog Tony",
+          "published": "2026-07-07T05:46:59+00:00",
+          "url": "https://www.youtube.com/watch?v=RxZ_OdBN2f0",
+          "count": 6,
+          "transcript_file": "transcripts/2026/07/Katydid Caught LYING AGAIN! - Detractor Kings [RxZ_OdBN2f0].json"
+        },
+        {
+          "video_id": "edPpkg2kim4",
+          "title": "\"I REPORTED THE DROPBOX!\" Liam Gray Responds to EVS Reacting To A Viral Clip",
+          "source": "KatyDid",
+          "published": "2026-07-03T19:49:19+00:00",
+          "url": "https://www.youtube.com/watch?v=edPpkg2kim4",
+          "count": 1,
+          "transcript_file": "transcripts/2026/07/I REPORTED THE DROPBOX! Liam Gray Responds to EVS Reacting To A Viral Clip [edPpkg2kim4].json"
+        },
+        {
+          "video_id": "N52SC2cLnvY",
+          "title": "TRASHCAST # 267 BIGGEST PROBLEM was insane. Vito is a outta control. I pity him.",
+          "source": "Ethan Van Sciver",
+          "published": "2026-07-03T06:25:18+00:00",
+          "url": "https://www.youtube.com/watch?v=N52SC2cLnvY",
+          "count": 1,
+          "transcript_file": "transcripts/2026/07/TRASHCAST # 267 BIGGEST PROBLEM was insane. Vito is a outta control. I pity him. [N52SC2cLnvY].json"
+        },
+        {
+          "video_id": "MOQPFnHJYR0",
+          "title": "Cynic Got CATFISHED And EVS Continues To SPIRAL On Thirsty Thursday!",
+          "source": "Frog Tony",
+          "published": "2026-07-03T05:32:32+00:00",
+          "url": "https://www.youtube.com/watch?v=MOQPFnHJYR0",
+          "count": 2,
+          "transcript_file": "transcripts/2026/07/Cynic Got CATFISHED And EVS Continues To SPIRAL On Thirsty Thursday! [MOQPFnHJYR0].json"
+        },
+        {
+          "video_id": "6GIxuFOICAI",
+          "title": "Catching Up With The Rippaverse! - Detractor Kings",
+          "source": "Frog Tony",
+          "published": "2026-06-30T05:04:06+00:00",
+          "url": "https://www.youtube.com/watch?v=6GIxuFOICAI",
+          "count": 16,
+          "transcript_file": "transcripts/2026/06/Catching Up With The Rippaverse! - Detractor Kings [6GIxuFOICAI].json"
+        }
+      ]
+    },
+    "DarkGift Comics": {
+      "total_mentions": 46,
+      "video_count": 13,
+      "source_count": 5,
+      "mentioned_by": {
         "Frog Tony": 20,
+        "FFS Cast": 16,
         "KatyDid": 7,
         "Commi3 Mark": 2,
         "Ethan Van Sciver": 1
       },
       "videos": [
+        {
+          "video_id": "ZgbvZRJnCIk",
+          "title": "Gabbing With Ga......You know",
+          "source": "FFS Cast",
+          "published": "2026-07-15T03:34:34+00:00",
+          "url": "https://www.youtube.com/watch?v=ZgbvZRJnCIk",
+          "count": 3,
+          "transcript_file": "transcripts/2026-07/Gabbing With Ga......You know [ZgbvZRJnCIk].json"
+        },
+        {
+          "video_id": "8_9rhLQ1_cU",
+          "title": "The Ark Of Leem, LDA-King Stream",
+          "source": "FFS Cast",
+          "published": "2026-07-11T04:18:29+00:00",
+          "url": "https://www.youtube.com/watch?v=8_9rhLQ1_cU",
+          "count": 10,
+          "transcript_file": "transcripts/2026-07/The Ark Of Leem, LDA-King Stream [8_9rhLQ1_cU].json"
+        },
         {
           "video_id": "VBJwPPZ1LeY",
           "title": "Sturgis Went To Japan On Thirsty Thursday!",
@@ -2828,6 +3595,15 @@
           "url": "https://www.youtube.com/watch?v=7LMz5W0-mLs",
           "count": 11,
           "transcript_file": "transcripts/2026/07/Finbarr STOMPS A Dwarf! - OPEN PANEL MADHOUSE!!!! [7LMz5W0-mLs].json"
+        },
+        {
+          "video_id": "MmvMoleX9Ls",
+          "title": "Gabbing With Ga......You Know",
+          "source": "FFS Cast",
+          "published": "2026-07-08T03:33:10+00:00",
+          "url": "https://www.youtube.com/watch?v=MmvMoleX9Ls",
+          "count": 3,
+          "transcript_file": "transcripts/2026-07/Gabbing With Ga......You Know [MmvMoleX9Ls].json"
         },
         {
           "video_id": "RxZ_OdBN2f0",
@@ -2899,6 +3675,128 @@
           "published": "2026-06-20T11:30:01+00:00",
           "url": "https://www.youtube.com/watch?v=SlodiZOj8bE",
           "count": 1,
+          "transcript_file": "transcripts/2026/06/FROG TONY'S FREEDOM FIGHTING FORCE FBI Investigation DRAMA Escalates [SlodiZOj8bE].json"
+        }
+      ]
+    },
+    "Trashcast": {
+      "total_mentions": 34,
+      "video_count": 12,
+      "source_count": 5,
+      "mentioned_by": {
+        "Ethan Van Sciver": 17,
+        "Frog Tony": 7,
+        "FFS Cast": 6,
+        "Commi3 Mark": 2,
+        "KatyDid": 2
+      },
+      "videos": [
+        {
+          "video_id": "ZgbvZRJnCIk",
+          "title": "Gabbing With Ga......You know",
+          "source": "FFS Cast",
+          "published": "2026-07-15T03:34:34+00:00",
+          "url": "https://www.youtube.com/watch?v=ZgbvZRJnCIk",
+          "count": 3,
+          "transcript_file": "transcripts/2026-07/Gabbing With Ga......You know [ZgbvZRJnCIk].json"
+        },
+        {
+          "video_id": "LS_14uOaG2E",
+          "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+          "source": "Ethan Van Sciver",
+          "published": "2026-07-13T23:19:06+00:00",
+          "url": "https://www.youtube.com/watch?v=LS_14uOaG2E",
+          "count": 4,
+          "transcript_file": "transcripts/2026/07/#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES! [LS_14uOaG2E].json"
+        },
+        {
+          "video_id": "zkW4zLSQ7eQ",
+          "title": "You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto!",
+          "source": "Ethan Van Sciver",
+          "published": "2026-07-13T06:01:02+00:00",
+          "url": "https://www.youtube.com/watch?v=zkW4zLSQ7eQ",
+          "count": 3,
+          "transcript_file": "transcripts/2026/07/You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto! [zkW4zLSQ7eQ].json"
+        },
+        {
+          "video_id": "66FqtP0Wves",
+          "title": "It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on \"WOKE\"! LANTERNS Spoilers?!",
+          "source": "Ethan Van Sciver",
+          "published": "2026-07-11T04:50:41+00:00",
+          "url": "https://www.youtube.com/watch?v=66FqtP0Wves",
+          "count": 5,
+          "transcript_file": "transcripts/2026/07/It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on WOKE! LANTERNS Spoilers! [66FqtP0Wves].json"
+        },
+        {
+          "video_id": "O5BcX4ir3-0",
+          "title": "The Tribunal of Liam Gray | DROPBOX DRAMA",
+          "source": "KatyDid",
+          "published": "2026-07-10T18:12:59+00:00",
+          "url": "https://www.youtube.com/watch?v=O5BcX4ir3-0",
+          "count": 2,
+          "transcript_file": "transcripts/2026/07/The Tribunal of Liam Gray DROPBOX DRAMA [O5BcX4ir3-0].json"
+        },
+        {
+          "video_id": "MmvMoleX9Ls",
+          "title": "Gabbing With Ga......You Know",
+          "source": "FFS Cast",
+          "published": "2026-07-08T03:33:10+00:00",
+          "url": "https://www.youtube.com/watch?v=MmvMoleX9Ls",
+          "count": 3,
+          "transcript_file": "transcripts/2026-07/Gabbing With Ga......You Know [MmvMoleX9Ls].json"
+        },
+        {
+          "video_id": "RxZ_OdBN2f0",
+          "title": "Katydid Caught LYING AGAIN! - Detractor Kings",
+          "source": "Frog Tony",
+          "published": "2026-07-07T05:46:59+00:00",
+          "url": "https://www.youtube.com/watch?v=RxZ_OdBN2f0",
+          "count": 1,
+          "transcript_file": "transcripts/2026/07/Katydid Caught LYING AGAIN! - Detractor Kings [RxZ_OdBN2f0].json"
+        },
+        {
+          "video_id": "N52SC2cLnvY",
+          "title": "TRASHCAST # 267 BIGGEST PROBLEM was insane. Vito is a outta control. I pity him.",
+          "source": "Ethan Van Sciver",
+          "published": "2026-07-03T06:25:18+00:00",
+          "url": "https://www.youtube.com/watch?v=N52SC2cLnvY",
+          "count": 4,
+          "transcript_file": "transcripts/2026/07/TRASHCAST # 267 BIGGEST PROBLEM was insane. Vito is a outta control. I pity him. [N52SC2cLnvY].json"
+        },
+        {
+          "video_id": "MOQPFnHJYR0",
+          "title": "Cynic Got CATFISHED And EVS Continues To SPIRAL On Thirsty Thursday!",
+          "source": "Frog Tony",
+          "published": "2026-07-03T05:32:32+00:00",
+          "url": "https://www.youtube.com/watch?v=MOQPFnHJYR0",
+          "count": 4,
+          "transcript_file": "transcripts/2026/07/Cynic Got CATFISHED And EVS Continues To SPIRAL On Thirsty Thursday! [MOQPFnHJYR0].json"
+        },
+        {
+          "video_id": "FrQfU1Y84Nk",
+          "title": "DRAW-MUH STREAM! REIGNBOW THE BRUTE Death of Papa Smerc page 3 pt3",
+          "source": "Ethan Van Sciver",
+          "published": "2026-06-30T21:23:41+00:00",
+          "url": "https://www.youtube.com/watch?v=FrQfU1Y84Nk",
+          "count": 1,
+          "transcript_file": "transcripts/2026/06/DRAW-MUH STREAM! REIGNBOW THE BRUTE Death of Papa Smerc page 3 pt3 [FrQfU1Y84Nk].json"
+        },
+        {
+          "video_id": "6GIxuFOICAI",
+          "title": "Catching Up With The Rippaverse! - Detractor Kings",
+          "source": "Frog Tony",
+          "published": "2026-06-30T05:04:06+00:00",
+          "url": "https://www.youtube.com/watch?v=6GIxuFOICAI",
+          "count": 2,
+          "transcript_file": "transcripts/2026/06/Catching Up With The Rippaverse! - Detractor Kings [6GIxuFOICAI].json"
+        },
+        {
+          "video_id": "SlodiZOj8bE",
+          "title": "FROG TONY'S FREEDOM FIGHTING FORCE | FBI Investigation DRAMA Escalates",
+          "source": "Commi3 Mark",
+          "published": "2026-06-20T11:30:01+00:00",
+          "url": "https://www.youtube.com/watch?v=SlodiZOj8bE",
+          "count": 2,
           "transcript_file": "transcripts/2026/06/FROG TONY'S FREEDOM FIGHTING FORCE FBI Investigation DRAMA Escalates [SlodiZOj8bE].json"
         }
       ]
@@ -3015,117 +3913,15 @@
         }
       ]
     },
-    "Trashcast": {
-      "total_mentions": 28,
-      "video_count": 10,
-      "source_count": 4,
-      "mentioned_by": {
-        "Ethan Van Sciver": 17,
-        "Frog Tony": 7,
-        "Commi3 Mark": 2,
-        "KatyDid": 2
-      },
-      "videos": [
-        {
-          "video_id": "LS_14uOaG2E",
-          "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
-          "source": "Ethan Van Sciver",
-          "published": "2026-07-13T23:19:06+00:00",
-          "url": "https://www.youtube.com/watch?v=LS_14uOaG2E",
-          "count": 4,
-          "transcript_file": "transcripts/2026/07/#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES! [LS_14uOaG2E].json"
-        },
-        {
-          "video_id": "zkW4zLSQ7eQ",
-          "title": "You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto!",
-          "source": "Ethan Van Sciver",
-          "published": "2026-07-13T06:01:02+00:00",
-          "url": "https://www.youtube.com/watch?v=zkW4zLSQ7eQ",
-          "count": 3,
-          "transcript_file": "transcripts/2026/07/You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto! [zkW4zLSQ7eQ].json"
-        },
-        {
-          "video_id": "66FqtP0Wves",
-          "title": "It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on \"WOKE\"! LANTERNS Spoilers?!",
-          "source": "Ethan Van Sciver",
-          "published": "2026-07-11T04:50:41+00:00",
-          "url": "https://www.youtube.com/watch?v=66FqtP0Wves",
-          "count": 5,
-          "transcript_file": "transcripts/2026/07/It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on WOKE! LANTERNS Spoilers! [66FqtP0Wves].json"
-        },
-        {
-          "video_id": "O5BcX4ir3-0",
-          "title": "The Tribunal of Liam Gray | DROPBOX DRAMA",
-          "source": "KatyDid",
-          "published": "2026-07-10T18:12:59+00:00",
-          "url": "https://www.youtube.com/watch?v=O5BcX4ir3-0",
-          "count": 2,
-          "transcript_file": "transcripts/2026/07/The Tribunal of Liam Gray DROPBOX DRAMA [O5BcX4ir3-0].json"
-        },
-        {
-          "video_id": "RxZ_OdBN2f0",
-          "title": "Katydid Caught LYING AGAIN! - Detractor Kings",
-          "source": "Frog Tony",
-          "published": "2026-07-07T05:46:59+00:00",
-          "url": "https://www.youtube.com/watch?v=RxZ_OdBN2f0",
-          "count": 1,
-          "transcript_file": "transcripts/2026/07/Katydid Caught LYING AGAIN! - Detractor Kings [RxZ_OdBN2f0].json"
-        },
-        {
-          "video_id": "N52SC2cLnvY",
-          "title": "TRASHCAST # 267 BIGGEST PROBLEM was insane. Vito is a outta control. I pity him.",
-          "source": "Ethan Van Sciver",
-          "published": "2026-07-03T06:25:18+00:00",
-          "url": "https://www.youtube.com/watch?v=N52SC2cLnvY",
-          "count": 4,
-          "transcript_file": "transcripts/2026/07/TRASHCAST # 267 BIGGEST PROBLEM was insane. Vito is a outta control. I pity him. [N52SC2cLnvY].json"
-        },
-        {
-          "video_id": "MOQPFnHJYR0",
-          "title": "Cynic Got CATFISHED And EVS Continues To SPIRAL On Thirsty Thursday!",
-          "source": "Frog Tony",
-          "published": "2026-07-03T05:32:32+00:00",
-          "url": "https://www.youtube.com/watch?v=MOQPFnHJYR0",
-          "count": 4,
-          "transcript_file": "transcripts/2026/07/Cynic Got CATFISHED And EVS Continues To SPIRAL On Thirsty Thursday! [MOQPFnHJYR0].json"
-        },
-        {
-          "video_id": "FrQfU1Y84Nk",
-          "title": "DRAW-MUH STREAM! REIGNBOW THE BRUTE Death of Papa Smerc page 3 pt3",
-          "source": "Ethan Van Sciver",
-          "published": "2026-06-30T21:23:41+00:00",
-          "url": "https://www.youtube.com/watch?v=FrQfU1Y84Nk",
-          "count": 1,
-          "transcript_file": "transcripts/2026/06/DRAW-MUH STREAM! REIGNBOW THE BRUTE Death of Papa Smerc page 3 pt3 [FrQfU1Y84Nk].json"
-        },
-        {
-          "video_id": "6GIxuFOICAI",
-          "title": "Catching Up With The Rippaverse! - Detractor Kings",
-          "source": "Frog Tony",
-          "published": "2026-06-30T05:04:06+00:00",
-          "url": "https://www.youtube.com/watch?v=6GIxuFOICAI",
-          "count": 2,
-          "transcript_file": "transcripts/2026/06/Catching Up With The Rippaverse! - Detractor Kings [6GIxuFOICAI].json"
-        },
-        {
-          "video_id": "SlodiZOj8bE",
-          "title": "FROG TONY'S FREEDOM FIGHTING FORCE | FBI Investigation DRAMA Escalates",
-          "source": "Commi3 Mark",
-          "published": "2026-06-20T11:30:01+00:00",
-          "url": "https://www.youtube.com/watch?v=SlodiZOj8bE",
-          "count": 2,
-          "transcript_file": "transcripts/2026/06/FROG TONY'S FREEDOM FIGHTING FORCE FBI Investigation DRAMA Escalates [SlodiZOj8bE].json"
-        }
-      ]
-    },
     "Fencegate": {
-      "total_mentions": 22,
-      "video_count": 8,
-      "source_count": 3,
+      "total_mentions": 23,
+      "video_count": 9,
+      "source_count": 4,
       "mentioned_by": {
         "Frog Tony": 10,
         "KatyDid": 10,
-        "Ethan Van Sciver": 2
+        "Ethan Van Sciver": 2,
+        "FFS Cast": 1
       },
       "videos": [
         {
@@ -3136,6 +3932,15 @@
           "url": "https://www.youtube.com/watch?v=zkW4zLSQ7eQ",
           "count": 1,
           "transcript_file": "transcripts/2026/07/You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto! [zkW4zLSQ7eQ].json"
+        },
+        {
+          "video_id": "8_9rhLQ1_cU",
+          "title": "The Ark Of Leem, LDA-King Stream",
+          "source": "FFS Cast",
+          "published": "2026-07-11T04:18:29+00:00",
+          "url": "https://www.youtube.com/watch?v=8_9rhLQ1_cU",
+          "count": 1,
+          "transcript_file": "transcripts/2026-07/The Ark Of Leem, LDA-King Stream [8_9rhLQ1_cU].json"
         },
         {
           "video_id": "VBJwPPZ1LeY",
@@ -3203,16 +4008,27 @@
       ]
     },
     "BackMeBro": {
-      "total_mentions": 18,
-      "video_count": 5,
-      "source_count": 4,
+      "total_mentions": 22,
+      "video_count": 7,
+      "source_count": 6,
       "mentioned_by": {
         "KatyDid": 7,
         "Commi3 Mark": 5,
         "Ethan Van Sciver": 5,
-        "Frog Tony": 1
+        "FFS Cast": 3,
+        "Frog Tony": 1,
+        "Shane Davis": 1
       },
       "videos": [
+        {
+          "video_id": "ZgbvZRJnCIk",
+          "title": "Gabbing With Ga......You know",
+          "source": "FFS Cast",
+          "published": "2026-07-15T03:34:34+00:00",
+          "url": "https://www.youtube.com/watch?v=ZgbvZRJnCIk",
+          "count": 3,
+          "transcript_file": "transcripts/2026-07/Gabbing With Ga......You know [ZgbvZRJnCIk].json"
+        },
         {
           "video_id": "zkW4zLSQ7eQ",
           "title": "You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto!",
@@ -3221,6 +4037,15 @@
           "url": "https://www.youtube.com/watch?v=zkW4zLSQ7eQ",
           "count": 1,
           "transcript_file": "transcripts/2026/07/You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto! [zkW4zLSQ7eQ].json"
+        },
+        {
+          "video_id": "3up8iIaCs_E",
+          "title": "Absolute Batman Scam? Mark Brooks Exposes How Retailers Screw Artists!",
+          "source": "Shane Davis",
+          "published": "2026-07-08T10:15:11+00:00",
+          "url": "https://www.youtube.com/watch?v=3up8iIaCs_E",
+          "count": 1,
+          "transcript_file": "transcripts/2026-07/Absolute Batman Scam Mark Brooks Exposes How Retailers Screw Artists! [3up8iIaCs_E].json"
         },
         {
           "video_id": "Zd9PVsLAD5c",
@@ -3261,13 +4086,14 @@
       ]
     },
     "Nick Rekieta": {
-      "total_mentions": 14,
-      "video_count": 5,
-      "source_count": 4,
+      "total_mentions": 15,
+      "video_count": 6,
+      "source_count": 5,
       "mentioned_by": {
         "Elissa Clips": 9,
         "KatyDid": 3,
         "Ethan Van Sciver": 1,
+        "FFS Cast": 1,
         "Frog Tony": 1
       },
       "videos": [
@@ -3279,6 +4105,15 @@
           "url": "https://www.youtube.com/watch?v=YJ3EPWpShMU",
           "count": 4,
           "transcript_file": "transcripts/2026/07/Rekieta Law Aaron Imholte’s HRO Won’t Last Forever & the Daily Mail Article (Jul 10, 2026) [YJ3EPWpShMU].json"
+        },
+        {
+          "video_id": "8_9rhLQ1_cU",
+          "title": "The Ark Of Leem, LDA-King Stream",
+          "source": "FFS Cast",
+          "published": "2026-07-11T04:18:29+00:00",
+          "url": "https://www.youtube.com/watch?v=8_9rhLQ1_cU",
+          "count": 1,
+          "transcript_file": "transcripts/2026-07/The Ark Of Leem, LDA-King Stream [8_9rhLQ1_cU].json"
         },
         {
           "video_id": "xoq_kc-M_I8",
@@ -3319,14 +4154,24 @@
       ]
     },
     "Jon Malin": {
-      "total_mentions": 12,
-      "video_count": 5,
-      "source_count": 2,
+      "total_mentions": 14,
+      "video_count": 6,
+      "source_count": 3,
       "mentioned_by": {
         "Ethan Van Sciver": 8,
-        "KatyDid": 4
+        "KatyDid": 4,
+        "FFS Cast": 2
       },
       "videos": [
+        {
+          "video_id": "ZgbvZRJnCIk",
+          "title": "Gabbing With Ga......You know",
+          "source": "FFS Cast",
+          "published": "2026-07-15T03:34:34+00:00",
+          "url": "https://www.youtube.com/watch?v=ZgbvZRJnCIk",
+          "count": 2,
+          "transcript_file": "transcripts/2026-07/Gabbing With Ga......You know [ZgbvZRJnCIk].json"
+        },
         {
           "video_id": "LS_14uOaG2E",
           "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
@@ -3375,12 +4220,14 @@
       ]
     },
     "Friday Night Tights": {
-      "total_mentions": 11,
-      "video_count": 4,
-      "source_count": 2,
+      "total_mentions": 13,
+      "video_count": 6,
+      "source_count": 4,
       "mentioned_by": {
         "Ethan Van Sciver": 7,
-        "Elissa Clips": 4
+        "Elissa Clips": 4,
+        "Liam Gray": 1,
+        "Ya Boi Zack": 1
       },
       "videos": [
         {
@@ -3402,6 +4249,15 @@
           "transcript_file": "transcripts/2026/07/#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES! [LS_14uOaG2E].json"
         },
         {
+          "video_id": "YUpeiVaoNa0",
+          "title": "EVEN A STOPPED CLOCK IS CORRECT TWICE A DAY- Deniz Camp ACCURATELY Describes Right-Wing Comics Sites",
+          "source": "Ya Boi Zack",
+          "published": "2026-07-13T16:47:14+00:00",
+          "url": "https://www.youtube.com/watch?v=YUpeiVaoNa0",
+          "count": 1,
+          "transcript_file": "transcripts/2026-07/EVEN A STOPPED CLOCK IS CORRECT TWICE A DAY- Deniz Camp ACCURATELY Describes Right-Wing Comics Sites [YUpeiVaoNa0].json"
+        },
+        {
           "video_id": "Uy8eHEmKNWY",
           "title": "Kino Casino: Nerdrotic Fires Chrissie Mayr from Friday Night Tights (Jul 10, 2026)",
           "source": "Elissa Clips",
@@ -3418,6 +4274,15 @@
           "url": "https://www.youtube.com/watch?v=66FqtP0Wves",
           "count": 2,
           "transcript_file": "transcripts/2026/07/It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on WOKE! LANTERNS Spoilers! [66FqtP0Wves].json"
+        },
+        {
+          "video_id": "Sd_qKoB4Kjk",
+          "title": "Under New Management",
+          "source": "Liam Gray",
+          "published": "2026-07-09T02:57:16+00:00",
+          "url": "https://www.youtube.com/watch?v=Sd_qKoB4Kjk",
+          "count": 1,
+          "transcript_file": "transcripts/2026-07/Under New Management [Sd_qKoB4Kjk].json"
         }
       ]
     },
@@ -3509,15 +4374,25 @@
       ]
     },
     "Little Movie Perp": {
-      "total_mentions": 7,
-      "video_count": 6,
-      "source_count": 3,
+      "total_mentions": 9,
+      "video_count": 7,
+      "source_count": 4,
       "mentioned_by": {
         "Frog Tony": 4,
         "Commi3 Mark": 2,
+        "FFS Cast": 2,
         "KatyDid": 1
       },
       "videos": [
+        {
+          "video_id": "MmvMoleX9Ls",
+          "title": "Gabbing With Ga......You Know",
+          "source": "FFS Cast",
+          "published": "2026-07-08T03:33:10+00:00",
+          "url": "https://www.youtube.com/watch?v=MmvMoleX9Ls",
+          "count": 2,
+          "transcript_file": "transcripts/2026-07/Gabbing With Ga......You Know [MmvMoleX9Ls].json"
+        },
         {
           "video_id": "RxZ_OdBN2f0",
           "title": "Katydid Caught LYING AGAIN! - Detractor Kings",
@@ -3574,6 +4449,54 @@
         }
       ]
     },
+    "Yanzi Lin": {
+      "total_mentions": 7,
+      "video_count": 4,
+      "source_count": 3,
+      "mentioned_by": {
+        "Ethan Van Sciver": 5,
+        "Commi3 Mark": 1,
+        "FFS Cast": 1
+      },
+      "videos": [
+        {
+          "video_id": "ZgbvZRJnCIk",
+          "title": "Gabbing With Ga......You know",
+          "source": "FFS Cast",
+          "published": "2026-07-15T03:34:34+00:00",
+          "url": "https://www.youtube.com/watch?v=ZgbvZRJnCIk",
+          "count": 1,
+          "transcript_file": "transcripts/2026-07/Gabbing With Ga......You know [ZgbvZRJnCIk].json"
+        },
+        {
+          "video_id": "LS_14uOaG2E",
+          "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+          "source": "Ethan Van Sciver",
+          "published": "2026-07-13T23:19:06+00:00",
+          "url": "https://www.youtube.com/watch?v=LS_14uOaG2E",
+          "count": 1,
+          "transcript_file": "transcripts/2026/07/#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES! [LS_14uOaG2E].json"
+        },
+        {
+          "video_id": "Zd9PVsLAD5c",
+          "title": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
+          "source": "Ethan Van Sciver",
+          "published": "2026-07-07T04:26:42+00:00",
+          "url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c",
+          "count": 4,
+          "transcript_file": "transcripts/2026/07/COMICSGATE KINGS Let's draw GOTHAM characters! [Zd9PVsLAD5c].json"
+        },
+        {
+          "video_id": "ibGd2AqrEXg",
+          "title": "JON DEL ARROZ: HERES THE ATTENTION YOU ORDERED - SHANE DAVIS BACK ME BRO INTERNET BEEF - EXTRA SALTY",
+          "source": "Commi3 Mark",
+          "published": "2026-07-03T23:55:22+00:00",
+          "url": "https://www.youtube.com/watch?v=ibGd2AqrEXg",
+          "count": 1,
+          "transcript_file": "transcripts/2026/07/JON DEL ARROZ HERES THE ATTENTION YOU ORDERED - SHANE DAVIS BACK ME BRO INTERNET BEEF - EXTRA SALTY [ibGd2AqrEXg].json"
+        }
+      ]
+    },
     "Kino Casino": {
       "total_mentions": 6,
       "video_count": 4,
@@ -3621,52 +4544,24 @@
         }
       ]
     },
-    "Yanzi Lin": {
-      "total_mentions": 6,
-      "video_count": 3,
+    "Anna That Star Wars Girl": {
+      "total_mentions": 2,
+      "video_count": 2,
       "source_count": 2,
       "mentioned_by": {
-        "Ethan Van Sciver": 5,
-        "Commi3 Mark": 1
+        "Ethan Van Sciver": 1,
+        "Liam Gray": 1
       },
       "videos": [
         {
-          "video_id": "LS_14uOaG2E",
-          "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
-          "source": "Ethan Van Sciver",
-          "published": "2026-07-13T23:19:06+00:00",
-          "url": "https://www.youtube.com/watch?v=LS_14uOaG2E",
+          "video_id": "Sd_qKoB4Kjk",
+          "title": "Under New Management",
+          "source": "Liam Gray",
+          "published": "2026-07-09T02:57:16+00:00",
+          "url": "https://www.youtube.com/watch?v=Sd_qKoB4Kjk",
           "count": 1,
-          "transcript_file": "transcripts/2026/07/#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES! [LS_14uOaG2E].json"
+          "transcript_file": "transcripts/2026-07/Under New Management [Sd_qKoB4Kjk].json"
         },
-        {
-          "video_id": "Zd9PVsLAD5c",
-          "title": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
-          "source": "Ethan Van Sciver",
-          "published": "2026-07-07T04:26:42+00:00",
-          "url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c",
-          "count": 4,
-          "transcript_file": "transcripts/2026/07/COMICSGATE KINGS Let's draw GOTHAM characters! [Zd9PVsLAD5c].json"
-        },
-        {
-          "video_id": "ibGd2AqrEXg",
-          "title": "JON DEL ARROZ: HERES THE ATTENTION YOU ORDERED - SHANE DAVIS BACK ME BRO INTERNET BEEF - EXTRA SALTY",
-          "source": "Commi3 Mark",
-          "published": "2026-07-03T23:55:22+00:00",
-          "url": "https://www.youtube.com/watch?v=ibGd2AqrEXg",
-          "count": 1,
-          "transcript_file": "transcripts/2026/07/JON DEL ARROZ HERES THE ATTENTION YOU ORDERED - SHANE DAVIS BACK ME BRO INTERNET BEEF - EXTRA SALTY [ibGd2AqrEXg].json"
-        }
-      ]
-    },
-    "Anna That Star Wars Girl": {
-      "total_mentions": 1,
-      "video_count": 1,
-      "source_count": 1,
-      "mentioned_by": {
-        "Ethan Van Sciver": 1
-      },
-      "videos": [
         {
           "video_id": "FrQfU1Y84Nk",
           "title": "DRAW-MUH STREAM! REIGNBOW THE BRUTE Death of Papa Smerc page 3 pt3",
@@ -3700,6 +4595,56 @@
   },
   "videos": [
     {
+      "video_id": "ZgbvZRJnCIk",
+      "title": "Gabbing With Ga......You know",
+      "source": "FFS Cast",
+      "published": "2026-07-15T03:34:34+00:00",
+      "url": "https://www.youtube.com/watch?v=ZgbvZRJnCIk",
+      "transcript_file": "transcripts/2026-07/Gabbing With Ga......You know [ZgbvZRJnCIk].json",
+      "mentions": {
+        "Shane Davis": 174,
+        "Ethan Van Sciver": 154,
+        "Liam Gray": 76,
+        "Frog Tony": 36,
+        "ComicsGate": 8,
+        "Cecil": 6,
+        "Stray Beans": 5,
+        "Eric July": 4,
+        "BackMeBro": 3,
+        "DarkGift Comics": 3,
+        "Trashcast": 3,
+        "Jon Malin": 2,
+        "Cyberfrog": 1,
+        "Dick Masterson": 1,
+        "Jon Del Arroz": 1,
+        "Yanzi Lin": 1
+      }
+    },
+    {
+      "video_id": "IiuHUxargVk",
+      "title": "Daddy Daughter Day (CG lies to you and why I am right)",
+      "source": "Liam Gray",
+      "published": "2026-07-15T02:57:09+00:00",
+      "url": "https://www.youtube.com/watch?v=IiuHUxargVk",
+      "transcript_file": "transcripts/2026-07/Daddy Daughter Day (CG lies to you and why I am right) [IiuHUxargVk].json",
+      "mentions": {
+        "Ethan Van Sciver": 3,
+        "Liam Gray": 2,
+        "Cyberfrog": 1
+      }
+    },
+    {
+      "video_id": "_9MjvkgkY9c",
+      "title": "TheQuartering’s K Cup Crisis PR & Crying Victim After Starting War with Kino Casino (Jul 14, 2026)",
+      "source": "Elissa Clips",
+      "published": "2026-07-15T00:23:47+00:00",
+      "url": "https://www.youtube.com/watch?v=_9MjvkgkY9c",
+      "transcript_file": "transcripts/2026-07/TheQuartering’s K Cup Crisis PR & Crying Victim After Starting War with Kino Casino (Jul 14, 2026) [_9MjvkgkY9c].json",
+      "mentions": {
+        "TheQuartering": 2
+      }
+    },
+    {
       "video_id": "dcgJdp8BRKs",
       "title": "Professional Streamer TheQuartering - Gooners Gonna Goon (Jul 14, 2026)",
       "source": "Elissa Clips",
@@ -3730,6 +4675,19 @@
       "transcript_file": "transcripts/2026-07/MATI TheQuartering’s Dropship Brand Dropship (Jul 10, 2026) [Zmx83V8vKSU].json",
       "mentions": {
         "TheQuartering": 10
+      }
+    },
+    {
+      "video_id": "jVMsgBTgicI",
+      "title": "Steel Toe gets hit with his very own HRO | #936",
+      "source": "Ministry of Dude",
+      "published": "2026-07-14T14:43:34+00:00",
+      "url": "https://www.youtube.com/watch?v=jVMsgBTgicI",
+      "transcript_file": "transcripts/2026-07/Steel Toe gets hit with his very own HRO #936 [jVMsgBTgicI].json",
+      "mentions": {
+        "Aaron Imholte": 45,
+        "Liam Gray": 4,
+        "Dick Masterson": 1
       }
     },
     {
@@ -3787,6 +4745,28 @@
       }
     },
     {
+      "video_id": "xG3Jg1rJ6nA",
+      "title": "Vito Disparaging EVS (TBPITU EPISODE #71) #comicsgate #comics #art",
+      "source": "Clippaverse",
+      "published": "2026-07-13T22:16:35+00:00",
+      "url": "https://www.youtube.com/shorts/xG3Jg1rJ6nA",
+      "transcript_file": "transcripts/2026-07/Vito Disparaging EVS (TBPITU EPISODE #71) #comicsgate #comics #art [xG3Jg1rJ6nA].json",
+      "mentions": {
+        "Ethan Van Sciver": 1
+      }
+    },
+    {
+      "video_id": "YUpeiVaoNa0",
+      "title": "EVEN A STOPPED CLOCK IS CORRECT TWICE A DAY- Deniz Camp ACCURATELY Describes Right-Wing Comics Sites",
+      "source": "Ya Boi Zack",
+      "published": "2026-07-13T16:47:14+00:00",
+      "url": "https://www.youtube.com/watch?v=YUpeiVaoNa0",
+      "transcript_file": "transcripts/2026-07/EVEN A STOPPED CLOCK IS CORRECT TWICE A DAY- Deniz Camp ACCURATELY Describes Right-Wing Comics Sites [YUpeiVaoNa0].json",
+      "mentions": {
+        "Friday Night Tights": 1
+      }
+    },
+    {
       "video_id": "3VGvnr2bjKw",
       "title": "Potentially Criminal on Nick Rekieta’s Downfall (Jul 12, 2026)",
       "source": "Elissa Clips",
@@ -3797,6 +4777,17 @@
         "Aaron Imholte": 26,
         "Ethan Van Sciver": 1,
         "TheQuartering": 1
+      }
+    },
+    {
+      "video_id": "p4tTJHqHSRE",
+      "title": "Netflix NEEDS God! They Want Christian Viewers NOW?!",
+      "source": "Shane Davis",
+      "published": "2026-07-13T10:15:18+00:00",
+      "url": "https://www.youtube.com/watch?v=p4tTJHqHSRE",
+      "transcript_file": "transcripts/2026-07/Netflix NEEDS God! They Want Christian Viewers NOW! [p4tTJHqHSRE].json",
+      "mentions": {
+        "Shane Davis": 1
       }
     },
     {
@@ -3872,6 +4863,15 @@
       }
     },
     {
+      "video_id": "yNnnMg6brR0",
+      "title": "It’s Rippaverse Day!",
+      "source": "Eric July",
+      "published": "2026-07-11T20:05:58+00:00",
+      "url": "https://www.youtube.com/shorts/yNnnMg6brR0",
+      "transcript_file": "transcripts/2026-07/It’s Rippaverse Day! [yNnnMg6brR0].json",
+      "mentions": {}
+    },
+    {
       "video_id": "Uy8eHEmKNWY",
       "title": "Kino Casino: Nerdrotic Fires Chrissie Mayr from Friday Night Tights (Jul 10, 2026)",
       "source": "Elissa Clips",
@@ -3894,6 +4894,21 @@
       "transcript_file": "transcripts/2026/07/Rekieta Law Aaron Imholte’s HRO Won’t Last Forever & the Daily Mail Article (Jul 10, 2026) [YJ3EPWpShMU].json",
       "mentions": {
         "Nick Rekieta": 4
+      }
+    },
+    {
+      "video_id": "3q0Lk5Vap5U",
+      "title": "It's All Fine - Friday Special | #935",
+      "source": "Ministry of Dude",
+      "published": "2026-07-11T16:52:27+00:00",
+      "url": "https://www.youtube.com/watch?v=3q0Lk5Vap5U",
+      "transcript_file": "transcripts/2026-07/It's All Fine - Friday Special #935 [3q0Lk5Vap5U].json",
+      "mentions": {
+        "Dick Masterson": 6,
+        "Chrissie Mayr": 3,
+        "Frog Tony": 3,
+        "Ethan Van Sciver": 1,
+        "Liam Gray": 1
       }
     },
     {
@@ -3936,6 +4951,29 @@
         "Friday Night Tights": 2,
         "Jon Del Arroz": 2,
         "Kino Casino": 2
+      }
+    },
+    {
+      "video_id": "8_9rhLQ1_cU",
+      "title": "The Ark Of Leem, LDA-King Stream",
+      "source": "FFS Cast",
+      "published": "2026-07-11T04:18:29+00:00",
+      "url": "https://www.youtube.com/watch?v=8_9rhLQ1_cU",
+      "transcript_file": "transcripts/2026-07/The Ark Of Leem, LDA-King Stream [8_9rhLQ1_cU].json",
+      "mentions": {
+        "Liam Gray": 217,
+        "Frog Tony": 101,
+        "Ethan Van Sciver": 18,
+        "Dick Masterson": 13,
+        "DarkGift Comics": 10,
+        "Sturgis": 9,
+        "Shane Davis": 5,
+        "Stray Beans": 4,
+        "Jon Del Arroz": 3,
+        "ComicsGate": 2,
+        "Eric July": 1,
+        "Fencegate": 1,
+        "Nick Rekieta": 1
       }
     },
     {
@@ -4037,6 +5075,21 @@
       }
     },
     {
+      "video_id": "T80sgrQa_kA",
+      "title": "Is Leem throwing in the towel?! | #934",
+      "source": "Ministry of Dude",
+      "published": "2026-07-10T14:37:05+00:00",
+      "url": "https://www.youtube.com/watch?v=T80sgrQa_kA",
+      "transcript_file": "transcripts/2026-07/Is Leem throwing in the towel! #934 [T80sgrQa_kA].json",
+      "mentions": {
+        "Liam Gray": 27,
+        "Aaron Imholte": 19,
+        "Ethan Van Sciver": 3,
+        "Vito Gesualdi": 2,
+        "Dropbox Drama": 1
+      }
+    },
+    {
       "video_id": "HTrcwhelzCU",
       "title": "Chrissie Mayr Officially Fired from Friday Night Tights (Jul 9, 2026)",
       "source": "Elissa Clips",
@@ -4121,6 +5174,66 @@
       }
     },
     {
+      "video_id": "STNCdSrYxEc",
+      "title": "Are People ACTUALLY Tired of \"Wokeness?\"",
+      "source": "Eric July",
+      "published": "2026-07-09T15:47:15+00:00",
+      "url": "https://www.youtube.com/watch?v=STNCdSrYxEc",
+      "transcript_file": "transcripts/2026-07/Are People ACTUALLY Tired of Wokeness [STNCdSrYxEc].json",
+      "mentions": {}
+    },
+    {
+      "video_id": "ims2nZAnn-s",
+      "title": "F - IT: We Are Soooooo Back (AGANE)",
+      "source": "Piper",
+      "published": "2026-07-09T03:55:54+00:00",
+      "url": "https://www.youtube.com/watch?v=ims2nZAnn-s",
+      "transcript_file": "transcripts/2026-07/F - IT We Are Soooooo Back (AGANE) [ims2nZAnn-s].json",
+      "mentions": {
+        "Liam Gray": 12,
+        "Frog Tony": 11,
+        "Ethan Van Sciver": 3,
+        "Jon Del Arroz": 3,
+        "ComicsGate": 1,
+        "Cyberfrog": 1,
+        "Eric July": 1
+      }
+    },
+    {
+      "video_id": "k3BD76GAF6I",
+      "title": "Nice and Easy - tunes with q",
+      "source": "ComicsGate Commandos",
+      "published": "2026-07-09T03:22:48+00:00",
+      "url": "https://www.youtube.com/watch?v=k3BD76GAF6I",
+      "transcript_file": "transcripts/2026-07/Nice and Easy - tunes with q [k3BD76GAF6I].json",
+      "mentions": {}
+    },
+    {
+      "video_id": "mDEdnIK_uuc",
+      "title": "More - tunes with q",
+      "source": "ComicsGate Commandos",
+      "published": "2026-07-09T03:17:03+00:00",
+      "url": "https://www.youtube.com/watch?v=mDEdnIK_uuc",
+      "transcript_file": "transcripts/2026-07/More - tunes with q [mDEdnIK_uuc].json",
+      "mentions": {}
+    },
+    {
+      "video_id": "Sd_qKoB4Kjk",
+      "title": "Under New Management",
+      "source": "Liam Gray",
+      "published": "2026-07-09T02:57:16+00:00",
+      "url": "https://www.youtube.com/watch?v=Sd_qKoB4Kjk",
+      "transcript_file": "transcripts/2026-07/Under New Management [Sd_qKoB4Kjk].json",
+      "mentions": {
+        "Liam Gray": 44,
+        "Cecil": 5,
+        "Ethan Van Sciver": 3,
+        "Anna That Star Wars Girl": 1,
+        "Chrissie Mayr": 1,
+        "Friday Night Tights": 1
+      }
+    },
+    {
       "video_id": "ErvISz34rtE",
       "title": "Coffee Brand Coffee’s Wednesday Meeting w/ Jeremy Hambly TheQuartering (Jul 8, 2026)",
       "source": "Elissa Clips",
@@ -4129,6 +5242,21 @@
       "transcript_file": "transcripts/2026/07/Coffee Brand Coffee’s Wednesday Meeting w Jeremy Hambly TheQuartering (Jul 8, 2026) [ErvISz34rtE].json",
       "mentions": {
         "TheQuartering": 4
+      }
+    },
+    {
+      "video_id": "pltu7sa30D8",
+      "title": "Scarlett lives her best life | #932",
+      "source": "Ministry of Dude",
+      "published": "2026-07-08T21:44:21+00:00",
+      "url": "https://www.youtube.com/watch?v=pltu7sa30D8",
+      "transcript_file": "transcripts/2026-07/Scarlett lives her best life #932 [pltu7sa30D8].json",
+      "mentions": {
+        "Ethan Van Sciver": 10,
+        "Dick Masterson": 3,
+        "Frog Tony": 2,
+        "Aaron Imholte": 1,
+        "Shane Davis": 1
       }
     },
     {
@@ -4162,6 +5290,18 @@
       }
     },
     {
+      "video_id": "3up8iIaCs_E",
+      "title": "Absolute Batman Scam? Mark Brooks Exposes How Retailers Screw Artists!",
+      "source": "Shane Davis",
+      "published": "2026-07-08T10:15:11+00:00",
+      "url": "https://www.youtube.com/watch?v=3up8iIaCs_E",
+      "transcript_file": "transcripts/2026-07/Absolute Batman Scam Mark Brooks Exposes How Retailers Screw Artists! [3up8iIaCs_E].json",
+      "mentions": {
+        "BackMeBro": 1,
+        "Shane Davis": 1
+      }
+    },
+    {
       "video_id": "7LMz5W0-mLs",
       "title": "Finbarr STOMPS A Dwarf! - OPEN PANEL MADHOUSE!!!!",
       "source": "Frog Tony",
@@ -4182,6 +5322,53 @@
         "Sturgis": 2,
         "Shane Davis": 1,
         "Yellow Flash": 1
+      }
+    },
+    {
+      "video_id": "MmvMoleX9Ls",
+      "title": "Gabbing With Ga......You Know",
+      "source": "FFS Cast",
+      "published": "2026-07-08T03:33:10+00:00",
+      "url": "https://www.youtube.com/watch?v=MmvMoleX9Ls",
+      "transcript_file": "transcripts/2026-07/Gabbing With Ga......You Know [MmvMoleX9Ls].json",
+      "mentions": {
+        "Liam Gray": 128,
+        "Frog Tony": 99,
+        "Ethan Van Sciver": 25,
+        "Shane Davis": 14,
+        "Jon Del Arroz": 12,
+        "Stray Beans": 8,
+        "Eric July": 7,
+        "ComicsGate": 5,
+        "DarkGift Comics": 3,
+        "TheQuartering": 3,
+        "Trashcast": 3,
+        "Dick Masterson": 2,
+        "Little Movie Perp": 2,
+        "Nerdrotic": 2
+      }
+    },
+    {
+      "video_id": "cIjp7l5KBfA",
+      "title": "Why the \"World Sport\" is different...",
+      "source": "Eric July",
+      "published": "2026-07-07T22:18:34+00:00",
+      "url": "https://www.youtube.com/watch?v=cIjp7l5KBfA",
+      "transcript_file": "transcripts/2026-07/Why the World Sport is different [cIjp7l5KBfA].json",
+      "mentions": {}
+    },
+    {
+      "video_id": "4sQhgipvxyU",
+      "title": "I said Columbia, but Ralph just went to more Messico | #931",
+      "source": "Ministry of Dude",
+      "published": "2026-07-07T14:46:31+00:00",
+      "url": "https://www.youtube.com/watch?v=4sQhgipvxyU",
+      "transcript_file": "transcripts/2026-07/I said Columbia, but Ralph just went to more Messico #931 [4sQhgipvxyU].json",
+      "mentions": {
+        "Dick Masterson": 10,
+        "Ethan Van Sciver": 6,
+        "Frog Tony": 2,
+        "Vito Gesualdi": 2
       }
     },
     {

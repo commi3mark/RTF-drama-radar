@@ -1,7 +1,55 @@
 {
-  "generated_at": "2026-07-14T17:32:38.425877+00:00",
+  "generated_at": "2026-07-15T01:08:17.413937+00:00",
   "schema_version": 2,
   "campaign_signals": [
+    {
+      "campaign_signal_id": "campaign-signal:LS_14uOaG2E:7213",
+      "platforms": [
+        "indiegogo"
+      ],
+      "actions": [
+        "launch"
+      ],
+      "quote": "ninja launch the Indiegogo on, you know,",
+      "published_at": "2026-07-13T23:19:06+00:00",
+      "source_title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "receipt_url": "https://www.youtube.com/watch?v=LS_14uOaG2E&t=7213s",
+      "transcript_file": "transcripts/2026/07/#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES! [LS_14uOaG2E].json",
+      "status": "candidate",
+      "confidence": 0.72
+    },
+    {
+      "campaign_signal_id": "campaign-signal:LS_14uOaG2E:7343",
+      "platforms": [
+        "indiegogo"
+      ],
+      "actions": [
+        "back"
+      ],
+      "quote": "like, I want to back on Indiegogo. So it",
+      "published_at": "2026-07-13T23:19:06+00:00",
+      "source_title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "receipt_url": "https://www.youtube.com/watch?v=LS_14uOaG2E&t=7343s",
+      "transcript_file": "transcripts/2026/07/#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES! [LS_14uOaG2E].json",
+      "status": "candidate",
+      "confidence": 0.72
+    },
+    {
+      "campaign_signal_id": "campaign-signal:LS_14uOaG2E:7733",
+      "platforms": [
+        "indiegogo"
+      ],
+      "actions": [
+        "back"
+      ],
+      "quote": "switch to Indiegogo to Back Me. So, um I",
+      "published_at": "2026-07-13T23:19:06+00:00",
+      "source_title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "receipt_url": "https://www.youtube.com/watch?v=LS_14uOaG2E&t=7733s",
+      "transcript_file": "transcripts/2026/07/#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES! [LS_14uOaG2E].json",
+      "status": "candidate",
+      "confidence": 0.72
+    },
     {
       "campaign_signal_id": "campaign-signal:Zd9PVsLAD5c:2770",
       "platforms": [
@@ -14,7 +62,7 @@
       "published_at": "2026-07-07T04:26:42+00:00",
       "source_title": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
       "receipt_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=2770s",
-      "transcript_file": "transcripts/2026-07/COMICSGATE KINGS Let's draw GOTHAM characters! [Zd9PVsLAD5c].json",
+      "transcript_file": "transcripts/2026/07/COMICSGATE KINGS Let's draw GOTHAM characters! [Zd9PVsLAD5c].json",
       "status": "candidate",
       "confidence": 0.72
     },
@@ -30,7 +78,7 @@
       "published_at": "2026-07-03T05:32:32+00:00",
       "source_title": "Cynic Got CATFISHED And EVS Continues To SPIRAL On Thirsty Thursday!",
       "receipt_url": "https://www.youtube.com/watch?v=MOQPFnHJYR0&t=12233s",
-      "transcript_file": "transcripts/2026-07/Cynic Got CATFISHED And EVS Continues To SPIRAL On Thirsty Thursday! [MOQPFnHJYR0].json",
+      "transcript_file": "transcripts/2026/07/Cynic Got CATFISHED And EVS Continues To SPIRAL On Thirsty Thursday! [MOQPFnHJYR0].json",
       "status": "candidate",
       "confidence": 0.72
     },
@@ -46,7 +94,7 @@
       "published_at": "2026-07-11T04:50:41+00:00",
       "source_title": "It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on \"WOKE\"! LANTERNS Spoilers?!",
       "receipt_url": "https://www.youtube.com/watch?v=66FqtP0Wves&t=11031s",
-      "transcript_file": "transcripts/2026-07/It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on WOKE! LANTERNS Spoilers! [66FqtP0Wves].json",
+      "transcript_file": "transcripts/2026/07/It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on WOKE! LANTERNS Spoilers! [66FqtP0Wves].json",
       "status": "candidate",
       "confidence": 0.72
     },
@@ -62,7 +110,7 @@
       "published_at": "2026-07-03T06:25:18+00:00",
       "source_title": "TRASHCAST # 267 BIGGEST PROBLEM was insane. Vito is a outta control. I pity him.",
       "receipt_url": "https://www.youtube.com/watch?v=N52SC2cLnvY&t=3320s",
-      "transcript_file": "transcripts/2026-07/TRASHCAST # 267 BIGGEST PROBLEM was insane. Vito is a outta control. I pity him. [N52SC2cLnvY].json",
+      "transcript_file": "transcripts/2026/07/TRASHCAST # 267 BIGGEST PROBLEM was insane. Vito is a outta control. I pity him. [N52SC2cLnvY].json",
       "status": "candidate",
       "confidence": 0.72
     }

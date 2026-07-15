@@ -1,8 +1,750 @@
 {
-  "generated_at": "2026-07-14T17:32:38.401573+00:00",
+  "generated_at": "2026-07-15T01:08:17.388648+00:00",
   "schema_version": 2,
-  "total": 267,
+  "total": 285,
   "claims": [
+    {
+      "claim_id": "claim:6GIxuFOICAI:9131:1",
+      "claim_text": "Riley told him that like he like got",
+      "claim_status": "reported_claim",
+      "reporting_speaker_entity_id": "person:frog-tony",
+      "attributed_speaker_entity_id": "person:riley",
+      "recipient_entity_ids": [],
+      "subject_entity_ids": [
+        "person:riley"
+      ],
+      "participant_entity_ids": [
+        "person:frog-tony",
+        "person:riley"
+      ],
+      "attribution_chain": [
+        {
+          "level": 1,
+          "speaker_entity_id": "person:frog-tony",
+          "verb": "said",
+          "recipient_entity_ids": [],
+          "content_type": "direct_statement"
+        },
+        {
+          "level": 2,
+          "speaker_entity_id": "person:riley",
+          "verb": "told",
+          "recipient_entity_ids": [],
+          "content_type": "reported_statement"
+        }
+      ],
+      "source_type": "youtube",
+      "source_title": "Catching Up With The Rippaverse! - Detractor Kings",
+      "source_entity_name": "Frog Tony",
+      "published_at": "2026-06-30T05:04:06+00:00",
+      "video_id": "6GIxuFOICAI",
+      "timestamp_seconds": 9131.12,
+      "timestamp_display": "02:32:11",
+      "exact_quote": "Riley told him that like he like got",
+      "context_before": "got on. He investigated the guy because",
+      "context_after": "arrested for fighting with his wife or",
+      "receipt_url": "https://www.youtube.com/watch?v=6GIxuFOICAI&t=9131s",
+      "evidence_ids": [
+        "evidence:youtube:6GIxuFOICAI:9131"
+      ],
+      "directness": "second_hand",
+      "confidence": 0.82
+    },
+    {
+      "claim_id": "claim:6GIxuFOICAI:9464:2",
+      "claim_text": "you said she didn't do anything wrong",
+      "claim_status": "direct_statement",
+      "reporting_speaker_entity_id": "person:frog-tony",
+      "attributed_speaker_entity_id": null,
+      "recipient_entity_ids": [],
+      "subject_entity_ids": [
+        "person:katy"
+      ],
+      "participant_entity_ids": [
+        "person:frog-tony",
+        "person:katy"
+      ],
+      "attribution_chain": [
+        {
+          "level": 1,
+          "speaker_entity_id": "person:frog-tony",
+          "verb": "said",
+          "recipient_entity_ids": [],
+          "content_type": "direct_statement"
+        }
+      ],
+      "source_type": "youtube",
+      "source_title": "Catching Up With The Rippaverse! - Detractor Kings",
+      "source_entity_name": "Frog Tony",
+      "published_at": "2026-06-30T05:04:06+00:00",
+      "video_id": "6GIxuFOICAI",
+      "timestamp_seconds": 9464.0,
+      "timestamp_display": "02:37:44",
+      "exact_quote": "you said she didn't do anything wrong",
+      "context_before": ">> why what is there to forgive Katie for",
+      "context_after": ">> right",
+      "receipt_url": "https://www.youtube.com/watch?v=6GIxuFOICAI&t=9464s",
+      "evidence_ids": [
+        "evidence:youtube:6GIxuFOICAI:9464"
+      ],
+      "directness": "direct",
+      "confidence": 0.9
+    },
+    {
+      "claim_id": "claim:6GIxuFOICAI:9770:3",
+      "claim_text": ">> Tommy Review says, \"He acted like an",
+      "claim_status": "direct_statement",
+      "reporting_speaker_entity_id": "person:frog-tony",
+      "attributed_speaker_entity_id": null,
+      "recipient_entity_ids": [],
+      "subject_entity_ids": [
+        "person:riley"
+      ],
+      "participant_entity_ids": [
+        "person:frog-tony",
+        "person:riley"
+      ],
+      "attribution_chain": [
+        {
+          "level": 1,
+          "speaker_entity_id": "person:frog-tony",
+          "verb": "said",
+          "recipient_entity_ids": [],
+          "content_type": "direct_statement"
+        }
+      ],
+      "source_type": "youtube",
+      "source_title": "Catching Up With The Rippaverse! - Detractor Kings",
+      "source_entity_name": "Frog Tony",
+      "published_at": "2026-06-30T05:04:06+00:00",
+      "video_id": "6GIxuFOICAI",
+      "timestamp_seconds": 9770.72,
+      "timestamp_display": "02:42:50",
+      "exact_quote": ">> Tommy Review says, \"He acted like an",
+      "context_before": "a good friend put this together for me.",
+      "context_after": "autistic Tony Soprano.\" Yeah, Riley had",
+      "receipt_url": "https://www.youtube.com/watch?v=6GIxuFOICAI&t=9770s",
+      "evidence_ids": [
+        "evidence:youtube:6GIxuFOICAI:9770"
+      ],
+      "directness": "direct",
+      "confidence": 0.9
+    },
+    {
+      "claim_id": "claim:6GIxuFOICAI:10106:4",
+      "claim_text": "one thing I I I said I never wanted",
+      "claim_status": "direct_statement",
+      "reporting_speaker_entity_id": "person:frog-tony",
+      "attributed_speaker_entity_id": null,
+      "recipient_entity_ids": [],
+      "subject_entity_ids": [
+        "person:katy"
+      ],
+      "participant_entity_ids": [
+        "person:frog-tony",
+        "person:katy"
+      ],
+      "attribution_chain": [
+        {
+          "level": 1,
+          "speaker_entity_id": "person:frog-tony",
+          "verb": "said",
+          "recipient_entity_ids": [],
+          "content_type": "direct_statement"
+        }
+      ],
+      "source_type": "youtube",
+      "source_title": "Catching Up With The Rippaverse! - Detractor Kings",
+      "source_entity_name": "Frog Tony",
+      "published_at": "2026-06-30T05:04:06+00:00",
+      "video_id": "6GIxuFOICAI",
+      "timestamp_seconds": 10106.08,
+      "timestamp_display": "02:48:26",
+      "exact_quote": "one thing I I I said I never wanted",
+      "context_before": ">> right? And you know, that's that's like",
+      "context_after": "Katie to promote me and if she did, I",
+      "receipt_url": "https://www.youtube.com/watch?v=6GIxuFOICAI&t=10106s",
+      "evidence_ids": [
+        "evidence:youtube:6GIxuFOICAI:10106"
+      ],
+      "directness": "direct",
+      "confidence": 0.9
+    },
+    {
+      "claim_id": "claim:6GIxuFOICAI:10136:5",
+      "claim_text": "specializes in this. One time he said",
+      "claim_status": "direct_statement",
+      "reporting_speaker_entity_id": "person:frog-tony",
+      "attributed_speaker_entity_id": null,
+      "recipient_entity_ids": [],
+      "subject_entity_ids": [
+        "person:riley"
+      ],
+      "participant_entity_ids": [
+        "person:frog-tony",
+        "person:riley"
+      ],
+      "attribution_chain": [
+        {
+          "level": 1,
+          "speaker_entity_id": "person:frog-tony",
+          "verb": "said",
+          "recipient_entity_ids": [],
+          "content_type": "direct_statement"
+        }
+      ],
+      "source_type": "youtube",
+      "source_title": "Catching Up With The Rippaverse! - Detractor Kings",
+      "source_entity_name": "Frog Tony",
+      "published_at": "2026-06-30T05:04:06+00:00",
+      "video_id": "6GIxuFOICAI",
+      "timestamp_seconds": 10136.56,
+      "timestamp_display": "02:48:56",
+      "exact_quote": "specializes in this. One time he said",
+      "context_before": "get really upset. And now Riley",
+      "context_after": "something like um what was it? He said",
+      "receipt_url": "https://www.youtube.com/watch?v=6GIxuFOICAI&t=10136s",
+      "evidence_ids": [
+        "evidence:youtube:6GIxuFOICAI:10136"
+      ],
+      "directness": "direct",
+      "confidence": 0.9
+    },
+    {
+      "claim_id": "claim:6GIxuFOICAI:10138:6",
+      "claim_text": "something like um what was it? He said",
+      "claim_status": "direct_statement",
+      "reporting_speaker_entity_id": "person:frog-tony",
+      "attributed_speaker_entity_id": null,
+      "recipient_entity_ids": [],
+      "subject_entity_ids": [
+        "person:riley"
+      ],
+      "participant_entity_ids": [
+        "person:frog-tony",
+        "person:riley"
+      ],
+      "attribution_chain": [
+        {
+          "level": 1,
+          "speaker_entity_id": "person:frog-tony",
+          "verb": "said",
+          "recipient_entity_ids": [],
+          "content_type": "direct_statement"
+        }
+      ],
+      "source_type": "youtube",
+      "source_title": "Catching Up With The Rippaverse! - Detractor Kings",
+      "source_entity_name": "Frog Tony",
+      "published_at": "2026-06-30T05:04:06+00:00",
+      "video_id": "6GIxuFOICAI",
+      "timestamp_seconds": 10138.8,
+      "timestamp_display": "02:48:58",
+      "exact_quote": "something like um what was it? He said",
+      "context_before": "specializes in this. One time he said",
+      "context_after": "if you threaten Chrissy Mayor in a way",
+      "receipt_url": "https://www.youtube.com/watch?v=6GIxuFOICAI&t=10138s",
+      "evidence_ids": [
+        "evidence:youtube:6GIxuFOICAI:10138"
+      ],
+      "directness": "direct",
+      "confidence": 0.9
+    },
+    {
+      "claim_id": "claim:FrQfU1Y84Nk:5289:1",
+      "claim_text": "a movement. Even though everyone says",
+      "claim_status": "direct_statement",
+      "reporting_speaker_entity_id": "person:ethan-van-sciver",
+      "attributed_speaker_entity_id": null,
+      "recipient_entity_ids": [],
+      "subject_entity_ids": [
+        "person:liam-gray"
+      ],
+      "participant_entity_ids": [
+        "person:ethan-van-sciver",
+        "person:liam-gray"
+      ],
+      "attribution_chain": [
+        {
+          "level": 1,
+          "speaker_entity_id": "person:ethan-van-sciver",
+          "verb": "said",
+          "recipient_entity_ids": [],
+          "content_type": "direct_statement"
+        }
+      ],
+      "source_type": "youtube",
+      "source_title": "DRAW-MUH STREAM! REIGNBOW THE BRUTE Death of Papa Smerc page 3 pt3",
+      "source_entity_name": "Ethan Van Sciver",
+      "published_at": "2026-06-30T21:23:41+00:00",
+      "video_id": "FrQfU1Y84Nk",
+      "timestamp_seconds": 5289.84,
+      "timestamp_display": "01:28:09",
+      "exact_quote": "a movement. Even though everyone says",
+      "context_before": ">> you know, because in my heart it's still",
+      "context_after": "it's not,",
+      "receipt_url": "https://www.youtube.com/watch?v=FrQfU1Y84Nk&t=5289s",
+      "evidence_ids": [
+        "evidence:youtube:FrQfU1Y84Nk:5289"
+      ],
+      "directness": "direct",
+      "confidence": 0.9
+    },
+    {
+      "claim_id": "claim:SlodiZOj8bE:2271:1",
+      "claim_text": "Katie dude for $2 says, \"Hail to the",
+      "claim_status": "reported_claim",
+      "reporting_speaker_entity_id": "person:commi3-mark",
+      "attributed_speaker_entity_id": "person:katy",
+      "recipient_entity_ids": [],
+      "subject_entity_ids": [
+        "person:katy"
+      ],
+      "participant_entity_ids": [
+        "person:commi3-mark",
+        "person:katy"
+      ],
+      "attribution_chain": [
+        {
+          "level": 1,
+          "speaker_entity_id": "person:commi3-mark",
+          "verb": "said",
+          "recipient_entity_ids": [],
+          "content_type": "direct_statement"
+        },
+        {
+          "level": 2,
+          "speaker_entity_id": "person:katy",
+          "verb": "says",
+          "recipient_entity_ids": [],
+          "content_type": "reported_statement"
+        }
+      ],
+      "source_type": "youtube",
+      "source_title": "FROG TONY'S FREEDOM FIGHTING FORCE | FBI Investigation DRAMA Escalates",
+      "source_entity_name": "Commi3 Mark",
+      "published_at": "2026-06-20T11:30:01+00:00",
+      "video_id": "SlodiZOj8bE",
+      "timestamp_seconds": 2271.76,
+      "timestamp_display": "37:51",
+      "exact_quote": "Katie dude for $2 says, \"Hail to the",
+      "context_before": ">> Thank you. Let me read that first. Uh",
+      "context_after": "great com.\" Thank you.",
+      "receipt_url": "https://www.youtube.com/watch?v=SlodiZOj8bE&t=2271s",
+      "evidence_ids": [
+        "evidence:youtube:SlodiZOj8bE:2271"
+      ],
+      "directness": "second_hand",
+      "confidence": 0.82
+    },
+    {
+      "claim_id": "claim:SlodiZOj8bE:2789:2",
+      "claim_text": ">> says for real",
+      "claim_status": "direct_statement",
+      "reporting_speaker_entity_id": "person:commi3-mark",
+      "attributed_speaker_entity_id": null,
+      "recipient_entity_ids": [],
+      "subject_entity_ids": [
+        "person:liam-gray"
+      ],
+      "participant_entity_ids": [
+        "person:commi3-mark",
+        "person:liam-gray"
+      ],
+      "attribution_chain": [
+        {
+          "level": 1,
+          "speaker_entity_id": "person:commi3-mark",
+          "verb": "said",
+          "recipient_entity_ids": [],
+          "content_type": "direct_statement"
+        }
+      ],
+      "source_type": "youtube",
+      "source_title": "FROG TONY'S FREEDOM FIGHTING FORCE | FBI Investigation DRAMA Escalates",
+      "source_entity_name": "Commi3 Mark",
+      "published_at": "2026-06-20T11:30:01+00:00",
+      "video_id": "SlodiZOj8bE",
+      "timestamp_seconds": 2789.359,
+      "timestamp_display": "46:29",
+      "exact_quote": ">> says for real",
+      "context_before": "obviously gave us a generous $50",
+      "context_after": ">> who are the new zeros.",
+      "receipt_url": "https://www.youtube.com/watch?v=SlodiZOj8bE&t=2789s",
+      "evidence_ids": [
+        "evidence:youtube:SlodiZOj8bE:2789"
+      ],
+      "directness": "direct",
+      "confidence": 0.9
+    },
+    {
+      "claim_id": "claim:SlodiZOj8bE:3299:3",
+      "claim_text": "one joke that he said in a stream and it",
+      "claim_status": "direct_statement",
+      "reporting_speaker_entity_id": "person:commi3-mark",
+      "attributed_speaker_entity_id": null,
+      "recipient_entity_ids": [],
+      "subject_entity_ids": [
+        "person:frog-tony"
+      ],
+      "participant_entity_ids": [
+        "person:commi3-mark",
+        "person:frog-tony"
+      ],
+      "attribution_chain": [
+        {
+          "level": 1,
+          "speaker_entity_id": "person:commi3-mark",
+          "verb": "said",
+          "recipient_entity_ids": [],
+          "content_type": "direct_statement"
+        }
+      ],
+      "source_type": "youtube",
+      "source_title": "FROG TONY'S FREEDOM FIGHTING FORCE | FBI Investigation DRAMA Escalates",
+      "source_entity_name": "Commi3 Mark",
+      "published_at": "2026-06-20T11:30:01+00:00",
+      "video_id": "SlodiZOj8bE",
+      "timestamp_seconds": 3299.599,
+      "timestamp_display": "54:59",
+      "exact_quote": "one joke that he said in a stream and it",
+      "context_before": "under the impression that it was this",
+      "context_after": "like where Frog Tony was saying some",
+      "receipt_url": "https://www.youtube.com/watch?v=SlodiZOj8bE&t=3299s",
+      "evidence_ids": [
+        "evidence:youtube:SlodiZOj8bE:3299"
+      ],
+      "directness": "direct",
+      "confidence": 0.9
+    },
+    {
+      "claim_id": "claim:SlodiZOj8bE:3361:4",
+      "claim_text": "said,",
+      "claim_status": "direct_statement",
+      "reporting_speaker_entity_id": "person:commi3-mark",
+      "attributed_speaker_entity_id": null,
+      "recipient_entity_ids": [],
+      "subject_entity_ids": [
+        "person:frog-tony"
+      ],
+      "participant_entity_ids": [
+        "person:commi3-mark",
+        "person:frog-tony"
+      ],
+      "attribution_chain": [
+        {
+          "level": 1,
+          "speaker_entity_id": "person:commi3-mark",
+          "verb": "said",
+          "recipient_entity_ids": [],
+          "content_type": "direct_statement"
+        }
+      ],
+      "source_type": "youtube",
+      "source_title": "FROG TONY'S FREEDOM FIGHTING FORCE | FBI Investigation DRAMA Escalates",
+      "source_entity_name": "Commi3 Mark",
+      "published_at": "2026-06-20T11:30:01+00:00",
+      "video_id": "SlodiZOj8bE",
+      "timestamp_seconds": 3361.76,
+      "timestamp_display": "56:01",
+      "exact_quote": "said,",
+      "context_before": ">> no. It was on a frog Tony stream. They",
+      "context_after": ">> \"Oh, so why did they rock up? Why did",
+      "receipt_url": "https://www.youtube.com/watch?v=SlodiZOj8bE&t=3361s",
+      "evidence_ids": [
+        "evidence:youtube:SlodiZOj8bE:3361"
+      ],
+      "directness": "direct",
+      "confidence": 0.9
+    },
+    {
+      "claim_id": "claim:F1ouqRPhAdM:317:1",
+      "claim_text": ">> I tweeted that out and Big Vo Big Vito",
+      "claim_status": "direct_statement",
+      "reporting_speaker_entity_id": "person:frog-tony",
+      "attributed_speaker_entity_id": null,
+      "recipient_entity_ids": [
+        "person:vito-gesualdi"
+      ],
+      "subject_entity_ids": [
+        "person:vito-gesualdi"
+      ],
+      "participant_entity_ids": [
+        "person:frog-tony",
+        "person:vito-gesualdi"
+      ],
+      "attribution_chain": [
+        {
+          "level": 1,
+          "speaker_entity_id": "person:frog-tony",
+          "verb": "said",
+          "recipient_entity_ids": [],
+          "content_type": "direct_statement"
+        }
+      ],
+      "source_type": "youtube",
+      "source_title": "JCW Lunacy #88 Watch Party!",
+      "source_entity_name": "Frog Tony",
+      "published_at": "2026-06-27T16:10:55+00:00",
+      "video_id": "F1ouqRPhAdM",
+      "timestamp_seconds": 317.36,
+      "timestamp_display": "05:17",
+      "exact_quote": ">> I tweeted that out and Big Vo Big Vito",
+      "context_before": ">> The cream soda was good.",
+      "context_after": "retweeted me. So, I was very happy.",
+      "receipt_url": "https://www.youtube.com/watch?v=F1ouqRPhAdM&t=317s",
+      "evidence_ids": [
+        "evidence:youtube:F1ouqRPhAdM:317"
+      ],
+      "directness": "direct",
+      "confidence": 0.9
+    },
+    {
+      "claim_id": "claim:F1ouqRPhAdM:4553:2",
+      "claim_text": ">> Well, Big Vito says a lot of things and",
+      "claim_status": "reported_claim",
+      "reporting_speaker_entity_id": "person:frog-tony",
+      "attributed_speaker_entity_id": "person:vito-gesualdi",
+      "recipient_entity_ids": [],
+      "subject_entity_ids": [
+        "person:vito-gesualdi"
+      ],
+      "participant_entity_ids": [
+        "person:frog-tony",
+        "person:vito-gesualdi"
+      ],
+      "attribution_chain": [
+        {
+          "level": 1,
+          "speaker_entity_id": "person:frog-tony",
+          "verb": "said",
+          "recipient_entity_ids": [],
+          "content_type": "direct_statement"
+        },
+        {
+          "level": 2,
+          "speaker_entity_id": "person:vito-gesualdi",
+          "verb": "says",
+          "recipient_entity_ids": [],
+          "content_type": "reported_statement"
+        }
+      ],
+      "source_type": "youtube",
+      "source_title": "JCW Lunacy #88 Watch Party!",
+      "source_entity_name": "Frog Tony",
+      "published_at": "2026-06-27T16:10:55+00:00",
+      "video_id": "F1ouqRPhAdM",
+      "timestamp_seconds": 4553.44,
+      "timestamp_display": "01:15:53",
+      "exact_quote": ">> Well, Big Vito says a lot of things and",
+      "context_before": "From what we heard doesn't sound good.",
+      "context_after": "I'm not sure when to uh when to believe",
+      "receipt_url": "https://www.youtube.com/watch?v=F1ouqRPhAdM&t=4553s",
+      "evidence_ids": [
+        "evidence:youtube:F1ouqRPhAdM:4553"
+      ],
+      "directness": "second_hand",
+      "confidence": 0.82
+    },
+    {
+      "claim_id": "claim:MBKTh4fSITU:839:1",
+      "claim_text": ">> Billy. I don't know if I said hello to",
+      "claim_status": "direct_statement",
+      "reporting_speaker_entity_id": "person:commi3-mark",
+      "attributed_speaker_entity_id": null,
+      "recipient_entity_ids": [],
+      "subject_entity_ids": [
+        "person:katy"
+      ],
+      "participant_entity_ids": [
+        "person:commi3-mark",
+        "person:katy"
+      ],
+      "attribution_chain": [
+        {
+          "level": 1,
+          "speaker_entity_id": "person:commi3-mark",
+          "verb": "said",
+          "recipient_entity_ids": [],
+          "content_type": "direct_statement"
+        }
+      ],
+      "source_type": "youtube",
+      "source_title": "\"MINISTRY OF UNGENTLEMANLY TWEETS\" EXPOSES COMMI3 MARK - OH NO!",
+      "source_entity_name": "Commi3 Mark",
+      "published_at": "2026-06-26T23:47:47+00:00",
+      "video_id": "MBKTh4fSITU",
+      "timestamp_seconds": 839.279,
+      "timestamp_display": "13:59",
+      "exact_quote": ">> Billy. I don't know if I said hello to",
+      "context_before": "Katy. Hello,",
+      "context_after": "you already. Welcome.",
+      "receipt_url": "https://www.youtube.com/watch?v=MBKTh4fSITU&t=839s",
+      "evidence_ids": [
+        "evidence:youtube:MBKTh4fSITU:839"
+      ],
+      "directness": "direct",
+      "confidence": 0.9
+    },
+    {
+      "claim_id": "claim:MBKTh4fSITU:1259:2",
+      "claim_text": "someone said, \"Oh, look. There's",
+      "claim_status": "direct_statement",
+      "reporting_speaker_entity_id": "person:commi3-mark",
+      "attributed_speaker_entity_id": null,
+      "recipient_entity_ids": [],
+      "subject_entity_ids": [
+        "person:ethan-van-sciver"
+      ],
+      "participant_entity_ids": [
+        "person:commi3-mark",
+        "person:ethan-van-sciver"
+      ],
+      "attribution_chain": [
+        {
+          "level": 1,
+          "speaker_entity_id": "person:commi3-mark",
+          "verb": "said",
+          "recipient_entity_ids": [],
+          "content_type": "direct_statement"
+        }
+      ],
+      "source_type": "youtube",
+      "source_title": "\"MINISTRY OF UNGENTLEMANLY TWEETS\" EXPOSES COMMI3 MARK - OH NO!",
+      "source_entity_name": "Commi3 Mark",
+      "published_at": "2026-06-26T23:47:47+00:00",
+      "video_id": "MBKTh4fSITU",
+      "timestamp_seconds": 1259.36,
+      "timestamp_display": "20:59",
+      "exact_quote": "someone said, \"Oh, look. There's",
+      "context_before": "out some comments from EVS's chat and",
+      "context_after": "Charlie's London's husband.\" [laughter]",
+      "receipt_url": "https://www.youtube.com/watch?v=MBKTh4fSITU&t=1259s",
+      "evidence_ids": [
+        "evidence:youtube:MBKTh4fSITU:1259"
+      ],
+      "directness": "direct",
+      "confidence": 0.9
+    },
+    {
+      "claim_id": "claim:MBKTh4fSITU:3082:3",
+      "claim_text": ">> I I think Kanye said this. Um I hope",
+      "claim_status": "direct_statement",
+      "reporting_speaker_entity_id": "person:commi3-mark",
+      "attributed_speaker_entity_id": null,
+      "recipient_entity_ids": [],
+      "subject_entity_ids": [
+        "person:frog-tony"
+      ],
+      "participant_entity_ids": [
+        "person:commi3-mark",
+        "person:frog-tony"
+      ],
+      "attribution_chain": [
+        {
+          "level": 1,
+          "speaker_entity_id": "person:commi3-mark",
+          "verb": "said",
+          "recipient_entity_ids": [],
+          "content_type": "direct_statement"
+        }
+      ],
+      "source_type": "youtube",
+      "source_title": "\"MINISTRY OF UNGENTLEMANLY TWEETS\" EXPOSES COMMI3 MARK - OH NO!",
+      "source_entity_name": "Commi3 Mark",
+      "published_at": "2026-06-26T23:47:47+00:00",
+      "video_id": "MBKTh4fSITU",
+      "timestamp_seconds": 3082.88,
+      "timestamp_display": "51:22",
+      "exact_quote": ">> I I think Kanye said this. Um I hope",
+      "context_before": ">> I agree. I'm mostly mostly anti- rape.",
+      "context_after": "they stretch his ass out like Frog Tony.",
+      "receipt_url": "https://www.youtube.com/watch?v=MBKTh4fSITU&t=3082s",
+      "evidence_ids": [
+        "evidence:youtube:MBKTh4fSITU:3082"
+      ],
+      "directness": "direct",
+      "confidence": 0.9
+    },
+    {
+      "claim_id": "claim:MBKTh4fSITU:3742:4",
+      "claim_text": "Java says FFS can't grow anymore.",
+      "claim_status": "direct_statement",
+      "reporting_speaker_entity_id": "person:commi3-mark",
+      "attributed_speaker_entity_id": null,
+      "recipient_entity_ids": [],
+      "subject_entity_ids": [
+        "person:katy"
+      ],
+      "participant_entity_ids": [
+        "person:commi3-mark",
+        "person:katy"
+      ],
+      "attribution_chain": [
+        {
+          "level": 1,
+          "speaker_entity_id": "person:commi3-mark",
+          "verb": "said",
+          "recipient_entity_ids": [],
+          "content_type": "direct_statement"
+        }
+      ],
+      "source_type": "youtube",
+      "source_title": "\"MINISTRY OF UNGENTLEMANLY TWEETS\" EXPOSES COMMI3 MARK - OH NO!",
+      "source_entity_name": "Commi3 Mark",
+      "published_at": "2026-06-26T23:47:47+00:00",
+      "video_id": "MBKTh4fSITU",
+      "timestamp_seconds": 3742.88,
+      "timestamp_display": "01:02:22",
+      "exact_quote": "Java says FFS can't grow anymore.",
+      "context_before": "it maybe that",
+      "context_after": "Jaba's up there in third just ahead of",
+      "receipt_url": "https://www.youtube.com/watch?v=MBKTh4fSITU&t=3742s",
+      "evidence_ids": [
+        "evidence:youtube:MBKTh4fSITU:3742"
+      ],
+      "directness": "direct",
+      "confidence": 0.9
+    },
+    {
+      "claim_id": "claim:LS_14uOaG2E:6675:1",
+      "claim_text": "JSOM. Once on Kino Casino PPP said, Safa",
+      "claim_status": "direct_statement",
+      "reporting_speaker_entity_id": "person:ethan-van-sciver",
+      "attributed_speaker_entity_id": "person:ethan-van-sciver",
+      "recipient_entity_ids": [],
+      "subject_entity_ids": [
+        "person:ethan-van-sciver"
+      ],
+      "participant_entity_ids": [
+        "person:ethan-van-sciver"
+      ],
+      "attribution_chain": [
+        {
+          "level": 1,
+          "speaker_entity_id": "person:ethan-van-sciver",
+          "verb": "said",
+          "recipient_entity_ids": [],
+          "content_type": "direct_statement"
+        }
+      ],
+      "source_type": "youtube",
+      "source_title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "source_entity_name": "Ethan Van Sciver",
+      "published_at": "2026-07-13T23:19:06+00:00",
+      "video_id": "LS_14uOaG2E",
+      "timestamp_seconds": 6675.52,
+      "timestamp_display": "01:51:15",
+      "exact_quote": "JSOM. Once on Kino Casino PPP said, Safa",
+      "context_before": "long drive. Sturgeis turned on CG over",
+      "context_after": "Ethan Van Skyver. Uh, Warski laughed and",
+      "receipt_url": "https://www.youtube.com/watch?v=LS_14uOaG2E&t=6675s",
+      "evidence_ids": [
+        "evidence:youtube:LS_14uOaG2E:6675"
+      ],
+      "directness": "direct",
+      "confidence": 0.9
+    },
     {
       "claim_id": "claim:2m31Eip6Cmg:958:1",
       "claim_text": "to see you. Says, \"Damn, it's my",
@@ -2986,9 +3728,12 @@
       "claim_text": ">> Uh Slaming Brand says, \"Come Mark, you",
       "claim_status": "direct_statement",
       "reporting_speaker_entity_id": "person:commi3-mark",
-      "attributed_speaker_entity_id": null,
-      "recipient_entity_ids": [],
+      "attributed_speaker_entity_id": "person:commi3-mark",
+      "recipient_entity_ids": [
+        "person:commi3-mark"
+      ],
       "subject_entity_ids": [
+        "person:commi3-mark",
         "person:ethan-van-sciver"
       ],
       "participant_entity_ids": [
