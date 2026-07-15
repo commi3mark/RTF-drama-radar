@@ -1,0 +1,192 @@
+{
+  "schema_version": "octopuss-evidence-packet-v0.1",
+  "video_id": "V1nqAzwILiM",
+  "title": "Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! | TRASHCAST",
+  "source": "KatyDid",
+  "platform": "YouTube",
+  "published": "2026-07-08T12:40:22+00:00",
+  "url": "https://www.youtube.com/watch?v=V1nqAzwILiM",
+  "language": "en",
+  "is_generated": true,
+  "transcript_path": "transcripts/2026/07/Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! TRASHCAST [V1nqAzwILiM].json",
+  "transcript_sha256": "fdd0092b4bfa406d2ee9cb2c3387b79df1f79703cf88c7d8a400bb5222227b82",
+  "generated_at": "2026-07-15T19:14:20.108747+00:00",
+  "block_minutes": 12,
+  "block_count": 1,
+  "segment_count": 280,
+  "coverage": {
+    "first_caption_second": 0.32,
+    "last_caption_second": 707.56,
+    "timestamp_start": "00:00",
+    "timestamp_end": "11:47",
+    "caption_span_seconds": 707.24,
+    "status": "transcript_present",
+    "note": "This measures the caption span only. It does not prove complete coverage of the original video."
+  },
+  "global_mention_counts": {
+    "Liam Gray": 33,
+    "Fencegate": 10,
+    "Yellow Flash": 2,
+    "Ethan Van Sciver": 1
+  },
+  "blocks": [
+    {
+      "block_number": 1,
+      "window_start": 0,
+      "window_end": 720,
+      "actual_start": 0.32,
+      "actual_end": 707.56,
+      "timestamp_start": "00:00",
+      "timestamp_end": "11:47",
+      "segment_count": 280,
+      "character_count": 9296,
+      "entity_counts": {
+        "Liam Gray": 10,
+        "Fencegate": 10,
+        "Yellow Flash": 2,
+        "Ethan Van Sciver": 1
+      },
+      "mention_receipts": [
+        {
+          "entity": "Liam Gray",
+          "start": 31.279,
+          "timestamp": "00:31",
+          "text": "little like you're a little like Liam"
+        },
+        {
+          "entity": "Liam Gray",
+          "start": 34.8,
+          "timestamp": "00:34",
+          "text": "Liam. So Liam made a video and this was"
+        },
+        {
+          "entity": "Liam Gray",
+          "start": 40.879,
+          "timestamp": "00:40",
+          "text": "this is Liam Gray coming out of the"
+        },
+        {
+          "entity": "Liam Gray",
+          "start": 42.719,
+          "timestamp": "00:42",
+          "text": "police station. Now Liam's point of"
+        },
+        {
+          "entity": "Liam Gray",
+          "start": 55.52,
+          "timestamp": "00:55",
+          "text": "you think that Liam isn't going to the"
+        },
+        {
+          "entity": "Liam Gray",
+          "start": 64.479,
+          "timestamp": "01:04",
+          "text": "people didn't care that Liam was going"
+        },
+        {
+          "entity": "Fencegate",
+          "start": 68.0,
+          "timestamp": "01:08",
+          "text": "was that white picket fence comes up to"
+        },
+        {
+          "entity": "Fencegate",
+          "start": 77.52,
+          "timestamp": "01:17",
+          "text": "That's a white picket fence. And it's a"
+        },
+        {
+          "entity": "Liam Gray",
+          "start": 114.24,
+          "timestamp": "01:54",
+          "text": "yeah, Liam like is very small like uh"
+        },
+        {
+          "entity": "Liam Gray",
+          "start": 142.8,
+          "timestamp": "02:22",
+          "text": ">> right, so Liam could [laughter]"
+        },
+        {
+          "entity": "Liam Gray",
+          "start": 151.52,
+          "timestamp": "02:31",
+          "text": "Now Liam couldn't have that. Like people"
+        },
+        {
+          "entity": "Liam Gray",
+          "start": 153.76,
+          "timestamp": "02:33",
+          "text": "were noticing that, you know, Liam is"
+        },
+        {
+          "entity": "Ethan Van Sciver",
+          "start": 167.36,
+          "timestamp": "02:47",
+          "text": "that's not funny, Ethan. I think it is."
+        },
+        {
+          "entity": "Fencegate",
+          "start": 265.36,
+          "timestamp": "04:25",
+          "text": "that the fence is much bigger than we"
+        },
+        {
+          "entity": "Yellow Flash",
+          "start": 298.16,
+          "timestamp": "04:58",
+          "text": ">> This is like when Yellow Flash Yeah,"
+        },
+        {
+          "entity": "Yellow Flash",
+          "start": 299.919,
+          "timestamp": "04:59",
+          "text": "remember I said Yellow Flash is 5'6 and"
+        },
+        {
+          "entity": "Fencegate",
+          "start": 377.6,
+          "timestamp": "06:17",
+          "text": "the picket fence"
+        },
+        {
+          "entity": "Fencegate",
+          "start": 389.6,
+          "timestamp": "06:29",
+          "text": "the image of the fence. That fence is"
+        },
+        {
+          "entity": "Fencegate",
+          "start": 446.4,
+          "timestamp": "07:26",
+          "text": "the fence looks really small. Liam"
+        },
+        {
+          "entity": "Fencegate",
+          "start": 467.599,
+          "timestamp": "07:47",
+          "text": ">> the fence is really small, Liam."
+        },
+        {
+          "entity": "Fencegate",
+          "start": 541.04,
+          "timestamp": "09:01",
+          "text": "the size of the fence that I thought it"
+        },
+        {
+          "entity": "Fencegate",
+          "start": 570.64,
+          "timestamp": "09:30",
+          "text": "The fence is like 4T, right?"
+        },
+        {
+          "entity": "Fencegate",
+          "start": 637.36,
+          "timestamp": "10:37",
+          "text": "go. There's the fence. And that fence is"
+        }
+      ],
+      "text": "of people is where you run into trouble where you go these guys who you got a certain group of guys who are going let's create comedy let's make videos let's do skits let's make comic books and there's a certain group of people who go well what if we spent all our time obsessively telling the people who are making shit >> what fucking retards they are and how much they suck >> okay it's called there's yeah there's room for criticism and I get that you you do it even the start everything bothers you I And that's the thing, like you're you're a little like you're a little like Liam Gray because like everything bothers Liam. So Liam made a video and this was the thumbnail of the video. Uh this is this is Liam Gray coming out of the police station. Now Liam's point of making this video with this thumbnail that he made. Uh is that he was trying to prove to people that he was uh going to the police. Okay. So, you know, if you think that Liam isn't going to the police, he he is going to the police. And uh here's uh here's proof. Now, people didn't care that Liam was going to the police. What they basically said was that white picket fence comes up to around the waistline of a normal man. [laughter] That's a white picket fence. And it's a white pick. We've seen a white picket fence before. like they come up to about maybe they come up to your belly height. You know when [laughter] [laughter] Oh god. though to scale. Uh yeah, Liam like is very small like uh you know I like him strutting out of there. Look at him. Look at him. He's like I've been to the police now. I tattled to the popo. Look at his like fist as he's walking like he's walking like like this Popeye. But I mean that's like a white picket fence. So now [laughter] All >> [laughter] >> right, so Liam could [laughter] Oh my god. Now Liam couldn't have that. Like people were noticing that, you know, Liam is very small compared to uh the world. You know, mostly you see Liam uh sitting behind a table uh and stuff like low water says that's not funny, Ethan. I think it is. I I have to admit I you know, if it makes me laugh, then it's funny to me. You know, I genuinely if I'm gawing and laughing hard so that my eyes are watering, it's funny. Well, anyway, people were laughing at Liam uh over this picture. And so veto uh or not veto, I'm sorry, Liam uh decided that he was going to debunk this. This was very important to him that he debunk this situation. So he went back there and made a video called the fascinating fence fantasy exposed >> from sort of was ragging. >> See, this is the thing like Liam couldn't just let people have a laugh at his expense cuz that that is funny. I don't think anybody really necessarily thought that Liam was uh you know two 2 and 1/2 ft tall. Uh but uh he had to debunk it anyway. >> Me for right. They're going to Oh, look. We got him. But I want to actually explain this cuz this is interesting. So this is the courthouse, right? This is the same fences over there. But I thought I'd do this. So see >> why does that picture He posted it, right? >> He posted it >> because we've got these weird fences. Like this is like a garden fence. >> So what happened was just so you know, like he wanted to prove to his haters that he was he was going to the police. Like I'm Liam. I am going to the police. Uh, and uh, so he had his wife film him going to the police and live stream it from the car. She live streamed him going into the police department in and out of that gate from the car. I don't I don't know why I haven't watched like Liam streams. I don't really watch Liam streams, but every now and then something comes up that just makes me laugh. I think this is really really funny. All right, so here he is proving that the fence is much bigger than we thought. It's like two feet higher than a normal garden fence. So, it makes you look like tiny, right? But like people won't believe it. There's the door for scale. We're just going to go over here. >> It still looks really small just based on show these guys. Otherwise, I got to show them a normal next to the one. So, this is a casino. Uh this is casino uh what's it? Who's uh >> casino police department from the cops? You can see that there's a tall fence. That's taller than normal. That one. >> This is like when Yellow Flash Yeah, remember I said Yellow Flash is 5'6 and like he got so mad like he thought he would own us by like pulling out a tape measure and having two black men measure him. Uh, you know, it's like that's that's the level of you just laugh and go, \"Yeah, you I'm 5'6, whatever.\" No, no, no. He's got to let me show you to scale exactly how big I am. I'm a big and puffy guy in real life, guys. Liam again will give you >> that's more than six foot. Look at that. So that'll give you the impression, oh yeah, Liam's really, really short still. But if you get over here to the color bond, >> you'll see this is the actual height of a normal fence right here. So here we have the color bond >> and the normal. And look at that one. It's even taller again. We got these three levels of fences. So this is taller than normal, taller than normal, and this is the normal fence. So there you go. That's how you can measure my height. You know what I mean? There you go. >> So >> that makes you look even smaller. >> Liam is a mile tall. Yeah. So there's a car for a sense of scale and there's the normal size fence. And then you go along here and these are these stupidly high like picket fences. You know, I I don't think he's made the point that he intended to make here. the the picket fence uh looked exactly as high as I thought it would be. I don't think he made the point that he intended to make as we look at the again the image of the fence. That fence is not 7 feet tall. That fence is exactly as that fence is exactly as tall as I thought it was. Just because there are other fences back there that are even bigger, that just makes this fence look even smaller. Is that picture real? Yes, it's real. You don't think that's real? That is real. I'll show you. You need me to prove it to you? Yeah. like uh I mean I that fence is exactly as big as I thought it was just based on like Liam Liam's walking around with a camera which is probably at eye level. Uh and uh it just pro he proved that there were bigger fences than this but I don't think it proved that the fence looks really small. Liam like still Hold on. Oh, I'm not sharing. I'm not sharing. Hold on a second. Let me just back it up a little bit. The fence >> and these are these stupidly high like picket fences that are just for some reason it's a casino thing and it's it's quite strange, you know. It's >> the fence is really small, Liam. It doesn't look any bigger than what I thought it was uh in the uh in that image. >> [laughter] >> Uh, we'll watch the video here. Liam visits the casino police department, then takes a road trip for fried chicken. So, this is the video that he posted. I said that thumbnail is hilarious. I didn't alter the thumbnail. This is this is the thumbnail from the video as you can see. All I did was like grab it and then, you know, uh, pull it out so that you could see it. He's like 5'6 maybe. I don't even think he's that tall. He's like 5'4. Um, which is okay. It's okay to be short. But I mean, I'm I'm going Well, like the point would have to be that this fence is 5'6. This fence is 5 foot 6 in tall, which makes Liam a rugged six feet or, you know, almost probably six feet at that point, but it isn't. It's It's exactly the size of the fence that I thought it was. Uh, let me see. Share this tab. Let's watch Liam. Okay. What are we doing? This up. [laughter] >> That's a little fence. The fence is like 4T, right? >> Hey, we're at the police station again to do our weekly report of Liam. >> Can you imagine? He's going to the police station all the time to talk about online bullying >> for the day >> with his wife and family. >> Come back. >> [laughter] [laughter] >> Oh shit. [laughter] >> Yeah. Thank you. [laughter] >> Oh my goodness sakes. >> There he goes. >> Yeah. So like there he goes. He's going back in >> report. weekly report >> is going on with his case. >> Oh god. >> Yes. Yes. Hi Dennis. Hi D. >> Uh she's his wife is saying hi to everybody. Okay. No need to no need to continue watching that. But uh there you go. There's the fence. And that fence is massive as you can tell. It's huge. Uh blah blah blah. Let's get back to watching. And uh but I mean the point of that is just to point out that like you know like Liam is like Veto in that they're entirely focused on their haters. Uh she's a good wife to him says. Yeah, she is. She puts up with a lot. You can tell. Uh all right, let me get back to this. But the point is that yeah, Liam is like to go back and make another video to prove to try to prove to debunk the theories of scale about that fence versus your height means that Liam is entirely focused on the people who dislike him or are making fun of him. And he shouldn't be focused on that. He should be focused on the people who love him. Uh like I used to. I mean, I used to, you know, I don't like him at all, but I used to. All right. Well, that's what happens. Help. Call a famous YouTuber. Call a streamer. >> Clip clip and snip snip."
+    }
+  ]
+}

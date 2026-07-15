@@ -1,0 +1,43 @@
+{
+  "schema_version": "octopuss-evidence-packet-v0.1",
+  "video_id": "k3BD76GAF6I",
+  "title": "Nice and Easy - tunes with q",
+  "source": "ComicsGate Commandos",
+  "platform": "YouTube",
+  "published": "2026-07-09T03:22:48+00:00",
+  "url": "https://www.youtube.com/watch?v=k3BD76GAF6I",
+  "language": "en",
+  "is_generated": true,
+  "transcript_path": "transcripts/2026-07/Nice and Easy - tunes with q [k3BD76GAF6I].json",
+  "transcript_sha256": "8c864293be894b39a47bc3f93bbba3fb703548b4da89312dc915e2ff824e5d7d",
+  "generated_at": "2026-07-15T19:14:20.074027+00:00",
+  "block_minutes": 12,
+  "block_count": 1,
+  "segment_count": 38,
+  "coverage": {
+    "first_caption_second": 5.894,
+    "last_caption_second": 163.76,
+    "timestamp_start": "00:05",
+    "timestamp_end": "02:43",
+    "caption_span_seconds": 157.866,
+    "status": "transcript_present",
+    "note": "This measures the caption span only. It does not prove complete coverage of the original video."
+  },
+  "global_mention_counts": {},
+  "blocks": [
+    {
+      "block_number": 1,
+      "window_start": 0,
+      "window_end": 720,
+      "actual_start": 5.894,
+      "actual_end": 163.76,
+      "timestamp_start": "00:05",
+      "timestamp_end": "02:43",
+      "segment_count": 38,
+      "character_count": 938,
+      "entity_counts": {},
+      "mention_receipts": [],
+      "text": "[music] >> Let's take it nice and easy. It's going to be so easy for us to fall in love. >> [music] >> Hey, baby, what's your hurry? Relax. Don't you worry. We're going to fall in love. We're on the road to romance. [music] That's safe to say, but let's make all the stops [music] along the way. The problem now, of course, [music] is to simply hold your horses. To rush would be a crime. >> [singing] >> Cuz nice [music] and easy does it every time. >> [music] >> We're [singing] on the road to romance. [music] That's safe to say, but let's make all [music] the stops along the way. >> [music] >> The problem now, of course, it's too simply hold your horses. [music] But to rush would be a crime, [singing] cuz nice [music] and easy does it. Nice and easy does it. Nice and easy does [music] it every time. Like the man said, one more time. Nice and easy [music] does it. Nice and easy does it. Nice and [music] easy does it every time."
+    }
+  ]
+}

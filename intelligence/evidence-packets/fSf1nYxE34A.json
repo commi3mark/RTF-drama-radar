@@ -1,0 +1,66 @@
+{
+  "schema_version": "octopuss-evidence-packet-v0.1",
+  "video_id": "fSf1nYxE34A",
+  "title": "Friday Night Tights Wishes Chrissie Mayr the Best (Jul 10, 2026)",
+  "source": "Elissa Clips",
+  "platform": "YouTube",
+  "published": "2026-07-11T00:30:28+00:00",
+  "url": "https://www.youtube.com/watch?v=fSf1nYxE34A",
+  "language": "en",
+  "is_generated": true,
+  "transcript_path": "transcripts/2026/07/Friday Night Tights Wishes Chrissie Mayr the Best (Jul 10, 2026) [fSf1nYxE34A].json",
+  "transcript_sha256": "4dd938c5076a41680d28073af1d99900d0681dd9b2a6b8c37873b4f03d3172b2",
+  "generated_at": "2026-07-15T19:14:19.933659+00:00",
+  "block_minutes": 12,
+  "block_count": 1,
+  "segment_count": 26,
+  "coverage": {
+    "first_caption_second": 0.0,
+    "last_caption_second": 60.72,
+    "timestamp_start": "00:00",
+    "timestamp_end": "01:00",
+    "caption_span_seconds": 60.72,
+    "status": "transcript_present",
+    "note": "This measures the caption span only. It does not prove complete coverage of the original video."
+  },
+  "global_mention_counts": {
+    "Chrissie Mayr": 3
+  },
+  "blocks": [
+    {
+      "block_number": 1,
+      "window_start": 0,
+      "window_end": 720,
+      "actual_start": 0.0,
+      "actual_end": 60.72,
+      "timestamp_start": "00:00",
+      "timestamp_end": "01:00",
+      "segment_count": 26,
+      "character_count": 786,
+      "entity_counts": {
+        "Chrissie Mayr": 3
+      },
+      "mention_receipts": [
+        {
+          "entity": "Chrissie Mayr",
+          "start": 10.6,
+          "timestamp": "00:10",
+          "text": "Uh, looks like Chrissy is still seething"
+        },
+        {
+          "entity": "Chrissie Mayr",
+          "start": 27.08,
+          "timestamp": "00:27",
+          "text": "Chrissy is is no longer on the show. I"
+        },
+        {
+          "entity": "Chrissie Mayr",
+          "start": 35.92,
+          "timestamp": "00:35",
+          "text": "Chrissy. I don't know what she's saying."
+        }
+      ],
+      "text": "Uh, Garfield's Bizarre Adventure for $50. What's [cheering] up, dude? Oh. It finally gets brought up. Okay. Uh, looks like Chrissy is still seething that she got the boot from F&T, and now she is doing the rounds claiming she got canceled. Uh, she dressed up as Frost so many times she became her. The house always wins. Well, thank you, Garfield. Um, Chrissy is is no longer on the show. I think that's been pretty obvious to a lot of people. Um, and listen, I'm not going to pile on Chrissy. I don't know what she's saying. Whatever. Um, I will just say I wish her the best. Truly wish her the best in her future endeavors. Um, and appreciate her time here. Uh, that Frost skit was great, but uh yeah, that's about it. Not going to get embroiled in all that. That was the whole point."
+    }
+  ]
+}
