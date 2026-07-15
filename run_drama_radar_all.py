@@ -29,7 +29,15 @@ def main() -> int:
             [sys.executable, str(ROOT / "validate_octopuss_packets.py")],
         ),
         (
-            "OCTOPUSS intelligence filing",
+            "OCTOPUSS bulk pre-analysis",
+            [sys.executable, str(ROOT / "octopuss_preanalyse.py")],
+        ),
+        (
+            "OCTOPUSS automatic filing",
+            [sys.executable, str(ROOT / "octopuss_file_intelligence.py")],
+        ),
+        (
+            "OCTOPUSS reviewed intelligence filing",
             [sys.executable, str(ROOT / "apply_octopuss_analysis.py")],
         ),
         (
