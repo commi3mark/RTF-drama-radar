@@ -1,0 +1,32 @@
+{
+  "entity_id": "sturgis",
+  "name": "Sturgis",
+  "aliases": [],
+  "appearances": [],
+  "discussions": [
+    {
+      "video_id": "LS_14uOaG2E",
+      "episode_title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "show": "ComicsGate Kings",
+      "importance": "major",
+      "sentiment": "negative",
+      "appeared": false,
+      "confidence": 0.99,
+      "topic_blocks": [
+        "01:04:51-01:36:00"
+      ],
+      "evidence": [
+        {
+          "timestamp": "01:04:51",
+          "note": "Host introduces Sturgis's Japan vlogs as material to watch."
+        },
+        {
+          "timestamp": "01:05:52-01:36:00",
+          "note": "Panel watches his Tokyo Disney and PokePark footage and mocks his presentation, interests and behaviour."
+        }
+      ]
+    }
+  ],
+  "story_links": [],
+  "updated_at": "2026-07-15T20:16:47.555770+00:00"
+}

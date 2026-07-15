@@ -1,0 +1,39 @@
+{
+  "entity_id": "frog-tony",
+  "name": "Frog Tony",
+  "aliases": [],
+  "appearances": [],
+  "discussions": [
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "episode_title": "Gabbing With Ga......You know",
+      "show": "FFS Cast",
+      "importance": "major",
+      "sentiment": "negative",
+      "appeared": false,
+      "confidence": 0.99,
+      "topic_blocks": [
+        "00:00 onward; recurring"
+      ],
+      "evidence": [
+        {
+          "timestamp": "00:00-36:00 and recurring",
+          "note": "Central adversarial subject of the opening and continuing feud discussion."
+        }
+      ]
+    }
+  ],
+  "story_links": [
+    {
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "video_id": "ZgbvZRJnCIk"
+    },
+    {
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "video_id": "ZgbvZRJnCIk"
+    }
+  ],
+  "updated_at": "2026-07-15T20:09:51.860031+00:00"
+}

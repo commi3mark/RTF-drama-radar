@@ -1,0 +1,34 @@
+{
+  "entity_id": "stray-beans",
+  "name": "Stray Beans",
+  "aliases": [],
+  "appearances": [],
+  "discussions": [
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "episode_title": "Gabbing With Ga......You know",
+      "show": "FFS Cast",
+      "importance": "major",
+      "sentiment": "negative",
+      "appeared": false,
+      "confidence": 0.97,
+      "topic_blocks": [
+        "00:00-24:00"
+      ],
+      "evidence": [
+        {
+          "timestamp": "00:00-24:00",
+          "note": "Subject of disputed information-gathering and gay-op allegations."
+        }
+      ]
+    }
+  ],
+  "story_links": [
+    {
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "video_id": "ZgbvZRJnCIk"
+    }
+  ],
+  "updated_at": "2026-07-15T20:09:51.863503+00:00"
+}

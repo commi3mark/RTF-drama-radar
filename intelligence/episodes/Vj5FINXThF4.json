@@ -1,0 +1,156 @@
+{
+  "schema_version": "octopuss-episode-analysis-v0.1",
+  "video_id": "Vj5FINXThF4",
+  "title": "TheQuartering: Friday Night Tights is a Huge Pword for Firing Chrissie Mayr (Jul 13, 2026)",
+  "show": {
+    "id": "thequartering-stream",
+    "name": "TheQuartering livestream (clip)",
+    "channel": "Elissa Clips"
+  },
+  "episode_summary": "TheQuartering reacts to Chrissie Mayr no longer appearing on Friday Night Tights. He repeatedly states that he does not know the internal arrangement, but says it looks as though FNT removed her after her Melanie Mack interview and condemns the show for yielding to hostile chatters or superchat pressure.",
+  "coverage": {
+    "packet_complete": true,
+    "analysis_complete": true,
+    "notes": ""
+  },
+  "participants": [
+    {
+      "entity_id": "thequartering",
+      "name": "TheQuartering",
+      "role": "host",
+      "confidence": 0.99,
+      "evidence": [
+        {
+          "timestamp": "00:00-07:17",
+          "note": "First-person livestream commentary."
+        }
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "entity_id": "chrissie-mayr",
+      "name": "Chrissie Mayr",
+      "importance": "major",
+      "sentiment": "positive",
+      "appeared": false,
+      "confidence": 0.99,
+      "topic_blocks": [
+        "approximately 03:50-07:17"
+      ],
+      "evidence": [
+        {
+          "timestamp": "approximately 03:50-07:17",
+          "note": "He defends her and wishes her well."
+        }
+      ]
+    },
+    {
+      "entity_id": "friday-night-tights",
+      "name": "Friday Night Tights",
+      "importance": "major",
+      "sentiment": "negative",
+      "appeared": false,
+      "confidence": 0.99,
+      "topic_blocks": [
+        "approximately 03:50-07:17"
+      ],
+      "evidence": [
+        {
+          "timestamp": "approximately 03:50-07:17",
+          "note": "He criticises the show for apparently yielding to audience pressure."
+        }
+      ]
+    },
+    {
+      "entity_id": "melanie-mack",
+      "name": "Melanie Mack",
+      "importance": "secondary",
+      "sentiment": "positive",
+      "appeared": false,
+      "confidence": 0.94,
+      "topic_blocks": [
+        "approximately 04:00-06:00"
+      ],
+      "evidence": [
+        {
+          "timestamp": "approximately 04:00-06:00",
+          "note": "Named as the guest associated with the dispute and compared with his own co-host treatment."
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "03:45",
+      "title": "Show opening and housekeeping",
+      "summary": "Weather, schedule and chat interaction before the main clip topic.",
+      "entities": [
+        "thequartering"
+      ]
+    },
+    {
+      "start": "03:45",
+      "end": "07:17",
+      "title": "Chrissie Mayr and FNT response",
+      "summary": "TheQuartering criticises FNT's apparent decision while acknowledging he does not know its internal workings.",
+      "entities": [
+        "chrissie-mayr",
+        "friday-night-tights",
+        "melanie-mack"
+      ]
+    }
+  ],
+  "story_updates": [
+    {
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "status": "active",
+      "summary": "TheQuartering publicly sides with Chrissie, says her removal appears linked to the Melanie Mack interview and portrays FNT as capitulating to hostile viewers. He explicitly lacks inside confirmation.",
+      "participants": [
+        "thequartering",
+        "chrissie-mayr",
+        "friday-night-tights",
+        "melanie-mack"
+      ],
+      "evidence": [
+        {
+          "timestamp": "03:45-07:17",
+          "note": "Direct reaction segment."
+        }
+      ]
+    }
+  ],
+  "faction_signals": [],
+  "claims": [
+    {
+      "claim_id": "quartering-fnt-fired-chrissie-appearance",
+      "claimant": "TheQuartering",
+      "claim": "It appears Friday Night Tights fired or removed Chrissie Mayr after she hosted Melanie Mack.",
+      "subject": "Chrissie Mayr / Friday Night Tights",
+      "status": "explicitly_uncertain_interpretation",
+      "confidence": 0.99,
+      "evidence": [
+        {
+          "timestamp": "approximately 04:00-05:20",
+          "note": "He says this is what it looks like while admitting he does not know the internal details."
+        }
+      ]
+    }
+  ],
+  "quotes": [
+    {
+      "quote_id": "quartering-not-in-those-rooms",
+      "speaker": "TheQuartering",
+      "timestamp": "approximately 05:00",
+      "text": "I don't know. I'm not in those rooms. I don't know the inner workings of what they did.",
+      "significance": "Explicit limit on his own knowledge of the departure.",
+      "confidence": 0.98
+    }
+  ],
+  "uncertainties": [
+    "The actual employment or guest arrangement is not established.",
+    "The clip begins as a general stream and may omit preceding context from the source broadcast."
+  ]
+}

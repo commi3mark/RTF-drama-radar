@@ -12,5 +12,58 @@
     "Back Me Bro promotion is campaign/project evidence.",
     "Repeated show appearances should establish roster status over time."
   ],
-  "evidence_level": "radar_metadata_and_sampled_receipts"
+  "evidence_level": "radar_metadata_and_sampled_receipts",
+  "appearances": [
+    {
+      "video_id": "LS_14uOaG2E",
+      "episode_title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "show": "ComicsGate Kings",
+      "role": "panelist",
+      "confidence": 0.99,
+      "evidence": [
+        {
+          "timestamp": "16:49",
+          "note": "Introduced by name and directly asked whether he can draw for the episode theme."
+        },
+        {
+          "timestamp": "17:14",
+          "note": "Directly addressed as an active participant in the drawing discussion."
+        }
+      ]
+    }
+  ],
+  "story_links": [
+    {
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "video_id": "LS_14uOaG2E"
+    },
+    {
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "video_id": "LS_14uOaG2E"
+    }
+  ],
+  "updated_at": "2026-07-15T20:16:47.504216+00:00",
+  "discussions": [
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "episode_title": "Gabbing With Ga......You know",
+      "show": "FFS Cast",
+      "importance": "secondary",
+      "sentiment": "unclear",
+      "appeared": false,
+      "confidence": 0.76,
+      "topic_blocks": [
+        "24:00-36:00"
+      ],
+      "evidence": [
+        {
+          "timestamp": "24:00-36:00",
+          "note": "Detected repeatedly during a later discussion; exact context requires speaker-level review."
+        }
+      ]
+    }
+  ],
+  "aliases": []
 }

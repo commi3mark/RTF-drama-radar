@@ -1,0 +1,220 @@
+{
+  "schema_version": "octopuss-episode-analysis-v0.1",
+  "video_id": "ZgbvZRJnCIk",
+  "title": "Gabbing With Ga......You know",
+  "show": {
+    "id": "ffs-cast",
+    "name": "FFS Cast",
+    "channel": "FFS Cast"
+  },
+  "episode_summary": "A three-hour FFS Cast panel stream centred initially on its continuing conflict with Frog Tony, Rev Ruin, Stray Beans and adjacent creators. The hosts revisit the origin of the feud, disputed strike/doxxing and 'gay-op' allegations, old interactions involving Liam Gray, and their belief that opponents are retreating from drama before launching comic projects. The stream later broadens into clips, internet commentary and panel banter. Much of the material is adversarial recollection rather than independently verified fact.",
+  "coverage": {
+    "packet_complete": true,
+    "analysis_complete": true,
+    "notes": ""
+  },
+  "participants": [
+    {
+      "entity_id": "ffs-cast-host",
+      "name": "FFS Cast host",
+      "role": "host",
+      "confidence": 0.9,
+      "evidence": [
+        {
+          "timestamp": "00:00 onward",
+          "note": "Directs the show, reads donations and frames the conflict."
+        }
+      ]
+    },
+    {
+      "entity_id": "90s",
+      "name": "90s",
+      "role": "panelist",
+      "confidence": 0.82,
+      "evidence": [
+        {
+          "timestamp": "early episode",
+          "note": "Repeatedly addressed in live conversation about prior events."
+        }
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "entity_id": "frog-tony",
+      "name": "Frog Tony",
+      "importance": "major",
+      "sentiment": "negative",
+      "appeared": false,
+      "confidence": 0.99,
+      "topic_blocks": [
+        "00:00 onward; recurring"
+      ],
+      "evidence": [
+        {
+          "timestamp": "00:00-36:00 and recurring",
+          "note": "Central adversarial subject of the opening and continuing feud discussion."
+        }
+      ]
+    },
+    {
+      "entity_id": "rev-ruin",
+      "name": "Rev Ruin",
+      "importance": "major",
+      "sentiment": "negative",
+      "appeared": false,
+      "confidence": 0.96,
+      "topic_blocks": [
+        "00:00-24:00 and recurring"
+      ],
+      "evidence": [
+        {
+          "timestamp": "opening blocks",
+          "note": "Suspected of striking/reporting and discussed as part of the rival camp."
+        }
+      ]
+    },
+    {
+      "entity_id": "stray-beans",
+      "name": "Stray Beans",
+      "importance": "major",
+      "sentiment": "negative",
+      "appeared": false,
+      "confidence": 0.97,
+      "topic_blocks": [
+        "00:00-24:00"
+      ],
+      "evidence": [
+        {
+          "timestamp": "00:00-24:00",
+          "note": "Subject of disputed information-gathering and gay-op allegations."
+        }
+      ]
+    },
+    {
+      "entity_id": "liam-gray",
+      "name": "Liam Gray",
+      "importance": "major",
+      "sentiment": "negative",
+      "appeared": false,
+      "confidence": 0.98,
+      "topic_blocks": [
+        "12:00-36:00 and recurring"
+      ],
+      "evidence": [
+        {
+          "timestamp": "12:00-36:00",
+          "note": "Panel retells old private-room claims and discusses his striking history."
+        }
+      ]
+    },
+    {
+      "entity_id": "shane-davis",
+      "name": "Shane Davis",
+      "importance": "secondary",
+      "sentiment": "unclear",
+      "appeared": false,
+      "confidence": 0.76,
+      "topic_blocks": [
+        "24:00-36:00"
+      ],
+      "evidence": [
+        {
+          "timestamp": "24:00-36:00",
+          "note": "Detected repeatedly during a later discussion; exact context requires speaker-level review."
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:00:03",
+      "end": "00:12:00",
+      "title": "Strike speculation and Frog Tony feud origin",
+      "summary": "The hosts discuss an apparent strike, speculate about Rev Ruin and retell the meme incident they see as the origin of the feud.",
+      "entities": [
+        "frog-tony",
+        "rev-ruin"
+      ]
+    },
+    {
+      "start": "00:12:00",
+      "end": "00:24:00",
+      "title": "Stray Beans, Liam Gray and disputed operations",
+      "summary": "The panel disputes allegations that it ran a gay-op, recounts private conversations and attacks Liam and Stray Beans.",
+      "entities": [
+        "stray-beans",
+        "liam-gray",
+        "frog-tony"
+      ]
+    },
+    {
+      "start": "00:24:00",
+      "end": "00:36:00",
+      "title": "Free-speech argument and future campaign suspicion",
+      "summary": "The hosts oppose strikes and speculate that Frog Tony's group is reducing drama activity to create distance before a comic launch.",
+      "entities": [
+        "frog-tony",
+        "liam-gray",
+        "rev-ruin"
+      ]
+    },
+    {
+      "start": "00:36:00",
+      "end": "03:20:41",
+      "title": "Extended panel, clips and recurring feud commentary",
+      "summary": "The stream continues with clips, humour, superchats and repeated returns to the same creator conflicts.",
+      "entities": [
+        "ffs-cast",
+        "frog-tony"
+      ]
+    }
+  ],
+  "story_updates": [
+    {
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "status": "active",
+      "summary": "FFS Cast gives its version of the long-running feud, tying it to an old meme, strikes, alleged doxxing threats and conflicts involving multiple creators. This file records FFS Cast's position, not established fact.",
+      "participants": [
+        "ffs-cast",
+        "frog-tony",
+        "rev-ruin",
+        "stray-beans",
+        "liam-gray"
+      ],
+      "evidence": [
+        {
+          "timestamp": "00:00-36:00 and recurring",
+          "note": "Sustained hostile retrospective."
+        }
+      ]
+    },
+    {
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "status": "active",
+      "summary": "FFS Cast adds hostile recollections about Liam's private claims, alleged strike behaviour and relationships with opposing creator groups.",
+      "participants": [
+        "liam-gray",
+        "ffs-cast",
+        "frog-tony"
+      ],
+      "evidence": [
+        {
+          "timestamp": "12:00-36:00",
+          "note": "Panel recollections and accusations."
+        }
+      ]
+    }
+  ],
+  "faction_signals": [],
+  "claims": [],
+  "quotes": [],
+  "uncertainties": [
+    "The packet contains many allegations about strikes, doxxing, private DMs and past conduct that are not independently verified.",
+    "The canonical identities of all FFS Cast voices are not securely labelled by the captions.",
+    "The late two-thirds of the stream moves rapidly among clips and banter; only recurring high-confidence subjects are filed.",
+    "Faction membership cannot be inferred merely from being described as part of a rival 'camp'."
+  ]
+}

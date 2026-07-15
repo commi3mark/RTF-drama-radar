@@ -1,0 +1,34 @@
+{
+  "entity_id": "comicsgate",
+  "name": "ComicsGate",
+  "aliases": [],
+  "appearances": [],
+  "discussions": [
+    {
+      "video_id": "IiuHUxargVk",
+      "episode_title": "Daddy Daughter Day (CG lies to you and why I am right)",
+      "show": "Liam Gray / Conquest Comics channel",
+      "importance": "major",
+      "sentiment": "negative",
+      "appeared": false,
+      "confidence": 0.97,
+      "topic_blocks": [
+        "00:00-06:30"
+      ],
+      "evidence": [
+        {
+          "timestamp": "00:00-06:30",
+          "note": "Liam alleges people in or around CG shield participants and spread a counter-narrative."
+        }
+      ]
+    }
+  ],
+  "story_links": [
+    {
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "video_id": "IiuHUxargVk"
+    }
+  ],
+  "updated_at": "2026-07-15T20:16:47.471762+00:00"
+}

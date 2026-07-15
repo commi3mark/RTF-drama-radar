@@ -1,0 +1,34 @@
+{
+  "entity_id": "kino-casino",
+  "name": "Kino Casino and associated critics",
+  "aliases": [],
+  "appearances": [],
+  "discussions": [
+    {
+      "video_id": "_9MjvkgkY9c",
+      "episode_title": "TheQuartering’s K Cup Crisis PR & Crying Victim After Starting War with Kino Casino (Jul 14, 2026)",
+      "show": "TheQuartering livestream (clip)",
+      "importance": "secondary",
+      "sentiment": "negative",
+      "appeared": false,
+      "confidence": 0.78,
+      "topic_blocks": [
+        "00:00-26:45"
+      ],
+      "evidence": [
+        {
+          "timestamp": "throughout",
+          "note": "Critics are attacked indirectly; exact identities are not always named in the clip."
+        }
+      ]
+    }
+  ],
+  "story_links": [
+    {
+      "story_id": "thequartering-kino-casino-conflict",
+      "title": "TheQuartering / Kino Casino conflict",
+      "video_id": "_9MjvkgkY9c"
+    }
+  ],
+  "updated_at": "2026-07-15T20:09:51.737560+00:00"
+}

@@ -1,14 +1,20 @@
 # Chrissie Mayr
 
-- **Radar status:** major current subject candidate
-- **Appearance status:** not established by Radar metadata
+- **Entity ID:** `chrissie-mayr`
+- **Updated:** 2026-07-15T20:16:47.706058+00:00
 
-## Active story candidates
+## Appearances
 
-- `chrissie-mayr-friday-night-tights-departure`
+_No confirmed appearances._
 
-## Intake notes
+## Discussions about this person
 
-- Several titles discuss her departure from Friday Night Tights.
-- Do not list her as appearing in any episode unless the transcript confirms it.
-- Sentiment must be stored per show/speaker, not as a single universal score.
+- **DDayCobra Hopes Chrissie Mayr Makes a Million Dollars (Jul 13, 2026)** — major subject; positive; confidence 99%
+- **TheQuartering: Friday Night Tights is a Huge Pword for Firing Chrissie Mayr (Jul 13, 2026)** — major subject; positive; confidence 99%
+- **#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!** — major subject; predominantly_negative; confidence 98%
+
+## Story links
+
+- Chrissie Mayr departure from Friday Night Tights
+- Chrissie Mayr departure from Friday Night Tights
+- Chrissie Mayr departure from Friday Night Tights

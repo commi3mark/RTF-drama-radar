@@ -12,5 +12,59 @@
     "Talking about Eric July or another person does not imply alliance.",
     "Maintain appearance, discussion and sentiment records separately."
   ],
-  "evidence_level": "radar_metadata_and_sampled_receipts"
+  "evidence_level": "radar_metadata_and_sampled_receipts",
+  "aliases": [],
+  "appearances": [
+    {
+      "video_id": "LS_14uOaG2E",
+      "episode_title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "show": "ComicsGate Kings",
+      "role": "host",
+      "confidence": 1.0,
+      "evidence": [
+        {
+          "timestamp": "10:22",
+          "note": "Self-identifies and introduces ComicsGate Kings as a recurring Monday show."
+        }
+      ]
+    }
+  ],
+  "discussions": [
+    {
+      "video_id": "IiuHUxargVk",
+      "episode_title": "Daddy Daughter Day (CG lies to you and why I am right)",
+      "show": "Liam Gray / Conquest Comics channel",
+      "importance": "major",
+      "sentiment": "negative",
+      "appeared": false,
+      "confidence": 0.99,
+      "topic_blocks": [
+        "00:00-06:30"
+      ],
+      "evidence": [
+        {
+          "timestamp": "00:00-06:30",
+          "note": "Liam accuses Ethan of lying and misrepresenting clips and threats."
+        }
+      ]
+    }
+  ],
+  "story_links": [
+    {
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "video_id": "IiuHUxargVk"
+    },
+    {
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "video_id": "LS_14uOaG2E"
+    },
+    {
+      "story_id": "back-me-bro-launch",
+      "title": "Shane Davis — Back Me Bro launch",
+      "video_id": "LS_14uOaG2E"
+    }
+  ],
+  "updated_at": "2026-07-15T20:16:47.495258+00:00"
 }

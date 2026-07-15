@@ -13,5 +13,90 @@
     "May be both a subject and a speaker across different source items.",
     "Keep his FNT commentary separate from the Kino Casino conflict until evidence connects them."
   ],
-  "evidence_level": "radar_metadata_and_sampled_receipts"
+  "evidence_level": "radar_metadata_and_sampled_receipts",
+  "discussions": [
+    {
+      "video_id": "LS_14uOaG2E",
+      "episode_title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "show": "ComicsGate Kings",
+      "importance": "major",
+      "sentiment": "mixed",
+      "appeared": false,
+      "confidence": 0.97,
+      "topic_blocks": [
+        "00:24:00-00:31:00"
+      ],
+      "evidence": [
+        {
+          "timestamp": "25:00-28:00",
+          "note": "Discussed as a central figure in the conflict involving Geeks and Gamers, Melanie Mack and Chrissie Mayr."
+        }
+      ]
+    }
+  ],
+  "story_links": [
+    {
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "video_id": "LS_14uOaG2E"
+    },
+    {
+      "story_id": "thequartering-kino-casino-conflict",
+      "title": "TheQuartering / Kino Casino conflict",
+      "video_id": "_9MjvkgkY9c"
+    },
+    {
+      "story_id": "thequartering-coffee-business-scrutiny",
+      "title": "TheQuartering coffee-business scrutiny and expansion",
+      "video_id": "dcgJdp8BRKs"
+    },
+    {
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "video_id": "Vj5FINXThF4"
+    }
+  ],
+  "updated_at": "2026-07-15T20:16:47.696634+00:00",
+  "appearances": [
+    {
+      "video_id": "_9MjvkgkY9c",
+      "episode_title": "TheQuartering’s K Cup Crisis PR & Crying Victim After Starting War with Kino Casino (Jul 14, 2026)",
+      "show": "TheQuartering livestream (clip)",
+      "role": "host",
+      "confidence": 0.99,
+      "evidence": [
+        {
+          "timestamp": "00:00-26:45",
+          "note": "First-person monologue about his coffee business and critics."
+        }
+      ]
+    },
+    {
+      "video_id": "dcgJdp8BRKs",
+      "episode_title": "Professional Streamer TheQuartering - Gooners Gonna Goon (Jul 14, 2026)",
+      "show": "TheQuartering livestream (clip)",
+      "role": "host",
+      "confidence": 0.99,
+      "evidence": [
+        {
+          "timestamp": "00:00-11:28",
+          "note": "Primary host and coffee-business speaker."
+        }
+      ]
+    },
+    {
+      "video_id": "Vj5FINXThF4",
+      "episode_title": "TheQuartering: Friday Night Tights is a Huge Pword for Firing Chrissie Mayr (Jul 13, 2026)",
+      "show": "TheQuartering livestream (clip)",
+      "role": "host",
+      "confidence": 0.99,
+      "evidence": [
+        {
+          "timestamp": "00:00-07:17",
+          "note": "First-person livestream commentary."
+        }
+      ]
+    }
+  ],
+  "aliases": []
 }

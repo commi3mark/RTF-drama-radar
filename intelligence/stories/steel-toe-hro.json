@@ -3,7 +3,7 @@
   "story_id": "steel-toe-hro",
   "generated_at": "2026-07-15T19:30:17.255785+00:00",
   "title": "Steel Toe HRO",
-  "status": "candidate_transcript_ready",
+  "status": "active",
   "people": [
     "aaron-imholte"
   ],
@@ -19,5 +19,24 @@
     "Record claims as unverified unless supported by primary documents."
   ],
   "confidence": "candidate_only",
-  "evidence_level": "radar_metadata"
+  "evidence_level": "radar_metadata",
+  "participants": [
+    "aaron-imholte",
+    "steel-toe-morning-show"
+  ],
+  "timeline": [
+    {
+      "video_id": "jVMsgBTgicI",
+      "episode_title": "Steel Toe gets hit with his very own HRO | #936",
+      "summary": "Ministry of Dude treats an HRO-related development involving Aaron Imholte as the episode's headline story. The episode is commentary evidence, not primary legal documentation.",
+      "evidence": [
+        {
+          "timestamp": "episode principal segment",
+          "note": "Sustained HRO/Steel Toe commentary."
+        }
+      ],
+      "recorded_at": "2026-07-15T20:09:51.792575+00:00"
+    }
+  ],
+  "updated_at": "2026-07-15T20:09:51.792575+00:00"
 }

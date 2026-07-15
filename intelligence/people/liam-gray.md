@@ -1,14 +1,19 @@
 # Liam Gray
 
-- **Radar status:** active creator and dispute participant
-- **Appearance status:** host likely on own channel; confirm per packet
+- **Entity ID:** `liam-gray`
+- **Updated:** 2026-07-15T20:16:47.512618+00:00
 
-## Active story candidates
+## Appearances
 
-- `liam-gray-comicsgate-dispute`
+- **Daddy Daughter Day (CG lies to you and why I am right)** — host on Liam Gray / Conquest Comics channel (confidence 100%)
 
-## Intake notes
+## Discussions about this person
 
-- Channel descriptions contain extensive persistent campaign boilerplate.
-- Only new or contextually relevant links should become event intelligence.
-- Claims need to propagate to the canonical Liam file and affected relationship/story files.
+- **Gabbing With Ga......You know** — major subject; negative; confidence 98%
+- **#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!** — passing subject; neutral; confidence 90%
+
+## Story links
+
+- Liam Gray / ComicsGate dispute
+- FFS Cast / Frog Tony feud
+- Liam Gray / ComicsGate dispute

@@ -10,5 +10,45 @@
   "guardrails": [
     "Suppress unchanged description boilerplate.",
     "Treat campaign links as persistent metadata unless changed or discussed."
-  ]
+  ],
+  "episodes": [
+    {
+      "video_id": "IiuHUxargVk",
+      "title": "Daddy Daughter Day (CG lies to you and why I am right)",
+      "summary": "A short outdoor stream in which Liam Gray says Ethan Van Sciver and people around ComicsGate are misrepresenting an alleged harassment and stalking situation. He directs viewers to police footage, alleges false reports to child services, disputes Ethan's account of a clipped comment and discusses possible copyright or legal conflict involving Cyberfrog art and Xenotype. The broadcast ends when he helps recover loose dogs."
+    }
+  ],
+  "appearance_history": [
+    {
+      "video_id": "IiuHUxargVk",
+      "entity_id": "liam-gray",
+      "name": "Liam Gray",
+      "role": "host",
+      "confidence": 1.0
+    }
+  ],
+  "subject_history": [
+    {
+      "video_id": "IiuHUxargVk",
+      "entity_id": "ethan-van-sciver",
+      "name": "Ethan Van Sciver",
+      "importance": "major",
+      "sentiment": "negative"
+    },
+    {
+      "video_id": "IiuHUxargVk",
+      "entity_id": "comicsgate",
+      "name": "ComicsGate",
+      "importance": "major",
+      "sentiment": "negative"
+    },
+    {
+      "video_id": "IiuHUxargVk",
+      "entity_id": "cyberfrog",
+      "name": "Cyberfrog artwork",
+      "importance": "secondary",
+      "sentiment": "neutral"
+    }
+  ],
+  "updated_at": "2026-07-15T20:16:47.473241+00:00"
 }

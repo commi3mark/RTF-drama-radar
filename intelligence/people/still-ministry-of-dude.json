@@ -1,0 +1,23 @@
+{
+  "entity_id": "still-ministry-of-dude",
+  "name": "Still",
+  "aliases": [],
+  "appearances": [
+    {
+      "video_id": "jVMsgBTgicI",
+      "episode_title": "Steel Toe gets hit with his very own HRO | #936",
+      "show": "Ministry of Dude",
+      "role": "host",
+      "confidence": 0.88,
+      "evidence": [
+        {
+          "timestamp": "00:06-00:10",
+          "note": "Welcomes the audience and directs the Ministry of Dude show."
+        }
+      ]
+    }
+  ],
+  "discussions": [],
+  "story_links": [],
+  "updated_at": "2026-07-15T20:09:51.786128+00:00"
+}

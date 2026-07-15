@@ -13,5 +13,89 @@
     "Do not list her as appearing in any episode unless the transcript confirms it.",
     "Sentiment must be stored per show/speaker, not as a single universal score."
   ],
-  "evidence_level": "radar_metadata_and_sampled_receipts"
+  "evidence_level": "radar_metadata_and_sampled_receipts",
+  "discussions": [
+    {
+      "video_id": "7dsbRrEAJUo",
+      "episode_title": "DDayCobra Hopes Chrissie Mayr Makes a Million Dollars (Jul 13, 2026)",
+      "show": "DDayCobra stream (clip)",
+      "importance": "major",
+      "sentiment": "positive",
+      "appeared": false,
+      "confidence": 0.99,
+      "topic_blocks": [
+        "00:00-00:41"
+      ],
+      "evidence": [
+        {
+          "timestamp": "00:00-00:10",
+          "note": "Wishes her success on Timcast and hopes she makes a million dollars."
+        }
+      ]
+    },
+    {
+      "video_id": "Vj5FINXThF4",
+      "episode_title": "TheQuartering: Friday Night Tights is a Huge Pword for Firing Chrissie Mayr (Jul 13, 2026)",
+      "show": "TheQuartering livestream (clip)",
+      "importance": "major",
+      "sentiment": "positive",
+      "appeared": false,
+      "confidence": 0.99,
+      "topic_blocks": [
+        "approximately 03:50-07:17"
+      ],
+      "evidence": [
+        {
+          "timestamp": "approximately 03:50-07:17",
+          "note": "He defends her and wishes her well."
+        }
+      ]
+    },
+    {
+      "video_id": "LS_14uOaG2E",
+      "episode_title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "show": "ComicsGate Kings",
+      "importance": "major",
+      "sentiment": "predominantly_negative",
+      "appeared": false,
+      "confidence": 0.98,
+      "topic_blocks": [
+        "00:19:59-00:38:00"
+      ],
+      "evidence": [
+        {
+          "timestamp": "19:59",
+          "note": "Panel begins sustained discussion of her appearance on Timcast and departure from Friday Night Tights."
+        },
+        {
+          "timestamp": "25:27-27:34",
+          "note": "Ethan gives his interpretation of the Melanie Mack episode and subsequent backlash."
+        },
+        {
+          "timestamp": "34:25-37:02",
+          "note": "Panel debates whether she was fired, should have quit, and whether she fit Friday Night Tights."
+        }
+      ]
+    }
+  ],
+  "story_links": [
+    {
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "video_id": "7dsbRrEAJUo"
+    },
+    {
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "video_id": "Vj5FINXThF4"
+    },
+    {
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "video_id": "LS_14uOaG2E"
+    }
+  ],
+  "updated_at": "2026-07-15T20:16:47.706058+00:00",
+  "aliases": [],
+  "appearances": []
 }

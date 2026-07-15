@@ -3,7 +3,7 @@
   "story_id": "liam-gray-comicsgate-dispute",
   "generated_at": "2026-07-15T19:30:17.255785+00:00",
   "title": "Liam Gray / ComicsGate dispute",
-  "status": "candidate_continuing",
+  "status": "active",
   "people": [
     "liam-gray"
   ],
@@ -20,5 +20,39 @@
     "Match claims to the existing Liam chronology and relationship files."
   ],
   "confidence": "candidate_only",
-  "evidence_level": "radar_metadata"
+  "evidence_level": "radar_metadata",
+  "participants": [
+    "comicsgate",
+    "ethan-van-sciver",
+    "ffs-cast",
+    "frog-tony",
+    "liam-gray"
+  ],
+  "timeline": [
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "episode_title": "Gabbing With Ga......You know",
+      "summary": "FFS Cast adds hostile recollections about Liam's private claims, alleged strike behaviour and relationships with opposing creator groups.",
+      "evidence": [
+        {
+          "timestamp": "12:00-36:00",
+          "note": "Panel recollections and accusations."
+        }
+      ],
+      "recorded_at": "2026-07-15T20:09:51.874911+00:00"
+    },
+    {
+      "video_id": "IiuHUxargVk",
+      "episode_title": "Daddy Daughter Day (CG lies to you and why I am right)",
+      "summary": "Liam directly accuses Ethan and associated CG participants of lying about the context of clips and the connection between online activity and alleged real-world harassment. These remain Liam's claims pending receipt-by-receipt verification.",
+      "evidence": [
+        {
+          "timestamp": "00:00-06:30",
+          "note": "Direct statement stream."
+        }
+      ],
+      "recorded_at": "2026-07-15T20:16:47.481894+00:00"
+    }
+  ],
+  "updated_at": "2026-07-15T20:16:47.481894+00:00"
 }

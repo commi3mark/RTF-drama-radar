@@ -1,0 +1,61 @@
+{
+  "entity_id": "friday-night-tights",
+  "name": "Friday Night Tights",
+  "aliases": [],
+  "appearances": [],
+  "discussions": [
+    {
+      "video_id": "LS_14uOaG2E",
+      "episode_title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "show": "ComicsGate Kings",
+      "importance": "major",
+      "sentiment": "mixed",
+      "appeared": false,
+      "confidence": 0.98,
+      "topic_blocks": [
+        "00:19:59-00:38:00"
+      ],
+      "evidence": [
+        {
+          "timestamp": "20:39",
+          "note": "Discussed as the show from which Chrissie Mayr had been removed or fired."
+        },
+        {
+          "timestamp": "35:28-35:47",
+          "note": "Panel considers whether audience anger would materially affect the show."
+        }
+      ]
+    },
+    {
+      "video_id": "Vj5FINXThF4",
+      "episode_title": "TheQuartering: Friday Night Tights is a Huge Pword for Firing Chrissie Mayr (Jul 13, 2026)",
+      "show": "TheQuartering livestream (clip)",
+      "importance": "major",
+      "sentiment": "negative",
+      "appeared": false,
+      "confidence": 0.99,
+      "topic_blocks": [
+        "approximately 03:50-07:17"
+      ],
+      "evidence": [
+        {
+          "timestamp": "approximately 03:50-07:17",
+          "note": "He criticises the show for apparently yielding to audience pressure."
+        }
+      ]
+    }
+  ],
+  "story_links": [
+    {
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "video_id": "LS_14uOaG2E"
+    },
+    {
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "video_id": "Vj5FINXThF4"
+    }
+  ],
+  "updated_at": "2026-07-15T20:16:47.687210+00:00"
+}

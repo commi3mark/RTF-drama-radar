@@ -1,13 +1,17 @@
 # Shane Davis
 
-- **Radar status:** confirmed ComicsGate Kings participant in sampled transcript evidence
-- **Appearance status:** high-confidence panel participant for LS_14uOaG2E
+- **Entity ID:** `shane-davis`
+- **Updated:** 2026-07-15T20:16:47.504216+00:00
 
-## Active story candidates
+## Appearances
 
-- `back-me-bro-launch`
+- **#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!** — panelist on ComicsGate Kings (confidence 99%)
 
-## Intake notes
+## Discussions about this person
 
-- Back Me Bro promotion is campaign/project evidence.
-- Repeated show appearances should establish roster status over time.
+- **Gabbing With Ga......You know** — secondary subject; unclear; confidence 76%
+
+## Story links
+
+- Chrissie Mayr departure from Friday Night Tights
+- Shane Davis — Back Me Bro launch

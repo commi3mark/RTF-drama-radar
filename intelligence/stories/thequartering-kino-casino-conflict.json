@@ -3,7 +3,7 @@
   "story_id": "thequartering-kino-casino-conflict",
   "generated_at": "2026-07-15T19:30:17.255785+00:00",
   "title": "TheQuartering / Kino Casino conflict",
-  "status": "candidate_active",
+  "status": "active",
   "people": [
     "thequartering"
   ],
@@ -20,5 +20,25 @@
     "Determine whether later Chrissie/FNT commentary is a connected escalation or separate story."
   ],
   "confidence": "candidate_only",
-  "evidence_level": "radar_metadata"
+  "evidence_level": "radar_metadata",
+  "participants": [
+    "kino-casino",
+    "thequartering",
+    "thequartering-coffee-business"
+  ],
+  "timeline": [
+    {
+      "video_id": "_9MjvkgkY9c",
+      "episode_title": "TheQuartering’s K Cup Crisis PR & Crying Victim After Starting War with Kino Casino (Jul 14, 2026)",
+      "summary": "TheQuartering publicly answers scrutiny of his coffee and K-Cup arrangements, denies dropshipping and accuses critics of harassing unrelated partners and employees.",
+      "evidence": [
+        {
+          "timestamp": "00:00-26:45",
+          "note": "Full defensive monologue."
+        }
+      ],
+      "recorded_at": "2026-07-15T20:09:51.739503+00:00"
+    }
+  ],
+  "updated_at": "2026-07-15T20:09:51.739503+00:00"
 }

@@ -1,0 +1,28 @@
+{
+  "entity_id": "sports-camera-sexualisation",
+  "name": "Sports camera angles and sexualisation",
+  "aliases": [],
+  "appearances": [],
+  "discussions": [
+    {
+      "video_id": "dcgJdp8BRKs",
+      "episode_title": "Professional Streamer TheQuartering - Gooners Gonna Goon (Jul 14, 2026)",
+      "show": "TheQuartering livestream (clip)",
+      "importance": "major",
+      "sentiment": "mixed",
+      "appeared": false,
+      "confidence": 0.98,
+      "topic_blocks": [
+        "approximately 02:00-07:30"
+      ],
+      "evidence": [
+        {
+          "timestamp": "approximately 02:00-07:30",
+          "note": "Sustained debate over camera rules, athlete clothing and viewer behaviour."
+        }
+      ]
+    }
+  ],
+  "story_links": [],
+  "updated_at": "2026-07-15T20:09:51.759839+00:00"
+}

@@ -1,0 +1,27 @@
+{
+  "entity_id": "dan-lawless",
+  "name": "Dan Lawless",
+  "aliases": [],
+  "appearances": [
+    {
+      "video_id": "LS_14uOaG2E",
+      "episode_title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "show": "ComicsGate Kings",
+      "role": "panelist",
+      "confidence": 0.97,
+      "evidence": [
+        {
+          "timestamp": "10:45-12:00",
+          "note": "Welcomed by name, participates in live discussion, and later presents a vampire drawing for auction."
+        },
+        {
+          "timestamp": "03:16:46",
+          "note": "Host requests the first bid for Dan Lawless's vampire drawing."
+        }
+      ]
+    }
+  ],
+  "discussions": [],
+  "story_links": [],
+  "updated_at": "2026-07-15T20:16:47.535931+00:00"
+}

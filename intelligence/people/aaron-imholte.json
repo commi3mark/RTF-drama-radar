@@ -1,0 +1,34 @@
+{
+  "entity_id": "aaron-imholte",
+  "name": "Aaron Imholte",
+  "aliases": [],
+  "appearances": [],
+  "discussions": [
+    {
+      "video_id": "jVMsgBTgicI",
+      "episode_title": "Steel Toe gets hit with his very own HRO | #936",
+      "show": "Ministry of Dude",
+      "importance": "major",
+      "sentiment": "negative",
+      "appeared": false,
+      "confidence": 0.96,
+      "topic_blocks": [
+        "Steel Toe/HRO principal segment"
+      ],
+      "evidence": [
+        {
+          "timestamp": "approximately 00:08 onward",
+          "note": "Introduced as the main Steel Toe news subject and treated mockingly."
+        }
+      ]
+    }
+  ],
+  "story_links": [
+    {
+      "story_id": "steel-toe-hro",
+      "title": "Steel Toe HRO",
+      "video_id": "jVMsgBTgicI"
+    }
+  ],
+  "updated_at": "2026-07-15T20:09:51.790095+00:00"
+}

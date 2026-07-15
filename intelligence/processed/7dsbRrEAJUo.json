@@ -1,0 +1,94 @@
+{
+  "schema_version": "octopuss-episode-analysis-v0.1",
+  "video_id": "7dsbRrEAJUo",
+  "title": "DDayCobra Hopes Chrissie Mayr Makes a Million Dollars (Jul 13, 2026)",
+  "show": {
+    "id": "ddaycobra-stream",
+    "name": "DDayCobra stream (clip)",
+    "channel": "Elissa Clips"
+  },
+  "episode_summary": "A 41-second statement wishing Chrissie Mayr well on Timcast and declining to answer the wider controversy. The speaker says others should continue talking because the attention benefits him, using 'grift' self-deprecatingly.",
+  "coverage": {
+    "packet_complete": true,
+    "analysis_complete": true,
+    "notes": ""
+  },
+  "participants": [
+    {
+      "entity_id": "ddaycobra",
+      "name": "DDayCobra",
+      "role": "host",
+      "confidence": 0.92,
+      "evidence": [
+        {
+          "timestamp": "00:00-00:41",
+          "note": "Clip title attributes the statement to DDayCobra; the transcript itself does not self-identify."
+        }
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "entity_id": "chrissie-mayr",
+      "name": "Chrissie Mayr",
+      "importance": "major",
+      "sentiment": "positive",
+      "appeared": false,
+      "confidence": 0.99,
+      "topic_blocks": [
+        "00:00-00:41"
+      ],
+      "evidence": [
+        {
+          "timestamp": "00:00-00:10",
+          "note": "Wishes her success on Timcast and hopes she makes a million dollars."
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "start": "00:00",
+      "end": "00:41",
+      "title": "Brief Chrissie Mayr statement",
+      "summary": "The speaker wishes Chrissie well, refuses to respond further and says continued discussion helps him.",
+      "entities": [
+        "chrissie-mayr",
+        "ddaycobra"
+      ]
+    }
+  ],
+  "story_updates": [
+    {
+      "story_id": "chrissie-mayr-friday-night-tights-departure",
+      "title": "Chrissie Mayr departure from Friday Night Tights",
+      "status": "active",
+      "summary": "DDayCobra offers public goodwill toward Chrissie but declines to engage the substance of the dispute.",
+      "participants": [
+        "ddaycobra",
+        "chrissie-mayr"
+      ],
+      "evidence": [
+        {
+          "timestamp": "00:00-00:41",
+          "note": "Complete clip."
+        }
+      ]
+    }
+  ],
+  "faction_signals": [],
+  "claims": [],
+  "quotes": [
+    {
+      "quote_id": "ddaycobra-chrissie-million",
+      "speaker": "DDayCobra",
+      "timestamp": "00:00",
+      "text": "Hope it goes well. Hope she makes a million dollars.",
+      "significance": "Clear positive public stance toward Chrissie without addressing the dispute.",
+      "confidence": 0.98
+    }
+  ],
+  "uncertainties": [
+    "Speaker identity depends partly on the clip-channel title because the 41-second transcript does not self-identify."
+  ]
+}

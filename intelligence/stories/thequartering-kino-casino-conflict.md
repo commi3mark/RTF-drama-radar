@@ -1,16 +1,19 @@
 # TheQuartering / Kino Casino conflict
 
-- **Status:** candidate_active
-- **Evidence level:** Radar metadata only
-- **Confidence:** Candidate; requires packet analysis
+- **Story ID:** `thequartering-kino-casino-conflict`
+- **Status:** active
+- **Updated:** 2026-07-15T20:09:51.739503+00:00
 
-## Radar signals
+## Participants
 
-- TheQuartering’s K Cup Crisis PR & Crying Victim After Starting War with Kino Casino
-- Professional Streamer TheQuartering - Gooners Gonna Goon
+- `kino-casino`
+- `thequartering`
+- `thequartering-coffee-business`
 
-## Required analysis
+## Timeline
 
-- Locate the initiating statement.
-- Separate business claims from insults and jokes.
-- Determine whether later Chrissie/FNT commentary is a connected escalation or separate story.
+### TheQuartering’s K Cup Crisis PR & Crying Victim After Starting War with Kino Casino (Jul 14, 2026)
+
+TheQuartering publicly answers scrutiny of his coffee and K-Cup arrangements, denies dropshipping and accuses critics of harassing unrelated partners and employees.
+
+- **00:00-26:45:** Full defensive monologue.

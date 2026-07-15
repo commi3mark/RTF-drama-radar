@@ -1,0 +1,23 @@
+{
+  "entity_id": "john-ministry-of-dude",
+  "name": "John",
+  "aliases": [],
+  "appearances": [
+    {
+      "video_id": "jVMsgBTgicI",
+      "episode_title": "Steel Toe gets hit with his very own HRO | #936",
+      "show": "Ministry of Dude",
+      "role": "panelist",
+      "confidence": 0.82,
+      "evidence": [
+        {
+          "timestamp": "00:06-00:10",
+          "note": "Introduced into the live panel conversation."
+        }
+      ]
+    }
+  ],
+  "discussions": [],
+  "story_links": [],
+  "updated_at": "2026-07-15T20:09:51.788111+00:00"
+}

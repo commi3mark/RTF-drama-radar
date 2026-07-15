@@ -1,0 +1,23 @@
+{
+  "entity_id": "ffs-cast-host",
+  "name": "FFS Cast host",
+  "aliases": [],
+  "appearances": [
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "episode_title": "Gabbing With Ga......You know",
+      "show": "FFS Cast",
+      "role": "host",
+      "confidence": 0.9,
+      "evidence": [
+        {
+          "timestamp": "00:00 onward",
+          "note": "Directs the show, reads donations and frames the conflict."
+        }
+      ]
+    }
+  ],
+  "discussions": [],
+  "story_links": [],
+  "updated_at": "2026-07-15T20:09:51.862014+00:00"
+}

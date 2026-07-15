@@ -13,5 +13,77 @@
     "Only new or contextually relevant links should become event intelligence.",
     "Claims need to propagate to the canonical Liam file and affected relationship/story files."
   ],
-  "evidence_level": "radar_metadata_and_sampled_receipts"
+  "evidence_level": "radar_metadata_and_sampled_receipts",
+  "appearances": [
+    {
+      "video_id": "IiuHUxargVk",
+      "episode_title": "Daddy Daughter Day (CG lies to you and why I am right)",
+      "show": "Liam Gray / Conquest Comics channel",
+      "role": "host",
+      "confidence": 1.0,
+      "evidence": [
+        {
+          "timestamp": "00:00-07:20",
+          "note": "First-person stream from his channel."
+        }
+      ]
+    }
+  ],
+  "story_links": [
+    {
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "video_id": "IiuHUxargVk"
+    },
+    {
+      "story_id": "ffs-cast-frog-tony-feud",
+      "title": "FFS Cast / Frog Tony feud",
+      "video_id": "ZgbvZRJnCIk"
+    },
+    {
+      "story_id": "liam-gray-comicsgate-dispute",
+      "title": "Liam Gray / ComicsGate dispute",
+      "video_id": "ZgbvZRJnCIk"
+    }
+  ],
+  "updated_at": "2026-07-15T20:16:47.512618+00:00",
+  "discussions": [
+    {
+      "video_id": "ZgbvZRJnCIk",
+      "episode_title": "Gabbing With Ga......You know",
+      "show": "FFS Cast",
+      "importance": "major",
+      "sentiment": "negative",
+      "appeared": false,
+      "confidence": 0.98,
+      "topic_blocks": [
+        "12:00-36:00 and recurring"
+      ],
+      "evidence": [
+        {
+          "timestamp": "12:00-36:00",
+          "note": "Panel retells old private-room claims and discusses his striking history."
+        }
+      ]
+    },
+    {
+      "video_id": "LS_14uOaG2E",
+      "episode_title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "show": "ComicsGate Kings",
+      "importance": "passing",
+      "sentiment": "neutral",
+      "appeared": false,
+      "confidence": 0.9,
+      "topic_blocks": [
+        "00:40:00-00:43:00"
+      ],
+      "evidence": [
+        {
+          "timestamp": "approximately 40:00",
+          "note": "Briefly identified as the creator of a remembered meme; no sustained discussion."
+        }
+      ]
+    }
+  ],
+  "aliases": []
 }

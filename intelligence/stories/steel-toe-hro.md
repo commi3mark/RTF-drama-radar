@@ -1,15 +1,18 @@
 # Steel Toe HRO
 
-- **Status:** candidate_transcript_ready
-- **Evidence level:** Radar metadata only
-- **Confidence:** Candidate; requires packet analysis
+- **Story ID:** `steel-toe-hro`
+- **Status:** active
+- **Updated:** 2026-07-15T20:09:51.792575+00:00
 
-## Radar signals
+## Participants
 
-- Steel Toe gets hit with his very own HRO | #936
+- `aaron-imholte`
+- `steel-toe-morning-show`
 
-## Required analysis
+## Timeline
 
-- Identify factual legal assertions and their source.
-- Separate commentary, jokes and speculation.
-- Record claims as unverified unless supported by primary documents.
+### Steel Toe gets hit with his very own HRO | #936
+
+Ministry of Dude treats an HRO-related development involving Aaron Imholte as the episode's headline story. The episode is commentary evidence, not primary legal documentation.
+
+- **episode principal segment:** Sustained HRO/Steel Toe commentary.

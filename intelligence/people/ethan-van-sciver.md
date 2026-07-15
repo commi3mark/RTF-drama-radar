@@ -1,13 +1,18 @@
 # Ethan Van Sciver
 
-- **Radar status:** show host, commentator and recurring subject
-- **Appearance status:** host of sampled ComicsGate Kings episode
+- **Entity ID:** `ethan-van-sciver`
+- **Updated:** 2026-07-15T20:16:47.495258+00:00
 
-## Active story candidates
+## Appearances
 
-- `back-me-bro-launch`
+- **#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!** — host on ComicsGate Kings (confidence 100%)
 
-## Intake notes
+## Discussions about this person
 
-- Talking about Eric July or another person does not imply alliance.
-- Maintain appearance, discussion and sentiment records separately.
+- **Daddy Daughter Day (CG lies to you and why I am right)** — major subject; negative; confidence 99%
+
+## Story links
+
+- Liam Gray / ComicsGate dispute
+- Chrissie Mayr departure from Friday Night Tights
+- Shane Davis — Back Me Bro launch
