@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-07-16T18:38:49.069942+00:00",
+  "updated_at": "2026-07-16T23:14:01.785229+00:00",
   "health": {
     "status": "degraded",
-    "summary": "169 YouTube detections are awaiting transcripts.",
-    "scan": "healthy",
+    "summary": "1 source(s) failed during the latest scan.",
+    "scan": "degraded",
     "transcripts": "degraded",
     "archive": "healthy",
     "validation": "healthy"
   },
   "last_scan": {
-    "runner": "local",
-    "started_at": "2026-07-16T18:36:06.355938+00:00",
-    "finished_at": "2026-07-16T18:36:13.676314+00:00",
-    "duration_seconds": 7.32,
-    "new_detections": 69,
-    "sweep_number": 1,
-    "status": "healthy"
+    "runner": "github",
+    "started_at": "2026-07-16T23:13:57.760428+00:00",
+    "finished_at": "2026-07-16T23:14:01.784545+00:00",
+    "duration_seconds": 4.02,
+    "new_detections": 64,
+    "sweep_number": 2,
+    "status": "warning"
   },
   "last_transcript_run": {
     "runner": "stalinvo",
@@ -90,34 +90,39 @@
     }
   },
   "detections": {
-    "total": 501,
-    "new_this_run": 69,
+    "total": 511,
+    "new_this_run": 64,
     "by_platform": {
-      "YouTube": 344,
-      "Substack": 52,
-      "Google Alerts": 105
+      "YouTube": 350,
+      "Substack": 53,
+      "Google Alerts": 108
     }
   },
   "transcripts": {
     "downloaded_total": 91,
     "downloaded_this_run": 10,
     "linked_to_live_feed": 157,
-    "awaiting_collection": 169,
+    "awaiting_collection": 175,
     "unavailable": 18,
-    "coverage_percent": 45.6,
+    "coverage_percent": 44.9,
     "retry_queue": 0,
-    "automatic_recovery_enabled": true
+    "automatic_recovery_enabled": false
   },
   "sources": {
     "configured": 29,
     "enabled": 28,
-    "successful": 28,
-    "failed": 0,
-    "items_read": 311,
-    "failures": []
+    "successful": 27,
+    "failed": 1,
+    "items_read": 276,
+    "failures": [
+      {
+        "source": "Johnny Rocket",
+        "error": "RuntimeError: <unknown>:2:1326: not well-formed (invalid token)"
+      }
+    ]
   },
   "archive": {
-    "updated_at": "2026-07-16T18:36:13.662922+00:00",
+    "updated_at": "2026-07-16T23:14:01.782004+00:00",
     "months": [
       {
         "month": "2024-08",
@@ -196,15 +201,16 @@
       },
       {
         "month": "2026-07",
-        "items": 429,
+        "items": 439,
         "path": "2026-07.json"
       }
     ],
     "month_count": 16,
-    "total_archived_detections": 571
+    "total_archived_detections": 581
   },
   "warnings": [
-    "169 YouTube detections are awaiting transcripts."
+    "1 source(s) failed during the latest scan.",
+    "175 YouTube detections are awaiting transcripts."
   ],
   "errors": []
 }
