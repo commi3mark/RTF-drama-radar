@@ -1,0 +1,32 @@
+{
+  "entity_id": "commi3-mark",
+  "updated_at": "2026-07-16T22:23:49.467031+00:00",
+  "recurring_shows": [
+    {
+      "name": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "JON DEL ARROZ: HERES THE ATTENTION YOU ORDERED - SHANE DAVIS BACK ME BRO INTERNET BEEF - EXTRA SALTY",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "\"MINISTRY OF UNGENTLEMANLY TWEETS\" EXPOSES COMMI3 MARK - OH NO!",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "FROG TONY'S FREEDOM FIGHTING FORCE | FBI Investigation DRAMA Escalates",
+      "observation_count": 2,
+      "status": "candidate"
+    }
+  ],
+  "observed_schedule": {
+    "weekday_Friday": 6,
+    "hour_23_utc": 6,
+    "weekday_Saturday": 2,
+    "hour_11_utc": 2
+  }
+}

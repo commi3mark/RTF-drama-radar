@@ -1,0 +1,69 @@
+{
+  "entity_id": "ethan-ralph",
+  "updated_at": "2026-07-16T20:43:28.127248+00:00",
+  "candidate_associates": [
+    {
+      "name": "Matt",
+      "entity_id": "matt",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Puerto Escondido",
+      "entity_id": "puerto-escondido",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    }
+  ],
+  "candidate_topics": [
+    {
+      "value": "Is Leem throwing in the towel",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "value": "It's All Fine - Friday Special",
+      "observation_count": 1,
+      "status": "candidate"
+    },
+    {
+      "value": "Finbarr STOMPS A Dwarf! - OPEN PANEL MADHOUSE",
+      "observation_count": 1,
+      "status": "candidate"
+    },
+    {
+      "value": "Gabbing With Ga......You Know",
+      "observation_count": 1,
+      "status": "candidate"
+    },
+    {
+      "value": "Katydid Caught LYING AGAIN! - Detractor Kings",
+      "observation_count": 1,
+      "status": "candidate"
+    },
+    {
+      "value": "Scarlett lives her best life",
+      "observation_count": 1,
+      "status": "candidate"
+    }
+  ],
+  "candidate_websites": [],
+  "candidate_socials": [],
+  "candidate_emails": [],
+  "candidate_appearances": [
+    {
+      "appearance_id": "appearance-iZU8Ozto3VQ",
+      "video_id": "iZU8Ozto3VQ",
+      "show_or_channel": "Elissa Clips",
+      "title": "MATI: Metokur & Cog Bend Over for Ethan Ralph (Jul 10, 2026)",
+      "published": "2026-07-14T21:56:51+00:00",
+      "role": "subject_or_possible_guest",
+      "status": "candidate",
+      "evidence_ids": [
+        "4169226c0a5f05f5d2"
+      ]
+    }
+  ]
+}

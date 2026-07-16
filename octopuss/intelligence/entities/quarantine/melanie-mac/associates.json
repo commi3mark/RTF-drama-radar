@@ -1,0 +1,13 @@
+{
+  "entity_id": "melanie-mac",
+  "updated_at": "2026-07-16T20:43:28.127248+00:00",
+  "associates": [
+    {
+      "name": "Russell",
+      "entity_id": "russell",
+      "relationship_type": "co_mentioned",
+      "observation_count": 3,
+      "status": "candidate"
+    }
+  ]
+}

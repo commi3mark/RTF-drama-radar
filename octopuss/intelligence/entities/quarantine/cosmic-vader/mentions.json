@@ -1,0 +1,49 @@
+{
+  "entity_id": "cosmic-vader",
+  "updated_at": "2026-07-16T20:43:28.127248+00:00",
+  "count": 3,
+  "mentions": [
+    {
+      "mention_id": "d856191fc8c0de01e3",
+      "video_id": "MOQPFnHJYR0",
+      "source": "Frog Tony",
+      "title": "Cynic Got CATFISHED And EVS Continues To SPIRAL On Thirsty Thursday!",
+      "published": "2026-07-03T05:32:32+00:00",
+      "timestamp_seconds": 3483.76,
+      "timestamp_url": "https://www.youtube.com/watch?v=MOQPFnHJYR0&t=3483s",
+      "matched_alias": "Cosmic Vader",
+      "context": ">> man. Just when you think it can't get any more [ __ ] weird and [ __ ] You know what I mean? Like [laughter] >> Cosmic Vader called it. Yep. Goofanoid. We've seen a sample of that in Goofanoid. Yep. like he wears it on his sleeve.",
+      "confidence": 0.97,
+      "status": "confirmed",
+      "evidence_id": "d856191fc8c0de01e3"
+    },
+    {
+      "mention_id": "cd205a3849f86ce519",
+      "video_id": "MmvMoleX9Ls",
+      "source": "FFS Cast",
+      "title": "Gabbing With Ga......You Know",
+      "published": "2026-07-08T03:33:10+00:00",
+      "timestamp_seconds": 8165.28,
+      "timestamp_url": "https://www.youtube.com/watch?v=MmvMoleX9Ls&t=8165s",
+      "matched_alias": "Cosmic Vader",
+      "context": ">> Vader claims to have kids. >> Uh oh, I forget Cosmic Vader's on there. I will say I don't know anything about Cosmic Vader. I would have to ask some people about that, but I do know the rest of the panel all claims to have kids. So,",
+      "confidence": 0.97,
+      "status": "confirmed",
+      "evidence_id": "cd205a3849f86ce519"
+    },
+    {
+      "mention_id": "69b99585b3d55d939e",
+      "video_id": "RxZ_OdBN2f0",
+      "source": "Frog Tony",
+      "title": "Katydid Caught LYING AGAIN! - Detractor Kings",
+      "published": "2026-07-07T05:46:59+00:00",
+      "timestamp_seconds": 322.32,
+      "timestamp_url": "https://www.youtube.com/watch?v=RxZ_OdBN2f0&t=322s",
+      "matched_alias": "Cosmic Vader",
+      "context": "I have a playlist of what we're going to go over. Steven Lenudo says me on the fourth. [laughter] >> Yeah, there's Stephen or Cosmic Vader. >> I I think Stephen Cosmic Lance uh there would be like in the third uh the third version, right?",
+      "confidence": 0.97,
+      "status": "confirmed",
+      "evidence_id": "69b99585b3d55d939e"
+    }
+  ]
+}

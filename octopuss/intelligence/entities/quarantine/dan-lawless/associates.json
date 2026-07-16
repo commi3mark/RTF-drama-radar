@@ -1,0 +1,34 @@
+{
+  "entity_id": "dan-lawless",
+  "updated_at": "2026-07-16T20:43:28.127248+00:00",
+  "associates": [
+    {
+      "name": "Wow",
+      "entity_id": "wow",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Dan",
+      "entity_id": "dan",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Johnny Rocket",
+      "entity_id": "johnny-rocket",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Catwoman",
+      "entity_id": "catwoman",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    }
+  ]
+}

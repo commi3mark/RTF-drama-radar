@@ -1,0 +1,79 @@
+{
+  "entity_id": "vito-gesualdi",
+  "updated_at": "2026-07-16T22:23:49.467031+00:00",
+  "status": "provisional_corpus_derived",
+  "observed_context_count": 791,
+  "language_signals": {
+    "criticism": 21,
+    "praise": 144,
+    "conflict": 49,
+    "evidence_language": 66,
+    "certainty": 30,
+    "uncertainty": 277
+  },
+  "typical_topics": [
+    {
+      "term": "comic",
+      "count": 73
+    },
+    {
+      "term": "Twitter",
+      "count": 32
+    },
+    {
+      "term": "YouTube",
+      "count": 19
+    },
+    {
+      "term": "channel",
+      "count": 18
+    },
+    {
+      "term": "audience",
+      "count": 17
+    },
+    {
+      "term": "drama",
+      "count": 13
+    },
+    {
+      "term": "Kick",
+      "count": 9
+    },
+    {
+      "term": "campaign",
+      "count": 6
+    },
+    {
+      "term": "copyright",
+      "count": 3
+    },
+    {
+      "term": "strike",
+      "count": 3
+    },
+    {
+      "term": "crowdfunding",
+      "count": 2
+    },
+    {
+      "term": "X",
+      "count": 2
+    },
+    {
+      "term": "ComicsGate",
+      "count": 1
+    },
+    {
+      "term": "lawsuit",
+      "count": 1
+    },
+    {
+      "term": "customers",
+      "count": 1
+    }
+  ],
+  "notes": [
+    "Counts describe language around mentions, not necessarily words spoken by the entity unless speaker attribution is available."
+  ]
+}

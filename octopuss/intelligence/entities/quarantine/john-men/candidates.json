@@ -1,0 +1,58 @@
+{
+  "entity_id": "john-men",
+  "updated_at": "2026-07-16T20:43:28.127248+00:00",
+  "candidate_associates": [
+    {
+      "name": "Shane",
+      "entity_id": "shane",
+      "relationship_type": "co_mentioned",
+      "observation_count": 5,
+      "status": "candidate"
+    },
+    {
+      "name": "For",
+      "entity_id": "for",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "That'd",
+      "entity_id": "that-d",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    }
+  ],
+  "candidate_topics": [
+    {
+      "value": "COMICSGATE KINGS",
+      "observation_count": 6,
+      "status": "candidate"
+    },
+    {
+      "value": "Let's draw GOTHAM characters",
+      "observation_count": 6,
+      "status": "candidate"
+    },
+    {
+      "value": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "value": "Gabbing With Ga......You Know",
+      "observation_count": 1,
+      "status": "candidate"
+    },
+    {
+      "value": "JON DEL ARROZ",
+      "observation_count": 1,
+      "status": "candidate"
+    }
+  ],
+  "candidate_websites": [],
+  "candidate_socials": [],
+  "candidate_emails": [],
+  "candidate_appearances": []
+}

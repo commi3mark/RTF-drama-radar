@@ -1,0 +1,49 @@
+{
+  "entity_id": "like-superman",
+  "updated_at": "2026-07-16T20:43:28.127248+00:00",
+  "count": 3,
+  "mentions": [
+    {
+      "mention_id": "fad776d3ecfa182cd1",
+      "video_id": "RxZ_OdBN2f0",
+      "source": "Frog Tony",
+      "title": "Katydid Caught LYING AGAIN! - Detractor Kings",
+      "published": "2026-07-07T05:46:59+00:00",
+      "timestamp_seconds": 5317.44,
+      "timestamp_url": "https://www.youtube.com/watch?v=RxZ_OdBN2f0&t=5317s",
+      "matched_alias": "Like Superman",
+      "context": "Will like nerd culture collapse in on itself? >> Not many people care about Supergirl. I hate to say it, you know? Like Superman will always overshadow her. >> Well, I mean, she has it like what what's the big iconic like Supergirl",
+      "confidence": 0.97,
+      "status": "confirmed",
+      "evidence_id": "fad776d3ecfa182cd1"
+    },
+    {
+      "mention_id": "28351fb251e0e11a68",
+      "video_id": "Zd9PVsLAD5c",
+      "source": "Ethan Van Sciver",
+      "title": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
+      "published": "2026-07-07T04:26:42+00:00",
+      "timestamp_seconds": 1837.2,
+      "timestamp_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=1837s",
+      "matched_alias": "Like Superman",
+      "context": "clean. >> I guess they try to contrast her with Superman. Is that the idea? Like Superman, as she says, you know, we we have different ideas about heroes and about life. So therefore, she's a little more bitter and, you know, hurt about",
+      "confidence": 0.97,
+      "status": "confirmed",
+      "evidence_id": "28351fb251e0e11a68"
+    },
+    {
+      "mention_id": "9579e65b70ed1adb73",
+      "video_id": "qLcrzaJJKiQ",
+      "source": "Frog Tony",
+      "title": "Supergirl BOMBED! - Comicsgate Suburbs",
+      "published": "2026-06-29T04:12:59+00:00",
+      "timestamp_seconds": 7994.8,
+      "timestamp_url": "https://www.youtube.com/watch?v=qLcrzaJJKiQ&t=7994s",
+      "matched_alias": "Like Superman",
+      "context": "looked at the [ __ ] um trailers and I was like, this is just dog [ __ ] Without spoiling much, it should have had more. Like Superman spoiled us. The first movie spoiled us with so much world building, so much promises, so much things from other",
+      "confidence": 0.97,
+      "status": "confirmed",
+      "evidence_id": "9579e65b70ed1adb73"
+    }
+  ]
+}

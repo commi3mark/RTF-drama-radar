@@ -1,0 +1,62 @@
+{
+  "entity_id": "wonder-woman",
+  "updated_at": "2026-07-16T20:43:28.127248+00:00",
+  "candidate_associates": [
+    {
+      "name": "Bat",
+      "entity_id": "bat",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Sun",
+      "entity_id": "sun",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Spider-Man",
+      "entity_id": "spider-man",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Punisher",
+      "entity_id": "punisher",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Supergirl",
+      "entity_id": "supergirl",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    }
+  ],
+  "candidate_topics": [
+    {
+      "value": "Catching Up With The Rippaverse! - Detractor Kings",
+      "observation_count": 4,
+      "status": "candidate"
+    },
+    {
+      "value": "COMICSGATE KINGS",
+      "observation_count": 1,
+      "status": "candidate"
+    },
+    {
+      "value": "Let's draw GOTHAM characters",
+      "observation_count": 1,
+      "status": "candidate"
+    }
+  ],
+  "candidate_websites": [],
+  "candidate_socials": [],
+  "candidate_emails": [],
+  "candidate_appearances": []
+}

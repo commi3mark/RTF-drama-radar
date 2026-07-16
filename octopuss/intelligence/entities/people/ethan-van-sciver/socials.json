@@ -1,0 +1,72 @@
+{
+  "entity_id": "ethan-van-sciver",
+  "updated_at": "2026-07-16T22:23:49.467031+00:00",
+  "social_accounts": [
+    {
+      "handle": "@GeekyBoarders",
+      "platform": "unknown",
+      "status": "candidate",
+      "observation_count": 14,
+      "evidence_ids": [
+        "3d3563f782a316edff95",
+        "b29405e9eea3c88d8ae5",
+        "9b6971249a3c349cf5a8607d",
+        "c366ae00f533849a140e666d",
+        "aa9c449cda439d1dc5d5",
+        "373da064b13ca6bbc8e6",
+        "fe6972cdf98533bf56c6034c",
+        "5db112898e89efd59016f6f7",
+        "02edf543de5850a9aa2e",
+        "5609f3e4e00537b9bf8490c6",
+        "b9fe82e03562230b46ec",
+        "fc3ca0e123c567bcd3e8736a",
+        "531a8f7750939a1459a4",
+        "5ac1477aee28ca81c3b89239"
+      ]
+    },
+    {
+      "handle": "@EthanVanSciver",
+      "platform": "unknown",
+      "status": "candidate",
+      "observation_count": 6,
+      "evidence_ids": [
+        "178a688c5ba8f429bdcc",
+        "865d7614a49e19f4d6fccbba",
+        "6b873ba50d1370e85eb7",
+        "902da18fd8c590cb3f1b5e76",
+        "74e78d6b774092e74184",
+        "0c8d14837be8b774f4f8f1f0"
+      ]
+    },
+    {
+      "handle": "@cgwatcher",
+      "platform": "unknown",
+      "status": "candidate",
+      "observation_count": 2,
+      "evidence_ids": [
+        "85d5d645ee7c1144717c",
+        "10b5c02ef92ca4898af75eb7"
+      ]
+    },
+    {
+      "handle": "@GeekyBoardersNo",
+      "platform": "unknown",
+      "status": "candidate",
+      "observation_count": 2,
+      "evidence_ids": [
+        "4d1aa3da3867eb304eb7",
+        "dd0d0a0d2a3e8eaf2ebe0eb2"
+      ]
+    },
+    {
+      "handle": "@GeekyBoarders1",
+      "platform": "unknown",
+      "status": "candidate",
+      "observation_count": 2,
+      "evidence_ids": [
+        "ac254a29a5f0aa81d118",
+        "4ce365161c798d3847e65168"
+      ]
+    }
+  ]
+}

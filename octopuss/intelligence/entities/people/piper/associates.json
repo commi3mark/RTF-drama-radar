@@ -1,0 +1,76 @@
+{
+  "entity_id": "piper",
+  "updated_at": "2026-07-16T22:23:49.467031+00:00",
+  "associates": [
+    {
+      "entity_id": "jon-del-arroz",
+      "name": "Jon Del Arroz",
+      "relationship_type": "co_discussed_or_co_appeared",
+      "interaction_score": 8,
+      "shared_video_count": 4,
+      "status": "candidate",
+      "first_seen": null,
+      "last_seen": null
+    },
+    {
+      "entity_id": "ethan-van-sciver",
+      "name": "Ethan Van Sciver",
+      "relationship_type": "co_discussed_or_co_appeared",
+      "interaction_score": 7,
+      "shared_video_count": 5,
+      "status": "candidate",
+      "first_seen": null,
+      "last_seen": null
+    },
+    {
+      "entity_id": "commi3-mark",
+      "name": "Commi3 Mark",
+      "relationship_type": "co_discussed_or_co_appeared",
+      "interaction_score": 7,
+      "shared_video_count": 5,
+      "status": "candidate",
+      "first_seen": null,
+      "last_seen": null
+    },
+    {
+      "entity_id": "eric-july",
+      "name": "Eric July",
+      "relationship_type": "co_discussed_or_co_appeared",
+      "interaction_score": 5,
+      "shared_video_count": 5,
+      "status": "candidate",
+      "first_seen": null,
+      "last_seen": null
+    },
+    {
+      "entity_id": "liam-gray",
+      "name": "Liam Gray",
+      "relationship_type": "co_discussed_or_co_appeared",
+      "interaction_score": 5,
+      "shared_video_count": 5,
+      "status": "candidate",
+      "first_seen": null,
+      "last_seen": null
+    },
+    {
+      "entity_id": "frog-tony",
+      "name": "Frog Tony",
+      "relationship_type": "co_discussed_or_co_appeared",
+      "interaction_score": 5,
+      "shared_video_count": 5,
+      "status": "candidate",
+      "first_seen": null,
+      "last_seen": null
+    },
+    {
+      "entity_id": "shane-davis",
+      "name": "Shane Davis",
+      "relationship_type": "co_discussed_or_co_appeared",
+      "interaction_score": 2,
+      "shared_video_count": 2,
+      "status": "candidate",
+      "first_seen": null,
+      "last_seen": null
+    }
+  ]
+}

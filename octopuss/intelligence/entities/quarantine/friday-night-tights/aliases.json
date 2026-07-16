@@ -1,0 +1,18 @@
+{
+  "entity_id": "friday-night-tights",
+  "updated_at": "2026-07-16T20:43:28.127248+00:00",
+  "aliases": [
+    {
+      "value": "Friday Night Tights",
+      "normalised": "friday night tights",
+      "status": "confirmed",
+      "observation_count": 8
+    },
+    {
+      "value": "FRIDAY NIGHT TIGHTS",
+      "normalised": "friday night tights",
+      "status": "confirmed",
+      "observation_count": 8
+    }
+  ]
+}

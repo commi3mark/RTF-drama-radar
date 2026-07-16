@@ -1,0 +1,36 @@
+{
+  "entity_id": "eric-july",
+  "updated_at": "2026-07-16T22:23:49.467031+00:00",
+  "websites": [
+    {
+      "url": "https://rippaverse.com/rippaversary-sale/",
+      "domain": "rippaverse.com",
+      "status": "candidate_owned_or_promoted",
+      "observation_count": 2,
+      "evidence_ids": [
+        "73ea51b9fc4d708895301f8c",
+        "fb61f03667e09343a094"
+      ]
+    },
+    {
+      "url": "https://youtu.be/Arn4sp1Ui-o",
+      "domain": "youtu.be",
+      "status": "candidate_owned_or_promoted",
+      "observation_count": 2,
+      "evidence_ids": [
+        "cc2d59573677568a882b",
+        "4dd87a95ce544feb1cb8efde"
+      ]
+    },
+    {
+      "url": "https://rippaverse.com/collections/dokumaan-card-decks/",
+      "domain": "rippaverse.com",
+      "status": "candidate_owned_or_promoted",
+      "observation_count": 2,
+      "evidence_ids": [
+        "965452b947ad438ad6d2",
+        "55c26435cd00ae63a0a08d50"
+      ]
+    }
+  ]
+}

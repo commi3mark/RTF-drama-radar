@@ -1,0 +1,26 @@
+{
+  "schema_version": "octopuss-entity-profile-v1",
+  "entity_id": "charlie-kirk",
+  "canonical_name": "Charlie Kirk",
+  "entity_type": "person_or_persona",
+  "pronunciation": null,
+  "nationality": null,
+  "description": null,
+  "status": "confirmed",
+  "review_status": "unreviewed",
+  "confidence": 0.81,
+  "first_seen": "2026-07-08T21:44:21+00:00",
+  "last_seen": "2026-07-15T23:21:13+00:00",
+  "mention_count": 4,
+  "mention_video_count": 4,
+  "independent_source_count": 3,
+  "mentioning_sources": [
+    "Elissa Clips",
+    "Ethan Van Sciver",
+    "Ministry of Dude"
+  ],
+  "monitored_source": false,
+  "last_updated": "2026-07-16T20:43:28.127248+00:00",
+  "auto_generated": true,
+  "manual_notes": []
+}

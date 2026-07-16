@@ -1,0 +1,82 @@
+{
+  "entity_id": "piper",
+  "updated_at": "2026-07-16T22:23:49.467031+00:00",
+  "stories_and_narratives": [
+    {
+      "story_or_narrative": "Russian Troll Factory",
+      "observation_count": 17,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "drama",
+      "observation_count": 16,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "ComicsGate",
+      "observation_count": 13,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "Rippaverse",
+      "observation_count": 13,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "Back Me Bro",
+      "observation_count": 13,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "channel",
+      "observation_count": 6,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "comic",
+      "observation_count": 3,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "YouTube",
+      "observation_count": 3,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "audience",
+      "observation_count": 2,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "F - IT: We Are Soooooo Back (AGANE)",
+      "observation_count": 40,
+      "status": "recurring_title_cluster"
+    },
+    {
+      "story_or_narrative": "\"MINISTRY OF UNGENTLEMANLY TWEETS\" EXPOSES COMMI3 MARK - OH NO!",
+      "observation_count": 14,
+      "status": "recurring_title_cluster"
+    },
+    {
+      "story_or_narrative": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+      "observation_count": 13,
+      "status": "recurring_title_cluster"
+    },
+    {
+      "story_or_narrative": "JON DEL ARROZ: HERES THE ATTENTION YOU ORDERED - SHANE DAVIS BACK ME BRO INTERNET BEEF - EXTRA SALTY",
+      "observation_count": 13,
+      "status": "recurring_title_cluster"
+    },
+    {
+      "story_or_narrative": "FROG TONY'S FREEDOM FIGHTING FORCE | FBI Investigation DRAMA Escalates",
+      "observation_count": 3,
+      "status": "recurring_title_cluster"
+    }
+  ],
+  "narrative_signals": {
+    "positive_language_count": 10,
+    "negative_language_count": 0,
+    "conflict_language_count": 5,
+    "status": "rough_context_signal_not_sentiment_classification"
+  }
+}

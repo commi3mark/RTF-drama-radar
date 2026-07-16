@@ -1,0 +1,38 @@
+{
+  "entity_id": "frog-tony",
+  "canonical_name": "Frog Tony",
+  "entity_type": "person_or_persona",
+  "status": "confirmed",
+  "auto_detected": false,
+  "first_seen": "2026-06-20T11:30:01+00:00",
+  "last_seen": "2026-07-16T04:31:22+00:00",
+  "mention_count": 875,
+  "independent_sources": 7,
+  "video_count": 35,
+  "confidence": 1.0,
+  "updated_at": "2026-07-16T22:23:32.026712+00:00",
+  "schema_version": "octopuss-deep-entity-profile-v1",
+  "aliases": [
+    "Frog Tony",
+    "Frig Tony",
+    "Tony"
+  ],
+  "nationality": null,
+  "pronunciation": null,
+  "description": null,
+  "mention_evidence_count": 854,
+  "mention_video_count": 35,
+  "independent_source_count": 7,
+  "mentioning_sources": [
+    "Commi3 Mark",
+    "Ethan Van Sciver",
+    "FFS Cast",
+    "Frog Tony",
+    "KatyDid",
+    "Ministry of Dude",
+    "Piper"
+  ],
+  "profile_completeness": 11,
+  "last_deep_build": "2026-07-16T22:23:49.467031+00:00",
+  "manual_notes": []
+}

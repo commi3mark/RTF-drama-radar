@@ -1,0 +1,90 @@
+{
+  "entity_id": "chuck-dixon",
+  "updated_at": "2026-07-16T20:43:28.127248+00:00",
+  "associates": [
+    {
+      "name": "None",
+      "entity_id": "none",
+      "relationship_type": "co_mentioned",
+      "observation_count": 13,
+      "status": "candidate"
+    },
+    {
+      "name": "Chuck Dixon. You",
+      "entity_id": "chuck-dixon-you",
+      "relationship_type": "co_mentioned",
+      "observation_count": 4,
+      "status": "candidate"
+    },
+    {
+      "name": "She's",
+      "entity_id": "she-s",
+      "relationship_type": "co_mentioned",
+      "observation_count": 3,
+      "status": "candidate"
+    },
+    {
+      "name": "Not",
+      "entity_id": "not",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Chuck Dixon. You're",
+      "entity_id": "chuck-dixon-you-re",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Alpha Core",
+      "entity_id": "alpha-core",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Chuck Dixon. None",
+      "entity_id": "chuck-dixon-none",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Prime Valuli",
+      "entity_id": "prime-valuli",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Veto I'm Chuck Dixon",
+      "entity_id": "veto-i-m-chuck-dixon",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Spiva",
+      "entity_id": "spiva",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Chuck Dixon. That's",
+      "entity_id": "chuck-dixon-that-s",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Chuck Dixon. Not",
+      "entity_id": "chuck-dixon-not",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    }
+  ]
+}

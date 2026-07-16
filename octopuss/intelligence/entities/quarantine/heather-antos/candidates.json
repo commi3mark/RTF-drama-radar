@@ -1,0 +1,25 @@
+{
+  "entity_id": "heather-antos",
+  "updated_at": "2026-07-16T20:43:28.127248+00:00",
+  "candidate_associates": [
+    {
+      "name": "IDW",
+      "entity_id": "idw",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Cry",
+      "entity_id": "cry",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    }
+  ],
+  "candidate_topics": [],
+  "candidate_websites": [],
+  "candidate_socials": [],
+  "candidate_emails": [],
+  "candidate_appearances": []
+}

@@ -1,0 +1,137 @@
+{
+  "entity_id": "ethan-van-sciver",
+  "updated_at": "2026-07-16T22:23:49.467031+00:00",
+  "stories_and_narratives": [
+    {
+      "story_or_narrative": "ComicsGate",
+      "observation_count": 99,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "ComicsGate Kings",
+      "observation_count": 76,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "comic",
+      "observation_count": 61,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "drama",
+      "observation_count": 46,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "campaign",
+      "observation_count": 27,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "Rippaverse",
+      "observation_count": 25,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "channel",
+      "observation_count": 15,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "Back Me Bro",
+      "observation_count": 15,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "audience",
+      "observation_count": 12,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "Twitter",
+      "observation_count": 10,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "YouTube",
+      "observation_count": 8,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "X",
+      "observation_count": 5,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "crowdfunding",
+      "observation_count": 4,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "lawsuit",
+      "observation_count": 3,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "Russian Troll Factory",
+      "observation_count": 3,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "Gabbing With Ga......You know",
+      "observation_count": 153,
+      "status": "recurring_title_cluster"
+    },
+    {
+      "story_or_narrative": "Checking In On The LATE Campaigns Of EVS! - OPEN PANEL MADHOUSE!",
+      "observation_count": 97,
+      "status": "recurring_title_cluster"
+    },
+    {
+      "story_or_narrative": "It's OFFICIAL! TRASHCAST FIRES CHRISSIE MAYR! ERICHETTE JULY on \"WOKE\"! LANTERNS Spoilers?!",
+      "observation_count": 51,
+      "status": "recurring_title_cluster"
+    },
+    {
+      "story_or_narrative": "You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST !!! Sturgis goes to PokePark Kanto!",
+      "observation_count": 49,
+      "status": "recurring_title_cluster"
+    },
+    {
+      "story_or_narrative": "Cynic Got CATFISHED And EVS Continues To SPIRAL On Thirsty Thursday!",
+      "observation_count": 45,
+      "status": "recurring_title_cluster"
+    },
+    {
+      "story_or_narrative": "COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "observation_count": 40,
+      "status": "recurring_title_cluster"
+    },
+    {
+      "story_or_narrative": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
+      "observation_count": 36,
+      "status": "recurring_title_cluster"
+    },
+    {
+      "story_or_narrative": "TRASHCAST BIGGEST PROBLEM was insane. Vito is a outta control. I pity him.",
+      "observation_count": 34,
+      "status": "recurring_title_cluster"
+    },
+    {
+      "story_or_narrative": "FROG TONY'S FREEDOM FIGHTING FORCE | FBI Investigation DRAMA Escalates",
+      "observation_count": 31,
+      "status": "recurring_title_cluster"
+    },
+    {
+      "story_or_narrative": "\"I REPORTED THE DROPBOX!\" Liam Gray Responds to EVS Reacting To A Viral Clip",
+      "observation_count": 31,
+      "status": "recurring_title_cluster"
+    }
+  ],
+  "narrative_signals": {
+    "positive_language_count": 130,
+    "negative_language_count": 56,
+    "conflict_language_count": 83,
+    "status": "rough_context_signal_not_sentiment_classification"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "entity_id": "rotten-tomatoes",
+  "updated_at": "2026-07-16T20:43:28.127248+00:00",
+  "count": 5,
+  "mentions": [
+    {
+      "mention_id": "6063e36453839797ee",
+      "video_id": "LS_14uOaG2E",
+      "source": "Ethan Van Sciver",
+      "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "published": "2026-07-13T23:19:06+00:00",
+      "timestamp_seconds": 1595.039,
+      "timestamp_url": "https://www.youtube.com/watch?v=LS_14uOaG2E&t=1595s",
+      "matched_alias": "Rotten Tomatoes",
+      "context": "you know, in my opinion, brought Melanie Mack on her show in order to just hold her up for like scrutiny, for ridicule, for abuse, for Rotten Tomatoes so that she could get super chats and be like, \"What? We're here to talk about Jesus? I don't know.",
+      "confidence": 0.97,
+      "status": "confirmed",
+      "evidence_id": "6063e36453839797ee"
+    },
+    {
+      "mention_id": "390bfd79f63f55f6d0",
+      "video_id": "MBKTh4fSITU",
+      "source": "Commi3 Mark",
+      "title": "\"MINISTRY OF UNGENTLEMANLY TWEETS\" EXPOSES COMMI3 MARK - OH NO!",
+      "published": "2026-06-26T23:47:47+00:00",
+      "timestamp_seconds": 7720.96,
+      "timestamp_url": "https://www.youtube.com/watch?v=MBKTh4fSITU&t=7720s",
+      "matched_alias": "Rotten Tomatoes",
+      "context": "good one this week. This week, uh we're not doing one of our classic urban dictionaries. We're not doing a uh good reads. We're not doing a Rotten Tomatoes and IMDb. This is the first time. >> What are we doing, Mark? This is the first time that we'll be",
+      "confidence": 0.97,
+      "status": "confirmed",
+      "evidence_id": "390bfd79f63f55f6d0"
+    },
+    {
+      "mention_id": "f2a750efa8c4370e89",
+      "video_id": "SlodiZOj8bE",
+      "source": "Commi3 Mark",
+      "title": "FROG TONY'S FREEDOM FIGHTING FORCE | FBI Investigation DRAMA Escalates",
+      "published": "2026-06-20T11:30:01+00:00",
+      "timestamp_seconds": 1037.039,
+      "timestamp_url": "https://www.youtube.com/watch?v=SlodiZOj8bE&t=1037s",
+      "matched_alias": "Rotten Tomatoes",
+      "context": "I did it after in post. Uh, here it is. Here's the tweet. It got what's that? 73 likes. Not great. Uh, exactly the same thing. I posted it on Rotten Tomatoes and on IMDb on like his [cough] So, Billy, can you see this enough to read it? Do you need me to zoom in?",
+      "confidence": 0.97,
+      "status": "confirmed",
+      "evidence_id": "f2a750efa8c4370e89"
+    },
+    {
+      "mention_id": "532a2b7872a78a331f",
+      "video_id": "SlodiZOj8bE",
+      "source": "Commi3 Mark",
+      "title": "FROG TONY'S FREEDOM FIGHTING FORCE | FBI Investigation DRAMA Escalates",
+      "published": "2026-06-20T11:30:01+00:00",
+      "timestamp_seconds": 5116.08,
+      "timestamp_url": "https://www.youtube.com/watch?v=SlodiZOj8bE&t=5116s",
+      "matched_alias": "Rotten Tomatoes",
+      "context": ">> um according to Slamming Brandon, he got yelled at by Bruce Campbell for being an incompetent director. Yes, >> I saw that on um Rotten Tomatoes was on IMDb when I was leaving my >> uh review for him. >> Oh [ __ ] for his episode,",
+      "confidence": 0.97,
+      "status": "confirmed",
+      "evidence_id": "532a2b7872a78a331f"
+    },
+    {
+      "mention_id": "262f38fd51393cfe77",
+      "video_id": "qLcrzaJJKiQ",
+      "source": "Frog Tony",
+      "title": "Supergirl BOMBED! - Comicsgate Suburbs",
+      "published": "2026-06-29T04:12:59+00:00",
+      "timestamp_seconds": 8248.0,
+      "timestamp_url": "https://www.youtube.com/watch?v=qLcrzaJJKiQ&t=8248s",
+      "matched_alias": "Rotten Tomatoes",
+      "context": "movie which had a 39 million star. Man, it it opened lower than [ __ ] MorbiiUS. Also, how is Fantastic 4 at 9% on on Rotten Tomatoes? >> Is it really that low? >> The fatigue. The fatigue is kicking in, [clears throat]",
+      "confidence": 0.97,
+      "status": "confirmed",
+      "evidence_id": "262f38fd51393cfe77"
+    }
+  ]
+}

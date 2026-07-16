@@ -1,0 +1,14 @@
+{
+  "entity_id": "kino-casino",
+  "updated_at": "2026-07-16T20:43:28.127248+00:00",
+  "power_level": 32,
+  "band": "low",
+  "components": {
+    "reach": 30,
+    "activity": 28,
+    "network": 18,
+    "narrative_presence": 52
+  },
+  "status": "provisional_automated_assessment",
+  "explanation": "Calculated only from the current Drama Radar and transcript corpus."
+}

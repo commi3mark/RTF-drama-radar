@@ -1,0 +1,1313 @@
+{
+  "schema_version": "octopuss-entity-profile-v0.2-iterative",
+  "generated_at": "2026-07-16T20:31:32.190684+00:00",
+  "entity_id": "commi3-mark",
+  "identity": {
+    "canonical_name": "Commi3 Mark",
+    "pronunciation": "commie mark",
+    "entity_type": [
+      "public_online_persona",
+      "creator",
+      "show_host",
+      "comic_creator",
+      "satirist"
+    ],
+    "nationality": [
+      "British"
+    ],
+    "status": "active"
+  },
+  "names": {
+    "direct_aliases": [
+      "Commi3 Mark",
+      "Commie Mark",
+      "Commi 3 Mark",
+      "Commie 3 Mark",
+      "Commi Three Mark",
+      "Commie Three Mark",
+      "@commi3mark",
+      "commi3mark"
+    ],
+    "trusted_transcription_variants": [
+      "Kami Mark",
+      "Kamie Mark"
+    ],
+    "possible_transcription_variants": [
+      "Commie Marx",
+      "Commie Marc",
+      "Comedy Mark",
+      "Communist Mark",
+      "Commy Mark"
+    ]
+  },
+  "trusted_detection_knowledge": {
+    "terms": [
+      "AIOC",
+      "Algorithm Training",
+      "Drama Radar",
+      "OCTOPUSS",
+      "RTF",
+      "Russian Troll Factory",
+      "Smug Dongs",
+      "Soviet jazz club",
+      "Train the Algorithm"
+    ],
+    "associates": [],
+    "rule": "Only promoted knowledge is reused in later passes. Candidate clues never train the detector."
+  },
+  "online_presence": {
+    "websites": [
+      {
+        "type": "url",
+        "value": "https://commi3mark.com",
+        "status": "observed",
+        "confidence": 0.75,
+        "evidence_ids": [
+          "003d1d4a877379d2e268",
+          "ff5ec2e9b6212deffd96"
+        ],
+        "domain": "commi3mark.com"
+      },
+      {
+        "type": "url",
+        "value": "https://payhip.com/COMMI3MARKCOMMENTARIATCOMICS",
+        "status": "observed",
+        "confidence": 0.75,
+        "evidence_ids": [
+          "003d1d4a877379d2e268",
+          "ff5ec2e9b6212deffd96"
+        ],
+        "domain": "payhip.com"
+      },
+      {
+        "type": "url",
+        "value": "https://streamyard.com/pal/d/5121556831272960",
+        "status": "observed",
+        "confidence": 0.75,
+        "evidence_ids": [
+          "003d1d4a877379d2e268",
+          "b07f7fb72a4913cb6c4f",
+          "defd451ff969dbae144d",
+          "ff5ec2e9b6212deffd96"
+        ],
+        "domain": "streamyard.com"
+      }
+    ],
+    "social_accounts": [
+      {
+        "type": "url",
+        "value": "https://www.youtube.com/@commi3mark",
+        "status": "observed",
+        "confidence": 0.75,
+        "evidence_ids": [
+          "003d1d4a877379d2e268",
+          "ff5ec2e9b6212deffd96"
+        ],
+        "domain": "youtube.com",
+        "platform": "YouTube"
+      },
+      {
+        "type": "url",
+        "value": "https://www.youtube.com/watch?v=LdLy2G5TM4c",
+        "status": "observed",
+        "confidence": 0.75,
+        "evidence_ids": [
+          "b07f7fb72a4913cb6c4f",
+          "defd451ff969dbae144d"
+        ],
+        "domain": "youtube.com",
+        "platform": "YouTube"
+      },
+      {
+        "type": "url",
+        "value": "https://www.youtube.com/watch?v=MBKTh4fSITU",
+        "status": "observed",
+        "confidence": 0.75,
+        "evidence_ids": [
+          "003d1d4a877379d2e268",
+          "ff5ec2e9b6212deffd96"
+        ],
+        "domain": "youtube.com",
+        "platform": "YouTube"
+      },
+      {
+        "type": "url",
+        "value": "https://www.youtube.com/watch?v=SlodiZOj8bE",
+        "status": "observed",
+        "confidence": 0.75,
+        "evidence_ids": [
+          "84e4f783580d136b743c",
+          "bfde31cc64f6a631d280"
+        ],
+        "domain": "youtube.com",
+        "platform": "YouTube"
+      },
+      {
+        "type": "url",
+        "value": "https://www.youtube.com/watch?v=ibGd2AqrEXg",
+        "status": "observed",
+        "confidence": 0.75,
+        "evidence_ids": [
+          "4a9616d5f75283a2076f",
+          "604d1d89741a48b22d7d"
+        ],
+        "domain": "youtube.com",
+        "platform": "YouTube"
+      },
+      {
+        "type": "url",
+        "value": "https://x.com/COMMI3MARK",
+        "status": "observed",
+        "confidence": 0.75,
+        "evidence_ids": [
+          "003d1d4a877379d2e268",
+          "ff5ec2e9b6212deffd96"
+        ],
+        "domain": "x.com",
+        "platform": "X"
+      }
+    ],
+    "public_emails": [],
+    "handles": [
+      {
+        "type": "handle",
+        "value": "@commi3mark",
+        "status": "observed",
+        "confidence": 0.6,
+        "evidence_ids": [
+          "003d1d4a877379d2e268",
+          "ff5ec2e9b6212deffd96"
+        ]
+      }
+    ]
+  },
+  "content": {
+    "known_projects": [
+      "Russian Troll Factory",
+      "RTF",
+      "Drama Radar",
+      "OCTOPUSS"
+    ],
+    "recurring_youtube_shows": [],
+    "own_channel_detections": 8
+  },
+  "appearances": {
+    "known_guest_appearances": [],
+    "candidate_appearance_passages": [
+      "1892aea04a99f77e58c1",
+      "19c894c27add94984439",
+      "1a8f63e453b7e30bbe59",
+      "1ab0723e736a0df74bea",
+      "23934e3196c3232676ce",
+      "258bd4fe3da1042bd4aa",
+      "2ee1ba53a5c87c851091",
+      "30857f87b2d739c70f6c",
+      "347c68ab6c300577a5ea",
+      "3ebe5cd752c1ca736064",
+      "3ffa8fad23ae561d5ca4",
+      "46f4fb8f588132c485a3",
+      "486749f817b9b9d9ed20",
+      "490f9f0c579077118db4",
+      "49cd409b436fe55c302f",
+      "49ce83651d2b15f767f4",
+      "5698ff097465b35dc0c8",
+      "5c8551f0d4543683c91e",
+      "6da1b179ae88e96e35b7",
+      "6f64a3789e657ea061a0",
+      "7c70a8fff3a72abc5087",
+      "87f442fc92047402a076",
+      "91dfe1c2709b6b1453fe",
+      "9f8cff720749f1a8884e",
+      "a2cacbfb1c939ba8178e",
+      "a677dfbcd1492060d5bd",
+      "b48662c635cb2b84f3dd",
+      "b49325d0a3d08c813cb5",
+      "b95c9b3ea3b11596dfd7",
+      "ba58bfb7889c0bf9ecdc",
+      "c01873a060cd3eb5ab7f",
+      "ca016162bacd71679d56",
+      "cd6dfe42ce35915d47fc",
+      "ce1daae656c53256d1f5",
+      "e8580bd48fd96fe5ff49",
+      "eace48676a4c52dc6e32",
+      "f8febc3beb0db6e3beaf"
+    ]
+  },
+  "comic_history": {
+    "known_items": [],
+    "candidate_passages": [
+      "0accbdcb22e2d4646fcc",
+      "15fbecff315702a261d0",
+      "3a6f586081097e45f363",
+      "4c48eef2a39eb0320125",
+      "aaf989217fefc2658e6d"
+    ]
+  },
+  "associates": [
+    {
+      "clue_type": "associate",
+      "value": "Absolutely",
+      "status": "candidate",
+      "confidence": 0.55,
+      "independent_videos": 1,
+      "independent_sources": 1,
+      "evidence_ids": [
+        "720a334f5bed80588305"
+      ]
+    },
+    {
+      "clue_type": "associate",
+      "value": "Actually",
+      "status": "candidate",
+      "confidence": 0.55,
+      "independent_videos": 1,
+      "independent_sources": 1,
+      "evidence_ids": [
+        "720a334f5bed80588305"
+      ]
+    },
+    {
+      "clue_type": "associate",
+      "value": "And",
+      "status": "candidate",
+      "confidence": 0.55,
+      "independent_videos": 1,
+      "independent_sources": 1,
+      "evidence_ids": [
+        "1a8f63e453b7e30bbe59",
+        "1ab0723e736a0df74bea",
+        "258bd4fe3da1042bd4aa",
+        "30857f87b2d739c70f6c",
+        "486749f817b9b9d9ed20",
+        "91dfe1c2709b6b1453fe",
+        "b95c9b3ea3b11596dfd7",
+        "ca016162bacd71679d56",
+        "ce1daae656c53256d1f5"
+      ]
+    },
+    {
+      "clue_type": "associate",
+      "value": "Bloody",
+      "status": "candidate",
+      "confidence": 0.55,
+      "independent_videos": 1,
+      "independent_sources": 1,
+      "evidence_ids": [
+        "1a8f63e453b7e30bbe59",
+        "1ab0723e736a0df74bea",
+        "258bd4fe3da1042bd4aa",
+        "30857f87b2d739c70f6c",
+        "486749f817b9b9d9ed20",
+        "91dfe1c2709b6b1453fe",
+        "ce1daae656c53256d1f5"
+      ]
+    },
+    {
+      "clue_type": "associate",
+      "value": "Brigade",
+      "status": "candidate",
+      "confidence": 0.55,
+      "independent_videos": 1,
+      "independent_sources": 1,
+      "evidence_ids": [
+        "1ae81f83305f675e51c3",
+        "1eb63fc84f33857043e0",
+        "22f7c77bf9f8b9aee19a",
+        "4917824b67db5adade9f",
+        "86080ed092ce6a98dcda",
+        "b0d26ec1fe771b78541b",
+        "b7448fde6abd06ed17eb"
+      ]
+    },
+    {
+      "clue_type": "associate",
+      "value": "British",
+      "status": "candidate",
+      "confidence": 0.55,
+      "independent_videos": 1,
+      "independent_sources": 1,
+      "evidence_ids": [
+        "486749f817b9b9d9ed20"
+      ]
+    },
+    {
+      "clue_type": "associate",
+      "value": "Comey Mark",
+      "status": "candidate",
+      "confidence": 0.91,
+      "independent_videos": 4,
+      "independent_sources": 1,
+      "evidence_ids": [
+        "1892aea04a99f77e58c1",
+        "19c894c27add94984439",
+        "1a8f63e453b7e30bbe59",
+        "1ab0723e736a0df74bea",
+        "1ae81f83305f675e51c3",
+        "1eb63fc84f33857043e0",
+        "22f7c77bf9f8b9aee19a",
+        "23934e3196c3232676ce",
+        "258bd4fe3da1042bd4aa",
+        "2ee1ba53a5c87c851091",
+        "30857f87b2d739c70f6c",
+        "347c68ab6c300577a5ea",
+        "3d4a6cbb497203e0fdc8",
+        "3ffa8fad23ae561d5ca4",
+        "46f4fb8f588132c485a3",
+        "486749f817b9b9d9ed20",
+        "490f9f0c579077118db4",
+        "4917824b67db5adade9f",
+        "49cd409b436fe55c302f",
+        "49ce83651d2b15f767f4",
+        "5698ff097465b35dc0c8",
+        "5c8551f0d4543683c91e",
+        "6da1b179ae88e96e35b7",
+        "6f64a3789e657ea061a0",
+        "7c70a8fff3a72abc5087",
+        "86080ed092ce6a98dcda",
+        "87f442fc92047402a076",
+        "91dfe1c2709b6b1453fe",
+        "9f8cff720749f1a8884e",
+        "a2cacbfb1c939ba8178e",
+        "a677dfbcd1492060d5bd",
+        "aee96508cdb63f5f16eb",
+        "b0d26ec1fe771b78541b",
+        "b48662c635cb2b84f3dd",
+        "b7448fde6abd06ed17eb",
+        "b95c9b3ea3b11596dfd7",
+        "ba58bfb7889c0bf9ecdc",
+        "bfe21b036f5dd1c661c1",
+        "c01873a060cd3eb5ab7f",
+        "ca016162bacd71679d56",
+        "cd6dfe42ce35915d47fc",
+        "ce1daae656c53256d1f5",
+        "e8580bd48fd96fe5ff49",
+        "eace48676a4c52dc6e32",
+        "ec1c09dd105c215a52dc",
+        "f8febc3beb0db6e3beaf"
+      ]
+    },
+    {
+      "clue_type": "associate",
+      "value": "Congratulations",
+      "status": "candidate",
+      "confidence": 0.55,
+      "independent_videos": 1,
+      "independent_sources": 1,
+      "evidence_ids": [
+        "720a334f5bed80588305"
+      ]
+    },
+    {
+      "clue_type": "associate",
+      "value": "Don't",
+      "status": "candidate",
+      "confidence": 0.55,
+      "independent_videos": 1,
+      "independent_sources": 1,
+      "evidence_ids": [
+        "720a334f5bed80588305"
+      ]
+    },
+    {
+      "clue_type": "associate",
+      "value": "Fighting Federation",
+      "status": "candidate",
+      "confidence": 0.55,
+      "independent_videos": 1,
+      "independent_sources": 1,
+      "evidence_ids": [
+        "1892aea04a99f77e58c1",
+        "23934e3196c3232676ce",
+        "347c68ab6c300577a5ea",
+        "3ffa8fad23ae561d5ca4",
+        "49ce83651d2b15f767f4",
+        "5c8551f0d4543683c91e",
+        "a2cacbfb1c939ba8178e",
+        "b48662c635cb2b84f3dd"
+      ]
+    },
+    {
+      "clue_type": "associate",
+      "value": "Friday",
+      "status": "candidate",
+      "confidence": 0.55,
+      "independent_videos": 1,
+      "independent_sources": 1,
+      "evidence_ids": [
+        "720a334f5bed80588305"
+      ]
+    },
+    {
+      "clue_type": "associate",
+      "value": "Frog",
+      "status": "candidate",
+      "confidence": 0.55,
+      "independent_videos": 1,
+      "independent_sources": 1,
+      "evidence_ids": [
+        "46f4fb8f588132c485a3"
+      ]
+    },
+    {
+      "clue_type": "associate",
+      "value": "Frog Tony's Freedom",
+      "status": "candidate",
+      "confidence": 0.55,
+      "independent_videos": 1,
+      "independent_sources": 1,
+      "evidence_ids": [
+        "1892aea04a99f77e58c1",
+        "23934e3196c3232676ce",
+        "347c68ab6c300577a5ea",
+        "3ffa8fad23ae561d5ca4",
+        "49ce83651d2b15f767f4",
+        "5c8551f0d4543683c91e",
+        "a2cacbfb1c939ba8178e",
+        "b48662c635cb2b84f3dd"
+      ]
+    },
+    {
+      "clue_type": "associate",
+      "value": "Gained",
+      "status": "candidate",
+      "confidence": 0.55,
+      "independent_videos": 1,
+      "independent_sources": 1,
+      "evidence_ids": [
+        "0accbdcb22e2d4646fcc",
+        "15fbecff315702a261d0",
+        "3a6f586081097e45f363",
+        "4c48eef2a39eb0320125",
+        "8adccc4962ec92611510",
+        "aaf989217fefc2658e6d",
+        "bec3e4cf70a6185a4ba5"
+      ]
+    },
+    {
+      "clue_type": "associate",
+      "value": "Genius",
+      "status": "candidate",
+      "confidence": 0.55,
+      "independent_videos": 1,
+      "independent_sources": 1,
+      "evidence_ids": [
+        "1ae81f83305f675e51c3",
+        "1eb63fc84f33857043e0",
+        "22f7c77bf9f8b9aee19a",
+        "3d4a6cbb497203e0fdc8",
+        "4917824b67db5adade9f",
+        "86080ed092ce6a98dcda",
+        "b0d26ec1fe771b78541b",
+        "b7448fde6abd06ed17eb"
+      ]
+    },
+    {
+      "clue_type": "associate",
+      "value": "Heat",
+      "status": "candidate",
+      "confidence": 0.79,
+      "independent_videos": 3,
+      "independent_sources": 1,
+      "evidence_ids": [
+        "1892aea04a99f77e58c1",
+        "19c894c27add94984439",
+        "23934e3196c3232676ce",
+        "347c68ab6c300577a5ea",
+        "46f4fb8f588132c485a3",
+        "49cd409b436fe55c302f",
+        "49ce83651d2b15f767f4",
+        "5698ff097465b35dc0c8",
+        "7c70a8fff3a72abc5087",
+        "9f8cff720749f1a8884e",
+        "a2cacbfb1c939ba8178e",
+        "a677dfbcd1492060d5bd",
+        "e8580bd48fd96fe5ff49",
+        "eace48676a4c52dc6e32",
+        "f8febc3beb0db6e3beaf"
+      ]
+    },
+    {
+      "clue_type": "associate",
+      "value": "Hello",
+      "status": "candidate",
+      "confidence": 0.79,
+      "independent_videos": 3,
+      "independent_sources": 1,
+      "evidence_ids": [
+        "19c894c27add94984439",
+        "1a8f63e453b7e30bbe59",
+        "1ab0723e736a0df74bea",
+        "258bd4fe3da1042bd4aa",
+        "2ee1ba53a5c87c851091",
+        "30857f87b2d739c70f6c",
+        "486749f817b9b9d9ed20",
+        "490f9f0c579077118db4",
+        "49cd409b436fe55c302f",
+        "5698ff097465b35dc0c8",
+        "6da1b179ae88e96e35b7",
+        "6f64a3789e657ea061a0",
+        "7c70a8fff3a72abc5087",
+        "87f442fc92047402a076",
+        "91dfe1c2709b6b1453fe",
+        "9f8cff720749f1a8884e",
+        "a677dfbcd1492060d5bd",
+        "b95c9b3ea3b11596dfd7",
+        "ba58bfb7889c0bf9ecdc",
+        "c01873a060cd3eb5ab7f",
+        "ca016162bacd71679d56",
+        "cd6dfe42ce35915d47fc",
+        "ce1daae656c53256d1f5",
+        "e8580bd48fd96fe5ff49",
+        "eace48676a4c52dc6e32",
+        "f8febc3beb0db6e3beaf"
+      ]
+    },
+    {
+      "clue_type": "associate",
+      "value": "Hispanic",
+      "status": "candidate",
+      "confidence": 0.55,
+      "independent_videos": 1,
+      "independent_sources": 1,
+      "evidence_ids": [
+        "49cd409b436fe55c302f",
+        "6f64a3789e657ea061a0",
+        "7c70a8fff3a72abc5087",
+        "87f442fc92047402a076",
+        "c01873a060cd3eb5ab7f",
+        "eace48676a4c52dc6e32"
+      ]
+    },
+    {
+      "clue_type": "associate",
+      "value": "I'm",
+      "status": "candidate",
+      "confidence": 0.67,
+      "independent_videos": 2,
+      "independent_sources": 1,
+      "evidence_ids": [
+        "347c68ab6c300577a5ea",
+        "3d4a6cbb497203e0fdc8",
+        "3ffa8fad23ae561d5ca4",
+        "49ce83651d2b15f767f4",
+        "5c8551f0d4543683c91e",
+        "a2cacbfb1c939ba8178e",
+        "aee96508cdb63f5f16eb",
+        "b0d26ec1fe771b78541b",
+        "b48662c635cb2b84f3dd",
+        "bfe21b036f5dd1c661c1",
+        "ec1c09dd105c215a52dc"
+      ]
+    },
+    {
+      "clue_type": "associate",
+      "value": "It's",
+      "status": "candidate",
+      "confidence": 0.91,
+      "independent_videos": 4,
+      "independent_sources": 1,
+      "evidence_ids": [
+        "1892aea04a99f77e58c1",
+        "19c894c27add94984439",
+        "1a8f63e453b7e30bbe59",
+        "1ab0723e736a0df74bea",
+        "23934e3196c3232676ce",
+        "258bd4fe3da1042bd4aa",
+        "2ee1ba53a5c87c851091",
+        "30857f87b2d739c70f6c",
+        "347c68ab6c300577a5ea",
+        "3ffa8fad23ae561d5ca4",
+        "46f4fb8f588132c485a3",
+        "49cd409b436fe55c302f",
+        "49ce83651d2b15f767f4",
+        "5698ff097465b35dc0c8",
+        "6da1b179ae88e96e35b7",
+        "6f64a3789e657ea061a0",
+        "7c70a8fff3a72abc5087",
+        "91dfe1c2709b6b1453fe",
+        "9f8cff720749f1a8884e",
+        "a2cacbfb1c939ba8178e",
+        "a677dfbcd1492060d5bd",
+        "b48662c635cb2b84f3dd",
+        "b95c9b3ea3b11596dfd7",
+        "ba58bfb7889c0bf9ecdc",
+        "c01873a060cd3eb5ab7f",
+        "ca016162bacd71679d56",
+        "cd6dfe42ce35915d47fc",
+        "ce1daae656c53256d1f5",
+        "e8580bd48fd96fe5ff49",
+        "eace48676a4c52dc6e32",
+        "f8febc3beb0db6e3beaf"
+      ]
+    },
+    {
+      "clue_type": "associate",
+      "value": "It's John Dela",
+      "status": "candidate",
+      "confidence": 0.55,
+      "independent_videos": 1,
+      "independent_sources": 1,
+      "evidence_ids": [
+        "49cd409b436fe55c302f",
+        "6f64a3789e657ea061a0",
+        "87f442fc92047402a076",
+        "c01873a060cd3eb5ab7f",
+        "eace48676a4c52dc6e32"
+      ]
+    },
+    {
+      "clue_type": "associate",
+      "value": "Jesus Christ",
+      "status": "candidate",
+      "confidence": 0.67,
+      "independent_videos": 2,
+      "independent_sources": 1,
+      "evidence_ids": [
+        "1ae81f83305f675e51c3",
+        "3ebe5cd752c1ca736064",
+        "4917824b67db5adade9f"
+      ]
+    },
+    {
+      "clue_type": "associate",
+      "value": "Kami Mark's",
+      "status": "candidate",
+      "confidence": 0.55,
+      "independent_videos": 1,
+      "independent_sources": 1,
+      "evidence_ids": [
+        "3ebe5cd752c1ca736064",
+        "b49325d0a3d08c813cb5"
+      ]
+    },
+    {
+      "clue_type": "associate",
+      "value": "Kamie Mark",
+      "status": "candidate",
+      "confidence": 0.55,
+      "independent_videos": 1,
+      "independent_sources": 1,
+      "evidence_ids": [
+        "3ebe5cd752c1ca736064"
+      ]
+    },
+    {
+      "clue_type": "associate",
+      "value": "Kenzo",
+      "status": "candidate",
+      "confidence": 0.55,
+      "independent_videos": 1,
+      "independent_sources": 1,
+      "evidence_ids": [
+        "720a334f5bed80588305"
+      ]
+    },
+    {
+      "clue_type": "associate",
+      "value": "Kima",
+      "status": "candidate",
+      "confidence": 0.55,
+      "independent_videos": 1,
+      "independent_sources": 1,
+      "evidence_ids": [
+        "b95c9b3ea3b11596dfd7",
+        "ca016162bacd71679d56"
+      ]
+    },
+    {
+      "clue_type": "associate",
+      "value": "Lea",
+      "status": "candidate",
+      "confidence": 0.55,
+      "independent_videos": 1,
+      "independent_sources": 1,
+      "evidence_ids": [
+        "1a8f63e453b7e30bbe59",
+        "1ab0723e736a0df74bea",
+        "258bd4fe3da1042bd4aa",
+        "30857f87b2d739c70f6c",
+        "486749f817b9b9d9ed20",
+        "91dfe1c2709b6b1453fe",
+        "ca016162bacd71679d56",
+        "ce1daae656c53256d1f5"
+      ]
+    },
+    {
+      "clue_type": "associate",
+      "value": "Like",
+      "status": "candidate",
+      "confidence": 0.67,
+      "independent_videos": 2,
+      "independent_sources": 1,
+      "evidence_ids": [
+        "1ae81f83305f675e51c3",
+        "1eb63fc84f33857043e0",
+        "22f7c77bf9f8b9aee19a",
+        "3d4a6cbb497203e0fdc8",
+        "4917824b67db5adade9f",
+        "49cd409b436fe55c302f",
+        "6f64a3789e657ea061a0",
+        "86080ed092ce6a98dcda",
+        "87f442fc92047402a076",
+        "aee96508cdb63f5f16eb",
+        "b0d26ec1fe771b78541b",
+        "b7448fde6abd06ed17eb",
+        "bfe21b036f5dd1c661c1",
+        "c01873a060cd3eb5ab7f",
+        "eace48676a4c52dc6e32",
+        "ec1c09dd105c215a52dc"
+      ]
+    },
+    {
+      "clue_type": "associate",
+      "value": "Like I've",
+      "status": "candidate",
+      "confidence": 0.55,
+      "independent_videos": 1,
+      "independent_sources": 1,
+      "evidence_ids": [
+        "2ee1ba53a5c87c851091",
+        "490f9f0c579077118db4",
+        "6da1b179ae88e96e35b7",
+        "a677dfbcd1492060d5bd",
+        "ba58bfb7889c0bf9ecdc",
+        "cd6dfe42ce35915d47fc",
+        "e8580bd48fd96fe5ff49",
+        "f8febc3beb0db6e3beaf"
+      ]
+    },
+    {
+      "clue_type": "associate",
+      "value": "Little Movie Per's",
+      "status": "candidate",
+      "confidence": 0.55,
+      "independent_videos": 1,
+      "independent_sources": 1,
+      "evidence_ids": [
+        "3ebe5cd752c1ca736064",
+        "b49325d0a3d08c813cb5"
+      ]
+    },
+    {
+      "clue_type": "associate",
+      "value": "Now",
+      "status": "candidate",
+      "confidence": 0.55,
+      "independent_videos": 1,
+      "independent_sources": 1,
+      "evidence_ids": [
+        "4069c5ee2ddfbfad48d8",
+        "c39af9d3a2a80f35dca9"
+      ]
+    },
+    {
+      "clue_type": "associate",
+      "value": "People",
+      "status": "candidate",
+      "confidence": 0.55,
+      "independent_videos": 1,
+      "independent_sources": 1,
+      "evidence_ids": [
+        "2ee1ba53a5c87c851091",
+        "490f9f0c579077118db4",
+        "6da1b179ae88e96e35b7",
+        "ba58bfb7889c0bf9ecdc",
+        "cd6dfe42ce35915d47fc"
+      ]
+    },
+    {
+      "clue_type": "associate",
+      "value": "Piper",
+      "status": "candidate",
+      "confidence": 0.55,
+      "independent_videos": 1,
+      "independent_sources": 1,
+      "evidence_ids": [
+        "0accbdcb22e2d4646fcc"
+      ]
+    },
+    {
+      "clue_type": "associate",
+      "value": "Rose",
+      "status": "candidate",
+      "confidence": 0.55,
+      "independent_videos": 1,
+      "independent_sources": 1,
+      "evidence_ids": [
+        "49cd409b436fe55c302f",
+        "6f64a3789e657ea061a0",
+        "87f442fc92047402a076",
+        "c01873a060cd3eb5ab7f",
+        "eace48676a4c52dc6e32"
+      ]
+    },
+    {
+      "clue_type": "associate",
+      "value": "Russian",
+      "status": "candidate",
+      "confidence": 0.75,
+      "independent_videos": 2,
+      "independent_sources": 2,
+      "evidence_ids": [
+        "0accbdcb22e2d4646fcc",
+        "15fbecff315702a261d0",
+        "22f7c77bf9f8b9aee19a",
+        "2ee1ba53a5c87c851091",
+        "3a6f586081097e45f363",
+        "3d4a6cbb497203e0fdc8",
+        "4069c5ee2ddfbfad48d8",
+        "490f9f0c579077118db4",
+        "4c48eef2a39eb0320125",
+        "5698ff097465b35dc0c8",
+        "6da1b179ae88e96e35b7",
+        "8adccc4962ec92611510",
+        "a677dfbcd1492060d5bd",
+        "aaf989217fefc2658e6d",
+        "aee96508cdb63f5f16eb",
+        "b0d26ec1fe771b78541b",
+        "b7448fde6abd06ed17eb",
+        "ba58bfb7889c0bf9ecdc",
+        "bec3e4cf70a6185a4ba5",
+        "bfe21b036f5dd1c661c1",
+        "c39af9d3a2a80f35dca9",
+        "cd6dfe42ce35915d47fc",
+        "e8580bd48fd96fe5ff49",
+        "ec1c09dd105c215a52dc",
+        "f8febc3beb0db6e3beaf"
+      ]
+    },
+    {
+      "clue_type": "associate",
+      "value": "Russian Troll Factory",
+      "status": "candidate",
+      "confidence": 0.91,
+      "independent_videos": 4,
+      "independent_sources": 1,
+      "evidence_ids": [
+        "1892aea04a99f77e58c1",
+        "19c894c27add94984439",
+        "1a8f63e453b7e30bbe59",
+        "1ab0723e736a0df74bea",
+        "1ae81f83305f675e51c3",
+        "1eb63fc84f33857043e0",
+        "22f7c77bf9f8b9aee19a",
+        "23934e3196c3232676ce",
+        "258bd4fe3da1042bd4aa",
+        "30857f87b2d739c70f6c",
+        "347c68ab6c300577a5ea",
+        "3d4a6cbb497203e0fdc8",
+        "3ffa8fad23ae561d5ca4",
+        "46f4fb8f588132c485a3",
+        "486749f817b9b9d9ed20",
+        "4917824b67db5adade9f",
+        "49cd409b436fe55c302f",
+        "49ce83651d2b15f767f4",
+        "5c8551f0d4543683c91e",
+        "6f64a3789e657ea061a0",
+        "7c70a8fff3a72abc5087",
+        "86080ed092ce6a98dcda",
+        "87f442fc92047402a076",
+        "91dfe1c2709b6b1453fe",
+        "9f8cff720749f1a8884e",
+        "a2cacbfb1c939ba8178e",
+        "aee96508cdb63f5f16eb",
+        "b0d26ec1fe771b78541b",
+        "b48662c635cb2b84f3dd",
+        "b7448fde6abd06ed17eb",
+        "b95c9b3ea3b11596dfd7",
+        "c01873a060cd3eb5ab7f",
+        "ca016162bacd71679d56",
+        "ce1daae656c53256d1f5",
+        "eace48676a4c52dc6e32",
+        "ec1c09dd105c215a52dc"
+      ]
+    },
+    {
+      "clue_type": "associate",
+      "value": "Salam",
+      "status": "candidate",
+      "confidence": 0.91,
+      "independent_videos": 4,
+      "independent_sources": 1,
+      "evidence_ids": [
+        "1892aea04a99f77e58c1",
+        "19c894c27add94984439",
+        "1a8f63e453b7e30bbe59",
+        "1ab0723e736a0df74bea",
+        "23934e3196c3232676ce",
+        "258bd4fe3da1042bd4aa",
+        "2ee1ba53a5c87c851091",
+        "30857f87b2d739c70f6c",
+        "347c68ab6c300577a5ea",
+        "3ffa8fad23ae561d5ca4",
+        "46f4fb8f588132c485a3",
+        "49cd409b436fe55c302f",
+        "49ce83651d2b15f767f4",
+        "5698ff097465b35dc0c8",
+        "6da1b179ae88e96e35b7",
+        "6f64a3789e657ea061a0",
+        "7c70a8fff3a72abc5087",
+        "91dfe1c2709b6b1453fe",
+        "9f8cff720749f1a8884e",
+        "a2cacbfb1c939ba8178e",
+        "a677dfbcd1492060d5bd",
+        "b48662c635cb2b84f3dd",
+        "b95c9b3ea3b11596dfd7",
+        "ba58bfb7889c0bf9ecdc",
+        "c01873a060cd3eb5ab7f",
+        "ca016162bacd71679d56",
+        "cd6dfe42ce35915d47fc",
+        "ce1daae656c53256d1f5",
+        "e8580bd48fd96fe5ff49",
+        "eace48676a4c52dc6e32",
+        "f8febc3beb0db6e3beaf"
+      ]
+    },
+    {
+      "clue_type": "associate",
+      "value": "See",
+      "status": "candidate",
+      "confidence": 0.55,
+      "independent_videos": 1,
+      "independent_sources": 1,
+      "evidence_ids": [
+        "4069c5ee2ddfbfad48d8"
+      ]
+    },
+    {
+      "clue_type": "associate",
+      "value": "Snub",
+      "status": "candidate",
+      "confidence": 0.55,
+      "independent_videos": 1,
+      "independent_sources": 1,
+      "evidence_ids": [
+        "0accbdcb22e2d4646fcc",
+        "15fbecff315702a261d0",
+        "3a6f586081097e45f363",
+        "4c48eef2a39eb0320125",
+        "8adccc4962ec92611510",
+        "aaf989217fefc2658e6d",
+        "bec3e4cf70a6185a4ba5",
+        "c39af9d3a2a80f35dca9"
+      ]
+    },
+    {
+      "clue_type": "associate",
+      "value": "Still",
+      "status": "candidate",
+      "confidence": 0.55,
+      "independent_videos": 1,
+      "independent_sources": 1,
+      "evidence_ids": [
+        "0accbdcb22e2d4646fcc",
+        "15fbecff315702a261d0",
+        "3a6f586081097e45f363",
+        "4c48eef2a39eb0320125",
+        "8adccc4962ec92611510",
+        "aaf989217fefc2658e6d"
+      ]
+    },
+    {
+      "clue_type": "associate",
+      "value": "Then",
+      "status": "candidate",
+      "confidence": 0.55,
+      "independent_videos": 1,
+      "independent_sources": 1,
+      "evidence_ids": [
+        "0accbdcb22e2d4646fcc"
+      ]
+    },
+    {
+      "clue_type": "associate",
+      "value": "Then Kami Mark",
+      "status": "candidate",
+      "confidence": 0.55,
+      "independent_videos": 1,
+      "independent_sources": 1,
+      "evidence_ids": [
+        "0accbdcb22e2d4646fcc",
+        "15fbecff315702a261d0",
+        "3a6f586081097e45f363",
+        "4069c5ee2ddfbfad48d8",
+        "4c48eef2a39eb0320125",
+        "8adccc4962ec92611510",
+        "aaf989217fefc2658e6d",
+        "bec3e4cf70a6185a4ba5",
+        "c39af9d3a2a80f35dca9"
+      ]
+    },
+    {
+      "clue_type": "associate",
+      "value": "There's",
+      "status": "candidate",
+      "confidence": 0.67,
+      "independent_videos": 2,
+      "independent_sources": 1,
+      "evidence_ids": [
+        "490f9f0c579077118db4",
+        "6f64a3789e657ea061a0",
+        "87f442fc92047402a076",
+        "c01873a060cd3eb5ab7f",
+        "eace48676a4c52dc6e32"
+      ]
+    },
+    {
+      "clue_type": "associate",
+      "value": "This",
+      "status": "candidate",
+      "confidence": 0.79,
+      "independent_videos": 3,
+      "independent_sources": 1,
+      "evidence_ids": [
+        "1892aea04a99f77e58c1",
+        "1eb63fc84f33857043e0",
+        "22f7c77bf9f8b9aee19a",
+        "23934e3196c3232676ce",
+        "347c68ab6c300577a5ea",
+        "3d4a6cbb497203e0fdc8",
+        "3ffa8fad23ae561d5ca4",
+        "46f4fb8f588132c485a3",
+        "49ce83651d2b15f767f4",
+        "5c8551f0d4543683c91e",
+        "720a334f5bed80588305",
+        "a2cacbfb1c939ba8178e",
+        "aee96508cdb63f5f16eb",
+        "b0d26ec1fe771b78541b",
+        "b48662c635cb2b84f3dd",
+        "b7448fde6abd06ed17eb",
+        "bfe21b036f5dd1c661c1",
+        "ec1c09dd105c215a52dc"
+      ]
+    },
+    {
+      "clue_type": "associate",
+      "value": "Twitter",
+      "status": "candidate",
+      "confidence": 0.55,
+      "independent_videos": 1,
+      "independent_sources": 1,
+      "evidence_ids": [
+        "aee96508cdb63f5f16eb",
+        "bfe21b036f5dd1c661c1",
+        "ec1c09dd105c215a52dc"
+      ]
+    },
+    {
+      "clue_type": "associate",
+      "value": "Under",
+      "status": "candidate",
+      "confidence": 0.55,
+      "independent_videos": 1,
+      "independent_sources": 1,
+      "evidence_ids": [
+        "486749f817b9b9d9ed20"
+      ]
+    },
+    {
+      "clue_type": "associate",
+      "value": "Watch",
+      "status": "candidate",
+      "confidence": 0.55,
+      "independent_videos": 1,
+      "independent_sources": 1,
+      "evidence_ids": [
+        "4069c5ee2ddfbfad48d8",
+        "bec3e4cf70a6185a4ba5",
+        "c39af9d3a2a80f35dca9"
+      ]
+    },
+    {
+      "clue_type": "associate",
+      "value": "Welcome",
+      "status": "candidate",
+      "confidence": 0.91,
+      "independent_videos": 4,
+      "independent_sources": 1,
+      "evidence_ids": [
+        "1892aea04a99f77e58c1",
+        "19c894c27add94984439",
+        "1a8f63e453b7e30bbe59",
+        "1ab0723e736a0df74bea",
+        "23934e3196c3232676ce",
+        "258bd4fe3da1042bd4aa",
+        "2ee1ba53a5c87c851091",
+        "30857f87b2d739c70f6c",
+        "347c68ab6c300577a5ea",
+        "3ffa8fad23ae561d5ca4",
+        "46f4fb8f588132c485a3",
+        "486749f817b9b9d9ed20",
+        "490f9f0c579077118db4",
+        "49cd409b436fe55c302f",
+        "49ce83651d2b15f767f4",
+        "5698ff097465b35dc0c8",
+        "5c8551f0d4543683c91e",
+        "6da1b179ae88e96e35b7",
+        "6f64a3789e657ea061a0",
+        "7c70a8fff3a72abc5087",
+        "87f442fc92047402a076",
+        "91dfe1c2709b6b1453fe",
+        "9f8cff720749f1a8884e",
+        "a2cacbfb1c939ba8178e",
+        "a677dfbcd1492060d5bd",
+        "b48662c635cb2b84f3dd",
+        "b95c9b3ea3b11596dfd7",
+        "ba58bfb7889c0bf9ecdc",
+        "c01873a060cd3eb5ab7f",
+        "ca016162bacd71679d56",
+        "cd6dfe42ce35915d47fc",
+        "ce1daae656c53256d1f5",
+        "e8580bd48fd96fe5ff49",
+        "eace48676a4c52dc6e32",
+        "f8febc3beb0db6e3beaf"
+      ]
+    },
+    {
+      "clue_type": "associate",
+      "value": "What",
+      "status": "candidate",
+      "confidence": 0.55,
+      "independent_videos": 1,
+      "independent_sources": 1,
+      "evidence_ids": [
+        "6f64a3789e657ea061a0",
+        "87f442fc92047402a076",
+        "c01873a060cd3eb5ab7f"
+      ]
+    },
+    {
+      "clue_type": "associate",
+      "value": "While Piper",
+      "status": "candidate",
+      "confidence": 0.55,
+      "independent_videos": 1,
+      "independent_sources": 1,
+      "evidence_ids": [
+        "4069c5ee2ddfbfad48d8",
+        "4c48eef2a39eb0320125",
+        "8adccc4962ec92611510",
+        "aaf989217fefc2658e6d",
+        "bec3e4cf70a6185a4ba5",
+        "c39af9d3a2a80f35dca9"
+      ]
+    },
+    {
+      "clue_type": "associate",
+      "value": "Woe",
+      "status": "candidate",
+      "confidence": 0.55,
+      "independent_videos": 1,
+      "independent_sources": 1,
+      "evidence_ids": [
+        "4069c5ee2ddfbfad48d8",
+        "bec3e4cf70a6185a4ba5",
+        "c39af9d3a2a80f35dca9"
+      ]
+    },
+    {
+      "clue_type": "associate",
+      "value": "Yeah",
+      "status": "candidate",
+      "confidence": 0.67,
+      "independent_videos": 2,
+      "independent_sources": 1,
+      "evidence_ids": [
+        "3ebe5cd752c1ca736064",
+        "490f9f0c579077118db4",
+        "b49325d0a3d08c813cb5",
+        "ba58bfb7889c0bf9ecdc"
+      ]
+    }
+  ],
+  "mentions": {
+    "cluster_count": 8,
+    "confirmed": 0,
+    "probable": 3,
+    "possible": 5,
+    "source_count": 2,
+    "top_sources": [
+      {
+        "source": "Commi3 Mark",
+        "mentions": 7
+      },
+      {
+        "source": "Piper",
+        "mentions": 1
+      }
+    ]
+  },
+  "iteration": {
+    "passes_run": 2,
+    "stable": true,
+    "passes": [
+      {
+        "pass": 1,
+        "mention_clusters": 8,
+        "new_mentions_since_previous_pass": 8,
+        "new_mention_cluster_ids": [
+          "201f5a6a8a27acc15341",
+          "24b8134dde0a1d0bfd4b",
+          "2a9ed28756f75dedd5f6",
+          "6a7f32a492a871a7836b",
+          "7966e13248a381cc9fa1",
+          "7c09c81143cc7e2c9894",
+          "fdbbd504d04ef734d5e5",
+          "fefc844fb48900351948"
+        ],
+        "promotions": [],
+        "trusted_variant_count": 2,
+        "trusted_term_count": 9,
+        "trusted_associate_count": 0
+      },
+      {
+        "pass": 2,
+        "mention_clusters": 8,
+        "new_mentions_since_previous_pass": 0,
+        "new_mention_cluster_ids": [],
+        "promotions": [],
+        "trusted_variant_count": 2,
+        "trusted_term_count": 9,
+        "trusted_associate_count": 0,
+        "stopped_reason": "stable: no new mentions or trusted knowledge"
+      }
+    ]
+  },
+  "assessments": {
+    "power_level": {
+      "score": 25,
+      "band": "developing",
+      "confidence": 0.45,
+      "components": {
+        "independent_source_reach": 6,
+        "current_content_activity": 4,
+        "observed_mentions": 6,
+        "trusted_network": 0,
+        "platform_footprint": 9
+      },
+      "note": "Provisional evidence-based score from the current repository, not a personal judgement."
+    },
+    "threat_level": {
+      "score": 25,
+      "band": "moderate",
+      "scope": "editorial, reputational and network capacity only; not physical danger",
+      "confidence": 0.35,
+      "components": {
+        "editorial_visibility": 6,
+        "network_amplification": 0,
+        "cross_platform_reach": 9,
+        "sustained_activity": 4,
+        "evidence_capacity": 6
+      },
+      "note": "Provisional and intentionally conservative until behaviour and outcomes are modelled."
+    }
+  },
+  "collection_status": {
+    "radar_items_scanned": 501,
+    "transcripts_in_index": 91,
+    "transcripts_scanned": 91,
+    "missing_transcript_files": [],
+    "evidence_records": 58,
+    "candidate_clues": 56
+  }
+}

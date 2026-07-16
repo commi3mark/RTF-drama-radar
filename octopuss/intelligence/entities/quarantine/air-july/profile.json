@@ -1,0 +1,25 @@
+{
+  "schema_version": "octopuss-entity-profile-v1",
+  "entity_id": "air-july",
+  "canonical_name": "Air July",
+  "entity_type": "person_or_persona",
+  "pronunciation": null,
+  "nationality": null,
+  "description": null,
+  "status": "candidate",
+  "review_status": "unreviewed",
+  "confidence": 0.74,
+  "first_seen": "2026-06-30T05:04:06+00:00",
+  "last_seen": "2026-07-10T07:46:34+00:00",
+  "mention_count": 17,
+  "mention_video_count": 6,
+  "independent_source_count": 2,
+  "mentioning_sources": [
+    "FFS Cast",
+    "Frog Tony"
+  ],
+  "monitored_source": false,
+  "last_updated": "2026-07-16T20:43:28.127248+00:00",
+  "auto_generated": true,
+  "manual_notes": []
+}

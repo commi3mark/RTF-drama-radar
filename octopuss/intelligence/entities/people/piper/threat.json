@@ -1,0 +1,13 @@
+{
+  "entity_id": "piper",
+  "updated_at": "2026-07-16T22:23:49.467031+00:00",
+  "overall_score": 41,
+  "overall": "medium",
+  "targets": {
+    "editorial_or_reputational": 47,
+    "commercial": 42,
+    "legal": 0
+  },
+  "definition": "Potential capacity to affect stories, reputation, audience attention or commercial outcomes; not physical danger.",
+  "status": "provisional_explainable_nonphysical_assessment"
+}

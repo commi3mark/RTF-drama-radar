@@ -1,0 +1,50 @@
+{
+  "entity_id": "blue-sky",
+  "updated_at": "2026-07-16T20:43:28.127248+00:00",
+  "candidate_associates": [
+    {
+      "name": "Patrick",
+      "entity_id": "patrick",
+      "relationship_type": "co_mentioned",
+      "observation_count": 7,
+      "status": "candidate"
+    },
+    {
+      "name": "Pat",
+      "entity_id": "pat",
+      "relationship_type": "co_mentioned",
+      "observation_count": 4,
+      "status": "candidate"
+    },
+    {
+      "name": "Leslie",
+      "entity_id": "leslie",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Libs",
+      "entity_id": "libs",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    }
+  ],
+  "candidate_topics": [
+    {
+      "value": "COMICSGATE KINGS",
+      "observation_count": 1,
+      "status": "candidate"
+    },
+    {
+      "value": "Let's draw GOTHAM characters",
+      "observation_count": 1,
+      "status": "candidate"
+    }
+  ],
+  "candidate_websites": [],
+  "candidate_socials": [],
+  "candidate_emails": [],
+  "candidate_appearances": []
+}

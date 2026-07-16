@@ -1,0 +1,43 @@
+{
+  "entity_id": "trio-doug",
+  "updated_at": "2026-07-16T20:43:28.127248+00:00",
+  "candidate_associates": [
+    {
+      "name": "Vito",
+      "entity_id": "vito",
+      "relationship_type": "co_mentioned",
+      "observation_count": 3,
+      "status": "candidate"
+    },
+    {
+      "name": "Dick",
+      "entity_id": "dick",
+      "relationship_type": "co_mentioned",
+      "observation_count": 3,
+      "status": "candidate"
+    },
+    {
+      "name": "Destiny",
+      "entity_id": "destiny",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    }
+  ],
+  "candidate_topics": [
+    {
+      "value": "Sturgis Went To Japan On Thirsty Thursday",
+      "observation_count": 3,
+      "status": "candidate"
+    },
+    {
+      "value": "CG AFTER DARK #35",
+      "observation_count": 2,
+      "status": "candidate"
+    }
+  ],
+  "candidate_websites": [],
+  "candidate_socials": [],
+  "candidate_emails": [],
+  "candidate_appearances": []
+}

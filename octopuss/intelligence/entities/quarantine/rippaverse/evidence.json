@@ -1,0 +1,37 @@
+{
+  "entity_id": "rippaverse",
+  "updated_at": "2026-07-16T20:43:28.127248+00:00",
+  "count": 2,
+  "evidence": [
+    {
+      "evidence_id": "83f2b700783c83a6d4",
+      "entity_id": "rippaverse",
+      "kind": "title",
+      "video_id": "6GIxuFOICAI",
+      "title": "Catching Up With The Rippaverse! - Detractor Kings",
+      "source": "Frog Tony",
+      "published": "2026-06-30T05:04:06+00:00",
+      "url": "https://www.youtube.com/watch?v=6GIxuFOICAI",
+      "path": "transcripts/archive/2026/06/Catching Up With The Rippaverse! - Detractor Kings [6GIxuFOICAI].json",
+      "timestamp_seconds": 0.0,
+      "matched_name": "Rippaverse",
+      "context": "Catching Up With The Rippaverse! - Detractor Kings",
+      "timestamp_url": "https://www.youtube.com/watch?v=6GIxuFOICAI&t=0s"
+    },
+    {
+      "evidence_id": "1b41e64d3c6bac1482",
+      "entity_id": "rippaverse",
+      "kind": "title",
+      "video_id": "atuAmOfu6no",
+      "title": "SHOUT OUT TO ALPHACORE #3!! | Rippaverse | @Jon_Malin",
+      "source": "KatyDid",
+      "published": "2026-07-09T23:07:14+00:00",
+      "url": "https://www.youtube.com/watch?v=atuAmOfu6no",
+      "path": "transcripts/archive/2026/07/SHOUT OUT TO ALPHACORE #3!! Rippaverse @Jon_Malin [atuAmOfu6no].json",
+      "timestamp_seconds": 0.0,
+      "matched_name": "Rippaverse",
+      "context": "SHOUT OUT TO ALPHACORE #3!! | Rippaverse | @Jon_Malin",
+      "timestamp_url": "https://www.youtube.com/watch?v=atuAmOfu6no&t=0s"
+    }
+  ]
+}

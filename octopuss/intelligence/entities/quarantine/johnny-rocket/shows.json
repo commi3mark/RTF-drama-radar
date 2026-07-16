@@ -1,0 +1,36 @@
+{
+  "entity_id": "johnny-rocket",
+  "updated_at": "2026-07-16T20:43:28.127248+00:00",
+  "recurring_shows": [
+    {
+      "name": "A SECOND LAWSUIT HAS HIT THIS BLOG",
+      "relationship": "recurring_source_title_pattern",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "CITIZEN VIGILANTE",
+      "relationship": "recurring_source_title_pattern",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "SUPERGIRL",
+      "relationship": "recurring_source_title_pattern",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "LIAM GRAY THE ROCKSPIDER???",
+      "relationship": "recurring_source_title_pattern",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "VITO STANDS UP FOR PEDOS!",
+      "relationship": "recurring_source_title_pattern",
+      "observation_count": 2,
+      "status": "candidate"
+    }
+  ]
+}

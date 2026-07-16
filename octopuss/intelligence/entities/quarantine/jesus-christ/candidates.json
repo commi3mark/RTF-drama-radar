@@ -1,0 +1,113 @@
+{
+  "entity_id": "jesus-christ",
+  "updated_at": "2026-07-16T20:43:28.127248+00:00",
+  "candidate_associates": [
+    {
+      "name": "Tony",
+      "entity_id": "tony",
+      "relationship_type": "co_mentioned",
+      "observation_count": 4,
+      "status": "candidate"
+    },
+    {
+      "name": "George",
+      "entity_id": "george",
+      "relationship_type": "co_mentioned",
+      "observation_count": 3,
+      "status": "candidate"
+    },
+    {
+      "name": "Liam",
+      "entity_id": "liam",
+      "relationship_type": "co_mentioned",
+      "observation_count": 3,
+      "status": "candidate"
+    },
+    {
+      "name": "Bat",
+      "entity_id": "bat",
+      "relationship_type": "co_mentioned",
+      "observation_count": 3,
+      "status": "candidate"
+    },
+    {
+      "name": "Bau",
+      "entity_id": "bau",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Fiddle",
+      "entity_id": "fiddle",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Riley",
+      "entity_id": "riley",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Whoa",
+      "entity_id": "whoa",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    }
+  ],
+  "candidate_topics": [
+    {
+      "value": "The Ark Of Leem, LDA-King Stream",
+      "observation_count": 7,
+      "status": "candidate"
+    },
+    {
+      "value": "FROG TONY'S FREEDOM FIGHTING FORCE",
+      "observation_count": 5,
+      "status": "candidate"
+    },
+    {
+      "value": "FBI Investigation DRAMA Escalates",
+      "observation_count": 5,
+      "status": "candidate"
+    },
+    {
+      "value": "Gabbing With Ga......You know",
+      "observation_count": 5,
+      "status": "candidate"
+    },
+    {
+      "value": "Gabbing With Ga......You Know",
+      "observation_count": 4,
+      "status": "candidate"
+    },
+    {
+      "value": "Finbarr STOMPS A Dwarf! - OPEN PANEL MADHOUSE",
+      "observation_count": 1,
+      "status": "candidate"
+    },
+    {
+      "value": "JCW Lunacy #90 Watch Party",
+      "observation_count": 1,
+      "status": "candidate"
+    },
+    {
+      "value": "Sturgis Went To Japan On Thirsty Thursday",
+      "observation_count": 1,
+      "status": "candidate"
+    },
+    {
+      "value": "Supergirl BOMBED! - Comicsgate Suburbs",
+      "observation_count": 1,
+      "status": "candidate"
+    }
+  ],
+  "candidate_websites": [],
+  "candidate_socials": [],
+  "candidate_emails": [],
+  "candidate_appearances": []
+}

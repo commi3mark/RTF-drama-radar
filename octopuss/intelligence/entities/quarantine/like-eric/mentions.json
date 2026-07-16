@@ -1,0 +1,77 @@
+{
+  "entity_id": "like-eric",
+  "updated_at": "2026-07-16T20:43:28.127248+00:00",
+  "count": 5,
+  "mentions": [
+    {
+      "mention_id": "da3f2c088ebc69fe1a",
+      "video_id": "7JzZNez4ZBE",
+      "source": "KatyDid",
+      "title": "FFS: Shane Davis Stops By! Discusses JDA & BACKmeBro",
+      "published": "2026-07-03T16:57:45+00:00",
+      "timestamp_seconds": 789.92,
+      "timestamp_url": "https://www.youtube.com/watch?v=7JzZNez4ZBE&t=789s",
+      "matched_alias": "Like Eric",
+      "context": ">> Mhm. >> Um our site >> just a merch website. Yeah. >> Like Eric doesn't have a crowdfunding site. >> Yeah. >> Eric's site all the books are done. It's",
+      "confidence": 0.97,
+      "status": "confirmed",
+      "evidence_id": "da3f2c088ebc69fe1a"
+    },
+    {
+      "mention_id": "bc6d04518623836158",
+      "video_id": "jVMsgBTgicI",
+      "source": "Ministry of Dude",
+      "title": "Steel Toe gets hit with his very own HRO | #936",
+      "published": "2026-07-14T14:43:34+00:00",
+      "timestamp_seconds": 7114.8,
+      "timestamp_url": "https://www.youtube.com/watch?v=jVMsgBTgicI&t=7114s",
+      "matched_alias": "Like Eric",
+      "context": "Like the goats were really like Eric. Like the real goats >> were AP and Greg. >> Like Eric was mean. He was mean as [ __ ] But the but AP and Greg they really had this like they can like they can talk",
+      "confidence": 0.97,
+      "status": "confirmed",
+      "evidence_id": "bc6d04518623836158"
+    },
+    {
+      "mention_id": "a0bc33b5f36ef0025a",
+      "video_id": "zkW4zLSQ7eQ",
+      "source": "Ethan Van Sciver",
+      "title": "You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto!",
+      "published": "2026-07-13T06:01:02+00:00",
+      "timestamp_seconds": 3451.599,
+      "timestamp_url": "https://www.youtube.com/watch?v=zkW4zLSQ7eQ&t=3451s",
+      "matched_alias": "Like Eric",
+      "context": "Uh, but I mean that's what it is. Like this is the kind of thing where it's like um you have a lot of like gravitas that Eric has not earned. Like Eric is a [ __ ] clown. You know what I mean? He is a clown. Um, but he insists on this kind of like like uh zerahustrin kind of",
+      "confidence": 0.97,
+      "status": "confirmed",
+      "evidence_id": "a0bc33b5f36ef0025a"
+    },
+    {
+      "mention_id": "f681415021348661fc",
+      "video_id": "zkW4zLSQ7eQ",
+      "source": "Ethan Van Sciver",
+      "title": "You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto!",
+      "published": "2026-07-13T06:01:02+00:00",
+      "timestamp_seconds": 6238.0,
+      "timestamp_url": "https://www.youtube.com/watch?v=zkW4zLSQ7eQ&t=6238s",
+      "matched_alias": "Like Eric",
+      "context": "This is something that I, you know, uh, try to explain to ripards who tell me that like, you know, this is such a great idea. Like Eric is has turned to, uh, his own like going to hashet distribution because of his wild growth and success. Uh, and that's why he's",
+      "confidence": 0.97,
+      "status": "confirmed",
+      "evidence_id": "f681415021348661fc"
+    },
+    {
+      "mention_id": "d5993e45df08a0bbe7",
+      "video_id": "zkW4zLSQ7eQ",
+      "source": "Ethan Van Sciver",
+      "title": "You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto!",
+      "published": "2026-07-13T06:01:02+00:00",
+      "timestamp_seconds": 6937.04,
+      "timestamp_url": "https://www.youtube.com/watch?v=zkW4zLSQ7eQ&t=6937s",
+      "matched_alias": "Like Eric",
+      "context": "having 50,000 first printings of Ice on number one like sitting just rotting in your warehouse was so dumb. Like Eric talks like somebody who uh has revolutionized comics. He knows what he's doing. Eric has no [ __ ] clue what he's doing. It",
+      "confidence": 0.97,
+      "status": "confirmed",
+      "evidence_id": "d5993e45df08a0bbe7"
+    }
+  ]
+}

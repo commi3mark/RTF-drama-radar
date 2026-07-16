@@ -1,0 +1,36 @@
+{
+  "entity_id": "eric-july",
+  "updated_at": "2026-07-16T22:23:49.467031+00:00",
+  "communities": [
+    {
+      "name": "ComicsGate",
+      "observation_count": 59,
+      "relationship": "discussed_near_entity",
+      "status": "candidate"
+    },
+    {
+      "name": "Comics Gate",
+      "observation_count": 19,
+      "relationship": "discussed_near_entity",
+      "status": "candidate"
+    },
+    {
+      "name": "Rippaverse",
+      "observation_count": 79,
+      "relationship": "discussed_near_entity",
+      "status": "candidate"
+    },
+    {
+      "name": "CG",
+      "observation_count": 27,
+      "relationship": "discussed_near_entity",
+      "status": "candidate"
+    },
+    {
+      "name": "Russian Troll Factory",
+      "observation_count": 57,
+      "relationship": "discussed_near_entity",
+      "status": "candidate"
+    }
+  ]
+}

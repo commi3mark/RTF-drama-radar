@@ -1,0 +1,13 @@
+{
+  "entity_id": "nick-ricada",
+  "updated_at": "2026-07-16T20:43:28.127248+00:00",
+  "associates": [
+    {
+      "name": "Katie",
+      "entity_id": "katie",
+      "relationship_type": "co_mentioned",
+      "observation_count": 3,
+      "status": "candidate"
+    }
+  ]
+}

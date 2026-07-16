@@ -1,0 +1,27 @@
+{
+  "schema_version": "octopuss-entity-profile-v1",
+  "entity_id": "burger-king",
+  "canonical_name": "Burger King",
+  "entity_type": "person_or_persona",
+  "pronunciation": null,
+  "nationality": null,
+  "description": null,
+  "status": "confirmed",
+  "review_status": "unreviewed",
+  "confidence": 0.94,
+  "first_seen": "2026-07-03T06:25:18+00:00",
+  "last_seen": "2026-07-16T08:23:07+00:00",
+  "mention_count": 6,
+  "mention_video_count": 6,
+  "independent_source_count": 4,
+  "mentioning_sources": [
+    "Elissa Clips",
+    "Ethan Van Sciver",
+    "Frog Tony",
+    "Ministry of Dude"
+  ],
+  "monitored_source": false,
+  "last_updated": "2026-07-16T20:43:28.127248+00:00",
+  "auto_generated": true,
+  "manual_notes": []
+}

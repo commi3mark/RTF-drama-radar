@@ -1,0 +1,62 @@
+{
+  "entity_id": "comicsgate-commandos",
+  "updated_at": "2026-07-16T20:43:28.127248+00:00",
+  "websites": [
+    {
+      "url": "https://x.com/DARKLORDMADRUTH",
+      "type": "source_owned_description_link",
+      "status": "candidate",
+      "evidence_ids": [
+        "e9cd3939a73ece7bd6e828ed"
+      ]
+    },
+    {
+      "url": "https://www.youtube.com/@madruthstudios",
+      "type": "source_owned_description_link",
+      "status": "candidate",
+      "evidence_ids": [
+        "e9cd3939a73ece7bd6e828ed"
+      ]
+    },
+    {
+      "url": "https://www.indiegogo.com/en/projects/turkeyrobot/silence-dogood-paradise-in-chains?ref=explore",
+      "type": "source_owned_description_link",
+      "status": "candidate",
+      "evidence_ids": [
+        "11775f54212837b7aed66cc8"
+      ]
+    },
+    {
+      "url": "https://x.com/SaltyDraws",
+      "type": "source_owned_description_link",
+      "status": "candidate",
+      "evidence_ids": [
+        "11775f54212837b7aed66cc8"
+      ]
+    },
+    {
+      "url": "https://heavyatomo.eo.page/tn8h2",
+      "type": "source_owned_description_link",
+      "status": "candidate",
+      "evidence_ids": [
+        "e8e60b77c4d08f71b5cbe5f1"
+      ]
+    },
+    {
+      "url": "https://x.com/BenHerrera01",
+      "type": "source_owned_description_link",
+      "status": "candidate",
+      "evidence_ids": [
+        "e8e60b77c4d08f71b5cbe5f1"
+      ]
+    },
+    {
+      "url": "https://x.com/ScribeComics",
+      "type": "source_owned_description_link",
+      "status": "candidate",
+      "evidence_ids": [
+        "e8e60b77c4d08f71b5cbe5f1"
+      ]
+    }
+  ]
+}

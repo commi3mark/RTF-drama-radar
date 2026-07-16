@@ -1,0 +1,63 @@
+{
+  "entity_id": "george-lucas",
+  "updated_at": "2026-07-16T20:43:28.127248+00:00",
+  "count": 4,
+  "mentions": [
+    {
+      "mention_id": "cf5e2a2963a92e2802",
+      "video_id": "Zd9PVsLAD5c",
+      "source": "Ethan Van Sciver",
+      "title": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
+      "published": "2026-07-07T04:26:42+00:00",
+      "timestamp_seconds": 5997.679,
+      "timestamp_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=5997s",
+      "matched_alias": "George Lucas",
+      "context": "the number one was of course Kiss. But he used to know like all these weird uh stories about Star Wars and all that stuff like how uh uh George Lucas uh was uh did like once he organized a contest like a writing a science fiction writing contest and uh he did it",
+      "confidence": 0.97,
+      "status": "confirmed",
+      "evidence_id": "cf5e2a2963a92e2802"
+    },
+    {
+      "mention_id": "01cf4058f9769c5cec",
+      "video_id": "ibGd2AqrEXg",
+      "source": "Commi3 Mark",
+      "title": "JON DEL ARROZ: HERES THE ATTENTION YOU ORDERED - SHANE DAVIS BACK ME BRO INTERNET BEEF - EXTRA SALTY",
+      "published": "2026-07-03T23:55:22+00:00",
+      "timestamp_seconds": 82.64,
+      "timestamp_url": "https://www.youtube.com/watch?v=ibGd2AqrEXg&t=82s",
+      "matched_alias": "George Lucas",
+      "context": ">> [music] >> Uh, if you could, would you give up all of Disney Star Wars to reset the cannon to just George Lucas stuff? Nah, I'd rather stick with it to old classic like George Lucas when they made Star Wars series back in the days. But",
+      "confidence": 0.97,
+      "status": "confirmed",
+      "evidence_id": "01cf4058f9769c5cec"
+    },
+    {
+      "mention_id": "54a349c992d93997b3",
+      "video_id": "rXQ0RozGVWg",
+      "source": "Frog Tony",
+      "title": "Detractor Kings Is DEAD! Long Live The Geek Getaway!",
+      "published": "2026-07-14T04:09:11+00:00",
+      "timestamp_seconds": 5132.8,
+      "timestamp_url": "https://www.youtube.com/watch?v=rXQ0RozGVWg&t=5132s",
+      "matched_alias": "George Lucas",
+      "context": "[ __ ] because like the effects people weren't even allowed to finish that >> endame sorry they do a remaster >> they should not do like a George Lucas where he like eliminates all the other versions. >> Yes.",
+      "confidence": 0.97,
+      "status": "confirmed",
+      "evidence_id": "54a349c992d93997b3"
+    },
+    {
+      "mention_id": "18f5eafe4bc1868a4d",
+      "video_id": "rXQ0RozGVWg",
+      "source": "Frog Tony",
+      "title": "Detractor Kings Is DEAD! Long Live The Geek Getaway!",
+      "published": "2026-07-14T04:09:11+00:00",
+      "timestamp_seconds": 7873.599,
+      "timestamp_url": "https://www.youtube.com/watch?v=rXQ0RozGVWg&t=7873s",
+      "matched_alias": "George Lucas",
+      "context": "death sticks? That's like a [ __ ] ends up being a drug movie after that. >> Or how about this uh novel concept? Much like George Lucas, create your own movie universe. Well, we seen what happened with Rebel Moon. So apparently that doesn't work.",
+      "confidence": 0.97,
+      "status": "confirmed",
+      "evidence_id": "18f5eafe4bc1868a4d"
+    }
+  ]
+}

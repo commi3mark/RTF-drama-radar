@@ -1,0 +1,14 @@
+{
+  "entity_id": "ethan-ralph",
+  "updated_at": "2026-07-16T20:43:28.127248+00:00",
+  "power_level": 31,
+  "band": "low",
+  "components": {
+    "reach": 36,
+    "activity": 8,
+    "network": 26,
+    "narrative_presence": 53
+  },
+  "status": "provisional_automated_assessment",
+  "explanation": "Calculated only from the current Drama Radar and transcript corpus."
+}

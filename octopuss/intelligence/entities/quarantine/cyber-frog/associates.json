@@ -1,0 +1,55 @@
+{
+  "entity_id": "cyber-frog",
+  "updated_at": "2026-07-16T20:43:28.127248+00:00",
+  "associates": [
+    {
+      "name": "Cyberfrog",
+      "entity_id": "cyberfrog",
+      "relationship_type": "co_mentioned",
+      "observation_count": 3,
+      "status": "candidate"
+    },
+    {
+      "name": "Ethan's",
+      "entity_id": "ethan-s",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Rainbow",
+      "entity_id": "rainbow",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Brute",
+      "entity_id": "brute",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Salamandroid",
+      "entity_id": "salamandroid",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Vespas",
+      "entity_id": "vespas",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Vespers",
+      "entity_id": "vespers",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    }
+  ]
+}

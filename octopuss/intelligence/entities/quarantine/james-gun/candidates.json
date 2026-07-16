@@ -1,0 +1,50 @@
+{
+  "entity_id": "james-gun",
+  "updated_at": "2026-07-16T20:43:28.127248+00:00",
+  "candidate_associates": [
+    {
+      "name": "George",
+      "entity_id": "george",
+      "relationship_type": "co_mentioned",
+      "observation_count": 4,
+      "status": "candidate"
+    },
+    {
+      "name": "Green Lantern",
+      "entity_id": "green-lantern",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Supergirl",
+      "entity_id": "supergirl",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Warner Brothers",
+      "entity_id": "warner-brothers",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    }
+  ],
+  "candidate_topics": [
+    {
+      "value": "HARD ART! #31",
+      "observation_count": 3,
+      "status": "candidate"
+    },
+    {
+      "value": "Supergirl BOMBED! - Comicsgate Suburbs",
+      "observation_count": 3,
+      "status": "candidate"
+    }
+  ],
+  "candidate_websites": [],
+  "candidate_socials": [],
+  "candidate_emails": [],
+  "candidate_appearances": []
+}

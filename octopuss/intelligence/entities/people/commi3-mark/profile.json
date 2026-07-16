@@ -1,0 +1,41 @@
+{
+  "entity_id": "commi3-mark",
+  "canonical_name": "Commi3 Mark",
+  "entity_type": "person_or_persona",
+  "status": "confirmed",
+  "auto_detected": false,
+  "first_seen": "2026-06-20T11:30:01+00:00",
+  "last_seen": "2026-07-10T23:56:07+00:00",
+  "mention_count": 6,
+  "independent_sources": 2,
+  "video_count": 3,
+  "confidence": 1.0,
+  "updated_at": "2026-07-16T22:23:32.026712+00:00",
+  "schema_version": "octopuss-deep-entity-profile-v1",
+  "aliases": [
+    "Commi3 Mark",
+    "@commi3mark",
+    "Come Mark",
+    "Commi 3 Mark",
+    "Commi Three Mark",
+    "Commie 3 Mark",
+    "Commie Mark",
+    "Commie Three Mark",
+    "Kami Mark",
+    "Kamie Mark",
+    "come three mark"
+  ],
+  "nationality": null,
+  "pronunciation": null,
+  "description": null,
+  "mention_evidence_count": 14,
+  "mention_video_count": 5,
+  "independent_source_count": 2,
+  "mentioning_sources": [
+    "Commi3 Mark",
+    "Piper"
+  ],
+  "profile_completeness": 10,
+  "last_deep_build": "2026-07-16T22:23:49.467031+00:00",
+  "manual_notes": []
+}

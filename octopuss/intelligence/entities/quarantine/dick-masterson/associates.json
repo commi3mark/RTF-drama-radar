@@ -1,0 +1,27 @@
+{
+  "entity_id": "dick-masterson",
+  "updated_at": "2026-07-16T20:43:28.127248+00:00",
+  "associates": [
+    {
+      "name": "Veto",
+      "entity_id": "veto",
+      "relationship_type": "co_mentioned",
+      "observation_count": 9,
+      "status": "candidate"
+    },
+    {
+      "name": "Dick",
+      "entity_id": "dick",
+      "relationship_type": "co_mentioned",
+      "observation_count": 3,
+      "status": "candidate"
+    },
+    {
+      "name": "Biggest Problem",
+      "entity_id": "biggest-problem",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    }
+  ]
+}

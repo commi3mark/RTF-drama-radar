@@ -1,0 +1,30 @@
+{
+  "entity_id": "angry-joe",
+  "updated_at": "2026-07-16T20:43:28.127248+00:00",
+  "appearances": [
+    {
+      "appearance_id": "appearance-nfZd95BuM5U",
+      "video_id": "nfZd95BuM5U",
+      "show_or_channel": "Elissa Clips",
+      "title": "TONIGHT ON KINO CASINO!! TheQuartering CBC Dropship Confirmed! Total DSP Victory! Angry Joe & More!!",
+      "published": "2026-07-10T20:05:26+00:00",
+      "role": "subject_or_possible_guest",
+      "status": "candidate",
+      "evidence_ids": [
+        "6fd04d6d5ecdb233ac"
+      ]
+    },
+    {
+      "appearance_id": "appearance-w0zM4eSzv8U",
+      "video_id": "w0zM4eSzv8U",
+      "show_or_channel": "Elissa Clips",
+      "title": "TONIGHT ON KINO CASINO!! TheQuartering Ren Fair Hoax & FNT Freak Out! Styx! Angry Joe! DBDR & More!!",
+      "published": "2026-07-14T19:21:31+00:00",
+      "role": "subject_or_possible_guest",
+      "status": "candidate",
+      "evidence_ids": [
+        "57c1b1f6a6f2656727"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "entity_id": "jcw-lunacy",
+  "updated_at": "2026-07-16T22:23:49.467031+00:00",
+  "relationships": [
+    {
+      "entity_id": "frog-tony",
+      "name": "Frog Tony",
+      "relationship_type": "co_discussed_or_co_appeared",
+      "interaction_score": 5,
+      "shared_video_count": 3,
+      "status": "candidate",
+      "first_seen": null,
+      "last_seen": null
+    },
+    {
+      "entity_id": "vito-gesualdi",
+      "name": "Vito Gesualdi",
+      "relationship_type": "co_discussed_or_co_appeared",
+      "interaction_score": 3,
+      "shared_video_count": 3,
+      "status": "candidate",
+      "first_seen": null,
+      "last_seen": null
+    }
+  ]
+}

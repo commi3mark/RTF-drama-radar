@@ -1,0 +1,28 @@
+{
+  "entity_id": "clippaverse",
+  "updated_at": "2026-07-16T20:43:28.127248+00:00",
+  "candidate_associates": [],
+  "candidate_topics": [],
+  "candidate_websites": [
+    {
+      "url": "https://ko-fi.com/clippaverse",
+      "type": "source_owned_description_link",
+      "status": "candidate",
+      "evidence_ids": [
+        "b3689c4be07c728efb910d63"
+      ]
+    }
+  ],
+  "candidate_socials": [
+    {
+      "handle": "@CallMeClippa",
+      "platform": "unknown",
+      "status": "candidate",
+      "evidence_ids": [
+        "1dab1a76e7f525e8269f9592"
+      ]
+    }
+  ],
+  "candidate_emails": [],
+  "candidate_appearances": []
+}

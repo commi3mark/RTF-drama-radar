@@ -1,0 +1,11 @@
+{
+  "entity_id": "piper",
+  "updated_at": "2026-07-16T22:23:49.467031+00:00",
+  "channels": [
+    {
+      "name": "Piper",
+      "observation_count": 2,
+      "status": "confirmed_source"
+    }
+  ]
+}

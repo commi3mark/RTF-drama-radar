@@ -1,0 +1,69 @@
+{
+  "entity_id": "liam-gay",
+  "updated_at": "2026-07-16T20:43:28.127248+00:00",
+  "candidate_associates": [
+    {
+      "name": "Always DTF",
+      "entity_id": "always-dtf",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "BC. This",
+      "entity_id": "bc-this",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Odicius",
+      "entity_id": "odicius",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Liam",
+      "entity_id": "liam",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Liam Grey",
+      "entity_id": "liam-grey",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Liam Gary",
+      "entity_id": "liam-gary",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    }
+  ],
+  "candidate_topics": [
+    {
+      "value": "The Ark Of Leem, LDA-King Stream",
+      "observation_count": 7,
+      "status": "candidate"
+    },
+    {
+      "value": "Gabbing With Ga......You Know",
+      "observation_count": 4,
+      "status": "candidate"
+    },
+    {
+      "value": "Gabbing With Ga......You know",
+      "observation_count": 1,
+      "status": "candidate"
+    }
+  ],
+  "candidate_websites": [],
+  "candidate_socials": [],
+  "candidate_emails": [],
+  "candidate_appearances": []
+}

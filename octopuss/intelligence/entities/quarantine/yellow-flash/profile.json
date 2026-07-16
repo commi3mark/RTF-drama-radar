@@ -1,0 +1,26 @@
+{
+  "schema_version": "octopuss-entity-profile-v1",
+  "entity_id": "yellow-flash",
+  "canonical_name": "Yellow Flash",
+  "entity_type": "person_or_persona",
+  "pronunciation": null,
+  "nationality": null,
+  "description": null,
+  "status": "confirmed",
+  "review_status": "unreviewed",
+  "confidence": 0.885,
+  "first_seen": "2026-06-30T21:23:41+00:00",
+  "last_seen": "2026-07-13T23:19:06+00:00",
+  "mention_count": 16,
+  "mention_video_count": 9,
+  "independent_source_count": 3,
+  "mentioning_sources": [
+    "Ethan Van Sciver",
+    "Frog Tony",
+    "KatyDid"
+  ],
+  "monitored_source": false,
+  "last_updated": "2026-07-16T20:43:28.127248+00:00",
+  "auto_generated": true,
+  "manual_notes": []
+}

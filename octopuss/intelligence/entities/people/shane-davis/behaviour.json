@@ -1,0 +1,71 @@
+{
+  "entity_id": "shane-davis",
+  "updated_at": "2026-07-16T22:23:49.467031+00:00",
+  "status": "provisional_corpus_derived",
+  "observed_context_count": 443,
+  "language_signals": {
+    "criticism": 10,
+    "praise": 76,
+    "conflict": 28,
+    "evidence_language": 24,
+    "certainty": 17,
+    "uncertainty": 176
+  },
+  "typical_topics": [
+    {
+      "term": "comic",
+      "count": 40
+    },
+    {
+      "term": "campaign",
+      "count": 17
+    },
+    {
+      "term": "Twitter",
+      "count": 10
+    },
+    {
+      "term": "drama",
+      "count": 10
+    },
+    {
+      "term": "Back Me Bro",
+      "count": 10
+    },
+    {
+      "term": "channel",
+      "count": 9
+    },
+    {
+      "term": "crowdfunding",
+      "count": 6
+    },
+    {
+      "term": "X",
+      "count": 4
+    },
+    {
+      "term": "YouTube",
+      "count": 3
+    },
+    {
+      "term": "Kick",
+      "count": 2
+    },
+    {
+      "term": "audience",
+      "count": 2
+    },
+    {
+      "term": "strike",
+      "count": 1
+    },
+    {
+      "term": "customers",
+      "count": 1
+    }
+  ],
+  "notes": [
+    "Counts describe language around mentions, not necessarily words spoken by the entity unless speaker attribution is available."
+  ]
+}

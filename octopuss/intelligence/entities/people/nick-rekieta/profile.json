@@ -1,0 +1,39 @@
+{
+  "entity_id": "nick-rekieta",
+  "canonical_name": "Nick Rekieta",
+  "entity_type": "person_or_persona",
+  "status": "confirmed",
+  "auto_detected": false,
+  "first_seen": "2026-06-27T16:10:55+00:00",
+  "last_seen": "2026-07-15T23:21:13+00:00",
+  "mention_count": 106,
+  "independent_sources": 7,
+  "video_count": 26,
+  "confidence": 1.0,
+  "updated_at": "2026-07-16T22:23:32.026712+00:00",
+  "schema_version": "octopuss-deep-entity-profile-v1",
+  "aliases": [
+    "Nick Rekieta",
+    "Nick",
+    "Rekieta",
+    "Rekieta Law"
+  ],
+  "nationality": null,
+  "pronunciation": null,
+  "description": null,
+  "mention_evidence_count": 108,
+  "mention_video_count": 26,
+  "independent_source_count": 7,
+  "mentioning_sources": [
+    "Elissa Clips",
+    "Ethan Van Sciver",
+    "FFS Cast",
+    "Frog Tony",
+    "KatyDid",
+    "Ministry of Dude",
+    "Shane Davis"
+  ],
+  "profile_completeness": 7,
+  "last_deep_build": "2026-07-16T22:23:49.467031+00:00",
+  "manual_notes": []
+}

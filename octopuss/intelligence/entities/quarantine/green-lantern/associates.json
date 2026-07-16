@@ -1,0 +1,118 @@
+{
+  "entity_id": "green-lantern",
+  "updated_at": "2026-07-16T20:43:28.127248+00:00",
+  "associates": [
+    {
+      "name": "Flash",
+      "entity_id": "flash",
+      "relationship_type": "co_mentioned",
+      "observation_count": 4,
+      "status": "candidate"
+    },
+    {
+      "name": "Ethan",
+      "entity_id": "ethan",
+      "relationship_type": "co_mentioned",
+      "observation_count": 4,
+      "status": "candidate"
+    },
+    {
+      "name": "Batman",
+      "entity_id": "batman",
+      "relationship_type": "co_mentioned",
+      "observation_count": 3,
+      "status": "candidate"
+    },
+    {
+      "name": "Guy Gardner",
+      "entity_id": "guy-gardner",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "James Gun",
+      "entity_id": "james-gun",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "The Manhunters",
+      "entity_id": "the-manhunters",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Not",
+      "entity_id": "not",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Aaron Pierre",
+      "entity_id": "aaron-pierre",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Superman",
+      "entity_id": "superman",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Eric July",
+      "entity_id": "eric-july",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Etregan",
+      "entity_id": "etregan",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Ghost Rider",
+      "entity_id": "ghost-rider",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Hellblazer",
+      "entity_id": "hellblazer",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Spider-Man",
+      "entity_id": "spider-man",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Loki",
+      "entity_id": "loki",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Fantastic",
+      "entity_id": "fantastic",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    }
+  ]
+}

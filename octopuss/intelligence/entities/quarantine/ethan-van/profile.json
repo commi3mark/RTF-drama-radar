@@ -1,0 +1,28 @@
+{
+  "schema_version": "octopuss-entity-profile-v1",
+  "entity_id": "ethan-van",
+  "canonical_name": "Ethan Van",
+  "entity_type": "person_or_persona",
+  "pronunciation": null,
+  "nationality": null,
+  "description": null,
+  "status": "confirmed",
+  "review_status": "unreviewed",
+  "confidence": 0.99,
+  "first_seen": "2026-06-20T11:30:01+00:00",
+  "last_seen": "2026-07-15T03:34:34+00:00",
+  "mention_count": 9,
+  "mention_video_count": 8,
+  "independent_source_count": 5,
+  "mentioning_sources": [
+    "Commi3 Mark",
+    "Ethan Van Sciver",
+    "FFS Cast",
+    "Frog Tony",
+    "KatyDid"
+  ],
+  "monitored_source": false,
+  "last_updated": "2026-07-16T20:43:28.127248+00:00",
+  "auto_generated": true,
+  "manual_notes": []
+}

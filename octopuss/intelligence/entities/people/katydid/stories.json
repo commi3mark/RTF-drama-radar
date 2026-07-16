@@ -1,0 +1,62 @@
+{
+  "entity_id": "katydid",
+  "updated_at": "2026-07-16T22:23:49.467031+00:00",
+  "stories_and_narratives": [
+    {
+      "story_or_narrative": "channel",
+      "observation_count": 1,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "Friday Night Tights",
+      "observation_count": 1,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "drama",
+      "observation_count": 1,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "Rippaverse",
+      "observation_count": 1,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "YouTube",
+      "observation_count": 1,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "Checking In On The LATE Campaigns Of EVS! - OPEN PANEL MADHOUSE!",
+      "observation_count": 5,
+      "status": "recurring_title_cluster"
+    },
+    {
+      "story_or_narrative": "Finbarr STOMPS A Dwarf! - OPEN PANEL MADHOUSE!!!!",
+      "observation_count": 3,
+      "status": "recurring_title_cluster"
+    },
+    {
+      "story_or_narrative": "Katydid Caught LYING AGAIN! - Detractor Kings",
+      "observation_count": 3,
+      "status": "recurring_title_cluster"
+    },
+    {
+      "story_or_narrative": "\"MINISTRY OF UNGENTLEMANLY TWEETS\" EXPOSES COMMI3 MARK - OH NO!",
+      "observation_count": 2,
+      "status": "recurring_title_cluster"
+    },
+    {
+      "story_or_narrative": "You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST !!! Sturgis goes to PokePark Kanto!",
+      "observation_count": 2,
+      "status": "recurring_title_cluster"
+    }
+  ],
+  "narrative_signals": {
+    "positive_language_count": 3,
+    "negative_language_count": 1,
+    "conflict_language_count": 0,
+    "status": "rough_context_signal_not_sentiment_classification"
+  }
+}

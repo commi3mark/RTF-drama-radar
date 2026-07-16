@@ -1,0 +1,39 @@
+{
+  "entity_id": "jon-del-arroz",
+  "canonical_name": "Jon Del Arroz",
+  "entity_type": "person_or_persona",
+  "status": "confirmed",
+  "auto_detected": false,
+  "first_seen": "2026-06-20T11:30:01+00:00",
+  "last_seen": "2026-07-15T03:34:34+00:00",
+  "mention_count": 135,
+  "independent_sources": 6,
+  "video_count": 16,
+  "confidence": 1.0,
+  "updated_at": "2026-07-16T22:23:32.026712+00:00",
+  "schema_version": "octopuss-deep-entity-profile-v1",
+  "aliases": [
+    "Jon Del Arroz",
+    "@jondelarroz",
+    "JDA",
+    "John Del Arroz",
+    "Jon"
+  ],
+  "nationality": null,
+  "pronunciation": null,
+  "description": null,
+  "mention_evidence_count": 135,
+  "mention_video_count": 17,
+  "independent_source_count": 6,
+  "mentioning_sources": [
+    "Commi3 Mark",
+    "Ethan Van Sciver",
+    "FFS Cast",
+    "Frog Tony",
+    "KatyDid",
+    "Piper"
+  ],
+  "profile_completeness": 7,
+  "last_deep_build": "2026-07-16T22:23:49.467031+00:00",
+  "manual_notes": []
+}

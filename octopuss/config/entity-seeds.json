@@ -1,0 +1,23 @@
+{
+  "people": [
+    {"entity_id":"commi3-mark","canonical_name":"Commi3 Mark","aliases":["Commi3 Mark","Commie Mark","Commi 3 Mark","Commie 3 Mark","Commi Three Mark","Commie Three Mark","Kami Mark","Kamie Mark"],"accounts":["@commi3mark"],"projects":["Russian Troll Factory","RTF","Drama Radar","OCTOPUSS"]},
+    {"entity_id":"eric-july","canonical_name":"Eric July","aliases":["Eric July","Erik July","Air July","Eric D July","Eric D. July","Young Rippa","YoungRippa59","Young Rippa 59"],"accounts":["@EricDJuly","@YoungRippa59"],"projects":["Rippaverse","RippaVerse","Isom","Yaira","Alphacore"]},
+    {"entity_id":"ethan-van-sciver","canonical_name":"Ethan Van Sciver","aliases":["Ethan Van Sciver","Ethan van Sciver","EVS","Ethan","ComicArtistPro Secrets","Comic Artist Pro Secrets"],"accounts":[],"projects":["Cyberfrog","ComicsGate Kings"]},
+    {"entity_id":"liam-gray","canonical_name":"Liam Gray","aliases":["Liam Gray","Liam"],"accounts":[],"projects":[]},
+    {"entity_id":"frog-tony","canonical_name":"Frog Tony","aliases":["Frog Tony","Frig Tony","Tony"],"accounts":[],"projects":["Frog Tony's Freedom Fighting Force","Freedom Fighting Force"]},
+    {"entity_id":"jon-del-arroz","canonical_name":"Jon Del Arroz","aliases":["Jon Del Arroz","John Del Arroz","JDA","Jon"],"accounts":["@jondelarroz"],"projects":[]},
+    {"entity_id":"nick-rekieta","canonical_name":"Nick Rekieta","aliases":["Nick Rekieta","Rekieta","Rekieta Law","Nick"],"accounts":[],"projects":[]},
+    {"entity_id":"katydid","canonical_name":"KatyDid","aliases":["KatyDid","Katy Did","Katy"],"accounts":[],"projects":[]},
+    {"entity_id":"shane-davis","canonical_name":"Shane Davis","aliases":["Shane Davis","Shane"],"accounts":[],"projects":[]},
+    {"entity_id":"chrissie-mayr","canonical_name":"Chrissie Mayr","aliases":["Chrissie Mayr","Chrissy Mayr","Chrissie","Chrissy"],"accounts":[],"projects":[]},
+    {"entity_id":"vito-gesualdi","canonical_name":"Vito Gesualdi","aliases":["Vito Gesualdi","Vito","Veto"],"accounts":[],"projects":[]}
+  ],
+  "non_people": {
+    "institution": ["The White House","White House","Congress","FBI","Daily Mail"],
+    "show": ["ComicsGate Kings","Russian Troll Factory","Fandom Pulse","Freedom Fighting Force","Hard Art"],
+    "comic_or_title": ["Sin City","Absolute Batman","Batman","Cyberfrog","Isom","Yaira","Alphacore"],
+    "project_or_company": ["Rippaverse","RippaVerse","Drama Radar","OCTOPUSS"],
+    "community": ["ComicsGate","Comics Gate"],
+    "place": ["New York","United States","United Kingdom","Las Vegas"]
+  }
+}

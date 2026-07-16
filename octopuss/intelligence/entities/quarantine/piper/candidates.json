@@ -1,0 +1,121 @@
+{
+  "entity_id": "piper",
+  "updated_at": "2026-07-16T20:43:28.127248+00:00",
+  "candidate_associates": [
+    {
+      "name": "Billy",
+      "entity_id": "billy",
+      "relationship_type": "co_mentioned",
+      "observation_count": 6,
+      "status": "candidate"
+    },
+    {
+      "name": "Kenzo",
+      "entity_id": "kenzo",
+      "relationship_type": "co_mentioned",
+      "observation_count": 5,
+      "status": "candidate"
+    },
+    {
+      "name": "Russian",
+      "entity_id": "russian",
+      "relationship_type": "co_mentioned",
+      "observation_count": 4,
+      "status": "candidate"
+    },
+    {
+      "name": "Yan",
+      "entity_id": "yan",
+      "relationship_type": "co_mentioned",
+      "observation_count": 4,
+      "status": "candidate"
+    },
+    {
+      "name": "Remember",
+      "entity_id": "remember",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Endless",
+      "entity_id": "endless",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Americans",
+      "entity_id": "americans",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Billy Piper",
+      "entity_id": "billy-piper",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Piper Lane",
+      "entity_id": "piper-lane",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Xavier",
+      "entity_id": "xavier",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Gross Piper",
+      "entity_id": "gross-piper",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Stop",
+      "entity_id": "stop",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    }
+  ],
+  "candidate_topics": [
+    {
+      "value": "F - IT",
+      "observation_count": 19,
+      "status": "candidate"
+    },
+    {
+      "value": "We Are Soooooo Back (AGANE",
+      "observation_count": 19,
+      "status": "candidate"
+    },
+    {
+      "value": "JON DEL ARROZ",
+      "observation_count": 8,
+      "status": "candidate"
+    },
+    {
+      "value": "FROG TONY'S FREEDOM FIGHTING FORCE",
+      "observation_count": 3,
+      "status": "candidate"
+    },
+    {
+      "value": "FBI Investigation DRAMA Escalates",
+      "observation_count": 3,
+      "status": "candidate"
+    }
+  ],
+  "candidate_websites": [],
+  "candidate_socials": [],
+  "candidate_emails": [],
+  "candidate_appearances": []
+}

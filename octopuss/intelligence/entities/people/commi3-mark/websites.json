@@ -1,0 +1,58 @@
+{
+  "entity_id": "commi3-mark",
+  "updated_at": "2026-07-16T22:23:49.467031+00:00",
+  "websites": [
+    {
+      "url": "https://streamyard.com/pal/d/5121556831272960",
+      "domain": "streamyard.com",
+      "status": "candidate_owned_or_promoted",
+      "observation_count": 4,
+      "evidence_ids": [
+        "099877ee93cf8f5cf479",
+        "db56cd1776fc05c0bf1f1120",
+        "2ad6b6982199dbff640b",
+        "463764e12ac0ea38565e65b9"
+      ]
+    },
+    {
+      "url": "https://www.youtube.com/@commi3mark",
+      "domain": "youtube.com",
+      "status": "candidate_owned_or_promoted",
+      "observation_count": 2,
+      "evidence_ids": [
+        "2ad6b6982199dbff640b",
+        "463764e12ac0ea38565e65b9"
+      ]
+    },
+    {
+      "url": "https://x.com/COMMI3MARK",
+      "domain": "x.com",
+      "status": "candidate_owned_or_promoted",
+      "observation_count": 2,
+      "evidence_ids": [
+        "2ad6b6982199dbff640b",
+        "463764e12ac0ea38565e65b9"
+      ]
+    },
+    {
+      "url": "https://commi3mark.com",
+      "domain": "commi3mark.com",
+      "status": "candidate_owned_or_promoted",
+      "observation_count": 2,
+      "evidence_ids": [
+        "2ad6b6982199dbff640b",
+        "463764e12ac0ea38565e65b9"
+      ]
+    },
+    {
+      "url": "https://payhip.com/COMMI3MARKCOMMENTARIATCOMICS",
+      "domain": "payhip.com",
+      "status": "candidate_owned_or_promoted",
+      "observation_count": 2,
+      "evidence_ids": [
+        "2ad6b6982199dbff640b",
+        "463764e12ac0ea38565e65b9"
+      ]
+    }
+  ]
+}

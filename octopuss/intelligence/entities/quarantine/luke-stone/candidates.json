@@ -1,0 +1,46 @@
+{
+  "entity_id": "luke-stone",
+  "updated_at": "2026-07-16T20:43:28.127248+00:00",
+  "candidate_associates": [
+    {
+      "name": "WordPress",
+      "entity_id": "wordpress",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "From",
+      "entity_id": "from",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    }
+  ],
+  "candidate_topics": [
+    {
+      "value": "JON DEL ARROZ",
+      "observation_count": 3,
+      "status": "candidate"
+    },
+    {
+      "value": "Catching Up With The Rippaverse! - Detractor Kings",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "value": "F - IT",
+      "observation_count": 1,
+      "status": "candidate"
+    },
+    {
+      "value": "We Are Soooooo Back (AGANE",
+      "observation_count": 1,
+      "status": "candidate"
+    }
+  ],
+  "candidate_websites": [],
+  "candidate_socials": [],
+  "candidate_emails": [],
+  "candidate_appearances": []
+}

@@ -1,0 +1,48 @@
+{
+  "entity_id": "jcw-lunacy",
+  "updated_at": "2026-07-16T22:23:49.467031+00:00",
+  "appearances": [
+    {
+      "appearance_id": "appearance-857f565757b19dd758e0",
+      "video_id": "F1ouqRPhAdM",
+      "host_channel": "Frog Tony",
+      "title": "JCW Lunacy #88 Watch Party!",
+      "published": "2026-06-27T16:10:55+00:00",
+      "timestamp_seconds": 0.0,
+      "timestamp_url": "https://www.youtube.com/watch?v=F1ouqRPhAdM",
+      "role": "guest_or_subject",
+      "status": "candidate",
+      "evidence_ids": [
+        "857f565757b19dd758e0"
+      ]
+    },
+    {
+      "appearance_id": "appearance-7a3d472ffcd47b1eb577",
+      "video_id": "9OJNBEVnTBk",
+      "host_channel": "Frog Tony",
+      "title": "JCW Lunacy #90 Watch Party",
+      "published": "2026-07-11T15:39:46+00:00",
+      "timestamp_seconds": 0.0,
+      "timestamp_url": "https://www.youtube.com/watch?v=9OJNBEVnTBk",
+      "role": "guest_or_subject",
+      "status": "candidate",
+      "evidence_ids": [
+        "7a3d472ffcd47b1eb577"
+      ]
+    },
+    {
+      "appearance_id": "appearance-1b21354592b257ebf615",
+      "video_id": "odC_ijF0FE4",
+      "host_channel": "Frog Tony",
+      "title": "JCW Lunacy #89 Watch Party",
+      "published": "2026-07-04T14:28:36+00:00",
+      "timestamp_seconds": 0.0,
+      "timestamp_url": "https://www.youtube.com/watch?v=odC_ijF0FE4",
+      "role": "guest_or_subject",
+      "status": "candidate",
+      "evidence_ids": [
+        "1b21354592b257ebf615"
+      ]
+    }
+  ]
+}

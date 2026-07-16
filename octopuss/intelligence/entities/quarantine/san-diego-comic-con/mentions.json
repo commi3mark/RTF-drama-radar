@@ -1,0 +1,77 @@
+{
+  "entity_id": "san-diego-comic-con",
+  "updated_at": "2026-07-16T20:43:28.127248+00:00",
+  "count": 5,
+  "mentions": [
+    {
+      "mention_id": "3cfc3dba5ce8f123e9",
+      "video_id": "7JzZNez4ZBE",
+      "source": "KatyDid",
+      "title": "FFS: Shane Davis Stops By! Discusses JDA & BACKmeBro",
+      "published": "2026-07-03T16:57:45+00:00",
+      "timestamp_seconds": 469.76,
+      "timestamp_url": "https://www.youtube.com/watch?v=7JzZNez4ZBE&t=469s",
+      "matched_alias": "San Diego Comic-Con",
+      "context": "I even go to the con. So if it starts, I don't know, if there's a preview night, especially something like San Diego Comic-Con and preview night say Thursday, my my once I I don't even have my banners set up and my list is filled up for the entire con.",
+      "confidence": 0.97,
+      "status": "confirmed",
+      "evidence_id": "3cfc3dba5ce8f123e9"
+    },
+    {
+      "mention_id": "7cb208169c406a2f9c",
+      "video_id": "K3-kPLKmbpA",
+      "source": "Shane Davis",
+      "title": "Comic Book Pervert Andrew Farago Arrested for Videotaping Guests on Toilet!",
+      "published": "2026-06-29T10:15:38+00:00",
+      "timestamp_seconds": 231.56,
+      "timestamp_url": "https://www.youtube.com/watch?v=K3-kPLKmbpA&t=231s",
+      "matched_alias": "San Diego Comic-Con",
+      "context": "coffee table books. He's He's done them on Batman. He's done them on Peanuts. He's also a curator at a art museum in San Diego Comic-Con area. So, if you've went to San Diego Comic-Con, you maybe walked past this art museum. So, he's kind of like this",
+      "confidence": 0.97,
+      "status": "confirmed",
+      "evidence_id": "7cb208169c406a2f9c"
+    },
+    {
+      "mention_id": "ceeeda6bfd4b79eeb3",
+      "video_id": "LS_14uOaG2E",
+      "source": "Ethan Van Sciver",
+      "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "published": "2026-07-13T23:19:06+00:00",
+      "timestamp_seconds": 8022.56,
+      "timestamp_url": "https://www.youtube.com/watch?v=LS_14uOaG2E&t=8022s",
+      "matched_alias": "San Diego Comic-Con",
+      "context": "was? >> Uh San Diego. Oh yeah, >> 2008 to San Diego Comic-Con. >> Maybe it was 2009, but I think it was 2008. >> I think I went to seven and eight and I",
+      "confidence": 0.97,
+      "status": "confirmed",
+      "evidence_id": "ceeeda6bfd4b79eeb3"
+    },
+    {
+      "mention_id": "0b00818a55a1b6b62a",
+      "video_id": "LS_14uOaG2E",
+      "source": "Ethan Van Sciver",
+      "title": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!",
+      "published": "2026-07-13T23:19:06+00:00",
+      "timestamp_seconds": 9130.56,
+      "timestamp_url": "https://www.youtube.com/watch?v=LS_14uOaG2E&t=9130s",
+      "matched_alias": "San Diego Comic-Con",
+      "context": ">> Okay. >> I can't. But if I can share something in a bit. I just want to share some of my San Diego Comic-Con stuff, >> like a few JPEGs when you get a chance. >> Yeah. >> After the contests.",
+      "confidence": 0.97,
+      "status": "confirmed",
+      "evidence_id": "0b00818a55a1b6b62a"
+    },
+    {
+      "mention_id": "4e11bb86d5e3c48870",
+      "video_id": "Zd9PVsLAD5c",
+      "source": "Ethan Van Sciver",
+      "title": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
+      "published": "2026-07-07T04:26:42+00:00",
+      "timestamp_seconds": 8479.68,
+      "timestamp_url": "https://www.youtube.com/watch?v=Zd9PVsLAD5c&t=8479s",
+      "matched_alias": "San Diego Comic-Con",
+      "context": ">> Very light. It's a 28. >> Gorgeous. >> Gorgeous. >> So, San Diego Comic-Con special edition. >> Beautiful. What's up? [clears throat] >> Trying to see if Charlie Snoggan's wrote",
+      "confidence": 0.97,
+      "status": "confirmed",
+      "evidence_id": "4e11bb86d5e3c48870"
+    }
+  ]
+}

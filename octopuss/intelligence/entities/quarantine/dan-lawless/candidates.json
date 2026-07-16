@@ -1,0 +1,70 @@
+{
+  "entity_id": "dan-lawless",
+  "updated_at": "2026-07-16T20:43:28.127248+00:00",
+  "candidate_associates": [
+    {
+      "name": "Wow",
+      "entity_id": "wow",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Dan",
+      "entity_id": "dan",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Johnny Rocket",
+      "entity_id": "johnny-rocket",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Catwoman",
+      "entity_id": "catwoman",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    }
+  ],
+  "candidate_topics": [
+    {
+      "value": "COMICSGATE KINGS",
+      "observation_count": 6,
+      "status": "candidate"
+    },
+    {
+      "value": "Let's draw GOTHAM characters",
+      "observation_count": 6,
+      "status": "candidate"
+    },
+    {
+      "value": "#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES",
+      "observation_count": 3,
+      "status": "candidate"
+    },
+    {
+      "value": "FROG TONY'S FREEDOM FIGHTING FORCE",
+      "observation_count": 1,
+      "status": "candidate"
+    },
+    {
+      "value": "FBI Investigation DRAMA Escalates",
+      "observation_count": 1,
+      "status": "candidate"
+    },
+    {
+      "value": "Gabbing With Ga......You know",
+      "observation_count": 1,
+      "status": "candidate"
+    }
+  ],
+  "candidate_websites": [],
+  "candidate_socials": [],
+  "candidate_emails": [],
+  "candidate_appearances": []
+}

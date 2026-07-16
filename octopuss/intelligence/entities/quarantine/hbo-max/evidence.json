@@ -1,0 +1,67 @@
+{
+  "entity_id": "hbo-max",
+  "updated_at": "2026-07-16T20:43:28.127248+00:00",
+  "count": 4,
+  "evidence": [
+    {
+      "evidence_id": "9237ce834e4d678d5d",
+      "entity_id": "hbo-max",
+      "kind": "transcript",
+      "video_id": "VBJwPPZ1LeY",
+      "title": "Sturgis Went To Japan On Thirsty Thursday!",
+      "source": "Frog Tony",
+      "published": "2026-07-10T07:46:34+00:00",
+      "url": "https://www.youtube.com/watch?v=VBJwPPZ1LeY",
+      "path": "transcripts/archive/2026/07/Sturgis Went To Japan On Thirsty Thursday! [VBJwPPZ1LeY].json",
+      "timestamp_seconds": 21652.958,
+      "matched_name": "HBO Max",
+      "context": "was probably the best. >> I don't see a lot of movies in a theater either because uh we got, you know, Disney Plus, HBO Max, we got Netflix, >> Hulu, we got all that. So, unless it's like a really like a Marvel movie or something that's like,",
+      "timestamp_url": "https://www.youtube.com/watch?v=VBJwPPZ1LeY&t=21652s"
+    },
+    {
+      "evidence_id": "7794e5c7e5a656aebb",
+      "entity_id": "hbo-max",
+      "kind": "transcript",
+      "video_id": "jVMsgBTgicI",
+      "title": "Steel Toe gets hit with his very own HRO | #936",
+      "source": "Ministry of Dude",
+      "published": "2026-07-14T14:43:34+00:00",
+      "url": "https://www.youtube.com/watch?v=jVMsgBTgicI",
+      "path": "transcripts/archive/2026-07/Steel Toe gets hit with his very own HRO #936 [jVMsgBTgicI].json",
+      "timestamp_seconds": 1243.84,
+      "matched_name": "HBO Max",
+      "context": "that brand alive. >> They've kind of already tried that, didn't there? Was a WB streaming app. Yeah. Well, that's what HBO Max is. >> Is not or No, no, no, sorry. I was thinking of DC. Sorry. I got the >> Well, yeah. DC Universe got folded into",
+      "timestamp_url": "https://www.youtube.com/watch?v=jVMsgBTgicI&t=1243s"
+    },
+    {
+      "evidence_id": "cb056c60ac90b22ef1",
+      "entity_id": "hbo-max",
+      "kind": "transcript",
+      "video_id": "lYws0Rqt8Bs",
+      "title": "Supergirl BOMBS And Might END The DCU! - CG Suburbs",
+      "source": "Frog Tony",
+      "published": "2026-07-06T04:14:55+00:00",
+      "url": "https://www.youtube.com/watch?v=lYws0Rqt8Bs",
+      "path": "transcripts/archive/2026/07/Supergirl BOMBS And Might END The DCU! - CG Suburbs [lYws0Rqt8Bs].json",
+      "timestamp_seconds": 6577.6,
+      "matched_name": "HBO Max",
+      "context": "the next 24 hours, 48 hours. [clears throat] >> That's digital release. We're talking about it goes to like HBO Max where you pay for HBO Max and it just >> So, okay. So, you pay for the service and it just appears in the library.",
+      "timestamp_url": "https://www.youtube.com/watch?v=lYws0Rqt8Bs&t=6577s"
+    },
+    {
+      "evidence_id": "1cae06697b42893ecb",
+      "entity_id": "hbo-max",
+      "kind": "transcript",
+      "video_id": "lYws0Rqt8Bs",
+      "title": "Supergirl BOMBS And Might END The DCU! - CG Suburbs",
+      "source": "Frog Tony",
+      "published": "2026-07-06T04:14:55+00:00",
+      "url": "https://www.youtube.com/watch?v=lYws0Rqt8Bs",
+      "path": "transcripts/archive/2026/07/Supergirl BOMBS And Might END The DCU! - CG Suburbs [lYws0Rqt8Bs].json",
+      "timestamp_seconds": 6682.239,
+      "matched_name": "HBO Max",
+      "context": ">> Damn. What I don't understand about being tossed into the trash is that it should have made bank on HBO Max. >> Yeah. >> Uh it should direct to HBO Max. >> I think they couldn't. I think they were",
+      "timestamp_url": "https://www.youtube.com/watch?v=lYws0Rqt8Bs&t=6682s"
+    }
+  ]
+}

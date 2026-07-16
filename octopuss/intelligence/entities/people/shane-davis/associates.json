@@ -1,0 +1,116 @@
+{
+  "entity_id": "shane-davis",
+  "updated_at": "2026-07-16T22:23:49.467031+00:00",
+  "associates": [
+    {
+      "entity_id": "ethan-van-sciver",
+      "name": "Ethan Van Sciver",
+      "relationship_type": "co_discussed_or_co_appeared",
+      "interaction_score": 212,
+      "shared_video_count": 24,
+      "status": "candidate",
+      "first_seen": null,
+      "last_seen": null
+    },
+    {
+      "entity_id": "liam-gray",
+      "name": "Liam Gray",
+      "relationship_type": "co_discussed_or_co_appeared",
+      "interaction_score": 64,
+      "shared_video_count": 20,
+      "status": "candidate",
+      "first_seen": null,
+      "last_seen": null
+    },
+    {
+      "entity_id": "eric-july",
+      "name": "Eric July",
+      "relationship_type": "co_discussed_or_co_appeared",
+      "interaction_score": 37,
+      "shared_video_count": 17,
+      "status": "candidate",
+      "first_seen": null,
+      "last_seen": null
+    },
+    {
+      "entity_id": "frog-tony",
+      "name": "Frog Tony",
+      "relationship_type": "co_discussed_or_co_appeared",
+      "interaction_score": 36,
+      "shared_video_count": 20,
+      "status": "candidate",
+      "first_seen": null,
+      "last_seen": null
+    },
+    {
+      "entity_id": "jon-del-arroz",
+      "name": "Jon Del Arroz",
+      "relationship_type": "co_discussed_or_co_appeared",
+      "interaction_score": 36,
+      "shared_video_count": 12,
+      "status": "candidate",
+      "first_seen": null,
+      "last_seen": null
+    },
+    {
+      "entity_id": "nick-rekieta",
+      "name": "Nick Rekieta",
+      "relationship_type": "co_discussed_or_co_appeared",
+      "interaction_score": 17,
+      "shared_video_count": 11,
+      "status": "candidate",
+      "first_seen": null,
+      "last_seen": null
+    },
+    {
+      "entity_id": "vito-gesualdi",
+      "name": "Vito Gesualdi",
+      "relationship_type": "co_discussed_or_co_appeared",
+      "interaction_score": 12,
+      "shared_video_count": 12,
+      "status": "candidate",
+      "first_seen": null,
+      "last_seen": null
+    },
+    {
+      "entity_id": "chrissie-mayr",
+      "name": "Chrissie Mayr",
+      "relationship_type": "co_discussed_or_co_appeared",
+      "interaction_score": 6,
+      "shared_video_count": 4,
+      "status": "candidate",
+      "first_seen": null,
+      "last_seen": null
+    },
+    {
+      "entity_id": "katydid",
+      "name": "KatyDid",
+      "relationship_type": "co_discussed_or_co_appeared",
+      "interaction_score": 6,
+      "shared_video_count": 6,
+      "status": "candidate",
+      "first_seen": null,
+      "last_seen": null
+    },
+    {
+      "entity_id": "piper",
+      "name": "Piper",
+      "relationship_type": "co_discussed_or_co_appeared",
+      "interaction_score": 2,
+      "shared_video_count": 2,
+      "status": "candidate",
+      "first_seen": null,
+      "last_seen": null
+    },
+    {
+      "entity_id": "commi3-mark",
+      "name": "Commi3 Mark",
+      "relationship_type": "co_discussed_or_co_appeared",
+      "interaction_score": 2,
+      "shared_video_count": 2,
+      "status": "candidate",
+      "first_seen": null,
+      "last_seen": null
+    }
+  ]
+}

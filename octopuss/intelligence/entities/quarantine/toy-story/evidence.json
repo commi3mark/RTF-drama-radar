@@ -1,0 +1,52 @@
+{
+  "entity_id": "toy-story",
+  "updated_at": "2026-07-16T20:43:28.127248+00:00",
+  "count": 3,
+  "evidence": [
+    {
+      "evidence_id": "8604eead0616a49f35",
+      "entity_id": "toy-story",
+      "kind": "transcript",
+      "video_id": "6GIxuFOICAI",
+      "title": "Catching Up With The Rippaverse! - Detractor Kings",
+      "source": "Frog Tony",
+      "published": "2026-06-30T05:04:06+00:00",
+      "url": "https://www.youtube.com/watch?v=6GIxuFOICAI",
+      "path": "transcripts/archive/2026/06/Catching Up With The Rippaverse! - Detractor Kings [6GIxuFOICAI].json",
+      "timestamp_seconds": 5781.04,
+      "matched_name": "Toy Story",
+      "context": "are far too many options out there, not just in people that create. Obviously, >> uh the the days of mass appeal is over and then Toy Story uh 5 came out and crushed it. >> Yep. >> So, yeah, Eric, you're completely wrong",
+      "timestamp_url": "https://www.youtube.com/watch?v=6GIxuFOICAI&t=5781s"
+    },
+    {
+      "evidence_id": "bd0e0b498ef256f45d",
+      "entity_id": "toy-story",
+      "kind": "transcript",
+      "video_id": "BL9WKiYeI2A",
+      "title": "HARD ART!  #31",
+      "source": "Shane Davis",
+      "published": "2026-07-02T06:14:29+00:00",
+      "url": "https://www.youtube.com/watch?v=BL9WKiYeI2A",
+      "path": "transcripts/archive/2026-07/HARD ART!  #31 [BL9WKiYeI2A].json",
+      "timestamp_seconds": 1214.24,
+      "matched_name": "Toy Story",
+      "context": "another $30 on ex concessions. >> Wow. >> And that was two weeks in a row because we went and saw Toy Story 5 uh the week before that too. So well over $100 to take the family to the movies two weeks in a row.",
+      "timestamp_url": "https://www.youtube.com/watch?v=BL9WKiYeI2A&t=1214s"
+    },
+    {
+      "evidence_id": "3a2acc18901e62bad9",
+      "entity_id": "toy-story",
+      "kind": "transcript",
+      "video_id": "rXQ0RozGVWg",
+      "title": "Detractor Kings Is DEAD! Long Live The Geek Getaway!",
+      "source": "Frog Tony",
+      "published": "2026-07-14T04:09:11+00:00",
+      "url": "https://www.youtube.com/watch?v=rXQ0RozGVWg",
+      "path": "transcripts/archive/2026-07/Detractor Kings Is DEAD! Long Live The Geek Getaway! [rXQ0RozGVWg].json",
+      "timestamp_seconds": 4428.719,
+      "matched_name": "Toy Story",
+      "context": "to see that [ __ ] Beauty and the Beast. I want to see what the beast looks like. All that [ __ ] It's like >> Toy Story. Toy Story was just called uh Child's Play, right? Small Soldiers >> or Small Soldiers, bro. I would love",
+      "timestamp_url": "https://www.youtube.com/watch?v=rXQ0RozGVWg&t=4428s"
+    }
+  ]
+}

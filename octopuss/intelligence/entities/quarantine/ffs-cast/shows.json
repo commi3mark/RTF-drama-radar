@@ -1,0 +1,84 @@
+{
+  "entity_id": "ffs-cast",
+  "updated_at": "2026-07-16T20:43:28.127248+00:00",
+  "recurring_shows": [
+    {
+      "name": "ComicsGate Church",
+      "relationship": "recurring_source_title_pattern",
+      "observation_count": 4,
+      "status": "candidate"
+    },
+    {
+      "name": "CYNNERS",
+      "relationship": "recurring_source_title_pattern",
+      "observation_count": 4,
+      "status": "candidate"
+    },
+    {
+      "name": "GabingWith Ga....You know",
+      "relationship": "recurring_source_title_pattern",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Gabbing With Ga......You know",
+      "relationship": "recurring_source_title_pattern",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "I Heard Kylies A B!tch (History Of Leem Part ) -King Stream",
+      "relationship": "recurring_source_title_pattern",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "CYNNERS .",
+      "relationship": "recurring_source_title_pattern",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "The Ark Of Leem, LDA-King Stream",
+      "relationship": "recurring_source_title_pattern",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Gabbing With Ga......You Know",
+      "relationship": "recurring_source_title_pattern",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Stolen Valor-King Stream",
+      "relationship": "recurring_source_title_pattern",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "th Of July/ Cody Burrfffday Special-Cynners",
+      "relationship": "recurring_source_title_pattern",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "I TROOOOOOOOOOID-King Stream",
+      "relationship": "recurring_source_title_pattern",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "I TROOOOOID ELECTRIC BOOGALOO-KING STREAM",
+      "relationship": "recurring_source_title_pattern",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Gabbing With Ga....You know In Oz",
+      "relationship": "recurring_source_title_pattern",
+      "observation_count": 2,
+      "status": "candidate"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "entity_id": "eric-july",
+  "updated_at": "2026-07-16T22:23:49.467031+00:00",
+  "stories_and_narratives": [
+    {
+      "story_or_narrative": "Rippaverse",
+      "observation_count": 78,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "drama",
+      "observation_count": 73,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "ComicsGate",
+      "observation_count": 57,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "Russian Troll Factory",
+      "observation_count": 56,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "comic",
+      "observation_count": 23,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "channel",
+      "observation_count": 13,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "Back Me Bro",
+      "observation_count": 12,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "YouTube",
+      "observation_count": 7,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "crowdfunding",
+      "observation_count": 4,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "Twitter",
+      "observation_count": 4,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "audience",
+      "observation_count": 3,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "campaign",
+      "observation_count": 3,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "strike",
+      "observation_count": 2,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "customers",
+      "observation_count": 1,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "ComicsGate Kings",
+      "observation_count": 1,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+      "observation_count": 55,
+      "status": "recurring_title_cluster"
+    },
+    {
+      "story_or_narrative": "Cynic Got CATFISHED And EVS Continues To SPIRAL On Thirsty Thursday!",
+      "observation_count": 36,
+      "status": "recurring_title_cluster"
+    },
+    {
+      "story_or_narrative": "Katydid Caught LYING AGAIN! - Detractor Kings",
+      "observation_count": 30,
+      "status": "recurring_title_cluster"
+    },
+    {
+      "story_or_narrative": "Catching Up With The Rippaverse! - Detractor Kings",
+      "observation_count": 22,
+      "status": "recurring_title_cluster"
+    },
+    {
+      "story_or_narrative": "It's OFFICIAL! TRASHCAST FIRES CHRISSIE MAYR! ERICHETTE JULY on \"WOKE\"! LANTERNS Spoilers?!",
+      "observation_count": 13,
+      "status": "recurring_title_cluster"
+    },
+    {
+      "story_or_narrative": "The Biggest Problem in the Universe Comes to an END!",
+      "observation_count": 12,
+      "status": "recurring_title_cluster"
+    },
+    {
+      "story_or_narrative": "JON DEL ARROZ: HERES THE ATTENTION YOU ORDERED - SHANE DAVIS BACK ME BRO INTERNET BEEF - EXTRA SALTY",
+      "observation_count": 12,
+      "status": "recurring_title_cluster"
+    },
+    {
+      "story_or_narrative": "You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST !!! Sturgis goes to PokePark Kanto!",
+      "observation_count": 11,
+      "status": "recurring_title_cluster"
+    },
+    {
+      "story_or_narrative": "Gabbing With Ga......You Know",
+      "observation_count": 9,
+      "status": "recurring_title_cluster"
+    },
+    {
+      "story_or_narrative": "Sturgis Went To Japan On Thirsty Thursday!",
+      "observation_count": 9,
+      "status": "recurring_title_cluster"
+    }
+  ],
+  "narrative_signals": {
+    "positive_language_count": 52,
+    "negative_language_count": 26,
+    "conflict_language_count": 35,
+    "status": "rough_context_signal_not_sentiment_classification"
+  }
+}

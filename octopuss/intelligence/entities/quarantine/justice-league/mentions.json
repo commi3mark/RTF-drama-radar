@@ -1,0 +1,49 @@
+{
+  "entity_id": "justice-league",
+  "updated_at": "2026-07-16T20:43:28.127248+00:00",
+  "count": 3,
+  "mentions": [
+    {
+      "mention_id": "d34e88d4e5a9771b15",
+      "video_id": "6GIxuFOICAI",
+      "source": "Frog Tony",
+      "title": "Catching Up With The Rippaverse! - Detractor Kings",
+      "published": "2026-06-30T05:04:06+00:00",
+      "timestamp_seconds": 4336.719,
+      "timestamp_url": "https://www.youtube.com/watch?v=6GIxuFOICAI&t=4336s",
+      "matched_alias": "Justice League",
+      "context": "else. Like Flashoint should have been So it should have been like a Justice League movie, >> uh, a second Justice League movie, then the third. >> Yeah. Then like the third Justice League movie could have been the Flashoint",
+      "confidence": 0.97,
+      "status": "confirmed",
+      "evidence_id": "d34e88d4e5a9771b15"
+    },
+    {
+      "mention_id": "d416f472f29139bf23",
+      "video_id": "FrQfU1Y84Nk",
+      "source": "Ethan Van Sciver",
+      "title": "DRAW-MUH STREAM! REIGNBOW THE BRUTE Death of Papa Smerc page 3 pt3",
+      "published": "2026-06-30T21:23:41+00:00",
+      "timestamp_seconds": 2209.839,
+      "timestamp_url": "https://www.youtube.com/watch?v=FrQfU1Y84Nk&t=2209s",
+      "matched_alias": "Justice League",
+      "context": ">> 200 W Studios says, \"I was a huge Firestorm fan since 1978. Was there on day one when Fury came out, Raymond was in the uh Justice League, 30-year hero. No way was he racist. How come we don't black friends? Mom, why? Because uh it'd be great if mom",
+      "confidence": 0.97,
+      "status": "confirmed",
+      "evidence_id": "d416f472f29139bf23"
+    },
+    {
+      "mention_id": "df0b6335ef7405f7a5",
+      "video_id": "VBJwPPZ1LeY",
+      "source": "Frog Tony",
+      "title": "Sturgis Went To Japan On Thirsty Thursday!",
+      "published": "2026-07-10T07:46:34+00:00",
+      "timestamp_seconds": 22238.798,
+      "timestamp_url": "https://www.youtube.com/watch?v=VBJwPPZ1LeY&t=22238s",
+      "matched_alias": "Justice League",
+      "context": "Carl books. I heard they're good. Just haven't read them. What would have been your casting choice for a 90s Avengers or Justice League film? You can do both if you >> I'm curious. Yeah. >> Uh well,",
+      "confidence": 0.97,
+      "status": "confirmed",
+      "evidence_id": "df0b6335ef7405f7a5"
+    }
+  ]
+}

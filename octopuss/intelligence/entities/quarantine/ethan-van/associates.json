@@ -1,0 +1,27 @@
+{
+  "entity_id": "ethan-van",
+  "updated_at": "2026-07-16T20:43:28.127248+00:00",
+  "associates": [
+    {
+      "name": "Ethan Van Skyver",
+      "entity_id": "ethan-van-skyver",
+      "relationship_type": "co_mentioned",
+      "observation_count": 3,
+      "status": "candidate"
+    },
+    {
+      "name": "Ethan Van Skyber",
+      "entity_id": "ethan-van-skyber",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Ethan Van Sky",
+      "entity_id": "ethan-van-sky",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    }
+  ]
+}

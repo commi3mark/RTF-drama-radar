@@ -1,0 +1,38 @@
+{
+  "entity_id": "commi3-mark",
+  "updated_at": "2026-07-16T22:23:49.467031+00:00",
+  "projects": [
+    {
+      "name": "Russian Troll Factory",
+      "relationship": "known_project_cue",
+      "status": "confirmed_relationship",
+      "is_alias": false,
+      "transcript_observations": 1,
+      "radar_observations": 8
+    },
+    {
+      "name": "RTF",
+      "relationship": "known_project_cue",
+      "status": "confirmed_relationship",
+      "is_alias": false,
+      "transcript_observations": 0,
+      "radar_observations": 0
+    },
+    {
+      "name": "Drama Radar",
+      "relationship": "known_project_cue",
+      "status": "confirmed_relationship",
+      "is_alias": false,
+      "transcript_observations": 0,
+      "radar_observations": 0
+    },
+    {
+      "name": "OCTOPUSS",
+      "relationship": "known_project_cue",
+      "status": "confirmed_relationship",
+      "is_alias": false,
+      "transcript_observations": 0,
+      "radar_observations": 0
+    }
+  ]
+}

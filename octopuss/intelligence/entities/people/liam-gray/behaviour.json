@@ -1,0 +1,75 @@
+{
+  "entity_id": "liam-gray",
+  "updated_at": "2026-07-16T22:23:49.467031+00:00",
+  "status": "provisional_corpus_derived",
+  "observed_context_count": 1397,
+  "language_signals": {
+    "criticism": 97,
+    "praise": 203,
+    "conflict": 163,
+    "evidence_language": 215,
+    "certainty": 97,
+    "uncertainty": 525
+  },
+  "typical_topics": [
+    {
+      "term": "channel",
+      "count": 99
+    },
+    {
+      "term": "comic",
+      "count": 69
+    },
+    {
+      "term": "YouTube",
+      "count": 39
+    },
+    {
+      "term": "strike",
+      "count": 31
+    },
+    {
+      "term": "Twitter",
+      "count": 28
+    },
+    {
+      "term": "drama",
+      "count": 21
+    },
+    {
+      "term": "campaign",
+      "count": 17
+    },
+    {
+      "term": "audience",
+      "count": 14
+    },
+    {
+      "term": "Kick",
+      "count": 9
+    },
+    {
+      "term": "X",
+      "count": 7
+    },
+    {
+      "term": "copyright",
+      "count": 7
+    },
+    {
+      "term": "lawsuit",
+      "count": 5
+    },
+    {
+      "term": "Friday Night Tights",
+      "count": 1
+    },
+    {
+      "term": "Back Me Bro",
+      "count": 1
+    }
+  ],
+  "notes": [
+    "Counts describe language around mentions, not necessarily words spoken by the entity unless speaker attribution is available."
+  ]
+}

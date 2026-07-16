@@ -1,0 +1,24 @@
+{
+  "schema_version": "octopuss-entity-profile-v1",
+  "entity_id": "jul",
+  "canonical_name": "Jul",
+  "entity_type": "person_or_persona",
+  "pronunciation": null,
+  "nationality": null,
+  "description": null,
+  "status": "candidate",
+  "review_status": "unreviewed",
+  "confidence": 0.88,
+  "first_seen": "2026-07-09T00:21:23+00:00",
+  "last_seen": "2026-07-16T02:57:08+00:00",
+  "mention_count": 22,
+  "mention_video_count": 22,
+  "independent_source_count": 1,
+  "mentioning_sources": [
+    "Elissa Clips"
+  ],
+  "monitored_source": false,
+  "last_updated": "2026-07-16T20:43:28.127248+00:00",
+  "auto_generated": true,
+  "manual_notes": []
+}

@@ -1,0 +1,12 @@
+{
+  "entity_id": "piper",
+  "updated_at": "2026-07-16T20:43:28.127248+00:00",
+  "recurring_shows": [
+    {
+      "name": "F - IT: We Are Soooooo Back (AGANE)",
+      "relationship": "recurring_source_title_pattern",
+      "observation_count": 2,
+      "status": "candidate"
+    }
+  ]
+}

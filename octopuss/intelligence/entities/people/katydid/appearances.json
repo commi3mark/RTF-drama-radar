@@ -1,0 +1,34 @@
+{
+  "entity_id": "katydid",
+  "updated_at": "2026-07-16T22:23:49.467031+00:00",
+  "appearances": [
+    {
+      "appearance_id": "appearance-d10b23a394c66f6305b4",
+      "video_id": "MBKTh4fSITU",
+      "host_channel": "Commi3 Mark",
+      "title": "\"MINISTRY OF UNGENTLEMANLY TWEETS\" EXPOSES COMMI3 MARK - OH NO!",
+      "published": "2026-06-26T23:47:47+00:00",
+      "timestamp_seconds": 816.32,
+      "timestamp_url": "https://www.youtube.com/watch?v=MBKTh4fSITU&t=816s",
+      "role": "guest_or_subject",
+      "status": "probable",
+      "evidence_ids": [
+        "d10b23a394c66f6305b4"
+      ]
+    },
+    {
+      "appearance_id": "appearance-5ecb73334111e9138c9a",
+      "video_id": "RxZ_OdBN2f0",
+      "host_channel": "Frog Tony",
+      "title": "Katydid Caught LYING AGAIN! - Detractor Kings",
+      "published": "2026-07-07T05:46:59+00:00",
+      "timestamp_seconds": 0.0,
+      "timestamp_url": "https://www.youtube.com/watch?v=RxZ_OdBN2f0",
+      "role": "guest_or_subject",
+      "status": "candidate",
+      "evidence_ids": [
+        "5ecb73334111e9138c9a"
+      ]
+    }
+  ]
+}

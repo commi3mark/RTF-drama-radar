@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "updated_at": "2026-07-16T23:14:01.782004+00:00",
+=======
+  "updated_at": "2026-07-16T23:42:47.167387+00:00",
+>>>>>>> 3fe3166 (Remove obsolete OCTOPUSS folder)
   "months": [
     {
       "month": "2024-08",
@@ -78,10 +82,18 @@
     },
     {
       "month": "2026-07",
+<<<<<<< HEAD
       "items": 439,
+=======
+      "items": 440,
+>>>>>>> 3fe3166 (Remove obsolete OCTOPUSS folder)
       "path": "2026-07.json"
     }
   ],
   "month_count": 16,
+<<<<<<< HEAD
   "total_archived_detections": 581
+=======
+  "total_archived_detections": 582
+>>>>>>> 3fe3166 (Remove obsolete OCTOPUSS folder)
 }

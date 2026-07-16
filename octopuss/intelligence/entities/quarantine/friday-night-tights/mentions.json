@@ -1,0 +1,63 @@
+{
+  "entity_id": "friday-night-tights",
+  "updated_at": "2026-07-16T20:43:28.127248+00:00",
+  "count": 4,
+  "mentions": [
+    {
+      "mention_id": "b27be47add5d1e6233",
+      "video_id": "HTrcwhelzCU",
+      "source": "Elissa Clips",
+      "title": "Chrissie Mayr Officially Fired from Friday Night Tights (Jul 9, 2026)",
+      "published": "2026-07-10T13:42:14+00:00",
+      "timestamp_seconds": 0.0,
+      "timestamp_url": "https://www.youtube.com/watch?v=HTrcwhelzCU&t=0s",
+      "matched_alias": "Friday Night Tights",
+      "context": "Chrissie Mayr Officially Fired from Friday Night Tights (Jul 9, 2026)",
+      "confidence": 0.97,
+      "status": "confirmed",
+      "evidence_id": "b27be47add5d1e6233"
+    },
+    {
+      "mention_id": "54ba25f03b122e3c8f",
+      "video_id": "Uy8eHEmKNWY",
+      "source": "Elissa Clips",
+      "title": "Kino Casino: Nerdrotic Fires Chrissie Mayr from Friday Night Tights (Jul 10, 2026)",
+      "published": "2026-07-11T18:46:43+00:00",
+      "timestamp_seconds": 0.0,
+      "timestamp_url": "https://www.youtube.com/watch?v=Uy8eHEmKNWY&t=0s",
+      "matched_alias": "Friday Night Tights",
+      "context": "Kino Casino: Nerdrotic Fires Chrissie Mayr from Friday Night Tights (Jul 10, 2026)",
+      "confidence": 0.97,
+      "status": "confirmed",
+      "evidence_id": "54ba25f03b122e3c8f"
+    },
+    {
+      "mention_id": "f1fb983fa607058ab1",
+      "video_id": "Vj5FINXThF4",
+      "source": "Elissa Clips",
+      "title": "TheQuartering: Friday Night Tights is a Huge Pword for Firing Chrissie Mayr (Jul 13, 2026)",
+      "published": "2026-07-13T23:29:23+00:00",
+      "timestamp_seconds": 0.0,
+      "timestamp_url": "https://www.youtube.com/watch?v=Vj5FINXThF4&t=0s",
+      "matched_alias": "Friday Night Tights",
+      "context": "TheQuartering: Friday Night Tights is a Huge Pword for Firing Chrissie Mayr (Jul 13, 2026)",
+      "confidence": 0.97,
+      "status": "confirmed",
+      "evidence_id": "f1fb983fa607058ab1"
+    },
+    {
+      "mention_id": "7f443828fe28284ae7",
+      "video_id": "fq2D80GqXqQ",
+      "source": "KatyDid",
+      "title": "Chrissie Mayr Officially FIRED from FRIDAY NIGHT TIGHTS | j.A.C.k Show | July 9th 2026",
+      "published": "2026-07-10T20:05:14+00:00",
+      "timestamp_seconds": 0.0,
+      "timestamp_url": "https://www.youtube.com/watch?v=fq2D80GqXqQ&t=0s",
+      "matched_alias": "FRIDAY NIGHT TIGHTS",
+      "context": "Chrissie Mayr Officially FIRED from FRIDAY NIGHT TIGHTS | j.A.C.k Show | July 9th 2026",
+      "confidence": 0.97,
+      "status": "confirmed",
+      "evidence_id": "7f443828fe28284ae7"
+    }
+  ]
+}

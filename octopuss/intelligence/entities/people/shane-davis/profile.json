@@ -1,0 +1,37 @@
+{
+  "entity_id": "shane-davis",
+  "canonical_name": "Shane Davis",
+  "entity_type": "person_or_persona",
+  "status": "confirmed",
+  "auto_detected": false,
+  "first_seen": "2026-06-29T10:15:38+00:00",
+  "last_seen": "2026-07-15T03:34:34+00:00",
+  "mention_count": 464,
+  "independent_sources": 7,
+  "video_count": 27,
+  "confidence": 1.0,
+  "updated_at": "2026-07-16T22:23:32.026712+00:00",
+  "schema_version": "octopuss-deep-entity-profile-v1",
+  "aliases": [
+    "Shane Davis",
+    "Shane"
+  ],
+  "nationality": null,
+  "pronunciation": null,
+  "description": null,
+  "mention_evidence_count": 443,
+  "mention_video_count": 27,
+  "independent_source_count": 7,
+  "mentioning_sources": [
+    "Commi3 Mark",
+    "Ethan Van Sciver",
+    "FFS Cast",
+    "Frog Tony",
+    "KatyDid",
+    "Ministry of Dude",
+    "Shane Davis"
+  ],
+  "profile_completeness": 10,
+  "last_deep_build": "2026-07-16T22:23:49.467031+00:00",
+  "manual_notes": []
+}

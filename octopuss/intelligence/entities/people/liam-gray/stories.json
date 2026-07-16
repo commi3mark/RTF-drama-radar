@@ -1,0 +1,137 @@
+{
+  "entity_id": "liam-gray",
+  "updated_at": "2026-07-16T22:23:49.467031+00:00",
+  "stories_and_narratives": [
+    {
+      "story_or_narrative": "channel",
+      "observation_count": 79,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "comic",
+      "observation_count": 58,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "drama",
+      "observation_count": 44,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "YouTube",
+      "observation_count": 33,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "Rippaverse",
+      "observation_count": 32,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "ComicsGate",
+      "observation_count": 29,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "Twitter",
+      "observation_count": 25,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "strike",
+      "observation_count": 23,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "campaign",
+      "observation_count": 13,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "audience",
+      "observation_count": 10,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "ComicsGate Kings",
+      "observation_count": 8,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "copyright",
+      "observation_count": 7,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "Kick",
+      "observation_count": 6,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "lawsuit",
+      "observation_count": 5,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "X",
+      "observation_count": 5,
+      "status": "topic_cluster_candidate"
+    },
+    {
+      "story_or_narrative": "The Ark Of Leem, LDA-King Stream",
+      "observation_count": 212,
+      "status": "recurring_title_cluster"
+    },
+    {
+      "story_or_narrative": "Finbarr STOMPS A Dwarf! - OPEN PANEL MADHOUSE!!!!",
+      "observation_count": 162,
+      "status": "recurring_title_cluster"
+    },
+    {
+      "story_or_narrative": "It's OFFICIAL! TRASHCAST FIRES CHRISSIE MAYR! ERICHETTE JULY on \"WOKE\"! LANTERNS Spoilers?!",
+      "observation_count": 133,
+      "status": "recurring_title_cluster"
+    },
+    {
+      "story_or_narrative": "Gabbing With Ga......You Know",
+      "observation_count": 122,
+      "status": "recurring_title_cluster"
+    },
+    {
+      "story_or_narrative": "Cynic Got CATFISHED And EVS Continues To SPIRAL On Thirsty Thursday!",
+      "observation_count": 92,
+      "status": "recurring_title_cluster"
+    },
+    {
+      "story_or_narrative": "You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST !!! Sturgis goes to PokePark Kanto!",
+      "observation_count": 88,
+      "status": "recurring_title_cluster"
+    },
+    {
+      "story_or_narrative": "Gabbing With Ga......You know",
+      "observation_count": 74,
+      "status": "recurring_title_cluster"
+    },
+    {
+      "story_or_narrative": "Checking In On The LATE Campaigns Of EVS! - OPEN PANEL MADHOUSE!",
+      "observation_count": 54,
+      "status": "recurring_title_cluster"
+    },
+    {
+      "story_or_narrative": "Sturgis Went To Japan On Thirsty Thursday!",
+      "observation_count": 54,
+      "status": "recurring_title_cluster"
+    },
+    {
+      "story_or_narrative": "Under New Management",
+      "observation_count": 44,
+      "status": "recurring_title_cluster"
+    }
+  ],
+  "narrative_signals": {
+    "positive_language_count": 203,
+    "negative_language_count": 97,
+    "conflict_language_count": 163,
+    "status": "rough_context_signal_not_sentiment_classification"
+  }
+}

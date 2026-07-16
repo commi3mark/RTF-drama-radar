@@ -1,0 +1,71 @@
+{
+  "entity_id": "dino-king",
+  "updated_at": "2026-07-16T20:43:28.127248+00:00",
+  "candidate_associates": [
+    {
+      "name": "Liam",
+      "entity_id": "liam",
+      "relationship_type": "co_mentioned",
+      "observation_count": 14,
+      "status": "candidate"
+    },
+    {
+      "name": "Liam Gray",
+      "entity_id": "liam-gray",
+      "relationship_type": "co_mentioned",
+      "observation_count": 5,
+      "status": "candidate"
+    },
+    {
+      "name": "Xenotype",
+      "entity_id": "xenotype",
+      "relationship_type": "co_mentioned",
+      "observation_count": 3,
+      "status": "candidate"
+    },
+    {
+      "name": "Marvel",
+      "entity_id": "marvel",
+      "relationship_type": "co_mentioned",
+      "observation_count": 3,
+      "status": "candidate"
+    },
+    {
+      "name": "Cecil",
+      "entity_id": "cecil",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "When",
+      "entity_id": "when",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    },
+    {
+      "name": "Little Boy Island",
+      "entity_id": "little-boy-island",
+      "relationship_type": "co_mentioned",
+      "observation_count": 2,
+      "status": "candidate"
+    }
+  ],
+  "candidate_topics": [
+    {
+      "value": "Finbarr STOMPS A Dwarf! - OPEN PANEL MADHOUSE",
+      "observation_count": 5,
+      "status": "candidate"
+    },
+    {
+      "value": "CG AFTER DARK #35",
+      "observation_count": 1,
+      "status": "candidate"
+    }
+  ],
+  "candidate_websites": [],
+  "candidate_socials": [],
+  "candidate_emails": [],
+  "candidate_appearances": []
+}

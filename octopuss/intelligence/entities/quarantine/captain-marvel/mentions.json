@@ -1,0 +1,49 @@
+{
+  "entity_id": "captain-marvel",
+  "updated_at": "2026-07-16T20:43:28.127248+00:00",
+  "count": 3,
+  "mentions": [
+    {
+      "mention_id": "46e79a04a54f2dc99a",
+      "video_id": "48LzjbOACy8",
+      "source": "Shane Davis",
+      "title": "Heather Antos Tries to Cancel John Byrne’s X-Men… It Sells Out & Hits $100 on eBay!",
+      "published": "2026-06-30T10:15:20+00:00",
+      "timestamp_seconds": 342.52,
+      "timestamp_url": "https://www.youtube.com/watch?v=48LzjbOACy8&t=342s",
+      "matched_alias": "Captain Marvel",
+      "context": "Marvel number ones. No matter how many times people would buy that book, they would always go to bat for Ms. Marvel, Captain Marvel, all of this stuff. Even in their shows. I mean, the company can't retract, okay? Because then they're phobic. You know, right here",
+      "confidence": 0.97,
+      "status": "confirmed",
+      "evidence_id": "46e79a04a54f2dc99a"
+    },
+    {
+      "mention_id": "2d0ffdb60f06fffc86",
+      "video_id": "qLcrzaJJKiQ",
+      "source": "Frog Tony",
+      "title": "Supergirl BOMBED! - Comicsgate Suburbs",
+      "published": "2026-06-29T04:12:59+00:00",
+      "timestamp_seconds": 5619.28,
+      "timestamp_url": "https://www.youtube.com/watch?v=qLcrzaJJKiQ&t=5619s",
+      "matched_alias": "Captain Marvel",
+      "context": "they're talking about. Like keeping me in the dark does not make the comic better, right? Me going, \"Oh, the CRE are planning to kidnap Captain Marvel and extract her powers to power their new [ __ ] uh instant kill cannon.\" I go, \"That's cool.\" Me just hearing a",
+      "confidence": 0.97,
+      "status": "confirmed",
+      "evidence_id": "2d0ffdb60f06fffc86"
+    },
+    {
+      "mention_id": "f5884af81bb5ef667b",
+      "video_id": "rXQ0RozGVWg",
+      "source": "Frog Tony",
+      "title": "Detractor Kings Is DEAD! Long Live The Geek Getaway!",
+      "published": "2026-07-14T04:09:11+00:00",
+      "timestamp_seconds": 8119.44,
+      "timestamp_url": "https://www.youtube.com/watch?v=rXQ0RozGVWg&t=8119s",
+      "matched_alias": "Captain Marvel",
+      "context": ">> bro. Uh, Marvel [ __ ] up the Novaore all for Captain Feminism because Nova and the Ravagers were supposed to show up in Endgame, not Captain Marvel. I mean, uh, didn't they pretty much get rid of all the Novaore though in the, uh, second Guardians movie?",
+      "confidence": 0.97,
+      "status": "confirmed",
+      "evidence_id": "f5884af81bb5ef667b"
+    }
+  ]
+}

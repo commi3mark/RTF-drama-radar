@@ -1,0 +1,14 @@
+{
+  "entity_id": "gideon-james",
+  "updated_at": "2026-07-16T20:43:28.127248+00:00",
+  "power_level": 11,
+  "band": "low",
+  "components": {
+    "reach": 8,
+    "activity": 0,
+    "network": 14,
+    "narrative_presence": 21
+  },
+  "status": "provisional_automated_assessment",
+  "explanation": "Calculated only from the current Drama Radar and transcript corpus."
+}
