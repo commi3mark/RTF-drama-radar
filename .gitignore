@@ -1,36 +1,7 @@
-# Python-generated files
 __pycache__/
-*.py[cod]
-.pytest_cache/
-.mypy_cache/
-
-# Virtual environments
-.venv/
-venv/
-env/
-
-# Editor and operating-system clutter
-.vscode/
-.idea/
-.DS_Store
-Thumbs.db
-Desktop.ini
-
-# Temporary and backup files
-*.tmp
-*.bak
-*.old
-* - Copy.py
-*.backup-*
-
-# Runtime caches
-cache/
-.cache/
-
-# Runtime logs
-logs/*.log
-logs/*.txt
-
-# Machine-specific transient state
-state/transcript-cooldown.json
-state/lock.json
+*.pyc
+radar/brain/radar.lock
+radar/brain/latest-run.log
+radar/brain/last-run.json
+radar/brain/transcript-cooldown.json
+radar/brain/transcript-retries.json

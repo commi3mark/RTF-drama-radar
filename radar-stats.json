@@ -1,0 +1,210 @@
+{
+  "updated_at": "2026-07-16T18:38:49.069942+00:00",
+  "health": {
+    "status": "degraded",
+    "summary": "169 YouTube detections are awaiting transcripts.",
+    "scan": "healthy",
+    "transcripts": "degraded",
+    "archive": "healthy",
+    "validation": "healthy"
+  },
+  "last_scan": {
+    "runner": "local",
+    "started_at": "2026-07-16T18:36:06.355938+00:00",
+    "finished_at": "2026-07-16T18:36:13.676314+00:00",
+    "duration_seconds": 7.32,
+    "new_detections": 69,
+    "sweep_number": 1,
+    "status": "healthy"
+  },
+  "last_transcript_run": {
+    "runner": "stalinvo",
+    "started_at": "2026-07-16T18:36:40.888478+00:00",
+    "finished_at": "2026-07-16T18:38:49.062502+00:00",
+    "duration_seconds": 128.17,
+    "attempts": 10,
+    "new_transcripts": 10,
+    "failed": 0,
+    "unavailable": 0,
+    "retry_count": 0,
+    "linked": 157,
+    "blocked": false,
+    "eligible_before_limit": 96,
+    "remaining_after_run": 86,
+    "status": "healthy",
+    "results": {
+      "saved": [
+        {
+          "video_id": "_imZdqQPbcA",
+          "source": "Elissa Clips",
+          "title": "Nerdrotic: Chrissie Mayr Was Not Cancelled, Chrissie Was Let Go (Jul 15, 2026)"
+        },
+        {
+          "video_id": "Ih5iIyzDGmE",
+          "source": "Elissa Clips",
+          "title": "Rekieta Law Argues Semantics re the Daily Mail Article - Lolsuit Incoming? (Jul 2026)"
+        },
+        {
+          "video_id": "fnfDfmsz28k",
+          "source": "Elissa Clips",
+          "title": "TheQuartering REALLY Needs Your Support & How to Fart in Public (Jul 15, 2026)"
+        },
+        {
+          "video_id": "UdtYoLg9Rgc",
+          "source": "KatyDid",
+          "title": "\"YOU SORTA EVOLVED YOURSELF INTO THIS\" | @JJTWrites vs Liam Gray?????? | July 16th, 2026"
+        },
+        {
+          "video_id": "lGq6KZyTDsQ",
+          "source": "Elissa Clips",
+          "title": "Kurt Metzger Roasting Jeremy Hambly TheQuartering on The Jimmy Dore Show 2025-2026"
+        },
+        {
+          "video_id": "74fkvX-4ghg",
+          "source": "Elissa Clips",
+          "title": "Terminally Online Weirdo TheQuartering Exposes His Own Coffee Lies, Grifts, and Scams"
+        },
+        {
+          "video_id": "K3-kPLKmbpA",
+          "source": "Shane Davis",
+          "title": "Comic Book Pervert Andrew Farago Arrested for Videotaping Guests on Toilet!"
+        },
+        {
+          "video_id": "K2MVOab_Jdc",
+          "source": "Liam Gray",
+          "title": "[Pilot_E02]: The Intruder"
+        },
+        {
+          "video_id": "48LzjbOACy8",
+          "source": "Shane Davis",
+          "title": "Heather Antos Tries to Cancel John Byrne’s X-Men… It Sells Out & Hits $100 on eBay!"
+        },
+        {
+          "video_id": "BL9WKiYeI2A",
+          "source": "Shane Davis",
+          "title": "HARD ART!  #31"
+        }
+      ],
+      "unavailable": [],
+      "retry": []
+    }
+  },
+  "detections": {
+    "total": 501,
+    "new_this_run": 69,
+    "by_platform": {
+      "YouTube": 344,
+      "Substack": 52,
+      "Google Alerts": 105
+    }
+  },
+  "transcripts": {
+    "downloaded_total": 91,
+    "downloaded_this_run": 10,
+    "linked_to_live_feed": 157,
+    "awaiting_collection": 169,
+    "unavailable": 18,
+    "coverage_percent": 45.6,
+    "retry_queue": 0,
+    "automatic_recovery_enabled": true
+  },
+  "sources": {
+    "configured": 29,
+    "enabled": 28,
+    "successful": 28,
+    "failed": 0,
+    "items_read": 311,
+    "failures": []
+  },
+  "archive": {
+    "updated_at": "2026-07-16T18:36:13.662922+00:00",
+    "months": [
+      {
+        "month": "2024-08",
+        "items": 2,
+        "path": "2024-08.json"
+      },
+      {
+        "month": "2024-12",
+        "items": 1,
+        "path": "2024-12.json"
+      },
+      {
+        "month": "2025-03",
+        "items": 3,
+        "path": "2025-03.json"
+      },
+      {
+        "month": "2025-05",
+        "items": 1,
+        "path": "2025-05.json"
+      },
+      {
+        "month": "2025-07",
+        "items": 1,
+        "path": "2025-07.json"
+      },
+      {
+        "month": "2025-08",
+        "items": 2,
+        "path": "2025-08.json"
+      },
+      {
+        "month": "2025-10",
+        "items": 1,
+        "path": "2025-10.json"
+      },
+      {
+        "month": "2025-11",
+        "items": 1,
+        "path": "2025-11.json"
+      },
+      {
+        "month": "2025-12",
+        "items": 1,
+        "path": "2025-12.json"
+      },
+      {
+        "month": "2026-01",
+        "items": 1,
+        "path": "2026-01.json"
+      },
+      {
+        "month": "2026-02",
+        "items": 4,
+        "path": "2026-02.json"
+      },
+      {
+        "month": "2026-03",
+        "items": 5,
+        "path": "2026-03.json"
+      },
+      {
+        "month": "2026-04",
+        "items": 6,
+        "path": "2026-04.json"
+      },
+      {
+        "month": "2026-05",
+        "items": 25,
+        "path": "2026-05.json"
+      },
+      {
+        "month": "2026-06",
+        "items": 88,
+        "path": "2026-06.json"
+      },
+      {
+        "month": "2026-07",
+        "items": 429,
+        "path": "2026-07.json"
+      }
+    ],
+    "month_count": 16,
+    "total_archived_detections": 571
+  },
+  "warnings": [
+    "169 YouTube detections are awaiting transcripts."
+  ],
+  "errors": []
+}

@@ -1,0 +1,52 @@
+========================================================================
+TRANSCRIPT RECOVERY COMPLETE
+========================================================================
+
+STATUS
+  DEGRADED
+  186 YouTube detections are awaiting transcripts.
+
+LAST RADAR SCAN
+  New detections: +311
+  Sources online: 28 / 28
+
+LAST TRANSCRIPT RUN
+  New transcripts: +5
+  Attempts: 10
+  Unavailable: 4
+  Retry later: 1
+
+LIVE DATABASE
+  Detections: 500
+  Transcripts: 81
+  Awaiting transcripts: 186
+  Transcript coverage: 40.5%
+
+ARCHIVE
+  Months: [{'month': '2026-06', 'items': 73, 'path': '2026-06.json'}, {'month': '2026-07', 'items': 428, 'path': '2026-07.json'}]
+  Archived detections: 0
+
+NEW TRANSCRIPTS
+  - Frog Tony: Channel Update And New Stream Schedule!
+  - Frog Tony: Detractor Kings Is DEAD! Long Live The Geek Getaway!
+  - Elissa Clips: Meme Copium: The 50 Year Nickayla Rekieta Butthurt HRO Against Aaron Imholte (Jul 13, 2026)
+  - Elissa Clips: TONIGHT ON KINO CASINO!! TheQuartering Ren Fair Hoax & FNT Freak Out! Styx! Angry Joe! DBDR & More!!
+  - Elissa Clips: Rekieta Law Cant Figure Out Why Nobody Likes Him Anymore - Rewriting History w/ Potentially Criminal
+
+UNAVAILABLE
+  - Ethan Van Sciver: I TOLD YOU!  EMERGENCY TRASHCAST # 270! I was right again! (TranscriptsDisabled)
+  - Frog Tony: Members Only Hangout (VideoUnplayable)
+  - KatyDid: Good Morning ComicsGate #98 (TranscriptsDisabled)
+  - KatyDid: Good Morning ComicsGate #99 (TranscriptsDisabled)
+
+RETRY LATER
+  - Frog Tony: No More Physical Media! - Gabbing With Geeks (VideoUnplayable)
+
+WARNINGS
+  - 186 YouTube detections are awaiting transcripts.
+
+NEXT ACTION
+  Run GET TRANSCRIPTS on Stalinvo when convenient.
+
+Runtime: 107.2 seconds
+========================================================================

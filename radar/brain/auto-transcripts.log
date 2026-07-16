@@ -1,0 +1,18 @@
+[2026-07-16 19:21:47 GMT Summer Time] Automatic transcript recovery started.
+Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+Deprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above
+GIT: This folder is not yet connected to a repository; running locally only.
+Eligible queue: 96 (run limit 10)
+
+TRANSCRIPT RECOVERY
+Traceback (most recent call last):
+  File "C:\AI\DRAMA-RADAR-MK2\transcripts\get_transcripts.py", line 389, in <module>
+    raise SystemExit(main())
+  File "C:\AI\DRAMA-RADAR-MK2\transcripts\get_transcripts.py", line 233, in main
+    progress("Recovering transcript", number - 1, len(queue), f"{item.get('source')} • {item.get('title')}", started)
+  File "C:\AI\DRAMA-RADAR-MK2\radar\console.py", line 19, in progress
+    print(f"[{bar(current, total)}] {current}/{total}  {label}{suffix}{elapsed}", flush=True)
+  File "C:\Program Files\Python310\lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 1-28: character maps to <undefined>
+[2026-07-16 19:21:50 GMT Summer Time] Automatic transcript recovery finished with exit code 1.

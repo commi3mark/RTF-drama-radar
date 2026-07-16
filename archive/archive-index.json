@@ -1,0 +1,87 @@
+{
+  "updated_at": "2026-07-16T18:36:13.662922+00:00",
+  "months": [
+    {
+      "month": "2024-08",
+      "items": 2,
+      "path": "2024-08.json"
+    },
+    {
+      "month": "2024-12",
+      "items": 1,
+      "path": "2024-12.json"
+    },
+    {
+      "month": "2025-03",
+      "items": 3,
+      "path": "2025-03.json"
+    },
+    {
+      "month": "2025-05",
+      "items": 1,
+      "path": "2025-05.json"
+    },
+    {
+      "month": "2025-07",
+      "items": 1,
+      "path": "2025-07.json"
+    },
+    {
+      "month": "2025-08",
+      "items": 2,
+      "path": "2025-08.json"
+    },
+    {
+      "month": "2025-10",
+      "items": 1,
+      "path": "2025-10.json"
+    },
+    {
+      "month": "2025-11",
+      "items": 1,
+      "path": "2025-11.json"
+    },
+    {
+      "month": "2025-12",
+      "items": 1,
+      "path": "2025-12.json"
+    },
+    {
+      "month": "2026-01",
+      "items": 1,
+      "path": "2026-01.json"
+    },
+    {
+      "month": "2026-02",
+      "items": 4,
+      "path": "2026-02.json"
+    },
+    {
+      "month": "2026-03",
+      "items": 5,
+      "path": "2026-03.json"
+    },
+    {
+      "month": "2026-04",
+      "items": 6,
+      "path": "2026-04.json"
+    },
+    {
+      "month": "2026-05",
+      "items": 25,
+      "path": "2026-05.json"
+    },
+    {
+      "month": "2026-06",
+      "items": 88,
+      "path": "2026-06.json"
+    },
+    {
+      "month": "2026-07",
+      "items": 429,
+      "path": "2026-07.json"
+    }
+  ],
+  "month_count": 16,
+  "total_archived_detections": 571
+}
