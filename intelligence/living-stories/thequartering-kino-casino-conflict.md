@@ -1,8 +1,8 @@
 # TheQuartering / Kino Casino conflict
 
 - **Status:** active
-- **Current phase:** breaking
-- **Heat:** 47.1/100
+- **Current phase:** developing
+- **Heat:** 41.4/100
 - **Last updated:** 2026-07-15T00:23:47+00:00
 
 ## Current picture

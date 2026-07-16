@@ -3,17 +3,34 @@
   "story_id": "liam-gray-comicsgate-dispute",
   "title": "Liam Gray / ComicsGate dispute",
   "status": "active",
-  "current_phase": "developing",
+  "current_phase": "breaking",
   "heat": {
     "heat": 100.0,
-    "recent_24h": 0,
-    "recent_72h": 1,
-    "unique_sources": 2,
+    "recent_24h": 1,
+    "recent_72h": 2,
+    "unique_sources": 3,
     "transcript_evidence_items": 9
   },
-  "last_updated": "2026-07-14T14:43:34+00:00",
-  "current_picture": "Ministry of Dude substantially discussed Aaron Imholte in “Steel Toe gets hit with his very own HRO | #936”.",
+  "last_updated": "2026-07-15T15:48:32+00:00",
+  "current_picture": "Ethan Van Sciver published “Liam Gray sends a &quot;Legal Notice&quot; to <b>Ethan Van Sciver</b>. - YouTube”, a new lead awaiting transcript-level confirmation. Ministry of Dude substantially discussed Aaron Imholte in “Steel Toe gets hit with his very own HRO | #936”.",
   "developments": [
+    {
+      "development_id": "3ad4aa4cf57f64f376cc",
+      "kind": "radar_lead",
+      "evidence_status": "metadata_lead",
+      "match_confidence": 0.35,
+      "match_reasons": [
+        "keyword overlap: ethan, gray, liam, sciver, van"
+      ],
+      "published": "2026-07-15T15:48:32+00:00",
+      "source": "Ethan Van Sciver",
+      "title": "Liam Gray sends a &quot;Legal Notice&quot; to <b>Ethan Van Sciver</b>. - YouTube",
+      "video_id": null,
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DHRlgnhRariA&ct=ga&cd=CAIyGjA0YjVlMjA1Y2E1ZjI2ZTE6Y29tOmVuOlVT&usg=AOvVaw3ydIoBlRTHbnbVBpnVjTuL",
+      "description": "Liam Gray sends a &quot;Legal Notice&quot; to <b>Ethan Van Sciver</b>. @cgwatcher-d9rNo likes1 view10 minutes ago more. Subscribe. Comments. Comment.",
+      "transcript_status": "not_applicable",
+      "receipts": []
+    },
     {
       "development_id": "797dd5d9a6b791bce63e",
       "kind": "transcript_evidence",
@@ -822,8 +839,8 @@
   ],
   "entity_counts": {
     "KatyDid": 14,
+    "Ethan Van Sciver": 8,
     "Liam Gray": 8,
-    "Ethan Van Sciver": 7,
     "Ministry of Dude": 4,
     "Vito Gesualdi": 3,
     "ComicsGate": 3,
@@ -840,5 +857,5 @@
   },
   "unresolved_questions": [],
   "canonical_story_path": "intelligence/stories/liam-gray-comicsgate-dispute.json",
-  "generated_at": "2026-07-15T22:03:30.233349+00:00"
+  "generated_at": "2026-07-16T11:42:23.081799+00:00"
 }

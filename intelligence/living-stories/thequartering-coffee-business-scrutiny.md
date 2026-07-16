@@ -1,8 +1,8 @@
 # TheQuartering coffee-business scrutiny and expansion
 
 - **Status:** active
-- **Current phase:** breaking
-- **Heat:** 100.0/100
+- **Current phase:** developing
+- **Heat:** 83.7/100
 - **Last updated:** 2026-07-15T00:23:47+00:00
 
 ## Current picture

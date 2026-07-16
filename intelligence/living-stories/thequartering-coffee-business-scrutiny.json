@@ -3,10 +3,10 @@
   "story_id": "thequartering-coffee-business-scrutiny",
   "title": "TheQuartering coffee-business scrutiny and expansion",
   "status": "active",
-  "current_phase": "breaking",
+  "current_phase": "developing",
   "heat": {
-    "heat": 100.0,
-    "recent_24h": 2,
+    "heat": 83.7,
+    "recent_24h": 0,
     "recent_72h": 3,
     "unique_sources": 1,
     "transcript_evidence_items": 6
@@ -258,5 +258,5 @@
   },
   "unresolved_questions": [],
   "canonical_story_path": "intelligence/stories/thequartering-coffee-business-scrutiny.json",
-  "generated_at": "2026-07-15T22:03:30.248967+00:00"
+  "generated_at": "2026-07-16T11:42:23.088218+00:00"
 }

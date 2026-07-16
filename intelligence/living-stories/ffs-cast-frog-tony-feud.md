@@ -1,7 +1,7 @@
 # FFS Cast / Frog Tony feud
 
 - **Status:** active
-- **Current phase:** breaking
+- **Current phase:** developing
 - **Heat:** 100.0/100
 - **Last updated:** 2026-07-15T03:34:34+00:00
 

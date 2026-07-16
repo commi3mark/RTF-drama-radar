@@ -1,15 +1,22 @@
 # Liam Gray / ComicsGate dispute
 
 - **Status:** active
-- **Current phase:** developing
+- **Current phase:** breaking
 - **Heat:** 100.0/100
-- **Last updated:** 2026-07-14T14:43:34+00:00
+- **Last updated:** 2026-07-15T15:48:32+00:00
 
 ## Current picture
 
-Ministry of Dude substantially discussed Aaron Imholte in “Steel Toe gets hit with his very own HRO | #936”.
+Ethan Van Sciver published “Liam Gray sends a &quot;Legal Notice&quot; to <b>Ethan Van Sciver</b>. - YouTube”, a new lead awaiting transcript-level confirmation. Ministry of Dude substantially discussed Aaron Imholte in “Steel Toe gets hit with his very own HRO | #936”.
 
 ## Latest developments
+
+### 2026-07-15T15:48:32+00:00 — Ethan Van Sciver
+
+**Liam Gray sends a &quot;Legal Notice&quot; to <b>Ethan Van Sciver</b>. - YouTube** — metadata lead; match 35%
+
+Source: https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DHRlgnhRariA&ct=ga&cd=CAIyGjA0YjVlMjA1Y2E1ZjI2ZTE6Y29tOmVuOlVT&usg=AOvVaw3ydIoBlRTHbnbVBpnVjTuL
+
 
 ### 2026-07-14T14:43:34+00:00 — Ministry of Dude
 
@@ -116,8 +123,8 @@ Source: https://www.youtube.com/watch?v=7JzZNez4ZBE
 ## People and shows in this story
 
 - **KatyDid:** 14 supporting items
+- **Ethan Van Sciver:** 8 supporting items
 - **Liam Gray:** 8 supporting items
-- **Ethan Van Sciver:** 7 supporting items
 - **Ministry of Dude:** 4 supporting items
 - **Vito Gesualdi:** 3 supporting items
 - **ComicsGate:** 3 supporting items

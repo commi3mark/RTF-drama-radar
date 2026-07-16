@@ -3,17 +3,51 @@
   "story_id": "back-me-bro-launch",
   "title": "Shane Davis — Back Me Bro launch",
   "status": "active",
-  "current_phase": "breaking",
+  "current_phase": "developing",
   "heat": {
     "heat": 100.0,
-    "recent_24h": 1,
+    "recent_24h": 0,
     "recent_72h": 9,
     "unique_sources": 11,
     "transcript_evidence_items": 41
   },
-  "last_updated": "2026-07-15T03:34:34+00:00",
-  "current_picture": "FFS Cast substantially discussed Frog Tony, Liam Gray, Shane Davis, Ethan Van Sciver in “Gabbing With Ga......You know”. Frog Tony published “Liam Gray sends a &quot;Legal Notice&quot; to Ethan Van Sciver.”, a new lead awaiting transcript-level confirmation. Ethan Van Sciver substantially discussed Ethan Van Sciver, Chrissie Mayr, Shane Davis, Sturgis in “#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!”. Ya Boi Zack added transcript-backed discussion in “EVEN A STOPPED CLOCK IS CORRECT TWICE A DAY- Deniz Camp ACCURATELY Describes Right-Wing Comics Sites”. Shane Davis added transcript-backed discussion in “Netflix NEEDS God! They Want Christian Viewers NOW?!”.",
+  "last_updated": "2026-07-15T05:14:43+00:00",
+  "current_picture": "Ethan Van Sciver published “Throat Goat <b>Ethan Van Sciver</b> looking to play the martyr and possibly back out of ...”, a new lead awaiting transcript-level confirmation. Ethan Van Sciver published “Throat Goat <b>Ethan Van Sciver</b> on his efforts to protect Back Me Bro/BackDoorMeBro from scrutiny.”, a new lead awaiting transcript-level confirmation. FFS Cast substantially discussed Frog Tony, Liam Gray, Shane Davis, Ethan Van Sciver in “Gabbing With Ga......You know”. Ethan Van Sciver published “Throat Goat <b>Ethan Van Sciver</b> is hoping to return to &quot;2018 comicsgate&quot; with Back Me Bro ...”, a new lead awaiting transcript-level confirmation. Ethan Van Sciver published “Listen carefully to this clip. Throat Goat <b>Ethan Van Sciver</b> leaks that Chicken Bitch Shane ...”, a new lead awaiting transcript-level confirmation.",
   "developments": [
+    {
+      "development_id": "cd03a3c93e087244e8b0",
+      "kind": "radar_lead",
+      "evidence_status": "metadata_lead",
+      "match_confidence": 0.35,
+      "match_reasons": [
+        "keyword overlap: back, ethan, sciver, van"
+      ],
+      "published": "2026-07-15T05:14:43+00:00",
+      "source": "Ethan Van Sciver",
+      "title": "Throat Goat <b>Ethan Van Sciver</b> looking to play the martyr and possibly back out of ...",
+      "video_id": null,
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/GeekyBoarders/status/2077149366091985281&ct=ga&cd=CAIyGjA0YjVlMjA1Y2E1ZjI2ZTE6Y29tOmVuOlVT&usg=AOvVaw3Xs70yFadALJHboOjDGzWU",
+      "description": "GeekyBoarders (@GeekyBoarders). 17 likes 5 replies 850 views. Throat Goat <b>Ethan Van Sciver</b> looking to play the martyr and possibly back out of&nbsp;...",
+      "transcript_status": "not_applicable",
+      "receipts": []
+    },
+    {
+      "development_id": "a4eb107a322534b6140d",
+      "kind": "radar_lead",
+      "evidence_status": "metadata_lead",
+      "match_confidence": 0.35,
+      "match_reasons": [
+        "keyword overlap: back, bro, ethan, sciver, van"
+      ],
+      "published": "2026-07-15T05:14:43+00:00",
+      "source": "Ethan Van Sciver",
+      "title": "Throat Goat <b>Ethan Van Sciver</b> on his efforts to protect Back Me Bro/BackDoorMeBro from scrutiny.",
+      "video_id": null,
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/GeekyBoarders/status/2077164639360528578&ct=ga&cd=CAIyGjA0YjVlMjA1Y2E1ZjI2ZTE6Y29tOmVuOlVT&usg=AOvVaw1Ct3ruK_GjlwTNM5A9hbKc",
+      "description": "GeekyBoarders (@GeekyBoarders). 12 likes 3 replies 591 views. Throat Goat <b>Ethan Van Sciver</b> on his efforts to protect Back Me Bro/BackDoorMeBro&nbsp;...",
+      "transcript_status": "not_applicable",
+      "receipts": []
+    },
     {
       "development_id": "8f3d21488700195f568c",
       "kind": "transcript_evidence",
@@ -285,6 +319,57 @@
           "excerpt": "t's the same [ __ ] >> Like you would have fans you would have people who like appreciated what you guys did if you weren't so aggressively hostile. And if you looked at like what Eric July did, like you know the one good thing Eric did was he just kind of went okay now I the owner of a multi-million dollar business so I got to move differently. It is and it's like u"
         }
       ]
+    },
+    {
+      "development_id": "5b6e016e0a6e125b0c61",
+      "kind": "radar_lead",
+      "evidence_status": "metadata_lead",
+      "match_confidence": 0.35,
+      "match_reasons": [
+        "keyword overlap: back, bro, ethan, sciver, van"
+      ],
+      "published": "2026-07-15T01:54:38+00:00",
+      "source": "Ethan Van Sciver",
+      "title": "Throat Goat <b>Ethan Van Sciver</b> is hoping to return to &quot;2018 comicsgate&quot; with Back Me Bro ...",
+      "video_id": null,
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/GeekyBoarders/status/2077194120079020236&ct=ga&cd=CAIyGjA0YjVlMjA1Y2E1ZjI2ZTE6Y29tOmVuOlVT&usg=AOvVaw0Z76ewrZh--hY_sLedhWZb",
+      "description": "GeekyBoarders (@GeekyBoarders). 8 likes 4 replies 82 views. Throat Goat <b>Ethan Van Sciver</b> is hoping to return to &quot;2018 comicsgate&quot; with Back Me&nbsp;...",
+      "transcript_status": "not_applicable",
+      "receipts": []
+    },
+    {
+      "development_id": "510201ea4f8dc8368bdf",
+      "kind": "radar_lead",
+      "evidence_status": "metadata_lead",
+      "match_confidence": 0.35,
+      "match_reasons": [
+        "keyword overlap: ethan, sciver, shane, van"
+      ],
+      "published": "2026-07-14T23:37:12+00:00",
+      "source": "Ethan Van Sciver",
+      "title": "Listen carefully to this clip. Throat Goat <b>Ethan Van Sciver</b> leaks that Chicken Bitch Shane ...",
+      "video_id": null,
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/GeekyBoarders/status/2077160473460428947&ct=ga&cd=CAIyGjA0YjVlMjA1Y2E1ZjI2ZTE6Y29tOmVuOlVT&usg=AOvVaw3p2c4ACtSlKOTpNnX98BLE",
+      "description": "GeekyBoarders (@GeekyBoarders). 10 likes 3 replies 229 views. Listen carefully to this clip. Throat Goat <b>Ethan Van Sciver</b> leaks that Chicken Bitch&nbsp;...",
+      "transcript_status": "not_applicable",
+      "receipts": []
+    },
+    {
+      "development_id": "5dc88446afa2d05f699d",
+      "kind": "radar_lead",
+      "evidence_status": "metadata_lead",
+      "match_confidence": 0.35,
+      "match_reasons": [
+        "keyword overlap: back, bro, ethan, sciver, van"
+      ],
+      "published": "2026-07-14T23:15:26+00:00",
+      "source": "Ethan Van Sciver",
+      "title": "<b>Ethan Van Sciver's</b> Efforts to Protect Back Me Bro from Criticism - YouTube",
+      "video_id": null,
+      "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DRjxgNNuiyf0&ct=ga&cd=CAIyGjA0YjVlMjA1Y2E1ZjI2ZTE6Y29tOmVuOlVT&usg=AOvVaw2isws1EpJXyYLWuXSIqhlA",
+      "description": "<b>Ethan Van Sciver's</b> Efforts to Protect Back Me Bro from Criticism. @GeekyBoardersNo likesNo views19 minutes ago",
+      "transcript_status": "not_applicable",
+      "receipts": []
     },
     {
       "development_id": "4bf9e7d98b0b78bbea98",
@@ -6074,7 +6159,7 @@
     }
   ],
   "entity_counts": {
-    "Ethan Van Sciver": 52,
+    "Ethan Van Sciver": 57,
     "Frog Tony": 50,
     "Liam Gray": 30,
     "Shane Davis": 27,
@@ -6102,5 +6187,5 @@
   },
   "unresolved_questions": [],
   "canonical_story_path": "intelligence/stories/back-me-bro-launch.json",
-  "generated_at": "2026-07-15T22:03:30.202079+00:00"
+  "generated_at": "2026-07-16T11:42:23.057467+00:00"
 }

@@ -3,10 +3,10 @@
   "story_id": "ffs-cast-frog-tony-feud",
   "title": "FFS Cast / Frog Tony feud",
   "status": "active",
-  "current_phase": "breaking",
+  "current_phase": "developing",
   "heat": {
     "heat": 100.0,
-    "recent_24h": 1,
+    "recent_24h": 0,
     "recent_72h": 1,
     "unique_sources": 7,
     "transcript_evidence_items": 20
@@ -3257,5 +3257,5 @@
   },
   "unresolved_questions": [],
   "canonical_story_path": "intelligence/stories/ffs-cast-frog-tony-feud.json",
-  "generated_at": "2026-07-15T22:03:30.233349+00:00"
+  "generated_at": "2026-07-16T11:42:23.075322+00:00"
 }

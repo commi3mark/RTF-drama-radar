@@ -1,5 +1,5 @@
 {
-  "completed_at": "2026-07-15T21:45:42.939943+00:00",
+  "completed_at": "2026-07-15T22:03:34.733431+00:00",
   "status": "HEALTHY",
   "run_type": "DRAMA RADAR — COMPLETE RUN",
   "radar_entries": 227,
@@ -16,53 +16,53 @@
   "stages": [
     {
       "name": "Source collection",
-      "return_code": 0,
-      "duration_seconds": 7.0
+      "return_code": 2,
+      "duration_seconds": 0.53
     },
     {
       "name": "Transcript download",
       "return_code": 0,
-      "duration_seconds": 0.23
+      "duration_seconds": 0.36
     },
     {
       "name": "Transcript index",
       "return_code": 0,
-      "duration_seconds": 0.25
+      "duration_seconds": 0.3
     },
     {
       "name": "OCTOPUSS evidence packets",
       "return_code": 0,
-      "duration_seconds": 0.19
+      "duration_seconds": 0.28
     },
     {
       "name": "OCTOPUSS packet validation",
       "return_code": 0,
-      "duration_seconds": 0.11
+      "duration_seconds": 0.08
     },
     {
       "name": "OCTOPUSS compact pre-analysis",
       "return_code": 0,
-      "duration_seconds": 0.12
+      "duration_seconds": 1.03
     },
     {
       "name": "OCTOPUSS candidate filing",
       "return_code": 0,
-      "duration_seconds": 4.08
+      "duration_seconds": 6.11
     },
     {
       "name": "OCTOPUSS living stories",
       "return_code": 0,
-      "duration_seconds": 0.53
+      "duration_seconds": 0.8
     },
     {
       "name": "OCTOPUSS reviewed intelligence filing",
       "return_code": 0,
-      "duration_seconds": 0.06
+      "duration_seconds": 0.08
     },
     {
       "name": "Feed linking",
       "return_code": 0,
-      "duration_seconds": 0.08
+      "duration_seconds": 0.09
     },
     {
       "name": "Monthly archive",
@@ -77,7 +77,7 @@
     {
       "name": "GitHub publishing",
       "return_code": 0,
-      "duration_seconds": 2.67
+      "duration_seconds": 4.06
     }
   ]
 }

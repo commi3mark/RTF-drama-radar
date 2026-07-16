@@ -1,15 +1,29 @@
 # Shane Davis — Back Me Bro launch
 
 - **Status:** active
-- **Current phase:** breaking
+- **Current phase:** developing
 - **Heat:** 100.0/100
-- **Last updated:** 2026-07-15T03:34:34+00:00
+- **Last updated:** 2026-07-15T05:14:43+00:00
 
 ## Current picture
 
-FFS Cast substantially discussed Frog Tony, Liam Gray, Shane Davis, Ethan Van Sciver in “Gabbing With Ga......You know”. Frog Tony published “Liam Gray sends a &quot;Legal Notice&quot; to Ethan Van Sciver.”, a new lead awaiting transcript-level confirmation. Ethan Van Sciver substantially discussed Ethan Van Sciver, Chrissie Mayr, Shane Davis, Sturgis in “#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES!”. Ya Boi Zack added transcript-backed discussion in “EVEN A STOPPED CLOCK IS CORRECT TWICE A DAY- Deniz Camp ACCURATELY Describes Right-Wing Comics Sites”. Shane Davis added transcript-backed discussion in “Netflix NEEDS God! They Want Christian Viewers NOW?!”.
+Ethan Van Sciver published “Throat Goat <b>Ethan Van Sciver</b> looking to play the martyr and possibly back out of ...”, a new lead awaiting transcript-level confirmation. Ethan Van Sciver published “Throat Goat <b>Ethan Van Sciver</b> on his efforts to protect Back Me Bro/BackDoorMeBro from scrutiny.”, a new lead awaiting transcript-level confirmation. FFS Cast substantially discussed Frog Tony, Liam Gray, Shane Davis, Ethan Van Sciver in “Gabbing With Ga......You know”. Ethan Van Sciver published “Throat Goat <b>Ethan Van Sciver</b> is hoping to return to &quot;2018 comicsgate&quot; with Back Me Bro ...”, a new lead awaiting transcript-level confirmation. Ethan Van Sciver published “Listen carefully to this clip. Throat Goat <b>Ethan Van Sciver</b> leaks that Chicken Bitch Shane ...”, a new lead awaiting transcript-level confirmation.
 
 ## Latest developments
+
+### 2026-07-15T05:14:43+00:00 — Ethan Van Sciver
+
+**Throat Goat <b>Ethan Van Sciver</b> looking to play the martyr and possibly back out of ...** — metadata lead; match 35%
+
+Source: https://www.google.com/url?rct=j&sa=t&url=https://x.com/GeekyBoarders/status/2077149366091985281&ct=ga&cd=CAIyGjA0YjVlMjA1Y2E1ZjI2ZTE6Y29tOmVuOlVT&usg=AOvVaw3Xs70yFadALJHboOjDGzWU
+
+
+### 2026-07-15T05:14:43+00:00 — Ethan Van Sciver
+
+**Throat Goat <b>Ethan Van Sciver</b> on his efforts to protect Back Me Bro/BackDoorMeBro from scrutiny.** — metadata lead; match 35%
+
+Source: https://www.google.com/url?rct=j&sa=t&url=https://x.com/GeekyBoarders/status/2077164639360528578&ct=ga&cd=CAIyGjA0YjVlMjA1Y2E1ZjI2ZTE6Y29tOmVuOlVT&usg=AOvVaw1Ct3ruK_GjlwTNM5A9hbKc
+
 
 ### 2026-07-15T03:34:34+00:00 — FFS Cast
 
@@ -22,6 +36,27 @@ Source: https://www.youtube.com/watch?v=ZgbvZRJnCIk
 - **12:01 — Liam Gray:** o be doing like every once in a while after we get the Patreon like fully up and running and uh we were all chit cchatting and Liam came in there was like hi guys. So uh yeah, I'm Liam Gray and I'm a millionaire. Like blatantly saying stuff like yeah I'm a millionaire. That's right. I don't know if you know that. I'm like why? Why are you doing this? AND I DO IF I CA
 - **24:01 — Shane Davis:** So, uh, wait, is it wait there? Uh, you were hoping for Wheeler drama. The Wheeler stuff is [ __ ] crazy right now. I haven't done any I I've been watching Wheeler go after [ __ ] Shane Davis's website and I can show some of that. This was [ __ ] stupid and sickening to me in a way. Let me go uh pull this up. Let me go find it right quick. See if I can find it because
 - **36:01 — Shane Davis:** He was like doing this weird love bomb then I'm an [ __ ] thing that he does and so that's a no for me dog. People say I don't trust the Wheelers if the choice is the Wheelers or Shane Davis. Uh wait, HOLD ON. $5 from Finatra. Why did you do that? Now I've got to send you money to your [ __ ] Kofi. It says, "Uh, Mono eats bud and has pinworms." I I don't think that's
+
+### 2026-07-15T01:54:38+00:00 — Ethan Van Sciver
+
+**Throat Goat <b>Ethan Van Sciver</b> is hoping to return to &quot;2018 comicsgate&quot; with Back Me Bro ...** — metadata lead; match 35%
+
+Source: https://www.google.com/url?rct=j&sa=t&url=https://x.com/GeekyBoarders/status/2077194120079020236&ct=ga&cd=CAIyGjA0YjVlMjA1Y2E1ZjI2ZTE6Y29tOmVuOlVT&usg=AOvVaw0Z76ewrZh--hY_sLedhWZb
+
+
+### 2026-07-14T23:37:12+00:00 — Ethan Van Sciver
+
+**Listen carefully to this clip. Throat Goat <b>Ethan Van Sciver</b> leaks that Chicken Bitch Shane ...** — metadata lead; match 35%
+
+Source: https://www.google.com/url?rct=j&sa=t&url=https://x.com/GeekyBoarders/status/2077160473460428947&ct=ga&cd=CAIyGjA0YjVlMjA1Y2E1ZjI2ZTE6Y29tOmVuOlVT&usg=AOvVaw3p2c4ACtSlKOTpNnX98BLE
+
+
+### 2026-07-14T23:15:26+00:00 — Ethan Van Sciver
+
+**<b>Ethan Van Sciver's</b> Efforts to Protect Back Me Bro from Criticism - YouTube** — metadata lead; match 35%
+
+Source: https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DRjxgNNuiyf0&ct=ga&cd=CAIyGjA0YjVlMjA1Y2E1ZjI2ZTE6Y29tOmVuOlVT&usg=AOvVaw2isws1EpJXyYLWuXSIqhlA
+
 
 ### 2026-07-14T05:08:13+00:00 — Frog Tony
 
@@ -271,63 +306,9 @@ Source: https://www.youtube.com/watch?v=7LMz5W0-mLs
 - **12:00 — Liam Gray:** >> Well, when you get out of it, you become an officer. So like Santo does in the UK, >> you know, boom, you're off. >> It says more about them than us where they have to assume everybody's lying about all of their achievements, don't you think? >> But I've never made a claim of an achievement straight. This is what I'm trying to >> No, but that's an achieve
 - **12:00 — Stray Beans:** >> Well, when you get out of it, you become an officer. So like Santo does in the UK, >> you know, boom, you're off. >> It says more about them than us where they have to assume everybody's lying about all of their achievements, don't you think? >> But I've never made a claim of an achievement straight. This is what I'm trying to >> No, but that's an achieve
 
-### 2026-07-08T03:33:10+00:00 — FFS Cast
-
-**Gabbing With Ga......You Know** — transcript evidence; match 100%
-
-Source: https://www.youtube.com/watch?v=MmvMoleX9Ls
-
-- **00:03 — Liam Gray:** I'm [ __ ] [music] [music] One [ __ ] rule. Shut the [ __ ] up. >> [music] [music] [music] >> and I miss you. [music] And now I wonder if I could fall into the [music] sky. You think time would pass me by. [music] Cuz you know I walk a thousand miles. I can just say [music] you when I see you I'mma put your [ __ ] back boy. Try to get the spin through your s
-- **12:00 — Liam Gray:** 't know. That's uh >> I mean, >> it's kind of up to you. Okay. So, before the show, there was uh an email that was sent that is somewhere around 10,000 words from an old friend of Liam Gray potentially. Again, major scare quotes around this potentially. But a 10,000word email was sent to one of us. I'm not going to say who or anything like that. and I will read a sni
-- **00:03 — Frog Tony:** ry very very soon. So, you got that. That might bring Liam out of retirement. I just I don't know when I'm going to be able to do it the right way. Um, then you've got, of course, Frog Tony's dumb [ __ ] ass said that he was never talking about us again. And, you know, he's got what he calls me uh the dwarf in his title as for, you know, for tonight. So, that that la
-- **12:00 — Frog Tony:** couple of the uh Tony streams that we've been wanting to cover for a for a while now. But speaking of the the Liam Lure, I'm going to go ahead and bring up my my gay best friend here, '90s router. Um >> what's up? it dude like first before anything >> if if it's true right because the way we work on this channel is we are going to do our due diligence in ord
-- **12:00 — Jon Del Arroz:** couple of the uh Tony streams that we've been wanting to cover for a for a while now. But speaking of the the Liam Lure, I'm going to go ahead and bring up my my gay best friend here, '90s router. Um >> what's up? it dude like first before anything >> if if it's true right because the way we work on this channel is we are going to do our due diligence in ord
-
-### 2026-07-07T14:46:31+00:00 — Ministry of Dude
-
-**I said Columbia, but Ralph just went to more Messico | #931** — transcript evidence; match 100%
-
-Source: https://www.youtube.com/watch?v=4sQhgipvxyU
-
-- **01:12:01 — Ethan Van Sciver:** >> Dad, you're a dick. >> They started laughing when I said that. They [ __ ] heard me, bro. You will not >> I think they sold it soon after the [ __ ] [ __ ] >> Like, am I on Twitter? Am I on YouTube? I don't know. Bro, these are people going about on their day. You know, we're not talking to you. >> This is like, dude, this is for a [ __ ] like me, this is
-- **01:36:01 — Ethan Van Sciver:** That's just so crazy because you're so healthy, right? >> Cuz I need knee surgery, but like [music] >> knee surgery is kind of a big deal. >> I mean, look at this. Uh-oh. Jimmy's touching his hose. Can you do that, Grandpa? Oh my god. Trim your your fingernails. Jim, >> can you reach down? >> Can you reach down and touch it? >> Dude, he does have goblin fing
-- **00:00 — Vito Gesualdi:** Jesus the purple man. Let me leitate [music] into your dreams. I will make [singing] love so cosmically. [music] Take off my flesh. [singing] You don't need the rest. I'm a man who's the best. So take your [music] guess. Is it me? Jesus was the purple [music] man living in a desert purple land. Snake bite to the head. Antidote from a boy's [music] glass. It'
-- **12:02 — Frog Tony:** nny, the poor guy. A >> that's romantic. >> Jesse said, "Sorry it didn't work out with Dan." So So >> wow. >> I missed that. And that is a coat. That is a big coat. >> I'm getting Frog Tony vibes. >> Oh wow. [laughter] >> You know what I mean? Like I'm getting I'm getting some frog Tony vibes here. [laughter] >> Runs away. immediately rebounds with some other guy, st
-
-### 2026-07-07T05:46:59+00:00 — Frog Tony
-
-**Katydid Caught LYING AGAIN! - Detractor Kings** — transcript evidence; match 100%
-
-Source: https://www.youtube.com/watch?v=RxZ_OdBN2f0
-
-- **00:00 — Frog Tony:** oom [music] smokes. A thousand miles and running. THE FROG HAS GOT THE WHOLE TOWN BUZZING. THEY CRIED [music] OVER JOKES. NOW they're fussing. A thousand miles and running. >> I'M FROG TONY. Let me tell you who I be. Drink tequila WITH AN APPLE SITTING NEXT to me. Working [music] in the garbage factory all day long AND COMICS AND VIDEO GAMES TILL THE BREAK OF DAWN. S
-- **12:00 — Frog Tony:** I told Veto, you should do it. And uh if you're going to do it, you should do it with me because uh let's face it, the biggest bump in the biggest problem in the universe has been Frog Tony. People hate me. People love to hate me, right? Hate watchers uh would gather Do you understand the amount of hate? Like Veto doing the biggest problem without dick would be [ __
-- **00:00 — ComicsGate:** Guess what I'm about TO DO? >> CATCH THOSE FROGGERS. CATCH THOSE [screaming] MOTHERFERS. NAH, WE'RE ALREADY GONE. LITTLE MOVIE PERP AND THE CREW JUST CROSSED THE COUNTY LINE. 1,000 miles [music] AND RUNNING. THE FROGGERS GOT THE WHOLE TOWN BUZZING. THEY CRIED OVER JOKES. Now they're fussing. A,000 miles and running. A,000 [music] miles and running. HER PLUT
-- **12:00 — ComicsGate:** >> right? So he would get uh 2500 or 25% of the Patreon, whatever is less, right? So the most he could ever get is 2500, right? Because if Veto grows the show, if the Patreon suddenly surges up, right? >> Oh, okay. Yeah. >> That would be Veto's fans. Like Veto is bringing these people in, right? >> Right. New member. Yeah. Okay. Yeah. >> So I I would have so
-- **24:01 — Eric July:** m. What Katie did >> man I hate her name because like what Katie did did what Katie did did what she done did is uh >> Katie done she was watching Nick Ricada. She was watching uh Eric July Yellow Flash because you know the weeb wars [ __ ] right? So she was watching the weeb wars [ __ ] and all the [ __ ] >> What the hell? Okay, >> pause it. Pause it. What's the wee
-
-### 2026-07-07T04:26:42+00:00 — Ethan Van Sciver
-
-**COMICSGATE KINGS: Let's draw GOTHAM characters!** — transcript evidence; match 100%
-
-Source: https://www.youtube.com/watch?v=Zd9PVsLAD5c
-
-- **00:04 — Frog Tony:** 7 miles from target. Hostiles inbound shoot break. Heat. Heat. Heat. 6:00 in the rings. >> I'm going to pop. I did have a relationship with Mr. Lewinsky that was not appropriate. >> In fact, >> I'm going to get you. >> It constituted a critical lapse in judgment. >> Keep it in your pants, Saxs, man. >> This is an emergency broadcast. >> Why can't I finish my
-- **12:00 — Frog Tony:** it, you know. So, >> I love that stuff. That's great. >> How are we doing? >> I'm done with those. I'm going to I'm going to >> I'm done with those. I'm going to tackle the uh the uh the uh collaboration book, too. >> Oh, okay. Good. >> What are you working on, Bosch? >> Working on this, actually. This is my latest page on a certain book that I'm working on.
-- **12:00 — Ethan Van Sciver:** it, you know. So, >> I love that stuff. That's great. >> How are we doing? >> I'm done with those. I'm going to I'm going to >> I'm done with those. I'm going to tackle the uh the uh the uh collaboration book, too. >> Oh, okay. Good. >> What are you working on, Bosch? >> Working on this, actually. This is my latest page on a certain book that I'm working on.
-- **36:00 — Ethan Van Sciver:** >> man? I haven't been shooting over a year. Tell them to come out to Long Island, man. We'll go. >> No effing way. EJ Morgis, this will be the best night of my life. Where's EJ? >> What's going on? >> Come on, connect. >> EJ, how's it going, man? >> There he is. >> He's not Oh, is he in now? >> Hey, EJ. >> Uh, my screen. There we go. >> Yeah, there you are.
-- **36:00 — Shane Davis:** >> man? I haven't been shooting over a year. Tell them to come out to Long Island, man. We'll go. >> No effing way. EJ Morgis, this will be the best night of my life. Where's EJ? >> What's going on? >> Come on, connect. >> EJ, how's it going, man? >> There he is. >> He's not Oh, is he in now? >> Hey, EJ. >> Uh, my screen. There we go. >> Yeah, there you are.
-
-### 2026-07-06T22:28:49+00:00 — Ethan Van Sciver
-
-**I TOLD YOU!  EMERGENCY TRASHCAST # 270! I was right again!** — metadata lead; match 35%
-
-Source: https://www.youtube.com/watch?v=guX94KKTvos
-
-
 ## People and shows in this story
 
-- **Ethan Van Sciver:** 52 supporting items
+- **Ethan Van Sciver:** 57 supporting items
 - **Frog Tony:** 50 supporting items
 - **Liam Gray:** 30 supporting items
 - **Shane Davis:** 27 supporting items

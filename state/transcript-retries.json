@@ -84,5 +84,18 @@
     "status": "pending",
     "next_retry": "2026-07-16T03:50:55.507970+00:00",
     "retry_note": "standard retry schedule"
+  },
+  "xMQ1oNTnqfo": {
+    "video_id": "xMQ1oNTnqfo",
+    "title": "Members Only Hangout",
+    "source": "Frog Tony",
+    "priority": 95,
+    "reason": "VideoUnplayable",
+    "message": "\nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=xMQ1oNTnqfo! This is most likely caused by:\n\nThe video is unplayable for the following reason: Join this channel to get access to members-only content like this video, and other exclusive perks.\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!",
+    "attempts": 1,
+    "last_attempt": "2026-07-16T11:42:15.378165+00:00",
+    "status": "pending",
+    "next_retry": "2026-07-16T12:42:15.378165+00:00",
+    "retry_note": "attempt-based exponential schedule"
   }
 }

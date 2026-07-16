@@ -3,10 +3,10 @@
   "story_id": "thequartering-kino-casino-conflict",
   "title": "TheQuartering / Kino Casino conflict",
   "status": "active",
-  "current_phase": "breaking",
+  "current_phase": "developing",
   "heat": {
-    "heat": 47.1,
-    "recent_24h": 1,
+    "heat": 41.4,
+    "recent_24h": 0,
     "recent_72h": 2,
     "unique_sources": 1,
     "transcript_evidence_items": 4
@@ -238,5 +238,5 @@
   },
   "unresolved_questions": [],
   "canonical_story_path": "intelligence/stories/thequartering-kino-casino-conflict.json",
-  "generated_at": "2026-07-15T22:03:30.248967+00:00"
+  "generated_at": "2026-07-16T11:42:23.089706+00:00"
 }
