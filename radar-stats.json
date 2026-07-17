@@ -1,135 +1,48 @@
 {
-<<<<<<< HEAD
-  "updated_at": "2026-07-16T23:14:01.785229+00:00",
+  "updated_at": "2026-07-17T07:35:19.124317+00:00",
   "health": {
     "status": "degraded",
     "summary": "1 source(s) failed during the latest scan.",
     "scan": "degraded",
     "transcripts": "degraded",
-=======
-  "updated_at": "2026-07-16T23:42:47.188755+00:00",
-  "health": {
-    "status": "stalled",
-    "summary": "Transcript collection is blocked by YouTube.",
-    "scan": "healthy",
-    "transcripts": "stalled",
->>>>>>> 3fe3166 (Remove obsolete OCTOPUSS folder)
     "archive": "healthy",
     "validation": "healthy"
   },
   "last_scan": {
-<<<<<<< HEAD
     "runner": "github",
-    "started_at": "2026-07-16T23:13:57.760428+00:00",
-    "finished_at": "2026-07-16T23:14:01.784545+00:00",
-    "duration_seconds": 4.02,
-    "new_detections": 64,
-    "sweep_number": 2,
+    "started_at": "2026-07-17T07:35:14.123150+00:00",
+    "finished_at": "2026-07-17T07:35:19.123747+00:00",
+    "duration_seconds": 5.0,
+    "new_detections": 298,
+    "sweep_number": 3,
     "status": "warning"
-=======
-    "runner": "local",
-    "started_at": "2026-07-16T23:42:39.639918+00:00",
-    "finished_at": "2026-07-16T23:42:47.181289+00:00",
-    "duration_seconds": 7.54,
-    "new_detections": 80,
-    "sweep_number": 2,
-    "status": "healthy"
->>>>>>> 3fe3166 (Remove obsolete OCTOPUSS folder)
   },
-  "last_transcript_run": {
-    "runner": "stalinvo",
-    "started_at": "2026-07-16T19:08:05.079112+00:00",
-    "finished_at": "2026-07-16T19:08:56.640818+00:00",
-    "duration_seconds": 51.56,
-    "attempts": 5,
-    "new_transcripts": 0,
-    "failed": 5,
-    "unavailable": 4,
-    "retry_count": 1,
-    "linked": 157,
-    "blocked": true,
-    "eligible_before_limit": 86,
-    "remaining_after_run": 81,
-    "status": "stalled",
-    "results": {
-      "saved": [],
-      "unavailable": [
-        {
-          "video_id": "LqG0tJZdDM0",
-          "source": "Shane Davis",
-          "title": "Up drawing",
-          "reason": "AgeRestricted"
-        },
-        {
-          "video_id": "bT148wf_nE8",
-          "source": "Shane Davis",
-          "title": "Up Inking",
-          "reason": "TranscriptsDisabled"
-        },
-        {
-          "video_id": "1j9MpMey5TU",
-          "source": "Shane Davis",
-          "title": "The Ballers Side-Show #239! Happy 4th of July! Part 2",
-          "reason": "AgeRestricted"
-        },
-        {
-          "video_id": "coJhmh3kj50",
-          "source": "Shane Davis",
-          "title": "Davis After Dark",
-          "reason": "AgeRestricted"
-        }
-      ],
-      "retry": [
-        {
-          "video_id": "b8qqam3FSB0",
-          "source": "Shane Davis",
-          "title": "Disney Just Killed Marvel Comics… By Sending Them To Webtoon?!",
-          "reason": "IpBlocked"
-        }
-      ]
-    }
-  },
+  "last_transcript_run": {},
   "detections": {
-<<<<<<< HEAD
-    "total": 511,
-    "new_this_run": 64,
+    "total": 244,
+    "new_this_run": 298,
     "by_platform": {
-      "YouTube": 350,
-=======
-    "total": 512,
-    "new_this_run": 80,
-    "by_platform": {
-      "YouTube": 351,
->>>>>>> 3fe3166 (Remove obsolete OCTOPUSS folder)
-      "Substack": 53,
-      "Google Alerts": 108
+      "YouTube": 166,
+      "Google Alerts": 58,
+      "Substack": 20
     }
   },
   "transcripts": {
     "downloaded_total": 91,
     "downloaded_this_run": 0,
-    "linked_to_live_feed": 157,
-<<<<<<< HEAD
-    "awaiting_collection": 175,
-    "unavailable": 18,
-    "coverage_percent": 44.9,
+    "linked_to_live_feed": 0,
+    "awaiting_collection": 166,
+    "unavailable": 0,
+    "coverage_percent": 0.0,
     "retry_queue": 0,
     "automatic_recovery_enabled": false
-=======
-    "awaiting_collection": 172,
-    "unavailable": 22,
-    "coverage_percent": 44.7,
-    "retry_queue": 1,
-    "automatic_recovery_enabled": true
->>>>>>> 3fe3166 (Remove obsolete OCTOPUSS folder)
   },
   "sources": {
     "configured": 29,
     "enabled": 28,
-<<<<<<< HEAD
     "successful": 27,
     "failed": 1,
-    "items_read": 276,
+    "items_read": 298,
     "failures": [
       {
         "source": "Johnny Rocket",
@@ -138,16 +51,7 @@
     ]
   },
   "archive": {
-    "updated_at": "2026-07-16T23:14:01.782004+00:00",
-=======
-    "successful": 28,
-    "failed": 0,
-    "items_read": 296,
-    "failures": []
-  },
-  "archive": {
-    "updated_at": "2026-07-16T23:42:47.167387+00:00",
->>>>>>> 3fe3166 (Remove obsolete OCTOPUSS folder)
+    "updated_at": "2026-07-17T07:35:19.121276+00:00",
     "months": [
       {
         "month": "2024-08",
@@ -211,43 +115,31 @@
       },
       {
         "month": "2026-04",
-        "items": 6,
+        "items": 4,
         "path": "2026-04.json"
       },
       {
         "month": "2026-05",
-        "items": 25,
+        "items": 16,
         "path": "2026-05.json"
       },
       {
         "month": "2026-06",
-        "items": 88,
+        "items": 38,
         "path": "2026-06.json"
       },
       {
         "month": "2026-07",
-<<<<<<< HEAD
-        "items": 439,
-=======
-        "items": 440,
->>>>>>> 3fe3166 (Remove obsolete OCTOPUSS folder)
+        "items": 217,
         "path": "2026-07.json"
       }
     ],
     "month_count": 16,
-<<<<<<< HEAD
-    "total_archived_detections": 581
+    "total_archived_detections": 298
   },
   "warnings": [
     "1 source(s) failed during the latest scan.",
-    "175 YouTube detections are awaiting transcripts."
-=======
-    "total_archived_detections": 582
-  },
-  "warnings": [
-    "Transcript collection is blocked by YouTube.",
-    "172 YouTube detections are awaiting transcripts."
->>>>>>> 3fe3166 (Remove obsolete OCTOPUSS folder)
+    "166 YouTube detections are awaiting transcripts."
   ],
   "errors": []
 }

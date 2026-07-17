@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "updated_at": "2026-07-16T23:14:01.782004+00:00",
-=======
-  "updated_at": "2026-07-16T23:42:47.167387+00:00",
->>>>>>> 3fe3166 (Remove obsolete OCTOPUSS folder)
+  "updated_at": "2026-07-17T07:35:19.121276+00:00",
   "months": [
     {
       "month": "2024-08",
@@ -67,33 +63,25 @@
     },
     {
       "month": "2026-04",
-      "items": 6,
+      "items": 4,
       "path": "2026-04.json"
     },
     {
       "month": "2026-05",
-      "items": 25,
+      "items": 16,
       "path": "2026-05.json"
     },
     {
       "month": "2026-06",
-      "items": 88,
+      "items": 38,
       "path": "2026-06.json"
     },
     {
       "month": "2026-07",
-<<<<<<< HEAD
-      "items": 439,
-=======
-      "items": 440,
->>>>>>> 3fe3166 (Remove obsolete OCTOPUSS folder)
+      "items": 217,
       "path": "2026-07.json"
     }
   ],
   "month_count": 16,
-<<<<<<< HEAD
-  "total_archived_detections": 581
-=======
-  "total_archived_detections": 582
->>>>>>> 3fe3166 (Remove obsolete OCTOPUSS folder)
+  "total_archived_detections": 298
 }
