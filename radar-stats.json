@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T07:35:19.124317+00:00",
+  "updated_at": "2026-07-17T12:03:25.855606+00:00",
   "health": {
     "status": "degraded",
     "summary": "1 source(s) failed during the latest scan.",
@@ -10,20 +10,20 @@
   },
   "last_scan": {
     "runner": "github",
-    "started_at": "2026-07-17T07:35:14.123150+00:00",
-    "finished_at": "2026-07-17T07:35:19.123747+00:00",
-    "duration_seconds": 5.0,
-    "new_detections": 298,
+    "started_at": "2026-07-17T12:03:20.742900+00:00",
+    "finished_at": "2026-07-17T12:03:25.855056+00:00",
+    "duration_seconds": 5.11,
+    "new_detections": 77,
     "sweep_number": 3,
     "status": "warning"
   },
   "last_transcript_run": {},
   "detections": {
-    "total": 244,
-    "new_this_run": 298,
+    "total": 268,
+    "new_this_run": 77,
     "by_platform": {
-      "YouTube": 166,
-      "Google Alerts": 58,
+      "YouTube": 168,
+      "Google Alerts": 80,
       "Substack": 20
     }
   },
@@ -31,7 +31,7 @@
     "downloaded_total": 91,
     "downloaded_this_run": 0,
     "linked_to_live_feed": 0,
-    "awaiting_collection": 166,
+    "awaiting_collection": 168,
     "unavailable": 0,
     "coverage_percent": 0.0,
     "retry_queue": 0,
@@ -42,7 +42,7 @@
     "enabled": 28,
     "successful": 27,
     "failed": 1,
-    "items_read": 298,
+    "items_read": 312,
     "failures": [
       {
         "source": "Johnny Rocket",
@@ -51,7 +51,7 @@
     ]
   },
   "archive": {
-    "updated_at": "2026-07-17T07:35:19.121276+00:00",
+    "updated_at": "2026-07-17T12:03:25.852602+00:00",
     "months": [
       {
         "month": "2024-08",
@@ -130,16 +130,16 @@
       },
       {
         "month": "2026-07",
-        "items": 217,
+        "items": 241,
         "path": "2026-07.json"
       }
     ],
     "month_count": 16,
-    "total_archived_detections": 298
+    "total_archived_detections": 322
   },
   "warnings": [
     "1 source(s) failed during the latest scan.",
-    "166 YouTube detections are awaiting transcripts."
+    "168 YouTube detections are awaiting transcripts."
   ],
   "errors": []
 }
