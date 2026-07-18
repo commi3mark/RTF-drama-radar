@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T07:11:08.039249+00:00",
+  "updated_at": "2026-07-18T11:32:43.951668+00:00",
   "health": {
     "status": "degraded",
     "summary": "1 source(s) failed during the latest scan.",
@@ -10,20 +10,20 @@
   },
   "last_scan": {
     "runner": "github",
-    "started_at": "2026-07-18T07:11:03.930325+00:00",
-    "finished_at": "2026-07-18T07:11:08.038670+00:00",
-    "duration_seconds": 4.11,
-    "new_detections": 59,
+    "started_at": "2026-07-18T11:32:38.739914+00:00",
+    "finished_at": "2026-07-18T11:32:43.951093+00:00",
+    "duration_seconds": 5.21,
+    "new_detections": 64,
     "sweep_number": 3,
     "status": "warning"
   },
   "last_transcript_run": {},
   "detections": {
-    "total": 300,
-    "new_this_run": 59,
+    "total": 315,
+    "new_this_run": 64,
     "by_platform": {
-      "YouTube": 185,
-      "Google Alerts": 92,
+      "YouTube": 186,
+      "Google Alerts": 106,
       "Substack": 23
     }
   },
@@ -31,7 +31,7 @@
     "downloaded_total": 91,
     "downloaded_this_run": 0,
     "linked_to_live_feed": 0,
-    "awaiting_collection": 185,
+    "awaiting_collection": 186,
     "unavailable": 0,
     "coverage_percent": 0.0,
     "retry_queue": 0,
@@ -42,7 +42,7 @@
     "enabled": 28,
     "successful": 27,
     "failed": 1,
-    "items_read": 274,
+    "items_read": 266,
     "failures": [
       {
         "source": "Johnny Rocket",
@@ -51,7 +51,7 @@
     ]
   },
   "archive": {
-    "updated_at": "2026-07-18T07:11:08.036116+00:00",
+    "updated_at": "2026-07-18T11:32:43.948284+00:00",
     "months": [
       {
         "month": "2024-08",
@@ -125,21 +125,21 @@
       },
       {
         "month": "2026-06",
-        "items": 38,
+        "items": 39,
         "path": "2026-06.json"
       },
       {
         "month": "2026-07",
-        "items": 273,
+        "items": 288,
         "path": "2026-07.json"
       }
     ],
     "month_count": 16,
-    "total_archived_detections": 354
+    "total_archived_detections": 370
   },
   "warnings": [
     "1 source(s) failed during the latest scan.",
-    "185 YouTube detections are awaiting transcripts."
+    "186 YouTube detections are awaiting transcripts."
   ],
   "errors": []
 }
