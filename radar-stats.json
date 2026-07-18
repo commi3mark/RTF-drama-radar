@@ -1,162 +1,48 @@
 {
-<<<<<<< HEAD
-  "updated_at": "2026-07-18T19:55:28.730873+00:00",
+  "updated_at": "2026-07-18T22:33:48.795822+00:00",
   "health": {
     "status": "degraded",
     "summary": "1 source(s) failed during the latest scan.",
     "scan": "degraded",
-=======
-  "updated_at": "2026-07-18T03:06:28.507900+00:00",
-  "health": {
-    "status": "degraded",
-    "summary": "88 YouTube detections are awaiting transcripts.",
-    "scan": "healthy",
->>>>>>> 625ef5b (Add 8 transcript(s))
     "transcripts": "degraded",
     "archive": "healthy",
     "validation": "healthy"
   },
   "last_scan": {
-<<<<<<< HEAD
     "runner": "github",
-    "started_at": "2026-07-18T19:55:21.237107+00:00",
-    "finished_at": "2026-07-18T19:55:28.730216+00:00",
-    "duration_seconds": 7.49,
-    "new_detections": 71,
+    "started_at": "2026-07-18T22:33:41.166318+00:00",
+    "finished_at": "2026-07-18T22:33:48.795423+00:00",
+    "duration_seconds": 7.63,
+    "new_detections": 52,
     "sweep_number": 3,
     "status": "warning"
-=======
-    "runner": "local",
-    "started_at": "2026-07-17T01:54:21.326203+00:00",
-    "finished_at": "2026-07-17T01:54:28.289220+00:00",
-    "duration_seconds": 6.96,
-    "new_detections": 71,
-    "sweep_number": 4,
-    "status": "healthy"
-  },
-  "last_transcript_run": {
-    "runner": "stalinvo",
-    "started_at": "2026-07-18T03:04:40.608658+00:00",
-    "finished_at": "2026-07-18T03:06:28.498476+00:00",
-    "duration_seconds": 107.89,
-    "attempts": 10,
-    "new_transcripts": 8,
-    "failed": 2,
-    "unavailable": 2,
-    "retry_count": 0,
-    "linked": 77,
-    "blocked": false,
-    "eligible_before_limit": 98,
-    "remaining_after_run": 88,
-    "status": "degraded",
-    "results": {
-      "saved": [
-        {
-          "video_id": "2eNUCPB9710",
-          "source": "Frog Tony",
-          "title": "Watching Another Tomorrow's Teaching On Thirsty Thursday!"
-        },
-        {
-          "video_id": "XJIna4xqsgQ",
-          "source": "Ethan Van Sciver",
-          "title": "DRAW-MUH STREAM: Nothin' Weird pt 1."
-        },
-        {
-          "video_id": "65xksOIsqFk",
-          "source": "Elissa Clips",
-          "title": "Kino Casino: TheQuartering Jer Biden “I I I I I I I I” & Gooning While Streaming (Jul 14, 2026)"
-        },
-        {
-          "video_id": "cP1gTcOcPlk",
-          "source": "Elissa Clips",
-          "title": "TheQuartering: No AmFest, Hair Transplant, How to Handle a Fight, & Melonie’s Keto (Jul 16, 2026)"
-        },
-        {
-          "video_id": "tA2AM5s-t1w",
-          "source": "KatyDid",
-          "title": "The Healing Begins: Ethan Van Sciver & Shane Davis TRY To Repair Their Friendship! | @FFScast"
-        },
-        {
-          "video_id": "-eS2tmifQk0",
-          "source": "Elissa Clips",
-          "title": "WOAHH BUDDIES!! Styx Returns to YT, JF Gariepy, Nick Fuentes Milks It, & DarkSydePhil (Jul 14, 2026)"
-        },
-        {
-          "video_id": "DV9iqZU7WZ0",
-          "source": "Elissa Clips",
-          "title": "Kino Casino: Jer the Ren Faire Creeper is DEFINITELY Banned (Jul 14, 2026)"
-        },
-        {
-          "video_id": "f6mc2pth6wI",
-          "source": "Elissa Clips",
-          "title": "TheQuartering Wants to Be Tim Pool & Friday Night Tights Is Pathetic (Jul 2026)"
-        }
-      ],
-      "unavailable": [
-        {
-          "video_id": "Lzn-IE6V_2w",
-          "source": "Shane Davis",
-          "title": "Up drawing",
-          "reason": "AgeRestricted"
-        },
-        {
-          "video_id": "J7YYIEp_hlQ",
-          "source": "Liam Gray",
-          "title": "Oi Oi Oi",
-          "reason": "TranscriptsDisabled"
-        }
-      ],
-      "retry": []
-    }
->>>>>>> 625ef5b (Add 8 transcript(s))
   },
   "last_transcript_run": {},
   "detections": {
-<<<<<<< HEAD
-    "total": 341,
-    "new_this_run": 71,
+    "total": 344,
+    "new_this_run": 52,
     "by_platform": {
-      "YouTube": 190,
+      "YouTube": 193,
       "Google Alerts": 124,
       "Substack": 27
     }
   },
   "transcripts": {
-    "downloaded_total": 91,
+    "downloaded_total": 109,
     "downloaded_this_run": 0,
     "linked_to_live_feed": 0,
-    "awaiting_collection": 190,
-    "unavailable": 0,
+    "awaiting_collection": 191,
+    "unavailable": 2,
     "coverage_percent": 0.0,
     "retry_queue": 0,
     "automatic_recovery_enabled": false
-=======
-    "total": 229,
-    "new_this_run": 71,
-    "by_platform": {
-      "YouTube": 167,
-      "Google Alerts": 37,
-      "Substack": 25
-    }
-  },
-  "transcripts": {
-    "downloaded_total": 99,
-    "downloaded_this_run": 8,
-    "linked_to_live_feed": 77,
-    "awaiting_collection": 88,
-    "unavailable": 2,
-    "coverage_percent": 46.1,
-    "retry_queue": 0,
-    "automatic_recovery_enabled": true
->>>>>>> 625ef5b (Add 8 transcript(s))
   },
   "sources": {
     "configured": 29,
     "enabled": 28,
-<<<<<<< HEAD
     "successful": 27,
     "failed": 1,
-    "items_read": 278,
+    "items_read": 276,
     "failures": [
       {
         "source": "Johnny Rocket",
@@ -165,16 +51,7 @@
     ]
   },
   "archive": {
-    "updated_at": "2026-07-18T19:55:28.727448+00:00",
-=======
-    "successful": 28,
-    "failed": 0,
-    "items_read": 297,
-    "failures": []
-  },
-  "archive": {
-    "updated_at": "2026-07-17T01:54:28.275259+00:00",
->>>>>>> 625ef5b (Add 8 transcript(s))
+    "updated_at": "2026-07-18T22:33:48.793598+00:00",
     "months": [
       {
         "month": "2024-08",
@@ -248,36 +125,21 @@
       },
       {
         "month": "2026-06",
-<<<<<<< HEAD
         "items": 39,
-=======
-        "items": 45,
->>>>>>> 625ef5b (Add 8 transcript(s))
         "path": "2026-06.json"
       },
       {
         "month": "2026-07",
-<<<<<<< HEAD
-        "items": 315,
-=======
-        "items": 199,
->>>>>>> 625ef5b (Add 8 transcript(s))
+        "items": 318,
         "path": "2026-07.json"
       }
     ],
     "month_count": 16,
-<<<<<<< HEAD
-    "total_archived_detections": 397
+    "total_archived_detections": 400
   },
   "warnings": [
     "1 source(s) failed during the latest scan.",
-    "190 YouTube detections are awaiting transcripts."
-=======
-    "total_archived_detections": 298
-  },
-  "warnings": [
-    "88 YouTube detections are awaiting transcripts."
->>>>>>> 625ef5b (Add 8 transcript(s))
+    "191 YouTube detections are awaiting transcripts."
   ],
   "errors": []
 }
