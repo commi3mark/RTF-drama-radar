@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T15:32:36.271229+00:00",
+  "updated_at": "2026-07-18T19:55:28.730873+00:00",
   "health": {
     "status": "degraded",
     "summary": "1 source(s) failed during the latest scan.",
@@ -10,28 +10,28 @@
   },
   "last_scan": {
     "runner": "github",
-    "started_at": "2026-07-18T15:32:28.594322+00:00",
-    "finished_at": "2026-07-18T15:32:36.270718+00:00",
-    "duration_seconds": 7.68,
-    "new_detections": 52,
+    "started_at": "2026-07-18T19:55:21.237107+00:00",
+    "finished_at": "2026-07-18T19:55:28.730216+00:00",
+    "duration_seconds": 7.49,
+    "new_detections": 71,
     "sweep_number": 3,
     "status": "warning"
   },
   "last_transcript_run": {},
   "detections": {
-    "total": 319,
-    "new_this_run": 52,
+    "total": 341,
+    "new_this_run": 71,
     "by_platform": {
-      "Substack": 24,
-      "YouTube": 187,
-      "Google Alerts": 108
+      "YouTube": 190,
+      "Google Alerts": 124,
+      "Substack": 27
     }
   },
   "transcripts": {
     "downloaded_total": 91,
     "downloaded_this_run": 0,
     "linked_to_live_feed": 0,
-    "awaiting_collection": 187,
+    "awaiting_collection": 190,
     "unavailable": 0,
     "coverage_percent": 0.0,
     "retry_queue": 0,
@@ -42,7 +42,7 @@
     "enabled": 28,
     "successful": 27,
     "failed": 1,
-    "items_read": 267,
+    "items_read": 278,
     "failures": [
       {
         "source": "Johnny Rocket",
@@ -51,7 +51,7 @@
     ]
   },
   "archive": {
-    "updated_at": "2026-07-18T15:32:36.268600+00:00",
+    "updated_at": "2026-07-18T19:55:28.727448+00:00",
     "months": [
       {
         "month": "2024-08",
@@ -130,16 +130,16 @@
       },
       {
         "month": "2026-07",
-        "items": 292,
+        "items": 315,
         "path": "2026-07.json"
       }
     ],
     "month_count": 16,
-    "total_archived_detections": 374
+    "total_archived_detections": 397
   },
   "warnings": [
     "1 source(s) failed during the latest scan.",
-    "187 YouTube detections are awaiting transcripts."
+    "190 YouTube detections are awaiting transcripts."
   ],
   "errors": []
 }
