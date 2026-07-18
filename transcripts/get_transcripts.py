@@ -3,11 +3,13 @@ from __future__ import annotations
 import argparse
 import json
 import random
+import re
 import subprocess
 import sys
 import time
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
+from urllib.parse import parse_qs, urlparse
 
 from youtube_transcript_api import YouTubeTranscriptApi
 
@@ -37,8 +39,28 @@ from console import progress
 COOLDOWN = BRAIN_DIR / "transcript-cooldown.json"
 RETRIES = BRAIN_DIR / "transcript-retries.json"
 YOUTUBE_METADATA = BRAIN_DIR / "youtube-metadata.json"
+
+PRIORITY_FILE = ROOT / "priority.txt"
+WATCHLIST_FILE = ROOT / "watchlist.txt"
+IGNORE_FILE = ROOT / "ignore.txt"
+
+EXTERNAL_TRANSCRIPT_CUTOFF = datetime(2026, 7, 15, tzinfo=timezone.utc)
+OWN_SOURCE = "Commi3 Mark"
+
+SOURCE_PRIORITIES = {
+    "Commi3 Mark": 100,
+    "KatyDid": 99,
+    "Ethan Van Sciver": 95,
+    "Frog Tony": 95,
+    "Liam Gray": 85,
+    "Shane Davis": 85,
+    "Eric July": 80,
+    "Elissa Clips": 60,
+}
+
 PERMANENT = {"TranscriptsDisabled", "AgeRestricted", "VideoUnavailable"}
 BLOCKED = {"IpBlocked", "RequestBlocked"}
+VIDEO_ID_RE = re.compile(r"^[A-Za-z0-9_-]{11}$")
 
 
 def dt(value):
@@ -69,6 +91,65 @@ def git(args: list[str]) -> bool:
         return False
 
 
+def read_control_file(path: Path) -> list[str]:
+    if not path.exists():
+        return []
+    values = []
+    seen = set()
+    for raw in path.read_text(encoding="utf-8-sig").splitlines():
+        value = raw.strip()
+        if not value or value.startswith("#"):
+            continue
+        key = value.casefold()
+        if key not in seen:
+            seen.add(key)
+            values.append(value)
+    return values
+
+
+def write_control_file(path: Path, values: list[str], header: str) -> None:
+    body = header.rstrip() + "\n\n"
+    if values:
+        body += "\n".join(values) + "\n"
+    path.write_text(body, encoding="utf-8")
+
+
+def youtube_id(value: str) -> str | None:
+    value = value.strip()
+    if VIDEO_ID_RE.fullmatch(value):
+        return value
+    try:
+        parsed = urlparse(value)
+        host = parsed.netloc.lower().removeprefix("www.")
+        if host == "youtu.be":
+            candidate = parsed.path.strip("/").split("/")[0]
+        elif host in {"youtube.com", "m.youtube.com", "music.youtube.com"}:
+            if parsed.path == "/watch":
+                candidate = parse_qs(parsed.query).get("v", [""])[0]
+            else:
+                parts = [part for part in parsed.path.split("/") if part]
+                candidate = parts[1] if len(parts) >= 2 and parts[0] in {"shorts", "live", "embed"} else ""
+        else:
+            candidate = ""
+        return candidate if VIDEO_ID_RE.fullmatch(candidate) else None
+    except Exception:
+        return None
+
+
+def normalized_tokens(values: list[str]) -> set[str]:
+    return {value.strip().casefold() for value in values if value.strip()}
+
+
+def item_matches_tokens(item: dict, tokens: set[str]) -> bool:
+    video_id = str(item.get("youtube_id") or "").casefold()
+    if video_id and video_id in tokens:
+        return True
+    haystack = "\n".join(
+        str(item.get(field) or "")
+        for field in ("source", "url", "title", "description")
+    ).casefold()
+    return any(token in haystack for token in tokens if not youtube_id(token))
+
 
 def youtube_metadata(video_id: str, cache: dict) -> dict:
     cached = cache.get(video_id)
@@ -95,6 +176,9 @@ def youtube_metadata(video_id: str, cache: dict) -> dict:
             "release_timestamp": info.get("release_timestamp"),
             "timestamp": info.get("timestamp"),
             "duration": info.get("duration"),
+            "title": info.get("title"),
+            "channel": info.get("channel") or info.get("uploader"),
+            "webpage_url": info.get("webpage_url"),
         }
         cache[video_id] = result
         return result
@@ -103,12 +187,30 @@ def youtube_metadata(video_id: str, cache: dict) -> dict:
         return cache[video_id]
 
 
-def livestream_ready(item: dict, published: datetime | None, now: datetime, cache: dict) -> tuple[bool, str | None]:
-    """Return whether a recent YouTube item is ready for transcript retrieval.
+def manual_item(video_id: str, raw_url: str, cache: dict, source_label: str) -> dict:
+    metadata = youtube_metadata(video_id, cache)
+    timestamp = metadata.get("release_timestamp") or metadata.get("timestamp")
+    published = None
+    try:
+        if timestamp:
+            published = datetime.fromtimestamp(float(timestamp), tz=timezone.utc).isoformat()
+    except Exception:
+        published = None
+    return {
+        "youtube_id": video_id,
+        "source": metadata.get("channel") or source_label,
+        "platform": "YouTube",
+        "type": "video",
+        "title": metadata.get("title") or f"Manual transcript request [{video_id}]",
+        "url": metadata.get("webpage_url") or raw_url or f"https://www.youtube.com/watch?v={video_id}",
+        "published": published,
+        "transcript_status": "pending",
+        "_manual": source_label,
+    }
 
-    Ordinary uploads pass through. Livestreams are held until six hours after
-    the estimated stream end. Live and upcoming broadcasts are deferred.
-    """
+
+def livestream_ready(item: dict, published: datetime | None, now: datetime, cache: dict) -> tuple[bool, str | None]:
+    """Ordinary uploads pass; livestreams wait until six hours after ending."""
     if not published or (now - published).total_seconds() >= 6 * 3600:
         return True, None
     video_id = str(item.get("youtube_id") or "")
@@ -137,6 +239,7 @@ def livestream_ready(item: dict, published: datetime | None, now: datetime, cach
         return False, f"livestream delay ({hours}h {minutes}m remaining)"
     return True, None
 
+
 def item_receipt(item: dict, reason: str | None = None) -> dict:
     result = {
         "video_id": str(item.get("youtube_id") or ""),
@@ -146,6 +249,10 @@ def item_receipt(item: dict, reason: str | None = None) -> dict:
     if reason:
         result["reason"] = reason
     return result
+
+
+def source_priority(item: dict, config: dict) -> int:
+    return SOURCE_PRIORITIES.get(str(item.get("source") or ""), int(config.get("priority", 50)))
 
 
 def main() -> int:
@@ -185,49 +292,115 @@ def main() -> int:
     existing = {str(item.get("video_id")) for item in build().get("transcripts", [])}
     now = datetime.now(timezone.utc)
 
-    candidates: dict[str, tuple[int, datetime, dict]] = {}
-    for item in radar:
-        video_id = item.get("youtube_id")
-        if not video_id:
-            continue
-        video_id = str(video_id)
-        if video_id in existing:
-            continue
+    priority_values = read_control_file(PRIORITY_FILE)
+    watchlist_values = read_control_file(WATCHLIST_FILE)
+    ignore_values = read_control_file(IGNORE_FILE)
+
+    priority_by_id = {video_id: value for value in priority_values if (video_id := youtube_id(value))}
+    watchlist_by_id = {video_id: value for value in watchlist_values if (video_id := youtube_id(value))}
+    ignore_ids = {video_id for value in ignore_values if (video_id := youtube_id(value))}
+    watch_tokens = normalized_tokens([value for value in watchlist_values if not youtube_id(value)])
+    ignore_tokens = normalized_tokens([value for value in ignore_values if not youtube_id(value)])
+
+    completed_priority_ids = set(priority_by_id) & existing
+    priority_values = [
+        value for value in priority_values
+        if youtube_id(value) not in completed_priority_ids
+    ]
+    if completed_priority_ids:
+        write_control_file(
+            PRIORITY_FILE,
+            priority_values,
+            "# HIGHEST PRIORITY TRANSCRIPTS\n"
+            "# Paste one YouTube video or livestream URL per line.\n"
+            "# Successful or already-downloaded links remove themselves automatically.",
+        )
+
+    radar_by_id = {
+        str(item.get("youtube_id")): item
+        for item in radar
+        if item.get("youtube_id")
+    }
+
+    # Queue tuple:
+    # (tier, failed_before, retry_attempts, negative_priority, negative_timestamp, item)
+    # Lower tier wins. Newer timestamps win because they are negated.
+    candidates: dict[str, tuple[int, int, int, int, float, dict]] = {}
+
+    def add_candidate(item: dict, tier: int, bypass_cutoff: bool = False, bypass_retry_delay: bool = False) -> None:
+        video_id = str(item.get("youtube_id") or "")
+        if not video_id or video_id in existing or video_id in ignore_ids:
+            return
+        if item_matches_tokens(item, ignore_tokens):
+            return
         if item.get("transcript_status") in {"available", "unavailable", "permanent_failure"}:
-            continue
+            return
+
         retry = retries.get(video_id, {})
         next_retry = dt(retry.get("next_retry"))
-        if next_retry and now < next_retry:
-            continue
+        if not bypass_retry_delay and next_retry and now < next_retry:
+            return
+
         published = dt(item.get("published"))
+        source = str(item.get("source") or "")
+        watched = video_id in watchlist_by_id or item_matches_tokens(item, watch_tokens)
+        if not bypass_cutoff and not watched and source != OWN_SOURCE:
+            if published is None or published < EXTERNAL_TRANSCRIPT_CUTOFF:
+                return
+
         config = sources.get((item.get("source"), item.get("platform")), {})
-        delay = float(config.get("transcript_delay_hours", 6))
-        if published and (now - published).total_seconds() < delay * 3600:
-            continue
-        ready, defer_reason = livestream_ready(item, published, now, metadata_cache)
+        if tier >= 2:
+            delay = float(config.get("transcript_delay_hours", 6))
+            if published and (now - published).total_seconds() < delay * 3600:
+                return
+
+        ready, _ = livestream_ready(item, published, now, metadata_cache)
         if not ready:
-            continue
-        has_failed_before = 1 if retry else 0
+            return
+
+        failed_before = 1 if retry else 0
         retry_attempts = int(retry.get("attempts", 0) or 0)
-        candidate = (has_failed_before, retry_attempts, int(config.get("priority", 50)), published or now, item)
+        priority = source_priority(item, config)
+        timestamp = published.timestamp() if published else now.timestamp()
+        candidate = (tier, failed_before, retry_attempts, -priority, -timestamp, item)
         old = candidates.get(video_id)
-        if old is None or candidate[:4] < old[:4]:
+        if old is None or candidate[:5] < old[:5]:
             candidates[video_id] = candidate
 
-    # Fresh eligible items always come first. Previously failed items are
-    # deliberately pushed behind them, then ordered by fewest attempts.
-    full_queue = sorted(candidates.values(), key=lambda row: (row[0], row[1], -row[2], row[3]))
+    # Tier 0: hand-picked emergency links. Ignore still overrides them.
+    for video_id, raw_url in priority_by_id.items():
+        item = radar_by_id.get(video_id) or manual_item(video_id, raw_url, metadata_cache, "Priority Queue")
+        add_candidate(item, tier=0, bypass_cutoff=True, bypass_retry_delay=True)
+
+    # Tier 1: persistent forced-monitor video links.
+    for video_id, raw_url in watchlist_by_id.items():
+        item = radar_by_id.get(video_id) or manual_item(video_id, raw_url, metadata_cache, "Watchlist")
+        add_candidate(item, tier=1, bypass_cutoff=True)
+
+    # Tier 1 for matching watched channels/sources; tier 2 for ordinary radar items.
+    for item in radar:
+        watched = item_matches_tokens(item, watch_tokens)
+        add_candidate(item, tier=1 if watched else 2, bypass_cutoff=watched)
+
+    full_queue = sorted(candidates.values(), key=lambda row: row[:5])
     queue = full_queue[: max(0, args.limit)]
     attempts = saved = unavailable = retry_count = failed = 0
     blocked = False
     results = {"saved": [], "unavailable": [], "retry": []}
-    print(f"Eligible queue: {len(full_queue)} (run limit {args.limit})")
+    print(
+        f"Eligible queue: {len(full_queue)} "
+        f"(priority {sum(1 for row in full_queue if row[0] == 0)}, "
+        f"watchlist {sum(1 for row in full_queue if row[0] == 1)}, "
+        f"normal {sum(1 for row in full_queue if row[0] == 2)}; "
+        f"run limit {args.limit})"
+    )
     print("\nTRANSCRIPT RECOVERY")
 
     api = YouTubeTranscriptApi()
     save_json(YOUTUBE_METADATA, metadata_cache)
+    saved_priority_ids = set()
 
-    for number, (_, _, _, _, item) in enumerate(queue, 1):
+    for number, (_, _, _, _, _, item) in enumerate(queue, 1):
         video_id = str(item["youtube_id"])
         attempts += 1
         progress("Recovering transcript", number - 1, len(queue), f"{item.get('source')} • {item.get('title')}", started)
@@ -259,6 +432,8 @@ def main() -> int:
             }
             save_json(path, payload)
             retries.pop(video_id, None)
+            if video_id in priority_by_id:
+                saved_priority_ids.add(video_id)
             saved += 1
             results["saved"].append(item_receipt(item))
             print(f"  SAVED: {path.relative_to(ROOT)}", flush=True)
@@ -294,7 +469,10 @@ def main() -> int:
                 break
 
             lower_message = message.lower()
-            if reason == "VideoUnplayable" and any(token in lower_message for token in ["live event will begin", "premiere will begin", "currently live"]):
+            if reason == "VideoUnplayable" and any(
+                token in lower_message
+                for token in ["live event will begin", "premiere will begin", "currently live"]
+            ):
                 status = "retry"
                 next_retry = (now + timedelta(hours=6)).isoformat()
             elif reason in PERMANENT or (
@@ -334,6 +512,19 @@ def main() -> int:
             print(f"  {status.upper()}: {reason}", flush=True)
             progress("Transcript complete", number, len(queue), f"{item.get('source')} • {status}", started)
 
+    if saved_priority_ids:
+        remaining_priority = [
+            value for value in read_control_file(PRIORITY_FILE)
+            if youtube_id(value) not in saved_priority_ids
+        ]
+        write_control_file(
+            PRIORITY_FILE,
+            remaining_priority,
+            "# HIGHEST PRIORITY TRANSCRIPTS\n"
+            "# Paste one YouTube video or livestream URL per line.\n"
+            "# Successful or already-downloaded links remove themselves automatically.",
+        )
+
     save_json(RETRIES, retries)
     save_json(RADAR_PATH, radar)
     build()
@@ -360,14 +551,28 @@ def main() -> int:
         "blocked": blocked,
         "eligible_before_limit": len(full_queue),
         "remaining_after_run": max(0, len(full_queue) - attempts),
+        "queue_counts": {
+            "priority": sum(1 for row in full_queue if row[0] == 0),
+            "watchlist": sum(1 for row in full_queue if row[0] == 1),
+            "normal": sum(1 for row in full_queue if row[0] == 2),
+        },
         "status": transcript_status,
         "results": results,
     }
     stats = update_stats(radar=radar, transcript_run=transcript_run)
     print_summary(stats, "TRANSCRIPT RECOVERY COMPLETE", receipt_kind="transcripts")
 
-    if publish_enabled and saved:
-        git(["add", "drama-radar.json", "radar-stats.json", "transcripts", "radar/receipts"])
+    if publish_enabled and (saved or saved_priority_ids):
+        git([
+            "add",
+            "drama-radar.json",
+            "radar-stats.json",
+            "transcripts",
+            "radar/receipts",
+            "priority.txt",
+            "watchlist.txt",
+            "ignore.txt",
+        ])
         subprocess.run(
             [
                 "git",
