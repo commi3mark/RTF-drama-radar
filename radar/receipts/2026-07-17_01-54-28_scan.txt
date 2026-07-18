@@ -1,0 +1,48 @@
+========================================================================
+DRAMA RADAR SWEEP COMPLETE
+SWEEP #4
+========================================================================
+
+STATUS
+  [DEGRADED]
+  Reason: 167 YouTube detections are awaiting transcripts.
+
+LAST RADAR SCAN
+  New detections: +71
+  Sources online: 28 / 28
+
+LAST TRANSCRIPT RUN
+  New transcripts: +0
+  Attempts: 0
+  Unavailable: 0
+  Retry later: 0
+
+LIVE DATABASE
+  Detections: 229
+  Transcripts: 91
+  Coverage: 0.0%
+  Awaiting transcripts: 167
+
+ARCHIVE
+  Months archived: 16
+  Total detections: 298
+  Latest month: 2026-07 (199 detections)
+
+NEW TRANSCRIPTS
+  None this run.
+
+UNAVAILABLE
+  None this run.
+
+RETRY LATER
+  None this run.
+
+WARNINGS
+  - 167 YouTube detections are awaiting transcripts.
+
+NEXT ACTION
+  None required — automatic transcript recovery will continue hourly.
+
+RUNTIME
+  7s
+========================================================================
