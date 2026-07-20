@@ -1,0 +1,1699 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-07-19T18:36:58.630616+00:00",
+  "video_id": "Zd9PVsLAD5c",
+  "title": "COMICSGATE KINGS: Let's draw GOTHAM characters!",
+  "channel": "Ethan Van Sciver",
+  "published": "2026-07-07T04:26:42+00:00",
+  "source_transcript": "COMICSGATE KINGS Let's draw GOTHAM characters! [Zd9PVsLAD5c].json",
+  "host": "Ethan Van Sciver",
+  "possible_panel": [
+    {
+      "name": "Billy",
+      "confidence": 85,
+      "mentions": 44
+    }
+  ],
+  "possible_guests": [],
+  "strong_signals": [
+    {
+      "label": "Indiegogo",
+      "mentions": 43,
+      "stars": 5
+    },
+    {
+      "label": "Shane",
+      "mentions": 40,
+      "stars": 5
+    },
+    {
+      "label": "John",
+      "mentions": 19,
+      "stars": 3
+    },
+    {
+      "label": "Batman",
+      "mentions": 18,
+      "stars": 3
+    },
+    {
+      "label": "Hunter",
+      "mentions": 18,
+      "stars": 3
+    }
+  ],
+  "weak_signals": [
+    {
+      "label": "Polish",
+      "mentions": 17
+    },
+    {
+      "label": "Shane Davis",
+      "mentions": 16
+    },
+    {
+      "label": "Supergirl",
+      "mentions": 15
+    },
+    {
+      "label": "AIDS",
+      "mentions": 14
+    },
+    {
+      "label": "Hey",
+      "mentions": 14
+    },
+    {
+      "label": "Five",
+      "mentions": 13
+    },
+    {
+      "label": "Plastic Man",
+      "mentions": 12
+    },
+    {
+      "label": "Twitter",
+      "mentions": 12
+    },
+    {
+      "label": "Holy",
+      "mentions": 11
+    },
+    {
+      "label": "Nice",
+      "mentions": 11
+    },
+    {
+      "label": "Dan Lawless",
+      "mentions": 10
+    },
+    {
+      "label": "Gotham",
+      "mentions": 10
+    },
+    {
+      "label": "Marvel",
+      "mentions": 10
+    },
+    {
+      "label": "Scarecrow",
+      "mentions": 10
+    },
+    {
+      "label": "Sean",
+      "mentions": 10
+    },
+    {
+      "label": "Vasilus",
+      "mentions": 9
+    },
+    {
+      "label": "Boom",
+      "mentions": 8
+    },
+    {
+      "label": "FBI",
+      "mentions": 8
+    },
+    {
+      "label": "HIV",
+      "mentions": 8
+    },
+    {
+      "label": "Looking",
+      "mentions": 8
+    },
+    {
+      "label": "Superman",
+      "mentions": 8
+    },
+    {
+      "label": "Americans",
+      "mentions": 7
+    },
+    {
+      "label": "Beautiful",
+      "mentions": 7
+    },
+    {
+      "label": "Charlie",
+      "mentions": 7
+    },
+    {
+      "label": "Four",
+      "mentions": 7
+    },
+    {
+      "label": "God",
+      "mentions": 7
+    },
+    {
+      "label": "John Men",
+      "mentions": 7
+    },
+    {
+      "label": "Three",
+      "mentions": 7
+    },
+    {
+      "label": "America",
+      "mentions": 6
+    },
+    {
+      "label": "Belgium",
+      "mentions": 6
+    },
+    {
+      "label": "Disney",
+      "mentions": 6
+    },
+    {
+      "label": "Everybody",
+      "mentions": 6
+    },
+    {
+      "label": "Frog Tony",
+      "mentions": 6
+    },
+    {
+      "label": "Joker",
+      "mentions": 6
+    },
+    {
+      "label": "Nine Lives",
+      "mentions": 6
+    },
+    {
+      "label": "Nobody",
+      "mentions": 6
+    },
+    {
+      "label": "Sounds",
+      "mentions": 6
+    },
+    {
+      "label": "Star Wars",
+      "mentions": 6
+    },
+    {
+      "label": "Whoa",
+      "mentions": 6
+    },
+    {
+      "label": "Anybody",
+      "mentions": 5
+    },
+    {
+      "label": "Appreciate",
+      "mentions": 5
+    },
+    {
+      "label": "Bane",
+      "mentions": 5
+    },
+    {
+      "label": "Bosch",
+      "mentions": 5
+    },
+    {
+      "label": "Congratulations",
+      "mentions": 5
+    },
+    {
+      "label": "Fair",
+      "mentions": 5
+    },
+    {
+      "label": "Fantastic",
+      "mentions": 5
+    },
+    {
+      "label": "He-Man",
+      "mentions": 5
+    },
+    {
+      "label": "Hold",
+      "mentions": 5
+    },
+    {
+      "label": "Italy",
+      "mentions": 5
+    },
+    {
+      "label": "Looks",
+      "mentions": 5
+    },
+    {
+      "label": "Nolan",
+      "mentions": 5
+    },
+    {
+      "label": "Optimus Prime",
+      "mentions": 5
+    },
+    {
+      "label": "Seven",
+      "mentions": 5
+    },
+    {
+      "label": "Six",
+      "mentions": 5
+    },
+    {
+      "label": "Sleeping",
+      "mentions": 5
+    },
+    {
+      "label": "Sunday",
+      "mentions": 5
+    },
+    {
+      "label": "Wait",
+      "mentions": 5
+    },
+    {
+      "label": "American",
+      "mentions": 4
+    },
+    {
+      "label": "Billy Tucci",
+      "mentions": 4
+    },
+    {
+      "label": "Boston",
+      "mentions": 4
+    },
+    {
+      "label": "DC Comics",
+      "mentions": 4
+    },
+    {
+      "label": "Eight",
+      "mentions": 4
+    },
+    {
+      "label": "English",
+      "mentions": 4
+    },
+    {
+      "label": "Graham",
+      "mentions": 4
+    },
+    {
+      "label": "John Melik",
+      "mentions": 4
+    },
+    {
+      "label": "Kickstarter",
+      "mentions": 4
+    },
+    {
+      "label": "Ladies",
+      "mentions": 4
+    },
+    {
+      "label": "Meanwhile",
+      "mentions": 4
+    },
+    {
+      "label": "Sinatra",
+      "mentions": 4
+    },
+    {
+      "label": "Two",
+      "mentions": 4
+    },
+    {
+      "label": "Wolverine",
+      "mentions": 4
+    },
+    {
+      "label": "World War",
+      "mentions": 4
+    },
+    {
+      "label": "Yonzi",
+      "mentions": 4
+    },
+    {
+      "label": "Although",
+      "mentions": 3
+    },
+    {
+      "label": "Annette",
+      "mentions": 3
+    },
+    {
+      "label": "Art Haida",
+      "mentions": 3
+    },
+    {
+      "label": "Awesome",
+      "mentions": 3
+    },
+    {
+      "label": "BackMe",
+      "mentions": 3
+    },
+    {
+      "label": "Bill",
+      "mentions": 3
+    },
+    {
+      "label": "Bruce",
+      "mentions": 3
+    },
+    {
+      "label": "Brute",
+      "mentions": 3
+    },
+    {
+      "label": "Catwoman",
+      "mentions": 3
+    },
+    {
+      "label": "Charlie Snoggan",
+      "mentions": 3
+    },
+    {
+      "label": "Check",
+      "mentions": 3
+    },
+    {
+      "label": "Christmas",
+      "mentions": 3
+    },
+    {
+      "label": "ComicsGate",
+      "mentions": 3
+    },
+    {
+      "label": "Counting",
+      "mentions": 3
+    },
+    {
+      "label": "Dang",
+      "mentions": 3
+    },
+    {
+      "label": "Ellison",
+      "mentions": 3
+    },
+    {
+      "label": "England",
+      "mentions": 3
+    },
+    {
+      "label": "Excuse",
+      "mentions": 3
+    },
+    {
+      "label": "Frank Miller",
+      "mentions": 3
+    },
+    {
+      "label": "Gail",
+      "mentions": 3
+    },
+    {
+      "label": "Gotham City",
+      "mentions": 3
+    },
+    {
+      "label": "ICE",
+      "mentions": 3
+    },
+    {
+      "label": "Indian",
+      "mentions": 3
+    },
+    {
+      "label": "Italian",
+      "mentions": 3
+    },
+    {
+      "label": "Italians",
+      "mentions": 3
+    },
+    {
+      "label": "Jack Cole",
+      "mentions": 3
+    },
+    {
+      "label": "Jersey",
+      "mentions": 3
+    },
+    {
+      "label": "John Mailen",
+      "mentions": 3
+    },
+    {
+      "label": "Love",
+      "mentions": 3
+    },
+    {
+      "label": "Mark Wade",
+      "mentions": 3
+    },
+    {
+      "label": "Meteor Pegasus",
+      "mentions": 3
+    },
+    {
+      "label": "Monroe",
+      "mentions": 3
+    },
+    {
+      "label": "Moxy Rocket",
+      "mentions": 3
+    },
+    {
+      "label": "Nightfall",
+      "mentions": 3
+    },
+    {
+      "label": "PayPal",
+      "mentions": 3
+    },
+    {
+      "label": "Pete",
+      "mentions": 3
+    },
+    {
+      "label": "R2-D2",
+      "mentions": 3
+    },
+    {
+      "label": "Rainbow",
+      "mentions": 3
+    },
+    {
+      "label": "Russians",
+      "mentions": 3
+    },
+    {
+      "label": "Says",
+      "mentions": 3
+    },
+    {
+      "label": "Sex",
+      "mentions": 3
+    },
+    {
+      "label": "Sid",
+      "mentions": 3
+    },
+    {
+      "label": "SJW",
+      "mentions": 3
+    },
+    {
+      "label": "Sopranos",
+      "mentions": 3
+    },
+    {
+      "label": "Spider-Man",
+      "mentions": 3
+    },
+    {
+      "label": "Starlight Cats",
+      "mentions": 3
+    },
+    {
+      "label": "Tom Tuttle",
+      "mentions": 3
+    },
+    {
+      "label": "Uncle",
+      "mentions": 3
+    },
+    {
+      "label": "Apollo",
+      "mentions": 2
+    },
+    {
+      "label": "Arya Stark",
+      "mentions": 2
+    },
+    {
+      "label": "Batman Returns",
+      "mentions": 2
+    },
+    {
+      "label": "Better",
+      "mentions": 2
+    },
+    {
+      "label": "Blue Sky",
+      "mentions": 2
+    },
+    {
+      "label": "Bobby Ryell",
+      "mentions": 2
+    },
+    {
+      "label": "Bosch Fost",
+      "mentions": 2
+    },
+    {
+      "label": "Broometer",
+      "mentions": 2
+    },
+    {
+      "label": "Charlie Snogan",
+      "mentions": 2
+    },
+    {
+      "label": "Charlie Snogens",
+      "mentions": 2
+    },
+    {
+      "label": "Combo",
+      "mentions": 2
+    },
+    {
+      "label": "Comics Gate Kings",
+      "mentions": 2
+    },
+    {
+      "label": "Commissioner Gordon",
+      "mentions": 2
+    },
+    {
+      "label": "Confirmed",
+      "mentions": 2
+    },
+    {
+      "label": "Cyberfrog",
+      "mentions": 2
+    },
+    {
+      "label": "Dad",
+      "mentions": 2
+    },
+    {
+      "label": "Darkhorse",
+      "mentions": 2
+    },
+    {
+      "label": "Donnie Marie",
+      "mentions": 2
+    },
+    {
+      "label": "Doom",
+      "mentions": 2
+    },
+    {
+      "label": "Dude",
+      "mentions": 2
+    },
+    {
+      "label": "Eel O'Brien",
+      "mentions": 2
+    },
+    {
+      "label": "EJ Morg",
+      "mentions": 2
+    },
+    {
+      "label": "EJ Morgos",
+      "mentions": 2
+    },
+    {
+      "label": "EJ Morris's Bane",
+      "mentions": 2
+    },
+    {
+      "label": "Europe",
+      "mentions": 2
+    },
+    {
+      "label": "Everything",
+      "mentions": 2
+    },
+    {
+      "label": "Facebook",
+      "mentions": 2
+    },
+    {
+      "label": "Frankie Valley",
+      "mentions": 2
+    },
+    {
+      "label": "Freeze",
+      "mentions": 2
+    },
+    {
+      "label": "Google",
+      "mentions": 2
+    },
+    {
+      "label": "Greece",
+      "mentions": 2
+    },
+    {
+      "label": "Greo",
+      "mentions": 2
+    },
+    {
+      "label": "Grock",
+      "mentions": 2
+    },
+    {
+      "label": "Harlon",
+      "mentions": 2
+    },
+    {
+      "label": "Harris",
+      "mentions": 2
+    },
+    {
+      "label": "Hell",
+      "mentions": 2
+    },
+    {
+      "label": "Heroes",
+      "mentions": 2
+    },
+    {
+      "label": "Heunk",
+      "mentions": 2
+    },
+    {
+      "label": "Hitler",
+      "mentions": 2
+    },
+    {
+      "label": "Hope",
+      "mentions": 2
+    },
+    {
+      "label": "Jeez",
+      "mentions": 2
+    },
+    {
+      "label": "Jesus",
+      "mentions": 2
+    },
+    {
+      "label": "Johnny",
+      "mentions": 2
+    },
+    {
+      "label": "Kevich",
+      "mentions": 2
+    },
+    {
+      "label": "Kevin Nolan",
+      "mentions": 2
+    },
+    {
+      "label": "King",
+      "mentions": 2
+    },
+    {
+      "label": "Liam Gray",
+      "mentions": 2
+    },
+    {
+      "label": "Lis",
+      "mentions": 2
+    },
+    {
+      "label": "Listen",
+      "mentions": 2
+    },
+    {
+      "label": "Matt Bahr",
+      "mentions": 2
+    },
+    {
+      "label": "Media",
+      "mentions": 2
+    },
+    {
+      "label": "Meter Pegasus",
+      "mentions": 2
+    },
+    {
+      "label": "Michael",
+      "mentions": 2
+    },
+    {
+      "label": "Micronauts",
+      "mentions": 2
+    },
+    {
+      "label": "Morrisy",
+      "mentions": 2
+    },
+    {
+      "label": "Nazi",
+      "mentions": 2
+    },
+    {
+      "label": "Nine Lives Comics",
+      "mentions": 2
+    },
+    {
+      "label": "Norway",
+      "mentions": 2
+    },
+    {
+      "label": "Old Indiegogo",
+      "mentions": 2
+    },
+    {
+      "label": "Pencil",
+      "mentions": 2
+    },
+    {
+      "label": "Pock",
+      "mentions": 2
+    },
+    {
+      "label": "Proud",
+      "mentions": 2
+    },
+    {
+      "label": "Put",
+      "mentions": 2
+    },
+    {
+      "label": "Ray Leota",
+      "mentions": 2
+    },
+    {
+      "label": "Russian",
+      "mentions": 2
+    },
+    {
+      "label": "Salty",
+      "mentions": 2
+    },
+    {
+      "label": "Scared",
+      "mentions": 2
+    },
+    {
+      "label": "Scots",
+      "mentions": 2
+    },
+    {
+      "label": "Scottish",
+      "mentions": 2
+    },
+    {
+      "label": "Sean Jetty",
+      "mentions": 2
+    },
+    {
+      "label": "Send",
+      "mentions": 2
+    },
+    {
+      "label": "September",
+      "mentions": 2
+    },
+    {
+      "label": "Shant",
+      "mentions": 2
+    },
+    {
+      "label": "Should",
+      "mentions": 2
+    },
+    {
+      "label": "Shut",
+      "mentions": 2
+    },
+    {
+      "label": "Sold",
+      "mentions": 2
+    },
+    {
+      "label": "Someone",
+      "mentions": 2
+    },
+    {
+      "label": "Sometimes",
+      "mentions": 2
+    },
+    {
+      "label": "Speaking",
+      "mentions": 2
+    },
+    {
+      "label": "Speedo",
+      "mentions": 2
+    },
+    {
+      "label": "Steve",
+      "mentions": 2
+    },
+    {
+      "label": "Summer",
+      "mentions": 2
+    },
+    {
+      "label": "Sure",
+      "mentions": 2
+    },
+    {
+      "label": "Tomorrow",
+      "mentions": 2
+    },
+    {
+      "label": "Totally",
+      "mentions": 2
+    },
+    {
+      "label": "Twoface",
+      "mentions": 2
+    },
+    {
+      "label": "Unbelievable",
+      "mentions": 2
+    },
+    {
+      "label": "Vasillus",
+      "mentions": 2
+    },
+    {
+      "label": "Watch",
+      "mentions": 2
+    },
+    {
+      "label": "Wednesday",
+      "mentions": 2
+    },
+    {
+      "label": "Whenever",
+      "mentions": 2
+    },
+    {
+      "label": "World Cup",
+      "mentions": 2
+    },
+    {
+      "label": "Zic",
+      "mentions": 2
+    },
+    {
+      "label": "Aaron Deasty",
+      "mentions": 1
+    },
+    {
+      "label": "Aaron Le Prey",
+      "mentions": 1
+    },
+    {
+      "label": "Aaron Ley",
+      "mentions": 1
+    },
+    {
+      "label": "Aaron Sleeper",
+      "mentions": 1
+    },
+    {
+      "label": "Aaron Sleepers",
+      "mentions": 1
+    },
+    {
+      "label": "Alex Ross",
+      "mentions": 1
+    },
+    {
+      "label": "Alistister Cwley",
+      "mentions": 1
+    },
+    {
+      "label": "American Philly",
+      "mentions": 1
+    },
+    {
+      "label": "Andrew Sabina",
+      "mentions": 1
+    },
+    {
+      "label": "Andy Bell",
+      "mentions": 1
+    },
+    {
+      "label": "Andy Mailchain",
+      "mentions": 1
+    },
+    {
+      "label": "Anthal Considious Foul",
+      "mentions": 1
+    },
+    {
+      "label": "API",
+      "mentions": 1
+    },
+    {
+      "label": "Apple Netflix",
+      "mentions": 1
+    },
+    {
+      "label": "Archer Bald",
+      "mentions": 1
+    },
+    {
+      "label": "Art Haid",
+      "mentions": 1
+    },
+    {
+      "label": "ASAP",
+      "mentions": 1
+    },
+    {
+      "label": "Baltimore Comic Con",
+      "mentions": 1
+    },
+    {
+      "label": "Batman Gotham City",
+      "mentions": 1
+    },
+    {
+      "label": "Batman Superman",
+      "mentions": 1
+    },
+    {
+      "label": "Ben Herrera",
+      "mentions": 1
+    },
+    {
+      "label": "Bill Cavage",
+      "mentions": 1
+    },
+    {
+      "label": "Bill Skevich",
+      "mentions": 1
+    },
+    {
+      "label": "Billy Billy",
+      "mentions": 1
+    },
+    {
+      "label": "Billy Shaun",
+      "mentions": 1
+    },
+    {
+      "label": "Billy Tushi",
+      "mentions": 1
+    },
+    {
+      "label": "Bobby Redell",
+      "mentions": 1
+    },
+    {
+      "label": "Boss Fost",
+      "mentions": 1
+    },
+    {
+      "label": "Brendan Fletcher",
+      "mentions": 1
+    },
+    {
+      "label": "Brian Bolan",
+      "mentions": 1
+    },
+    {
+      "label": "Brian Pledo",
+      "mentions": 1
+    },
+    {
+      "label": "Bruce Sim",
+      "mentions": 1
+    },
+    {
+      "label": "Bruce Tim",
+      "mentions": 1
+    },
+    {
+      "label": "Buzz Aldrin",
+      "mentions": 1
+    },
+    {
+      "label": "Christopher Ree",
+      "mentions": 1
+    },
+    {
+      "label": "Christopher Reeves",
+      "mentions": 1
+    },
+    {
+      "label": "Comic Artist Pro",
+      "mentions": 1
+    },
+    {
+      "label": "Comic Artist Pro Secrets",
+      "mentions": 1
+    },
+    {
+      "label": "Comic Con",
+      "mentions": 1
+    },
+    {
+      "label": "Comic Expo",
+      "mentions": 1
+    },
+    {
+      "label": "Comic Skate Kings",
+      "mentions": 1
+    },
+    {
+      "label": "ComicCape Kings",
+      "mentions": 1
+    },
+    {
+      "label": "Comicskate Kings",
+      "mentions": 1
+    },
+    {
+      "label": "Creep Your Ear",
+      "mentions": 1
+    },
+    {
+      "label": "Cyber Frog",
+      "mentions": 1
+    },
+    {
+      "label": "Dan Law",
+      "mentions": 1
+    },
+    {
+      "label": "Dan Laws",
+      "mentions": 1
+    },
+    {
+      "label": "Dark Knight",
+      "mentions": 1
+    },
+    {
+      "label": "Darren Ragnar",
+      "mentions": 1
+    },
+    {
+      "label": "David Bowie",
+      "mentions": 1
+    },
+    {
+      "label": "David David",
+      "mentions": 1
+    },
+    {
+      "label": "Davis's Too Faced",
+      "mentions": 1
+    },
+    {
+      "label": "De Julius",
+      "mentions": 1
+    },
+    {
+      "label": "Deadpool Wolverine",
+      "mentions": 1
+    },
+    {
+      "label": "Dick Van Djk",
+      "mentions": 1
+    },
+    {
+      "label": "Dina Van Skyver",
+      "mentions": 1
+    },
+    {
+      "label": "Disneyland TV",
+      "mentions": 1
+    },
+    {
+      "label": "DMV",
+      "mentions": 1
+    },
+    {
+      "label": "Doc Barooi",
+      "mentions": 1
+    },
+    {
+      "label": "Donald Trump",
+      "mentions": 1
+    },
+    {
+      "label": "Draw Victor Zaz",
+      "mentions": 1
+    },
+    {
+      "label": "Eil O'Brien",
+      "mentions": 1
+    },
+    {
+      "label": "EJ Morgis",
+      "mentions": 1
+    },
+    {
+      "label": "EJ Morris",
+      "mentions": 1
+    },
+    {
+      "label": "Elephant Second Chance",
+      "mentions": 1
+    },
+    {
+      "label": "Ellen Paige",
+      "mentions": 1
+    },
+    {
+      "label": "Elo Brian",
+      "mentions": 1
+    },
+    {
+      "label": "Emerald Avenger",
+      "mentions": 1
+    },
+    {
+      "label": "ETA",
+      "mentions": 1
+    },
+    {
+      "label": "Ethan EVS",
+      "mentions": 1
+    },
+    {
+      "label": "Ethan Shane",
+      "mentions": 1
+    },
+    {
+      "label": "Fat L2",
+      "mentions": 1
+    },
+    {
+      "label": "FATL",
+      "mentions": 1
+    },
+    {
+      "label": "Fawn's Happy Day",
+      "mentions": 1
+    },
+    {
+      "label": "FB FIB Bob",
+      "mentions": 1
+    },
+    {
+      "label": "FIT",
+      "mentions": 1
+    },
+    {
+      "label": "Flugan High Museum",
+      "mentions": 1
+    },
+    {
+      "label": "Fund My Comic",
+      "mentions": 1
+    },
+    {
+      "label": "FYT",
+      "mentions": 1
+    },
+    {
+      "label": "Games Radar",
+      "mentions": 1
+    },
+    {
+      "label": "Garcia Lopez",
+      "mentions": 1
+    },
+    {
+      "label": "Gentleman Broncos",
+      "mentions": 1
+    },
+    {
+      "label": "George Lucas",
+      "mentions": 1
+    },
+    {
+      "label": "George Perez",
+      "mentions": 1
+    },
+    {
+      "label": "Gil Smith",
+      "mentions": 1
+    },
+    {
+      "label": "Glorious Rex",
+      "mentions": 1
+    },
+    {
+      "label": "Goodbye EJ Morges",
+      "mentions": 1
+    },
+    {
+      "label": "Gordon Ramsay",
+      "mentions": 1
+    },
+    {
+      "label": "Greg Rucka",
+      "mentions": 1
+    },
+    {
+      "label": "Hail Bosch",
+      "mentions": 1
+    },
+    {
+      "label": "Hail CG",
+      "mentions": 1
+    },
+    {
+      "label": "Hail EJ",
+      "mentions": 1
+    },
+    {
+      "label": "Hail Kings",
+      "mentions": 1
+    },
+    {
+      "label": "Harley Quinn",
+      "mentions": 1
+    },
+    {
+      "label": "Harlon Ellison",
+      "mentions": 1
+    },
+    {
+      "label": "Harlon Ellson",
+      "mentions": 1
+    },
+    {
+      "label": "Haron Elson",
+      "mentions": 1
+    },
+    {
+      "label": "Harry Fisher",
+      "mentions": 1
+    },
+    {
+      "label": "Harvey Bullick",
+      "mentions": 1
+    },
+    {
+      "label": "Headless Porsche",
+      "mentions": 1
+    },
+    {
+      "label": "Hey Ethan",
+      "mentions": 1
+    },
+    {
+      "label": "Hip Punk",
+      "mentions": 1
+    },
+    {
+      "label": "Hopefully Chuck",
+      "mentions": 1
+    },
+    {
+      "label": "Howard Chaken",
+      "mentions": 1
+    },
+    {
+      "label": "Howard Victor Chaken",
+      "mentions": 1
+    },
+    {
+      "label": "Hula Hula",
+      "mentions": 1
+    },
+    {
+      "label": "Hulah Hula",
+      "mentions": 1
+    },
+    {
+      "label": "IDA",
+      "mentions": 1
+    },
+    {
+      "label": "Independent Comics Empire",
+      "mentions": 1
+    },
+    {
+      "label": "Indian Ricardo",
+      "mentions": 1
+    },
+    {
+      "label": "Indiegogo Flying",
+      "mentions": 1
+    },
+    {
+      "label": "Italian Americans",
+      "mentions": 1
+    },
+    {
+      "label": "Jack Jack Cole",
+      "mentions": 1
+    },
+    {
+      "label": "Jack Kirby",
+      "mentions": 1
+    },
+    {
+      "label": "JD Vance",
+      "mentions": 1
+    },
+    {
+      "label": "Jeff Johns",
+      "mentions": 1
+    },
+    {
+      "label": "Joe Glass",
+      "mentions": 1
+    },
+    {
+      "label": "Joe Laniano",
+      "mentions": 1
+    },
+    {
+      "label": "Joe Lorano",
+      "mentions": 1
+    },
+    {
+      "label": "Joe Peshy",
+      "mentions": 1
+    },
+    {
+      "label": "John Bon",
+      "mentions": 1
+    },
+    {
+      "label": "John Burn",
+      "mentions": 1
+    },
+    {
+      "label": "John Mail",
+      "mentions": 1
+    },
+    {
+      "label": "John Mel",
+      "mentions": 1
+    },
+    {
+      "label": "John Melon",
+      "mentions": 1
+    },
+    {
+      "label": "John Shepard",
+      "mentions": 1
+    },
+    {
+      "label": "Johnny Blue Eyes",
+      "mentions": 1
+    },
+    {
+      "label": "Kenner Star",
+      "mentions": 1
+    },
+    {
+      "label": "KID",
+      "mentions": 1
+    },
+    {
+      "label": "Killer Croc",
+      "mentions": 1
+    },
+    {
+      "label": "Kim Baser",
+      "mentions": 1
+    },
+    {
+      "label": "Laser Pants",
+      "mentions": 1
+    },
+    {
+      "label": "Link Charlie",
+      "mentions": 1
+    },
+    {
+      "label": "Lion Harts",
+      "mentions": 1
+    },
+    {
+      "label": "Lives Comics",
+      "mentions": 1
+    },
+    {
+      "label": "Long Island",
+      "mentions": 1
+    },
+    {
+      "label": "Lugenheim Museum",
+      "mentions": 1
+    },
+    {
+      "label": "Magdalene Visagio",
+      "mentions": 1
+    },
+    {
+      "label": "Main Senate",
+      "mentions": 1
+    },
+    {
+      "label": "Martha Sparrow",
+      "mentions": 1
+    },
+    {
+      "label": "Martha's Pearl",
+      "mentions": 1
+    },
+    {
+      "label": "Matt Matt",
+      "mentions": 1
+    },
+    {
+      "label": "Mike Carlin",
+      "mentions": 1
+    },
+    {
+      "label": "Modern Masters",
+      "mentions": 1
+    },
+    {
+      "label": "Napoleon Dynamite",
+      "mentions": 1
+    },
+    {
+      "label": "NASA",
+      "mentions": 1
+    },
+    {
+      "label": "Nicholas Scott",
+      "mentions": 1
+    },
+    {
+      "label": "Nolan's Batman",
+      "mentions": 1
+    },
+    {
+      "label": "Perhaps Ice",
+      "mentions": 1
+    },
+    {
+      "label": "Pete Allen",
+      "mentions": 1
+    },
+    {
+      "label": "Pete Callen",
+      "mentions": 1
+    },
+    {
+      "label": "Phantom Zone",
+      "mentions": 1
+    },
+    {
+      "label": "Phil Jimenez",
+      "mentions": 1
+    },
+    {
+      "label": "Plant Planter",
+      "mentions": 1
+    },
+    {
+      "label": "Polish DNA",
+      "mentions": 1
+    },
+    {
+      "label": "Quality Comics",
+      "mentions": 1
+    },
+    {
+      "label": "Rachel Brinkley",
+      "mentions": 1
+    },
+    {
+      "label": "Raja Ghoul",
+      "mentions": 1
+    },
+    {
+      "label": "Ricardo Montalbond",
+      "mentions": 1
+    },
+    {
+      "label": "Rob Lego Patriot",
+      "mentions": 1
+    },
+    {
+      "label": "Ron Martin",
+      "mentions": 1
+    },
+    {
+      "label": "Russell Hall",
+      "mentions": 1
+    },
+    {
+      "label": "San Diego Comic-Con",
+      "mentions": 1
+    },
+    {
+      "label": "Says Dr",
+      "mentions": 1
+    },
+    {
+      "label": "Scary Stories",
+      "mentions": 1
+    },
+    {
+      "label": "Scary Tales",
+      "mentions": 1
+    },
+    {
+      "label": "Scott Snider",
+      "mentions": 1
+    },
+    {
+      "label": "Sean Vanetti",
+      "mentions": 1
+    },
+    {
+      "label": "Seant Shant",
+      "mentions": 1
+    },
+    {
+      "label": "Shan Jetty",
+      "mentions": 1
+    },
+    {
+      "label": "Shantan Jett",
+      "mentions": 1
+    },
+    {
+      "label": "Shantan Jetty",
+      "mentions": 1
+    },
+    {
+      "label": "Shawn Young",
+      "mentions": 1
+    },
+    {
+      "label": "Sleeping Psychopathy",
+      "mentions": 1
+    },
+    {
+      "label": "Space Man",
+      "mentions": 1
+    },
+    {
+      "label": "Super Girl",
+      "mentions": 1
+    },
+    {
+      "label": "Superman MIGO",
+      "mentions": 1
+    },
+    {
+      "label": "Supreme EJ Morgos",
+      "mentions": 1
+    },
+    {
+      "label": "Tamagotchi Pokemon",
+      "mentions": 1
+    },
+    {
+      "label": "Teen Sensation",
+      "mentions": 1
+    },
+    {
+      "label": "Teenage Mut Ninja Turtle",
+      "mentions": 1
+    },
+    {
+      "label": "Three Points",
+      "mentions": 1
+    },
+    {
+      "label": "Tiny Babies",
+      "mentions": 1
+    },
+    {
+      "label": "Tom Breort",
+      "mentions": 1
+    },
+    {
+      "label": "Tom King",
+      "mentions": 1
+    },
+    {
+      "label": "Tommy Skate Kings",
+      "mentions": 1
+    },
+    {
+      "label": "Tuttle Twins",
+      "mentions": 1
+    },
+    {
+      "label": "Van Sky",
+      "mentions": 1
+    },
+    {
+      "label": "Vasillus Lolas",
+      "mentions": 1
+    },
+    {
+      "label": "VAT",
+      "mentions": 1
+    },
+    {
+      "label": "Walter White",
+      "mentions": 1
+    },
+    {
+      "label": "Walton Happy Days Richie",
+      "mentions": 1
+    },
+    {
+      "label": "War Veteran",
+      "mentions": 1
+    },
+    {
+      "label": "Water Catch",
+      "mentions": 1
+    },
+    {
+      "label": "Wonder Woman",
+      "mentions": 1
+    },
+    {
+      "label": "Wooy Wings",
+      "mentions": 1
+    },
+    {
+      "label": "Wooy Winks",
+      "mentions": 1
+    },
+    {
+      "label": "Young Guns",
+      "mentions": 1
+    },
+    {
+      "label": "Young John Bon Joy",
+      "mentions": 1
+    }
+  ]
+}

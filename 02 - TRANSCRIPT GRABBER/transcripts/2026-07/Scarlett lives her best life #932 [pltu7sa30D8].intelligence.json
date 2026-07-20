@@ -1,0 +1,516 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-07-19T18:37:09.028889+00:00",
+  "video_id": "pltu7sa30D8",
+  "title": "Scarlett lives her best life | #932",
+  "channel": "Ministry of Dude",
+  "published": "2026-07-08T21:44:21+00:00",
+  "source_transcript": "Scarlett lives her best life #932 [pltu7sa30D8].json",
+  "host": "Ministry of Dude",
+  "possible_panel": [],
+  "possible_guests": [],
+  "strong_signals": [
+    {
+      "label": "Kyle",
+      "mentions": 24,
+      "stars": 5
+    },
+    {
+      "label": "Grock",
+      "mentions": 22,
+      "stars": 5
+    },
+    {
+      "label": "Scarlet",
+      "mentions": 14,
+      "stars": 4
+    },
+    {
+      "label": "Hey",
+      "mentions": 13,
+      "stars": 4
+    }
+  ],
+  "weak_signals": [
+    {
+      "label": "Jesus",
+      "mentions": 10
+    },
+    {
+      "label": "Ralph",
+      "mentions": 10
+    },
+    {
+      "label": "C3PO",
+      "mentions": 9
+    },
+    {
+      "label": "Charizard",
+      "mentions": 8
+    },
+    {
+      "label": "Ethan Van Sciver",
+      "mentions": 8
+    },
+    {
+      "label": "God",
+      "mentions": 8
+    },
+    {
+      "label": "John",
+      "mentions": 8
+    },
+    {
+      "label": "Linux",
+      "mentions": 8
+    },
+    {
+      "label": "Hold",
+      "mentions": 6
+    },
+    {
+      "label": "Reckless Ben",
+      "mentions": 6
+    },
+    {
+      "label": "Snake",
+      "mentions": 6
+    },
+    {
+      "label": "Batman",
+      "mentions": 5
+    },
+    {
+      "label": "Till",
+      "mentions": 5
+    },
+    {
+      "label": "Alfred",
+      "mentions": 4
+    },
+    {
+      "label": "American",
+      "mentions": 4
+    },
+    {
+      "label": "Dude",
+      "mentions": 4
+    },
+    {
+      "label": "Frog Tony",
+      "mentions": 4
+    },
+    {
+      "label": "Jews",
+      "mentions": 4
+    },
+    {
+      "label": "Kendrick",
+      "mentions": 4
+    },
+    {
+      "label": "Milwaukee",
+      "mentions": 4
+    },
+    {
+      "label": "Ministry",
+      "mentions": 4
+    },
+    {
+      "label": "NFL",
+      "mentions": 4
+    },
+    {
+      "label": "Scientology",
+      "mentions": 4
+    },
+    {
+      "label": "Tuesday",
+      "mentions": 4
+    },
+    {
+      "label": "Wait",
+      "mentions": 4
+    },
+    {
+      "label": "Wisconsin",
+      "mentions": 4
+    },
+    {
+      "label": "World Cup",
+      "mentions": 4
+    },
+    {
+      "label": "Anyways",
+      "mentions": 3
+    },
+    {
+      "label": "Bricks",
+      "mentions": 3
+    },
+    {
+      "label": "Bud Light",
+      "mentions": 3
+    },
+    {
+      "label": "Hooters",
+      "mentions": 3
+    },
+    {
+      "label": "Lego",
+      "mentions": 3
+    },
+    {
+      "label": "Legos",
+      "mentions": 3
+    },
+    {
+      "label": "Put",
+      "mentions": 3
+    },
+    {
+      "label": "Stephen",
+      "mentions": 3
+    },
+    {
+      "label": "Stop",
+      "mentions": 3
+    },
+    {
+      "label": "TTRO",
+      "mentions": 3
+    },
+    {
+      "label": "ADHD",
+      "mentions": 2
+    },
+    {
+      "label": "Canada",
+      "mentions": 2
+    },
+    {
+      "label": "Charizards",
+      "mentions": 2
+    },
+    {
+      "label": "English",
+      "mentions": 2
+    },
+    {
+      "label": "Excuse",
+      "mentions": 2
+    },
+    {
+      "label": "Feel",
+      "mentions": 2
+    },
+    {
+      "label": "Finally",
+      "mentions": 2
+    },
+    {
+      "label": "Fireball",
+      "mentions": 2
+    },
+    {
+      "label": "Florida",
+      "mentions": 2
+    },
+    {
+      "label": "GameStop",
+      "mentions": 2
+    },
+    {
+      "label": "Google",
+      "mentions": 2
+    },
+    {
+      "label": "Greek",
+      "mentions": 2
+    },
+    {
+      "label": "Hell",
+      "mentions": 2
+    },
+    {
+      "label": "Holy",
+      "mentions": 2
+    },
+    {
+      "label": "Honestly",
+      "mentions": 2
+    },
+    {
+      "label": "Hustle",
+      "mentions": 2
+    },
+    {
+      "label": "Ice Dancer",
+      "mentions": 2
+    },
+    {
+      "label": "Jack Daniels",
+      "mentions": 2
+    },
+    {
+      "label": "Jesus Christ",
+      "mentions": 2
+    },
+    {
+      "label": "John Joy",
+      "mentions": 2
+    },
+    {
+      "label": "July",
+      "mentions": 2
+    },
+    {
+      "label": "Kung Fu",
+      "mentions": 2
+    },
+    {
+      "label": "Miami",
+      "mentions": 2
+    },
+    {
+      "label": "Miniix",
+      "mentions": 2
+    },
+    {
+      "label": "Nobody",
+      "mentions": 2
+    },
+    {
+      "label": "Oregon",
+      "mentions": 2
+    },
+    {
+      "label": "Patreon",
+      "mentions": 2
+    },
+    {
+      "label": "Purple",
+      "mentions": 2
+    },
+    {
+      "label": "Red Rocks",
+      "mentions": 2
+    },
+    {
+      "label": "Rumble Premium",
+      "mentions": 2
+    },
+    {
+      "label": "Rust",
+      "mentions": 2
+    },
+    {
+      "label": "Should",
+      "mentions": 2
+    },
+    {
+      "label": "Steve",
+      "mentions": 2
+    },
+    {
+      "label": "Sure",
+      "mentions": 2
+    },
+    {
+      "label": "Tom Cruz",
+      "mentions": 2
+    },
+    {
+      "label": "True",
+      "mentions": 2
+    },
+    {
+      "label": "Ace Ventura",
+      "mentions": 1
+    },
+    {
+      "label": "AIDS",
+      "mentions": 1
+    },
+    {
+      "label": "Alfred Gro",
+      "mentions": 1
+    },
+    {
+      "label": "Alfred Kyle",
+      "mentions": 1
+    },
+    {
+      "label": "Alfred Pennyworth",
+      "mentions": 1
+    },
+    {
+      "label": "Andrew Gabe",
+      "mentions": 1
+    },
+    {
+      "label": "Batman Linux",
+      "mentions": 1
+    },
+    {
+      "label": "Bert Chryser",
+      "mentions": 1
+    },
+    {
+      "label": "BPD",
+      "mentions": 1
+    },
+    {
+      "label": "Brad Young",
+      "mentions": 1
+    },
+    {
+      "label": "Brandon Herrera",
+      "mentions": 1
+    },
+    {
+      "label": "Brian Mansel",
+      "mentions": 1
+    },
+    {
+      "label": "Charlie Kirk",
+      "mentions": 1
+    },
+    {
+      "label": "Dar Octa",
+      "mentions": 1
+    },
+    {
+      "label": "Dark Scar",
+      "mentions": 1
+    },
+    {
+      "label": "Desert Eagle",
+      "mentions": 1
+    },
+    {
+      "label": "Donis Paul",
+      "mentions": 1
+    },
+    {
+      "label": "Dude Studios USA",
+      "mentions": 1
+    },
+    {
+      "label": "Easter Island",
+      "mentions": 1
+    },
+    {
+      "label": "Elron Huard",
+      "mentions": 1
+    },
+    {
+      "label": "Ethan Ralph",
+      "mentions": 1
+    },
+    {
+      "label": "GTA",
+      "mentions": 1
+    },
+    {
+      "label": "Home Depot",
+      "mentions": 1
+    },
+    {
+      "label": "IRL",
+      "mentions": 1
+    },
+    {
+      "label": "Jewel Mongus",
+      "mentions": 1
+    },
+    {
+      "label": "JFK",
+      "mentions": 1
+    },
+    {
+      "label": "JJ Lynn",
+      "mentions": 1
+    },
+    {
+      "label": "Judge Barlo",
+      "mentions": 1
+    },
+    {
+      "label": "Judge David",
+      "mentions": 1
+    },
+    {
+      "label": "Judge David Barlo",
+      "mentions": 1
+    },
+    {
+      "label": "Kyle Kyle",
+      "mentions": 1
+    },
+    {
+      "label": "Law Gorman",
+      "mentions": 1
+    },
+    {
+      "label": "Miss Piggy",
+      "mentions": 1
+    },
+    {
+      "label": "MK Ultra",
+      "mentions": 1
+    },
+    {
+      "label": "MSH",
+      "mentions": 1
+    },
+    {
+      "label": "NBA",
+      "mentions": 1
+    },
+    {
+      "label": "Pod Ale",
+      "mentions": 1
+    },
+    {
+      "label": "Reckless Man",
+      "mentions": 1
+    },
+    {
+      "label": "ROC",
+      "mentions": 1
+    },
+    {
+      "label": "Scan Paulie",
+      "mentions": 1
+    },
+    {
+      "label": "Scarlett Hampton",
+      "mentions": 1
+    },
+    {
+      "label": "Snoop Dog",
+      "mentions": 1
+    },
+    {
+      "label": "South American",
+      "mentions": 1
+    },
+    {
+      "label": "Star Wars Lego",
+      "mentions": 1
+    },
+    {
+      "label": "Steel Toe Labs",
+      "mentions": 1
+    },
+    {
+      "label": "Steelto Labs",
+      "mentions": 1
+    },
+    {
+      "label": "Taco Bell",
+      "mentions": 1
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-07-19T18:37:12.871177+00:00",
+  "video_id": "lCn5jxcykGo",
+  "title": "TheQuartering is Going to the Ren Fair (Jul 9, 2026)",
+  "channel": "Elissa Clips",
+  "published": "2026-07-10T02:21:44+00:00",
+  "source_transcript": "TheQuartering is Going to the Ren Fair (Jul 9, 2026) [lCn5jxcykGo].json",
+  "host": "Elissa Clips",
+  "possible_panel": [],
+  "possible_guests": [],
+  "strong_signals": [],
+  "weak_signals": [
+    {
+      "label": "Lance",
+      "mentions": 2
+    },
+    {
+      "label": "ACL",
+      "mentions": 1
+    },
+    {
+      "label": "MCL",
+      "mentions": 1
+    },
+    {
+      "label": "Ren Fair",
+      "mentions": 1
+    }
+  ]
+}

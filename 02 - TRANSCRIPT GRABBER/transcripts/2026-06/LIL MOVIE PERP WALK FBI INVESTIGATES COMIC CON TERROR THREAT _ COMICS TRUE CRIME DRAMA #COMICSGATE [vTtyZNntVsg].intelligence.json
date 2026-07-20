@@ -1,0 +1,513 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-07-19T18:36:56.249215+00:00",
+  "video_id": "vTtyZNntVsg",
+  "title": "LIL MOVIE PERP WALK FBI INVESTIGATES COMIC CON TERROR THREAT | COMICS TRUE CRIME DRAMA #COMICSGATE",
+  "channel": "COMMI3 МARK",
+  "published": "2026-06-12T21:25:51+00:00",
+  "source_transcript": "LIL MOVIE PERP WALK FBI INVESTIGATES COMIC CON TERROR THREAT _ COMICS TRUE CRIME DRAMA #COMICSGATE [vTtyZNntVsg].json",
+  "host": "Commi3 Mark",
+  "possible_panel": [
+    {
+      "name": "Yan",
+      "confidence": 43,
+      "mentions": 3
+    },
+    {
+      "name": "Billy",
+      "confidence": 36,
+      "mentions": 2
+    },
+    {
+      "name": "Kenzo",
+      "confidence": 36,
+      "mentions": 2
+    },
+    {
+      "name": "Piper",
+      "confidence": 36,
+      "mentions": 2
+    }
+  ],
+  "possible_guests": [],
+  "strong_signals": [
+    {
+      "label": "FBI",
+      "mentions": 61,
+      "stars": 5
+    },
+    {
+      "label": "Frog Tony",
+      "mentions": 37,
+      "stars": 4
+    },
+    {
+      "label": "Ethan Van Sciver",
+      "mentions": 35,
+      "stars": 4
+    },
+    {
+      "label": "Hey",
+      "mentions": 20,
+      "stars": 3
+    }
+  ],
+  "weak_signals": [
+    {
+      "label": "Mark",
+      "mentions": 15
+    },
+    {
+      "label": "Katie",
+      "mentions": 14
+    },
+    {
+      "label": "Liam Gray",
+      "mentions": 10
+    },
+    {
+      "label": "Eric July",
+      "mentions": 9
+    },
+    {
+      "label": "Dude",
+      "mentions": 7
+    },
+    {
+      "label": "ComicsGate",
+      "mentions": 6
+    },
+    {
+      "label": "Dane",
+      "mentions": 6
+    },
+    {
+      "label": "Matt Bahr",
+      "mentions": 6
+    },
+    {
+      "label": "Zeno",
+      "mentions": 5
+    },
+    {
+      "label": "FanFest",
+      "mentions": 4
+    },
+    {
+      "label": "Purp",
+      "mentions": 4
+    },
+    {
+      "label": "Andrea",
+      "mentions": 3
+    },
+    {
+      "label": "Australia",
+      "mentions": 3
+    },
+    {
+      "label": "Chinese",
+      "mentions": 3
+    },
+    {
+      "label": "Dark Gift",
+      "mentions": 3
+    },
+    {
+      "label": "EBS",
+      "mentions": 3
+    },
+    {
+      "label": "FFS",
+      "mentions": 3
+    },
+    {
+      "label": "Gyver",
+      "mentions": 3
+    },
+    {
+      "label": "Hold",
+      "mentions": 3
+    },
+    {
+      "label": "Holy",
+      "mentions": 3
+    },
+    {
+      "label": "Per",
+      "mentions": 3
+    },
+    {
+      "label": "Shut",
+      "mentions": 3
+    },
+    {
+      "label": "Tommy Mark",
+      "mentions": 3
+    },
+    {
+      "label": "Apparently",
+      "mentions": 2
+    },
+    {
+      "label": "Atlantic City",
+      "mentions": 2
+    },
+    {
+      "label": "Champions League",
+      "mentions": 2
+    },
+    {
+      "label": "CIA",
+      "mentions": 2
+    },
+    {
+      "label": "Clipverse",
+      "mentions": 2
+    },
+    {
+      "label": "Connie",
+      "mentions": 2
+    },
+    {
+      "label": "Correct",
+      "mentions": 2
+    },
+    {
+      "label": "Disney",
+      "mentions": 2
+    },
+    {
+      "label": "Elizabeth",
+      "mentions": 2
+    },
+    {
+      "label": "Everybody",
+      "mentions": 2
+    },
+    {
+      "label": "Evil Dead",
+      "mentions": 2
+    },
+    {
+      "label": "Five",
+      "mentions": 2
+    },
+    {
+      "label": "Gver",
+      "mentions": 2
+    },
+    {
+      "label": "IMDb",
+      "mentions": 2
+    },
+    {
+      "label": "Jay",
+      "mentions": 2
+    },
+    {
+      "label": "JD Kirby",
+      "mentions": 2
+    },
+    {
+      "label": "Jesus Christ",
+      "mentions": 2
+    },
+    {
+      "label": "John Dela Rose",
+      "mentions": 2
+    },
+    {
+      "label": "Kami Mark",
+      "mentions": 2
+    },
+    {
+      "label": "Kickstarter",
+      "mentions": 2
+    },
+    {
+      "label": "Kiwi Farms",
+      "mentions": 2
+    },
+    {
+      "label": "Knife School",
+      "mentions": 2
+    },
+    {
+      "label": "Literally",
+      "mentions": 2
+    },
+    {
+      "label": "Marvel",
+      "mentions": 2
+    },
+    {
+      "label": "Mexican",
+      "mentions": 2
+    },
+    {
+      "label": "Riley",
+      "mentions": 2
+    },
+    {
+      "label": "Russian",
+      "mentions": 2
+    },
+    {
+      "label": "Should",
+      "mentions": 2
+    },
+    {
+      "label": "SJW",
+      "mentions": 2
+    },
+    {
+      "label": "Sturgis",
+      "mentions": 2
+    },
+    {
+      "label": "Synynic",
+      "mentions": 2
+    },
+    {
+      "label": "Wait",
+      "mentions": 2
+    },
+    {
+      "label": "Whoa",
+      "mentions": 2
+    },
+    {
+      "label": "Zack Snider",
+      "mentions": 2
+    },
+    {
+      "label": "Agent Habib",
+      "mentions": 1
+    },
+    {
+      "label": "Agent Johnson",
+      "mentions": 1
+    },
+    {
+      "label": "AMV",
+      "mentions": 1
+    },
+    {
+      "label": "Andreas Mazwell",
+      "mentions": 1
+    },
+    {
+      "label": "Billy Tucci",
+      "mentions": 1
+    },
+    {
+      "label": "CGUK",
+      "mentions": 1
+    },
+    {
+      "label": "Christian Hispanic",
+      "mentions": 1
+    },
+    {
+      "label": "Delar Rose",
+      "mentions": 1
+    },
+    {
+      "label": "EDS",
+      "mentions": 1
+    },
+    {
+      "label": "Ethan Ethan",
+      "mentions": 1
+    },
+    {
+      "label": "Ethan Van Sky",
+      "mentions": 1
+    },
+    {
+      "label": "Grim Jim",
+      "mentions": 1
+    },
+    {
+      "label": "Harris Casino",
+      "mentions": 1
+    },
+    {
+      "label": "Invite Dark Gift",
+      "mentions": 1
+    },
+    {
+      "label": "JD Kirk",
+      "mentions": 1
+    },
+    {
+      "label": "Joe Glass",
+      "mentions": 1
+    },
+    {
+      "label": "JT Kirby",
+      "mentions": 1
+    },
+    {
+      "label": "Katie Doo",
+      "mentions": 1
+    },
+    {
+      "label": "Katie Duke",
+      "mentions": 1
+    },
+    {
+      "label": "Kay Fib",
+      "mentions": 1
+    },
+    {
+      "label": "Late Nightight Comics",
+      "mentions": 1
+    },
+    {
+      "label": "LCA",
+      "mentions": 1
+    },
+    {
+      "label": "Liam Frog",
+      "mentions": 1
+    },
+    {
+      "label": "Lil Moo",
+      "mentions": 1
+    },
+    {
+      "label": "Mad Max Movie Madison",
+      "mentions": 1
+    },
+    {
+      "label": "Maggie Pants",
+      "mentions": 1
+    },
+    {
+      "label": "Mark Buffalo",
+      "mentions": 1
+    },
+    {
+      "label": "Mark Ruffalo",
+      "mentions": 1
+    },
+    {
+      "label": "Martin Solomon",
+      "mentions": 1
+    },
+    {
+      "label": "Matthew Bird",
+      "mentions": 1
+    },
+    {
+      "label": "Mega Con",
+      "mentions": 1
+    },
+    {
+      "label": "Mono Max",
+      "mentions": 1
+    },
+    {
+      "label": "Moving Purp",
+      "mentions": 1
+    },
+    {
+      "label": "N2 Paints",
+      "mentions": 1
+    },
+    {
+      "label": "Nicholas Cruz",
+      "mentions": 1
+    },
+    {
+      "label": "OBS",
+      "mentions": 1
+    },
+    {
+      "label": "Officer Crump",
+      "mentions": 1
+    },
+    {
+      "label": "Patriot Act",
+      "mentions": 1
+    },
+    {
+      "label": "Poor Liam",
+      "mentions": 1
+    },
+    {
+      "label": "Resident Evil",
+      "mentions": 1
+    },
+    {
+      "label": "Russian Troll Factory",
+      "mentions": 1
+    },
+    {
+      "label": "Salvador Dolly",
+      "mentions": 1
+    },
+    {
+      "label": "Salvador Ramos",
+      "mentions": 1
+    },
+    {
+      "label": "Shri Narasima",
+      "mentions": 1
+    },
+    {
+      "label": "Stansel Janis",
+      "mentions": 1
+    },
+    {
+      "label": "Stray Beans",
+      "mentions": 1
+    },
+    {
+      "label": "Stray Bullets",
+      "mentions": 1
+    },
+    {
+      "label": "Super Tiso",
+      "mentions": 1
+    },
+    {
+      "label": "SWAT",
+      "mentions": 1
+    },
+    {
+      "label": "Texas Mofo",
+      "mentions": 1
+    },
+    {
+      "label": "They'll They'll",
+      "mentions": 1
+    },
+    {
+      "label": "Trash Cast",
+      "mentions": 1
+    },
+    {
+      "label": "Uncle E",
+      "mentions": 1
+    },
+    {
+      "label": "Uncle Ethan",
+      "mentions": 1
+    },
+    {
+      "label": "USD",
+      "mentions": 1
+    },
+    {
+      "label": "Veil Ned",
+      "mentions": 1
+    },
+    {
+      "label": "War Campaign",
+      "mentions": 1
+    }
+  ]
+}

@@ -1,0 +1,1285 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-07-19T18:37:04.986832+00:00",
+  "video_id": "3q0Lk5Vap5U",
+  "title": "It's All Fine - Friday Special | #935",
+  "channel": "Ministry of Dude",
+  "published": "2026-07-11T16:52:27+00:00",
+  "source_transcript": "It's All Fine - Friday Special #935 [3q0Lk5Vap5U].json",
+  "host": "Ministry of Dude",
+  "possible_panel": [],
+  "possible_guests": [],
+  "strong_signals": [
+    {
+      "label": "Israel",
+      "mentions": 57,
+      "stars": 5
+    },
+    {
+      "label": "Hollywood",
+      "mentions": 40,
+      "stars": 4
+    },
+    {
+      "label": "Israeli",
+      "mentions": 32,
+      "stars": 4
+    },
+    {
+      "label": "Tyler",
+      "mentions": 28,
+      "stars": 4
+    },
+    {
+      "label": "Johnny",
+      "mentions": 23,
+      "stars": 3
+    }
+  ],
+  "weak_signals": [
+    {
+      "label": "Scarlet",
+      "mentions": 20
+    },
+    {
+      "label": "Kyle",
+      "mentions": 19
+    },
+    {
+      "label": "Mossad",
+      "mentions": 17
+    },
+    {
+      "label": "Hey",
+      "mentions": 13
+    },
+    {
+      "label": "Weinstein",
+      "mentions": 10
+    },
+    {
+      "label": "Caitlyn Clark",
+      "mentions": 9
+    },
+    {
+      "label": "Carrie",
+      "mentions": 9
+    },
+    {
+      "label": "Homeland",
+      "mentions": 9
+    },
+    {
+      "label": "Till",
+      "mentions": 9
+    },
+    {
+      "label": "Shut",
+      "mentions": 8
+    },
+    {
+      "label": "Taylor",
+      "mentions": 8
+    },
+    {
+      "label": "Adam",
+      "mentions": 7
+    },
+    {
+      "label": "American",
+      "mentions": 7
+    },
+    {
+      "label": "God",
+      "mentions": 7
+    },
+    {
+      "label": "John",
+      "mentions": 7
+    },
+    {
+      "label": "Palestinian",
+      "mentions": 7
+    },
+    {
+      "label": "Stop",
+      "mentions": 7
+    },
+    {
+      "label": "Wait",
+      "mentions": 7
+    },
+    {
+      "label": "CIA",
+      "mentions": 6
+    },
+    {
+      "label": "Dana",
+      "mentions": 6
+    },
+    {
+      "label": "Goodman",
+      "mentions": 6
+    },
+    {
+      "label": "Harvey",
+      "mentions": 6
+    },
+    {
+      "label": "Huh",
+      "mentions": 6
+    },
+    {
+      "label": "Jews",
+      "mentions": 6
+    },
+    {
+      "label": "Joey",
+      "mentions": 6
+    },
+    {
+      "label": "Ministry",
+      "mentions": 6
+    },
+    {
+      "label": "Palestine",
+      "mentions": 6
+    },
+    {
+      "label": "Palestinians",
+      "mentions": 6
+    },
+    {
+      "label": "Robocop",
+      "mentions": 6
+    },
+    {
+      "label": "World War",
+      "mentions": 6
+    },
+    {
+      "label": "Batman",
+      "mentions": 5
+    },
+    {
+      "label": "Brad Pitt",
+      "mentions": 5
+    },
+    {
+      "label": "City Skylines",
+      "mentions": 5
+    },
+    {
+      "label": "Kofi",
+      "mentions": 5
+    },
+    {
+      "label": "World Cup",
+      "mentions": 5
+    },
+    {
+      "label": "Alex Jones",
+      "mentions": 4
+    },
+    {
+      "label": "Black Cube",
+      "mentions": 4
+    },
+    {
+      "label": "Boom",
+      "mentions": 4
+    },
+    {
+      "label": "Dude",
+      "mentions": 4
+    },
+    {
+      "label": "IDF",
+      "mentions": 4
+    },
+    {
+      "label": "Jew",
+      "mentions": 4
+    },
+    {
+      "label": "Mosad",
+      "mentions": 4
+    },
+    {
+      "label": "MOSAD",
+      "mentions": 4
+    },
+    {
+      "label": "MSAD",
+      "mentions": 4
+    },
+    {
+      "label": "Stevie",
+      "mentions": 4
+    },
+    {
+      "label": "Three",
+      "mentions": 4
+    },
+    {
+      "label": "Two",
+      "mentions": 4
+    },
+    {
+      "label": "Zionist",
+      "mentions": 4
+    },
+    {
+      "label": "America",
+      "mentions": 3
+    },
+    {
+      "label": "Americans",
+      "mentions": 3
+    },
+    {
+      "label": "Angelina Jolie",
+      "mentions": 3
+    },
+    {
+      "label": "Argentinians",
+      "mentions": 3
+    },
+    {
+      "label": "Brazil",
+      "mentions": 3
+    },
+    {
+      "label": "Charizard",
+      "mentions": 3
+    },
+    {
+      "label": "Definitely",
+      "mentions": 3
+    },
+    {
+      "label": "DLC",
+      "mentions": 3
+    },
+    {
+      "label": "Exodus",
+      "mentions": 3
+    },
+    {
+      "label": "Fuck",
+      "mentions": 3
+    },
+    {
+      "label": "Gaza",
+      "mentions": 3
+    },
+    {
+      "label": "Iranian",
+      "mentions": 3
+    },
+    {
+      "label": "Israelis",
+      "mentions": 3
+    },
+    {
+      "label": "Jewish American",
+      "mentions": 3
+    },
+    {
+      "label": "Jinx",
+      "mentions": 3
+    },
+    {
+      "label": "Joe",
+      "mentions": 3
+    },
+    {
+      "label": "Man",
+      "mentions": 3
+    },
+    {
+      "label": "Matt Bahr",
+      "mentions": 3
+    },
+    {
+      "label": "Milchin",
+      "mentions": 3
+    },
+    {
+      "label": "Mom",
+      "mentions": 3
+    },
+    {
+      "label": "Muslim",
+      "mentions": 3
+    },
+    {
+      "label": "Netflix",
+      "mentions": 3
+    },
+    {
+      "label": "Nice",
+      "mentions": 3
+    },
+    {
+      "label": "Rangers",
+      "mentions": 3
+    },
+    {
+      "label": "Roller Coaster Tycoon",
+      "mentions": 3
+    },
+    {
+      "label": "Spielberg",
+      "mentions": 3
+    },
+    {
+      "label": "Step",
+      "mentions": 3
+    },
+    {
+      "label": "Academy Award",
+      "mentions": 2
+    },
+    {
+      "label": "Alvin",
+      "mentions": 2
+    },
+    {
+      "label": "Angelino",
+      "mentions": 2
+    },
+    {
+      "label": "Apparently",
+      "mentions": 2
+    },
+    {
+      "label": "Apple TV",
+      "mentions": 2
+    },
+    {
+      "label": "Arabic",
+      "mentions": 2
+    },
+    {
+      "label": "Bamante",
+      "mentions": 2
+    },
+    {
+      "label": "Behind",
+      "mentions": 2
+    },
+    {
+      "label": "Bell",
+      "mentions": 2
+    },
+    {
+      "label": "Big",
+      "mentions": 2
+    },
+    {
+      "label": "Bolocks",
+      "mentions": 2
+    },
+    {
+      "label": "Brad Pit",
+      "mentions": 2
+    },
+    {
+      "label": "Brazilian",
+      "mentions": 2
+    },
+    {
+      "label": "Brilliant",
+      "mentions": 2
+    },
+    {
+      "label": "Bull",
+      "mentions": 2
+    },
+    {
+      "label": "CBS",
+      "mentions": 2
+    },
+    {
+      "label": "Chrissy",
+      "mentions": 2
+    },
+    {
+      "label": "Chuck Norris",
+      "mentions": 2
+    },
+    {
+      "label": "Clintons",
+      "mentions": 2
+    },
+    {
+      "label": "Con",
+      "mentions": 2
+    },
+    {
+      "label": "Dana White",
+      "mentions": 2
+    },
+    {
+      "label": "Destiny",
+      "mentions": 2
+    },
+    {
+      "label": "Earth",
+      "mentions": 2
+    },
+    {
+      "label": "English",
+      "mentions": 2
+    },
+    {
+      "label": "Epstein",
+      "mentions": 2
+    },
+    {
+      "label": "Everybody",
+      "mentions": 2
+    },
+    {
+      "label": "FBI",
+      "mentions": 2
+    },
+    {
+      "label": "Fight Club",
+      "mentions": 2
+    },
+    {
+      "label": "Goldberg",
+      "mentions": 2
+    },
+    {
+      "label": "Gotcha",
+      "mentions": 2
+    },
+    {
+      "label": "Harvey Weinstein",
+      "mentions": 2
+    },
+    {
+      "label": "Honey",
+      "mentions": 2
+    },
+    {
+      "label": "Hospital",
+      "mentions": 2
+    },
+    {
+      "label": "House",
+      "mentions": 2
+    },
+    {
+      "label": "Imagine",
+      "mentions": 2
+    },
+    {
+      "label": "IMDb",
+      "mentions": 2
+    },
+    {
+      "label": "Interesting",
+      "mentions": 2
+    },
+    {
+      "label": "Iran",
+      "mentions": 2
+    },
+    {
+      "label": "Japanese",
+      "mentions": 2
+    },
+    {
+      "label": "Jeez",
+      "mentions": 2
+    },
+    {
+      "label": "Jerusalem",
+      "mentions": 2
+    },
+    {
+      "label": "JFK",
+      "mentions": 2
+    },
+    {
+      "label": "John Israel",
+      "mentions": 2
+    },
+    {
+      "label": "Johnny Cash",
+      "mentions": 2
+    },
+    {
+      "label": "Johnny Rocket",
+      "mentions": 2
+    },
+    {
+      "label": "Kill",
+      "mentions": 2
+    },
+    {
+      "label": "Listen",
+      "mentions": 2
+    },
+    {
+      "label": "Love Christ",
+      "mentions": 2
+    },
+    {
+      "label": "Mark Ruffalo",
+      "mentions": 2
+    },
+    {
+      "label": "Mars",
+      "mentions": 2
+    },
+    {
+      "label": "Men",
+      "mentions": 2
+    },
+    {
+      "label": "Michigan",
+      "mentions": 2
+    },
+    {
+      "label": "Nah",
+      "mentions": 2
+    },
+    {
+      "label": "NASA",
+      "mentions": 2
+    },
+    {
+      "label": "Nazi",
+      "mentions": 2
+    },
+    {
+      "label": "Oswald",
+      "mentions": 2
+    },
+    {
+      "label": "Others",
+      "mentions": 2
+    },
+    {
+      "label": "Pharaoh",
+      "mentions": 2
+    },
+    {
+      "label": "Porn",
+      "mentions": 2
+    },
+    {
+      "label": "Put",
+      "mentions": 2
+    },
+    {
+      "label": "Qaeda",
+      "mentions": 2
+    },
+    {
+      "label": "Ralph",
+      "mentions": 2
+    },
+    {
+      "label": "Revenant",
+      "mentions": 2
+    },
+    {
+      "label": "Riley",
+      "mentions": 2
+    },
+    {
+      "label": "Robert Dairo",
+      "mentions": 2
+    },
+    {
+      "label": "Rose McGowan",
+      "mentions": 2
+    },
+    {
+      "label": "Satan",
+      "mentions": 2
+    },
+    {
+      "label": "Scream",
+      "mentions": 2
+    },
+    {
+      "label": "Screech",
+      "mentions": 2
+    },
+    {
+      "label": "Sim City4",
+      "mentions": 2
+    },
+    {
+      "label": "Slave",
+      "mentions": 2
+    },
+    {
+      "label": "Sometimes",
+      "mentions": 2
+    },
+    {
+      "label": "South Africa",
+      "mentions": 2
+    },
+    {
+      "label": "Spy",
+      "mentions": 2
+    },
+    {
+      "label": "Stand",
+      "mentions": 2
+    },
+    {
+      "label": "Suppress",
+      "mentions": 2
+    },
+    {
+      "label": "Timothy McVey",
+      "mentions": 2
+    },
+    {
+      "label": "Twitter",
+      "mentions": 2
+    },
+    {
+      "label": "United",
+      "mentions": 2
+    },
+    {
+      "label": "Universally",
+      "mentions": 2
+    },
+    {
+      "label": "Whether",
+      "mentions": 2
+    },
+    {
+      "label": "Woman",
+      "mentions": 2
+    },
+    {
+      "label": "Women",
+      "mentions": 2
+    },
+    {
+      "label": "Years",
+      "mentions": 2
+    },
+    {
+      "label": "YouTubers",
+      "mentions": 2
+    },
+    {
+      "label": "AA Kaufman",
+      "mentions": 1
+    },
+    {
+      "label": "Abraham Lincoln",
+      "mentions": 1
+    },
+    {
+      "label": "Adam Zapple",
+      "mentions": 1
+    },
+    {
+      "label": "Adolf Ikeman",
+      "mentions": 1
+    },
+    {
+      "label": "Andles Sheiggles",
+      "mentions": 1
+    },
+    {
+      "label": "Angeles Times",
+      "mentions": 1
+    },
+    {
+      "label": "Apple TV Plus",
+      "mentions": 1
+    },
+    {
+      "label": "Ari Silven Gold",
+      "mentions": 1
+    },
+    {
+      "label": "Arthur Crim",
+      "mentions": 1
+    },
+    {
+      "label": "Baron Cohen",
+      "mentions": 1
+    },
+    {
+      "label": "Ben Kingsley",
+      "mentions": 1
+    },
+    {
+      "label": "Bill Clinton",
+      "mentions": 1
+    },
+    {
+      "label": "Bill Hicks",
+      "mentions": 1
+    },
+    {
+      "label": "Bohemian Grove",
+      "mentions": 1
+    },
+    {
+      "label": "Bohemian Rapsidy",
+      "mentions": 1
+    },
+    {
+      "label": "Buying Mossad",
+      "mentions": 1
+    },
+    {
+      "label": "Captain America",
+      "mentions": 1
+    },
+    {
+      "label": "Carrie Mat",
+      "mentions": 1
+    },
+    {
+      "label": "Chrissy Mayor",
+      "mentions": 1
+    },
+    {
+      "label": "City Skylands",
+      "mentions": 1
+    },
+    {
+      "label": "Claire Danes",
+      "mentions": 1
+    },
+    {
+      "label": "Clint Eastwood",
+      "mentions": 1
+    },
+    {
+      "label": "Cold Bear",
+      "mentions": 1
+    },
+    {
+      "label": "ComicsGate",
+      "mentions": 1
+    },
+    {
+      "label": "CONSPIRACY GUY",
+      "mentions": 1
+    },
+    {
+      "label": "Cory Foxra",
+      "mentions": 1
+    },
+    {
+      "label": "Courtney Cox",
+      "mentions": 1
+    },
+    {
+      "label": "Crazy Scarlet",
+      "mentions": 1
+    },
+    {
+      "label": "Curtney Cox",
+      "mentions": 1
+    },
+    {
+      "label": "CVJ",
+      "mentions": 1
+    },
+    {
+      "label": "Dark Leaf",
+      "mentions": 1
+    },
+    {
+      "label": "David Ellison",
+      "mentions": 1
+    },
+    {
+      "label": "Dball Money",
+      "mentions": 1
+    },
+    {
+      "label": "Death Wish",
+      "mentions": 1
+    },
+    {
+      "label": "Dude Studios USA",
+      "mentions": 1
+    },
+    {
+      "label": "Ehood Barak",
+      "mentions": 1
+    },
+    {
+      "label": "Eric Banner",
+      "mentions": 1
+    },
+    {
+      "label": "Ethan Ralph",
+      "mentions": 1
+    },
+    {
+      "label": "Ethiopian Jewish",
+      "mentions": 1
+    },
+    {
+      "label": "Frog Tony",
+      "mentions": 1
+    },
+    {
+      "label": "Gideon Raph",
+      "mentions": 1
+    },
+    {
+      "label": "Goldenberg Hollywood",
+      "mentions": 1
+    },
+    {
+      "label": "Gone Girl",
+      "mentions": 1
+    },
+    {
+      "label": "Google Maps",
+      "mentions": 1
+    },
+    {
+      "label": "Hollywood A-listers",
+      "mentions": 1
+    },
+    {
+      "label": "Home Depot",
+      "mentions": 1
+    },
+    {
+      "label": "Hotline Miami",
+      "mentions": 1
+    },
+    {
+      "label": "International Court",
+      "mentions": 1
+    },
+    {
+      "label": "Israel Gaza War",
+      "mentions": 1
+    },
+    {
+      "label": "Israel's Hollywood",
+      "mentions": 1
+    },
+    {
+      "label": "Israel's Israel",
+      "mentions": 1
+    },
+    {
+      "label": "Israeli IDF",
+      "mentions": 1
+    },
+    {
+      "label": "Israeli Jews",
+      "mentions": 1
+    },
+    {
+      "label": "Israeli National Security Council",
+      "mentions": 1
+    },
+    {
+      "label": "James Bond",
+      "mentions": 1
+    },
+    {
+      "label": "Javier Bardam",
+      "mentions": 1
+    },
+    {
+      "label": "Jeffrey Epstein",
+      "mentions": 1
+    },
+    {
+      "label": "JFK JFK",
+      "mentions": 1
+    },
+    {
+      "label": "Joe Marovich",
+      "mentions": 1
+    },
+    {
+      "label": "Joe McJ",
+      "mentions": 1
+    },
+    {
+      "label": "Joe Rogan",
+      "mentions": 1
+    },
+    {
+      "label": "John Kiyaku",
+      "mentions": 1
+    },
+    {
+      "label": "Johnny Crutch",
+      "mentions": 1
+    },
+    {
+      "label": "Johnny Crutches",
+      "mentions": 1
+    },
+    {
+      "label": "Johnny Johnny",
+      "mentions": 1
+    },
+    {
+      "label": "Jonathan Glazer",
+      "mentions": 1
+    },
+    {
+      "label": "Justin Timberlake",
+      "mentions": 1
+    },
+    {
+      "label": "Kim Jong-un",
+      "mentions": 1
+    },
+    {
+      "label": "Kyle Fridays",
+      "mentions": 1
+    },
+    {
+      "label": "LA Confidential",
+      "mentions": 1
+    },
+    {
+      "label": "Larry Ellis",
+      "mentions": 1
+    },
+    {
+      "label": "Larry Ellison",
+      "mentions": 1
+    },
+    {
+      "label": "Lee Harvey",
+      "mentions": 1
+    },
+    {
+      "label": "Liam Gray",
+      "mentions": 1
+    },
+    {
+      "label": "LIAR",
+      "mentions": 1
+    },
+    {
+      "label": "LLM",
+      "mentions": 1
+    },
+    {
+      "label": "Los Angeles",
+      "mentions": 1
+    },
+    {
+      "label": "Lyndon Johnson",
+      "mentions": 1
+    },
+    {
+      "label": "Marcel De Magus",
+      "mentions": 1
+    },
+    {
+      "label": "Matt Charle",
+      "mentions": 1
+    },
+    {
+      "label": "Max Brooks",
+      "mentions": 1
+    },
+    {
+      "label": "Melissa Barrera",
+      "mentions": 1
+    },
+    {
+      "label": "Michael Bay",
+      "mentions": 1
+    },
+    {
+      "label": "Michael Jackson",
+      "mentions": 1
+    },
+    {
+      "label": "Middle East",
+      "mentions": 1
+    },
+    {
+      "label": "Mike Herb",
+      "mentions": 1
+    },
+    {
+      "label": "Milo Coney",
+      "mentions": 1
+    },
+    {
+      "label": "Miss Bayside",
+      "mentions": 1
+    },
+    {
+      "label": "Miss Fight",
+      "mentions": 1
+    },
+    {
+      "label": "MK Ultra",
+      "mentions": 1
+    },
+    {
+      "label": "MOSA",
+      "mentions": 1
+    },
+    {
+      "label": "MOSFA",
+      "mentions": 1
+    },
+    {
+      "label": "Munich Olympics",
+      "mentions": 1
+    },
+    {
+      "label": "Nick Nick",
+      "mentions": 1
+    },
+    {
+      "label": "North Korea",
+      "mentions": 1
+    },
+    {
+      "label": "Operation Exodus",
+      "mentions": 1
+    },
+    {
+      "label": "Operation Finale",
+      "mentions": 1
+    },
+    {
+      "label": "Otto Primager",
+      "mentions": 1
+    },
+    {
+      "label": "Otto Priminger's Exodus",
+      "mentions": 1
+    },
+    {
+      "label": "Pablo Escobar",
+      "mentions": 1
+    },
+    {
+      "label": "Paul Newman",
+      "mentions": 1
+    },
+    {
+      "label": "Penelope Cruz",
+      "mentions": 1
+    },
+    {
+      "label": "Power Rangers",
+      "mentions": 1
+    },
+    {
+      "label": "President Nixon",
+      "mentions": 1
+    },
+    {
+      "label": "Red Sea Diving",
+      "mentions": 1
+    },
+    {
+      "label": "Red Sea Diving Resort",
+      "mentions": 1
+    },
+    {
+      "label": "ROC",
+      "mentions": 1
+    },
+    {
+      "label": "Roller Coaster",
+      "mentions": 1
+    },
+    {
+      "label": "Ronan Faroh",
+      "mentions": 1
+    },
+    {
+      "label": "Root Roots",
+      "mentions": 1
+    },
+    {
+      "label": "Rose Fridays",
+      "mentions": 1
+    },
+    {
+      "label": "Rose McGawan",
+      "mentions": 1
+    },
+    {
+      "label": "Sandra Bull",
+      "mentions": 1
+    },
+    {
+      "label": "Sandra Bulock",
+      "mentions": 1
+    },
+    {
+      "label": "Sarah Freedelland",
+      "mentions": 1
+    },
+    {
+      "label": "Sasha Bar",
+      "mentions": 1
+    },
+    {
+      "label": "Save Bell",
+      "mentions": 1
+    },
+    {
+      "label": "Scarlet Scarlet",
+      "mentions": 1
+    },
+    {
+      "label": "Scorsesei Stone Fincher",
+      "mentions": 1
+    },
+    {
+      "label": "Sean Pan",
+      "mentions": 1
+    },
+    {
+      "label": "SFW",
+      "mentions": 1
+    },
+    {
+      "label": "Sim City",
+      "mentions": 1
+    },
+    {
+      "label": "Sin City",
+      "mentions": 1
+    },
+    {
+      "label": "Sometimes Destiny",
+      "mentions": 1
+    },
+    {
+      "label": "Stella Penn",
+      "mentions": 1
+    },
+    {
+      "label": "Steven Sp",
+      "mentions": 1
+    },
+    {
+      "label": "Steven Zeitic",
+      "mentions": 1
+    },
+    {
+      "label": "Stone Age",
+      "mentions": 1
+    },
+    {
+      "label": "Super Tip",
+      "mentions": 1
+    },
+    {
+      "label": "Susan Sarendon",
+      "mentions": 1
+    },
+    {
+      "label": "T's Dr",
+      "mentions": 1
+    },
+    {
+      "label": "Tel Aviv",
+      "mentions": 1
+    },
+    {
+      "label": "Till God",
+      "mentions": 1
+    },
+    {
+      "label": "Tony Kushner",
+      "mentions": 1
+    },
+    {
+      "label": "Trevor Moore",
+      "mentions": 1
+    },
+    {
+      "label": "Tycoon Games",
+      "mentions": 1
+    },
+    {
+      "label": "Tyler Olivera",
+      "mentions": 1
+    },
+    {
+      "label": "Tyrants Dig",
+      "mentions": 1
+    },
+    {
+      "label": "UFC",
+      "mentions": 1
+    },
+    {
+      "label": "United Artists",
+      "mentions": 1
+    },
+    {
+      "label": "United Nations",
+      "mentions": 1
+    },
+    {
+      "label": "Van Halen",
+      "mentions": 1
+    },
+    {
+      "label": "Vanessa Redgrave",
+      "mentions": 1
+    },
+    {
+      "label": "Venice Film",
+      "mentions": 1
+    },
+    {
+      "label": "Vio Johnny",
+      "mentions": 1
+    },
+    {
+      "label": "Vito",
+      "mentions": 1
+    },
+    {
+      "label": "War II",
+      "mentions": 1
+    },
+    {
+      "label": "WNBA",
+      "mentions": 1
+    },
+    {
+      "label": "Yasser Arafat",
+      "mentions": 1
+    },
+    {
+      "label": "Zionist Hollywood",
+      "mentions": 1
+    },
+    {
+      "label": "Zionist Johnny",
+      "mentions": 1
+    }
+  ]
+}

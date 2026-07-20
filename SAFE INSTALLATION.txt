@@ -1,0 +1,19 @@
+SAFE INSTALLATION
+=================
+
+1. Do not overwrite an existing working installation without a backup.
+2. Extract this package beside the current system.
+3. Run, in this order:
+
+   01 - DRAMA RADAR\RUN RADAR.bat
+   02 - TRANSCRIPT GRABBER\GET TRANSCRIPTS.bat
+
+4. Confirm that new transcripts appear only under:
+
+   02 - TRANSCRIPT GRABBER\transcripts\YYYY-MM
+
+5. Human-readable reports are stored beside their matching raw transcript JSON files.
+
+6. Preserved profiles and analysis are stored under:
+
+   02 - TRANSCRIPT GRABBER\analysis

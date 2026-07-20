@@ -1,0 +1,804 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-07-19T18:36:54.122751+00:00",
+  "video_id": "o02omTpC4Us",
+  "title": "HACHETTE JOB - Rippaverse, Racism, DEI and Cancel Culture Wars EXPOSED",
+  "channel": "COMMI3 МARK",
+  "published": "2026-05-08T21:19:55+00:00",
+  "source_transcript": "HACHETTE JOB - Rippaverse, Racism, DEI and Cancel Culture Wars EXPOSED [o02omTpC4Us].json",
+  "host": "Commi3 Mark",
+  "possible_panel": [
+    {
+      "name": "Billy",
+      "confidence": 78,
+      "mentions": 16
+    },
+    {
+      "name": "Yan",
+      "confidence": 67,
+      "mentions": 9
+    },
+    {
+      "name": "Piper",
+      "confidence": 57,
+      "mentions": 6
+    },
+    {
+      "name": "Kenzo",
+      "confidence": 48,
+      "mentions": 4
+    }
+  ],
+  "possible_guests": [],
+  "strong_signals": [
+    {
+      "label": "French",
+      "mentions": 46,
+      "stars": 5
+    },
+    {
+      "label": "France",
+      "mentions": 25,
+      "stars": 4
+    },
+    {
+      "label": "Napoleon",
+      "mentions": 19,
+      "stars": 3
+    }
+  ],
+  "weak_signals": [
+    {
+      "label": "America",
+      "mentions": 11
+    },
+    {
+      "label": "English",
+      "mentions": 11
+    },
+    {
+      "label": "Woody Allen",
+      "mentions": 10
+    },
+    {
+      "label": "Vatican",
+      "mentions": 9
+    },
+    {
+      "label": "Eric",
+      "mentions": 7
+    },
+    {
+      "label": "Hatchet",
+      "mentions": 7
+    },
+    {
+      "label": "European",
+      "mentions": 6
+    },
+    {
+      "label": "Russian Troll Factory",
+      "mentions": 6
+    },
+    {
+      "label": "Africa",
+      "mentions": 5
+    },
+    {
+      "label": "American",
+      "mentions": 5
+    },
+    {
+      "label": "Constantinople",
+      "mentions": 5
+    },
+    {
+      "label": "Holy",
+      "mentions": 5
+    },
+    {
+      "label": "Jay Dollar",
+      "mentions": 5
+    },
+    {
+      "label": "Louie",
+      "mentions": 5
+    },
+    {
+      "label": "Nice",
+      "mentions": 5
+    },
+    {
+      "label": "Pharaoh",
+      "mentions": 5
+    },
+    {
+      "label": "Uhhuh",
+      "mentions": 5
+    },
+    {
+      "label": "Eric July",
+      "mentions": 4
+    },
+    {
+      "label": "Europe",
+      "mentions": 4
+    },
+    {
+      "label": "German",
+      "mentions": 4
+    },
+    {
+      "label": "Hey",
+      "mentions": 4
+    },
+    {
+      "label": "Jesus",
+      "mentions": 4
+    },
+    {
+      "label": "Lobo",
+      "mentions": 4
+    },
+    {
+      "label": "Mark",
+      "mentions": 4
+    },
+    {
+      "label": "Nazis",
+      "mentions": 4
+    },
+    {
+      "label": "Prussia",
+      "mentions": 4
+    },
+    {
+      "label": "Templar",
+      "mentions": 4
+    },
+    {
+      "label": "Wait",
+      "mentions": 4
+    },
+    {
+      "label": "Amazon",
+      "mentions": 3
+    },
+    {
+      "label": "Belgium",
+      "mentions": 3
+    },
+    {
+      "label": "Brian",
+      "mentions": 3
+    },
+    {
+      "label": "Bye-bye",
+      "mentions": 3
+    },
+    {
+      "label": "Caesar",
+      "mentions": 3
+    },
+    {
+      "label": "FrancoRussian War",
+      "mentions": 3
+    },
+    {
+      "label": "Giza",
+      "mentions": 3
+    },
+    {
+      "label": "Goonies",
+      "mentions": 3
+    },
+    {
+      "label": "Hungary",
+      "mentions": 3
+    },
+    {
+      "label": "King",
+      "mentions": 3
+    },
+    {
+      "label": "Philippines",
+      "mentions": 3
+    },
+    {
+      "label": "Quark",
+      "mentions": 3
+    },
+    {
+      "label": "Rothschild",
+      "mentions": 3
+    },
+    {
+      "label": "Rothschilds",
+      "mentions": 3
+    },
+    {
+      "label": "Stalin",
+      "mentions": 3
+    },
+    {
+      "label": "Abraham Lincoln",
+      "mentions": 2
+    },
+    {
+      "label": "African",
+      "mentions": 2
+    },
+    {
+      "label": "Algeria",
+      "mentions": 2
+    },
+    {
+      "label": "Andor",
+      "mentions": 2
+    },
+    {
+      "label": "Asterisk",
+      "mentions": 2
+    },
+    {
+      "label": "Benjamin Franklin",
+      "mentions": 2
+    },
+    {
+      "label": "Borbon",
+      "mentions": 2
+    },
+    {
+      "label": "Cabala",
+      "mentions": 2
+    },
+    {
+      "label": "Congo",
+      "mentions": 2
+    },
+    {
+      "label": "Disney",
+      "mentions": 2
+    },
+    {
+      "label": "Dutchy",
+      "mentions": 2
+    },
+    {
+      "label": "England",
+      "mentions": 2
+    },
+    {
+      "label": "Europeans",
+      "mentions": 2
+    },
+    {
+      "label": "FBI",
+      "mentions": 2
+    },
+    {
+      "label": "FedEx",
+      "mentions": 2
+    },
+    {
+      "label": "FIFA",
+      "mentions": 2
+    },
+    {
+      "label": "Florida",
+      "mentions": 2
+    },
+    {
+      "label": "French Republic",
+      "mentions": 2
+    },
+    {
+      "label": "French Revolution",
+      "mentions": 2
+    },
+    {
+      "label": "Germans",
+      "mentions": 2
+    },
+    {
+      "label": "Glen Beck",
+      "mentions": 2
+    },
+    {
+      "label": "God",
+      "mentions": 2
+    },
+    {
+      "label": "Gods",
+      "mentions": 2
+    },
+    {
+      "label": "Hong Kong",
+      "mentions": 2
+    },
+    {
+      "label": "IRS",
+      "mentions": 2
+    },
+    {
+      "label": "Israelites",
+      "mentions": 2
+    },
+    {
+      "label": "Japanese",
+      "mentions": 2
+    },
+    {
+      "label": "Jay Dar",
+      "mentions": 2
+    },
+    {
+      "label": "Jesuit",
+      "mentions": 2
+    },
+    {
+      "label": "Jesuits",
+      "mentions": 2
+    },
+    {
+      "label": "Luffy",
+      "mentions": 2
+    },
+    {
+      "label": "Mama Fatelli",
+      "mentions": 2
+    },
+    {
+      "label": "Marvel",
+      "mentions": 2
+    },
+    {
+      "label": "May",
+      "mentions": 2
+    },
+    {
+      "label": "MI6",
+      "mentions": 2
+    },
+    {
+      "label": "Normandy",
+      "mentions": 2
+    },
+    {
+      "label": "Notre Dame",
+      "mentions": 2
+    },
+    {
+      "label": "Pandora",
+      "mentions": 2
+    },
+    {
+      "label": "Paris",
+      "mentions": 2
+    },
+    {
+      "label": "PDF",
+      "mentions": 2
+    },
+    {
+      "label": "Rachel",
+      "mentions": 2
+    },
+    {
+      "label": "Riley",
+      "mentions": 2
+    },
+    {
+      "label": "Roman Empire",
+      "mentions": 2
+    },
+    {
+      "label": "Rome",
+      "mentions": 2
+    },
+    {
+      "label": "Saddam",
+      "mentions": 2
+    },
+    {
+      "label": "Scarlet",
+      "mentions": 2
+    },
+    {
+      "label": "Spain",
+      "mentions": 2
+    },
+    {
+      "label": "Squatterers",
+      "mentions": 2
+    },
+    {
+      "label": "Swiss Guard",
+      "mentions": 2
+    },
+    {
+      "label": "Tanzania",
+      "mentions": 2
+    },
+    {
+      "label": "Vito",
+      "mentions": 2
+    },
+    {
+      "label": "World War",
+      "mentions": 2
+    },
+    {
+      "label": "American Revolution",
+      "mentions": 1
+    },
+    {
+      "label": "Anne Ramsay",
+      "mentions": 1
+    },
+    {
+      "label": "Anziotic League",
+      "mentions": 1
+    },
+    {
+      "label": "Arnold Schwarzenegger",
+      "mentions": 1
+    },
+    {
+      "label": "Avery Knox",
+      "mentions": 1
+    },
+    {
+      "label": "Avery Silman",
+      "mentions": 1
+    },
+    {
+      "label": "Ben Franklin",
+      "mentions": 1
+    },
+    {
+      "label": "Benerman Franklin",
+      "mentions": 1
+    },
+    {
+      "label": "Billy Basco",
+      "mentions": 1
+    },
+    {
+      "label": "Boris Johnson",
+      "mentions": 1
+    },
+    {
+      "label": "Bud Light",
+      "mentions": 1
+    },
+    {
+      "label": "CCP",
+      "mentions": 1
+    },
+    {
+      "label": "Charlie Kirks",
+      "mentions": 1
+    },
+    {
+      "label": "Charlie London",
+      "mentions": 1
+    },
+    {
+      "label": "Charlie Murphy",
+      "mentions": 1
+    },
+    {
+      "label": "CO2",
+      "mentions": 1
+    },
+    {
+      "label": "ComicsGate",
+      "mentions": 1
+    },
+    {
+      "label": "Connie Mark",
+      "mentions": 1
+    },
+    {
+      "label": "Cyber Frog",
+      "mentions": 1
+    },
+    {
+      "label": "Dan Black",
+      "mentions": 1
+    },
+    {
+      "label": "Dan Blackward",
+      "mentions": 1
+    },
+    {
+      "label": "DARPA",
+      "mentions": 1
+    },
+    {
+      "label": "Darth Maul",
+      "mentions": 1
+    },
+    {
+      "label": "Double French",
+      "mentions": 1
+    },
+    {
+      "label": "Dutch East India",
+      "mentions": 1
+    },
+    {
+      "label": "Dutch East India Company",
+      "mentions": 1
+    },
+    {
+      "label": "Edgar Allan Poe",
+      "mentions": 1
+    },
+    {
+      "label": "Emancipation Proclamation",
+      "mentions": 1
+    },
+    {
+      "label": "England Press",
+      "mentions": 1
+    },
+    {
+      "label": "Eric Eric",
+      "mentions": 1
+    },
+    {
+      "label": "Eric July Kabala",
+      "mentions": 1
+    },
+    {
+      "label": "Ethan Van Sciver",
+      "mentions": 1
+    },
+    {
+      "label": "Europe Egypt",
+      "mentions": 1
+    },
+    {
+      "label": "European Commission",
+      "mentions": 1
+    },
+    {
+      "label": "Francoian War",
+      "mentions": 1
+    },
+    {
+      "label": "French Indo-China",
+      "mentions": 1
+    },
+    {
+      "label": "Hatchet Book",
+      "mentions": 1
+    },
+    {
+      "label": "Hatchet Publications Publishing",
+      "mentions": 1
+    },
+    {
+      "label": "Hatchet Publishing",
+      "mentions": 1
+    },
+    {
+      "label": "Holy Roman",
+      "mentions": 1
+    },
+    {
+      "label": "Hong Kong Shanghai",
+      "mentions": 1
+    },
+    {
+      "label": "ISOM",
+      "mentions": 1
+    },
+    {
+      "label": "Jack De Mole",
+      "mentions": 1
+    },
+    {
+      "label": "Jean Gor Hashe",
+      "mentions": 1
+    },
+    {
+      "label": "Jules Ferry",
+      "mentions": 1
+    },
+    {
+      "label": "Jun Wine",
+      "mentions": 1
+    },
+    {
+      "label": "Kai Mark",
+      "mentions": 1
+    },
+    {
+      "label": "Kim Joe Jong",
+      "mentions": 1
+    },
+    {
+      "label": "King Charles",
+      "mentions": 1
+    },
+    {
+      "label": "King Louie",
+      "mentions": 1
+    },
+    {
+      "label": "Lion King",
+      "mentions": 1
+    },
+    {
+      "label": "Louie Achette",
+      "mentions": 1
+    },
+    {
+      "label": "Louis Hashet",
+      "mentions": 1
+    },
+    {
+      "label": "Louis Hatchet",
+      "mentions": 1
+    },
+    {
+      "label": "Louis Het",
+      "mentions": 1
+    },
+    {
+      "label": "Louisiana Purchase",
+      "mentions": 1
+    },
+    {
+      "label": "Luis Hatchet",
+      "mentions": 1
+    },
+    {
+      "label": "Maiden Hel",
+      "mentions": 1
+    },
+    {
+      "label": "Napoleon III",
+      "mentions": 1
+    },
+    {
+      "label": "NATO",
+      "mentions": 1
+    },
+    {
+      "label": "Nine Sisters Masonic Temple",
+      "mentions": 1
+    },
+    {
+      "label": "North Africans",
+      "mentions": 1
+    },
+    {
+      "label": "North Atlantic Trade Organization",
+      "mentions": 1
+    },
+    {
+      "label": "North Sea Empire",
+      "mentions": 1
+    },
+    {
+      "label": "Paris Commune",
+      "mentions": 1
+    },
+    {
+      "label": "Publishing Hatchet Book Group",
+      "mentions": 1
+    },
+    {
+      "label": "Publishing Lea",
+      "mentions": 1
+    },
+    {
+      "label": "Rip Ascend",
+      "mentions": 1
+    },
+    {
+      "label": "Riper Senate",
+      "mentions": 1
+    },
+    {
+      "label": "Rothschild Bank",
+      "mentions": 1
+    },
+    {
+      "label": "Rotten Glory",
+      "mentions": 1
+    },
+    {
+      "label": "Russian Troll",
+      "mentions": 1
+    },
+    {
+      "label": "Social Order",
+      "mentions": 1
+    },
+    {
+      "label": "Socialist Kenzo",
+      "mentions": 1
+    },
+    {
+      "label": "Templar FL",
+      "mentions": 1
+    },
+    {
+      "label": "Tik Tok",
+      "mentions": 1
+    },
+    {
+      "label": "Tony Podesta",
+      "mentions": 1
+    },
+    {
+      "label": "TPUSA",
+      "mentions": 1
+    },
+    {
+      "label": "Tutonic Order",
+      "mentions": 1
+    },
+    {
+      "label": "Uncle Ben",
+      "mentions": 1
+    },
+    {
+      "label": "United States",
+      "mentions": 1
+    },
+    {
+      "label": "United States Postal Service",
+      "mentions": 1
+    },
+    {
+      "label": "Urban Dictionary",
+      "mentions": 1
+    },
+    {
+      "label": "Vatican Degree",
+      "mentions": 1
+    },
+    {
+      "label": "Veto Jizwaldi",
+      "mentions": 1
+    },
+    {
+      "label": "Victor Orban",
+      "mentions": 1
+    },
+    {
+      "label": "Von Leon",
+      "mentions": 1
+    },
+    {
+      "label": "Walking Phoenix",
+      "mentions": 1
+    },
+    {
+      "label": "West Coast",
+      "mentions": 1
+    },
+    {
+      "label": "West Ham",
+      "mentions": 1
+    },
+    {
+      "label": "Western Expansion",
+      "mentions": 1
+    },
+    {
+      "label": "Yan's German",
+      "mentions": 1
+    },
+    {
+      "label": "Young Clipper",
+      "mentions": 1
+    }
+  ]
+}

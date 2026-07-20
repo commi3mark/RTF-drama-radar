@@ -1,22 +1,46 @@
-# Drama Radar MK2
+# RUSSIAN TROLL FACTORY — Transcript and Radar System
 
-Two commands operate the system:
+The project contains two active applications: Drama Radar and Transcript Grabber.
 
-- `RUN RADAR.bat` scans configured sources and updates the live feed.
-- `GET TRANSCRIPTS.bat` retrieves YouTube transcripts from Stalinvo.
+## 01 — Drama Radar
 
-Every completed run:
+Detects current activity from monitored sources and produces `output/drama-radar.json`.
 
-- updates `radar-stats.json`;
-- prints a readable control-panel summary;
-- lists new transcripts, unavailable videos, and scheduled retries;
-- writes a timestamped text receipt under `radar/receipts/`.
+Drama Radar does not read or rewrite transcript reports.
 
-The status vocabulary is:
+## 02 — Transcript Grabber
 
-- `HEALTHY` — all active parts worked normally;
-- `DEGRADED` — working, but with failures or reduced coverage;
-- `STALLED` — a subsystem attempted work but made no progress;
-- `FAILED` — the run or output validation failed.
+Owns the transcript archive. Use `START TRANSCRIPT WORKER.bat` for normal operation.
 
-A folder that has not yet been connected to GitHub runs locally without flooding the console with Git errors.
+The worker:
+
+- tries the normal YouTube transcript service first;
+- falls back to YouTube subtitle/caption retrieval;
+- declares an IP block only when both routes are blocked;
+- pauses rather than closing;
+- resumes automatically after cooldown;
+- learns a conservative request pace;
+- stores new transcripts without launching a separate analysis engine.
+
+Use `STOP TRANSCRIPT WORKER.bat` to request a safe shutdown.
+
+Technical state is stored in `02 - TRANSCRIPT GRABBER/state/`.
+
+## Reports, profiles, and analysis
+
+Completed human-readable editorial reports are stored beside their raw transcript JSON files:
+
+`02 - TRANSCRIPT GRABBER/transcripts/YYYY-MM/`
+
+Preserved profiles and Commi3 analysis are stored under:
+
+- `02 - TRANSCRIPT GRABBER/analysis/profiles/`
+- `02 - TRANSCRIPT GRABBER/analysis/commi3-mention-priority.txt`
+- `02 - TRANSCRIPT GRABBER/analysis/commi3-mention-resweep.txt`
+
+## Ownership
+
+- Drama Radar owns live radar files.
+- Transcript Grabber owns transcripts, reports, profiles, indexes, retrieval state, and preserved analysis.
+
+Temporary operational files use `.tmp` and are replaced atomically where supported.

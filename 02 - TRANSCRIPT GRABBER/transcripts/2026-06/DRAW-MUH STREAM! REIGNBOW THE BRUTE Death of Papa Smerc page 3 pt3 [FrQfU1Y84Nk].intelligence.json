@@ -1,0 +1,644 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-07-19T18:36:54.969697+00:00",
+  "video_id": "FrQfU1Y84Nk",
+  "title": "DRAW-MUH STREAM! REIGNBOW THE BRUTE Death of Papa Smerc page 3 pt3",
+  "channel": "Ethan Van Sciver",
+  "published": "2026-06-30T21:23:41+00:00",
+  "source_transcript": "DRAW-MUH STREAM! REIGNBOW THE BRUTE Death of Papa Smerc page 3 pt3 [FrQfU1Y84Nk].json",
+  "host": "Ethan Van Sciver",
+  "possible_panel": [],
+  "possible_guests": [],
+  "strong_signals": [
+    {
+      "label": "Liam Gray",
+      "mentions": 27,
+      "stars": 5
+    },
+    {
+      "label": "Gail",
+      "mentions": 25,
+      "stars": 5
+    },
+    {
+      "label": "John",
+      "mentions": 16,
+      "stars": 4
+    },
+    {
+      "label": "Matt Bahr",
+      "mentions": 13,
+      "stars": 4
+    }
+  ],
+  "weak_signals": [
+    {
+      "label": "Firestorm",
+      "mentions": 10
+    },
+    {
+      "label": "Anna",
+      "mentions": 9
+    },
+    {
+      "label": "Yellow Flash",
+      "mentions": 9
+    },
+    {
+      "label": "Gail Simone",
+      "mentions": 8
+    },
+    {
+      "label": "Nick",
+      "mentions": 7
+    },
+    {
+      "label": "Ronnie Raymond",
+      "mentions": 7
+    },
+    {
+      "label": "Hey",
+      "mentions": 6
+    },
+    {
+      "label": "Mom",
+      "mentions": 6
+    },
+    {
+      "label": "Patrick",
+      "mentions": 6
+    },
+    {
+      "label": "Everybody",
+      "mentions": 5
+    },
+    {
+      "label": "John Burn",
+      "mentions": 5
+    },
+    {
+      "label": "Nobody",
+      "mentions": 5
+    },
+    {
+      "label": "Rachel",
+      "mentions": 5
+    },
+    {
+      "label": "ComicsGate",
+      "mentions": 4
+    },
+    {
+      "label": "Deadpool",
+      "mentions": 4
+    },
+    {
+      "label": "Hold",
+      "mentions": 4
+    },
+    {
+      "label": "Kelsey",
+      "mentions": 4
+    },
+    {
+      "label": "Super",
+      "mentions": 4
+    },
+    {
+      "label": "Zach",
+      "mentions": 4
+    },
+    {
+      "label": "Finatra",
+      "mentions": 3
+    },
+    {
+      "label": "Jezebel",
+      "mentions": 3
+    },
+    {
+      "label": "Katie",
+      "mentions": 3
+    },
+    {
+      "label": "Narwhal",
+      "mentions": 3
+    },
+    {
+      "label": "Number",
+      "mentions": 3
+    },
+    {
+      "label": "Professor Murf",
+      "mentions": 3
+    },
+    {
+      "label": "Rainbow",
+      "mentions": 3
+    },
+    {
+      "label": "Vasilus",
+      "mentions": 3
+    },
+    {
+      "label": "Andrew Farrago",
+      "mentions": 2
+    },
+    {
+      "label": "Batgirl",
+      "mentions": 2
+    },
+    {
+      "label": "Batirl",
+      "mentions": 2
+    },
+    {
+      "label": "Beach",
+      "mentions": 2
+    },
+    {
+      "label": "Big",
+      "mentions": 2
+    },
+    {
+      "label": "Bobby",
+      "mentions": 2
+    },
+    {
+      "label": "Brute",
+      "mentions": 2
+    },
+    {
+      "label": "Bye",
+      "mentions": 2
+    },
+    {
+      "label": "ComicCape",
+      "mentions": 2
+    },
+    {
+      "label": "Completely",
+      "mentions": 2
+    },
+    {
+      "label": "Cyberfrog",
+      "mentions": 2
+    },
+    {
+      "label": "Daredevil",
+      "mentions": 2
+    },
+    {
+      "label": "Donut Swan",
+      "mentions": 2
+    },
+    {
+      "label": "Eric July",
+      "mentions": 2
+    },
+    {
+      "label": "Everything",
+      "mentions": 2
+    },
+    {
+      "label": "FBI",
+      "mentions": 2
+    },
+    {
+      "label": "Forget",
+      "mentions": 2
+    },
+    {
+      "label": "Fucking",
+      "mentions": 2
+    },
+    {
+      "label": "Fury",
+      "mentions": 2
+    },
+    {
+      "label": "Gerlock",
+      "mentions": 2
+    },
+    {
+      "label": "Heather Antos",
+      "mentions": 2
+    },
+    {
+      "label": "Jesus Christ",
+      "mentions": 2
+    },
+    {
+      "label": "Johnny Quest",
+      "mentions": 2
+    },
+    {
+      "label": "Kiwi Farms",
+      "mentions": 2
+    },
+    {
+      "label": "Light",
+      "mentions": 2
+    },
+    {
+      "label": "Looks",
+      "mentions": 2
+    },
+    {
+      "label": "Marvel",
+      "mentions": 2
+    },
+    {
+      "label": "Men",
+      "mentions": 2
+    },
+    {
+      "label": "Mike",
+      "mentions": 2
+    },
+    {
+      "label": "Network",
+      "mentions": 2
+    },
+    {
+      "label": "Nice",
+      "mentions": 2
+    },
+    {
+      "label": "Pan",
+      "mentions": 2
+    },
+    {
+      "label": "Parasocial",
+      "mentions": 2
+    },
+    {
+      "label": "Pinky",
+      "mentions": 2
+    },
+    {
+      "label": "Ready",
+      "mentions": 2
+    },
+    {
+      "label": "Reaper Destroyer",
+      "mentions": 2
+    },
+    {
+      "label": "Ronin",
+      "mentions": 2
+    },
+    {
+      "label": "Shane Davis",
+      "mentions": 2
+    },
+    {
+      "label": "Smile",
+      "mentions": 2
+    },
+    {
+      "label": "Stop",
+      "mentions": 2
+    },
+    {
+      "label": "Studios",
+      "mentions": 2
+    },
+    {
+      "label": "Sunny",
+      "mentions": 2
+    },
+    {
+      "label": "Texas",
+      "mentions": 2
+    },
+    {
+      "label": "Twitter",
+      "mentions": 2
+    },
+    {
+      "label": "Vic King",
+      "mentions": 2
+    },
+    {
+      "label": "Warhammer",
+      "mentions": 2
+    },
+    {
+      "label": "Whisper",
+      "mentions": 2
+    },
+    {
+      "label": "X-Men",
+      "mentions": 2
+    },
+    {
+      "label": "Zack",
+      "mentions": 2
+    },
+    {
+      "label": "Abacus Flinch",
+      "mentions": 1
+    },
+    {
+      "label": "Alex Dampy",
+      "mentions": 1
+    },
+    {
+      "label": "ASAP",
+      "mentions": 1
+    },
+    {
+      "label": "Atlantic City",
+      "mentions": 1
+    },
+    {
+      "label": "Black Lightning",
+      "mentions": 1
+    },
+    {
+      "label": "Black Panther",
+      "mentions": 1
+    },
+    {
+      "label": "Bone Saw Man",
+      "mentions": 1
+    },
+    {
+      "label": "Cam FDM",
+      "mentions": 1
+    },
+    {
+      "label": "Comics Drama",
+      "mentions": 1
+    },
+    {
+      "label": "Comics Gate Kings",
+      "mentions": 1
+    },
+    {
+      "label": "CTB",
+      "mentions": 1
+    },
+    {
+      "label": "Cyber Frog",
+      "mentions": 1
+    },
+    {
+      "label": "Dan Dilla",
+      "mentions": 1
+    },
+    {
+      "label": "David Al",
+      "mentions": 1
+    },
+    {
+      "label": "Double Dragon",
+      "mentions": 1
+    },
+    {
+      "label": "EBS",
+      "mentions": 1
+    },
+    {
+      "label": "Enrique Cabrera",
+      "mentions": 1
+    },
+    {
+      "label": "Ethan Medusa",
+      "mentions": 1
+    },
+    {
+      "label": "Facebook",
+      "mentions": 1
+    },
+    {
+      "label": "Factory Zero Signal",
+      "mentions": 1
+    },
+    {
+      "label": "Frank Miller",
+      "mentions": 1
+    },
+    {
+      "label": "Fuck ES",
+      "mentions": 1
+    },
+    {
+      "label": "Fury Firestorm",
+      "mentions": 1
+    },
+    {
+      "label": "Gat Pan Ro",
+      "mentions": 1
+    },
+    {
+      "label": "Grave Nolan",
+      "mentions": 1
+    },
+    {
+      "label": "Grim Jim",
+      "mentions": 1
+    },
+    {
+      "label": "Hey Basilus",
+      "mentions": 1
+    },
+    {
+      "label": "Iron Man",
+      "mentions": 1
+    },
+    {
+      "label": "Jason Rush",
+      "mentions": 1
+    },
+    {
+      "label": "Jay Peso",
+      "mentions": 1
+    },
+    {
+      "label": "JBW",
+      "mentions": 1
+    },
+    {
+      "label": "Jenny Isabella's Black",
+      "mentions": 1
+    },
+    {
+      "label": "Jim Lee",
+      "mentions": 1
+    },
+    {
+      "label": "John John",
+      "mentions": 1
+    },
+    {
+      "label": "John Men",
+      "mentions": 1
+    },
+    {
+      "label": "Jon Del Arroz",
+      "mentions": 1
+    },
+    {
+      "label": "Justice League",
+      "mentions": 1
+    },
+    {
+      "label": "Kasa Vans Skyver",
+      "mentions": 1
+    },
+    {
+      "label": "Kasa Vanskyver",
+      "mentions": 1
+    },
+    {
+      "label": "Luke Cage",
+      "mentions": 1
+    },
+    {
+      "label": "Mad Capsule Markets",
+      "mentions": 1
+    },
+    {
+      "label": "Mario Lopez",
+      "mentions": 1
+    },
+    {
+      "label": "Matt R",
+      "mentions": 1
+    },
+    {
+      "label": "MC Hammer",
+      "mentions": 1
+    },
+    {
+      "label": "Michael Curtis",
+      "mentions": 1
+    },
+    {
+      "label": "Mike TV",
+      "mentions": 1
+    },
+    {
+      "label": "Modest Mouse",
+      "mentions": 1
+    },
+    {
+      "label": "Nuclear Fallout Samurai",
+      "mentions": 1
+    },
+    {
+      "label": "NYX",
+      "mentions": 1
+    },
+    {
+      "label": "Passion Pit",
+      "mentions": 1
+    },
+    {
+      "label": "Peter David Light",
+      "mentions": 1
+    },
+    {
+      "label": "Raymond Stein",
+      "mentions": 1
+    },
+    {
+      "label": "Respectful Rose",
+      "mentions": 1
+    },
+    {
+      "label": "Rose Tikico",
+      "mentions": 1
+    },
+    {
+      "label": "Says Gerlock",
+      "mentions": 1
+    },
+    {
+      "label": "Says Shily",
+      "mentions": 1
+    },
+    {
+      "label": "Shing Samurai",
+      "mentions": 1
+    },
+    {
+      "label": "Sin City",
+      "mentions": 1
+    },
+    {
+      "label": "SJW",
+      "mentions": 1
+    },
+    {
+      "label": "Skeleton Core Comics",
+      "mentions": 1
+    },
+    {
+      "label": "Star Wars",
+      "mentions": 1
+    },
+    {
+      "label": "Stephanie Phillips",
+      "mentions": 1
+    },
+    {
+      "label": "Suicide Squad",
+      "mentions": 1
+    },
+    {
+      "label": "Tim Arthur Timothy Archer",
+      "mentions": 1
+    },
+    {
+      "label": "Tommy Reviews",
+      "mentions": 1
+    },
+    {
+      "label": "Tony Watt Studios",
+      "mentions": 1
+    },
+    {
+      "label": "Travis Barrick",
+      "mentions": 1
+    },
+    {
+      "label": "Vic Natra",
+      "mentions": 1
+    },
+    {
+      "label": "War Campaign",
+      "mentions": 1
+    },
+    {
+      "label": "War Party",
+      "mentions": 1
+    },
+    {
+      "label": "Warner Brothers",
+      "mentions": 1
+    },
+    {
+      "label": "Wee Wars",
+      "mentions": 1
+    },
+    {
+      "label": "Whisper Network",
+      "mentions": 1
+    },
+    {
+      "label": "World Trade Center",
+      "mentions": 1
+    },
+    {
+      "label": "X23",
+      "mentions": 1
+    },
+    {
+      "label": "YMCA",
+      "mentions": 1
+    }
+  ]
+}

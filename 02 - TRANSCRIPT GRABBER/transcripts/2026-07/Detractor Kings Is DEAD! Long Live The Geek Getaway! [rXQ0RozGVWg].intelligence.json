@@ -1,0 +1,1440 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-07-19T18:37:00.642939+00:00",
+  "video_id": "rXQ0RozGVWg",
+  "title": "Detractor Kings Is DEAD! Long Live The Geek Getaway!",
+  "channel": "Frog Tony",
+  "published": "2026-07-14T04:09:11+00:00",
+  "source_transcript": "Detractor Kings Is DEAD! Long Live The Geek Getaway! [rXQ0RozGVWg].json",
+  "host": "Frog Tony",
+  "possible_panel": [],
+  "possible_guests": [],
+  "strong_signals": [
+    {
+      "label": "Marvel",
+      "mentions": 69,
+      "stars": 5
+    },
+    {
+      "label": "Star Wars",
+      "mentions": 35,
+      "stars": 4
+    },
+    {
+      "label": "Vito",
+      "mentions": 23,
+      "stars": 3
+    },
+    {
+      "label": "Doom",
+      "mentions": 23,
+      "stars": 3
+    }
+  ],
+  "weak_signals": [
+    {
+      "label": "Dick",
+      "mentions": 20
+    },
+    {
+      "label": "Hey",
+      "mentions": 20
+    },
+    {
+      "label": "Disney",
+      "mentions": 18
+    },
+    {
+      "label": "Evil Dead",
+      "mentions": 18
+    },
+    {
+      "label": "Ghost Rider",
+      "mentions": 17
+    },
+    {
+      "label": "Supergirl",
+      "mentions": 14
+    },
+    {
+      "label": "Game",
+      "mentions": 11
+    },
+    {
+      "label": "Guardians",
+      "mentions": 11
+    },
+    {
+      "label": "Hitler",
+      "mentions": 11
+    },
+    {
+      "label": "Thrones",
+      "mentions": 11
+    },
+    {
+      "label": "Catwoman",
+      "mentions": 10
+    },
+    {
+      "label": "Punisher",
+      "mentions": 10
+    },
+    {
+      "label": "Snow White",
+      "mentions": 10
+    },
+    {
+      "label": "Endgame",
+      "mentions": 9
+    },
+    {
+      "label": "X-Men",
+      "mentions": 9
+    },
+    {
+      "label": "Dude",
+      "mentions": 8
+    },
+    {
+      "label": "Frank",
+      "mentions": 8
+    },
+    {
+      "label": "Sith",
+      "mentions": 8
+    },
+    {
+      "label": "Sunday",
+      "mentions": 8
+    },
+    {
+      "label": "Superman",
+      "mentions": 8
+    },
+    {
+      "label": "Darth Vader",
+      "mentions": 7
+    },
+    {
+      "label": "Thursday",
+      "mentions": 7
+    },
+    {
+      "label": "Black",
+      "mentions": 6
+    },
+    {
+      "label": "Blue Beetle",
+      "mentions": 6
+    },
+    {
+      "label": "Dune",
+      "mentions": 6
+    },
+    {
+      "label": "Jedi",
+      "mentions": 6
+    },
+    {
+      "label": "Silver Surfer",
+      "mentions": 6
+    },
+    {
+      "label": "Adam Warlock",
+      "mentions": 5
+    },
+    {
+      "label": "Boogie",
+      "mentions": 5
+    },
+    {
+      "label": "Brute",
+      "mentions": 5
+    },
+    {
+      "label": "Craigslist",
+      "mentions": 5
+    },
+    {
+      "label": "Daredevil",
+      "mentions": 5
+    },
+    {
+      "label": "Flash",
+      "mentions": 5
+    },
+    {
+      "label": "JCW",
+      "mentions": 5
+    },
+    {
+      "label": "MCU",
+      "mentions": 5
+    },
+    {
+      "label": "Spider-Man",
+      "mentions": 5
+    },
+    {
+      "label": "Wakanda",
+      "mentions": 5
+    },
+    {
+      "label": "Apparently",
+      "mentions": 4
+    },
+    {
+      "label": "Bambi",
+      "mentions": 4
+    },
+    {
+      "label": "Barnabas",
+      "mentions": 4
+    },
+    {
+      "label": "Buba Fett",
+      "mentions": 4
+    },
+    {
+      "label": "Fantastic",
+      "mentions": 4
+    },
+    {
+      "label": "Han",
+      "mentions": 4
+    },
+    {
+      "label": "Hell",
+      "mentions": 4
+    },
+    {
+      "label": "House",
+      "mentions": 4
+    },
+    {
+      "label": "Mandalorian",
+      "mentions": 4
+    },
+    {
+      "label": "Moonnight",
+      "mentions": 4
+    },
+    {
+      "label": "Ottoy",
+      "mentions": 4
+    },
+    {
+      "label": "Rainbow",
+      "mentions": 4
+    },
+    {
+      "label": "Rev",
+      "mentions": 4
+    },
+    {
+      "label": "Small Soldiers",
+      "mentions": 4
+    },
+    {
+      "label": "Sturgis",
+      "mentions": 4
+    },
+    {
+      "label": "African",
+      "mentions": 3
+    },
+    {
+      "label": "Ash",
+      "mentions": 3
+    },
+    {
+      "label": "Batman",
+      "mentions": 3
+    },
+    {
+      "label": "Birds",
+      "mentions": 3
+    },
+    {
+      "label": "Black Panther",
+      "mentions": 3
+    },
+    {
+      "label": "Burp",
+      "mentions": 3
+    },
+    {
+      "label": "Captain America",
+      "mentions": 3
+    },
+    {
+      "label": "Constantine",
+      "mentions": 3
+    },
+    {
+      "label": "Dragon",
+      "mentions": 3
+    },
+    {
+      "label": "Elephant",
+      "mentions": 3
+    },
+    {
+      "label": "Empire",
+      "mentions": 3
+    },
+    {
+      "label": "Eric",
+      "mentions": 3
+    },
+    {
+      "label": "Everything",
+      "mentions": 3
+    },
+    {
+      "label": "Forget",
+      "mentions": 3
+    },
+    {
+      "label": "Geek Getaway",
+      "mentions": 3
+    },
+    {
+      "label": "Gun",
+      "mentions": 3
+    },
+    {
+      "label": "Homeless Larry",
+      "mentions": 3
+    },
+    {
+      "label": "Hopefully",
+      "mentions": 3
+    },
+    {
+      "label": "Jar",
+      "mentions": 3
+    },
+    {
+      "label": "Jonathan Major",
+      "mentions": 3
+    },
+    {
+      "label": "Kevin Spy",
+      "mentions": 3
+    },
+    {
+      "label": "Leia",
+      "mentions": 3
+    },
+    {
+      "label": "Liam Gray",
+      "mentions": 3
+    },
+    {
+      "label": "Lion King",
+      "mentions": 3
+    },
+    {
+      "label": "Marvels",
+      "mentions": 3
+    },
+    {
+      "label": "Mondays",
+      "mentions": 3
+    },
+    {
+      "label": "Nah",
+      "mentions": 3
+    },
+    {
+      "label": "Necronomicon",
+      "mentions": 3
+    },
+    {
+      "label": "Nice",
+      "mentions": 3
+    },
+    {
+      "label": "Night",
+      "mentions": 3
+    },
+    {
+      "label": "Peacemaker",
+      "mentions": 3
+    },
+    {
+      "label": "Prey",
+      "mentions": 3
+    },
+    {
+      "label": "Ramatut",
+      "mentions": 3
+    },
+    {
+      "label": "Rebecca",
+      "mentions": 3
+    },
+    {
+      "label": "Ren",
+      "mentions": 3
+    },
+    {
+      "label": "Russos",
+      "mentions": 3
+    },
+    {
+      "label": "Says",
+      "mentions": 3
+    },
+    {
+      "label": "Stark",
+      "mentions": 3
+    },
+    {
+      "label": "Ted Cord",
+      "mentions": 3
+    },
+    {
+      "label": "Thanos",
+      "mentions": 3
+    },
+    {
+      "label": "Tuesday",
+      "mentions": 3
+    },
+    {
+      "label": "Wait",
+      "mentions": 3
+    },
+    {
+      "label": "Werewolf",
+      "mentions": 3
+    },
+    {
+      "label": "Abdon",
+      "mentions": 2
+    },
+    {
+      "label": "Adjusted",
+      "mentions": 2
+    },
+    {
+      "label": "Aladdin",
+      "mentions": 2
+    },
+    {
+      "label": "Alan Smithy",
+      "mentions": 2
+    },
+    {
+      "label": "Amazon",
+      "mentions": 2
+    },
+    {
+      "label": "Ant-Man",
+      "mentions": 2
+    },
+    {
+      "label": "Asian",
+      "mentions": 2
+    },
+    {
+      "label": "Avengers",
+      "mentions": 2
+    },
+    {
+      "label": "Beast",
+      "mentions": 2
+    },
+    {
+      "label": "Beauty",
+      "mentions": 2
+    },
+    {
+      "label": "Big Mac",
+      "mentions": 2
+    },
+    {
+      "label": "Biggest Problem",
+      "mentions": 2
+    },
+    {
+      "label": "Black Mercy",
+      "mentions": 2
+    },
+    {
+      "label": "Captain Marvel",
+      "mentions": 2
+    },
+    {
+      "label": "Catch",
+      "mentions": 2
+    },
+    {
+      "label": "CGI",
+      "mentions": 2
+    },
+    {
+      "label": "Chamberlain",
+      "mentions": 2
+    },
+    {
+      "label": "Chris Hemsworth",
+      "mentions": 2
+    },
+    {
+      "label": "Clearly",
+      "mentions": 2
+    },
+    {
+      "label": "Cosmic",
+      "mentions": 2
+    },
+    {
+      "label": "Cyberfrog",
+      "mentions": 2
+    },
+    {
+      "label": "Darren",
+      "mentions": 2
+    },
+    {
+      "label": "Deadpool",
+      "mentions": 2
+    },
+    {
+      "label": "Death",
+      "mentions": 2
+    },
+    {
+      "label": "Defenders",
+      "mentions": 2
+    },
+    {
+      "label": "Doctor Strange",
+      "mentions": 2
+    },
+    {
+      "label": "Doomsday",
+      "mentions": 2
+    },
+    {
+      "label": "Dragons",
+      "mentions": 2
+    },
+    {
+      "label": "DWbacks",
+      "mentions": 2
+    },
+    {
+      "label": "Either",
+      "mentions": 2
+    },
+    {
+      "label": "Elon Musk",
+      "mentions": 2
+    },
+    {
+      "label": "Emperor",
+      "mentions": 2
+    },
+    {
+      "label": "Ethan Van Sciver",
+      "mentions": 2
+    },
+    {
+      "label": "Except",
+      "mentions": 2
+    },
+    {
+      "label": "Facebook",
+      "mentions": 2
+    },
+    {
+      "label": "Falcon",
+      "mentions": 2
+    },
+    {
+      "label": "Flash Gordon",
+      "mentions": 2
+    },
+    {
+      "label": "Gar Enis",
+      "mentions": 2
+    },
+    {
+      "label": "George Lucas",
+      "mentions": 2
+    },
+    {
+      "label": "German",
+      "mentions": 2
+    },
+    {
+      "label": "God",
+      "mentions": 2
+    },
+    {
+      "label": "Gothic",
+      "mentions": 2
+    },
+    {
+      "label": "Guardian",
+      "mentions": 2
+    },
+    {
+      "label": "Han Solo",
+      "mentions": 2
+    },
+    {
+      "label": "Harry Potter",
+      "mentions": 2
+    },
+    {
+      "label": "He-Man",
+      "mentions": 2
+    },
+    {
+      "label": "Holy",
+      "mentions": 2
+    },
+    {
+      "label": "Homer",
+      "mentions": 2
+    },
+    {
+      "label": "HP Lovecraft",
+      "mentions": 2
+    },
+    {
+      "label": "Indiegogo",
+      "mentions": 2
+    },
+    {
+      "label": "James Gunn",
+      "mentions": 2
+    },
+    {
+      "label": "Japan",
+      "mentions": 2
+    },
+    {
+      "label": "Jason Bourne",
+      "mentions": 2
+    },
+    {
+      "label": "Jewish",
+      "mentions": 2
+    },
+    {
+      "label": "Jimmy",
+      "mentions": 2
+    },
+    {
+      "label": "John Stewart",
+      "mentions": 2
+    },
+    {
+      "label": "Kamala",
+      "mentions": 2
+    },
+    {
+      "label": "Killilmonger",
+      "mentions": 2
+    },
+    {
+      "label": "Kilmonger",
+      "mentions": 2
+    },
+    {
+      "label": "Kimchi",
+      "mentions": 2
+    },
+    {
+      "label": "Knights",
+      "mentions": 2
+    },
+    {
+      "label": "Liberia",
+      "mentions": 2
+    },
+    {
+      "label": "Luke",
+      "mentions": 2
+    },
+    {
+      "label": "Metaglorans",
+      "mentions": 2
+    },
+    {
+      "label": "Moana",
+      "mentions": 2
+    },
+    {
+      "label": "Mot",
+      "mentions": 2
+    },
+    {
+      "label": "Novaore",
+      "mentions": 2
+    },
+    {
+      "label": "Per",
+      "mentions": 2
+    },
+    {
+      "label": "Planet",
+      "mentions": 2
+    },
+    {
+      "label": "PSA",
+      "mentions": 2
+    },
+    {
+      "label": "Put",
+      "mentions": 2
+    },
+    {
+      "label": "RDJ",
+      "mentions": 2
+    },
+    {
+      "label": "Reed",
+      "mentions": 2
+    },
+    {
+      "label": "Riley",
+      "mentions": 2
+    },
+    {
+      "label": "Robert Downey Jr",
+      "mentions": 2
+    },
+    {
+      "label": "Robin Hood",
+      "mentions": 2
+    },
+    {
+      "label": "Saffron",
+      "mentions": 2
+    },
+    {
+      "label": "Secret Invasion",
+      "mentions": 2
+    },
+    {
+      "label": "Secret Wars",
+      "mentions": 2
+    },
+    {
+      "label": "Shang Chi",
+      "mentions": 2
+    },
+    {
+      "label": "Should",
+      "mentions": 2
+    },
+    {
+      "label": "Sir Joseph",
+      "mentions": 2
+    },
+    {
+      "label": "Sony",
+      "mentions": 2
+    },
+    {
+      "label": "Space",
+      "mentions": 2
+    },
+    {
+      "label": "Star Trek",
+      "mentions": 2
+    },
+    {
+      "label": "Staros",
+      "mentions": 2
+    },
+    {
+      "label": "Suburbs",
+      "mentions": 2
+    },
+    {
+      "label": "Super",
+      "mentions": 2
+    },
+    {
+      "label": "Tatooine",
+      "mentions": 2
+    },
+    {
+      "label": "Terrible",
+      "mentions": 2
+    },
+    {
+      "label": "Thor",
+      "mentions": 2
+    },
+    {
+      "label": "Thrawn",
+      "mentions": 2
+    },
+    {
+      "label": "Thunderbolts",
+      "mentions": 2
+    },
+    {
+      "label": "Tipples",
+      "mentions": 2
+    },
+    {
+      "label": "Tomorrow",
+      "mentions": 2
+    },
+    {
+      "label": "Toy Story",
+      "mentions": 2
+    },
+    {
+      "label": "Twitter",
+      "mentions": 2
+    },
+    {
+      "label": "Tyrion",
+      "mentions": 2
+    },
+    {
+      "label": "Uncanny",
+      "mentions": 2
+    },
+    {
+      "label": "Vader's Castle",
+      "mentions": 2
+    },
+    {
+      "label": "Whenever",
+      "mentions": 2
+    },
+    {
+      "label": "Witcher",
+      "mentions": 2
+    },
+    {
+      "label": "Woman",
+      "mentions": 2
+    },
+    {
+      "label": "Amelia Clark",
+      "mentions": 1
+    },
+    {
+      "label": "AMO",
+      "mentions": 1
+    },
+    {
+      "label": "Andrew Garfield",
+      "mentions": 1
+    },
+    {
+      "label": "Anttoy Fanboy",
+      "mentions": 1
+    },
+    {
+      "label": "Apparently Blackar",
+      "mentions": 1
+    },
+    {
+      "label": "Ash Williams",
+      "mentions": 1
+    },
+    {
+      "label": "Avengers Doomscape",
+      "mentions": 1
+    },
+    {
+      "label": "Baby Driver",
+      "mentions": 1
+    },
+    {
+      "label": "Bad Batch",
+      "mentions": 1
+    },
+    {
+      "label": "Big Macs",
+      "mentions": 1
+    },
+    {
+      "label": "Bill Van Helsing",
+      "mentions": 1
+    },
+    {
+      "label": "Black Lotus",
+      "mentions": 1
+    },
+    {
+      "label": "Bo Deo",
+      "mentions": 1
+    },
+    {
+      "label": "Boba Fett",
+      "mentions": 1
+    },
+    {
+      "label": "Brain Pilot",
+      "mentions": 1
+    },
+    {
+      "label": "Brave New World",
+      "mentions": 1
+    },
+    {
+      "label": "Brave Star",
+      "mentions": 1
+    },
+    {
+      "label": "Cable Josh Brolan",
+      "mentions": 1
+    },
+    {
+      "label": "Captain Eio",
+      "mentions": 1
+    },
+    {
+      "label": "Captain Falcon",
+      "mentions": 1
+    },
+    {
+      "label": "Captain Feminism",
+      "mentions": 1
+    },
+    {
+      "label": "Carlo Espazito",
+      "mentions": 1
+    },
+    {
+      "label": "CEO",
+      "mentions": 1
+    },
+    {
+      "label": "CHICAGO",
+      "mentions": 1
+    },
+    {
+      "label": "Chris Evans",
+      "mentions": 1
+    },
+    {
+      "label": "Claude Reigns",
+      "mentions": 1
+    },
+    {
+      "label": "Comedy Central",
+      "mentions": 1
+    },
+    {
+      "label": "ComicsGate",
+      "mentions": 1
+    },
+    {
+      "label": "COOKING AND SMOKING",
+      "mentions": 1
+    },
+    {
+      "label": "COVID",
+      "mentions": 1
+    },
+    {
+      "label": "Cyber Frog",
+      "mentions": 1
+    },
+    {
+      "label": "Daily Wire",
+      "mentions": 1
+    },
+    {
+      "label": "Danny Mo",
+      "mentions": 1
+    },
+    {
+      "label": "Darkness Fell",
+      "mentions": 1
+    },
+    {
+      "label": "Darth Bane",
+      "mentions": 1
+    },
+    {
+      "label": "DCU",
+      "mentions": 1
+    },
+    {
+      "label": "Dick Dick",
+      "mentions": 1
+    },
+    {
+      "label": "Disney Disney Walt Disney",
+      "mentions": 1
+    },
+    {
+      "label": "Disney Plus",
+      "mentions": 1
+    },
+    {
+      "label": "DLC",
+      "mentions": 1
+    },
+    {
+      "label": "Downey Jr",
+      "mentions": 1
+    },
+    {
+      "label": "Drunk Tony",
+      "mentions": 1
+    },
+    {
+      "label": "EBS",
+      "mentions": 1
+    },
+    {
+      "label": "ECW",
+      "mentions": 1
+    },
+    {
+      "label": "Empire Falls",
+      "mentions": 1
+    },
+    {
+      "label": "Empire Ryan",
+      "mentions": 1
+    },
+    {
+      "label": "Eric Winberg",
+      "mentions": 1
+    },
+    {
+      "label": "Ether Van Skyver",
+      "mentions": 1
+    },
+    {
+      "label": "Feather Mucker",
+      "mentions": 1
+    },
+    {
+      "label": "Feather Plucker",
+      "mentions": 1
+    },
+    {
+      "label": "Finish Metal Gear",
+      "mentions": 1
+    },
+    {
+      "label": "Florence Pew",
+      "mentions": 1
+    },
+    {
+      "label": "Frank Castle",
+      "mentions": 1
+    },
+    {
+      "label": "Fu Manchu",
+      "mentions": 1
+    },
+    {
+      "label": "Gandandy Tardakovski",
+      "mentions": 1
+    },
+    {
+      "label": "General Grievous",
+      "mentions": 1
+    },
+    {
+      "label": "General Solo",
+      "mentions": 1
+    },
+    {
+      "label": "Giant Huntsman",
+      "mentions": 1
+    },
+    {
+      "label": "Gideon James",
+      "mentions": 1
+    },
+    {
+      "label": "Girl Scout",
+      "mentions": 1
+    },
+    {
+      "label": "Green Fire",
+      "mentions": 1
+    },
+    {
+      "label": "Green Lantern",
+      "mentions": 1
+    },
+    {
+      "label": "Groundhog Day",
+      "mentions": 1
+    },
+    {
+      "label": "Guy Gardner",
+      "mentions": 1
+    },
+    {
+      "label": "Hail Mary",
+      "mentions": 1
+    },
+    {
+      "label": "Hail Rev Ruin",
+      "mentions": 1
+    },
+    {
+      "label": "Halib Berry",
+      "mentions": 1
+    },
+    {
+      "label": "Halle Berry",
+      "mentions": 1
+    },
+    {
+      "label": "Hile Hitler",
+      "mentions": 1
+    },
+    {
+      "label": "Hogan's Heroes",
+      "mentions": 1
+    },
+    {
+      "label": "Hulk TV",
+      "mentions": 1
+    },
+    {
+      "label": "Ian Mckllen",
+      "mentions": 1
+    },
+    {
+      "label": "Iron Man",
+      "mentions": 1
+    },
+    {
+      "label": "Jack Jackson",
+      "mentions": 1
+    },
+    {
+      "label": "Jack Talbot",
+      "mentions": 1
+    },
+    {
+      "label": "James Gun",
+      "mentions": 1
+    },
+    {
+      "label": "Jen May",
+      "mentions": 1
+    },
+    {
+      "label": "Jennifer Lawrence",
+      "mentions": 1
+    },
+    {
+      "label": "Jimmy Palmyotti",
+      "mentions": 1
+    },
+    {
+      "label": "John Delansancy",
+      "mentions": 1
+    },
+    {
+      "label": "John Walker",
+      "mentions": 1
+    },
+    {
+      "label": "Johnny Rocket",
+      "mentions": 1
+    },
+    {
+      "label": "Jojo Rabbit",
+      "mentions": 1
+    },
+    {
+      "label": "Jonathan Majors",
+      "mentions": 1
+    },
+    {
+      "label": "Kenny Valley",
+      "mentions": 1
+    },
+    {
+      "label": "Kick Le",
+      "mentions": 1
+    },
+    {
+      "label": "King's Landing",
+      "mentions": 1
+    },
+    {
+      "label": "Kirby Thor",
+      "mentions": 1
+    },
+    {
+      "label": "Lard Varian",
+      "mentions": 1
+    },
+    {
+      "label": "Lars Mickelson",
+      "mentions": 1
+    },
+    {
+      "label": "Lex Luthther",
+      "mentions": 1
+    },
+    {
+      "label": "LONGER",
+      "mentions": 1
+    },
+    {
+      "label": "Lovable Nazi",
+      "mentions": 1
+    },
+    {
+      "label": "Luke Skywalker",
+      "mentions": 1
+    },
+    {
+      "label": "Marvel Studios",
+      "mentions": 1
+    },
+    {
+      "label": "Marvel Zombies Army",
+      "mentions": 1
+    },
+    {
+      "label": "Michael Jackson",
+      "mentions": 1
+    },
+    {
+      "label": "Midnight Run",
+      "mentions": 1
+    },
+    {
+      "label": "Miles Morales",
+      "mentions": 1
+    },
+    {
+      "label": "Millie Alak",
+      "mentions": 1
+    },
+    {
+      "label": "Millie Alcock",
+      "mentions": 1
+    },
+    {
+      "label": "MLCW",
+      "mentions": 1
+    },
+    {
+      "label": "Neil Marshall",
+      "mentions": 1
+    },
+    {
+      "label": "Nicholas Cage",
+      "mentions": 1
+    },
+    {
+      "label": "Nick Cage Ghost Rider",
+      "mentions": 1
+    },
+    {
+      "label": "Numa Numa",
+      "mentions": 1
+    },
+    {
+      "label": "Obi-Wan Kenobi",
+      "mentions": 1
+    },
+    {
+      "label": "Old Disney",
+      "mentions": 1
+    },
+    {
+      "label": "Papa Spinach",
+      "mentions": 1
+    },
+    {
+      "label": "Phantom Menace",
+      "mentions": 1
+    },
+    {
+      "label": "Poor Thunderbolts",
+      "mentions": 1
+    },
+    {
+      "label": "Poor Vader",
+      "mentions": 1
+    },
+    {
+      "label": "Random Random Mullen",
+      "mentions": 1
+    },
+    {
+      "label": "Read Baba",
+      "mentions": 1
+    },
+    {
+      "label": "Rebecca Roma Samos",
+      "mentions": 1
+    },
+    {
+      "label": "Rebel Moon",
+      "mentions": 1
+    },
+    {
+      "label": "Red Letter Media",
+      "mentions": 1
+    },
+    {
+      "label": "Reed Richard",
+      "mentions": 1
+    },
+    {
+      "label": "Reed Richards Doom",
+      "mentions": 1
+    },
+    {
+      "label": "Remaster Black",
+      "mentions": 1
+    },
+    {
+      "label": "Reverend Rune",
+      "mentions": 1
+    },
+    {
+      "label": "Robert Dian Jr",
+      "mentions": 1
+    },
+    {
+      "label": "ROBERT DOWNEY JR",
+      "mentions": 1
+    },
+    {
+      "label": "Roma St",
+      "mentions": 1
+    },
+    {
+      "label": "Ron Lim",
+      "mentions": 1
+    },
+    {
+      "label": "Rotten Tomato",
+      "mentions": 1
+    },
+    {
+      "label": "Seven Kingdoms",
+      "mentions": 1
+    },
+    {
+      "label": "Shane Chi",
+      "mentions": 1
+    },
+    {
+      "label": "Silver Server",
+      "mentions": 1
+    },
+    {
+      "label": "Snake Eyes",
+      "mentions": 1
+    },
+    {
+      "label": "Snick Eyes",
+      "mentions": 1
+    },
+    {
+      "label": "Star War",
+      "mentions": 1
+    },
+    {
+      "label": "Steve Rogers",
+      "mentions": 1
+    },
+    {
+      "label": "Storm Shadow",
+      "mentions": 1
+    },
+    {
+      "label": "Suicide Squad",
+      "mentions": 1
+    },
+    {
+      "label": "Tech Crew",
+      "mentions": 1
+    },
+    {
+      "label": "Telic Chronicles",
+      "mentions": 1
+    },
+    {
+      "label": "Thanos Josh Brolan",
+      "mentions": 1
+    },
+    {
+      "label": "Thomas Jane",
+      "mentions": 1
+    },
+    {
+      "label": "THOUGHT YOU WERE DEAD",
+      "mentions": 1
+    },
+    {
+      "label": "Thursday Thursday",
+      "mentions": 1
+    },
+    {
+      "label": "Toby McGuire",
+      "mentions": 1
+    },
+    {
+      "label": "Tom Cruz",
+      "mentions": 1
+    },
+    {
+      "label": "Tommy Terico",
+      "mentions": 1
+    },
+    {
+      "label": "Tony Stark",
+      "mentions": 1
+    },
+    {
+      "label": "Twin Towers",
+      "mentions": 1
+    },
+    {
+      "label": "Unless Per",
+      "mentions": 1
+    },
+    {
+      "label": "WAIT",
+      "mentions": 1
+    },
+    {
+      "label": "Walt Disney",
+      "mentions": 1
+    },
+    {
+      "label": "War Girls",
+      "mentions": 1
+    },
+    {
+      "label": "Winter Soldier",
+      "mentions": 1
+    },
+    {
+      "label": "Wonder Woman",
+      "mentions": 1
+    },
+    {
+      "label": "WOO",
+      "mentions": 1
+    }
+  ]
+}

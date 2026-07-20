@@ -1,0 +1,638 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-07-19T18:37:06.513838+00:00",
+  "video_id": "ibGd2AqrEXg",
+  "title": "JON DEL ARROZ: HERES THE ATTENTION YOU ORDERED - SHANE DAVIS BACK ME BRO INTERNET BEEF - EXTRA SALTY",
+  "channel": "Commi3 Mark",
+  "published": "2026-07-03T23:55:22+00:00",
+  "source_transcript": "JON DEL ARROZ HERES THE ATTENTION YOU ORDERED - SHANE DAVIS BACK ME BRO INTERNET BEEF - EXTRA SALTY [ibGd2AqrEXg].json",
+  "host": "Commi3 Mark",
+  "possible_panel": [
+    {
+      "name": "Piper",
+      "confidence": 75,
+      "mentions": 13
+    },
+    {
+      "name": "Billy",
+      "confidence": 73,
+      "mentions": 12
+    },
+    {
+      "name": "Kenzo",
+      "confidence": 64,
+      "mentions": 8
+    },
+    {
+      "name": "Yan",
+      "confidence": 61,
+      "mentions": 7
+    }
+  ],
+  "possible_guests": [],
+  "strong_signals": [
+    {
+      "label": "Jon Del Arroz",
+      "mentions": 123,
+      "stars": 5
+    }
+  ],
+  "weak_signals": [
+    {
+      "label": "Eric July",
+      "mentions": 24
+    },
+    {
+      "label": "Indiegogo",
+      "mentions": 24
+    },
+    {
+      "label": "Shane Davis",
+      "mentions": 17
+    },
+    {
+      "label": "Kickstarter",
+      "mentions": 16
+    },
+    {
+      "label": "ComicsGate",
+      "mentions": 13
+    },
+    {
+      "label": "Ethan Van Sciver",
+      "mentions": 11
+    },
+    {
+      "label": "Mark",
+      "mentions": 11
+    },
+    {
+      "label": "Twitter",
+      "mentions": 10
+    },
+    {
+      "label": "Matt Bahr",
+      "mentions": 8
+    },
+    {
+      "label": "Uhhuh",
+      "mentions": 8
+    },
+    {
+      "label": "Frog Tony",
+      "mentions": 7
+    },
+    {
+      "label": "God",
+      "mentions": 7
+    },
+    {
+      "label": "Marvel",
+      "mentions": 7
+    },
+    {
+      "label": "English",
+      "mentions": 6
+    },
+    {
+      "label": "Kiwi Farms",
+      "mentions": 6
+    },
+    {
+      "label": "Comics",
+      "mentions": 5
+    },
+    {
+      "label": "Ministry",
+      "mentions": 5
+    },
+    {
+      "label": "Substack",
+      "mentions": 5
+    },
+    {
+      "label": "Superman",
+      "mentions": 5
+    },
+    {
+      "label": "Black",
+      "mentions": 4
+    },
+    {
+      "label": "Flying Sparks",
+      "mentions": 4
+    },
+    {
+      "label": "Gate",
+      "mentions": 4
+    },
+    {
+      "label": "Hey",
+      "mentions": 4
+    },
+    {
+      "label": "Liam Gray",
+      "mentions": 4
+    },
+    {
+      "label": "SJW",
+      "mentions": 4
+    },
+    {
+      "label": "Americans",
+      "mentions": 3
+    },
+    {
+      "label": "Disney",
+      "mentions": 3
+    },
+    {
+      "label": "John Dela Rose",
+      "mentions": 3
+    },
+    {
+      "label": "Katie",
+      "mentions": 3
+    },
+    {
+      "label": "Korean",
+      "mentions": 3
+    },
+    {
+      "label": "Luke Stone",
+      "mentions": 3
+    },
+    {
+      "label": "Mexico",
+      "mentions": 3
+    },
+    {
+      "label": "Nobody",
+      "mentions": 3
+    },
+    {
+      "label": "Reo",
+      "mentions": 3
+    },
+    {
+      "label": "Royal Rumble",
+      "mentions": 3
+    },
+    {
+      "label": "Someone",
+      "mentions": 3
+    },
+    {
+      "label": "Ungentlemanly Tweets",
+      "mentions": 3
+    },
+    {
+      "label": "Big",
+      "mentions": 2
+    },
+    {
+      "label": "Bring",
+      "mentions": 2
+    },
+    {
+      "label": "Bum",
+      "mentions": 2
+    },
+    {
+      "label": "CGC",
+      "mentions": 2
+    },
+    {
+      "label": "Chicken Nugget",
+      "mentions": 2
+    },
+    {
+      "label": "Congo",
+      "mentions": 2
+    },
+    {
+      "label": "COVID",
+      "mentions": 2
+    },
+    {
+      "label": "Discord",
+      "mentions": 2
+    },
+    {
+      "label": "Dynamite Thor",
+      "mentions": 2
+    },
+    {
+      "label": "EDS",
+      "mentions": 2
+    },
+    {
+      "label": "Elizabeth Emoji",
+      "mentions": 2
+    },
+    {
+      "label": "Ethan Vans Skyver",
+      "mentions": 2
+    },
+    {
+      "label": "FOMO",
+      "mentions": 2
+    },
+    {
+      "label": "Fund My Comic",
+      "mentions": 2
+    },
+    {
+      "label": "George Lucas",
+      "mentions": 2
+    },
+    {
+      "label": "GoFundMe",
+      "mentions": 2
+    },
+    {
+      "label": "High",
+      "mentions": 2
+    },
+    {
+      "label": "Hispanic",
+      "mentions": 2
+    },
+    {
+      "label": "Holy",
+      "mentions": 2
+    },
+    {
+      "label": "Jabber",
+      "mentions": 2
+    },
+    {
+      "label": "Java",
+      "mentions": 2
+    },
+    {
+      "label": "Jay Bmer",
+      "mentions": 2
+    },
+    {
+      "label": "Jesus",
+      "mentions": 2
+    },
+    {
+      "label": "John Del Rose",
+      "mentions": 2
+    },
+    {
+      "label": "John Men",
+      "mentions": 2
+    },
+    {
+      "label": "Martin Solomon",
+      "mentions": 2
+    },
+    {
+      "label": "Mexican",
+      "mentions": 2
+    },
+    {
+      "label": "Michael",
+      "mentions": 2
+    },
+    {
+      "label": "Monomacus",
+      "mentions": 2
+    },
+    {
+      "label": "Nice",
+      "mentions": 2
+    },
+    {
+      "label": "Nope",
+      "mentions": 2
+    },
+    {
+      "label": "Ponzi",
+      "mentions": 2
+    },
+    {
+      "label": "Put",
+      "mentions": 2
+    },
+    {
+      "label": "Riley",
+      "mentions": 2
+    },
+    {
+      "label": "Robo Toad",
+      "mentions": 2
+    },
+    {
+      "label": "Russian Troll Factory",
+      "mentions": 2
+    },
+    {
+      "label": "Savvy",
+      "mentions": 2
+    },
+    {
+      "label": "Send",
+      "mentions": 2
+    },
+    {
+      "label": "Shopify",
+      "mentions": 2
+    },
+    {
+      "label": "Slaming Brand",
+      "mentions": 2
+    },
+    {
+      "label": "Sounds",
+      "mentions": 2
+    },
+    {
+      "label": "Spider-Man",
+      "mentions": 2
+    },
+    {
+      "label": "Student",
+      "mentions": 2
+    },
+    {
+      "label": "Sunday",
+      "mentions": 2
+    },
+    {
+      "label": "Tik Tok",
+      "mentions": 2
+    },
+    {
+      "label": "True",
+      "mentions": 2
+    },
+    {
+      "label": "Urban Dictionary",
+      "mentions": 2
+    },
+    {
+      "label": "Wednesday",
+      "mentions": 2
+    },
+    {
+      "label": "Wheelers",
+      "mentions": 2
+    },
+    {
+      "label": "White",
+      "mentions": 2
+    },
+    {
+      "label": "World Cup",
+      "mentions": 2
+    },
+    {
+      "label": "YouTubers",
+      "mentions": 2
+    },
+    {
+      "label": "Aaron Lusties",
+      "mentions": 1
+    },
+    {
+      "label": "Andy Bon",
+      "mentions": 1
+    },
+    {
+      "label": "Andy Burnham",
+      "mentions": 1
+    },
+    {
+      "label": "Andy Smiths",
+      "mentions": 1
+    },
+    {
+      "label": "BA Turner's JD",
+      "mentions": 1
+    },
+    {
+      "label": "Bear Billy Tucci",
+      "mentions": 1
+    },
+    {
+      "label": "Billy Basco",
+      "mentions": 1
+    },
+    {
+      "label": "BJY",
+      "mentions": 1
+    },
+    {
+      "label": "Black Justice",
+      "mentions": 1
+    },
+    {
+      "label": "Blunder Island",
+      "mentions": 1
+    },
+    {
+      "label": "BMB",
+      "mentions": 1
+    },
+    {
+      "label": "BOOKS",
+      "mentions": 1
+    },
+    {
+      "label": "Comic Con",
+      "mentions": 1
+    },
+    {
+      "label": "Comics Gate Club",
+      "mentions": 1
+    },
+    {
+      "label": "Comics Skate",
+      "mentions": 1
+    },
+    {
+      "label": "Dark Gift",
+      "mentions": 1
+    },
+    {
+      "label": "DC Comics",
+      "mentions": 1
+    },
+    {
+      "label": "Disney Star Wars",
+      "mentions": 1
+    },
+    {
+      "label": "EAP",
+      "mentions": 1
+    },
+    {
+      "label": "East Asian",
+      "mentions": 1
+    },
+    {
+      "label": "EBS",
+      "mentions": 1
+    },
+    {
+      "label": "Eric Weathers",
+      "mentions": 1
+    },
+    {
+      "label": "Ethan Van",
+      "mentions": 1
+    },
+    {
+      "label": "George Michael",
+      "mentions": 1
+    },
+    {
+      "label": "George Michael Star Wars",
+      "mentions": 1
+    },
+    {
+      "label": "Grim Grim Jim",
+      "mentions": 1
+    },
+    {
+      "label": "Heather Swain",
+      "mentions": 1
+    },
+    {
+      "label": "IGG",
+      "mentions": 1
+    },
+    {
+      "label": "Jay Faircluff",
+      "mentions": 1
+    },
+    {
+      "label": "JDJ",
+      "mentions": 1
+    },
+    {
+      "label": "Jim Wong",
+      "mentions": 1
+    },
+    {
+      "label": "John Del Roza",
+      "mentions": 1
+    },
+    {
+      "label": "John Delo",
+      "mentions": 1
+    },
+    {
+      "label": "Kami Mark",
+      "mentions": 1
+    },
+    {
+      "label": "Madame Sa",
+      "mentions": 1
+    },
+    {
+      "label": "Marvel Comics",
+      "mentions": 1
+    },
+    {
+      "label": "Michael Strazinski",
+      "mentions": 1
+    },
+    {
+      "label": "Michael Zinski",
+      "mentions": 1
+    },
+    {
+      "label": "Mindy Wheeler",
+      "mentions": 1
+    },
+    {
+      "label": "MMA",
+      "mentions": 1
+    },
+    {
+      "label": "N2 Paint",
+      "mentions": 1
+    },
+    {
+      "label": "Neo Cities",
+      "mentions": 1
+    },
+    {
+      "label": "Nerd Rotic",
+      "mentions": 1
+    },
+    {
+      "label": "OBS",
+      "mentions": 1
+    },
+    {
+      "label": "Russian Troll",
+      "mentions": 1
+    },
+    {
+      "label": "San Diego Comic- Con",
+      "mentions": 1
+    },
+    {
+      "label": "School Girl",
+      "mentions": 1
+    },
+    {
+      "label": "Second World",
+      "mentions": 1
+    },
+    {
+      "label": "Shane Bad",
+      "mentions": 1
+    },
+    {
+      "label": "Slamming Brandon",
+      "mentions": 1
+    },
+    {
+      "label": "Sleeping Psychopathy",
+      "mentions": 1
+    },
+    {
+      "label": "Star Wars",
+      "mentions": 1
+    },
+    {
+      "label": "Stencil Artist Yan",
+      "mentions": 1
+    },
+    {
+      "label": "Stray Beans",
+      "mentions": 1
+    },
+    {
+      "label": "Superman Earth",
+      "mentions": 1
+    },
+    {
+      "label": "Texas Mofo",
+      "mentions": 1
+    },
+    {
+      "label": "Tree Goblin",
+      "mentions": 1
+    },
+    {
+      "label": "Trip Advisor",
+      "mentions": 1
+    },
+    {
+      "label": "Tucker Carlsony",
+      "mentions": 1
+    },
+    {
+      "label": "XYZ",
+      "mentions": 1
+    }
+  ]
+}

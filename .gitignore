@@ -1,7 +1,6 @@
 __pycache__/
 *.pyc
-radar/brain/radar.lock
-radar/brain/latest-run.log
-radar/brain/last-run.json
-radar/brain/transcript-cooldown.json
-radar/brain/transcript-retries.json
+*.tmp
+01 - DRAMA RADAR/state/*.lock
+02 - TRANSCRIPT GRABBER/state/*.lock
+02 - TRANSCRIPT GRABBER/state/github-sync/

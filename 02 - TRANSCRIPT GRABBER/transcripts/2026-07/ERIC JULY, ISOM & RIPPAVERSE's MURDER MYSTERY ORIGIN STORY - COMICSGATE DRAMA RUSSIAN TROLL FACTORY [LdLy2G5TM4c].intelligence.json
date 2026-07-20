@@ -1,0 +1,610 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-07-19T18:37:00.914946+00:00",
+  "video_id": "LdLy2G5TM4c",
+  "title": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY",
+  "channel": "Commi3 Mark",
+  "published": "2026-07-10T23:56:07+00:00",
+  "source_transcript": "ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json",
+  "host": "Commi3 Mark",
+  "possible_panel": [
+    {
+      "name": "Yan",
+      "confidence": 82,
+      "mentions": 21
+    },
+    {
+      "name": "Piper",
+      "confidence": 75,
+      "mentions": 13
+    },
+    {
+      "name": "Billy",
+      "confidence": 67,
+      "mentions": 9
+    },
+    {
+      "name": "Kenzo",
+      "confidence": 57,
+      "mentions": 6
+    }
+  ],
+  "possible_guests": [],
+  "strong_signals": [
+    {
+      "label": "Eric July",
+      "mentions": 115,
+      "stars": 5
+    }
+  ],
+  "weak_signals": [
+    {
+      "label": "SUV",
+      "mentions": 19
+    },
+    {
+      "label": "Grock",
+      "mentions": 17
+    },
+    {
+      "label": "Jon Del Arroz",
+      "mentions": 17
+    },
+    {
+      "label": "Mark",
+      "mentions": 10
+    },
+    {
+      "label": "Twitter",
+      "mentions": 10
+    },
+    {
+      "label": "Dallas",
+      "mentions": 8
+    },
+    {
+      "label": "Facebook",
+      "mentions": 8
+    },
+    {
+      "label": "Neiman Ross",
+      "mentions": 7
+    },
+    {
+      "label": "Wanita Payne",
+      "mentions": 7
+    },
+    {
+      "label": "AK-47",
+      "mentions": 6
+    },
+    {
+      "label": "Best",
+      "mentions": 5
+    },
+    {
+      "label": "Brian",
+      "mentions": 5
+    },
+    {
+      "label": "Matt Bahr",
+      "mentions": 5
+    },
+    {
+      "label": "Yikes",
+      "mentions": 5
+    },
+    {
+      "label": "Elizabeth",
+      "mentions": 4
+    },
+    {
+      "label": "Ford Explorer",
+      "mentions": 4
+    },
+    {
+      "label": "Hey",
+      "mentions": 4
+    },
+    {
+      "label": "IMDb",
+      "mentions": 4
+    },
+    {
+      "label": "Johnny Rocket",
+      "mentions": 4
+    },
+    {
+      "label": "Kiwi Farms",
+      "mentions": 4
+    },
+    {
+      "label": "Liam Gray",
+      "mentions": 4
+    },
+    {
+      "label": "Russian Troll Factory",
+      "mentions": 4
+    },
+    {
+      "label": "Seven",
+      "mentions": 4
+    },
+    {
+      "label": "Tottenham",
+      "mentions": 4
+    },
+    {
+      "label": "Aaron",
+      "mentions": 3
+    },
+    {
+      "label": "America",
+      "mentions": 3
+    },
+    {
+      "label": "Arsenal",
+      "mentions": 3
+    },
+    {
+      "label": "ComicsGate",
+      "mentions": 3
+    },
+    {
+      "label": "Ethan Van Sciver",
+      "mentions": 3
+    },
+    {
+      "label": "Grim Jim",
+      "mentions": 3
+    },
+    {
+      "label": "Hajj",
+      "mentions": 3
+    },
+    {
+      "label": "Hodgej",
+      "mentions": 3
+    },
+    {
+      "label": "Jaba",
+      "mentions": 3
+    },
+    {
+      "label": "Miku",
+      "mentions": 3
+    },
+    {
+      "label": "Uhhuh",
+      "mentions": 3
+    },
+    {
+      "label": "Urban Dictionary",
+      "mentions": 3
+    },
+    {
+      "label": "Aaronson",
+      "mentions": 2
+    },
+    {
+      "label": "AK-47s",
+      "mentions": 2
+    },
+    {
+      "label": "American",
+      "mentions": 2
+    },
+    {
+      "label": "Apparently",
+      "mentions": 2
+    },
+    {
+      "label": "Bring",
+      "mentions": 2
+    },
+    {
+      "label": "Club",
+      "mentions": 2
+    },
+    {
+      "label": "Dark Shadow",
+      "mentions": 2
+    },
+    {
+      "label": "Disney",
+      "mentions": 2
+    },
+    {
+      "label": "Don",
+      "mentions": 2
+    },
+    {
+      "label": "Elizabeth Emoji",
+      "mentions": 2
+    },
+    {
+      "label": "Enlightened Fan",
+      "mentions": 2
+    },
+    {
+      "label": "Exhibit",
+      "mentions": 2
+    },
+    {
+      "label": "FFS",
+      "mentions": 2
+    },
+    {
+      "label": "Incredible",
+      "mentions": 2
+    },
+    {
+      "label": "Indiegogo",
+      "mentions": 2
+    },
+    {
+      "label": "Isome",
+      "mentions": 2
+    },
+    {
+      "label": "Jabber",
+      "mentions": 2
+    },
+    {
+      "label": "John",
+      "mentions": 2
+    },
+    {
+      "label": "Lea",
+      "mentions": 2
+    },
+    {
+      "label": "Man",
+      "mentions": 2
+    },
+    {
+      "label": "Martin",
+      "mentions": 2
+    },
+    {
+      "label": "Marvel",
+      "mentions": 2
+    },
+    {
+      "label": "Nbomb",
+      "mentions": 2
+    },
+    {
+      "label": "Nean",
+      "mentions": 2
+    },
+    {
+      "label": "Nice",
+      "mentions": 2
+    },
+    {
+      "label": "Nine",
+      "mentions": 2
+    },
+    {
+      "label": "PDF",
+      "mentions": 2
+    },
+    {
+      "label": "Quirk",
+      "mentions": 2
+    },
+    {
+      "label": "Riley",
+      "mentions": 2
+    },
+    {
+      "label": "Ripa",
+      "mentions": 2
+    },
+    {
+      "label": "Rumble",
+      "mentions": 2
+    },
+    {
+      "label": "Shane Davis",
+      "mentions": 2
+    },
+    {
+      "label": "Somehow",
+      "mentions": 2
+    },
+    {
+      "label": "Sure",
+      "mentions": 2
+    },
+    {
+      "label": "Texas",
+      "mentions": 2
+    },
+    {
+      "label": "Wait",
+      "mentions": 2
+    },
+    {
+      "label": "Wrap",
+      "mentions": 2
+    },
+    {
+      "label": "Aaron Hoods",
+      "mentions": 1
+    },
+    {
+      "label": "Abram Cordell",
+      "mentions": 1
+    },
+    {
+      "label": "Aiden Paladin",
+      "mentions": 1
+    },
+    {
+      "label": "AIO",
+      "mentions": 1
+    },
+    {
+      "label": "AIOC",
+      "mentions": 1
+    },
+    {
+      "label": "Alex VRB",
+      "mentions": 1
+    },
+    {
+      "label": "Anton Lucky",
+      "mentions": 1
+    },
+    {
+      "label": "Aston Villa",
+      "mentions": 1
+    },
+    {
+      "label": "Billy Billy Powermax",
+      "mentions": 1
+    },
+    {
+      "label": "Camp Wisdom",
+      "mentions": 1
+    },
+    {
+      "label": "CBR",
+      "mentions": 1
+    },
+    {
+      "label": "Charlie's London",
+      "mentions": 1
+    },
+    {
+      "label": "Chinese Communist Party",
+      "mentions": 1
+    },
+    {
+      "label": "Comrade Mark",
+      "mentions": 1
+    },
+    {
+      "label": "Corpus Christie",
+      "mentions": 1
+    },
+    {
+      "label": "Cory Mark",
+      "mentions": 1
+    },
+    {
+      "label": "Dab Saves America",
+      "mentions": 1
+    },
+    {
+      "label": "Dad Saves",
+      "mentions": 1
+    },
+    {
+      "label": "Dallas Observer",
+      "mentions": 1
+    },
+    {
+      "label": "Darnice Jones",
+      "mentions": 1
+    },
+    {
+      "label": "Dela Rose",
+      "mentions": 1
+    },
+    {
+      "label": "DM Johnny",
+      "mentions": 1
+    },
+    {
+      "label": "East Redberg Lane",
+      "mentions": 1
+    },
+    {
+      "label": "East Redbird",
+      "mentions": 1
+    },
+    {
+      "label": "Eater Pain",
+      "mentions": 1
+    },
+    {
+      "label": "EFIT",
+      "mentions": 1
+    },
+    {
+      "label": "Enlightened Vag",
+      "mentions": 1
+    },
+    {
+      "label": "Eric Jalo",
+      "mentions": 1
+    },
+    {
+      "label": "Eric Jaloy",
+      "mentions": 1
+    },
+    {
+      "label": "Eric Julia",
+      "mentions": 1
+    },
+    {
+      "label": "Eric Julio",
+      "mentions": 1
+    },
+    {
+      "label": "Eric Juloy",
+      "mentions": 1
+    },
+    {
+      "label": "Flying Sparks",
+      "mentions": 1
+    },
+    {
+      "label": "Ford SUV",
+      "mentions": 1
+    },
+    {
+      "label": "Fox News",
+      "mentions": 1
+    },
+    {
+      "label": "Google Google",
+      "mentions": 1
+    },
+    {
+      "label": "Google Maps",
+      "mentions": 1
+    },
+    {
+      "label": "Howdy Tambo",
+      "mentions": 1
+    },
+    {
+      "label": "ISO",
+      "mentions": 1
+    },
+    {
+      "label": "Jabu Jab Jabber",
+      "mentions": 1
+    },
+    {
+      "label": "Jamie Cook",
+      "mentions": 1
+    },
+    {
+      "label": "Jay Balmer",
+      "mentions": 1
+    },
+    {
+      "label": "Jesus Christ",
+      "mentions": 1
+    },
+    {
+      "label": "John Dela Rose",
+      "mentions": 1
+    },
+    {
+      "label": "Kevin Bacon",
+      "mentions": 1
+    },
+    {
+      "label": "Maiden Hell",
+      "mentions": 1
+    },
+    {
+      "label": "Muhammad Wang",
+      "mentions": 1
+    },
+    {
+      "label": "Nean Ross",
+      "mentions": 1
+    },
+    {
+      "label": "Nean Roths",
+      "mentions": 1
+    },
+    {
+      "label": "Nean Russ",
+      "mentions": 1
+    },
+    {
+      "label": "NT Paint",
+      "mentions": 1
+    },
+    {
+      "label": "OJ Simpson",
+      "mentions": 1
+    },
+    {
+      "label": "Piper's Fit",
+      "mentions": 1
+    },
+    {
+      "label": "Premier League",
+      "mentions": 1
+    },
+    {
+      "label": "Prince Harry",
+      "mentions": 1
+    },
+    {
+      "label": "Prince William",
+      "mentions": 1
+    },
+    {
+      "label": "South Dallas",
+      "mentions": 1
+    },
+    {
+      "label": "Soviet Jazz",
+      "mentions": 1
+    },
+    {
+      "label": "Summer Swan",
+      "mentions": 1
+    },
+    {
+      "label": "Texas Mofo",
+      "mentions": 1
+    },
+    {
+      "label": "Tommy Mark",
+      "mentions": 1
+    },
+    {
+      "label": "Tree Goblin",
+      "mentions": 1
+    },
+    {
+      "label": "Troll Factory",
+      "mentions": 1
+    },
+    {
+      "label": "Wanita Pain",
+      "mentions": 1
+    },
+    {
+      "label": "Wiggers Madlo",
+      "mentions": 1
+    },
+    {
+      "label": "Wonder Island",
+      "mentions": 1
+    },
+    {
+      "label": "Ya Foy",
+      "mentions": 1
+    },
+    {
+      "label": "Young Ripa",
+      "mentions": 1
+    },
+    {
+      "label": "Young Ripper",
+      "mentions": 1
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+RUSSIAN TROLL FACTORY — INTELLIGENCE BULLETIN BUILD
+=======================================================================
+
+Implemented:
+
+1. Always-on Transcript Worker
+   - START TRANSCRIPT WORKER.bat
+   - STOP TRANSCRIPT WORKER.bat
+   - Single-instance lock
+   - Remains alive during cooldowns
+   - Wakes and resumes automatically
+
+2. Dual transcript retrieval
+   - Route 1: YouTube Transcript API
+   - Route 2: YouTube subtitles/automatic captions through yt-dlp
+   - Global IP cooldown only when BOTH routes are IP-blocked
+   - Retrieval method recorded inside each transcript JSON
+
+3. Adaptive pacing
+   - Rolling event history in state/retrieval-rate.json
+   - Gradual acceleration after clean successes
+   - Sharp slowdown after a confirmed dual-route block
+   - Variable delays between attempts
+   - Human-readable operating messages
+
+4. Automatic downstream processing
+   - Every newly recovered transcript triggers Episode Intelligence
+   - Episode Intelligence remains incremental and skips completed reports
+
+5. Intelligence Bulletin
+   - Built only from .intelligence.json reports
+   - Does not modify drama-radar.json
+   - Human-readable TXT and structured JSON outputs
+   - Daily archive snapshots
+
+Included data:
+   - 106 transcripts
+   - 106 companion intelligence reports
+   - A generated Intelligence Bulletin based on those 106 reports

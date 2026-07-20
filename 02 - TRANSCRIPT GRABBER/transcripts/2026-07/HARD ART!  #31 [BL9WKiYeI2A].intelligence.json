@@ -1,0 +1,1319 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-07-19T18:37:03.825643+00:00",
+  "video_id": "BL9WKiYeI2A",
+  "title": "HARD ART!  #31",
+  "channel": "Shane Davis",
+  "published": "2026-07-02T06:14:29+00:00",
+  "source_transcript": "HARD ART!  #31 [BL9WKiYeI2A].json",
+  "host": "Shane Davis",
+  "possible_panel": [],
+  "possible_guests": [],
+  "strong_signals": [
+    {
+      "label": "John",
+      "mentions": 83,
+      "stars": 5
+    },
+    {
+      "label": "Shane",
+      "mentions": 42,
+      "stars": 4
+    },
+    {
+      "label": "Bane",
+      "mentions": 26,
+      "stars": 3
+    }
+  ],
+  "weak_signals": [
+    {
+      "label": "Wait",
+      "mentions": 24
+    },
+    {
+      "label": "Batman",
+      "mentions": 23
+    },
+    {
+      "label": "Joe",
+      "mentions": 20
+    },
+    {
+      "label": "Hey",
+      "mentions": 19
+    },
+    {
+      "label": "Spider-Man",
+      "mentions": 18
+    },
+    {
+      "label": "Indiegogo",
+      "mentions": 15
+    },
+    {
+      "label": "Supergirl",
+      "mentions": 15
+    },
+    {
+      "label": "Superman",
+      "mentions": 13
+    },
+    {
+      "label": "Marvel",
+      "mentions": 12
+    },
+    {
+      "label": "Everybody",
+      "mentions": 10
+    },
+    {
+      "label": "God",
+      "mentions": 10
+    },
+    {
+      "label": "Sean",
+      "mentions": 10
+    },
+    {
+      "label": "AIDS",
+      "mentions": 9
+    },
+    {
+      "label": "Asian",
+      "mentions": 9
+    },
+    {
+      "label": "Disney",
+      "mentions": 8
+    },
+    {
+      "label": "Gambit",
+      "mentions": 8
+    },
+    {
+      "label": "Helen",
+      "mentions": 8
+    },
+    {
+      "label": "Magneto",
+      "mentions": 8
+    },
+    {
+      "label": "Nobody",
+      "mentions": 8
+    },
+    {
+      "label": "Nolan",
+      "mentions": 8
+    },
+    {
+      "label": "Sony",
+      "mentions": 8
+    },
+    {
+      "label": "Troy",
+      "mentions": 8
+    },
+    {
+      "label": "X-Men",
+      "mentions": 8
+    },
+    {
+      "label": "Hold",
+      "mentions": 7
+    },
+    {
+      "label": "American",
+      "mentions": 6
+    },
+    {
+      "label": "Bring",
+      "mentions": 6
+    },
+    {
+      "label": "Ethan Van Sciver",
+      "mentions": 6
+    },
+    {
+      "label": "Everything",
+      "mentions": 6
+    },
+    {
+      "label": "Morph",
+      "mentions": 6
+    },
+    {
+      "label": "Odyssey",
+      "mentions": 6
+    },
+    {
+      "label": "Sinister",
+      "mentions": 6
+    },
+    {
+      "label": "Twitter",
+      "mentions": 6
+    },
+    {
+      "label": "Wednesday",
+      "mentions": 6
+    },
+    {
+      "label": "Christopher",
+      "mentions": 5
+    },
+    {
+      "label": "Cyclops",
+      "mentions": 5
+    },
+    {
+      "label": "Hit",
+      "mentions": 5
+    },
+    {
+      "label": "Jack Nicholson",
+      "mentions": 5
+    },
+    {
+      "label": "Joker",
+      "mentions": 5
+    },
+    {
+      "label": "Jubilee",
+      "mentions": 5
+    },
+    {
+      "label": "Season",
+      "mentions": 5
+    },
+    {
+      "label": "Storm",
+      "mentions": 5
+    },
+    {
+      "label": "Three",
+      "mentions": 5
+    },
+    {
+      "label": "Wolverine",
+      "mentions": 5
+    },
+    {
+      "label": "Deathstroke",
+      "mentions": 4
+    },
+    {
+      "label": "Dude",
+      "mentions": 4
+    },
+    {
+      "label": "Farago",
+      "mentions": 4
+    },
+    {
+      "label": "Hard Art",
+      "mentions": 4
+    },
+    {
+      "label": "Hollywood",
+      "mentions": 4
+    },
+    {
+      "label": "Hornets",
+      "mentions": 4
+    },
+    {
+      "label": "Kickstarter",
+      "mentions": 4
+    },
+    {
+      "label": "Lobo",
+      "mentions": 4
+    },
+    {
+      "label": "Maline Prior",
+      "mentions": 4
+    },
+    {
+      "label": "Put",
+      "mentions": 4
+    },
+    {
+      "label": "Strowman",
+      "mentions": 4
+    },
+    {
+      "label": "Terry",
+      "mentions": 4
+    },
+    {
+      "label": "William",
+      "mentions": 4
+    },
+    {
+      "label": "Big",
+      "mentions": 3
+    },
+    {
+      "label": "Bringing",
+      "mentions": 3
+    },
+    {
+      "label": "Christian",
+      "mentions": 3
+    },
+    {
+      "label": "Christopher Nolan",
+      "mentions": 3
+    },
+    {
+      "label": "Clark",
+      "mentions": 3
+    },
+    {
+      "label": "ComicsGate",
+      "mentions": 3
+    },
+    {
+      "label": "Detroit",
+      "mentions": 3
+    },
+    {
+      "label": "Elon Musk",
+      "mentions": 3
+    },
+    {
+      "label": "Galaxy",
+      "mentions": 3
+    },
+    {
+      "label": "Gorgeous George",
+      "mentions": 3
+    },
+    {
+      "label": "Greek",
+      "mentions": 3
+    },
+    {
+      "label": "Guardians",
+      "mentions": 3
+    },
+    {
+      "label": "Hasbro",
+      "mentions": 3
+    },
+    {
+      "label": "Hawk Girl",
+      "mentions": 3
+    },
+    {
+      "label": "Hell",
+      "mentions": 3
+    },
+    {
+      "label": "Hobby Lobby",
+      "mentions": 3
+    },
+    {
+      "label": "Hulk Hogan",
+      "mentions": 3
+    },
+    {
+      "label": "Interesting",
+      "mentions": 3
+    },
+    {
+      "label": "James Gun",
+      "mentions": 3
+    },
+    {
+      "label": "James Woods",
+      "mentions": 3
+    },
+    {
+      "label": "Jeez",
+      "mentions": 3
+    },
+    {
+      "label": "Jesus",
+      "mentions": 3
+    },
+    {
+      "label": "July",
+      "mentions": 3
+    },
+    {
+      "label": "Lilo",
+      "mentions": 3
+    },
+    {
+      "label": "Listen",
+      "mentions": 3
+    },
+    {
+      "label": "Looks",
+      "mentions": 3
+    },
+    {
+      "label": "Lord",
+      "mentions": 3
+    },
+    {
+      "label": "Man",
+      "mentions": 3
+    },
+    {
+      "label": "Oppenheimer",
+      "mentions": 3
+    },
+    {
+      "label": "Oscar",
+      "mentions": 3
+    },
+    {
+      "label": "Reaper Destroyer",
+      "mentions": 3
+    },
+    {
+      "label": "Roids",
+      "mentions": 3
+    },
+    {
+      "label": "Salty",
+      "mentions": 3
+    },
+    {
+      "label": "San",
+      "mentions": 3
+    },
+    {
+      "label": "Scott Adams",
+      "mentions": 3
+    },
+    {
+      "label": "Skeletor",
+      "mentions": 3
+    },
+    {
+      "label": "Snider",
+      "mentions": 3
+    },
+    {
+      "label": "Star Wars",
+      "mentions": 3
+    },
+    {
+      "label": "Stitch",
+      "mentions": 3
+    },
+    {
+      "label": "Tom Hardy",
+      "mentions": 3
+    },
+    {
+      "label": "WAIT",
+      "mentions": 3
+    },
+    {
+      "label": "War",
+      "mentions": 3
+    },
+    {
+      "label": "Whenever",
+      "mentions": 3
+    },
+    {
+      "label": "Yonzi",
+      "mentions": 3
+    },
+    {
+      "label": "Academy Award",
+      "mentions": 2
+    },
+    {
+      "label": "Adysius",
+      "mentions": 2
+    },
+    {
+      "label": "Alabama",
+      "mentions": 2
+    },
+    {
+      "label": "Americans",
+      "mentions": 2
+    },
+    {
+      "label": "Apocalypse",
+      "mentions": 2
+    },
+    {
+      "label": "Ass",
+      "mentions": 2
+    },
+    {
+      "label": "Australian",
+      "mentions": 2
+    },
+    {
+      "label": "Avatar",
+      "mentions": 2
+    },
+    {
+      "label": "Ballers",
+      "mentions": 2
+    },
+    {
+      "label": "Brotherhood",
+      "mentions": 2
+    },
+    {
+      "label": "California",
+      "mentions": 2
+    },
+    {
+      "label": "Canadian",
+      "mentions": 2
+    },
+    {
+      "label": "Cape Fear",
+      "mentions": 2
+    },
+    {
+      "label": "Charizard",
+      "mentions": 2
+    },
+    {
+      "label": "Colonel Jeffy",
+      "mentions": 2
+    },
+    {
+      "label": "Conan",
+      "mentions": 2
+    },
+    {
+      "label": "Cross",
+      "mentions": 2
+    },
+    {
+      "label": "Death Star",
+      "mentions": 2
+    },
+    {
+      "label": "Definitely",
+      "mentions": 2
+    },
+    {
+      "label": "Diego",
+      "mentions": 2
+    },
+    {
+      "label": "Duke",
+      "mentions": 2
+    },
+    {
+      "label": "DVD",
+      "mentions": 2
+    },
+    {
+      "label": "Ed Piscore",
+      "mentions": 2
+    },
+    {
+      "label": "Elliot Page",
+      "mentions": 2
+    },
+    {
+      "label": "EMS",
+      "mentions": 2
+    },
+    {
+      "label": "Evil",
+      "mentions": 2
+    },
+    {
+      "label": "Factor",
+      "mentions": 2
+    },
+    {
+      "label": "Five",
+      "mentions": 2
+    },
+    {
+      "label": "Fox",
+      "mentions": 2
+    },
+    {
+      "label": "Fuck",
+      "mentions": 2
+    },
+    {
+      "label": "Glorious Rex",
+      "mentions": 2
+    },
+    {
+      "label": "Graham Nolan",
+      "mentions": 2
+    },
+    {
+      "label": "Havoc",
+      "mentions": 2
+    },
+    {
+      "label": "Help",
+      "mentions": 2
+    },
+    {
+      "label": "Hugh Jackman",
+      "mentions": 2
+    },
+    {
+      "label": "Hyde",
+      "mentions": 2
+    },
+    {
+      "label": "IMAX",
+      "mentions": 2
+    },
+    {
+      "label": "Inception",
+      "mentions": 2
+    },
+    {
+      "label": "Indian",
+      "mentions": 2
+    },
+    {
+      "label": "Jackal",
+      "mentions": 2
+    },
+    {
+      "label": "Jackekal",
+      "mentions": 2
+    },
+    {
+      "label": "Jason",
+      "mentions": 2
+    },
+    {
+      "label": "John Woo",
+      "mentions": 2
+    },
+    {
+      "label": "Johnny Depp",
+      "mentions": 2
+    },
+    {
+      "label": "June",
+      "mentions": 2
+    },
+    {
+      "label": "Kelsey",
+      "mentions": 2
+    },
+    {
+      "label": "Kombat",
+      "mentions": 2
+    },
+    {
+      "label": "Literally",
+      "mentions": 2
+    },
+    {
+      "label": "London",
+      "mentions": 2
+    },
+    {
+      "label": "Matt Damon",
+      "mentions": 2
+    },
+    {
+      "label": "Mattel",
+      "mentions": 2
+    },
+    {
+      "label": "Measure",
+      "mentions": 2
+    },
+    {
+      "label": "Miles Morales",
+      "mentions": 2
+    },
+    {
+      "label": "Millions",
+      "mentions": 2
+    },
+    {
+      "label": "Miniature",
+      "mentions": 2
+    },
+    {
+      "label": "Mortal",
+      "mentions": 2
+    },
+    {
+      "label": "Mutants",
+      "mentions": 2
+    },
+    {
+      "label": "Naseratu",
+      "mentions": 2
+    },
+    {
+      "label": "Need",
+      "mentions": 2
+    },
+    {
+      "label": "Netflix",
+      "mentions": 2
+    },
+    {
+      "label": "Nice",
+      "mentions": 2
+    },
+    {
+      "label": "Patrick",
+      "mentions": 2
+    },
+    {
+      "label": "Peace",
+      "mentions": 2
+    },
+    {
+      "label": "Period",
+      "mentions": 2
+    },
+    {
+      "label": "Phoenix",
+      "mentions": 2
+    },
+    {
+      "label": "Pull",
+      "mentions": 2
+    },
+    {
+      "label": "Rashma",
+      "mentions": 2
+    },
+    {
+      "label": "Ruthie",
+      "mentions": 2
+    },
+    {
+      "label": "Sam Keith",
+      "mentions": 2
+    },
+    {
+      "label": "Scorpion",
+      "mentions": 2
+    },
+    {
+      "label": "Seant",
+      "mentions": 2
+    },
+    {
+      "label": "Share",
+      "mentions": 2
+    },
+    {
+      "label": "Skid Row",
+      "mentions": 2
+    },
+    {
+      "label": "Smart",
+      "mentions": 2
+    },
+    {
+      "label": "Sophia",
+      "mentions": 2
+    },
+    {
+      "label": "Spider-Mans",
+      "mentions": 2
+    },
+    {
+      "label": "Spidey",
+      "mentions": 2
+    },
+    {
+      "label": "Super",
+      "mentions": 2
+    },
+    {
+      "label": "Taking",
+      "mentions": 2
+    },
+    {
+      "label": "Todd",
+      "mentions": 2
+    },
+    {
+      "label": "Tom Holling",
+      "mentions": 2
+    },
+    {
+      "label": "Tropic Thunder",
+      "mentions": 2
+    },
+    {
+      "label": "Wendy",
+      "mentions": 2
+    },
+    {
+      "label": "White Queen",
+      "mentions": 2
+    },
+    {
+      "label": "William Defoe",
+      "mentions": 2
+    },
+    {
+      "label": "World",
+      "mentions": 2
+    },
+    {
+      "label": "Write",
+      "mentions": 2
+    },
+    {
+      "label": "Zod",
+      "mentions": 2
+    },
+    {
+      "label": "Absolute Batman",
+      "mentions": 1
+    },
+    {
+      "label": "Amazing Friends",
+      "mentions": 1
+    },
+    {
+      "label": "American Werewolf",
+      "mentions": 1
+    },
+    {
+      "label": "Andrew Fargo",
+      "mentions": 1
+    },
+    {
+      "label": "Anne Hatha",
+      "mentions": 1
+    },
+    {
+      "label": "Anthony Ferago",
+      "mentions": 1
+    },
+    {
+      "label": "Anya Anya Taylor Joy",
+      "mentions": 1
+    },
+    {
+      "label": "ANYBODY",
+      "mentions": 1
+    },
+    {
+      "label": "Batman Absolute",
+      "mentions": 1
+    },
+    {
+      "label": "Brad Pitt",
+      "mentions": 1
+    },
+    {
+      "label": "Breaking Bad",
+      "mentions": 1
+    },
+    {
+      "label": "BUCKET GOT BIGGER",
+      "mentions": 1
+    },
+    {
+      "label": "California State Assembly",
+      "mentions": 1
+    },
+    {
+      "label": "Captain Planet",
+      "mentions": 1
+    },
+    {
+      "label": "Captain Planets",
+      "mentions": 1
+    },
+    {
+      "label": "CG CGI",
+      "mentions": 1
+    },
+    {
+      "label": "CHINESE",
+      "mentions": 1
+    },
+    {
+      "label": "Chris Graves",
+      "mentions": 1
+    },
+    {
+      "label": "Comment San Diego",
+      "mentions": 1
+    },
+    {
+      "label": "Cord Wer",
+      "mentions": 1
+    },
+    {
+      "label": "COVID",
+      "mentions": 1
+    },
+    {
+      "label": "Dark Knight Rises",
+      "mentions": 1
+    },
+    {
+      "label": "Diego Comic Con",
+      "mentions": 1
+    },
+    {
+      "label": "Ellen Paige",
+      "mentions": 1
+    },
+    {
+      "label": "ENGLISH",
+      "mentions": 1
+    },
+    {
+      "label": "Englorious Rex",
+      "mentions": 1
+    },
+    {
+      "label": "Evil Mutants",
+      "mentions": 1
+    },
+    {
+      "label": "Family Guy",
+      "mentions": 1
+    },
+    {
+      "label": "Foot Locker",
+      "mentions": 1
+    },
+    {
+      "label": "Force Awakens",
+      "mentions": 1
+    },
+    {
+      "label": "GODAMN",
+      "mentions": 1
+    },
+    {
+      "label": "Graham Nolan Bane",
+      "mentions": 1
+    },
+    {
+      "label": "Green Goblin",
+      "mentions": 1
+    },
+    {
+      "label": "GRILL",
+      "mentions": 1
+    },
+    {
+      "label": "Gun Superman",
+      "mentions": 1
+    },
+    {
+      "label": "Guy Gardner",
+      "mentions": 1
+    },
+    {
+      "label": "Harley Quinn",
+      "mentions": 1
+    },
+    {
+      "label": "Harrison Ford",
+      "mentions": 1
+    },
+    {
+      "label": "Helen Detroit",
+      "mentions": 1
+    },
+    {
+      "label": "Helena Troy",
+      "mentions": 1
+    },
+    {
+      "label": "Hell CG",
+      "mentions": 1
+    },
+    {
+      "label": "Hey Snider",
+      "mentions": 1
+    },
+    {
+      "label": "Hire Helen",
+      "mentions": 1
+    },
+    {
+      "label": "Hyde TV",
+      "mentions": 1
+    },
+    {
+      "label": "Indiana Jones",
+      "mentions": 1
+    },
+    {
+      "label": "Infinity Stone",
+      "mentions": 1
+    },
+    {
+      "label": "IRL",
+      "mentions": 1
+    },
+    {
+      "label": "Jack Palance",
+      "mentions": 1
+    },
+    {
+      "label": "Jacqueline Hyde",
+      "mentions": 1
+    },
+    {
+      "label": "James Cameron",
+      "mentions": 1
+    },
+    {
+      "label": "James Earl Jones",
+      "mentions": 1
+    },
+    {
+      "label": "James Gunn",
+      "mentions": 1
+    },
+    {
+      "label": "Janna Wood",
+      "mentions": 1
+    },
+    {
+      "label": "Jason Todd",
+      "mentions": 1
+    },
+    {
+      "label": "Jesus Christ",
+      "mentions": 1
+    },
+    {
+      "label": "Joe Joe",
+      "mentions": 1
+    },
+    {
+      "label": "Joel Shoemacher",
+      "mentions": 1
+    },
+    {
+      "label": "John Jubilee",
+      "mentions": 1
+    },
+    {
+      "label": "John Mailen",
+      "mentions": 1
+    },
+    {
+      "label": "John Mailing",
+      "mentions": 1
+    },
+    {
+      "label": "John Mill",
+      "mentions": 1
+    },
+    {
+      "label": "John Mlan",
+      "mentions": 1
+    },
+    {
+      "label": "Joseph Joseph Gordon Levit",
+      "mentions": 1
+    },
+    {
+      "label": "Kevin Cosner",
+      "mentions": 1
+    },
+    {
+      "label": "Kitty Pride",
+      "mentions": 1
+    },
+    {
+      "label": "Lady Jay",
+      "mentions": 1
+    },
+    {
+      "label": "Larry Strowman",
+      "mentions": 1
+    },
+    {
+      "label": "LED",
+      "mentions": 1
+    },
+    {
+      "label": "Lex Luthther",
+      "mentions": 1
+    },
+    {
+      "label": "Liberty Prime",
+      "mentions": 1
+    },
+    {
+      "label": "LITERALLY",
+      "mentions": 1
+    },
+    {
+      "label": "Making Gears",
+      "mentions": 1
+    },
+    {
+      "label": "Matt Demon",
+      "mentions": 1
+    },
+    {
+      "label": "Max Brooks",
+      "mentions": 1
+    },
+    {
+      "label": "Max Brooks's World War",
+      "mentions": 1
+    },
+    {
+      "label": "MEAN",
+      "mentions": 1
+    },
+    {
+      "label": "Michael Bay",
+      "mentions": 1
+    },
+    {
+      "label": "MIDDLE OF THE HIGHWAY",
+      "mentions": 1
+    },
+    {
+      "label": "Millia Elco",
+      "mentions": 1
+    },
+    {
+      "label": "Millie Alcock",
+      "mentions": 1
+    },
+    {
+      "label": "Miss Jackson",
+      "mentions": 1
+    },
+    {
+      "label": "Modern Family",
+      "mentions": 1
+    },
+    {
+      "label": "MOVED HIS EYES",
+      "mentions": 1
+    },
+    {
+      "label": "MP4",
+      "mentions": 1
+    },
+    {
+      "label": "Naseratu Shane",
+      "mentions": 1
+    },
+    {
+      "label": "NHR",
+      "mentions": 1
+    },
+    {
+      "label": "Nine Lives Comics",
+      "mentions": 1
+    },
+    {
+      "label": "Nissan Cube",
+      "mentions": 1
+    },
+    {
+      "label": "Noah Wy",
+      "mentions": 1
+    },
+    {
+      "label": "Nolan Sixheaded",
+      "mentions": 1
+    },
+    {
+      "label": "NOTICE",
+      "mentions": 1
+    },
+    {
+      "label": "OSHA",
+      "mentions": 1
+    },
+    {
+      "label": "Peter Collins",
+      "mentions": 1
+    },
+    {
+      "label": "POV",
+      "mentions": 1
+    },
+    {
+      "label": "Rachel Brinkley",
+      "mentions": 1
+    },
+    {
+      "label": "RIP",
+      "mentions": 1
+    },
+    {
+      "label": "Robert Patterson",
+      "mentions": 1
+    },
+    {
+      "label": "Roden Ford",
+      "mentions": 1
+    },
+    {
+      "label": "Roids City",
+      "mentions": 1
+    },
+    {
+      "label": "Ronan Joe",
+      "mentions": 1
+    },
+    {
+      "label": "Ronin Joe",
+      "mentions": 1
+    },
+    {
+      "label": "Ryan Blue Thunder",
+      "mentions": 1
+    },
+    {
+      "label": "Sabertooth Brotherhood",
+      "mentions": 1
+    },
+    {
+      "label": "San Diego",
+      "mentions": 1
+    },
+    {
+      "label": "San Diego Comic- Con",
+      "mentions": 1
+    },
+    {
+      "label": "San Diego ComicCon",
+      "mentions": 1
+    },
+    {
+      "label": "Scott Snider",
+      "mentions": 1
+    },
+    {
+      "label": "Scott Weiner",
+      "mentions": 1
+    },
+    {
+      "label": "Sean Sean",
+      "mentions": 1
+    },
+    {
+      "label": "SEEING",
+      "mentions": 1
+    },
+    {
+      "label": "Shadow Cat",
+      "mentions": 1
+    },
+    {
+      "label": "Sinister Ruckus",
+      "mentions": 1
+    },
+    {
+      "label": "SIR",
+      "mentions": 1
+    },
+    {
+      "label": "Snow White",
+      "mentions": 1
+    },
+    {
+      "label": "Sophia Bgera",
+      "mentions": 1
+    },
+    {
+      "label": "Springball Terminal Monstrosity",
+      "mentions": 1
+    },
+    {
+      "label": "Starlight Cats",
+      "mentions": 1
+    },
+    {
+      "label": "Straight Christian",
+      "mentions": 1
+    },
+    {
+      "label": "Strikes Earth",
+      "mentions": 1
+    },
+    {
+      "label": "Superman Batman",
+      "mentions": 1
+    },
+    {
+      "label": "Supposedly Helen",
+      "mentions": 1
+    },
+    {
+      "label": "Teenage Mut Ninja Turtles",
+      "mentions": 1
+    },
+    {
+      "label": "Three Spider-Man",
+      "mentions": 1
+    },
+    {
+      "label": "Tiger Beat",
+      "mentions": 1
+    },
+    {
+      "label": "TIT",
+      "mentions": 1
+    },
+    {
+      "label": "Toy Story",
+      "mentions": 1
+    },
+    {
+      "label": "Universal Pictures India",
+      "mentions": 1
+    },
+    {
+      "label": "VHS",
+      "mentions": 1
+    },
+    {
+      "label": "Volume Two",
+      "mentions": 1
+    },
+    {
+      "label": "Whitney Houston",
+      "mentions": 1
+    },
+    {
+      "label": "William Defo",
+      "mentions": 1
+    },
+    {
+      "label": "Yoshima Ataru",
+      "mentions": 1
+    },
+    {
+      "label": "Young Steven Seagal",
+      "mentions": 1
+    },
+    {
+      "label": "Zod Lobo",
+      "mentions": 1
+    }
+  ]
+}

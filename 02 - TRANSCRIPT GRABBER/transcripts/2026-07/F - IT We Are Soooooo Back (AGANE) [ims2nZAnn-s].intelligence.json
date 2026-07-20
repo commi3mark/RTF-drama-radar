@@ -1,0 +1,583 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-07-19T18:37:01.285847+00:00",
+  "video_id": "ims2nZAnn-s",
+  "title": "F - IT: We Are Soooooo Back (AGANE)",
+  "channel": "Piper",
+  "published": "2026-07-09T03:55:54+00:00",
+  "source_transcript": "F - IT We Are Soooooo Back (AGANE) [ims2nZAnn-s].json",
+  "host": "Piper",
+  "possible_panel": [
+    {
+      "name": "Billy",
+      "confidence": 36,
+      "mentions": 2
+    }
+  ],
+  "possible_guests": [],
+  "strong_signals": [
+    {
+      "label": "Micah",
+      "mentions": 26,
+      "stars": 5
+    },
+    {
+      "label": "Hey",
+      "mentions": 16,
+      "stars": 4
+    },
+    {
+      "label": "Big",
+      "mentions": 15,
+      "stars": 4
+    },
+    {
+      "label": "Matt Bahr",
+      "mentions": 15,
+      "stars": 4
+    },
+    {
+      "label": "Liam Gray",
+      "mentions": 12,
+      "stars": 4
+    }
+  ],
+  "weak_signals": [
+    {
+      "label": "Jesus",
+      "mentions": 11
+    },
+    {
+      "label": "FFS",
+      "mentions": 10
+    },
+    {
+      "label": "Woof",
+      "mentions": 10
+    },
+    {
+      "label": "Frog Tony",
+      "mentions": 9
+    },
+    {
+      "label": "Twilight",
+      "mentions": 9
+    },
+    {
+      "label": "Bye",
+      "mentions": 8
+    },
+    {
+      "label": "Mark",
+      "mentions": 8
+    },
+    {
+      "label": "EFT",
+      "mentions": 7
+    },
+    {
+      "label": "Lobo",
+      "mentions": 7
+    },
+    {
+      "label": "Wait",
+      "mentions": 7
+    },
+    {
+      "label": "Wednesday",
+      "mentions": 7
+    },
+    {
+      "label": "Jon Del Arroz",
+      "mentions": 6
+    },
+    {
+      "label": "ComicsGate",
+      "mentions": 5
+    },
+    {
+      "label": "Nice",
+      "mentions": 5
+    },
+    {
+      "label": "Speak",
+      "mentions": 5
+    },
+    {
+      "label": "America",
+      "mentions": 4
+    },
+    {
+      "label": "Batman",
+      "mentions": 4
+    },
+    {
+      "label": "Bats",
+      "mentions": 4
+    },
+    {
+      "label": "Eastern",
+      "mentions": 4
+    },
+    {
+      "label": "Huh",
+      "mentions": 4
+    },
+    {
+      "label": "Nope",
+      "mentions": 4
+    },
+    {
+      "label": "Stop",
+      "mentions": 4
+    },
+    {
+      "label": "Uhhuh",
+      "mentions": 4
+    },
+    {
+      "label": "Vinnie",
+      "mentions": 4
+    },
+    {
+      "label": "ADHD",
+      "mentions": 3
+    },
+    {
+      "label": "Captain",
+      "mentions": 3
+    },
+    {
+      "label": "English",
+      "mentions": 3
+    },
+    {
+      "label": "George",
+      "mentions": 3
+    },
+    {
+      "label": "Ivan Drago",
+      "mentions": 3
+    },
+    {
+      "label": "Jackson",
+      "mentions": 3
+    },
+    {
+      "label": "Jtown",
+      "mentions": 3
+    },
+    {
+      "label": "Lulu",
+      "mentions": 3
+    },
+    {
+      "label": "Man",
+      "mentions": 3
+    },
+    {
+      "label": "Michigan",
+      "mentions": 3
+    },
+    {
+      "label": "Paragan",
+      "mentions": 3
+    },
+    {
+      "label": "Piper Lane",
+      "mentions": 3
+    },
+    {
+      "label": "Rosetta",
+      "mentions": 3
+    },
+    {
+      "label": "Sleeveless",
+      "mentions": 3
+    },
+    {
+      "label": "Sometimes",
+      "mentions": 3
+    },
+    {
+      "label": "Spencers",
+      "mentions": 3
+    },
+    {
+      "label": "Yanapoui",
+      "mentions": 3
+    },
+    {
+      "label": "American",
+      "mentions": 2
+    },
+    {
+      "label": "Apparently",
+      "mentions": 2
+    },
+    {
+      "label": "Bad",
+      "mentions": 2
+    },
+    {
+      "label": "Chinese",
+      "mentions": 2
+    },
+    {
+      "label": "Comics",
+      "mentions": 2
+    },
+    {
+      "label": "Discord",
+      "mentions": 2
+    },
+    {
+      "label": "Dto",
+      "mentions": 2
+    },
+    {
+      "label": "Eric July",
+      "mentions": 2
+    },
+    {
+      "label": "Everybody",
+      "mentions": 2
+    },
+    {
+      "label": "Except",
+      "mentions": 2
+    },
+    {
+      "label": "Gaus",
+      "mentions": 2
+    },
+    {
+      "label": "GMT",
+      "mentions": 2
+    },
+    {
+      "label": "God",
+      "mentions": 2
+    },
+    {
+      "label": "Google",
+      "mentions": 2
+    },
+    {
+      "label": "Happy",
+      "mentions": 2
+    },
+    {
+      "label": "Howdy",
+      "mentions": 2
+    },
+    {
+      "label": "Johnny Scab",
+      "mentions": 2
+    },
+    {
+      "label": "Katie",
+      "mentions": 2
+    },
+    {
+      "label": "Lancing",
+      "mentions": 2
+    },
+    {
+      "label": "Leon",
+      "mentions": 2
+    },
+    {
+      "label": "Libo",
+      "mentions": 2
+    },
+    {
+      "label": "LLE",
+      "mentions": 2
+    },
+    {
+      "label": "McLaren",
+      "mentions": 2
+    },
+    {
+      "label": "Need More Road",
+      "mentions": 2
+    },
+    {
+      "label": "Normal",
+      "mentions": 2
+    },
+    {
+      "label": "Paragrin",
+      "mentions": 2
+    },
+    {
+      "label": "Part",
+      "mentions": 2
+    },
+    {
+      "label": "Pay",
+      "mentions": 2
+    },
+    {
+      "label": "Plus",
+      "mentions": 2
+    },
+    {
+      "label": "Quen",
+      "mentions": 2
+    },
+    {
+      "label": "Real",
+      "mentions": 2
+    },
+    {
+      "label": "Russian Troll Factory",
+      "mentions": 2
+    },
+    {
+      "label": "Series",
+      "mentions": 2
+    },
+    {
+      "label": "Shoot",
+      "mentions": 2
+    },
+    {
+      "label": "Should",
+      "mentions": 2
+    },
+    {
+      "label": "Start",
+      "mentions": 2
+    },
+    {
+      "label": "Steve",
+      "mentions": 2
+    },
+    {
+      "label": "Suno",
+      "mentions": 2
+    },
+    {
+      "label": "Tommy",
+      "mentions": 2
+    },
+    {
+      "label": "Twitter",
+      "mentions": 2
+    },
+    {
+      "label": "Walgreens",
+      "mentions": 2
+    },
+    {
+      "label": "Watch",
+      "mentions": 2
+    },
+    {
+      "label": "Whis",
+      "mentions": 2
+    },
+    {
+      "label": "Wise",
+      "mentions": 2
+    },
+    {
+      "label": "Woo",
+      "mentions": 2
+    },
+    {
+      "label": "Xavier",
+      "mentions": 2
+    },
+    {
+      "label": "AI AI",
+      "mentions": 1
+    },
+    {
+      "label": "Bet Yanui",
+      "mentions": 1
+    },
+    {
+      "label": "CCP",
+      "mentions": 1
+    },
+    {
+      "label": "Celebration Cinema",
+      "mentions": 1
+    },
+    {
+      "label": "Crossbones Crew",
+      "mentions": 1
+    },
+    {
+      "label": "Crouching Taylor Hidden Swift",
+      "mentions": 1
+    },
+    {
+      "label": "Dan Funk",
+      "mentions": 1
+    },
+    {
+      "label": "Derp City",
+      "mentions": 1
+    },
+    {
+      "label": "Don Rickles",
+      "mentions": 1
+    },
+    {
+      "label": "DTO",
+      "mentions": 1
+    },
+    {
+      "label": "EFIT",
+      "mentions": 1
+    },
+    {
+      "label": "EOT",
+      "mentions": 1
+    },
+    {
+      "label": "EST",
+      "mentions": 1
+    },
+    {
+      "label": "Ethan Van Sciver",
+      "mentions": 1
+    },
+    {
+      "label": "Ethan's Ethan",
+      "mentions": 1
+    },
+    {
+      "label": "Final Fantasy",
+      "mentions": 1
+    },
+    {
+      "label": "Frank Sinatra",
+      "mentions": 1
+    },
+    {
+      "label": "Fusebox Ben",
+      "mentions": 1
+    },
+    {
+      "label": "GBT",
+      "mentions": 1
+    },
+    {
+      "label": "Hey Ben",
+      "mentions": 1
+    },
+    {
+      "label": "Kiwi Farm",
+      "mentions": 1
+    },
+    {
+      "label": "KL Mars",
+      "mentions": 1
+    },
+    {
+      "label": "Lobo Lobo",
+      "mentions": 1
+    },
+    {
+      "label": "Lude ADHD",
+      "mentions": 1
+    },
+    {
+      "label": "Luke Stone",
+      "mentions": 1
+    },
+    {
+      "label": "Michigan International Speedway",
+      "mentions": 1
+    },
+    {
+      "label": "Mickey Queen Queen",
+      "mentions": 1
+    },
+    {
+      "label": "NPC",
+      "mentions": 1
+    },
+    {
+      "label": "Pay Piper",
+      "mentions": 1
+    },
+    {
+      "label": "Pig Collective",
+      "mentions": 1
+    },
+    {
+      "label": "Piper Wayne",
+      "mentions": 1
+    },
+    {
+      "label": "Robin Williams",
+      "mentions": 1
+    },
+    {
+      "label": "Rod Serling",
+      "mentions": 1
+    },
+    {
+      "label": "Russia Troll Factory",
+      "mentions": 1
+    },
+    {
+      "label": "Russian Troll",
+      "mentions": 1
+    },
+    {
+      "label": "Safe Ride",
+      "mentions": 1
+    },
+    {
+      "label": "SFS",
+      "mentions": 1
+    },
+    {
+      "label": "SHUBBY",
+      "mentions": 1
+    },
+    {
+      "label": "Shulie Network",
+      "mentions": 1
+    },
+    {
+      "label": "Sleeveless Comics",
+      "mentions": 1
+    },
+    {
+      "label": "Sununo Sununo",
+      "mentions": 1
+    },
+    {
+      "label": "Twilight Zone",
+      "mentions": 1
+    },
+    {
+      "label": "Unhand Jason",
+      "mentions": 1
+    },
+    {
+      "label": "Von's Tearing",
+      "mentions": 1
+    },
+    {
+      "label": "War Campaign",
+      "mentions": 1
+    },
+    {
+      "label": "Yoda Fui",
+      "mentions": 1
+    },
+    {
+      "label": "Yona Foy",
+      "mentions": 1
+    }
+  ]
+}

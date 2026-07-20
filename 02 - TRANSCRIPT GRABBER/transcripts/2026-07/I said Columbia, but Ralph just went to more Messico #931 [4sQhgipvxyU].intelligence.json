@@ -1,0 +1,642 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-07-19T18:37:04.219176+00:00",
+  "video_id": "4sQhgipvxyU",
+  "title": "I said Columbia, but Ralph just went to more Messico | #931",
+  "channel": "Ministry of Dude",
+  "published": "2026-07-07T14:46:31+00:00",
+  "source_transcript": "I said Columbia, but Ralph just went to more Messico #931 [4sQhgipvxyU].json",
+  "host": "Ministry of Dude",
+  "possible_panel": [],
+  "possible_guests": [],
+  "strong_signals": [
+    {
+      "label": "Ralph",
+      "mentions": 57,
+      "stars": 5
+    },
+    {
+      "label": "Hold",
+      "mentions": 19,
+      "stars": 3
+    }
+  ],
+  "weak_signals": [
+    {
+      "label": "Dude",
+      "mentions": 17
+    },
+    {
+      "label": "God",
+      "mentions": 16
+    },
+    {
+      "label": "Twitter",
+      "mentions": 16
+    },
+    {
+      "label": "Wait",
+      "mentions": 13
+    },
+    {
+      "label": "Jesse",
+      "mentions": 12
+    },
+    {
+      "label": "Kyle",
+      "mentions": 10
+    },
+    {
+      "label": "Spanish",
+      "mentions": 10
+    },
+    {
+      "label": "Vito",
+      "mentions": 10
+    },
+    {
+      "label": "Hey",
+      "mentions": 9
+    },
+    {
+      "label": "Jesus",
+      "mentions": 9
+    },
+    {
+      "label": "John",
+      "mentions": 9
+    },
+    {
+      "label": "Koopa",
+      "mentions": 9
+    },
+    {
+      "label": "Whoa",
+      "mentions": 9
+    },
+    {
+      "label": "Mexico",
+      "mentions": 8
+    },
+    {
+      "label": "Hal",
+      "mentions": 7
+    },
+    {
+      "label": "Colombia",
+      "mentions": 6
+    },
+    {
+      "label": "Mexican",
+      "mentions": 6
+    },
+    {
+      "label": "Ministry",
+      "mentions": 6
+    },
+    {
+      "label": "Oklahoma",
+      "mentions": 6
+    },
+    {
+      "label": "Snake",
+      "mentions": 6
+    },
+    {
+      "label": "Till",
+      "mentions": 6
+    },
+    {
+      "label": "Brad Young",
+      "mentions": 5
+    },
+    {
+      "label": "Colia",
+      "mentions": 5
+    },
+    {
+      "label": "Dick",
+      "mentions": 5
+    },
+    {
+      "label": "Ethan Ralph",
+      "mentions": 5
+    },
+    {
+      "label": "Listen",
+      "mentions": 5
+    },
+    {
+      "label": "Mary",
+      "mentions": 5
+    },
+    {
+      "label": "Rumble",
+      "mentions": 5
+    },
+    {
+      "label": "Dale Gribble",
+      "mentions": 4
+    },
+    {
+      "label": "England",
+      "mentions": 4
+    },
+    {
+      "label": "Frog Tony",
+      "mentions": 4
+    },
+    {
+      "label": "Johnny",
+      "mentions": 4
+    },
+    {
+      "label": "Knuckles",
+      "mentions": 4
+    },
+    {
+      "label": "Man",
+      "mentions": 4
+    },
+    {
+      "label": "Scarlet",
+      "mentions": 4
+    },
+    {
+      "label": "World Cup",
+      "mentions": 4
+    },
+    {
+      "label": "Arkansas",
+      "mentions": 3
+    },
+    {
+      "label": "Asian",
+      "mentions": 3
+    },
+    {
+      "label": "Brazil",
+      "mentions": 3
+    },
+    {
+      "label": "Coke",
+      "mentions": 3
+    },
+    {
+      "label": "Columbia",
+      "mentions": 3
+    },
+    {
+      "label": "English",
+      "mentions": 3
+    },
+    {
+      "label": "Fourth",
+      "mentions": 3
+    },
+    {
+      "label": "Happy",
+      "mentions": 3
+    },
+    {
+      "label": "Hunter Moore",
+      "mentions": 3
+    },
+    {
+      "label": "Jamaica",
+      "mentions": 3
+    },
+    {
+      "label": "July",
+      "mentions": 3
+    },
+    {
+      "label": "Medicare",
+      "mentions": 3
+    },
+    {
+      "label": "Merch",
+      "mentions": 3
+    },
+    {
+      "label": "Nah",
+      "mentions": 3
+    },
+    {
+      "label": "Riveting",
+      "mentions": 3
+    },
+    {
+      "label": "Sounds",
+      "mentions": 3
+    },
+    {
+      "label": "United States",
+      "mentions": 3
+    },
+    {
+      "label": "America",
+      "mentions": 2
+    },
+    {
+      "label": "Android",
+      "mentions": 2
+    },
+    {
+      "label": "Base",
+      "mentions": 2
+    },
+    {
+      "label": "Bert",
+      "mentions": 2
+    },
+    {
+      "label": "Black",
+      "mentions": 2
+    },
+    {
+      "label": "Boom",
+      "mentions": 2
+    },
+    {
+      "label": "Brush",
+      "mentions": 2
+    },
+    {
+      "label": "Charizard",
+      "mentions": 2
+    },
+    {
+      "label": "Christ",
+      "mentions": 2
+    },
+    {
+      "label": "Christian",
+      "mentions": 2
+    },
+    {
+      "label": "Colombian",
+      "mentions": 2
+    },
+    {
+      "label": "Dan",
+      "mentions": 2
+    },
+    {
+      "label": "Discord",
+      "mentions": 2
+    },
+    {
+      "label": "Doom",
+      "mentions": 2
+    },
+    {
+      "label": "Enhance",
+      "mentions": 2
+    },
+    {
+      "label": "Eric",
+      "mentions": 2
+    },
+    {
+      "label": "Fallout",
+      "mentions": 2
+    },
+    {
+      "label": "Fear",
+      "mentions": 2
+    },
+    {
+      "label": "Grandpa",
+      "mentions": 2
+    },
+    {
+      "label": "Guacamole",
+      "mentions": 2
+    },
+    {
+      "label": "Harley",
+      "mentions": 2
+    },
+    {
+      "label": "Hit",
+      "mentions": 2
+    },
+    {
+      "label": "Holy",
+      "mentions": 2
+    },
+    {
+      "label": "Imagine",
+      "mentions": 2
+    },
+    {
+      "label": "Jesse PS",
+      "mentions": 2
+    },
+    {
+      "label": "Jewish",
+      "mentions": 2
+    },
+    {
+      "label": "Jim",
+      "mentions": 2
+    },
+    {
+      "label": "Kevin",
+      "mentions": 2
+    },
+    {
+      "label": "Kill",
+      "mentions": 2
+    },
+    {
+      "label": "Looks",
+      "mentions": 2
+    },
+    {
+      "label": "Manny",
+      "mentions": 2
+    },
+    {
+      "label": "Meaning",
+      "mentions": 2
+    },
+    {
+      "label": "Name",
+      "mentions": 2
+    },
+    {
+      "label": "Pause",
+      "mentions": 2
+    },
+    {
+      "label": "Pill",
+      "mentions": 2
+    },
+    {
+      "label": "Pokemon",
+      "mentions": 2
+    },
+    {
+      "label": "Press",
+      "mentions": 2
+    },
+    {
+      "label": "Prometheus Hoops",
+      "mentions": 2
+    },
+    {
+      "label": "Run",
+      "mentions": 2
+    },
+    {
+      "label": "Says",
+      "mentions": 2
+    },
+    {
+      "label": "Should",
+      "mentions": 2
+    },
+    {
+      "label": "Somali",
+      "mentions": 2
+    },
+    {
+      "label": "Sonic",
+      "mentions": 2
+    },
+    {
+      "label": "Stop",
+      "mentions": 2
+    },
+    {
+      "label": "Supertip",
+      "mentions": 2
+    },
+    {
+      "label": "Suzuki",
+      "mentions": 2
+    },
+    {
+      "label": "Trim",
+      "mentions": 2
+    },
+    {
+      "label": "Uhoh",
+      "mentions": 2
+    },
+    {
+      "label": "West Memphis",
+      "mentions": 2
+    },
+    {
+      "label": "Xanis",
+      "mentions": 2
+    },
+    {
+      "label": "Zoomer",
+      "mentions": 2
+    },
+    {
+      "label": "Alpha Snor",
+      "mentions": 1
+    },
+    {
+      "label": "AR-15",
+      "mentions": 1
+    },
+    {
+      "label": "Ben Gay",
+      "mentions": 1
+    },
+    {
+      "label": "Bish Williams",
+      "mentions": 1
+    },
+    {
+      "label": "BMG",
+      "mentions": 1
+    },
+    {
+      "label": "Chad Chad",
+      "mentions": 1
+    },
+    {
+      "label": "Dick Masterson",
+      "mentions": 1
+    },
+    {
+      "label": "Dick Mastersonson",
+      "mentions": 1
+    },
+    {
+      "label": "Doul Cosby",
+      "mentions": 1
+    },
+    {
+      "label": "Dudes Studios USA",
+      "mentions": 1
+    },
+    {
+      "label": "El Salvador",
+      "mentions": 1
+    },
+    {
+      "label": "Eric Fitz",
+      "mentions": 1
+    },
+    {
+      "label": "Ethan Brow",
+      "mentions": 1
+    },
+    {
+      "label": "Friend Steven",
+      "mentions": 1
+    },
+    {
+      "label": "Fuck America",
+      "mentions": 1
+    },
+    {
+      "label": "Gar Bish",
+      "mentions": 1
+    },
+    {
+      "label": "Golden Corral",
+      "mentions": 1
+    },
+    {
+      "label": "Grandma's Boy Ray",
+      "mentions": 1
+    },
+    {
+      "label": "Happy Leo",
+      "mentions": 1
+    },
+    {
+      "label": "Hunter Born",
+      "mentions": 1
+    },
+    {
+      "label": "Hunter Thompson",
+      "mentions": 1
+    },
+    {
+      "label": "IRL",
+      "mentions": 1
+    },
+    {
+      "label": "Jessie PS",
+      "mentions": 1
+    },
+    {
+      "label": "John Goodman",
+      "mentions": 1
+    },
+    {
+      "label": "John Linen",
+      "mentions": 1
+    },
+    {
+      "label": "Johnny Cash",
+      "mentions": 1
+    },
+    {
+      "label": "King Yeti",
+      "mentions": 1
+    },
+    {
+      "label": "Loathing Las Vegas",
+      "mentions": 1
+    },
+    {
+      "label": "LTS",
+      "mentions": 1
+    },
+    {
+      "label": "Mer Med",
+      "mentions": 1
+    },
+    {
+      "label": "Mick Monsterly",
+      "mentions": 1
+    },
+    {
+      "label": "Nick Fuentes",
+      "mentions": 1
+    },
+    {
+      "label": "Paddington Bear",
+      "mentions": 1
+    },
+    {
+      "label": "Pine Mongu",
+      "mentions": 1
+    },
+    {
+      "label": "Port Escanido",
+      "mentions": 1
+    },
+    {
+      "label": "POV",
+      "mentions": 1
+    },
+    {
+      "label": "Puerto Escondido",
+      "mentions": 1
+    },
+    {
+      "label": "Ralph Ralpha",
+      "mentions": 1
+    },
+    {
+      "label": "Red Skeleton",
+      "mentions": 1
+    },
+    {
+      "label": "Rick Zilla",
+      "mentions": 1
+    },
+    {
+      "label": "ROC",
+      "mentions": 1
+    },
+    {
+      "label": "Rumble Kick",
+      "mentions": 1
+    },
+    {
+      "label": "Screw Johnny",
+      "mentions": 1
+    },
+    {
+      "label": "Shaman King",
+      "mentions": 1
+    },
+    {
+      "label": "SR500",
+      "mentions": 1
+    },
+    {
+      "label": "State Line",
+      "mentions": 1
+    },
+    {
+      "label": "Twilight Zone",
+      "mentions": 1
+    },
+    {
+      "label": "Use AI",
+      "mentions": 1
+    },
+    {
+      "label": "Wall Street",
+      "mentions": 1
+    },
+    {
+      "label": "Wester Baptist Church",
+      "mentions": 1
+    }
+  ]
+}

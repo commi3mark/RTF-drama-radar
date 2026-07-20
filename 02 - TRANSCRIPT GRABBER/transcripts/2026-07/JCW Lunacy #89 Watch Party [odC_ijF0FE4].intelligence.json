@@ -1,0 +1,831 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-07-19T18:37:05.911978+00:00",
+  "video_id": "odC_ijF0FE4",
+  "title": "JCW Lunacy #89 Watch Party",
+  "channel": "Frog Tony",
+  "published": "2026-07-04T14:28:36+00:00",
+  "source_transcript": "JCW Lunacy #89 Watch Party [odC_ijF0FE4].json",
+  "host": "Frog Tony",
+  "possible_panel": [
+    {
+      "name": "Billy",
+      "confidence": 43,
+      "mentions": 3
+    }
+  ],
+  "possible_guests": [],
+  "strong_signals": [
+    {
+      "label": "Vito",
+      "mentions": 44,
+      "stars": 5
+    },
+    {
+      "label": "Hey",
+      "mentions": 18,
+      "stars": 3
+    },
+    {
+      "label": "JCW",
+      "mentions": 18,
+      "stars": 3
+    },
+    {
+      "label": "Barnabas",
+      "mentions": 18,
+      "stars": 3
+    },
+    {
+      "label": "Bishop",
+      "mentions": 14,
+      "stars": 3
+    }
+  ],
+  "weak_signals": [
+    {
+      "label": "Caleb",
+      "mentions": 10
+    },
+    {
+      "label": "Dick",
+      "mentions": 10
+    },
+    {
+      "label": "Vince",
+      "mentions": 10
+    },
+    {
+      "label": "Boogie",
+      "mentions": 8
+    },
+    {
+      "label": "Jasmine",
+      "mentions": 8
+    },
+    {
+      "label": "Wait",
+      "mentions": 8
+    },
+    {
+      "label": "Willie",
+      "mentions": 8
+    },
+    {
+      "label": "Hold",
+      "mentions": 7
+    },
+    {
+      "label": "Chop",
+      "mentions": 6
+    },
+    {
+      "label": "FBI",
+      "mentions": 6
+    },
+    {
+      "label": "Joe",
+      "mentions": 6
+    },
+    {
+      "label": "JWO",
+      "mentions": 6
+    },
+    {
+      "label": "Matt Cross",
+      "mentions": 6
+    },
+    {
+      "label": "Ottoy",
+      "mentions": 6
+    },
+    {
+      "label": "Sophia",
+      "mentions": 6
+    },
+    {
+      "label": "Break",
+      "mentions": 5
+    },
+    {
+      "label": "Danny Mo",
+      "mentions": 5
+    },
+    {
+      "label": "God",
+      "mentions": 5
+    },
+    {
+      "label": "JRod",
+      "mentions": 5
+    },
+    {
+      "label": "Listen",
+      "mentions": 5
+    },
+    {
+      "label": "Sunny Kiss",
+      "mentions": 5
+    },
+    {
+      "label": "Uhoh",
+      "mentions": 5
+    },
+    {
+      "label": "Willie Mack",
+      "mentions": 5
+    },
+    {
+      "label": "Discord",
+      "mentions": 4
+    },
+    {
+      "label": "DNA",
+      "mentions": 4
+    },
+    {
+      "label": "Haley",
+      "mentions": 4
+    },
+    {
+      "label": "Introducing",
+      "mentions": 4
+    },
+    {
+      "label": "JCW Lunacy",
+      "mentions": 4
+    },
+    {
+      "label": "July",
+      "mentions": 4
+    },
+    {
+      "label": "Ouch",
+      "mentions": 4
+    },
+    {
+      "label": "Russo",
+      "mentions": 4
+    },
+    {
+      "label": "Someone",
+      "mentions": 4
+    },
+    {
+      "label": "Biggest Problem",
+      "mentions": 3
+    },
+    {
+      "label": "Bring",
+      "mentions": 3
+    },
+    {
+      "label": "Chapa City",
+      "mentions": 3
+    },
+    {
+      "label": "Choa City",
+      "mentions": 3
+    },
+    {
+      "label": "Cuban Pete",
+      "mentions": 3
+    },
+    {
+      "label": "Danielle",
+      "mentions": 3
+    },
+    {
+      "label": "Detroit",
+      "mentions": 3
+    },
+    {
+      "label": "Dexter Lumis",
+      "mentions": 3
+    },
+    {
+      "label": "Epic Mike",
+      "mentions": 3
+    },
+    {
+      "label": "Eric",
+      "mentions": 3
+    },
+    {
+      "label": "Farooq",
+      "mentions": 3
+    },
+    {
+      "label": "Francis",
+      "mentions": 3
+    },
+    {
+      "label": "Hell",
+      "mentions": 3
+    },
+    {
+      "label": "Hopping",
+      "mentions": 3
+    },
+    {
+      "label": "Josh Bishop",
+      "mentions": 3
+    },
+    {
+      "label": "Mark",
+      "mentions": 3
+    },
+    {
+      "label": "Matt Bahr",
+      "mentions": 3
+    },
+    {
+      "label": "Patreon",
+      "mentions": 3
+    },
+    {
+      "label": "Shut",
+      "mentions": 3
+    },
+    {
+      "label": "Sophia Rose",
+      "mentions": 3
+    },
+    {
+      "label": "Sunday",
+      "mentions": 3
+    },
+    {
+      "label": "Thursday",
+      "mentions": 3
+    },
+    {
+      "label": "Twitch",
+      "mentions": 3
+    },
+    {
+      "label": "Vento",
+      "mentions": 3
+    },
+    {
+      "label": "Violent Jay",
+      "mentions": 3
+    },
+    {
+      "label": "Aiva",
+      "mentions": 2
+    },
+    {
+      "label": "Baby",
+      "mentions": 2
+    },
+    {
+      "label": "Barbara",
+      "mentions": 2
+    },
+    {
+      "label": "Bardi",
+      "mentions": 2
+    },
+    {
+      "label": "Big",
+      "mentions": 2
+    },
+    {
+      "label": "Boring",
+      "mentions": 2
+    },
+    {
+      "label": "Chopped",
+      "mentions": 2
+    },
+    {
+      "label": "Chopper",
+      "mentions": 2
+    },
+    {
+      "label": "Clair",
+      "mentions": 2
+    },
+    {
+      "label": "Cocaine",
+      "mentions": 2
+    },
+    {
+      "label": "Conley",
+      "mentions": 2
+    },
+    {
+      "label": "Cosmic",
+      "mentions": 2
+    },
+    {
+      "label": "Dad",
+      "mentions": 2
+    },
+    {
+      "label": "Dick Masterson",
+      "mentions": 2
+    },
+    {
+      "label": "Don",
+      "mentions": 2
+    },
+    {
+      "label": "Dude",
+      "mentions": 2
+    },
+    {
+      "label": "Dunker",
+      "mentions": 2
+    },
+    {
+      "label": "ECW",
+      "mentions": 2
+    },
+    {
+      "label": "Ethan Van Sciver",
+      "mentions": 2
+    },
+    {
+      "label": "Fourth",
+      "mentions": 2
+    },
+    {
+      "label": "Froony",
+      "mentions": 2
+    },
+    {
+      "label": "Heymon",
+      "mentions": 2
+    },
+    {
+      "label": "Jabba",
+      "mentions": 2
+    },
+    {
+      "label": "Jackson",
+      "mentions": 2
+    },
+    {
+      "label": "Japan",
+      "mentions": 2
+    },
+    {
+      "label": "Jasmine Sinclair",
+      "mentions": 2
+    },
+    {
+      "label": "Jasmine St",
+      "mentions": 2
+    },
+    {
+      "label": "Jason Baitman",
+      "mentions": 2
+    },
+    {
+      "label": "Jeff",
+      "mentions": 2
+    },
+    {
+      "label": "Jimmy",
+      "mentions": 2
+    },
+    {
+      "label": "Kaiser",
+      "mentions": 2
+    },
+    {
+      "label": "Ladies",
+      "mentions": 2
+    },
+    {
+      "label": "Liam Gray",
+      "mentions": 2
+    },
+    {
+      "label": "Licking",
+      "mentions": 2
+    },
+    {
+      "label": "Luchiano",
+      "mentions": 2
+    },
+    {
+      "label": "Luchianos",
+      "mentions": 2
+    },
+    {
+      "label": "Luigi",
+      "mentions": 2
+    },
+    {
+      "label": "Mac Davis",
+      "mentions": 2
+    },
+    {
+      "label": "Man",
+      "mentions": 2
+    },
+    {
+      "label": "Mercer",
+      "mentions": 2
+    },
+    {
+      "label": "Nancy",
+      "mentions": 2
+    },
+    {
+      "label": "Nice",
+      "mentions": 2
+    },
+    {
+      "label": "Paul",
+      "mentions": 2
+    },
+    {
+      "label": "Sally",
+      "mentions": 2
+    },
+    {
+      "label": "Scared",
+      "mentions": 2
+    },
+    {
+      "label": "Sherry Garcia",
+      "mentions": 2
+    },
+    {
+      "label": "SoCal",
+      "mentions": 2
+    },
+    {
+      "label": "Spider-Man",
+      "mentions": 2
+    },
+    {
+      "label": "Stephen",
+      "mentions": 2
+    },
+    {
+      "label": "Steven Flo",
+      "mentions": 2
+    },
+    {
+      "label": "Stop",
+      "mentions": 2
+    },
+    {
+      "label": "Stormy",
+      "mentions": 2
+    },
+    {
+      "label": "Tokyo",
+      "mentions": 2
+    },
+    {
+      "label": "Tommy",
+      "mentions": 2
+    },
+    {
+      "label": "Uncle Veto",
+      "mentions": 2
+    },
+    {
+      "label": "Usually",
+      "mentions": 2
+    },
+    {
+      "label": "Venenzo",
+      "mentions": 2
+    },
+    {
+      "label": "Whoa",
+      "mentions": 2
+    },
+    {
+      "label": "Zombie",
+      "mentions": 2
+    },
+    {
+      "label": "ABC",
+      "mentions": 1
+    },
+    {
+      "label": "American Psycho",
+      "mentions": 1
+    },
+    {
+      "label": "Black Keys",
+      "mentions": 1
+    },
+    {
+      "label": "Blood Sport",
+      "mentions": 1
+    },
+    {
+      "label": "Bruce Wayne",
+      "mentions": 1
+    },
+    {
+      "label": "Bruce Williams",
+      "mentions": 1
+    },
+    {
+      "label": "Caleb Conley",
+      "mentions": 1
+    },
+    {
+      "label": "Camala Giant Papa",
+      "mentions": 1
+    },
+    {
+      "label": "Carrie Morton",
+      "mentions": 1
+    },
+    {
+      "label": "Champion Danny Mo",
+      "mentions": 1
+    },
+    {
+      "label": "Choppa City",
+      "mentions": 1
+    },
+    {
+      "label": "Chuck Dix",
+      "mentions": 1
+    },
+    {
+      "label": "Colonel Deir",
+      "mentions": 1
+    },
+    {
+      "label": "Daniel Mo",
+      "mentions": 1
+    },
+    {
+      "label": "Danny Moabus",
+      "mentions": 1
+    },
+    {
+      "label": "Danny Moross",
+      "mentions": 1
+    },
+    {
+      "label": "Dick Mastersonson",
+      "mentions": 1
+    },
+    {
+      "label": "DIY",
+      "mentions": 1
+    },
+    {
+      "label": "Dusty Rose",
+      "mentions": 1
+    },
+    {
+      "label": "EC3",
+      "mentions": 1
+    },
+    {
+      "label": "Erica Le",
+      "mentions": 1
+    },
+    {
+      "label": "Ethan Carter",
+      "mentions": 1
+    },
+    {
+      "label": "Father Bronson",
+      "mentions": 1
+    },
+    {
+      "label": "Father's Day",
+      "mentions": 1
+    },
+    {
+      "label": "Fiji Islands",
+      "mentions": 1
+    },
+    {
+      "label": "FTD",
+      "mentions": 1
+    },
+    {
+      "label": "FYI",
+      "mentions": 1
+    },
+    {
+      "label": "Haley Hood",
+      "mentions": 1
+    },
+    {
+      "label": "Imagine Michael Cole",
+      "mentions": 1
+    },
+    {
+      "label": "Indie Hartwell",
+      "mentions": 1
+    },
+    {
+      "label": "JC Wing",
+      "mentions": 1
+    },
+    {
+      "label": "JCW Witness",
+      "mentions": 1
+    },
+    {
+      "label": "Jerry Connley",
+      "mentions": 1
+    },
+    {
+      "label": "Jesus Christ",
+      "mentions": 1
+    },
+    {
+      "label": "Jimmy Snook",
+      "mentions": 1
+    },
+    {
+      "label": "Joe Brown",
+      "mentions": 1
+    },
+    {
+      "label": "Joe Dumbrosski",
+      "mentions": 1
+    },
+    {
+      "label": "Joe Joe",
+      "mentions": 1
+    },
+    {
+      "label": "Josiah Rising",
+      "mentions": 1
+    },
+    {
+      "label": "Jugalo July",
+      "mentions": 1
+    },
+    {
+      "label": "Latino Dusty Roads",
+      "mentions": 1
+    },
+    {
+      "label": "Lunacy Champion",
+      "mentions": 1
+    },
+    {
+      "label": "Mark Roberts",
+      "mentions": 1
+    },
+    {
+      "label": "Matt Davis",
+      "mentions": 1
+    },
+    {
+      "label": "Mickey Jack Veto",
+      "mentions": 1
+    },
+    {
+      "label": "Mickey Knuckles",
+      "mentions": 1
+    },
+    {
+      "label": "Midtown Detroit",
+      "mentions": 1
+    },
+    {
+      "label": "Mike Williams",
+      "mentions": 1
+    },
+    {
+      "label": "National Wrestling",
+      "mentions": 1
+    },
+    {
+      "label": "NATO",
+      "mentions": 1
+    },
+    {
+      "label": "Nyla Rose",
+      "mentions": 1
+    },
+    {
+      "label": "Papa John's Vancouver",
+      "mentions": 1
+    },
+    {
+      "label": "Percy Percy Haymon",
+      "mentions": 1
+    },
+    {
+      "label": "Red Daddy",
+      "mentions": 1
+    },
+    {
+      "label": "Ricky Ricardo",
+      "mentions": 1
+    },
+    {
+      "label": "Ring Riders",
+      "mentions": 1
+    },
+    {
+      "label": "RKO",
+      "mentions": 1
+    },
+    {
+      "label": "Ron Jeremy",
+      "mentions": 1
+    },
+    {
+      "label": "Sally Boy",
+      "mentions": 1
+    },
+    {
+      "label": "Saturday Night Fever",
+      "mentions": 1
+    },
+    {
+      "label": "Shane Mercer",
+      "mentions": 1
+    },
+    {
+      "label": "South Park",
+      "mentions": 1
+    },
+    {
+      "label": "Stephen Lenudo",
+      "mentions": 1
+    },
+    {
+      "label": "Stormy Joe",
+      "mentions": 1
+    },
+    {
+      "label": "Sunny Case",
+      "mentions": 1
+    },
+    {
+      "label": "Super Chats",
+      "mentions": 1
+    },
+    {
+      "label": "Tessa Blanchard",
+      "mentions": 1
+    },
+    {
+      "label": "THC",
+      "mentions": 1
+    },
+    {
+      "label": "Tommy Grayson",
+      "mentions": 1
+    },
+    {
+      "label": "Tony Salt",
+      "mentions": 1
+    },
+    {
+      "label": "Uncle Vito",
+      "mentions": 1
+    },
+    {
+      "label": "Veto Evo",
+      "mentions": 1
+    },
+    {
+      "label": "Veto Tony",
+      "mentions": 1
+    },
+    {
+      "label": "Veto Veto",
+      "mentions": 1
+    },
+    {
+      "label": "Vince Russo",
+      "mentions": 1
+    },
+    {
+      "label": "Violet Jay",
+      "mentions": 1
+    },
+    {
+      "label": "Vito Vito",
+      "mentions": 1
+    },
+    {
+      "label": "White Six",
+      "mentions": 1
+    },
+    {
+      "label": "Wicked Vixen",
+      "mentions": 1
+    },
+    {
+      "label": "Willie Mac",
+      "mentions": 1
+    }
+  ]
+}

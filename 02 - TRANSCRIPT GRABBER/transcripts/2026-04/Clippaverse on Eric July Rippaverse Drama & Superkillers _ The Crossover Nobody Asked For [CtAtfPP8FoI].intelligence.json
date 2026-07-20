@@ -1,0 +1,767 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-07-19T18:36:53.857303+00:00",
+  "video_id": "CtAtfPP8FoI",
+  "title": "Clippaverse on Eric July Rippaverse Drama & Superkillers | The Crossover Nobody Asked For",
+  "channel": "COMMI3 МARK",
+  "published": "2026-04-18T01:08:40+00:00",
+  "source_transcript": "Clippaverse on Eric July Rippaverse Drama & Superkillers _ The Crossover Nobody Asked For [CtAtfPP8FoI].json",
+  "host": "Commi3 Mark",
+  "possible_panel": [
+    {
+      "name": "Piper",
+      "confidence": 83,
+      "mentions": 23
+    }
+  ],
+  "possible_guests": [],
+  "strong_signals": [
+    {
+      "label": "Vito",
+      "mentions": 89,
+      "stars": 5
+    }
+  ],
+  "weak_signals": [
+    {
+      "label": "Sam",
+      "mentions": 19
+    },
+    {
+      "label": "Sturgis",
+      "mentions": 16
+    },
+    {
+      "label": "Twitter",
+      "mentions": 16
+    },
+    {
+      "label": "Liam Gray",
+      "mentions": 15
+    },
+    {
+      "label": "Beck",
+      "mentions": 12
+    },
+    {
+      "label": "Ethan Van Sciver",
+      "mentions": 12
+    },
+    {
+      "label": "Frog Tony",
+      "mentions": 12
+    },
+    {
+      "label": "Arty",
+      "mentions": 10
+    },
+    {
+      "label": "Mark",
+      "mentions": 10
+    },
+    {
+      "label": "Disney",
+      "mentions": 8
+    },
+    {
+      "label": "Eric July",
+      "mentions": 8
+    },
+    {
+      "label": "Katie",
+      "mentions": 8
+    },
+    {
+      "label": "Ray Ray",
+      "mentions": 8
+    },
+    {
+      "label": "Riley",
+      "mentions": 8
+    },
+    {
+      "label": "Comicgate",
+      "mentions": 7
+    },
+    {
+      "label": "Ice",
+      "mentions": 7
+    },
+    {
+      "label": "Johnny Scab",
+      "mentions": 6
+    },
+    {
+      "label": "Riperverse",
+      "mentions": 6
+    },
+    {
+      "label": "Rippaverse",
+      "mentions": 6
+    },
+    {
+      "label": "Spider-Man",
+      "mentions": 6
+    },
+    {
+      "label": "Megazord",
+      "mentions": 5
+    },
+    {
+      "label": "Super Killers",
+      "mentions": 5
+    },
+    {
+      "label": "Whoa",
+      "mentions": 5
+    },
+    {
+      "label": "Xenotype",
+      "mentions": 5
+    },
+    {
+      "label": "Christopher",
+      "mentions": 4
+    },
+    {
+      "label": "Chuck Dixon",
+      "mentions": 4
+    },
+    {
+      "label": "ComicsGate",
+      "mentions": 4
+    },
+    {
+      "label": "Dungeoneers",
+      "mentions": 4
+    },
+    {
+      "label": "Hitler",
+      "mentions": 4
+    },
+    {
+      "label": "Indiegogo",
+      "mentions": 4
+    },
+    {
+      "label": "Jon Del Arroz",
+      "mentions": 4
+    },
+    {
+      "label": "Kirkman",
+      "mentions": 4
+    },
+    {
+      "label": "Ministry",
+      "mentions": 4
+    },
+    {
+      "label": "Patrick",
+      "mentions": 4
+    },
+    {
+      "label": "Shane Davis",
+      "mentions": 4
+    },
+    {
+      "label": "Super Killer",
+      "mentions": 4
+    },
+    {
+      "label": "Urban Dictionary",
+      "mentions": 4
+    },
+    {
+      "label": "Von",
+      "mentions": 4
+    },
+    {
+      "label": "Wait",
+      "mentions": 4
+    },
+    {
+      "label": "Comics",
+      "mentions": 3
+    },
+    {
+      "label": "Dick",
+      "mentions": 3
+    },
+    {
+      "label": "Dude",
+      "mentions": 3
+    },
+    {
+      "label": "Facts",
+      "mentions": 3
+    },
+    {
+      "label": "Kill",
+      "mentions": 3
+    },
+    {
+      "label": "Nobody",
+      "mentions": 3
+    },
+    {
+      "label": "Nope",
+      "mentions": 3
+    },
+    {
+      "label": "Quietly",
+      "mentions": 3
+    },
+    {
+      "label": "Russian Troll Factory",
+      "mentions": 3
+    },
+    {
+      "label": "Someone",
+      "mentions": 3
+    },
+    {
+      "label": "Superkiller",
+      "mentions": 3
+    },
+    {
+      "label": "Superman",
+      "mentions": 3
+    },
+    {
+      "label": "Sure",
+      "mentions": 3
+    },
+    {
+      "label": "Western",
+      "mentions": 3
+    },
+    {
+      "label": "Alice",
+      "mentions": 2
+    },
+    {
+      "label": "Alpha",
+      "mentions": 2
+    },
+    {
+      "label": "Apparently",
+      "mentions": 2
+    },
+    {
+      "label": "Batman",
+      "mentions": 2
+    },
+    {
+      "label": "Bay Canales",
+      "mentions": 2
+    },
+    {
+      "label": "Blue Shift",
+      "mentions": 2
+    },
+    {
+      "label": "Coleman",
+      "mentions": 2
+    },
+    {
+      "label": "Comicgate Commandos",
+      "mentions": 2
+    },
+    {
+      "label": "Crossfade",
+      "mentions": 2
+    },
+    {
+      "label": "Daredevil",
+      "mentions": 2
+    },
+    {
+      "label": "Dark Gift",
+      "mentions": 2
+    },
+    {
+      "label": "Dickinson",
+      "mentions": 2
+    },
+    {
+      "label": "Discord",
+      "mentions": 2
+    },
+    {
+      "label": "Everybody",
+      "mentions": 2
+    },
+    {
+      "label": "Facebook",
+      "mentions": 2
+    },
+    {
+      "label": "FFS",
+      "mentions": 2
+    },
+    {
+      "label": "Flash",
+      "mentions": 2
+    },
+    {
+      "label": "God",
+      "mentions": 2
+    },
+    {
+      "label": "Gooding",
+      "mentions": 2
+    },
+    {
+      "label": "Gustavo",
+      "mentions": 2
+    },
+    {
+      "label": "Hey",
+      "mentions": 2
+    },
+    {
+      "label": "Hold",
+      "mentions": 2
+    },
+    {
+      "label": "Holy",
+      "mentions": 2
+    },
+    {
+      "label": "Horseman",
+      "mentions": 2
+    },
+    {
+      "label": "Hunting",
+      "mentions": 2
+    },
+    {
+      "label": "Important",
+      "mentions": 2
+    },
+    {
+      "label": "Inspector Gadget",
+      "mentions": 2
+    },
+    {
+      "label": "Invincible",
+      "mentions": 2
+    },
+    {
+      "label": "Japanese",
+      "mentions": 2
+    },
+    {
+      "label": "Kanye West",
+      "mentions": 2
+    },
+    {
+      "label": "King",
+      "mentions": 2
+    },
+    {
+      "label": "Literally",
+      "mentions": 2
+    },
+    {
+      "label": "Los Angeles",
+      "mentions": 2
+    },
+    {
+      "label": "Lot",
+      "mentions": 2
+    },
+    {
+      "label": "Maddox",
+      "mentions": 2
+    },
+    {
+      "label": "Marvel",
+      "mentions": 2
+    },
+    {
+      "label": "Mister Anaphoria",
+      "mentions": 2
+    },
+    {
+      "label": "Nah",
+      "mentions": 2
+    },
+    {
+      "label": "Nice",
+      "mentions": 2
+    },
+    {
+      "label": "OBS",
+      "mentions": 2
+    },
+    {
+      "label": "PDF",
+      "mentions": 2
+    },
+    {
+      "label": "Power Rangers",
+      "mentions": 2
+    },
+    {
+      "label": "Punisher",
+      "mentions": 2
+    },
+    {
+      "label": "Rainey",
+      "mentions": 2
+    },
+    {
+      "label": "Ripperverse",
+      "mentions": 2
+    },
+    {
+      "label": "Scrabble",
+      "mentions": 2
+    },
+    {
+      "label": "Scroll",
+      "mentions": 2
+    },
+    {
+      "label": "Spawn",
+      "mentions": 2
+    },
+    {
+      "label": "Stretchy",
+      "mentions": 2
+    },
+    {
+      "label": "Sturges",
+      "mentions": 2
+    },
+    {
+      "label": "Todd",
+      "mentions": 2
+    },
+    {
+      "label": "Valnet",
+      "mentions": 2
+    },
+    {
+      "label": "Vancle",
+      "mentions": 2
+    },
+    {
+      "label": "Vassilis",
+      "mentions": 2
+    },
+    {
+      "label": "Vito Talenti",
+      "mentions": 2
+    },
+    {
+      "label": "Ali Sturm",
+      "mentions": 1
+    },
+    {
+      "label": "Andrew Rowland",
+      "mentions": 1
+    },
+    {
+      "label": "Ban Figigity",
+      "mentions": 1
+    },
+    {
+      "label": "BIG HITLER GUY",
+      "mentions": 1
+    },
+    {
+      "label": "Black Flag Pineapple Express",
+      "mentions": 1
+    },
+    {
+      "label": "Boom Studio",
+      "mentions": 1
+    },
+    {
+      "label": "Boom Studios",
+      "mentions": 1
+    },
+    {
+      "label": "Brett Booth",
+      "mentions": 1
+    },
+    {
+      "label": "Camo Studio",
+      "mentions": 1
+    },
+    {
+      "label": "Chad Larson",
+      "mentions": 1
+    },
+    {
+      "label": "Clipper Riley",
+      "mentions": 1
+    },
+    {
+      "label": "Comic Skate",
+      "mentions": 1
+    },
+    {
+      "label": "CPR",
+      "mentions": 1
+    },
+    {
+      "label": "Cynic's Cynic",
+      "mentions": 1
+    },
+    {
+      "label": "Dan Fraga",
+      "mentions": 1
+    },
+    {
+      "label": "Daniel Clowes",
+      "mentions": 1
+    },
+    {
+      "label": "Danny Phantom",
+      "mentions": 1
+    },
+    {
+      "label": "Darth Vader",
+      "mentions": 1
+    },
+    {
+      "label": "Dirty Dalish",
+      "mentions": 1
+    },
+    {
+      "label": "Donald Trump",
+      "mentions": 1
+    },
+    {
+      "label": "Ethan Van",
+      "mentions": 1
+    },
+    {
+      "label": "Fortune Wraps",
+      "mentions": 1
+    },
+    {
+      "label": "Fun My Comic",
+      "mentions": 1
+    },
+    {
+      "label": "Gail Simone",
+      "mentions": 1
+    },
+    {
+      "label": "GOD BLESS HIS HEART",
+      "mentions": 1
+    },
+    {
+      "label": "Gold Coast",
+      "mentions": 1
+    },
+    {
+      "label": "Golden Age",
+      "mentions": 1
+    },
+    {
+      "label": "Google AI",
+      "mentions": 1
+    },
+    {
+      "label": "Google Lens",
+      "mentions": 1
+    },
+    {
+      "label": "Green Lantern",
+      "mentions": 1
+    },
+    {
+      "label": "Gustavo's Super Killer",
+      "mentions": 1
+    },
+    {
+      "label": "Gustavo's Super Killers",
+      "mentions": 1
+    },
+    {
+      "label": "Hail Comics Gate",
+      "mentions": 1
+    },
+    {
+      "label": "Hunting Accidentally",
+      "mentions": 1
+    },
+    {
+      "label": "Hunting Alice",
+      "mentions": 1
+    },
+    {
+      "label": "Iron Sides",
+      "mentions": 1
+    },
+    {
+      "label": "Jar Jar Binks",
+      "mentions": 1
+    },
+    {
+      "label": "Jin Wong",
+      "mentions": 1
+    },
+    {
+      "label": "Johnny Rocket",
+      "mentions": 1
+    },
+    {
+      "label": "Johnny Skab",
+      "mentions": 1
+    },
+    {
+      "label": "JPEG",
+      "mentions": 1
+    },
+    {
+      "label": "Labour Party",
+      "mentions": 1
+    },
+    {
+      "label": "Lowercase Comics",
+      "mentions": 1
+    },
+    {
+      "label": "Mary Boys",
+      "mentions": 1
+    },
+    {
+      "label": "Mike Barron",
+      "mentions": 1
+    },
+    {
+      "label": "Mike Mike Baron",
+      "mentions": 1
+    },
+    {
+      "label": "N2 Painter",
+      "mentions": 1
+    },
+    {
+      "label": "NDA",
+      "mentions": 1
+    },
+    {
+      "label": "OG CG",
+      "mentions": 1
+    },
+    {
+      "label": "Pop Culture Rocks",
+      "mentions": 1
+    },
+    {
+      "label": "Power Ranger",
+      "mentions": 1
+    },
+    {
+      "label": "PROBLEM WITH THE WORLD",
+      "mentions": 1
+    },
+    {
+      "label": "R- Rinnie",
+      "mentions": 1
+    },
+    {
+      "label": "R2-D2",
+      "mentions": 1
+    },
+    {
+      "label": "Ray Ray's Happy Channel",
+      "mentions": 1
+    },
+    {
+      "label": "RayRay's Art",
+      "mentions": 1
+    },
+    {
+      "label": "Renan Zero",
+      "mentions": 1
+    },
+    {
+      "label": "Richard Embry",
+      "mentions": 1
+    },
+    {
+      "label": "Rinnie Rinnie",
+      "mentions": 1
+    },
+    {
+      "label": "RIP Cross",
+      "mentions": 1
+    },
+    {
+      "label": "Road Rage LA",
+      "mentions": 1
+    },
+    {
+      "label": "Ruko Wong",
+      "mentions": 1
+    },
+    {
+      "label": "Ryan Ottley",
+      "mentions": 1
+    },
+    {
+      "label": "Sam King",
+      "mentions": 1
+    },
+    {
+      "label": "Story Mm",
+      "mentions": 1
+    },
+    {
+      "label": "Stretchy Guy",
+      "mentions": 1
+    },
+    {
+      "label": "Stupid AI",
+      "mentions": 1
+    },
+    {
+      "label": "Super Villains",
+      "mentions": 1
+    },
+    {
+      "label": "Van Sciver",
+      "mentions": 1
+    },
+    {
+      "label": "Vassilis Lowless",
+      "mentions": 1
+    },
+    {
+      "label": "Vito Vito",
+      "mentions": 1
+    },
+    {
+      "label": "Von Klaus",
+      "mentions": 1
+    },
+    {
+      "label": "Walking Dead",
+      "mentions": 1
+    },
+    {
+      "label": "Wally West",
+      "mentions": 1
+    },
+    {
+      "label": "War Campaign",
+      "mentions": 1
+    },
+    {
+      "label": "William Heard",
+      "mentions": 1
+    },
+    {
+      "label": "William Pridmore",
+      "mentions": 1
+    }
+  ]
+}

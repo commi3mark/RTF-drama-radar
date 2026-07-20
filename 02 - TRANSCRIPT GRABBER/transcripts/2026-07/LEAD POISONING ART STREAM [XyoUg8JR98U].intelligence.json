@@ -1,0 +1,118 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-07-19T18:37:07.753591+00:00",
+  "video_id": "XyoUg8JR98U",
+  "title": "LEAD POISONING ART STREAM",
+  "channel": "MATTBAHR!",
+  "published": "2026-07-18T02:02:35+00:00",
+  "source_transcript": "LEAD POISONING ART STREAM [XyoUg8JR98U].json",
+  "host": "MATTBAHR!",
+  "possible_panel": [
+    {
+      "name": "Billy",
+      "confidence": 53,
+      "mentions": 5
+    },
+    {
+      "name": "Piper",
+      "confidence": 53,
+      "mentions": 5
+    }
+  ],
+  "possible_guests": [],
+  "strong_signals": [],
+  "weak_signals": [
+    {
+      "label": "Matt Bahr",
+      "mentions": 7
+    },
+    {
+      "label": "Draw",
+      "mentions": 6
+    },
+    {
+      "label": "Discord",
+      "mentions": 5
+    },
+    {
+      "label": "Dude",
+      "mentions": 4
+    },
+    {
+      "label": "Frog Tony",
+      "mentions": 4
+    },
+    {
+      "label": "Edit",
+      "mentions": 3
+    },
+    {
+      "label": "Emmy",
+      "mentions": 2
+    },
+    {
+      "label": "Glorious Rex",
+      "mentions": 2
+    },
+    {
+      "label": "Hellboy",
+      "mentions": 2
+    },
+    {
+      "label": "Hey",
+      "mentions": 2
+    },
+    {
+      "label": "Holy",
+      "mentions": 2
+    },
+    {
+      "label": "Liam Gray",
+      "mentions": 2
+    },
+    {
+      "label": "Matt Ba",
+      "mentions": 2
+    },
+    {
+      "label": "Nobody",
+      "mentions": 2
+    },
+    {
+      "label": "Rift Riders",
+      "mentions": 2
+    },
+    {
+      "label": "Saw",
+      "mentions": 2
+    },
+    {
+      "label": "Todd Wrangler",
+      "mentions": 2
+    },
+    {
+      "label": "Captain America",
+      "mentions": 1
+    },
+    {
+      "label": "Charles Dickens",
+      "mentions": 1
+    },
+    {
+      "label": "Commerce Skate",
+      "mentions": 1
+    },
+    {
+      "label": "Evil Tooth Fairy",
+      "mentions": 1
+    },
+    {
+      "label": "Kami Mark",
+      "mentions": 1
+    },
+    {
+      "label": "Rift Rider",
+      "mentions": 1
+    }
+  ]
+}
