@@ -1,12 +1,28 @@
 from __future__ import annotations
-import json, sys
+import json
+import os
+from datetime import datetime, timezone
 from pathlib import Path
 GRABBER_ROOT = Path(__file__).resolve().parents[1]
 SYSTEM_ROOT = GRABBER_ROOT.parent
-RADAR_ROOT = SYSTEM_ROOT / "01 - DRAMA RADAR"
 ROOT = SYSTEM_ROOT
-sys.path.insert(0, str(RADAR_ROOT / "app"))
-from common import TRANSCRIPTS_DIR, TRANSCRIPT_INDEX_PATH, TRANSCRIPT_MANIFEST_PATH, save_json, now_iso
+TRANSCRIPTS_DIR = GRABBER_ROOT / "transcripts"
+TRANSCRIPT_INDEX_PATH = TRANSCRIPTS_DIR / "transcript-index.json"
+TRANSCRIPT_MANIFEST_PATH = TRANSCRIPTS_DIR / "transcript-manifest.json"
+
+
+def now_iso() -> str:
+    return datetime.now(timezone.utc).isoformat()
+
+
+def save_json(path: Path, value) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    temporary = path.with_suffix(path.suffix + ".tmp")
+    temporary.write_text(
+        json.dumps(value, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+    )
+    os.replace(temporary, path)
 
 
 def build() -> dict:

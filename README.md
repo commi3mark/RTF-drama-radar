@@ -6,7 +6,17 @@ The project contains two active applications: Drama Radar and Transcript Grabber
 
 Detects current activity from monitored sources and produces `output/drama-radar.json`.
 
-Drama Radar does not read or rewrite transcript reports.
+Drama Radar is a discovery and recommendation surface only. It does not feed
+the Transcript Grabber queue, and it does not read or rewrite transcript reports.
+
+## Daily mobile selection
+
+Each day, the user is offered a short list of transcript candidates. Selection
+happens on mobile. Approved YouTube URLs are written to the GitHub document:
+
+`transcripts/selected-transcripts.txt`
+
+That text document is the sole shared input queue for Stalinvo.
 
 ## 02 — Transcript Grabber
 
@@ -14,6 +24,8 @@ Owns the transcript archive. Use `START TRANSCRIPT WORKER.bat` for normal operat
 
 The worker:
 
+- pulls `transcripts/selected-transcripts.txt` from GitHub;
+- attempts only the explicitly selected YouTube URLs in that document;
 - tries the normal YouTube transcript service first;
 - falls back to YouTube subtitle/caption retrieval;
 - declares an IP block only when both routes are blocked;
@@ -21,6 +33,9 @@ The worker:
 - resumes automatically after cooldown;
 - learns a conservative request pace;
 - stores new transcripts without launching a separate analysis engine.
+- removes completed or permanently unavailable selections from the queue;
+- leaves temporary failures queued for a later retry;
+- pushes the updated queue and transcript products back to GitHub.
 
 Use `STOP TRANSCRIPT WORKER.bat` to request a safe shutdown.
 

@@ -8,7 +8,6 @@ from pathlib import Path
 
 GRABBER_ROOT = Path(__file__).resolve().parents[1]
 SYSTEM_ROOT = GRABBER_ROOT.parent
-RADAR_ROOT = SYSTEM_ROOT / "01 - DRAMA RADAR"
 ROOT = SYSTEM_ROOT
 BRAIN = GRABBER_ROOT / "state"
 MIRROR = BRAIN / "github-sync"
@@ -64,21 +63,11 @@ def copy_file(source: Path, destination: Path) -> None:
 def pull_to_local() -> int:
     if not update_mirror():
         return 1
-    # GitHub owns the latest source detections. Bring those down before the
-    # local transcript worker enriches them.
-    for relative in [
-        Path("drama-radar.json"),
-        Path("radar-stats.json"),
-        Path("archive/archive-index.json"),
-    ]:
-        copy_file(MIRROR / relative, (RADAR_ROOT / "output" / relative.name) if relative.name in {"drama-radar.json", "radar-stats.json"} else RADAR_ROOT / relative)
-    remote_archive = MIRROR / "archive"
-    if remote_archive.exists():
-        local_archive = RADAR_ROOT / "archive"
-        local_archive.mkdir(parents=True, exist_ok=True)
-        for file in remote_archive.glob("*.json"):
-            copy_file(file, local_archive / file.name)
-    print("GitHub feed synced to Stalinvo.")
+    copy_file(
+        MIRROR / "transcripts" / "selected-transcripts.txt",
+        GRABBER_ROOT / "config" / "selected-transcripts.txt",
+    )
+    print("GitHub transcript selections synced to Stalinvo.")
     return 0
 
 
@@ -86,9 +75,10 @@ def push_from_local() -> int:
     if not update_mirror():
         return 1
 
-    # Only publish the shared Radar evidence and transcript products.
-    for relative in [Path("drama-radar.json"), Path("radar-stats.json")]:
-        copy_file(RADAR_ROOT / "output" / relative.name, MIRROR / relative)
+    copy_file(
+        GRABBER_ROOT / "config" / "selected-transcripts.txt",
+        MIRROR / "transcripts" / "selected-transcripts.txt",
+    )
 
     local_transcripts = GRABBER_ROOT / "transcripts"
     remote_transcripts = MIRROR / "transcripts" / "archive"
@@ -100,8 +90,7 @@ def push_from_local() -> int:
 
     run_git(
         "add",
-        "drama-radar.json",
-        "radar-stats.json",
+        "transcripts/selected-transcripts.txt",
         "transcripts/archive",
         "transcripts/transcript-manifest.json",
         "transcripts/transcript-index.json",

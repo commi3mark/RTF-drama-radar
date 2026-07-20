@@ -16,6 +16,14 @@ Implemented:
    - Global IP cooldown only when BOTH routes are IP-blocked
    - Retrieval method recorded inside each transcript JSON
 
+2A. Human-selected GitHub queue
+   - Drama Radar is not a Transcript Grabber input
+   - Daily options are presented to the user on mobile
+   - User selections are written to transcripts/selected-transcripts.txt
+   - Stalinvo pulls and consumes only those explicit selections
+   - Completed and permanently unavailable entries remove themselves
+   - Retryable entries remain queued
+
 3. Adaptive pacing
    - Rolling event history in state/retrieval-rate.json
    - Gradual acceleration after clean successes

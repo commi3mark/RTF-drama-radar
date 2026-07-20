@@ -12,7 +12,7 @@ ROOT = SYSTEM_ROOT
 BRAIN = GRABBER_ROOT / "state"
 LOCK = BRAIN / "auto-transcripts.lock"
 LOG = BRAIN / "auto-transcripts.log"
-GETTER = GRABBER_ROOT / "app" / "get_transcripts.py"
+GETTER = GRABBER_ROOT / "app" / "get_selected_transcripts.py"
 SYNC = GRABBER_ROOT / "app" / "github_sync.py"
 MAX_LOCK_AGE_SECONDS = 3 * 60 * 60
 
@@ -60,7 +60,7 @@ def main() -> int:
                 check=False,
             )
             if pull.returncode != 0:
-                log("GitHub pull skipped or failed; continuing with the local feed.")
+                log("GitHub queue pull failed; continuing with the last local queue copy.")
 
             result = subprocess.run(
                 [sys.executable, str(GETTER), "--limit", "10"],
