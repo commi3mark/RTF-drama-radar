@@ -1,9 +1,0 @@
-{
-  "schema_version": "2.0",
-  "delay_seconds": 30,
-  "minimum_delay_seconds": 15,
-  "maximum_delay_seconds": 300,
-  "clean_video_attempts": 0,
-  "block_streak": 1,
-  "last_video_attempt": "2026-07-22T02:39:13.574561+00:00"
-}
