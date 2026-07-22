@@ -9,14 +9,14 @@ Detects current activity from monitored sources and produces `output/drama-radar
 Drama Radar is a discovery and recommendation surface only. It does not feed
 the Transcript Grabber queue, and it does not read or rewrite transcript reports.
 
-## Daily mobile selection
+## Local priority selection
 
-Each day, the user is offered a short list of transcript candidates. Selection
-happens on mobile. Approved YouTube URLs are written to the GitHub document:
+Paste one YouTube URL per line into the local Stalinvo document:
 
-`transcripts/selected-transcripts.txt`
+`02 - TRANSCRIPT GRABBER/PRIORITY TRANSCRIPTS.txt`
 
-That text document is the sole shared input queue for Stalinvo.
+That document is the worker's top-priority queue. It is not pulled from or
+replaced by GitHub, so YouTube retrieval runs from Stalinvo's IP.
 
 ## 02 — Transcript Grabber
 
@@ -24,8 +24,8 @@ Owns the transcript archive. Use `START TRANSCRIPT WORKER.bat` for normal operat
 
 The worker:
 
-- pulls `transcripts/selected-transcripts.txt` from GitHub;
-- attempts only the explicitly selected YouTube URLs in that document;
+- reads `PRIORITY TRANSCRIPTS.txt` locally on Stalinvo;
+- attempts the explicitly selected YouTube URLs from top to bottom;
 - tries the normal YouTube transcript service first;
 - falls back to YouTube subtitle/caption retrieval;
 - declares an IP block only when both routes are blocked;
@@ -33,9 +33,11 @@ The worker:
 - resumes automatically after cooldown;
 - learns a conservative request pace;
 - stores new transcripts without launching a separate analysis engine.
+- saves each pasted-link selection as raw JSON plus a readable
+  `.transcript.txt` companion beside it;
 - removes completed or permanently unavailable selections from the queue;
 - leaves temporary failures queued for a later retry;
-- pushes the updated queue and transcript products back to GitHub.
+- keeps the priority queue local to Stalinvo.
 
 Use `STOP TRANSCRIPT WORKER.bat` to request a safe shutdown.
 

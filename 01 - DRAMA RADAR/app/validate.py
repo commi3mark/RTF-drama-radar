@@ -1,6 +1,12 @@
 from __future__ import annotations
 
-from common import RADAR_PATH, ARCHIVE_DIR, TRANSCRIPT_INDEX_PATH, load_json
+from common import (
+    RADAR_PATH,
+    ARCHIVE_DIR,
+    SYSTEM_ROOT,
+    TRANSCRIPT_INDEX_PATH,
+    load_json,
+)
 
 
 def validate(radar: list[dict] | None = None) -> list[str]:
@@ -45,7 +51,12 @@ def validate(radar: list[dict] | None = None) -> list[str]:
                 errors.append("transcript-index.json contains an invalid entry")
                 continue
             path = row.get("path")
-            if path and not (RADAR_PATH.parent / str(path)).exists():
+            # Transcript index paths are stored relative to the shared system
+            # root, e.g. "02 - TRANSCRIPT GRABBER/transcripts/...".  Resolving
+            # them from RADAR_PATH.parent incorrectly inserts
+            # "01 - DRAMA RADAR/output" and makes every valid transcript look
+            # missing.
+            if path and not (SYSTEM_ROOT / str(path)).exists():
                 errors.append(f"Transcript index path missing: {path}")
 
     return errors

@@ -1,9 +1,11 @@
 from __future__ import annotations
 
 import json
+import os
 import re
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
+from typing import Callable
 from urllib.parse import parse_qs, urlparse
 from urllib.request import Request, urlopen
 
@@ -45,6 +47,46 @@ def safe_name(value: str) -> str:
     bad = '<>:"/\\|?*'
     cleaned = "".join("_" if ch in bad else ch for ch in value).strip().rstrip(".")
     return cleaned[:150] or "untitled"
+
+
+def transcript_text_path(json_path: Path) -> Path:
+    """Return the collision-safe, human-readable companion path."""
+    return json_path.with_name(json_path.stem + ".transcript.txt")
+
+
+def render_transcript_text(payload: dict) -> str:
+    lines = [
+        str(payload.get("title") or "YouTube transcript"),
+        "=" * 72,
+        f"Video ID: {payload.get('video_id') or payload.get('youtube_id') or ''}",
+        f"Source: {payload.get('source') or ''}",
+        f"Published: {payload.get('published') or ''}",
+        f"URL: {payload.get('url') or ''}",
+        "",
+    ]
+    for segment in payload.get("segments") or []:
+        seconds = max(0, int(float(segment.get("start") or 0)))
+        hours, remainder = divmod(seconds, 3600)
+        minutes, seconds = divmod(remainder, 60)
+        stamp = (
+            f"{hours:02d}:{minutes:02d}:{seconds:02d}"
+            if hours
+            else f"{minutes:02d}:{seconds:02d}"
+        )
+        text = " ".join(str(segment.get("text") or "").split())
+        if text:
+            lines.append(f"[{stamp}] {text}")
+    return "\n".join(lines).rstrip() + "\n"
+
+
+def save_transcript_text(json_path: Path, payload: dict) -> Path:
+    """Atomically save a readable transcript without overwriting reports."""
+    path = transcript_text_path(json_path)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    temporary = path.with_suffix(path.suffix + ".tmp")
+    temporary.write_text(render_transcript_text(payload), encoding="utf-8")
+    os.replace(temporary, path)
+    return path
 
 
 def youtube_id(value: str) -> str | None:
@@ -228,7 +270,10 @@ def subtitle_transcript(video_id: str) -> tuple[list[dict], dict]:
     }
 
 
-def recover_transcript(video_id: str) -> tuple[list[dict], dict]:
+def recover_transcript(
+    video_id: str,
+    before_fallback: Callable[[], None] | None = None,
+) -> tuple[list[dict], dict]:
     api_error = None
     try:
         print("  Trying the normal YouTube transcript service...", flush=True)
@@ -236,6 +281,8 @@ def recover_transcript(video_id: str) -> tuple[list[dict], dict]:
     except Exception as exc:
         api_error = exc
         print("  Trying YouTube subtitles...", flush=True)
+    if before_fallback:
+        before_fallback()
     try:
         return subtitle_transcript(video_id)
     except Exception as subtitle_error:

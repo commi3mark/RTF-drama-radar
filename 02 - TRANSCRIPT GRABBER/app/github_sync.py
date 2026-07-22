@@ -3,7 +3,6 @@ from __future__ import annotations
 import argparse
 import shutil
 import subprocess
-import sys
 from pathlib import Path
 
 GRABBER_ROOT = Path(__file__).resolve().parents[1]
@@ -53,47 +52,19 @@ def update_mirror() -> bool:
     return True
 
 
-def copy_file(source: Path, destination: Path) -> None:
-    if not source.exists():
-        return
-    destination.parent.mkdir(parents=True, exist_ok=True)
-    shutil.copy2(source, destination)
-
-
-def pull_to_local() -> int:
-    if not update_mirror():
-        return 1
-    copy_file(
-        MIRROR / "transcripts" / "selected-transcripts.txt",
-        GRABBER_ROOT / "config" / "selected-transcripts.txt",
-    )
-    print("GitHub transcript selections synced to Stalinvo.")
-    return 0
-
-
 def push_from_local() -> int:
     if not update_mirror():
         return 1
 
-    copy_file(
-        GRABBER_ROOT / "config" / "selected-transcripts.txt",
-        MIRROR / "transcripts" / "selected-transcripts.txt",
-    )
-
     local_transcripts = GRABBER_ROOT / "transcripts"
-    remote_transcripts = MIRROR / "transcripts" / "archive"
+    remote_root = MIRROR / "02 - TRANSCRIPT GRABBER"
+    remote_transcripts = remote_root / "transcripts"
     if local_transcripts.exists():
         shutil.copytree(local_transcripts, remote_transcripts, dirs_exist_ok=True)
 
-    for name in ["transcript-manifest.json", "transcript-index.json"]:
-        copy_file(GRABBER_ROOT / "transcripts" / name, MIRROR / "transcripts" / name)
-
     run_git(
         "add",
-        "transcripts/selected-transcripts.txt",
-        "transcripts/archive",
-        "transcripts/transcript-manifest.json",
-        "transcripts/transcript-index.json",
+        "02 - TRANSCRIPT GRABBER/transcripts",
         check=False,
     )
     changed = subprocess.run(
@@ -128,12 +99,10 @@ def setup() -> int:
 
 def main() -> int:
     parser = argparse.ArgumentParser()
-    parser.add_argument("command", choices=["setup", "pull", "push"])
+    parser.add_argument("command", choices=["setup", "push"])
     args = parser.parse_args()
     if args.command == "setup":
         return setup()
-    if args.command == "pull":
-        return pull_to_local()
     return push_from_local()
 
 

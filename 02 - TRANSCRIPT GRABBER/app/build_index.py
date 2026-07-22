@@ -40,12 +40,14 @@ def build() -> dict:
         rel = path.relative_to(ROOT).as_posix()
         intel_json = path.with_name(path.stem + ".intelligence.json")
         intel_txt = path.with_name(path.stem + ".intelligence.txt")
+        transcript_txt = path.with_name(path.stem + ".transcript.txt")
         rows.append({
             "video_id": str(vid), "title": data.get("title"), "source": data.get("source"),
             "published": data.get("published"), "downloaded_at": data.get("downloaded_at"),
             "segment_count": data.get("segment_count") or len(data.get("segments", [])), "path": rel,
             "intelligence_json": intel_json.relative_to(ROOT).as_posix() if intel_json.exists() else None,
             "intelligence_txt": intel_txt.relative_to(ROOT).as_posix() if intel_txt.exists() else None,
+            "transcript_txt": transcript_txt.relative_to(ROOT).as_posix() if transcript_txt.exists() else None,
         })
     rows.sort(key=lambda x: x.get("downloaded_at") or x.get("published") or "", reverse=True)
     index = {"updated_at": now_iso(), "count": len(rows), "transcripts": rows}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "piper_channel": "https://www.youtube.com/@AdventuresofPiper",
+  "commi3_mark_channel": "https://www.youtube.com/@commi3mark",
+  "manual_queue": "PRIORITY TRANSCRIPTS.txt",
+  "run_limit": 20,
+  "radar_share": 0.7,
+  "channel_refresh_hours": 24,
+  "minimum_video_age_hours": 6,
+  "mark_aliases": [
+    "commi3 mark",
+    "commie mark",
+    "commi3mark",
+    "russian troll factory",
+    "drama radar",
+    "octopuss"
+  ],
+  "response_words": [
+    "response",
+    "responds",
+    "addressing",
+    "receipts",
+    "lies",
+    "exposed",
+    "situation",
+    "drama",
+    "apology",
+    "context",
+    "my side"
+  ],
+  "unsupported_platforms": ["rumble.com"]
+}

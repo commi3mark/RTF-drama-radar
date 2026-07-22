@@ -1,9 +1,9 @@
 {
   "runner": "local",
-  "started_at": "2026-07-19T19:11:37.458265+00:00",
-  "finished_at": "2026-07-19T19:11:44.845579+00:00",
-  "duration_seconds": 7.39,
-  "new_detections": 64,
-  "sweep_number": 4,
-  "status": "failed"
+  "started_at": "2026-07-22T17:27:36.572430+00:00",
+  "finished_at": "2026-07-22T17:27:43.466712+00:00",
+  "duration_seconds": 6.89,
+  "new_detections": 60,
+  "sweep_number": 7,
+  "status": "healthy"
 }

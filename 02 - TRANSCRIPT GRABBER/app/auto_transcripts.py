@@ -13,7 +13,6 @@ BRAIN = GRABBER_ROOT / "state"
 LOCK = BRAIN / "auto-transcripts.lock"
 LOG = BRAIN / "auto-transcripts.log"
 GETTER = GRABBER_ROOT / "app" / "get_selected_transcripts.py"
-SYNC = GRABBER_ROOT / "app" / "github_sync.py"
 MAX_LOCK_AGE_SECONDS = 3 * 60 * 60
 
 
@@ -51,17 +50,6 @@ def main() -> int:
     log("Automatic transcript recovery started.")
     try:
         with LOG.open("a", encoding="utf-8") as handle:
-            pull = subprocess.run(
-                [sys.executable, str(SYNC), "pull"],
-                cwd=ROOT,
-                stdout=handle,
-                stderr=subprocess.STDOUT,
-                text=True,
-                check=False,
-            )
-            if pull.returncode != 0:
-                log("GitHub queue pull failed; continuing with the last local queue copy.")
-
             result = subprocess.run(
                 [sys.executable, str(GETTER), "--limit", "10"],
                 cwd=ROOT,
@@ -70,18 +58,6 @@ def main() -> int:
                 text=True,
                 check=False,
             )
-
-            if result.returncode == 0:
-                push = subprocess.run(
-                    [sys.executable, str(SYNC), "push"],
-                    cwd=ROOT,
-                    stdout=handle,
-                    stderr=subprocess.STDOUT,
-                    text=True,
-                    check=False,
-                )
-                if push.returncode != 0:
-                    log("Transcript recovery worked, but GitHub upload failed.")
 
         log(f"Automatic transcript recovery finished with exit code {result.returncode}.")
         return result.returncode

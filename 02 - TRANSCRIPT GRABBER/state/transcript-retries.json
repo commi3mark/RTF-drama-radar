@@ -79,12 +79,12 @@
   "s_ZMGHajNXQ": {
     "video_id": "s_ZMGHajNXQ",
     "title": "TRASHCAST #269.  Just a bunch of dumb crap, assumptions, rumors and nonsense.  Waste of time.",
-    "source": "Ethan Van Sciver",
-    "reason": "TranscriptsDisabled",
-    "message": "\nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=s_ZMGHajNXQ! This is most likely caused by:\n\nSubtitles are disabled for this video\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!",
-    "attempts": 2,
+    "source": "ComicArtistPro Secrets",
+    "reason": "RuntimeError",
+    "message": "No English subtitles or automatic captions are available.",
+    "attempts": 3,
     "status": "unavailable",
-    "last_attempt": "2026-07-16T17:48:07.491218+00:00",
+    "last_attempt": "2026-07-20T16:57:57.913060+00:00",
     "next_retry": null
   },
   "guX94KKTvos": {
@@ -216,12 +216,60 @@
     "last_attempt": "2026-07-18T03:06:28.004461+00:00",
     "next_retry": null
   },
-  "CTz5blIMvMk": {
-    "video_id": "CTz5blIMvMk",
-    "title": "COMICSGATE CATCH UP - 10% SHOW \"WHAT DRAMA DID I MISS??\"  w/ DARKGIFT COMICS",
-    "reason": "DualIpBlocked",
+  "AyAWSchK9bs": {
+    "video_id": "AyAWSchK9bs",
+    "title": "Life with Liam: Season 7 (Final Haul) | JJ & Lawliss Recap",
+    "source": "Unintelligent Design",
+    "reason": "RuntimeError",
+    "message": "No English subtitles or automatic captions are available.",
+    "attempts": 1,
     "status": "retry",
-    "next_retry": "2026-07-20T06:40:06.026370+00:00",
-    "message": "Both transcript routes were rejected by YouTube at the IP level."
+    "last_attempt": "2026-07-20T16:55:05.613526+00:00",
+    "next_retry": "2026-07-21T16:53:16.448551+00:00"
+  },
+  "XqCWWw_EOMQ": {
+    "video_id": "XqCWWw_EOMQ",
+    "title": "Radar-recommended YouTube video [XqCWWw_EOMQ]",
+    "reason": "RuntimeError",
+    "message": "No English subtitles or automatic captions are available.",
+    "attempts": 1,
+    "status": "retry",
+    "last_attempt": "2026-07-22T01:45:51.693416+00:00",
+    "next_retry": "2026-07-23T01:36:55.608788+00:00"
+  },
+  "WaEaYl334F0": {
+    "video_id": "WaEaYl334F0",
+    "title": "Radar-recommended YouTube video [WaEaYl334F0]",
+    "reason": "DownloadError",
+    "message": "\u001b[0;31mERROR:\u001b[0m [youtube] WaEaYl334F0: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+    "attempts": 1,
+    "status": "retry",
+    "last_attempt": "2026-07-22T01:46:27.975237+00:00",
+    "next_retry": "2026-07-23T01:36:55.608788+00:00"
+  },
+  "bpGXpg6q9fE": {
+    "video_id": "bpGXpg6q9fE",
+    "title": "Radar-recommended YouTube video [bpGXpg6q9fE]",
+    "reason": "DownloadError",
+    "message": "\u001b[0;31mERROR:\u001b[0m [youtube] bpGXpg6q9fE: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+    "attempts": 1,
+    "status": "retry",
+    "last_attempt": "2026-07-22T01:47:04.588930+00:00",
+    "next_retry": "2026-07-23T01:36:55.608788+00:00"
+  },
+  "xCYhmJYRK74": {
+    "video_id": "xCYhmJYRK74",
+    "title": "Radar-recommended YouTube video [xCYhmJYRK74]",
+    "reason": "DownloadError",
+    "message": "\u001b[0;31mERROR:\u001b[0m [youtube] xCYhmJYRK74: Private video. Sign in if you've been granted access to this video. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+    "attempts": 1,
+    "status": "retry",
+    "last_attempt": "2026-07-22T02:35:49.615536+00:00",
+    "next_retry": "2026-07-23T02:35:27.309329+00:00"
+  },
+  "FF3KKZgQtVo": {
+    "status": "retry",
+    "reason": "DualIpBlocked",
+    "next_retry": "2026-07-22T03:09:15.547828+00:00"
   }
 }

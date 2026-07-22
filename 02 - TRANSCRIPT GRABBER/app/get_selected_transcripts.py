@@ -3,261 +3,183 @@ from __future__ import annotations
 import argparse
 import json
 import os
-import random
-import time
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
+from adaptive_pacing import clean_attempt, cooldown_remaining, describe, dual_block, wait_before_video
 from build_index import build
+from candidate_queue import assemble, config
+from channel_inventory import refresh
 from youtube_retrieval import (
-    COOLDOWN,
-    PERMANENT,
-    RETRIES,
-    TRANSCRIPTS_DIR,
-    YOUTUBE_METADATA,
-    dt,
-    livestream_ready,
-    manual_item,
-    now_iso,
-    recover_transcript,
-    safe_name,
-    youtube_id,
+    PERMANENT, RETRIES, TRANSCRIPTS_DIR, YOUTUBE_METADATA, DualIpBlocked,
+    dt, livestream_ready, manual_item, now_iso, recover_transcript, safe_name,
+    save_transcript_text, youtube_id,
 )
 
-GRABBER_ROOT = Path(__file__).resolve().parents[1]
-SYSTEM_ROOT = GRABBER_ROOT.parent
-QUEUE_FILE = GRABBER_ROOT / "config" / "selected-transcripts.txt"
-
-QUEUE_HEADER = """# SELECTED TRANSCRIPTS
-#
-# This local copy is replaced from GitHub before Stalinvo checks the queue.
-# The shared source of truth is:
-#   transcripts/selected-transcripts.txt
-#
-# Place one selected YouTube URL or video ID per line.
-"""
+ROOT = Path(__file__).resolve().parents[1]
+QUEUE_FILE = ROOT / "PRIORITY TRANSCRIPTS.txt"
 
 
-def load_json(path: Path, default):
+def load(path: Path, default):
     try:
         return json.loads(path.read_text(encoding="utf-8"))
     except Exception:
         return default
 
 
-def save_json(path: Path, value) -> None:
+def save(path: Path, value) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     temporary = path.with_suffix(path.suffix + ".tmp")
-    temporary.write_text(
-        json.dumps(value, ensure_ascii=False, indent=2) + "\n",
-        encoding="utf-8",
-    )
+    temporary.write_text(json.dumps(value, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     os.replace(temporary, path)
 
 
-def read_queue() -> list[str]:
+def read_manual() -> list[str]:
     if not QUEUE_FILE.exists():
         return []
-    values = []
-    seen = set()
+    output, seen = [], set()
     for raw in QUEUE_FILE.read_text(encoding="utf-8-sig").splitlines():
         value = raw.strip()
-        if not value or value.startswith("#"):
-            continue
-        video_id = youtube_id(value)
-        if not video_id:
-            print(f"QUEUE WARNING: ignored invalid YouTube entry: {value}")
-            continue
-        if video_id not in seen:
-            seen.add(video_id)
-            values.append(value)
-    return values
+        video = youtube_id(value)
+        if value and not value.startswith("#") and video and video not in seen:
+            seen.add(video)
+            output.append(value)
+    return output
 
 
-def write_queue(values: list[str]) -> None:
-    body = QUEUE_HEADER.rstrip() + "\n"
-    if values:
-        body += "\n" + "\n".join(values) + "\n"
-    temporary = QUEUE_FILE.with_suffix(".txt.tmp")
-    temporary.write_text(body, encoding="utf-8")
-    os.replace(temporary, QUEUE_FILE)
+def rewrite_manual(remove_ids: set[str]) -> None:
+    lines = QUEUE_FILE.read_text(encoding="utf-8-sig").splitlines() if QUEUE_FILE.exists() else []
+    kept = [line for line in lines if not youtube_id(line.strip()) or youtube_id(line.strip()) not in remove_ids]
+    QUEUE_FILE.write_text("\n".join(kept).rstrip() + "\n", encoding="utf-8")
+
+
+def select_queue(items: list[dict], limit: int, manual_count: int, radar_share: float) -> list[dict]:
+    manual = [item for item in items if item.get("selection_source") == "manual_priority"]
+    nonmanual = [item for item in items if item.get("selection_source") != "manual_priority"]
+    available = max(0, limit - len(manual))
+    archive = [item for item in nonmanual if item.get("selection_source") == "commi3_back_catalogue"]
+    active = [item for item in nonmanual if item.get("selection_source") != "commi3_back_catalogue"]
+    active_slots = min(len(active), round(available * radar_share))
+    chosen = manual + active[:active_slots]
+    remaining = available - active_slots
+    chosen += archive[:remaining]
+    remaining = max(0, limit - len(chosen))
+    if remaining:
+        chosen += active[active_slots:active_slots + remaining]
+    # Preserve one discovery wildcard whenever an outsider sleeper exists.
+    # It may replace the final non-manual candidate, but never a manual item.
+    sleepers = [item for item in active if item.get("selection_source") == "sleeper_outsider"]
+    if sleepers and not any(item.get("selection_source") == "sleeper_outsider" for item in chosen):
+        replaceable = next(
+            (index for index in range(len(chosen) - 1, -1, -1)
+             if chosen[index].get("selection_source") != "manual_priority"),
+            None,
+        )
+        if replaceable is not None:
+            chosen[replaceable] = sleepers[0]
+    return chosen
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(
-        description="Recover only transcripts explicitly selected in the GitHub queue."
-    )
-    parser.add_argument("--limit", type=int, default=10)
-    parser.add_argument("--ignore-cooldown", action="store_true")
+    cfg = config()
+    parser = argparse.ArgumentParser(description="Priority, Radar, sleeper, Piper and archive transcript run.")
+    parser.add_argument("--limit", type=int, default=int(cfg.get("run_limit", 20)))
+    parser.add_argument("--refresh-channels", action="store_true")
     args = parser.parse_args()
 
-    cooldown = load_json(COOLDOWN, {})
-    until = dt(cooldown.get("until"))
-    now = datetime.now(timezone.utc)
-    if (
-        not args.ignore_cooldown
-        and cooldown.get("active")
-        and until
-        and now < until
-    ):
-        print(f"Transcript cooldown active until {until.isoformat()}")
+    remaining = cooldown_remaining()
+    if remaining > 0:
+        print(f"YouTube cooldown remains active for about {max(1, round(remaining / 60))} minute(s).")
         return 2
-    if cooldown.get("active"):
-        save_json(COOLDOWN, {**cooldown, "active": False, "cleared_at": now_iso()})
 
-    queue_values = read_queue()
-    existing = {
-        str(item.get("video_id"))
-        for item in build().get("transcripts", [])
-        if item.get("video_id")
-    }
-    retries = load_json(RETRIES, {})
-    metadata_cache = load_json(YOUTUBE_METADATA, {})
+    refresh(force=args.refresh_channels)
+    manifest = build()
+    existing = {str(item.get("video_id")): item for item in manifest.get("transcripts", [])}
+    manual = read_manual()
+    candidates = [item for item in assemble(manual) if item.get("video_id") not in existing]
+    queue = select_queue(candidates, max(args.limit, len(manual)), len(manual), float(cfg.get("radar_share", .7)))
+    retries = load(RETRIES, {})
+    metadata = load(YOUTUBE_METADATA, {})
+    now = datetime.now(timezone.utc)
+    completed_manual, saved_count, unavailable = set(), 0, 0
 
-    # Already completed selections leave the shared queue immediately.
-    pending_values = [
-        value for value in queue_values if youtube_id(value) not in existing
-    ]
-    if pending_values != queue_values:
-        write_queue(pending_values)
+    counts = {}
+    for item in queue:
+        label = item.get("selection_source", "unknown")
+        counts[label] = counts.get(label, 0) + 1
+    print(f"Queue: {len(queue)} videos; pace is {describe()}.")
+    print("Queue mix: " + ", ".join(f"{key}={value}" for key, value in counts.items()))
 
-    candidates = []
-    for value in pending_values:
-        video_id = youtube_id(value)
-        if not video_id:
-            continue
-        retry = retries.get(video_id, {})
+    for number, item in enumerate(queue, 1):
+        video = str(item.get("video_id") or "")
+        retry = retries.get(video, {})
         next_retry = dt(retry.get("next_retry"))
-        if next_retry and now < next_retry:
+        if next_retry and now < next_retry and item.get("selection_source") != "manual_priority":
             continue
-        item = manual_item(video_id, value, metadata_cache, "GitHub Selection")
+        wait_before_video(f"video {number}/{len(queue)} [{video}]")
+        old_selection = item.get("selection_source")
+        generic_title = str(item.get("title") or "").startswith("Radar-recommended YouTube video [")
+        unknown_source = str(item.get("source") or "").startswith("Unknown Radar-linked")
+        if not item.get("title") or old_selection == "manual_priority" or generic_title or unknown_source:
+            item.update(manual_item(video, str(item.get("url") or ""), metadata, "Priority Queue"))
+            item["video_id"] = video
+            item["selection_source"] = old_selection or "manual_priority"
+            save(YOUTUBE_METADATA, metadata)
         published = dt(item.get("published"))
-        ready, reason = livestream_ready(item, published, now, metadata_cache)
+        ready, reason = livestream_ready(item, published, now, metadata)
         if not ready:
-            print(f"QUEUE WAITING: {video_id} - {reason}")
+            print(f"[{number}/{len(queue)}] WAITING: {item.get('title')} - {reason}")
+            clean_attempt()
             continue
-        candidates.append((value, item))
-
-    save_json(YOUTUBE_METADATA, metadata_cache)
-    selected = candidates[: max(0, args.limit)]
-    print(
-        f"GitHub selection queue: {len(pending_values)} pending, "
-        f"{len(candidates)} ready, run limit {args.limit}"
-    )
-
-    completed_ids = set()
-    blocked = False
-    saved = 0
-    unavailable = 0
-
-    for number, (queue_value, item) in enumerate(selected, 1):
-        video_id = str(item["youtube_id"])
-        print(f"\n[{number}/{len(selected)}] {item.get('title')} [{video_id}]")
-        if number > 1:
-            time.sleep(random.uniform(8, 15))
+        print(f"[{number}/{len(queue)}] {item.get('selection_source')}: {item.get('title')} [{video}]")
         try:
-            segments, retrieval = recover_transcript(video_id)
+            segments, retrieval = recover_transcript(video)
             published = dt(item.get("published"))
             month = published.strftime("%Y-%m") if published else now.strftime("%Y-%m")
-            path = (
-                TRANSCRIPTS_DIR
-                / month
-                / f"{safe_name(item.get('title', ''))} [{video_id}].json"
-            )
-            save_json(
-                path,
-                {
-                    "video_id": video_id,
-                    "title": item.get("title"),
-                    "source": item.get("source"),
-                    "platform": "YouTube",
-                    "published": item.get("published"),
-                    "url": item.get("url"),
-                    "downloaded_at": now_iso(),
-                    "segment_count": len(segments),
-                    "retrieval": retrieval,
-                    "selection_source": "github_queue",
-                    "segments": segments,
-                },
-            )
-            retries.pop(video_id, None)
-            completed_ids.add(video_id)
-            saved += 1
-            print(f"  Saved: {path.relative_to(SYSTEM_ROOT)}")
-        except Exception as exc:
-            reason = type(exc).__name__
-            message = str(exc)
-            if reason == "DualIpBlocked":
-                blocked = True
-                retry_at = now + timedelta(hours=12)
-                save_json(
-                    COOLDOWN,
-                    {
-                        "active": True,
-                        "reason": reason,
-                        "started_at": now_iso(),
-                        "until": retry_at.isoformat(),
-                    },
-                )
-                retries[video_id] = {
-                    "video_id": video_id,
-                    "title": item.get("title"),
-                    "reason": reason,
-                    "status": "retry",
-                    "next_retry": retry_at.isoformat(),
-                    "message": message,
-                }
-                print("  Both retrieval routes are blocked; selection remains queued.")
-                break
-
-            attempts = int(retries.get(video_id, {}).get("attempts", 0)) + 1
-            lower_message = message.casefold()
-            permanent = reason in PERMANENT or (
-                reason == "VideoUnplayable"
-                and any(
-                    token in lower_message
-                    for token in ("members-only", "join this channel", "private")
-                )
-            )
-            if permanent or attempts >= 3:
-                completed_ids.add(video_id)
-                unavailable += 1
-                status = "unavailable"
-                next_retry = None
-            else:
-                status = "retry"
-                delay_hours = (1, 6, 24)[min(attempts - 1, 2)]
-                next_retry = (now + timedelta(hours=delay_hours)).isoformat()
-
-            retries[video_id] = {
-                "video_id": video_id,
-                "title": item.get("title"),
-                "source": item.get("source"),
-                "reason": reason,
-                "message": message,
-                "attempts": attempts,
-                "status": status,
-                "last_attempt": now_iso(),
-                "next_retry": next_retry,
+            path = TRANSCRIPTS_DIR / month / f"{safe_name(str(item.get('title') or ''))} [{video}].json"
+            payload = {
+                "video_id": video, "title": item.get("title"), "source": item.get("source"),
+                "platform": "YouTube", "published": item.get("published"), "url": item.get("url"),
+                "downloaded_at": now_iso(), "segment_count": len(segments), "retrieval": retrieval,
+                "selection_source": item.get("selection_source"), "segments": segments,
             }
-            print(f"  {status.upper()}: {reason}")
+            save(path, payload)
+            save_transcript_text(path, payload)
+            retries.pop(video, None)
+            saved_count += 1
+            if item.get("selection_source") == "manual_priority":
+                completed_manual.add(video)
+            clean_attempt()
+            print(f"  SAVED: {path.relative_to(ROOT)}")
+        except DualIpBlocked as exc:
+            until = dual_block(str(exc))
+            retries[video] = {"status": "retry", "reason": "DualIpBlocked", "next_retry": until.isoformat()}
+            save(RETRIES, retries)
+            print(f"  BOTH ROUTES BLOCKED. Run stopped; cooldown until {until.isoformat()}.")
+            break
+        except Exception as exc:
+            reason, message = type(exc).__name__, str(exc)
+            attempts = int(retry.get("attempts", 0)) + 1
+            permanent = reason in PERMANENT or attempts >= 3
+            retries[video] = {
+                "video_id": video, "title": item.get("title"), "reason": reason, "message": message,
+                "attempts": attempts, "status": "unavailable" if permanent else "retry",
+                "last_attempt": now_iso(),
+                "next_retry": None if permanent else (now + timedelta(hours=(24, 72)[min(attempts - 1, 1)])).isoformat(),
+            }
+            if permanent:
+                unavailable += 1
+                if item.get("selection_source") == "manual_priority":
+                    completed_manual.add(video)
+            clean_attempt()  # No-caption and unavailable failures are not IP blocks.
+            print(f"  {retries[video]['status'].upper()}: {reason}: {message}")
 
-    if completed_ids:
-        write_queue(
-            [
-                value
-                for value in read_queue()
-                if youtube_id(value) not in completed_ids
-            ]
-        )
-
-    save_json(RETRIES, retries)
+    if completed_manual:
+        rewrite_manual(completed_manual)
+    save(RETRIES, retries)
     build()
-    print(
-        f"\nSelection run complete: {saved} saved, "
-        f"{unavailable} unavailable, {len(read_queue())} still queued."
-    )
-    return 2 if blocked else 0
+    print(f"Run complete: {saved_count} saved, {unavailable} unavailable, {len(read_manual())} manual priorities remain.")
+    return 2 if cooldown_remaining() > 0 else 0
 
 
 if __name__ == "__main__":

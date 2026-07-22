@@ -2,11 +2,12 @@ Prototype Person Profile: Commi3 Mark
 
 Profile type: Public-content / on-air persona  
 Status: Prototype analytic assessment  
-Evidence window: 20 February–17 July 2026  
-Corpus searched: 106 locally archived transcript files  
+Evidence window: 20 February–22 July 2026  
+Corpus searched: 158 unique locally archived transcript records  
 Primary-source subset: 11 episodes attributed to Commi3 Mark or the mojibaked source label COMMI3 ÐœARK  
 Approximate primary-source volume: 200,000 transcribed words  
-Prepared: 19 July 2026
+Prepared: 19 July 2026  
+Updated: 22 July 2026
 
 Executive assessment
 
@@ -23,7 +24,7 @@ The strongest supported characterization is therefore:
 Identity and role
 
 Attribute — Assessment — Confidence
-Public name — Commi3 Mark, with transcript variants including Comey Mark and Commie Mark — High
+Public name — Commi3 Mark, with numerous transcript-derived ASR variants documented below — High
 Program — *Russian Troll Factory* — High
 Primary role — Host, moderator, researcher/presenter, and show organizer — High
 Format — Long-form livestream or recorded show with a recurring panel and live-chat participation — High
@@ -31,6 +32,36 @@ Main subject domain — ComicsGate, Rippaverse, online creator disputes, crowdfu
 Offline/legal identity — Withheld under the profile’s privacy policy; the established public identity is Commi3 Mark — Not published
 Private location, employment, family, health, or other sensitive traits — Not established and not inferred — Not assessed
 The earliest episode in the examined period introduces the host as “Comey Mark” and calls *Russian Troll Factory* “the show where we like automate trolling or something.” A March episode expands the joke into “a human bot farm” comprising the host, panel, and chat. These statements are best understood as self-aware branding.
+
+Transcript identity matching update
+
+The following forms are literal renderings observed in the archived transcripts and confirmed by context as references to Commi3 Mark. They are evidence-derived search aliases, not speculative examples:
+
+- “Commi3 Mark”; “kami3 Mark”; “Kami 3 Mark”; “Kami three Mark”; “comic three mark”; “come three mark”; “Me Three Mark”;
+- “Commie Mark”; “commy Mark”; “comy Mark”; “Comey Mark”; “comeie Mark”; “Comeie Mark”;
+- “Comm Mark”; “com Mark”; “comm Mark”; “Common Mark”; “Connie Mark”;
+- “Comedy Mark”; “Comic Mark”; “Copy Mark”; “Coming Mark”; “upcoming Mark”; “come me Mark”; “come Mark”;
+- “Call Me Mark”; “call me Mark”; “Callie Mark”;
+- “Tommy Mark”; “Tomy mark”;
+- “Kami Mark”; “Kamie Mark”; “Kimmie Mark”; “Kame Mark”;
+- “Ky Mark”; “Kie Mark”; “Kai Mark”; “Kar Mark”; “Ki Mark”; “K Mark”;
+- “Coin Mark”; “Cy Mark”; “clammy mark.”
+
+The Ministry of Dude rendering “upcoming Mark” at approximately 00:52:23 is confirmed by a participant who was present in the live chat and heard the reference. It is therefore classified as a genuine Commi3 Mark mention rather than an unresolved match.
+
+The phrase “Dread Pirate Mark” is not a Commi3 Mark alias. In the relevant transcript context it refers to comic artist Mark Brooks and must be classified with that identity.
+
+Other named Marks identified in the corpus include Mark Brooks, Mark Waid (often rendered “Mark Wade” or “Mark Way”), Mark Poulton (also rendered “Mark Pton” or “Mark Poland”), Mark Roberts, Mark Ruffalo, Mark Zuckerberg, Mark David Chapman, and Markiplier. These must not be merged into the Commi3 Mark identity merely because the generic token “Mark” appears.
+
+The identity matcher should use five result classes:
+
+1. confirmed Commi3 Mark alias — retain timestamp and context;
+2. other identified person named Mark — group by person and count;
+3. ordinary compound word or phrase — aggregate approximate counts only;
+4. unresolved possible identity match — retain timestamp and context for review;
+5. confirmed correction — store as an override so later scans reproduce the human-reviewed decision.
+
+Common compound-word noise in the current corpus includes the market/marketing family (approximately 190 occurrences), trademark family (approximately 56), marks/marked/marking/marker family (approximately 55), bookmark family (approximately 13), watermark family (approximately 12), remark family (approximately 11), supermarket family (approximately 11), markup family (approximately 5), and benchmark, landmark, and hallmark (approximately 3 each). These counts describe search noise, not references to a person.
 
 Public links and handles
 
@@ -310,24 +341,45 @@ The February episode already contains the essential format: branded opening, sta
 
 The corpus therefore suggests continuity more than transformation. The principal development is accumulation: a larger recurring cast of subjects, more cross-episode lore, and increasingly explicit emphasis on receipts and organized monitoring.
 
-External transcript resweep
+Loose external transcript resweep
 
-A renewed scan of 95 non-RTF raw transcripts found only three direct textual matches for Commi3 Mark or Russian Troll Factory. Manual review shows that these represent two external replays of the same RTF artifact and one independent collaborator-authored reference.
+A 22 July 2026 rescan searched 158 unique raw transcript JSON records. Derived intelligence reports and duplicate copies were excluded. Unlike the earlier high-specificity scan, this pass retained every standalone “Mark” hit and separately searched compound words containing “mark.” It then divided results into confirmed aliases, other named people, ordinary word/phrase noise, and unresolved cases.
 
-Piper's *F - IT: We Are Soooooo Back (AGANE)* opening song says that Commi3 recruited her for Russian Troll Factory. This independently supports the description of Piper as a recurring collaborator and supports an active organizer/recruiter role for Commi3. “Recruited” is public narrative language, not proof of employment, ownership, payment, or a contract.
+The loose pass retained 625 standalone or identity-relevant hits. Before human review, its principal classes were:
 
-The streams *STANK* and *NQG: GISH GALLOP* replay material from the 17 July Matt Bahr episode. *NQG* contains Matt's adversarial response, making it valuable as right-of-reply evidence. *STANK* primarily demonstrates redistribution and reception. Neither replay is independent corroboration of the claims inside Commi3's original video.
+- 41 likely or confirmed Commi3 Mark hits across nine externally attributed videos;
+- 89 initially ambiguous “Mark” hits across 35 videos;
+- 23 hits classified as other identified people named Mark;
+- 26 obvious non-person uses of “mark”;
+- 446 appearances in Commi3 Mark's own archived programmes.
+
+After participant confirmation, Ministry of Dude at approximately 00:52:23 moves from the ambiguous group to the confirmed Commi3 Mark group. The reviewed totals are therefore 42 likely or confirmed hits across ten external videos and 88 still-ambiguous hits. Its caption reads “upcoming Mark,” demonstrating why exact-name matching alone undercounts genuine references.
+
+The ten external videos containing confirmed or strong transcript-derived Commi3 Mark matches are:
+
+- *Loife without Laughter - PROOF LEEM STREAMED ON X-MAS*;
+- *Delusional Jon Del Arroz efap*;
+- *NQG: GISH GALLOP*;
+- *I'M UNDER ATTACK BY SECRET SJW, JON DEL ARROZ! WTF?!*;
+- *CYNNERS*;
+- *LEAD POISONING ART STREAM*;
+- *Good Morning ComicsGate #100 CELEBRATION!*;
+- Piper's *F - IT: We Are Soooooo Back (AGANE)*;
+- *STANK*.
+- Ministry of Dude's *It's All Fine - Friday Special | #935*.
+
+Piper's opening song says that Commi3 recruited her for Russian Troll Factory. This independently supports the description of Piper as a recurring collaborator and an active organizer/recruiter role for Commi3. “Recruited” is public narrative language, not proof of employment, ownership, payment, or a contract.
+
+The streams *STANK* and *NQG: GISH GALLOP* replay and respond to material from the 17 July Matt Bahr episode. *NQG* contains Matt's adversarial response, making it valuable as right-of-reply evidence. Neither replay is independent corroboration of claims inside Commi3's original video.
 
 External-signal assessment:
 
-- Direct external mentions in the current corpus are sparse.
-- RTF material is sufficiently portable to be replayed and answered by adjacent streams.
-- Matt Bahr directly contests Commi3's account, so alternate-account ownership and relationship allegations remain disputed.
-- Piper publicly integrates recruitment into RTF into her own creative history.
+- Direct external mentions are more numerous than the earlier strict scan indicated.
+- Phonetic ASR variation is a material source of false negatives.
+- The deliberately retained error queue can surface genuine references, as demonstrated by “upcoming Mark.”
+- Generic “Mark” matches cannot be assigned automatically without context because the same corpus discusses several other people named Mark.
 - Replayed audio must be deduplicated at excerpt level before calculating source counts or confidence.
-
-The full audit is stored in `output/commi3-mention-resweep.txt`.
-
+- Confirmed human corrections should be stored as reproducible classifier overrides.
 
 Analytic judgment
 

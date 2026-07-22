@@ -1,0 +1,53 @@
+========================================================================
+DRAMA RADAR SWEEP COMPLETE
+SWEEP #6
+========================================================================
+
+STATUS
+  [FAILED]
+  Reason: Output validation failed.
+
+LAST RADAR SCAN
+  New detections: +109
+  Sources online: 28 / 28
+
+LAST TRANSCRIPT RUN
+  New transcripts: +0
+  Attempts: 1
+  Unavailable: 0
+  Retry later: 1
+
+LIVE DATABASE
+  Detections: 530
+  Transcripts: 160
+  Coverage: 31.2%
+  Awaiting transcripts: 159
+
+ARCHIVE
+  Months archived: 16
+  Total detections: 604
+  Latest month: 2026-07 (504 detections)
+
+NEW TRANSCRIPTS
+  None this run.
+
+UNAVAILABLE
+  None this run.
+
+RETRY LATER
+  - COMMI3 МARK: COMICSGATE CATCH UP - 10% SHOW "WHAT DRAMA DID I MISS??"  w/ DARKGIFT COMICS (DualIpBlocked)
+
+WARNINGS
+  - Transcript collection is blocked by YouTube.
+  - 159 YouTube detections are awaiting transcripts.
+
+ERRORS
+  - Transcript index path missing: 02 - TRANSCRIPT GRABBER/transcripts/2026-07/Meme Copium’s TLDR on the Rekieta Law HRO Situation (Jul 16, 2026) [FcUgsprNyTg].json
+  - Transcript index path missing: 02 - TRANSCRIPT GRABBER/transcripts/2026-07/Kino Casino_ TheQuartering’s Lies Exposed!! Coffee Brand Coffee Scam & K Cup Grift (Jul 14, 2026) [VN597_OPoK8].json
+
+NEXT ACTION
+  Investigate the validation errors above before the next sweep.
+
+RUNTIME
+  6s
+========================================================================

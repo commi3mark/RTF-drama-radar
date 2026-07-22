@@ -346,6 +346,22 @@ External-signal assessment:
 The full audit is stored in `output/commi3-mention-resweep.txt`.
 
 
+## Core-panel mention rescan
+
+A 20 July 2026 rescan searched all 106 raw transcript JSON files using the expanded panel identities. Derived intelligence reports were excluded to avoid counting the same caption material twice.
+
+The scan found 43 distinctive Commi3 Mark or Russian Troll Factory matches across 14 transcripts. All 43 use high-specificity forms such as `Russian Troll Factory`, `Comey Mark`, or `Commie Mark`; the scanner does not use the generic word `Mark`.
+
+Four matches occur outside Commi3-attributed source files:
+
+- Piper's `ims2nZAnn-s` opening song says Commi3 recruited her for Russian Troll Factory.
+- Matt Bahr's `OCCmhhgQkX8` contains one RTF match while responding to the 17 July programme.
+- Lord Finatra's `ocrGHToncF0` contains two RTF matches while replaying the same programme.
+
+This confirms the earlier external resweep rather than expanding it materially. Piper remains the only independent collaborator-authored external reference in the present archive. The Matt Bahr and Lord Finatra matches are response/replay evidence and must not be counted as independent corroboration of the replayed claims.
+
+Full ledger: `analysis/panel-mention-rescan.txt`.
+
 ## Analytic judgment
 
 Commi3 Mark’s observable value proposition is not neutral reporting. It is the organization of a niche audience around adversarial, comedic interpretation of creator-community disputes. The host’s role combines agenda selection, evidence presentation, performance, and group moderation.

@@ -1,9 +1,9 @@
 @echo off
 setlocal
-cd /d "%~dp0"
+cd /d "%~dp0.."
 
 echo =============================================================
-echo STALINVO - GITHUB TRANSCRIPT SELECTION SYNC
+echo TRANSCRIPT GRABBER - GITHUB OUTPUT SYNC
 echo =============================================================
 echo.
 echo This creates a private sync mirror inside the Transcript Grabber state folder.
@@ -19,7 +19,7 @@ if errorlevel 1 (
 )
 echo.
 echo GITHUB SYNC READY.
-echo Automatic transcript runs will now pull your selected-transcripts.txt queue,
-echo collect only those selections on Stalinvo, and upload completed transcripts.
+echo GET TRANSCRIPTS.bat will upload completed transcripts and indexes.
+echo PRIORITY TRANSCRIPTS.txt always remains the local source of truth.
 echo.
 pause

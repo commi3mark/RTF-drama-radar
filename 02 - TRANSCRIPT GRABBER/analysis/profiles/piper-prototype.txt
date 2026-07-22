@@ -646,6 +646,27 @@ The profile should evolve through attachment rather than replacement. Each new t
 5. preserve unresolved fields instead of filling them by inference;
 6. quarantine private or hostile allegations until relevance, sourcing, and right of reply are satisfied.
 
+CORE-PANEL MENTION RESCAN
+
+A 20 July 2026 rescan of 106 raw transcript JSON files found 181 Piper/Fyzz candidate caption segments across 15 transcripts. Intelligence reports were excluded from the scan.
+
+Confidence split:
+
+- 119 short-name matches occur in Commi3/RTF-source transcripts and are medium-high identity candidates.
+- 39 matches occur in Piper's own ims2nZAnn-s stream.
+- 22 occur across Matt Bahr's NQG and Lead Poisoning response streams.
+- one occurs in Lord Finatra's STANK replay.
+
+The scanner grades bare Piper matches outside RTF conservatively because captions lack speaker labels. Context changes their analytic value:
+
+- The 39 own-source matches strengthen the attribution of the F-IT relaunch and its autobiographical opening to the Piper identity.
+- Matt Bahr's 22 matches document sustained adversarial attention and potential right-of-reply material; they do not establish the truth of his allegations.
+- The STANK match is replay/reception evidence, not independent corroboration.
+
+No Fyzzgiggidy or FGiggidy string appeared in the local caption text. The public alias bridge therefore continues to rest on creator-controlled and externally cross-linked pages rather than automatic captions.
+
+Full ledger: analysis/panel-mention-rescan.txt.
+
 COMPLETE LOCAL SOURCE REGISTER
 
 Primary Piper source:

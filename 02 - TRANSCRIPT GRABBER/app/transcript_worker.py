@@ -112,12 +112,8 @@ def main() -> int:
 
             before = transcript_count()
             started = time.time()
-            # The worker consumes only explicit selections mirrored from GitHub.
-            subprocess.run(
-                [sys.executable, str(HERE / "github_sync.py"), "pull"],
-                cwd=GRABBER_ROOT,
-                check=False,
-            )
+            # The worker consumes explicit selections from Stalinvo's local
+            # priority document, so YouTube retrieval always runs here.
             result = subprocess.run(
                 [sys.executable, str(HERE / "get_selected_transcripts.py"), "--limit", "1"],
                 cwd=GRABBER_ROOT,
@@ -127,14 +123,6 @@ def main() -> int:
             gained = max(0, after - before)
             cooldown_after = read_json(COOLDOWN, {})
             dual_block = bool(cooldown_after.get("active"))
-
-            # Queue cleanup is also shared state, even when no new transcript
-            # was added (for example an already-completed selection).
-            subprocess.run(
-                [sys.executable, str(HERE / "github_sync.py"), "push"],
-                cwd=GRABBER_ROOT,
-                check=False,
-            )
 
             if gained:
                 state["clean_successes"] = int(state.get("clean_successes", 0)) + gained

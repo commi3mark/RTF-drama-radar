@@ -1,7 +1,631 @@
 {
-  "updated_at": "2026-07-19T18:40:11.792941+00:00",
-  "count": 106,
+  "updated_at": "2026-07-22T17:37:06.202617+00:00",
+  "count": 158,
   "transcripts": [
+    {
+      "video_id": "xqCx8APQlbU",
+      "title": "RENOWNED ZERO A MARTYR FOR FREE SPEECH NOW?- RUSSIAN TROLL FACTORY",
+      "source": "Commi3 Mark",
+      "published": null,
+      "downloaded_at": "2026-07-22T02:38:57.329193+00:00",
+      "segment_count": 2071,
+      "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/RENOWNED ZERO A MARTYR FOR FREE SPEECH NOW_- RUSSIAN TROLL FACTORY [xqCx8APQlbU].json",
+      "intelligence_json": null,
+      "intelligence_txt": null,
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/RENOWNED ZERO A MARTYR FOR FREE SPEECH NOW_- RUSSIAN TROLL FACTORY [xqCx8APQlbU].transcript.txt"
+    },
+    {
+      "video_id": "j-Oao2Z5YOo",
+      "title": "I FART IN YOUR GENERAL DIRECTION - RUSSIAN TROLL FACTORY #199",
+      "source": "Commi3 Mark",
+      "published": null,
+      "downloaded_at": "2026-07-22T02:38:42.254319+00:00",
+      "segment_count": 1591,
+      "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/I FART IN YOUR GENERAL DIRECTION - RUSSIAN TROLL FACTORY #199 [j-Oao2Z5YOo].json",
+      "intelligence_json": null,
+      "intelligence_txt": null,
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/I FART IN YOUR GENERAL DIRECTION - RUSSIAN TROLL FACTORY #199 [j-Oao2Z5YOo].transcript.txt"
+    },
+    {
+      "video_id": "gwOMCI1FYmE",
+      "title": "The Odyssey Proves They Only Hate Punditry From One Side",
+      "source": "Eric July",
+      "published": "2026-07-21T12:23:08+00:00",
+      "downloaded_at": "2026-07-22T02:38:26.072696+00:00",
+      "segment_count": 36,
+      "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/The Odyssey Proves They Only Hate Punditry From One Side [gwOMCI1FYmE].json",
+      "intelligence_json": null,
+      "intelligence_txt": null,
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/The Odyssey Proves They Only Hate Punditry From One Side [gwOMCI1FYmE].transcript.txt"
+    },
+    {
+      "video_id": "8KUSlY6a5R4",
+      "title": "Vito goes through the SEVEN STAGES of Grief | #941",
+      "source": "Ministry of Dude",
+      "published": "2026-07-21T14:09:55+00:00",
+      "downloaded_at": "2026-07-22T02:38:13.046681+00:00",
+      "segment_count": 2812,
+      "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Vito goes through the SEVEN STAGES of Grief _ #941 [8KUSlY6a5R4].json",
+      "intelligence_json": null,
+      "intelligence_txt": null,
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Vito goes through the SEVEN STAGES of Grief _ #941 [8KUSlY6a5R4].transcript.txt"
+    },
+    {
+      "video_id": "kMXq1Fc11yg",
+      "title": "ABSOLUTE GREEN ARROW #3- Liberals Are BETTER At Writing Than Conservatives...With FEW Exceptions",
+      "source": "Ya Boi Zack",
+      "published": "2026-07-21T15:55:05+00:00",
+      "downloaded_at": "2026-07-22T02:37:58.973458+00:00",
+      "segment_count": 427,
+      "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/ABSOLUTE GREEN ARROW #3- Liberals Are BETTER At Writing Than Conservatives...With FEW Exceptions [kMXq1Fc11yg].json",
+      "intelligence_json": null,
+      "intelligence_txt": null,
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/ABSOLUTE GREEN ARROW #3- Liberals Are BETTER At Writing Than Conservatives...With FEW Exceptions [kMXq1Fc11yg].transcript.txt"
+    },
+    {
+      "video_id": "MNtId-mkfTE",
+      "title": "You're missing the point... | Supergirl, Culture & The Critic",
+      "source": "Eric July",
+      "published": "2026-06-28T18:48:12+00:00",
+      "downloaded_at": "2026-07-22T02:37:44.884193+00:00",
+      "segment_count": 262,
+      "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-06/You're missing the point... _ Supergirl, Culture & The Critic [MNtId-mkfTE].json",
+      "intelligence_json": null,
+      "intelligence_txt": null,
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-06/You're missing the point... _ Supergirl, Culture & The Critic [MNtId-mkfTE].transcript.txt"
+    },
+    {
+      "video_id": "oqcGgKYKgCs",
+      "title": "A Respectful Response....",
+      "source": "Eric July",
+      "published": "2026-07-01T14:27:49+00:00",
+      "downloaded_at": "2026-07-22T02:37:31.968666+00:00",
+      "segment_count": 294,
+      "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/A Respectful Response [oqcGgKYKgCs].json",
+      "intelligence_json": null,
+      "intelligence_txt": null,
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/A Respectful Response [oqcGgKYKgCs].transcript.txt"
+    },
+    {
+      "video_id": "7Lc3XPgrnh4",
+      "title": "Leem responds to the \"rockspider\" allegations | #929",
+      "source": "Ministry of Dude",
+      "published": "2026-07-03T15:02:52+00:00",
+      "downloaded_at": "2026-07-22T02:37:19.242360+00:00",
+      "segment_count": 3364,
+      "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Leem responds to the _rockspider_ allegations _ #929 [7Lc3XPgrnh4].json",
+      "intelligence_json": null,
+      "intelligence_txt": null,
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Leem responds to the _rockspider_ allegations _ #929 [7Lc3XPgrnh4].transcript.txt"
+    },
+    {
+      "video_id": "lzbS-7hmbZw",
+      "title": "I Heard Kylies A B!tch (History Of Leem Part 2) -King Stream",
+      "source": "FFS Cast",
+      "published": "2026-07-14T04:18:28+00:00",
+      "downloaded_at": "2026-07-22T02:37:01.916975+00:00",
+      "segment_count": 7096,
+      "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/I Heard Kylies A B!tch (History Of Leem Part 2) -King Stream [lzbS-7hmbZw].json",
+      "intelligence_json": null,
+      "intelligence_txt": null,
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/I Heard Kylies A B!tch (History Of Leem Part 2) -King Stream [lzbS-7hmbZw].transcript.txt"
+    },
+    {
+      "video_id": "Arn4sp1Ui-o",
+      "title": "Are We the Loud Minority - The Truth About Physical Media",
+      "source": "Eric July",
+      "published": null,
+      "downloaded_at": "2026-07-22T02:36:12.619323+00:00",
+      "segment_count": 93,
+      "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Are We the Loud Minority - The Truth About Physical Media [Arn4sp1Ui-o].json",
+      "intelligence_json": null,
+      "intelligence_txt": null,
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Are We the Loud Minority - The Truth About Physical Media [Arn4sp1Ui-o].transcript.txt"
+    },
+    {
+      "video_id": "CZ3xZEQ_43M",
+      "title": "COMICSGATE GENDER SWAP VALENTINES SPECIAL RUSSIAN TROLL FACTORY #200",
+      "source": "Commi3 Mark",
+      "published": null,
+      "downloaded_at": "2026-07-22T01:50:22.548399+00:00",
+      "segment_count": 2918,
+      "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/COMICSGATE GENDER SWAP VALENTINES SPECIAL RUSSIAN TROLL FACTORY #200 [CZ3xZEQ_43M].json",
+      "intelligence_json": null,
+      "intelligence_txt": null,
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/COMICSGATE GENDER SWAP VALENTINES SPECIAL RUSSIAN TROLL FACTORY #200 [CZ3xZEQ_43M].transcript.txt"
+    },
+    {
+      "video_id": "RBKtCXEVL6Q",
+      "title": "STURGIS AND ENLIGHTENED FAN DEFEND CONVICTED CHILD MOLESTER RUSSIAN TROLL FACTORY #307",
+      "source": "Commi3 Mark",
+      "published": null,
+      "downloaded_at": "2026-07-22T01:49:58.522175+00:00",
+      "segment_count": 2880,
+      "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/STURGIS AND ENLIGHTENED FAN DEFEND CONVICTED CHILD MOLESTER RUSSIAN TROLL FACTORY #307 [RBKtCXEVL6Q].json",
+      "intelligence_json": null,
+      "intelligence_txt": null,
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/STURGIS AND ENLIGHTENED FAN DEFEND CONVICTED CHILD MOLESTER RUSSIAN TROLL FACTORY #307 [RBKtCXEVL6Q].transcript.txt"
+    },
+    {
+      "video_id": "CTz5blIMvMk",
+      "title": "COMICSGATE CATCH UP - 10% SHOW \"WHAT DRAMA DID I MISS??\"  w/ DARKGIFT COMICS",
+      "source": "Commi3 Mark",
+      "published": null,
+      "downloaded_at": "2026-07-22T01:49:34.314502+00:00",
+      "segment_count": 3782,
+      "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/COMICSGATE CATCH UP - 10% SHOW _WHAT DRAMA DID I MISS___  w_ DARKGIFT COMICS [CTz5blIMvMk].json",
+      "intelligence_json": null,
+      "intelligence_txt": null,
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/COMICSGATE CATCH UP - 10% SHOW _WHAT DRAMA DID I MISS___  w_ DARKGIFT COMICS [CTz5blIMvMk].transcript.txt"
+    },
+    {
+      "video_id": "4VEkjfpVxHE",
+      "title": "NOT TALKING ABOUT LIAM GRAY - 13% SHOW RUSSIAN TROLL FACTORY",
+      "source": "Commi3 Mark",
+      "published": null,
+      "downloaded_at": "2026-07-22T01:49:06.032386+00:00",
+      "segment_count": 1657,
+      "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/NOT TALKING ABOUT LIAM GRAY - 13% SHOW RUSSIAN TROLL FACTORY [4VEkjfpVxHE].json",
+      "intelligence_json": null,
+      "intelligence_txt": null,
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/NOT TALKING ABOUT LIAM GRAY - 13% SHOW RUSSIAN TROLL FACTORY [4VEkjfpVxHE].transcript.txt"
+    },
+    {
+      "video_id": "9DcO5dzwA1c",
+      "title": "AYDIN PALADIN ROYAL CORRESPONDANT  - 14% SHOW RUSSIAN TROLL FACTORY",
+      "source": "Commi3 Mark",
+      "published": null,
+      "downloaded_at": "2026-07-22T01:48:33.520968+00:00",
+      "segment_count": 3364,
+      "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/AYDIN PALADIN ROYAL CORRESPONDANT  - 14% SHOW RUSSIAN TROLL FACTORY [9DcO5dzwA1c].json",
+      "intelligence_json": null,
+      "intelligence_txt": null,
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/AYDIN PALADIN ROYAL CORRESPONDANT  - 14% SHOW RUSSIAN TROLL FACTORY [9DcO5dzwA1c].transcript.txt"
+    },
+    {
+      "video_id": "Jv9byjbJltc",
+      "title": "RTF 15.5% SHOW: FFS MORE COMICSGATE DRAMA WITH CYNIC",
+      "source": "Commi3 Mark",
+      "published": null,
+      "downloaded_at": "2026-07-22T01:48:07.273700+00:00",
+      "segment_count": 2233,
+      "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/RTF 15.5% SHOW_ FFS MORE COMICSGATE DRAMA WITH CYNIC [Jv9byjbJltc].json",
+      "intelligence_json": null,
+      "intelligence_txt": null,
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/RTF 15.5% SHOW_ FFS MORE COMICSGATE DRAMA WITH CYNIC [Jv9byjbJltc].transcript.txt"
+    },
+    {
+      "video_id": "eOa5OBfETzc",
+      "title": "The Biggest Problem in the Universe - America's Lame 250th Birthday",
+      "source": "The Biggest Problem in the Universe",
+      "published": null,
+      "downloaded_at": "2026-07-22T01:47:35.552261+00:00",
+      "segment_count": 4121,
+      "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/The Biggest Problem in the Universe - America's Lame 250th Birthday [eOa5OBfETzc].json",
+      "intelligence_json": null,
+      "intelligence_txt": null,
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/The Biggest Problem in the Universe - America's Lame 250th Birthday [eOa5OBfETzc].transcript.txt"
+    },
+    {
+      "video_id": "KdMmou9oGc8",
+      "title": "FINALLY COMING CLEAN",
+      "source": "TheQuartering",
+      "published": null,
+      "downloaded_at": "2026-07-22T01:45:10.599782+00:00",
+      "segment_count": 805,
+      "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/FINALLY COMING CLEAN [KdMmou9oGc8].json",
+      "intelligence_json": null,
+      "intelligence_txt": null,
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/FINALLY COMING CLEAN [KdMmou9oGc8].transcript.txt"
+    },
+    {
+      "video_id": "aQU067eXRZY",
+      "title": "The Odyssey REACTION - LOTR Doomed! - Nerdrotic Nooner",
+      "source": "Nerdrotic",
+      "published": null,
+      "downloaded_at": "2026-07-22T01:44:25.673028+00:00",
+      "segment_count": 4470,
+      "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/The Odyssey REACTION - LOTR Doomed! - Nerdrotic Nooner [aQU067eXRZY].json",
+      "intelligence_json": null,
+      "intelligence_txt": null,
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/The Odyssey REACTION - LOTR Doomed! - Nerdrotic Nooner [aQU067eXRZY].transcript.txt"
+    },
+    {
+      "video_id": "YpcOPLVqi-Y",
+      "title": "Radar-recommended YouTube video [YpcOPLVqi-Y]",
+      "source": "Unknown Radar-linked channel",
+      "published": null,
+      "downloaded_at": "2026-07-22T01:43:41.809540+00:00",
+      "segment_count": 8924,
+      "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Radar-recommended YouTube video [YpcOPLVqi-Y] [YpcOPLVqi-Y].json",
+      "intelligence_json": null,
+      "intelligence_txt": null,
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Radar-recommended YouTube video [YpcOPLVqi-Y] [YpcOPLVqi-Y].transcript.txt"
+    },
+    {
+      "video_id": "wuQA_actBEw",
+      "title": "The Quartering Vlog - What Tim Pool Is Really Like & Feeding the Madhouse",
+      "source": "TheQuartering",
+      "published": null,
+      "downloaded_at": "2026-07-22T01:42:55.875458+00:00",
+      "segment_count": 682,
+      "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/The Quartering Vlog - What Tim Pool Is Really Like & Feeding the Madhouse [wuQA_actBEw].json",
+      "intelligence_json": null,
+      "intelligence_txt": null,
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/The Quartering Vlog - What Tim Pool Is Really Like & Feeding the Madhouse [wuQA_actBEw].transcript.txt"
+    },
+    {
+      "video_id": "0zVoh53fCLs",
+      "title": "Bristol Renfair Drops Statement Over TheQuartering & He Crashes Out On FNT",
+      "source": "Camelot331",
+      "published": null,
+      "downloaded_at": "2026-07-22T01:42:05.916985+00:00",
+      "segment_count": 4351,
+      "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Bristol Renfair Drops Statement Over TheQuartering & He Crashes Out On FNT [0zVoh53fCLs].json",
+      "intelligence_json": null,
+      "intelligence_txt": null,
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Bristol Renfair Drops Statement Over TheQuartering & He Crashes Out On FNT [0zVoh53fCLs].transcript.txt"
+    },
+    {
+      "video_id": "yEIpQFGkC24",
+      "title": "Radar-recommended YouTube video [yEIpQFGkC24]",
+      "source": "Unknown Radar-linked channel",
+      "published": null,
+      "downloaded_at": "2026-07-22T01:41:10.556720+00:00",
+      "segment_count": 6215,
+      "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Radar-recommended YouTube video [yEIpQFGkC24] [yEIpQFGkC24].json",
+      "intelligence_json": null,
+      "intelligence_txt": null,
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Radar-recommended YouTube video [yEIpQFGkC24] [yEIpQFGkC24].transcript.txt"
+    },
+    {
+      "video_id": "qPhtbo87H34",
+      "title": "Quartering KARMA STRIKES! Copyright Claim, Vlog Lies & Coffee Scam",
+      "source": "Kino Casino",
+      "published": null,
+      "downloaded_at": "2026-07-22T01:40:19.099365+00:00",
+      "segment_count": 7341,
+      "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Quartering KARMA STRIKES! Copyright Claim, Vlog Lies & Coffee Scam [qPhtbo87H34].json",
+      "intelligence_json": null,
+      "intelligence_txt": null,
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Quartering KARMA STRIKES! Copyright Claim, Vlog Lies & Coffee Scam [qPhtbo87H34].transcript.txt"
+    },
+    {
+      "video_id": "-KbmVkRtZfc",
+      "title": "THE DECEPTION NETWORK - Candace Owens, Ian Carroll, Baron Coleman with Matt Tardio & Nick Rekieta",
+      "source": "Dangerous Liberty Podcast",
+      "published": null,
+      "downloaded_at": "2026-07-22T01:39:34.975670+00:00",
+      "segment_count": 3436,
+      "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/THE DECEPTION NETWORK - Candace Owens, Ian Carroll, Baron Coleman with Matt Tardio & Nick Rekieta [-KbmVkRtZfc].json",
+      "intelligence_json": null,
+      "intelligence_txt": null,
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/THE DECEPTION NETWORK - Candace Owens, Ian Carroll, Baron Coleman with Matt Tardio & Nick Rekieta [-KbmVkRtZfc].transcript.txt"
+    },
+    {
+      "video_id": "wjT_GXjggQA",
+      "title": "Rekieta Law - Candace Owens, Baron Coleman and AI Shorts",
+      "source": "Rekieta Law",
+      "published": null,
+      "downloaded_at": "2026-07-22T01:38:42.112064+00:00",
+      "segment_count": 6343,
+      "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Rekieta Law - Candace Owens, Baron Coleman and AI Shorts [wjT_GXjggQA].json",
+      "intelligence_json": null,
+      "intelligence_txt": null,
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Rekieta Law - Candace Owens, Baron Coleman and AI Shorts [wjT_GXjggQA].transcript.txt"
+    },
+    {
+      "video_id": "r9gGLLDWaUc",
+      "title": "BAT CHAT #1 - Indie Comics, Algorithms and The Odyssey",
+      "source": "BAT Chat",
+      "published": null,
+      "downloaded_at": "2026-07-22T01:37:43.094379+00:00",
+      "segment_count": 7797,
+      "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/BAT CHAT #1 - Indie Comics, Algorithms and The Odyssey [r9gGLLDWaUc].json",
+      "intelligence_json": null,
+      "intelligence_txt": null,
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/BAT CHAT #1 - Indie Comics, Algorithms and The Odyssey [r9gGLLDWaUc].transcript.txt"
+    },
+    {
+      "video_id": "Uw8OvSWYq1I",
+      "title": "CYNNERS",
+      "source": "FFS",
+      "published": "2026-07-18T23:47:35+00:00",
+      "downloaded_at": "2026-07-22T01:33:01.492564+00:00",
+      "segment_count": 7118,
+      "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/CYNNERS [Uw8OvSWYq1I].json",
+      "intelligence_json": null,
+      "intelligence_txt": null,
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/CYNNERS [Uw8OvSWYq1I].transcript.txt"
+    },
+    {
+      "video_id": "5n9hWmSRBQQ",
+      "title": "COMICSGATE COMMANDOS #120",
+      "source": "LOGOS Comics",
+      "published": "2026-07-19T00:30:29+00:00",
+      "downloaded_at": "2026-07-22T01:30:41.400081+00:00",
+      "segment_count": 6121,
+      "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/COMICSGATE COMMANDOS #120 [5n9hWmSRBQQ].json",
+      "intelligence_json": null,
+      "intelligence_txt": null,
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/COMICSGATE COMMANDOS #120 [5n9hWmSRBQQ].transcript.txt"
+    },
+    {
+      "video_id": "Jkf4ZZ_phMg",
+      "title": "JCW Watch Party & Gabbing With Geeks SUPER STREAM!",
+      "source": "Frog Tony",
+      "published": "2026-07-19T00:38:01+00:00",
+      "downloaded_at": "2026-07-22T01:28:13.308011+00:00",
+      "segment_count": 7015,
+      "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/JCW Watch Party & Gabbing With Geeks SUPER STREAM! [Jkf4ZZ_phMg].json",
+      "intelligence_json": null,
+      "intelligence_txt": null,
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/JCW Watch Party & Gabbing With Geeks SUPER STREAM! [Jkf4ZZ_phMg].transcript.txt"
+    },
+    {
+      "video_id": "eSE9Fg8q5Sg",
+      "title": "Avengers Doomsday Looks AWESOME! - The Geek Getaway #2",
+      "source": "Frog Tony",
+      "published": "2026-07-21T01:45:54+00:00",
+      "downloaded_at": "2026-07-22T01:26:12.675996+00:00",
+      "segment_count": 3954,
+      "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Avengers Doomsday Looks AWESOME! - The Geek Getaway #2 [eSE9Fg8q5Sg].json",
+      "intelligence_json": null,
+      "intelligence_txt": null,
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Avengers Doomsday Looks AWESOME! - The Geek Getaway #2 [eSE9Fg8q5Sg].transcript.txt"
+    },
+    {
+      "video_id": "6O_vJYZ2fo4",
+      "title": "WE MUST PROTECT MALIN-King Stream",
+      "source": "FFS",
+      "published": "2026-07-20T23:40:47+00:00",
+      "downloaded_at": "2026-07-22T01:20:26.687115+00:00",
+      "segment_count": 7665,
+      "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/WE MUST PROTECT MALIN-King Stream [6O_vJYZ2fo4].json",
+      "intelligence_json": null,
+      "intelligence_txt": null,
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/WE MUST PROTECT MALIN-King Stream [6O_vJYZ2fo4].transcript.txt"
+    },
+    {
+      "video_id": "cs51n-q5d9Y",
+      "title": "How Do CGers Thrive Together?",
+      "source": "KatyDid Clips",
+      "published": "2026-07-21T12:17:28+00:00",
+      "downloaded_at": "2026-07-22T01:15:05.034787+00:00",
+      "segment_count": 210,
+      "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/How Do CGers Thrive Together_ [cs51n-q5d9Y].json",
+      "intelligence_json": null,
+      "intelligence_txt": null,
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/How Do CGers Thrive Together_ [cs51n-q5d9Y].transcript.txt"
+    },
+    {
+      "video_id": "QaHyvzBRyiM",
+      "title": "Return to FF7",
+      "source": "Lord Finatra",
+      "published": "2026-07-20T10:51:01+00:00",
+      "downloaded_at": "2026-07-21T17:59:30.708339+00:00",
+      "segment_count": 5976,
+      "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Return to FF7 [QaHyvzBRyiM].json",
+      "intelligence_json": null,
+      "intelligence_txt": null,
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Return to FF7 [QaHyvzBRyiM].transcript.txt"
+    },
+    {
+      "video_id": "ERXcwq2ZWo4",
+      "title": "Comicgate Church #92",
+      "source": "FFS",
+      "published": "2026-07-19T21:48:38+00:00",
+      "downloaded_at": "2026-07-21T17:57:09.196059+00:00",
+      "segment_count": 7937,
+      "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Comicgate Church #92 [ERXcwq2ZWo4].json",
+      "intelligence_json": null,
+      "intelligence_txt": null,
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Comicgate Church #92 [ERXcwq2ZWo4].transcript.txt"
+    },
+    {
+      "video_id": "Y9hqreSZOwA",
+      "title": "Good Morning ComicsGate #100 CELEBRATION!",
+      "source": "KatyDid Clips",
+      "published": "2026-07-20T14:01:12+00:00",
+      "downloaded_at": "2026-07-21T17:54:51.791090+00:00",
+      "segment_count": 8187,
+      "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Good Morning ComicsGate #100 CELEBRATION! [Y9hqreSZOwA].json",
+      "intelligence_json": null,
+      "intelligence_txt": null,
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Good Morning ComicsGate #100 CELEBRATION! [Y9hqreSZOwA].transcript.txt"
+    },
+    {
+      "video_id": "gDuTFkDvNko",
+      "title": "Selected transcript [gDuTFkDvNko]",
+      "source": "Priority Queue",
+      "published": null,
+      "downloaded_at": "2026-07-21T17:52:43.397804+00:00",
+      "segment_count": 6944,
+      "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Selected transcript [gDuTFkDvNko] [gDuTFkDvNko].json",
+      "intelligence_json": null,
+      "intelligence_txt": null,
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Selected transcript [gDuTFkDvNko] [gDuTFkDvNko].transcript.txt"
+    },
+    {
+      "video_id": "KlDc5y-9IEs",
+      "title": "Delusional Jon Del Arroz efap",
+      "source": "MATTBAHR!",
+      "published": "2022-05-16T19:15:09+00:00",
+      "downloaded_at": "2026-07-21T17:50:31.492093+00:00",
+      "segment_count": 1559,
+      "path": "02 - TRANSCRIPT GRABBER/transcripts/2022-05/Delusional Jon Del Arroz efap [KlDc5y-9IEs].json",
+      "intelligence_json": null,
+      "intelligence_txt": null,
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2022-05/Delusional Jon Del Arroz efap [KlDc5y-9IEs].transcript.txt"
+    },
+    {
+      "video_id": "l-qW0N3OwpI",
+      "title": "PREKING AWESOME /DRAW STREAM SHOW EPISODE 22",
+      "source": "MATTBAHR!",
+      "published": "2023-10-16T22:04:24+00:00",
+      "downloaded_at": "2026-07-21T17:48:24.341200+00:00",
+      "segment_count": 3605,
+      "path": "02 - TRANSCRIPT GRABBER/transcripts/2023-10/PREKING AWESOME _DRAW STREAM SHOW EPISODE 22 [l-qW0N3OwpI].json",
+      "intelligence_json": null,
+      "intelligence_txt": null,
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2023-10/PREKING AWESOME _DRAW STREAM SHOW EPISODE 22 [l-qW0N3OwpI].transcript.txt"
+    },
+    {
+      "video_id": "SZnRRHkFvDA",
+      "title": "I'M UNDER ATTACK BY SECRET SJW, JON DEL ARROZ! WTF?!",
+      "source": "MATTBAHR!",
+      "published": "2022-05-17T22:38:14+00:00",
+      "downloaded_at": "2026-07-21T17:46:17.570742+00:00",
+      "segment_count": 793,
+      "path": "02 - TRANSCRIPT GRABBER/transcripts/2022-05/I'M UNDER ATTACK BY SECRET SJW, JON DEL ARROZ! WTF_! [SZnRRHkFvDA].json",
+      "intelligence_json": null,
+      "intelligence_txt": null,
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2022-05/I'M UNDER ATTACK BY SECRET SJW, JON DEL ARROZ! WTF_! [SZnRRHkFvDA].transcript.txt"
+    },
+    {
+      "video_id": "O365fEXXTtY",
+      "title": "NICK REKIETA DEALT MORE BLOWS: RUSSIAN TROLL FACTORY #175",
+      "source": "COMMI3 МARK",
+      "published": "2024-06-21T21:25:59+00:00",
+      "downloaded_at": "2026-07-20T17:24:22.939335+00:00",
+      "segment_count": 2188,
+      "path": "02 - TRANSCRIPT GRABBER/transcripts/2024-06/NICK REKIETA DEALT MORE BLOWS_ RUSSIAN TROLL FACTORY #175 [O365fEXXTtY].json",
+      "intelligence_json": null,
+      "intelligence_txt": null,
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2024-06/NICK REKIETA DEALT MORE BLOWS_ RUSSIAN TROLL FACTORY #175 [O365fEXXTtY].transcript.txt"
+    },
+    {
+      "video_id": "BAauntLQ_zg",
+      "title": "CRAZY STALKER \"PULLS UP\" ON COMIC BOOK PROFESSIONAL - RIPPAVERSE EDITION",
+      "source": "COMMI3 МARK",
+      "published": "2024-06-14T21:18:47+00:00",
+      "downloaded_at": "2026-07-20T17:21:55.265976+00:00",
+      "segment_count": 2904,
+      "path": "02 - TRANSCRIPT GRABBER/transcripts/2024-06/CRAZY STALKER _PULLS UP_ ON COMIC BOOK PROFESSIONAL - RIPPAVERSE EDITION [BAauntLQ_zg].json",
+      "intelligence_json": null,
+      "intelligence_txt": null,
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2024-06/CRAZY STALKER _PULLS UP_ ON COMIC BOOK PROFESSIONAL - RIPPAVERSE EDITION [BAauntLQ_zg].transcript.txt"
+    },
+    {
+      "video_id": "NjJFtUuBc5U",
+      "title": "Is ORGANISED CHAOS a LOLCOW? SEVEN SIGNS to SPOT a LOL COW in the WILD",
+      "source": "COMMI3 МARK",
+      "published": "2023-06-01T20:29:50+00:00",
+      "downloaded_at": "2026-07-20T17:19:27.460739+00:00",
+      "segment_count": 3496,
+      "path": "02 - TRANSCRIPT GRABBER/transcripts/2023-06/Is ORGANISED CHAOS a LOLCOW_ SEVEN SIGNS to SPOT a LOL COW in the WILD [NjJFtUuBc5U].json",
+      "intelligence_json": null,
+      "intelligence_txt": null,
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2023-06/Is ORGANISED CHAOS a LOLCOW_ SEVEN SIGNS to SPOT a LOL COW in the WILD [NjJFtUuBc5U].transcript.txt"
+    },
+    {
+      "video_id": "r00Asjgyh0I",
+      "title": "EFAPing Nerdettes Newsstand EFAPing ME!!! (with bonus dunking on Forced Adversity / Actual Fandom",
+      "source": "COMMI3 МARK",
+      "published": "2023-03-31T20:00:46+00:00",
+      "downloaded_at": "2026-07-20T17:17:17.438511+00:00",
+      "segment_count": 1225,
+      "path": "02 - TRANSCRIPT GRABBER/transcripts/2023-03/EFAPing Nerdettes Newsstand EFAPing ME!!! (with bonus dunking on Forced Adversity _ Actual Fandom [r00Asjgyh0I].json",
+      "intelligence_json": null,
+      "intelligence_txt": null,
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2023-03/EFAPing Nerdettes Newsstand EFAPing ME!!! (with bonus dunking on Forced Adversity _ Actual Fandom [r00Asjgyh0I].transcript.txt"
+    },
+    {
+      "video_id": "uRdJqU8T5nw",
+      "title": "THE COMMI3 MARK STRUGGLE SESSION - RUSSIAN TROLL FACTORY 302",
+      "source": "COMMI3 МARK",
+      "published": "2025-07-04T21:20:26+00:00",
+      "downloaded_at": "2026-07-20T17:14:47.558486+00:00",
+      "segment_count": 2732,
+      "path": "02 - TRANSCRIPT GRABBER/transcripts/2025-07/THE COMMI3 MARK STRUGGLE SESSION - RUSSIAN TROLL FACTORY 302 [uRdJqU8T5nw].json",
+      "intelligence_json": null,
+      "intelligence_txt": null,
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2025-07/THE COMMI3 MARK STRUGGLE SESSION - RUSSIAN TROLL FACTORY 302 [uRdJqU8T5nw].transcript.txt"
+    },
+    {
+      "video_id": "RQJiS-XGAiI",
+      "title": "ACTUAL FANDOM VS O.C.T.O.P.U.S.S: The Dark Side of FORCED ADVERSITY & FANDOM Iniative - ComicsGate",
+      "source": "COMMI3 МARK",
+      "published": "2024-08-09T21:31:09+00:00",
+      "downloaded_at": "2026-07-20T17:12:16.382415+00:00",
+      "segment_count": 1815,
+      "path": "02 - TRANSCRIPT GRABBER/transcripts/2024-08/ACTUAL FANDOM VS O.C.T.O.P.U.S.S_ The Dark Side of FORCED ADVERSITY & FANDOM Iniative - ComicsGate [RQJiS-XGAiI].json",
+      "intelligence_json": null,
+      "intelligence_txt": null,
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2024-08/ACTUAL FANDOM VS O.C.T.O.P.U.S.S_ The Dark Side of FORCED ADVERSITY & FANDOM Iniative - ComicsGate [RQJiS-XGAiI].transcript.txt"
+    },
+    {
+      "video_id": "tnvBNWJ_ZZs",
+      "title": "COMMUNISM VS THE MONARCHY FEAT AYDIN PALADIN",
+      "source": "COMMI3 МARK",
+      "published": "2022-01-07T23:05:11+00:00",
+      "downloaded_at": "2026-07-20T17:10:21.404853+00:00",
+      "segment_count": 2980,
+      "path": "02 - TRANSCRIPT GRABBER/transcripts/2022-01/COMMUNISM VS THE MONARCHY FEAT AYDIN PALADIN [tnvBNWJ_ZZs].json",
+      "intelligence_json": null,
+      "intelligence_txt": null,
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2022-01/COMMUNISM VS THE MONARCHY FEAT AYDIN PALADIN [tnvBNWJ_ZZs].transcript.txt"
+    },
+    {
+      "video_id": "SjjjgIPEiEU",
+      "title": "RTF#158 - COMICSGATE ICEBERG - REMEMBERING TROLL FACTORY",
+      "source": "COMMI3 МARK",
+      "published": "2024-01-19T22:19:12+00:00",
+      "downloaded_at": "2026-07-20T17:08:07.519020+00:00",
+      "segment_count": 2077,
+      "path": "02 - TRANSCRIPT GRABBER/transcripts/2024-01/RTF#158 - COMICSGATE ICEBERG - REMEMBERING TROLL FACTORY [SjjjgIPEiEU].json",
+      "intelligence_json": null,
+      "intelligence_txt": null,
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2024-01/RTF#158 - COMICSGATE ICEBERG - REMEMBERING TROLL FACTORY [SjjjgIPEiEU].transcript.txt"
+    },
+    {
+      "video_id": "bnv1zS1taoY",
+      "title": "INCELS - with Anna That Star Wars Girl",
+      "source": "COMMI3 МARK",
+      "published": "2021-08-27T21:21:55+00:00",
+      "downloaded_at": "2026-07-20T17:06:04.057491+00:00",
+      "segment_count": 2651,
+      "path": "02 - TRANSCRIPT GRABBER/transcripts/2021-08/INCELS - with Anna That Star Wars Girl [bnv1zS1taoY].json",
+      "intelligence_json": null,
+      "intelligence_txt": null,
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2021-08/INCELS - with Anna That Star Wars Girl [bnv1zS1taoY].transcript.txt"
+    },
+    {
+      "video_id": "rydzAeMIVlo",
+      "title": "FORCED ADVERSITY LAUNCHES COPYRIGHT STRIKES ON COMMI3 MARK?!",
+      "source": "COMMI3 МARK",
+      "published": "2021-11-17T22:27:57+00:00",
+      "downloaded_at": "2026-07-20T17:03:42.214100+00:00",
+      "segment_count": 1646,
+      "path": "02 - TRANSCRIPT GRABBER/transcripts/2021-11/FORCED ADVERSITY LAUNCHES COPYRIGHT STRIKES ON COMMI3 MARK_! [rydzAeMIVlo].json",
+      "intelligence_json": null,
+      "intelligence_txt": null,
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2021-11/FORCED ADVERSITY LAUNCHES COPYRIGHT STRIKES ON COMMI3 MARK_! [rydzAeMIVlo].transcript.txt"
+    },
+    {
+      "video_id": "e9s355PAYuo",
+      "title": "KRISHNA KID IS CANCELLED - RUSSIAN TROLL FACTORY #301",
+      "source": "COMMI3 МARK",
+      "published": "2025-06-27T21:22:32+00:00",
+      "downloaded_at": "2026-07-20T17:01:45.931088+00:00",
+      "segment_count": 2059,
+      "path": "02 - TRANSCRIPT GRABBER/transcripts/2025-06/KRISHNA KID IS CANCELLED - RUSSIAN TROLL FACTORY #301 [e9s355PAYuo].json",
+      "intelligence_json": null,
+      "intelligence_txt": null,
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2025-06/KRISHNA KID IS CANCELLED - RUSSIAN TROLL FACTORY #301 [e9s355PAYuo].transcript.txt"
+    },
+    {
+      "video_id": "KF_OATg9vgY",
+      "title": "Loife without Laughter - PROOF LEEM STREAMED ON X-MAS",
+      "source": "Lord Finatra",
+      "published": "2026-07-19T10:19:59+00:00",
+      "downloaded_at": "2026-07-20T16:59:52.010899+00:00",
+      "segment_count": 12766,
+      "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Loife without Laughter - PROOF LEEM STREAMED ON X-MAS [KF_OATg9vgY].json",
+      "intelligence_json": null,
+      "intelligence_txt": null,
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Loife without Laughter - PROOF LEEM STREAMED ON X-MAS [KF_OATg9vgY].transcript.txt"
+    },
     {
       "video_id": "wvL1dhgpE3U",
       "title": "RIPPAVERSE EMPLOYEE OF THE MONTH: 12% SHOW ERIC JULY COMICSGATE",
@@ -11,7 +635,8 @@
       "segment_count": 1967,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-02/RIPPAVERSE EMPLOYEE OF THE MONTH_ 12% SHOW ERIC JULY COMICSGATE [wvL1dhgpE3U].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-02/RIPPAVERSE EMPLOYEE OF THE MONTH_ 12% SHOW ERIC JULY COMICSGATE [wvL1dhgpE3U].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-02/RIPPAVERSE EMPLOYEE OF THE MONTH_ 12% SHOW ERIC JULY COMICSGATE [wvL1dhgpE3U].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-02/RIPPAVERSE EMPLOYEE OF THE MONTH_ 12% SHOW ERIC JULY COMICSGATE [wvL1dhgpE3U].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "Au92YMvn6n4",
@@ -22,7 +647,8 @@
       "segment_count": 3224,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-03/FROG TONY GOES FULLY RIBBITARDED RTF 16% SHOW [Au92YMvn6n4].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-03/FROG TONY GOES FULLY RIBBITARDED RTF 16% SHOW [Au92YMvn6n4].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-03/FROG TONY GOES FULLY RIBBITARDED RTF 16% SHOW [Au92YMvn6n4].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-03/FROG TONY GOES FULLY RIBBITARDED RTF 16% SHOW [Au92YMvn6n4].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "CtAtfPP8FoI",
@@ -33,7 +659,8 @@
       "segment_count": 3729,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-04/Clippaverse on Eric July Rippaverse Drama & Superkillers _ The Crossover Nobody Asked For [CtAtfPP8FoI].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-04/Clippaverse on Eric July Rippaverse Drama & Superkillers _ The Crossover Nobody Asked For [CtAtfPP8FoI].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-04/Clippaverse on Eric July Rippaverse Drama & Superkillers _ The Crossover Nobody Asked For [CtAtfPP8FoI].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-04/Clippaverse on Eric July Rippaverse Drama & Superkillers _ The Crossover Nobody Asked For [CtAtfPP8FoI].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "o02omTpC4Us",
@@ -44,7 +671,8 @@
       "segment_count": 2941,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-05/HACHETTE JOB - Rippaverse, Racism, DEI and Cancel Culture Wars EXPOSED [o02omTpC4Us].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-05/HACHETTE JOB - Rippaverse, Racism, DEI and Cancel Culture Wars EXPOSED [o02omTpC4Us].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-05/HACHETTE JOB - Rippaverse, Racism, DEI and Cancel Culture Wars EXPOSED [o02omTpC4Us].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-05/HACHETTE JOB - Rippaverse, Racism, DEI and Cancel Culture Wars EXPOSED [o02omTpC4Us].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "zXVP9r4U0jM",
@@ -55,7 +683,8 @@
       "segment_count": 3117,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-06/LIAM GRAY EXPOSED TO A WHOLE NEW AUDIENCE_ COMICSGATE DRAMAS [zXVP9r4U0jM].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-06/LIAM GRAY EXPOSED TO A WHOLE NEW AUDIENCE_ COMICSGATE DRAMAS [zXVP9r4U0jM].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-06/LIAM GRAY EXPOSED TO A WHOLE NEW AUDIENCE_ COMICSGATE DRAMAS [zXVP9r4U0jM].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-06/LIAM GRAY EXPOSED TO A WHOLE NEW AUDIENCE_ COMICSGATE DRAMAS [zXVP9r4U0jM].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "vTtyZNntVsg",
@@ -66,7 +695,8 @@
       "segment_count": 2284,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-06/LIL MOVIE PERP WALK FBI INVESTIGATES COMIC CON TERROR THREAT _ COMICS TRUE CRIME DRAMA #COMICSGATE [vTtyZNntVsg].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-06/LIL MOVIE PERP WALK FBI INVESTIGATES COMIC CON TERROR THREAT _ COMICS TRUE CRIME DRAMA #COMICSGATE [vTtyZNntVsg].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-06/LIL MOVIE PERP WALK FBI INVESTIGATES COMIC CON TERROR THREAT _ COMICS TRUE CRIME DRAMA #COMICSGATE [vTtyZNntVsg].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-06/LIL MOVIE PERP WALK FBI INVESTIGATES COMIC CON TERROR THREAT _ COMICS TRUE CRIME DRAMA #COMICSGATE [vTtyZNntVsg].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "Qju8wnZ5MQg",
@@ -77,7 +707,8 @@
       "segment_count": 2989,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/CLOWN MATT BAHR ISN'T REAL, HE CAN'T HURT YOU [Qju8wnZ5MQg].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/CLOWN MATT BAHR ISN'T REAL, HE CAN'T HURT YOU [Qju8wnZ5MQg].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/CLOWN MATT BAHR ISN'T REAL, HE CAN'T HURT YOU [Qju8wnZ5MQg].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/CLOWN MATT BAHR ISN'T REAL, HE CAN'T HURT YOU [Qju8wnZ5MQg].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "XyoUg8JR98U",
@@ -88,7 +719,8 @@
       "segment_count": 530,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/LEAD POISONING ART STREAM [XyoUg8JR98U].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/LEAD POISONING ART STREAM [XyoUg8JR98U].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/LEAD POISONING ART STREAM [XyoUg8JR98U].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/LEAD POISONING ART STREAM [XyoUg8JR98U].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "ocrGHToncF0",
@@ -99,7 +731,8 @@
       "segment_count": 3052,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/STANK [ocrGHToncF0].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/STANK [ocrGHToncF0].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/STANK [ocrGHToncF0].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/STANK [ocrGHToncF0].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "OCCmhhgQkX8",
@@ -110,7 +743,8 @@
       "segment_count": 3969,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/NQG_ GISH GALLOP [OCCmhhgQkX8].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/NQG_ GISH GALLOP [OCCmhhgQkX8].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/NQG_ GISH GALLOP [OCCmhhgQkX8].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/NQG_ GISH GALLOP [OCCmhhgQkX8].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "f6mc2pth6wI",
@@ -121,7 +755,8 @@
       "segment_count": 255,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/TheQuartering Wants to Be Tim Pool & Friday Night Tights Is Pathetic (Jul 2026) [f6mc2pth6wI].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/TheQuartering Wants to Be Tim Pool & Friday Night Tights Is Pathetic (Jul 2026) [f6mc2pth6wI].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/TheQuartering Wants to Be Tim Pool & Friday Night Tights Is Pathetic (Jul 2026) [f6mc2pth6wI].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/TheQuartering Wants to Be Tim Pool & Friday Night Tights Is Pathetic (Jul 2026) [f6mc2pth6wI].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "DV9iqZU7WZ0",
@@ -132,7 +767,8 @@
       "segment_count": 213,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Kino Casino_ Jer the Ren Faire Creeper is DEFINITELY Banned (Jul 14, 2026) [DV9iqZU7WZ0].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Kino Casino_ Jer the Ren Faire Creeper is DEFINITELY Banned (Jul 14, 2026) [DV9iqZU7WZ0].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Kino Casino_ Jer the Ren Faire Creeper is DEFINITELY Banned (Jul 14, 2026) [DV9iqZU7WZ0].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Kino Casino_ Jer the Ren Faire Creeper is DEFINITELY Banned (Jul 14, 2026) [DV9iqZU7WZ0].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "-eS2tmifQk0",
@@ -143,7 +779,8 @@
       "segment_count": 834,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/WOAHH BUDDIES!! Styx Returns to YT, JF Gariepy, Nick Fuentes Milks It, & DarkSydePhil (Jul 14, 2026) [-eS2tmifQk0].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/WOAHH BUDDIES!! Styx Returns to YT, JF Gariepy, Nick Fuentes Milks It, & DarkSydePhil (Jul 14, 2026) [-eS2tmifQk0].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/WOAHH BUDDIES!! Styx Returns to YT, JF Gariepy, Nick Fuentes Milks It, & DarkSydePhil (Jul 14, 2026) [-eS2tmifQk0].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/WOAHH BUDDIES!! Styx Returns to YT, JF Gariepy, Nick Fuentes Milks It, & DarkSydePhil (Jul 14, 2026) [-eS2tmifQk0].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "tA2AM5s-t1w",
@@ -154,7 +791,8 @@
       "segment_count": 577,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/The Healing Begins_ Ethan Van Sciver & Shane Davis TRY To Repair Their Friendship! _ @FFScast [tA2AM5s-t1w].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/The Healing Begins_ Ethan Van Sciver & Shane Davis TRY To Repair Their Friendship! _ @FFScast [tA2AM5s-t1w].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/The Healing Begins_ Ethan Van Sciver & Shane Davis TRY To Repair Their Friendship! _ @FFScast [tA2AM5s-t1w].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/The Healing Begins_ Ethan Van Sciver & Shane Davis TRY To Repair Their Friendship! _ @FFScast [tA2AM5s-t1w].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "XJIna4xqsgQ",
@@ -165,7 +803,8 @@
       "segment_count": 1777,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/DRAW-MUH STREAM_ Nothin' Weird pt 1 [XJIna4xqsgQ].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/DRAW-MUH STREAM_ Nothin' Weird pt 1 [XJIna4xqsgQ].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/DRAW-MUH STREAM_ Nothin' Weird pt 1 [XJIna4xqsgQ].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/DRAW-MUH STREAM_ Nothin' Weird pt 1 [XJIna4xqsgQ].intelligence.txt",
+      "transcript_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/DRAW-MUH STREAM_ Nothin' Weird pt 1 [XJIna4xqsgQ].transcript.txt"
     },
     {
       "video_id": "2eNUCPB9710",
@@ -176,7 +815,8 @@
       "segment_count": 5629,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Watching Another Tomorrow's Teaching On Thirsty Thursday! [2eNUCPB9710].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Watching Another Tomorrow's Teaching On Thirsty Thursday! [2eNUCPB9710].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Watching Another Tomorrow's Teaching On Thirsty Thursday! [2eNUCPB9710].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Watching Another Tomorrow's Teaching On Thirsty Thursday! [2eNUCPB9710].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "BL9WKiYeI2A",
@@ -187,7 +827,8 @@
       "segment_count": 5263,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/HARD ART!  #31 [BL9WKiYeI2A].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/HARD ART!  #31 [BL9WKiYeI2A].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/HARD ART!  #31 [BL9WKiYeI2A].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/HARD ART!  #31 [BL9WKiYeI2A].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "K2MVOab_Jdc",
@@ -198,7 +839,8 @@
       "segment_count": 241,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-06/[Pilot_E02]_ The Intruder [K2MVOab_Jdc].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-06/[Pilot_E02]_ The Intruder [K2MVOab_Jdc].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-06/[Pilot_E02]_ The Intruder [K2MVOab_Jdc].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-06/[Pilot_E02]_ The Intruder [K2MVOab_Jdc].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "K3-kPLKmbpA",
@@ -209,7 +851,8 @@
       "segment_count": 237,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-06/Comic Book Pervert Andrew Farago Arrested for Videotaping Guests on Toilet! [K3-kPLKmbpA].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-06/Comic Book Pervert Andrew Farago Arrested for Videotaping Guests on Toilet! [K3-kPLKmbpA].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-06/Comic Book Pervert Andrew Farago Arrested for Videotaping Guests on Toilet! [K3-kPLKmbpA].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-06/Comic Book Pervert Andrew Farago Arrested for Videotaping Guests on Toilet! [K3-kPLKmbpA].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "74fkvX-4ghg",
@@ -220,7 +863,8 @@
       "segment_count": 685,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Terminally Online Weirdo TheQuartering Exposes His Own Coffee Lies, Grifts, and Scams [74fkvX-4ghg].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Terminally Online Weirdo TheQuartering Exposes His Own Coffee Lies, Grifts, and Scams [74fkvX-4ghg].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Terminally Online Weirdo TheQuartering Exposes His Own Coffee Lies, Grifts, and Scams [74fkvX-4ghg].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Terminally Online Weirdo TheQuartering Exposes His Own Coffee Lies, Grifts, and Scams [74fkvX-4ghg].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "lGq6KZyTDsQ",
@@ -231,7 +875,8 @@
       "segment_count": 166,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Kurt Metzger Roasting Jeremy Hambly TheQuartering on The Jimmy Dore Show 2025-2026 [lGq6KZyTDsQ].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Kurt Metzger Roasting Jeremy Hambly TheQuartering on The Jimmy Dore Show 2025-2026 [lGq6KZyTDsQ].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Kurt Metzger Roasting Jeremy Hambly TheQuartering on The Jimmy Dore Show 2025-2026 [lGq6KZyTDsQ].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Kurt Metzger Roasting Jeremy Hambly TheQuartering on The Jimmy Dore Show 2025-2026 [lGq6KZyTDsQ].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "UdtYoLg9Rgc",
@@ -242,7 +887,8 @@
       "segment_count": 586,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/_YOU SORTA EVOLVED YOURSELF INTO THIS_ _ @JJTWrites vs Liam Gray______ _ July 16th, 2026 [UdtYoLg9Rgc].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/_YOU SORTA EVOLVED YOURSELF INTO THIS_ _ @JJTWrites vs Liam Gray______ _ July 16th, 2026 [UdtYoLg9Rgc].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/_YOU SORTA EVOLVED YOURSELF INTO THIS_ _ @JJTWrites vs Liam Gray______ _ July 16th, 2026 [UdtYoLg9Rgc].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/_YOU SORTA EVOLVED YOURSELF INTO THIS_ _ @JJTWrites vs Liam Gray______ _ July 16th, 2026 [UdtYoLg9Rgc].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "fnfDfmsz28k",
@@ -253,7 +899,8 @@
       "segment_count": 365,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/TheQuartering REALLY Needs Your Support & How to Fart in Public (Jul 15, 2026) [fnfDfmsz28k].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/TheQuartering REALLY Needs Your Support & How to Fart in Public (Jul 15, 2026) [fnfDfmsz28k].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/TheQuartering REALLY Needs Your Support & How to Fart in Public (Jul 15, 2026) [fnfDfmsz28k].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/TheQuartering REALLY Needs Your Support & How to Fart in Public (Jul 15, 2026) [fnfDfmsz28k].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "Ih5iIyzDGmE",
@@ -264,7 +911,8 @@
       "segment_count": 1274,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Rekieta Law Argues Semantics re the Daily Mail Article - Lolsuit Incoming_ (Jul 2026) [Ih5iIyzDGmE].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Rekieta Law Argues Semantics re the Daily Mail Article - Lolsuit Incoming_ (Jul 2026) [Ih5iIyzDGmE].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Rekieta Law Argues Semantics re the Daily Mail Article - Lolsuit Incoming_ (Jul 2026) [Ih5iIyzDGmE].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Rekieta Law Argues Semantics re the Daily Mail Article - Lolsuit Incoming_ (Jul 2026) [Ih5iIyzDGmE].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "_imZdqQPbcA",
@@ -275,7 +923,8 @@
       "segment_count": 20,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Nerdrotic_ Chrissie Mayr Was Not Cancelled, Chrissie Was Let Go (Jul 15, 2026) [_imZdqQPbcA].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Nerdrotic_ Chrissie Mayr Was Not Cancelled, Chrissie Was Let Go (Jul 15, 2026) [_imZdqQPbcA].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Nerdrotic_ Chrissie Mayr Was Not Cancelled, Chrissie Was Let Go (Jul 15, 2026) [_imZdqQPbcA].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Nerdrotic_ Chrissie Mayr Was Not Cancelled, Chrissie Was Let Go (Jul 15, 2026) [_imZdqQPbcA].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "tBR4FC4ISYg",
@@ -286,7 +935,8 @@
       "segment_count": 404,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Rekieta Law Cant Figure Out Why Nobody Likes Him Anymore - Rewriting History w_ Potentially Criminal [tBR4FC4ISYg].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Rekieta Law Cant Figure Out Why Nobody Likes Him Anymore - Rewriting History w_ Potentially Criminal [tBR4FC4ISYg].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Rekieta Law Cant Figure Out Why Nobody Likes Him Anymore - Rewriting History w_ Potentially Criminal [tBR4FC4ISYg].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Rekieta Law Cant Figure Out Why Nobody Likes Him Anymore - Rewriting History w_ Potentially Criminal [tBR4FC4ISYg].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "w0zM4eSzv8U",
@@ -297,7 +947,8 @@
       "segment_count": 292,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/TONIGHT ON KINO CASINO!! TheQuartering Ren Fair Hoax & FNT Freak Out! Styx! Angry Joe! DBDR & More!! [w0zM4eSzv8U].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/TONIGHT ON KINO CASINO!! TheQuartering Ren Fair Hoax & FNT Freak Out! Styx! Angry Joe! DBDR & More!! [w0zM4eSzv8U].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/TONIGHT ON KINO CASINO!! TheQuartering Ren Fair Hoax & FNT Freak Out! Styx! Angry Joe! DBDR & More!! [w0zM4eSzv8U].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/TONIGHT ON KINO CASINO!! TheQuartering Ren Fair Hoax & FNT Freak Out! Styx! Angry Joe! DBDR & More!! [w0zM4eSzv8U].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "KkUT-qE1Pm8",
@@ -308,7 +959,8 @@
       "segment_count": 456,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Meme Copium_ The 50 Year Nickayla Rekieta Butthurt HRO Against Aaron Imholte (Jul 13, 2026) [KkUT-qE1Pm8].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Meme Copium_ The 50 Year Nickayla Rekieta Butthurt HRO Against Aaron Imholte (Jul 13, 2026) [KkUT-qE1Pm8].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Meme Copium_ The 50 Year Nickayla Rekieta Butthurt HRO Against Aaron Imholte (Jul 13, 2026) [KkUT-qE1Pm8].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Meme Copium_ The 50 Year Nickayla Rekieta Butthurt HRO Against Aaron Imholte (Jul 13, 2026) [KkUT-qE1Pm8].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "rXQ0RozGVWg",
@@ -319,7 +971,8 @@
       "segment_count": 4264,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Detractor Kings Is DEAD! Long Live The Geek Getaway! [rXQ0RozGVWg].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Detractor Kings Is DEAD! Long Live The Geek Getaway! [rXQ0RozGVWg].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Detractor Kings Is DEAD! Long Live The Geek Getaway! [rXQ0RozGVWg].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Detractor Kings Is DEAD! Long Live The Geek Getaway! [rXQ0RozGVWg].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "yc3EwTVPVAY",
@@ -330,7 +983,8 @@
       "segment_count": 297,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Channel Update And New Stream Schedule! [yc3EwTVPVAY].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Channel Update And New Stream Schedule! [yc3EwTVPVAY].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Channel Update And New Stream Schedule! [yc3EwTVPVAY].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Channel Update And New Stream Schedule! [yc3EwTVPVAY].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "nm_wlSfgb5o",
@@ -341,7 +995,8 @@
       "segment_count": 5617,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Checking In On The LATE Campaigns Of EVS! - OPEN PANEL MADHOUSE! [nm_wlSfgb5o].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Checking In On The LATE Campaigns Of EVS! - OPEN PANEL MADHOUSE! [nm_wlSfgb5o].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Checking In On The LATE Campaigns Of EVS! - OPEN PANEL MADHOUSE! [nm_wlSfgb5o].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Checking In On The LATE Campaigns Of EVS! - OPEN PANEL MADHOUSE! [nm_wlSfgb5o].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "U18rRedPosw",
@@ -352,7 +1007,8 @@
       "segment_count": 2333,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-06/GTA 6 Is Already Causing Controversies! - Gabbing With Geeks [U18rRedPosw].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-06/GTA 6 Is Already Causing Controversies! - Gabbing With Geeks [U18rRedPosw].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-06/GTA 6 Is Already Causing Controversies! - Gabbing With Geeks [U18rRedPosw].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-06/GTA 6 Is Already Causing Controversies! - Gabbing With Geeks [U18rRedPosw].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "4sQhgipvxyU",
@@ -363,7 +1019,8 @@
       "segment_count": 2855,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/I said Columbia, but Ralph just went to more Messico #931 [4sQhgipvxyU].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/I said Columbia, but Ralph just went to more Messico #931 [4sQhgipvxyU].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/I said Columbia, but Ralph just went to more Messico #931 [4sQhgipvxyU].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/I said Columbia, but Ralph just went to more Messico #931 [4sQhgipvxyU].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "cIjp7l5KBfA",
@@ -374,7 +1031,8 @@
       "segment_count": 118,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Why the World Sport is different [cIjp7l5KBfA].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Why the World Sport is different [cIjp7l5KBfA].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Why the World Sport is different [cIjp7l5KBfA].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Why the World Sport is different [cIjp7l5KBfA].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "MmvMoleX9Ls",
@@ -385,7 +1043,8 @@
       "segment_count": 6034,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Gabbing With Ga......You Know [MmvMoleX9Ls].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Gabbing With Ga......You Know [MmvMoleX9Ls].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Gabbing With Ga......You Know [MmvMoleX9Ls].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Gabbing With Ga......You Know [MmvMoleX9Ls].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "3up8iIaCs_E",
@@ -396,7 +1055,8 @@
       "segment_count": 391,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Absolute Batman Scam Mark Brooks Exposes How Retailers Screw Artists! [3up8iIaCs_E].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Absolute Batman Scam Mark Brooks Exposes How Retailers Screw Artists! [3up8iIaCs_E].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Absolute Batman Scam Mark Brooks Exposes How Retailers Screw Artists! [3up8iIaCs_E].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Absolute Batman Scam Mark Brooks Exposes How Retailers Screw Artists! [3up8iIaCs_E].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "pltu7sa30D8",
@@ -407,7 +1067,8 @@
       "segment_count": 2081,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Scarlett lives her best life #932 [pltu7sa30D8].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Scarlett lives her best life #932 [pltu7sa30D8].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Scarlett lives her best life #932 [pltu7sa30D8].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Scarlett lives her best life #932 [pltu7sa30D8].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "Sd_qKoB4Kjk",
@@ -418,7 +1079,8 @@
       "segment_count": 1384,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Under New Management [Sd_qKoB4Kjk].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Under New Management [Sd_qKoB4Kjk].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Under New Management [Sd_qKoB4Kjk].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Under New Management [Sd_qKoB4Kjk].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "mDEdnIK_uuc",
@@ -429,7 +1091,8 @@
       "segment_count": 39,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/More - tunes with q [mDEdnIK_uuc].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/More - tunes with q [mDEdnIK_uuc].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/More - tunes with q [mDEdnIK_uuc].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/More - tunes with q [mDEdnIK_uuc].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "k3BD76GAF6I",
@@ -440,7 +1103,8 @@
       "segment_count": 38,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Nice and Easy - tunes with q [k3BD76GAF6I].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Nice and Easy - tunes with q [k3BD76GAF6I].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Nice and Easy - tunes with q [k3BD76GAF6I].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Nice and Easy - tunes with q [k3BD76GAF6I].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "ims2nZAnn-s",
@@ -451,7 +1115,8 @@
       "segment_count": 3779,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/F - IT We Are Soooooo Back (AGANE) [ims2nZAnn-s].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/F - IT We Are Soooooo Back (AGANE) [ims2nZAnn-s].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/F - IT We Are Soooooo Back (AGANE) [ims2nZAnn-s].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/F - IT We Are Soooooo Back (AGANE) [ims2nZAnn-s].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "STNCdSrYxEc",
@@ -462,7 +1127,8 @@
       "segment_count": 231,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Are People ACTUALLY Tired of Wokeness [STNCdSrYxEc].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Are People ACTUALLY Tired of Wokeness [STNCdSrYxEc].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Are People ACTUALLY Tired of Wokeness [STNCdSrYxEc].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Are People ACTUALLY Tired of Wokeness [STNCdSrYxEc].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "T80sgrQa_kA",
@@ -473,7 +1139,8 @@
       "segment_count": 3165,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Is Leem throwing in the towel! #934 [T80sgrQa_kA].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Is Leem throwing in the towel! #934 [T80sgrQa_kA].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Is Leem throwing in the towel! #934 [T80sgrQa_kA].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Is Leem throwing in the towel! #934 [T80sgrQa_kA].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "8_9rhLQ1_cU",
@@ -484,7 +1151,8 @@
       "segment_count": 7554,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/The Ark Of Leem, LDA-King Stream [8_9rhLQ1_cU].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/The Ark Of Leem, LDA-King Stream [8_9rhLQ1_cU].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/The Ark Of Leem, LDA-King Stream [8_9rhLQ1_cU].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/The Ark Of Leem, LDA-King Stream [8_9rhLQ1_cU].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "3q0Lk5Vap5U",
@@ -495,7 +1163,8 @@
       "segment_count": 3934,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/It's All Fine - Friday Special #935 [3q0Lk5Vap5U].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/It's All Fine - Friday Special #935 [3q0Lk5Vap5U].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/It's All Fine - Friday Special #935 [3q0Lk5Vap5U].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/It's All Fine - Friday Special #935 [3q0Lk5Vap5U].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "yNnnMg6brR0",
@@ -506,7 +1175,8 @@
       "segment_count": 35,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/It#U2019s Rippaverse Day! [yNnnMg6brR0].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/It#U2019s Rippaverse Day! [yNnnMg6brR0].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/It#U2019s Rippaverse Day! [yNnnMg6brR0].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/It#U2019s Rippaverse Day! [yNnnMg6brR0].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "p4tTJHqHSRE",
@@ -517,7 +1187,8 @@
       "segment_count": 347,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Netflix NEEDS God! They Want Christian Viewers NOW! [p4tTJHqHSRE].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Netflix NEEDS God! They Want Christian Viewers NOW! [p4tTJHqHSRE].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Netflix NEEDS God! They Want Christian Viewers NOW! [p4tTJHqHSRE].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Netflix NEEDS God! They Want Christian Viewers NOW! [p4tTJHqHSRE].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "YUpeiVaoNa0",
@@ -528,7 +1199,8 @@
       "segment_count": 371,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/EVEN A STOPPED CLOCK IS CORRECT TWICE A DAY- Deniz Camp ACCURATELY Describes Right-Wing Comics Sites [YUpeiVaoNa0].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/EVEN A STOPPED CLOCK IS CORRECT TWICE A DAY- Deniz Camp ACCURATELY Describes Right-Wing Comics Sites [YUpeiVaoNa0].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/EVEN A STOPPED CLOCK IS CORRECT TWICE A DAY- Deniz Camp ACCURATELY Describes Right-Wing Comics Sites [YUpeiVaoNa0].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/EVEN A STOPPED CLOCK IS CORRECT TWICE A DAY- Deniz Camp ACCURATELY Describes Right-Wing Comics Sites [YUpeiVaoNa0].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "xG3Jg1rJ6nA",
@@ -539,7 +1211,8 @@
       "segment_count": 9,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Vito Disparaging EVS (TBPITU EPISODE #71) #comicsgate #comics #art [xG3Jg1rJ6nA].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Vito Disparaging EVS (TBPITU EPISODE #71) #comicsgate #comics #art [xG3Jg1rJ6nA].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Vito Disparaging EVS (TBPITU EPISODE #71) #comicsgate #comics #art [xG3Jg1rJ6nA].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Vito Disparaging EVS (TBPITU EPISODE #71) #comicsgate #comics #art [xG3Jg1rJ6nA].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "jVMsgBTgicI",
@@ -550,7 +1223,8 @@
       "segment_count": 3208,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Steel Toe gets hit with his very own HRO #936 [jVMsgBTgicI].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Steel Toe gets hit with his very own HRO #936 [jVMsgBTgicI].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Steel Toe gets hit with his very own HRO #936 [jVMsgBTgicI].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Steel Toe gets hit with his very own HRO #936 [jVMsgBTgicI].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "_9MjvkgkY9c",
@@ -561,7 +1235,8 @@
       "segment_count": 641,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/TheQuartering#U2019s K Cup Crisis PR & Crying Victim After Starting War with Kino Casino (Jul 14, 2026) [_9MjvkgkY9c].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/TheQuartering#U2019s K Cup Crisis PR & Crying Victim After Starting War with Kino Casino (Jul 14, 2026) [_9MjvkgkY9c].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/TheQuartering#U2019s K Cup Crisis PR & Crying Victim After Starting War with Kino Casino (Jul 14, 2026) [_9MjvkgkY9c].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/TheQuartering#U2019s K Cup Crisis PR & Crying Victim After Starting War with Kino Casino (Jul 14, 2026) [_9MjvkgkY9c].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "IiuHUxargVk",
@@ -572,7 +1247,8 @@
       "segment_count": 204,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Daddy Daughter Day (CG lies to you and why I am right) [IiuHUxargVk].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Daddy Daughter Day (CG lies to you and why I am right) [IiuHUxargVk].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Daddy Daughter Day (CG lies to you and why I am right) [IiuHUxargVk].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Daddy Daughter Day (CG lies to you and why I am right) [IiuHUxargVk].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "ZgbvZRJnCIk",
@@ -583,7 +1259,8 @@
       "segment_count": 5650,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Gabbing With Ga......You know [ZgbvZRJnCIk].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Gabbing With Ga......You know [ZgbvZRJnCIk].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Gabbing With Ga......You know [ZgbvZRJnCIk].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Gabbing With Ga......You know [ZgbvZRJnCIk].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "Vj5FINXThF4",
@@ -594,7 +1271,8 @@
       "segment_count": 216,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/TheQuartering Friday Night Tights is a Huge Pword for Firing Chrissie Mayr (Jul 13, 2026) [Vj5FINXThF4].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/TheQuartering Friday Night Tights is a Huge Pword for Firing Chrissie Mayr (Jul 13, 2026) [Vj5FINXThF4].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/TheQuartering Friday Night Tights is a Huge Pword for Firing Chrissie Mayr (Jul 13, 2026) [Vj5FINXThF4].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/TheQuartering Friday Night Tights is a Huge Pword for Firing Chrissie Mayr (Jul 13, 2026) [Vj5FINXThF4].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "7dsbRrEAJUo",
@@ -605,7 +1283,8 @@
       "segment_count": 16,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/DDayCobra Hopes Chrissie Mayr Makes a Million Dollars (Jul 13, 2026) [7dsbRrEAJUo].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/DDayCobra Hopes Chrissie Mayr Makes a Million Dollars (Jul 13, 2026) [7dsbRrEAJUo].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/DDayCobra Hopes Chrissie Mayr Makes a Million Dollars (Jul 13, 2026) [7dsbRrEAJUo].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/DDayCobra Hopes Chrissie Mayr Makes a Million Dollars (Jul 13, 2026) [7dsbRrEAJUo].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "Zmx83V8vKSU",
@@ -616,7 +1295,8 @@
       "segment_count": 224,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/MATI TheQuartering#U2019s Dropship Brand Dropship (Jul 10, 2026) [Zmx83V8vKSU].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/MATI TheQuartering#U2019s Dropship Brand Dropship (Jul 10, 2026) [Zmx83V8vKSU].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/MATI TheQuartering#U2019s Dropship Brand Dropship (Jul 10, 2026) [Zmx83V8vKSU].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/MATI TheQuartering#U2019s Dropship Brand Dropship (Jul 10, 2026) [Zmx83V8vKSU].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "iZU8Ozto3VQ",
@@ -627,7 +1307,8 @@
       "segment_count": 279,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/MATI Metokur & Cog Bend Over for Ethan Ralph (Jul 10, 2026) [iZU8Ozto3VQ].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/MATI Metokur & Cog Bend Over for Ethan Ralph (Jul 10, 2026) [iZU8Ozto3VQ].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/MATI Metokur & Cog Bend Over for Ethan Ralph (Jul 10, 2026) [iZU8Ozto3VQ].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/MATI Metokur & Cog Bend Over for Ethan Ralph (Jul 10, 2026) [iZU8Ozto3VQ].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "dcgJdp8BRKs",
@@ -638,7 +1319,8 @@
       "segment_count": 318,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Professional Streamer TheQuartering - Gooners Gonna Goon (Jul 14, 2026) [dcgJdp8BRKs].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Professional Streamer TheQuartering - Gooners Gonna Goon (Jul 14, 2026) [dcgJdp8BRKs].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Professional Streamer TheQuartering - Gooners Gonna Goon (Jul 14, 2026) [dcgJdp8BRKs].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Professional Streamer TheQuartering - Gooners Gonna Goon (Jul 14, 2026) [dcgJdp8BRKs].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "SlodiZOj8bE",
@@ -649,7 +1331,8 @@
       "segment_count": 2820,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-06/FROG TONY'S FREEDOM FIGHTING FORCE FBI Investigation DRAMA Escalates [SlodiZOj8bE].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-06/FROG TONY'S FREEDOM FIGHTING FORCE FBI Investigation DRAMA Escalates [SlodiZOj8bE].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-06/FROG TONY'S FREEDOM FIGHTING FORCE FBI Investigation DRAMA Escalates [SlodiZOj8bE].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-06/FROG TONY'S FREEDOM FIGHTING FORCE FBI Investigation DRAMA Escalates [SlodiZOj8bE].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "MBKTh4fSITU",
@@ -660,7 +1343,8 @@
       "segment_count": 3158,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-06/MINISTRY OF UNGENTLEMANLY TWEETS EXPOSES COMMI3 MARK - OH NO! [MBKTh4fSITU].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-06/MINISTRY OF UNGENTLEMANLY TWEETS EXPOSES COMMI3 MARK - OH NO! [MBKTh4fSITU].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-06/MINISTRY OF UNGENTLEMANLY TWEETS EXPOSES COMMI3 MARK - OH NO! [MBKTh4fSITU].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-06/MINISTRY OF UNGENTLEMANLY TWEETS EXPOSES COMMI3 MARK - OH NO! [MBKTh4fSITU].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "F1ouqRPhAdM",
@@ -671,7 +1355,8 @@
       "segment_count": 2841,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-06/JCW Lunacy #88 Watch Party! [F1ouqRPhAdM].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-06/JCW Lunacy #88 Watch Party! [F1ouqRPhAdM].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-06/JCW Lunacy #88 Watch Party! [F1ouqRPhAdM].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-06/JCW Lunacy #88 Watch Party! [F1ouqRPhAdM].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "qLcrzaJJKiQ",
@@ -682,7 +1367,8 @@
       "segment_count": 4620,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-06/Supergirl BOMBED! - Comicsgate Suburbs [qLcrzaJJKiQ].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-06/Supergirl BOMBED! - Comicsgate Suburbs [qLcrzaJJKiQ].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-06/Supergirl BOMBED! - Comicsgate Suburbs [qLcrzaJJKiQ].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-06/Supergirl BOMBED! - Comicsgate Suburbs [qLcrzaJJKiQ].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "6GIxuFOICAI",
@@ -693,7 +1379,8 @@
       "segment_count": 5747,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-06/Catching Up With The Rippaverse! - Detractor Kings [6GIxuFOICAI].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-06/Catching Up With The Rippaverse! - Detractor Kings [6GIxuFOICAI].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-06/Catching Up With The Rippaverse! - Detractor Kings [6GIxuFOICAI].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-06/Catching Up With The Rippaverse! - Detractor Kings [6GIxuFOICAI].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "FrQfU1Y84Nk",
@@ -704,7 +1391,8 @@
       "segment_count": 2362,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-06/DRAW-MUH STREAM! REIGNBOW THE BRUTE Death of Papa Smerc page 3 pt3 [FrQfU1Y84Nk].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-06/DRAW-MUH STREAM! REIGNBOW THE BRUTE Death of Papa Smerc page 3 pt3 [FrQfU1Y84Nk].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-06/DRAW-MUH STREAM! REIGNBOW THE BRUTE Death of Papa Smerc page 3 pt3 [FrQfU1Y84Nk].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-06/DRAW-MUH STREAM! REIGNBOW THE BRUTE Death of Papa Smerc page 3 pt3 [FrQfU1Y84Nk].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "LS_14uOaG2E",
@@ -715,7 +1403,8 @@
       "segment_count": 5268,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES! [LS_14uOaG2E].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES! [LS_14uOaG2E].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES! [LS_14uOaG2E].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/#COMICSGATE KINGS! ComicsGate Characters vs. VAMPIRES! [LS_14uOaG2E].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "3VGvnr2bjKw",
@@ -726,7 +1415,8 @@
       "segment_count": 565,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/3VGvnr2bjKw.json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/3VGvnr2bjKw.intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/3VGvnr2bjKw.intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/3VGvnr2bjKw.intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "zkW4zLSQ7eQ",
@@ -737,7 +1427,8 @@
       "segment_count": 6784,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto! [zkW4zLSQ7eQ].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto! [zkW4zLSQ7eQ].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto! [zkW4zLSQ7eQ].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/You hit the JACKPOT on SPOOKY LINKS! Time for TRASHCAST # 273!!! Sturgis goes to PokePark Kanto! [zkW4zLSQ7eQ].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "9NJQwnK7qJg",
@@ -748,7 +1439,8 @@
       "segment_count": 118,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/TheQuartering#U2019s Mobility Scooter w Tuesday Night#U2019s Main Event (Jul 7, 2026) [9NJQwnK7qJg].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/TheQuartering#U2019s Mobility Scooter w Tuesday Night#U2019s Main Event (Jul 7, 2026) [9NJQwnK7qJg].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/TheQuartering#U2019s Mobility Scooter w Tuesday Night#U2019s Main Event (Jul 7, 2026) [9NJQwnK7qJg].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/TheQuartering#U2019s Mobility Scooter w Tuesday Night#U2019s Main Event (Jul 7, 2026) [9NJQwnK7qJg].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "AnfyGS7ozeM",
@@ -759,7 +1451,8 @@
       "segment_count": 855,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Kino Casino JF Gariepy#U2019s Love Quest Continues & an Obsession Review (Jul 8, 2026) [AnfyGS7ozeM].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Kino Casino JF Gariepy#U2019s Love Quest Continues & an Obsession Review (Jul 8, 2026) [AnfyGS7ozeM].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Kino Casino JF Gariepy#U2019s Love Quest Continues & an Obsession Review (Jul 8, 2026) [AnfyGS7ozeM].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Kino Casino JF Gariepy#U2019s Love Quest Continues & an Obsession Review (Jul 8, 2026) [AnfyGS7ozeM].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "K90vNVrRj38",
@@ -770,7 +1463,8 @@
       "segment_count": 82,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Rekieta Law Rumble Was a Mistake & Kick Has Potential (if he can get it working) Jul 11, 2026 [K90vNVrRj38].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Rekieta Law Rumble Was a Mistake & Kick Has Potential (if he can get it working) Jul 11, 2026 [K90vNVrRj38].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Rekieta Law Rumble Was a Mistake & Kick Has Potential (if he can get it working) Jul 11, 2026 [K90vNVrRj38].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Rekieta Law Rumble Was a Mistake & Kick Has Potential (if he can get it working) Jul 11, 2026 [K90vNVrRj38].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "haKM6g11LrM",
@@ -781,7 +1475,8 @@
       "segment_count": 220,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Ethan Van Sciver Learns The Truth of DRONES! The Khola King Fear [haKM6g11LrM].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Ethan Van Sciver Learns The Truth of DRONES! The Khola King Fear [haKM6g11LrM].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Ethan Van Sciver Learns The Truth of DRONES! The Khola King Fear [haKM6g11LrM].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Ethan Van Sciver Learns The Truth of DRONES! The Khola King Fear [haKM6g11LrM].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "Uy8eHEmKNWY",
@@ -792,7 +1487,8 @@
       "segment_count": 135,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Kino Casino Nerdrotic Fires Chrissie Mayr from Friday Night Tights (Jul 10, 2026) [Uy8eHEmKNWY].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Kino Casino Nerdrotic Fires Chrissie Mayr from Friday Night Tights (Jul 10, 2026) [Uy8eHEmKNWY].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Kino Casino Nerdrotic Fires Chrissie Mayr from Friday Night Tights (Jul 10, 2026) [Uy8eHEmKNWY].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Kino Casino Nerdrotic Fires Chrissie Mayr from Friday Night Tights (Jul 10, 2026) [Uy8eHEmKNWY].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "YJ3EPWpShMU",
@@ -803,7 +1499,8 @@
       "segment_count": 193,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Rekieta Law Aaron Imholte#U2019s HRO Won#U2019t Last Forever & the Daily Mail Article (Jul 10, 2026) [YJ3EPWpShMU].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Rekieta Law Aaron Imholte#U2019s HRO Won#U2019t Last Forever & the Daily Mail Article (Jul 10, 2026) [YJ3EPWpShMU].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Rekieta Law Aaron Imholte#U2019s HRO Won#U2019t Last Forever & the Daily Mail Article (Jul 10, 2026) [YJ3EPWpShMU].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Rekieta Law Aaron Imholte#U2019s HRO Won#U2019t Last Forever & the Daily Mail Article (Jul 10, 2026) [YJ3EPWpShMU].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "9OJNBEVnTBk",
@@ -814,7 +1511,8 @@
       "segment_count": 2621,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/JCW Lunacy #90 Watch Party [9OJNBEVnTBk].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/JCW Lunacy #90 Watch Party [9OJNBEVnTBk].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/JCW Lunacy #90 Watch Party [9OJNBEVnTBk].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/JCW Lunacy #90 Watch Party [9OJNBEVnTBk].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "66FqtP0Wves",
@@ -825,7 +1523,8 @@
       "segment_count": 5568,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on WOKE! LANTERNS Spoilers! [66FqtP0Wves].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on WOKE! LANTERNS Spoilers! [66FqtP0Wves].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on WOKE! LANTERNS Spoilers! [66FqtP0Wves].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/It's OFFICIAL! TRASHCAST #272 FIRES CHRISSIE MAYR! ERICHETTE JULY on WOKE! LANTERNS Spoilers! [66FqtP0Wves].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "fSf1nYxE34A",
@@ -836,7 +1535,8 @@
       "segment_count": 26,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Friday Night Tights Wishes Chrissie Mayr the Best (Jul 10, 2026) [fSf1nYxE34A].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Friday Night Tights Wishes Chrissie Mayr the Best (Jul 10, 2026) [fSf1nYxE34A].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Friday Night Tights Wishes Chrissie Mayr the Best (Jul 10, 2026) [fSf1nYxE34A].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Friday Night Tights Wishes Chrissie Mayr the Best (Jul 10, 2026) [fSf1nYxE34A].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "LdLy2G5TM4c",
@@ -847,7 +1547,8 @@
       "segment_count": 3158,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/ERIC JULY, ISOM & RIPPAVERSE's MURDER MYSTERY ORIGIN STORY - COMICSGATE DRAMA RUSSIAN TROLL FACTORY [LdLy2G5TM4c].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "R2AEOMp6S6M",
@@ -858,7 +1559,8 @@
       "segment_count": 472,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Jer the Ren Fair Creeper Returns This Weekend! & a Coffee Brand Cope Session w TheQuartering [R2AEOMp6S6M].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Jer the Ren Fair Creeper Returns This Weekend! & a Coffee Brand Cope Session w TheQuartering [R2AEOMp6S6M].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Jer the Ren Fair Creeper Returns This Weekend! & a Coffee Brand Cope Session w TheQuartering [R2AEOMp6S6M].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Jer the Ren Fair Creeper Returns This Weekend! & a Coffee Brand Cope Session w TheQuartering [R2AEOMp6S6M].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "nfZd95BuM5U",
@@ -869,7 +1571,8 @@
       "segment_count": 404,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/TONIGHT ON KINO CASINO!! TheQuartering CBC Dropship Confirmed! Total DSP Victory! Angry Joe & More!! [nfZd95BuM5U].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/TONIGHT ON KINO CASINO!! TheQuartering CBC Dropship Confirmed! Total DSP Victory! Angry Joe & More!! [nfZd95BuM5U].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/TONIGHT ON KINO CASINO!! TheQuartering CBC Dropship Confirmed! Total DSP Victory! Angry Joe & More!! [nfZd95BuM5U].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/TONIGHT ON KINO CASINO!! TheQuartering CBC Dropship Confirmed! Total DSP Victory! Angry Joe & More!! [nfZd95BuM5U].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "fq2D80GqXqQ",
@@ -880,7 +1583,8 @@
       "segment_count": 538,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Chrissie Mayr Officially FIRED from FRIDAY NIGHT TIGHTS j.A.C.k Show July 9th 2026 [fq2D80GqXqQ].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Chrissie Mayr Officially FIRED from FRIDAY NIGHT TIGHTS j.A.C.k Show July 9th 2026 [fq2D80GqXqQ].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Chrissie Mayr Officially FIRED from FRIDAY NIGHT TIGHTS j.A.C.k Show July 9th 2026 [fq2D80GqXqQ].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Chrissie Mayr Officially FIRED from FRIDAY NIGHT TIGHTS j.A.C.k Show July 9th 2026 [fq2D80GqXqQ].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "O5BcX4ir3-0",
@@ -891,7 +1595,8 @@
       "segment_count": 837,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/The Tribunal of Liam Gray DROPBOX DRAMA [O5BcX4ir3-0].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/The Tribunal of Liam Gray DROPBOX DRAMA [O5BcX4ir3-0].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/The Tribunal of Liam Gray DROPBOX DRAMA [O5BcX4ir3-0].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/The Tribunal of Liam Gray DROPBOX DRAMA [O5BcX4ir3-0].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "xoq_kc-M_I8",
@@ -902,7 +1607,8 @@
       "segment_count": 150,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/MATI The Rekieta Segment - Nontent Skelly#U2019s Daily Mail Article (Jul 10, 2026) [xoq_kc-M_I8].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/MATI The Rekieta Segment - Nontent Skelly#U2019s Daily Mail Article (Jul 10, 2026) [xoq_kc-M_I8].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/MATI The Rekieta Segment - Nontent Skelly#U2019s Daily Mail Article (Jul 10, 2026) [xoq_kc-M_I8].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/MATI The Rekieta Segment - Nontent Skelly#U2019s Daily Mail Article (Jul 10, 2026) [xoq_kc-M_I8].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "HTrcwhelzCU",
@@ -913,7 +1619,8 @@
       "segment_count": 434,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Chrissie Mayr Officially Fired from Friday Night Tights (Jul 9, 2026) [HTrcwhelzCU].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Chrissie Mayr Officially Fired from Friday Night Tights (Jul 9, 2026) [HTrcwhelzCU].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Chrissie Mayr Officially Fired from Friday Night Tights (Jul 9, 2026) [HTrcwhelzCU].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Chrissie Mayr Officially Fired from Friday Night Tights (Jul 9, 2026) [HTrcwhelzCU].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "VBJwPPZ1LeY",
@@ -924,7 +1631,8 @@
       "segment_count": 10483,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Sturgis Went To Japan On Thirsty Thursday! [VBJwPPZ1LeY].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Sturgis Went To Japan On Thirsty Thursday! [VBJwPPZ1LeY].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Sturgis Went To Japan On Thirsty Thursday! [VBJwPPZ1LeY].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Sturgis Went To Japan On Thirsty Thursday! [VBJwPPZ1LeY].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "lCn5jxcykGo",
@@ -935,7 +1643,8 @@
       "segment_count": 113,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/TheQuartering is Going to the Ren Fair (Jul 9, 2026) [lCn5jxcykGo].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/TheQuartering is Going to the Ren Fair (Jul 9, 2026) [lCn5jxcykGo].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/TheQuartering is Going to the Ren Fair (Jul 9, 2026) [lCn5jxcykGo].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/TheQuartering is Going to the Ren Fair (Jul 9, 2026) [lCn5jxcykGo].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "jMj649E220I",
@@ -946,7 +1655,8 @@
       "segment_count": 240,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Kino Casino Brad Cool#U2019s Offer to TheQuartering & Jer#U2019s DEFINITELY Banned from the Ren Fair Jul 2026 [jMj649E220I].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Kino Casino Brad Cool#U2019s Offer to TheQuartering & Jer#U2019s DEFINITELY Banned from the Ren Fair Jul 2026 [jMj649E220I].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Kino Casino Brad Cool#U2019s Offer to TheQuartering & Jer#U2019s DEFINITELY Banned from the Ren Fair Jul 2026 [jMj649E220I].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Kino Casino Brad Cool#U2019s Offer to TheQuartering & Jer#U2019s DEFINITELY Banned from the Ren Fair Jul 2026 [jMj649E220I].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "atuAmOfu6no",
@@ -957,7 +1667,8 @@
       "segment_count": 83,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/SHOUT OUT TO ALPHACORE #3!! Rippaverse @Jon_Malin [atuAmOfu6no].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/SHOUT OUT TO ALPHACORE #3!! Rippaverse @Jon_Malin [atuAmOfu6no].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/SHOUT OUT TO ALPHACORE #3!! Rippaverse @Jon_Malin [atuAmOfu6no].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/SHOUT OUT TO ALPHACORE #3!! Rippaverse @Jon_Malin [atuAmOfu6no].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "lUXAeP8oPgw",
@@ -968,7 +1679,8 @@
       "segment_count": 2466,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Kino Casino TheQuartering Vlogs Ep. 1 (Jul 8, 2026) [lUXAeP8oPgw].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Kino Casino TheQuartering Vlogs Ep. 1 (Jul 8, 2026) [lUXAeP8oPgw].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Kino Casino TheQuartering Vlogs Ep. 1 (Jul 8, 2026) [lUXAeP8oPgw].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Kino Casino TheQuartering Vlogs Ep. 1 (Jul 8, 2026) [lUXAeP8oPgw].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "ErvISz34rtE",
@@ -979,7 +1691,8 @@
       "segment_count": 441,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Coffee Brand Coffee#U2019s Wednesday Meeting w Jeremy Hambly TheQuartering (Jul 8, 2026) [ErvISz34rtE].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Coffee Brand Coffee#U2019s Wednesday Meeting w Jeremy Hambly TheQuartering (Jul 8, 2026) [ErvISz34rtE].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Coffee Brand Coffee#U2019s Wednesday Meeting w Jeremy Hambly TheQuartering (Jul 8, 2026) [ErvISz34rtE].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Coffee Brand Coffee#U2019s Wednesday Meeting w Jeremy Hambly TheQuartering (Jul 8, 2026) [ErvISz34rtE].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "2m31Eip6Cmg",
@@ -990,7 +1703,8 @@
       "segment_count": 1111,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/CG AFTER DARK #35 [2m31Eip6Cmg].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/CG AFTER DARK #35 [2m31Eip6Cmg].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/CG AFTER DARK #35 [2m31Eip6Cmg].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/CG AFTER DARK #35 [2m31Eip6Cmg].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "V1nqAzwILiM",
@@ -1001,7 +1715,8 @@
       "segment_count": 280,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! TRASHCAST [V1nqAzwILiM].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! TRASHCAST [V1nqAzwILiM].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! TRASHCAST [V1nqAzwILiM].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Why Vito & Liam Gray are BOTH lolcows! EVS laughs over FENCEGATE! TRASHCAST [V1nqAzwILiM].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "7LMz5W0-mLs",
@@ -1012,7 +1727,8 @@
       "segment_count": 6756,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Finbarr STOMPS A Dwarf! - OPEN PANEL MADHOUSE!!!! [7LMz5W0-mLs].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Finbarr STOMPS A Dwarf! - OPEN PANEL MADHOUSE!!!! [7LMz5W0-mLs].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Finbarr STOMPS A Dwarf! - OPEN PANEL MADHOUSE!!!! [7LMz5W0-mLs].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Finbarr STOMPS A Dwarf! - OPEN PANEL MADHOUSE!!!! [7LMz5W0-mLs].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "RxZ_OdBN2f0",
@@ -1023,7 +1739,8 @@
       "segment_count": 6732,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Katydid Caught LYING AGAIN! - Detractor Kings [RxZ_OdBN2f0].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Katydid Caught LYING AGAIN! - Detractor Kings [RxZ_OdBN2f0].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Katydid Caught LYING AGAIN! - Detractor Kings [RxZ_OdBN2f0].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Katydid Caught LYING AGAIN! - Detractor Kings [RxZ_OdBN2f0].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "Zd9PVsLAD5c",
@@ -1034,7 +1751,8 @@
       "segment_count": 5302,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/COMICSGATE KINGS Let's draw GOTHAM characters! [Zd9PVsLAD5c].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/COMICSGATE KINGS Let's draw GOTHAM characters! [Zd9PVsLAD5c].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/COMICSGATE KINGS Let's draw GOTHAM characters! [Zd9PVsLAD5c].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/COMICSGATE KINGS Let's draw GOTHAM characters! [Zd9PVsLAD5c].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "lYws0Rqt8Bs",
@@ -1045,7 +1763,8 @@
       "segment_count": 4203,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Supergirl BOMBS And Might END The DCU! - CG Suburbs [lYws0Rqt8Bs].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Supergirl BOMBS And Might END The DCU! - CG Suburbs [lYws0Rqt8Bs].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Supergirl BOMBS And Might END The DCU! - CG Suburbs [lYws0Rqt8Bs].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Supergirl BOMBS And Might END The DCU! - CG Suburbs [lYws0Rqt8Bs].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "Uf6bzqxJAAk",
@@ -1056,7 +1775,8 @@
       "segment_count": 556,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/TRASHCAST #265 The Khola King & Ethan Van Sciver Exchange [Uf6bzqxJAAk].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/TRASHCAST #265 The Khola King & Ethan Van Sciver Exchange [Uf6bzqxJAAk].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/TRASHCAST #265 The Khola King & Ethan Van Sciver Exchange [Uf6bzqxJAAk].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/TRASHCAST #265 The Khola King & Ethan Van Sciver Exchange [Uf6bzqxJAAk].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "X0hbv1uKEGA",
@@ -1067,7 +1787,8 @@
       "segment_count": 390,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Becoming All Powerful & the Ultimate Underdog! [X0hbv1uKEGA].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Becoming All Powerful & the Ultimate Underdog! [X0hbv1uKEGA].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Becoming All Powerful & the Ultimate Underdog! [X0hbv1uKEGA].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Becoming All Powerful & the Ultimate Underdog! [X0hbv1uKEGA].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "x7BWNaTUIpQ",
@@ -1078,7 +1799,8 @@
       "segment_count": 352,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Liam Gray and His Mighty Chalice Anna TSWG, Cecil, Rekieta and more [x7BWNaTUIpQ].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Liam Gray and His Mighty Chalice Anna TSWG, Cecil, Rekieta and more [x7BWNaTUIpQ].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Liam Gray and His Mighty Chalice Anna TSWG, Cecil, Rekieta and more [x7BWNaTUIpQ].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Liam Gray and His Mighty Chalice Anna TSWG, Cecil, Rekieta and more [x7BWNaTUIpQ].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "IGwEBXZDVt0",
@@ -1089,7 +1811,8 @@
       "segment_count": 2040,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/The Biggest Problem in the Universe Comes to an END! [IGwEBXZDVt0].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/The Biggest Problem in the Universe Comes to an END! [IGwEBXZDVt0].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/The Biggest Problem in the Universe Comes to an END! [IGwEBXZDVt0].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/The Biggest Problem in the Universe Comes to an END! [IGwEBXZDVt0].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "odC_ijF0FE4",
@@ -1100,7 +1823,8 @@
       "segment_count": 2841,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/JCW Lunacy #89 Watch Party [odC_ijF0FE4].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/JCW Lunacy #89 Watch Party [odC_ijF0FE4].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/JCW Lunacy #89 Watch Party [odC_ijF0FE4].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/JCW Lunacy #89 Watch Party [odC_ijF0FE4].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "ibGd2AqrEXg",
@@ -1111,7 +1835,8 @@
       "segment_count": 3476,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/JON DEL ARROZ HERES THE ATTENTION YOU ORDERED - SHANE DAVIS BACK ME BRO INTERNET BEEF - EXTRA SALTY [ibGd2AqrEXg].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/JON DEL ARROZ HERES THE ATTENTION YOU ORDERED - SHANE DAVIS BACK ME BRO INTERNET BEEF - EXTRA SALTY [ibGd2AqrEXg].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/JON DEL ARROZ HERES THE ATTENTION YOU ORDERED - SHANE DAVIS BACK ME BRO INTERNET BEEF - EXTRA SALTY [ibGd2AqrEXg].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/JON DEL ARROZ HERES THE ATTENTION YOU ORDERED - SHANE DAVIS BACK ME BRO INTERNET BEEF - EXTRA SALTY [ibGd2AqrEXg].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "edPpkg2kim4",
@@ -1122,7 +1847,8 @@
       "segment_count": 921,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/I REPORTED THE DROPBOX! Liam Gray Responds to EVS Reacting To A Viral Clip [edPpkg2kim4].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/I REPORTED THE DROPBOX! Liam Gray Responds to EVS Reacting To A Viral Clip [edPpkg2kim4].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/I REPORTED THE DROPBOX! Liam Gray Responds to EVS Reacting To A Viral Clip [edPpkg2kim4].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/I REPORTED THE DROPBOX! Liam Gray Responds to EVS Reacting To A Viral Clip [edPpkg2kim4].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "7JzZNez4ZBE",
@@ -1133,7 +1859,8 @@
       "segment_count": 997,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/FFS Shane Davis Stops By! Discusses JDA & BACKmeBro [7JzZNez4ZBE].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/FFS Shane Davis Stops By! Discusses JDA & BACKmeBro [7JzZNez4ZBE].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/FFS Shane Davis Stops By! Discusses JDA & BACKmeBro [7JzZNez4ZBE].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/FFS Shane Davis Stops By! Discusses JDA & BACKmeBro [7JzZNez4ZBE].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "HpCU9xQ1G4E",
@@ -1144,7 +1871,8 @@
       "segment_count": 227,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/(RE-UPLOAD)The Aftermath Of Frog Tony's EMBARRASSING appearance on The Biggest Problem [HpCU9xQ1G4E].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/(RE-UPLOAD)The Aftermath Of Frog Tony's EMBARRASSING appearance on The Biggest Problem [HpCU9xQ1G4E].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/(RE-UPLOAD)The Aftermath Of Frog Tony's EMBARRASSING appearance on The Biggest Problem [HpCU9xQ1G4E].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/(RE-UPLOAD)The Aftermath Of Frog Tony's EMBARRASSING appearance on The Biggest Problem [HpCU9xQ1G4E].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "N52SC2cLnvY",
@@ -1155,7 +1883,8 @@
       "segment_count": 4432,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/TRASHCAST # 267 BIGGEST PROBLEM was insane. Vito is a outta control. I pity him. [N52SC2cLnvY].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/TRASHCAST # 267 BIGGEST PROBLEM was insane. Vito is a outta control. I pity him. [N52SC2cLnvY].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/TRASHCAST # 267 BIGGEST PROBLEM was insane. Vito is a outta control. I pity him. [N52SC2cLnvY].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/TRASHCAST # 267 BIGGEST PROBLEM was insane. Vito is a outta control. I pity him. [N52SC2cLnvY].intelligence.txt",
+      "transcript_txt": null
     },
     {
       "video_id": "MOQPFnHJYR0",
@@ -1166,7 +1895,8 @@
       "segment_count": 6155,
       "path": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Cynic Got CATFISHED And EVS Continues To SPIRAL On Thirsty Thursday! [MOQPFnHJYR0].json",
       "intelligence_json": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Cynic Got CATFISHED And EVS Continues To SPIRAL On Thirsty Thursday! [MOQPFnHJYR0].intelligence.json",
-      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Cynic Got CATFISHED And EVS Continues To SPIRAL On Thirsty Thursday! [MOQPFnHJYR0].intelligence.txt"
+      "intelligence_txt": "02 - TRANSCRIPT GRABBER/transcripts/2026-07/Cynic Got CATFISHED And EVS Continues To SPIRAL On Thirsty Thursday! [MOQPFnHJYR0].intelligence.txt",
+      "transcript_txt": null
     }
   ]
 }
