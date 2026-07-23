@@ -1,9 +1,9 @@
 {
-  "runner": "local",
-  "started_at": "2026-07-22T17:27:36.572430+00:00",
-  "finished_at": "2026-07-22T17:27:43.466712+00:00",
-  "duration_seconds": 6.89,
-  "new_detections": 60,
-  "sweep_number": 7,
-  "status": "healthy"
+  "runner": "github",
+  "started_at": "2026-07-23T10:27:17.220988+00:00",
+  "finished_at": "2026-07-23T10:27:23.231517+00:00",
+  "duration_seconds": 6.01,
+  "new_detections": 88,
+  "sweep_number": 8,
+  "status": "warning"
 }

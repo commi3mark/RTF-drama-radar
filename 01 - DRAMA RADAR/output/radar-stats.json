@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-07-22T17:27:43.475915+00:00",
+  "updated_at": "2026-07-23T10:27:23.231956+00:00",
   "health": {
     "status": "stalled",
     "summary": "Transcript collection is blocked by YouTube.",
-    "scan": "healthy",
+    "scan": "degraded",
     "transcripts": "stalled",
     "archive": "healthy",
     "validation": "healthy"
   },
   "last_scan": {
-    "runner": "local",
-    "started_at": "2026-07-22T17:27:36.572430+00:00",
-    "finished_at": "2026-07-22T17:27:43.466712+00:00",
-    "duration_seconds": 6.89,
-    "new_detections": 60,
-    "sweep_number": 7,
-    "status": "healthy"
+    "runner": "github",
+    "started_at": "2026-07-23T10:27:17.220988+00:00",
+    "finished_at": "2026-07-23T10:27:23.231517+00:00",
+    "duration_seconds": 6.01,
+    "new_detections": 88,
+    "sweep_number": 8,
+    "status": "warning"
   },
   "last_transcript_run": {
     "runner": "stalinvo",
@@ -51,34 +51,39 @@
     }
   },
   "detections": {
-    "total": 530,
-    "new_this_run": 60,
+    "total": 571,
+    "new_this_run": 88,
     "by_platform": {
-      "YouTube": 234,
-      "Google Alerts": 240,
-      "Substack": 56
+      "YouTube": 240,
+      "Google Alerts": 274,
+      "Substack": 57
     }
   },
   "transcripts": {
-    "downloaded_total": 158,
+    "downloaded_total": 0,
     "downloaded_this_run": 0,
     "linked_to_live_feed": 73,
-    "awaiting_collection": 159,
+    "awaiting_collection": 165,
     "unavailable": 2,
-    "coverage_percent": 31.2,
+    "coverage_percent": 30.4,
     "retry_queue": 1,
-    "automatic_recovery_enabled": true
+    "automatic_recovery_enabled": false
   },
   "sources": {
     "configured": 29,
     "enabled": 28,
-    "successful": 28,
-    "failed": 0,
-    "items_read": 305,
-    "failures": []
+    "successful": 27,
+    "failed": 1,
+    "items_read": 282,
+    "failures": [
+      {
+        "source": "Johnny Rocket",
+        "error": "RuntimeError: <unknown>:2:1326: not well-formed (invalid token)"
+      }
+    ]
   },
   "archive": {
-    "updated_at": "2026-07-22T17:27:43.440926+00:00",
+    "updated_at": "2026-07-23T10:27:23.230410+00:00",
     "months": [
       {
         "month": "2024-08",
@@ -157,16 +162,17 @@
       },
       {
         "month": "2026-07",
-        "items": 504,
+        "items": 548,
         "path": "2026-07.json"
       }
     ],
     "month_count": 16,
-    "total_archived_detections": 604
+    "total_archived_detections": 648
   },
   "warnings": [
+    "1 source(s) failed during the latest scan.",
     "Transcript collection is blocked by YouTube.",
-    "159 YouTube detections are awaiting transcripts."
+    "165 YouTube detections are awaiting transcripts."
   ],
   "errors": []
 }
