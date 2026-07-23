@@ -1,0 +1,56 @@
+name: Run Drama Radar
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */4 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: drama-radar
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: "01 - DRAMA RADAR/requirements.txt"
+
+      - name: Install dependencies
+        working-directory: "01 - DRAMA RADAR"
+        run: python -m pip install -r requirements.txt
+
+      - name: Run Radar scan
+        working-directory: "01 - DRAMA RADAR"
+        run: python app/run.py
+
+      - name: Commit updated Radar
+        shell: bash
+        run: |
+          git config user.name "Drama Radar"
+          git config user.email "actions@users.noreply.github.com"
+          git add -- \
+            "01 - DRAMA RADAR/archive" \
+            "01 - DRAMA RADAR/output" \
+            "01 - DRAMA RADAR/receipts" \
+            "01 - DRAMA RADAR/state"
+          if git diff --cached --quiet; then
+            echo "Radar produced no repository changes."
+          else
+            git commit -m "Automated Drama Radar scan"
+            git push
+          fi
