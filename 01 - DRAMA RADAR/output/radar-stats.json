@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T23:38:28.508127+00:00",
+  "updated_at": "2026-08-01T07:54:20.036270+00:00",
   "health": {
     "status": "stalled",
     "summary": "Transcript collection is blocked by YouTube.",
@@ -10,11 +10,11 @@
   },
   "last_scan": {
     "runner": "github",
-    "started_at": "2026-07-31T23:38:23.761420+00:00",
-    "finished_at": "2026-07-31T23:38:28.507454+00:00",
-    "duration_seconds": 4.75,
-    "new_detections": 76,
-    "sweep_number": 34,
+    "started_at": "2026-08-01T07:54:14.850177+00:00",
+    "finished_at": "2026-08-01T07:54:20.035677+00:00",
+    "duration_seconds": 5.19,
+    "new_detections": 62,
+    "sweep_number": 35,
     "status": "warning"
   },
   "last_transcript_run": {
@@ -51,21 +51,21 @@
     }
   },
   "detections": {
-    "total": 1116,
-    "new_this_run": 76,
+    "total": 1126,
+    "new_this_run": 62,
     "by_platform": {
-      "YouTube": 343,
-      "Substack": 100,
-      "Google Alerts": 673
+      "YouTube": 342,
+      "Substack": 101,
+      "Google Alerts": 683
     }
   },
   "transcripts": {
     "downloaded_total": 0,
     "downloaded_this_run": 0,
-    "linked_to_live_feed": 66,
+    "linked_to_live_feed": 65,
     "awaiting_collection": 275,
     "unavailable": 2,
-    "coverage_percent": 19.2,
+    "coverage_percent": 19.0,
     "retry_queue": 1,
     "automatic_recovery_enabled": false
   },
@@ -74,7 +74,7 @@
     "enabled": 28,
     "successful": 27,
     "failed": 1,
-    "items_read": 302,
+    "items_read": 297,
     "failures": [
       {
         "source": "Johnny Rocket",
@@ -83,11 +83,11 @@
     ]
   },
   "archive": {
-    "updated_at": "2026-07-31T23:38:28.506101+00:00",
+    "updated_at": "2026-08-01T07:54:20.034566+00:00",
     "months": [
       {
         "month": "2024-08",
-        "items": 3,
+        "items": 4,
         "path": "2024-08.json"
       },
       {
@@ -162,12 +162,17 @@
       },
       {
         "month": "2026-07",
-        "items": 1123,
+        "items": 1130,
         "path": "2026-07.json"
+      },
+      {
+        "month": "2026-08",
+        "items": 8,
+        "path": "2026-08.json"
       }
     ],
-    "month_count": 16,
-    "total_archived_detections": 1224
+    "month_count": 17,
+    "total_archived_detections": 1240
   },
   "warnings": [
     "1 source(s) failed during the latest scan.",
