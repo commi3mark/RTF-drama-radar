@@ -1,5 +1,65 @@
 [
   {
+    "id": "d79dc035f134528886ed4ea8",
+    "source": "Finatra",
+    "platform": "YouTube",
+    "type": "video",
+    "title": "NO U!",
+    "url": "https://www.youtube.com/watch?v=C90W-WUI2bk",
+    "published": "2026-08-02T09:55:41+00:00",
+    "description": "🎙️ New to streaming or looking to level up? Check out StreamYard and get $10 discount! 😍 https://streamyard.com/pal/d/5812682173710336",
+    "youtube_id": "C90W-WUI2bk",
+    "transcript_status": "pending",
+    "transcript_path": null,
+    "transcript_url": null,
+    "discovered_at": "2026-08-02T11:46:05.517970+00:00"
+  },
+  {
+    "id": "db8f9bb2cf5246d3628f2359",
+    "source": "KatyDid",
+    "platform": "YouTube",
+    "type": "video",
+    "title": "Good Night CG: Last Call",
+    "url": "https://www.youtube.com/watch?v=0UgEjp0G0Xg",
+    "published": "2026-08-02T08:58:10+00:00",
+    "description": "",
+    "youtube_id": "0UgEjp0G0Xg",
+    "transcript_status": "pending",
+    "transcript_path": null,
+    "transcript_url": null,
+    "discovered_at": "2026-08-02T11:46:03.266165+00:00"
+  },
+  {
+    "id": "7e8cc4d1b962799b0e8df982",
+    "source": "Liam Gray",
+    "platform": "YouTube",
+    "type": "video",
+    "title": "The Dehoardening 6: Let the glasses that you broke form the picture of our leader",
+    "url": "https://www.youtube.com/watch?v=FOJ_By-yIWI",
+    "published": "2026-08-02T08:21:14+00:00",
+    "description": "Made with Restream Studio. Livestream on 30+ platforms at once via https://restream.io\n\n... with a halo made of smoke.",
+    "youtube_id": "FOJ_By-yIWI",
+    "transcript_status": "pending",
+    "transcript_path": null,
+    "transcript_url": null,
+    "discovered_at": "2026-08-01T20:13:54.063187+00:00"
+  },
+  {
+    "id": "005585339b6cda8c02afd91a",
+    "source": "Shane Davis",
+    "platform": "YouTube",
+    "type": "video",
+    "title": "Up drawing, you can't see so don't ask!",
+    "url": "https://www.youtube.com/watch?v=K4T5KFr1Kkg",
+    "published": "2026-08-02T08:13:13+00:00",
+    "description": "Shane Davis’ Starlight Cats: Merlion Rising Collected Edition  https://backmebro.com/project/9livescomics/shane-davis-starlight-cats-merlion-rising-collected-edition",
+    "youtube_id": "K4T5KFr1Kkg",
+    "transcript_status": "pending",
+    "transcript_path": null,
+    "transcript_url": null,
+    "discovered_at": "2026-08-02T07:55:50.987103+00:00"
+  },
+  {
     "id": "93dbaad76463a5ae632476fa",
     "source": "Ethan Van Sciver",
     "platform": "Google Alerts",
@@ -13,21 +73,6 @@
     "transcript_path": null,
     "transcript_url": null,
     "discovered_at": "2026-08-02T07:55:48.042654+00:00"
-  },
-  {
-    "id": "005585339b6cda8c02afd91a",
-    "source": "Shane Davis",
-    "platform": "YouTube",
-    "type": "video",
-    "title": "Up drawing, you can't see so don't ask!",
-    "url": "https://www.youtube.com/watch?v=K4T5KFr1Kkg",
-    "published": "2026-08-02T05:22:20+00:00",
-    "description": "Shane Davis’ Starlight Cats: Merlion Rising Collected Edition  https://backmebro.com/project/9livescomics/shane-davis-starlight-cats-merlion-rising-collected-edition",
-    "youtube_id": "K4T5KFr1Kkg",
-    "transcript_status": "pending",
-    "transcript_path": null,
-    "transcript_url": null,
-    "discovered_at": "2026-08-02T07:55:50.987103+00:00"
   },
   {
     "id": "cccf7ee35b5b4d68ac483309",
@@ -300,6 +345,21 @@
     "discovered_at": "2026-08-02T07:55:48.042755+00:00"
   },
   {
+    "id": "fc11b41cd6da26f78f1e697b",
+    "source": "Google Alert - Rippaverse",
+    "platform": "Google Alerts",
+    "type": "article",
+    "title": "Are you coming to see us at Bell County Comic Con ⁉️ BOOTH G25 LET'S GET IT ... - Facebook",
+    "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/Rippaverse/videos/are-you-coming-to-see-us-at-bell-county-comic-con-%25EF%25B8%258Fbooth-g25lets-get-itrippasend/995237436883461/&ct=ga&cd=CAIyGjVkMGMzZTFiOTgwMTI2N2U6Y29tOmVuOlVT&usg=AOvVaw1cJ71X8NFdF0rFMZ81HQND",
+    "published": "2026-08-01T21:39:33+00:00",
+    "description": "Y'all gotta bring the <b>Rippaverse</b> to some east coast cons. Come see us in Virginia. 3h.",
+    "youtube_id": null,
+    "transcript_status": "not_applicable",
+    "transcript_path": null,
+    "transcript_url": null,
+    "discovered_at": "2026-08-02T11:46:00.533712+00:00"
+  },
+  {
     "id": "68849c65ad2f02cc59796d92",
     "source": "Fandom Pulse",
     "platform": "Substack",
@@ -450,21 +510,6 @@
     "discovered_at": "2026-07-31T23:38:27.339182+00:00"
   },
   {
-    "id": "7e8cc4d1b962799b0e8df982",
-    "source": "Liam Gray",
-    "platform": "YouTube",
-    "type": "video",
-    "title": "The Dehoardening 6: Let the glasses that you broke form the picture of our leader",
-    "url": "https://www.youtube.com/watch?v=FOJ_By-yIWI",
-    "published": "2026-08-01T17:07:17+00:00",
-    "description": "Made with Restream Studio. Livestream on 30+ platforms at once via https://restream.io\n\n... with a halo made of smoke.",
-    "youtube_id": "FOJ_By-yIWI",
-    "transcript_status": "pending",
-    "transcript_path": null,
-    "transcript_url": null,
-    "discovered_at": "2026-08-01T20:13:54.063187+00:00"
-  },
-  {
     "id": "9e3b5c6bfcb5937a5d8ebe74",
     "source": "Elissa Clips",
     "platform": "YouTube",
@@ -508,6 +553,21 @@
     "transcript_path": null,
     "transcript_url": null,
     "discovered_at": "2026-08-01T15:42:59.572212+00:00"
+  },
+  {
+    "id": "587b056499076987d415f4a0",
+    "source": "#ComicsGate",
+    "platform": "Google Alerts",
+    "type": "article",
+    "title": "Saturday Stinger take 2 - <b>Comicsgate</b>.org",
+    "url": "https://www.google.com/url?rct=j&sa=t&url=https://comicsgate.org/2026/08/01/saturday-stinger-take-2/&ct=ga&cd=CAIyGjlhMzhjYTQ3MjEyOTk1YTk6Y29tOmVuOlVT&usg=AOvVaw1v19CFjgMw7DpnmNIGDEEL",
+    "published": "2026-08-01T13:38:01+00:00",
+    "description": "If you are a moderator please see our troubleshooting guide. #<b>Comicsgate</b>. ARTIFICE RE-ANIMATE – Time Will Tell. Meanwhile... thumb Darksyde is&nbsp;...",
+    "youtube_id": null,
+    "transcript_status": "not_applicable",
+    "transcript_path": null,
+    "transcript_url": null,
+    "discovered_at": "2026-08-02T11:46:01.006982+00:00"
   },
   {
     "id": "58883ce300d18a19d6efe2dd",
@@ -17535,20 +17595,5 @@
     "transcript_path": null,
     "transcript_url": null,
     "discovered_at": "2026-07-17T07:35:17.841786+00:00"
-  },
-  {
-    "id": "e80d8c4843e28466f7f389d2",
-    "source": "Shane Davis",
-    "platform": "YouTube",
-    "type": "video",
-    "title": "Up Inking",
-    "url": "https://www.youtube.com/watch?v=bT148wf_nE8",
-    "published": "2026-07-03T10:36:08+00:00",
-    "description": "https://9livescomics.com/product-category/inglorious-rex/page/2/?orderby=price",
-    "youtube_id": "bT148wf_nE8",
-    "transcript_status": "pending",
-    "transcript_path": null,
-    "transcript_url": null,
-    "discovered_at": "2026-07-17T07:35:17.216994+00:00"
   }
 ]
