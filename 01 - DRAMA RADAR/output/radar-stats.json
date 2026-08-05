@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T17:13:09.138515+00:00",
+  "updated_at": "2026-08-05T23:31:28.363471+00:00",
   "health": {
     "status": "stalled",
     "summary": "Transcript collection is blocked by YouTube.",
@@ -10,11 +10,11 @@
   },
   "last_scan": {
     "runner": "github",
-    "started_at": "2026-08-05T17:13:02.805221+00:00",
-    "finished_at": "2026-08-05T17:13:09.137878+00:00",
-    "duration_seconds": 6.33,
-    "new_detections": 65,
-    "sweep_number": 49,
+    "started_at": "2026-08-05T23:31:20.104159+00:00",
+    "finished_at": "2026-08-05T23:31:28.362892+00:00",
+    "duration_seconds": 8.26,
+    "new_detections": 80,
+    "sweep_number": 50,
     "status": "warning"
   },
   "last_transcript_run": {
@@ -51,21 +51,21 @@
     }
   },
   "detections": {
-    "total": 1322,
-    "new_this_run": 65,
+    "total": 1351,
+    "new_this_run": 80,
     "by_platform": {
-      "YouTube": 355,
-      "Google Alerts": 844,
-      "Substack": 123
+      "YouTube": 359,
+      "Substack": 125,
+      "Google Alerts": 867
     }
   },
   "transcripts": {
     "downloaded_total": 0,
     "downloaded_this_run": 0,
     "linked_to_live_feed": 55,
-    "awaiting_collection": 298,
+    "awaiting_collection": 302,
     "unavailable": 2,
-    "coverage_percent": 15.5,
+    "coverage_percent": 15.3,
     "retry_queue": 1,
     "automatic_recovery_enabled": false
   },
@@ -83,7 +83,7 @@
     ]
   },
   "archive": {
-    "updated_at": "2026-08-05T17:13:09.136848+00:00",
+    "updated_at": "2026-08-05T23:31:28.361774+00:00",
     "months": [
       {
         "month": "2024-08",
@@ -167,17 +167,17 @@
       },
       {
         "month": "2026-08",
-        "items": 237,
+        "items": 267,
         "path": "2026-08.json"
       }
     ],
     "month_count": 17,
-    "total_archived_detections": 1474
+    "total_archived_detections": 1504
   },
   "warnings": [
     "1 source(s) failed during the latest scan.",
     "Transcript collection is blocked by YouTube.",
-    "298 YouTube detections are awaiting transcripts."
+    "302 YouTube detections are awaiting transcripts."
   ],
   "errors": []
 }
