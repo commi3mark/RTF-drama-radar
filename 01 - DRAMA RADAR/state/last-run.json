@@ -1,9 +1,9 @@
 {
   "runner": "github",
-  "started_at": "2026-08-12T09:15:04.139034+00:00",
-  "finished_at": "2026-08-12T09:15:11.843287+00:00",
-  "duration_seconds": 7.7,
-  "new_detections": 50,
-  "sweep_number": 79,
+  "started_at": "2026-08-12T13:18:15.986126+00:00",
+  "finished_at": "2026-08-12T13:18:21.116242+00:00",
+  "duration_seconds": 5.13,
+  "new_detections": 59,
+  "sweep_number": 80,
   "status": "warning"
 }
