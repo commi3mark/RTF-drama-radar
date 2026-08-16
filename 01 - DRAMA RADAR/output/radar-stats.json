@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T04:39:40.611280+00:00",
+  "updated_at": "2026-08-16T08:33:39.721579+00:00",
   "health": {
     "status": "stalled",
     "summary": "Transcript collection is blocked by YouTube.",
@@ -10,11 +10,11 @@
   },
   "last_scan": {
     "runner": "github",
-    "started_at": "2026-08-16T04:39:36.205638+00:00",
-    "finished_at": "2026-08-16T04:39:40.610586+00:00",
-    "duration_seconds": 4.4,
-    "new_detections": 49,
-    "sweep_number": 102,
+    "started_at": "2026-08-16T08:33:34.548160+00:00",
+    "finished_at": "2026-08-16T08:33:39.720945+00:00",
+    "duration_seconds": 5.17,
+    "new_detections": 52,
+    "sweep_number": 103,
     "status": "warning"
   },
   "last_transcript_run": {
@@ -51,21 +51,21 @@
     }
   },
   "detections": {
-    "total": 1675,
-    "new_this_run": 49,
+    "total": 1677,
+    "new_this_run": 52,
     "by_platform": {
-      "YouTube": 387,
-      "Google Alerts": 1135,
+      "YouTube": 386,
+      "Google Alerts": 1138,
       "Substack": 153
     }
   },
   "transcripts": {
     "downloaded_total": 0,
     "downloaded_this_run": 0,
-    "linked_to_live_feed": 3,
+    "linked_to_live_feed": 2,
     "awaiting_collection": 384,
     "unavailable": 0,
-    "coverage_percent": 0.8,
+    "coverage_percent": 0.5,
     "retry_queue": 1,
     "automatic_recovery_enabled": false
   },
@@ -74,7 +74,7 @@
     "enabled": 28,
     "successful": 27,
     "failed": 1,
-    "items_read": 279,
+    "items_read": 280,
     "failures": [
       {
         "source": "Johnny Rocket",
@@ -83,7 +83,7 @@
     ]
   },
   "archive": {
-    "updated_at": "2026-08-16T04:39:40.609304+00:00",
+    "updated_at": "2026-08-16T08:33:39.719708+00:00",
     "months": [
       {
         "month": "2024-08",
@@ -167,12 +167,12 @@
       },
       {
         "month": "2026-08",
-        "items": 786,
+        "items": 792,
         "path": "2026-08.json"
       }
     ],
     "month_count": 17,
-    "total_archived_detections": 2024
+    "total_archived_detections": 2030
   },
   "warnings": [
     "1 source(s) failed during the latest scan.",
