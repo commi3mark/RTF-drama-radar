@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T08:42:51.079172+00:00",
+  "updated_at": "2026-08-20T12:56:04.664105+00:00",
   "health": {
     "status": "stalled",
     "summary": "Transcript collection is blocked by YouTube.",
@@ -10,11 +10,11 @@
   },
   "last_scan": {
     "runner": "github",
-    "started_at": "2026-08-20T08:42:46.629525+00:00",
-    "finished_at": "2026-08-20T08:42:51.078379+00:00",
-    "duration_seconds": 4.45,
-    "new_detections": 52,
-    "sweep_number": 127,
+    "started_at": "2026-08-20T12:55:58.895800+00:00",
+    "finished_at": "2026-08-20T12:56:04.663219+00:00",
+    "duration_seconds": 5.77,
+    "new_detections": 54,
+    "sweep_number": 128,
     "status": "warning"
   },
   "last_transcript_run": {
@@ -51,12 +51,12 @@
     }
   },
   "detections": {
-    "total": 1715,
-    "new_this_run": 52,
+    "total": 1701,
+    "new_this_run": 54,
     "by_platform": {
-      "Google Alerts": 1177,
       "YouTube": 381,
-      "Substack": 157
+      "Google Alerts": 1165,
+      "Substack": 155
     }
   },
   "transcripts": {
@@ -83,7 +83,7 @@
     ]
   },
   "archive": {
-    "updated_at": "2026-08-20T08:42:51.076712+00:00",
+    "updated_at": "2026-08-20T12:56:04.661270+00:00",
     "months": [
       {
         "month": "2024-08",
@@ -167,12 +167,12 @@
       },
       {
         "month": "2026-08",
-        "items": 1004,
+        "items": 1010,
         "path": "2026-08.json"
       }
     ],
     "month_count": 17,
-    "total_archived_detections": 2247
+    "total_archived_detections": 2253
   },
   "warnings": [
     "1 source(s) failed during the latest scan.",
