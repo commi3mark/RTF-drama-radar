@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T20:32:44.868354+00:00",
+  "updated_at": "2026-08-21T01:36:13.407996+00:00",
   "health": {
     "status": "stalled",
     "summary": "Transcript collection is blocked by YouTube.",
@@ -10,11 +10,11 @@
   },
   "last_scan": {
     "runner": "github",
-    "started_at": "2026-08-20T20:32:39.855062+00:00",
-    "finished_at": "2026-08-20T20:32:44.867588+00:00",
-    "duration_seconds": 5.01,
-    "new_detections": 69,
-    "sweep_number": 130,
+    "started_at": "2026-08-21T01:36:04.157497+00:00",
+    "finished_at": "2026-08-21T01:36:13.407107+00:00",
+    "duration_seconds": 9.25,
+    "new_detections": 63,
+    "sweep_number": 131,
     "status": "warning"
   },
   "last_transcript_run": {
@@ -51,11 +51,11 @@
     }
   },
   "detections": {
-    "total": 1719,
-    "new_this_run": 69,
+    "total": 1722,
+    "new_this_run": 63,
     "by_platform": {
-      "YouTube": 387,
-      "Google Alerts": 1177,
+      "YouTube": 391,
+      "Google Alerts": 1176,
       "Substack": 155
     }
   },
@@ -63,7 +63,7 @@
     "downloaded_total": 0,
     "downloaded_this_run": 0,
     "linked_to_live_feed": 0,
-    "awaiting_collection": 387,
+    "awaiting_collection": 391,
     "unavailable": 0,
     "coverage_percent": 0.0,
     "retry_queue": 1,
@@ -83,7 +83,7 @@
     ]
   },
   "archive": {
-    "updated_at": "2026-08-20T20:32:44.866031+00:00",
+    "updated_at": "2026-08-21T01:36:13.405712+00:00",
     "months": [
       {
         "month": "2024-08",
@@ -167,17 +167,17 @@
       },
       {
         "month": "2026-08",
-        "items": 1050,
+        "items": 1066,
         "path": "2026-08.json"
       }
     ],
     "month_count": 17,
-    "total_archived_detections": 2293
+    "total_archived_detections": 2309
   },
   "warnings": [
     "1 source(s) failed during the latest scan.",
     "Transcript collection is blocked by YouTube.",
-    "387 YouTube detections are awaiting transcripts."
+    "391 YouTube detections are awaiting transcripts."
   ],
   "errors": []
 }
