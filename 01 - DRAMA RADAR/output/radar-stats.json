@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T12:59:25.549404+00:00",
+  "updated_at": "2026-08-26T16:50:28.450163+00:00",
   "health": {
     "status": "stalled",
     "summary": "Transcript collection is blocked by YouTube.",
@@ -10,11 +10,11 @@
   },
   "last_scan": {
     "runner": "github",
-    "started_at": "2026-08-26T12:59:20.849730+00:00",
-    "finished_at": "2026-08-26T12:59:25.548590+00:00",
-    "duration_seconds": 4.7,
+    "started_at": "2026-08-26T16:50:20.396034+00:00",
+    "finished_at": "2026-08-26T16:50:28.449371+00:00",
+    "duration_seconds": 8.05,
     "new_detections": 74,
-    "sweep_number": 164,
+    "sweep_number": 165,
     "status": "warning"
   },
   "last_transcript_run": {
@@ -51,19 +51,19 @@
     }
   },
   "detections": {
-    "total": 1637,
+    "total": 1639,
     "new_this_run": 74,
     "by_platform": {
-      "YouTube": 376,
-      "Google Alerts": 1102,
-      "Substack": 159
+      "YouTube": 377,
+      "Substack": 157,
+      "Google Alerts": 1105
     }
   },
   "transcripts": {
     "downloaded_total": 0,
     "downloaded_this_run": 0,
     "linked_to_live_feed": 0,
-    "awaiting_collection": 376,
+    "awaiting_collection": 377,
     "unavailable": 0,
     "coverage_percent": 0.0,
     "retry_queue": 1,
@@ -74,7 +74,7 @@
     "enabled": 28,
     "successful": 27,
     "failed": 1,
-    "items_read": 289,
+    "items_read": 287,
     "failures": [
       {
         "source": "Johnny Rocket",
@@ -83,7 +83,7 @@
     ]
   },
   "archive": {
-    "updated_at": "2026-08-26T12:59:25.547044+00:00",
+    "updated_at": "2026-08-26T16:50:28.447811+00:00",
     "months": [
       {
         "month": "2024-08",
@@ -167,17 +167,17 @@
       },
       {
         "month": "2026-08",
-        "items": 1330,
+        "items": 1340,
         "path": "2026-08.json"
       }
     ],
     "month_count": 17,
-    "total_archived_detections": 2573
+    "total_archived_detections": 2583
   },
   "warnings": [
     "1 source(s) failed during the latest scan.",
     "Transcript collection is blocked by YouTube.",
-    "376 YouTube detections are awaiting transcripts."
+    "377 YouTube detections are awaiting transcripts."
   ],
   "errors": []
 }
