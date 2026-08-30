@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T22:29:55.971073+00:00",
+  "updated_at": "2026-08-30T04:36:05.700444+00:00",
   "health": {
     "status": "stalled",
     "summary": "Transcript collection is blocked by YouTube.",
@@ -10,11 +10,11 @@
   },
   "last_scan": {
     "runner": "github",
-    "started_at": "2026-08-29T22:29:51.729060+00:00",
-    "finished_at": "2026-08-29T22:29:55.970538+00:00",
-    "duration_seconds": 4.24,
+    "started_at": "2026-08-30T04:35:59.092224+00:00",
+    "finished_at": "2026-08-30T04:36:05.699738+00:00",
+    "duration_seconds": 6.61,
     "new_detections": 70,
-    "sweep_number": 174,
+    "sweep_number": 175,
     "status": "warning"
   },
   "last_transcript_run": {
@@ -51,12 +51,12 @@
     }
   },
   "detections": {
-    "total": 1620,
+    "total": 1600,
     "new_this_run": 70,
     "by_platform": {
       "YouTube": 365,
-      "Google Alerts": 1098,
-      "Substack": 157
+      "Google Alerts": 1079,
+      "Substack": 156
     }
   },
   "transcripts": {
@@ -74,7 +74,7 @@
     "enabled": 28,
     "successful": 27,
     "failed": 1,
-    "items_read": 290,
+    "items_read": 278,
     "failures": [
       {
         "source": "Johnny Rocket",
@@ -83,7 +83,7 @@
     ]
   },
   "archive": {
-    "updated_at": "2026-08-29T22:29:55.968995+00:00",
+    "updated_at": "2026-08-30T04:36:05.697683+00:00",
     "months": [
       {
         "month": "2024-08",
@@ -167,12 +167,12 @@
       },
       {
         "month": "2026-08",
-        "items": 1523,
+        "items": 1531,
         "path": "2026-08.json"
       }
     ],
     "month_count": 17,
-    "total_archived_detections": 2766
+    "total_archived_detections": 2774
   },
   "warnings": [
     "1 source(s) failed during the latest scan.",
