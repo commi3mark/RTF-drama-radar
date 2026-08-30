@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T04:36:05.700444+00:00",
+  "updated_at": "2026-08-30T13:41:08.869119+00:00",
   "health": {
     "status": "stalled",
     "summary": "Transcript collection is blocked by YouTube.",
@@ -10,11 +10,11 @@
   },
   "last_scan": {
     "runner": "github",
-    "started_at": "2026-08-30T04:35:59.092224+00:00",
-    "finished_at": "2026-08-30T04:36:05.699738+00:00",
-    "duration_seconds": 6.61,
-    "new_detections": 70,
-    "sweep_number": 175,
+    "started_at": "2026-08-30T13:40:58.758625+00:00",
+    "finished_at": "2026-08-30T13:41:08.868292+00:00",
+    "duration_seconds": 10.11,
+    "new_detections": 68,
+    "sweep_number": 176,
     "status": "warning"
   },
   "last_transcript_run": {
@@ -51,11 +51,11 @@
     }
   },
   "detections": {
-    "total": 1600,
-    "new_this_run": 70,
+    "total": 1578,
+    "new_this_run": 68,
     "by_platform": {
-      "YouTube": 365,
-      "Google Alerts": 1079,
+      "YouTube": 359,
+      "Google Alerts": 1063,
       "Substack": 156
     }
   },
@@ -63,7 +63,7 @@
     "downloaded_total": 0,
     "downloaded_this_run": 0,
     "linked_to_live_feed": 0,
-    "awaiting_collection": 365,
+    "awaiting_collection": 359,
     "unavailable": 0,
     "coverage_percent": 0.0,
     "retry_queue": 1,
@@ -83,7 +83,7 @@
     ]
   },
   "archive": {
-    "updated_at": "2026-08-30T04:36:05.697683+00:00",
+    "updated_at": "2026-08-30T13:41:08.866252+00:00",
     "months": [
       {
         "month": "2024-08",
@@ -167,17 +167,17 @@
       },
       {
         "month": "2026-08",
-        "items": 1531,
+        "items": 1538,
         "path": "2026-08.json"
       }
     ],
     "month_count": 17,
-    "total_archived_detections": 2774
+    "total_archived_detections": 2781
   },
   "warnings": [
     "1 source(s) failed during the latest scan.",
     "Transcript collection is blocked by YouTube.",
-    "365 YouTube detections are awaiting transcripts."
+    "359 YouTube detections are awaiting transcripts."
   ],
   "errors": []
 }
