@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T19:06:11.848683+00:00",
+  "updated_at": "2026-10-03T22:47:02.522370+00:00",
   "months": [
     {
       "month": "2023-06",
@@ -103,10 +103,10 @@
     },
     {
       "month": "2026-10",
-      "items": 181,
+      "items": 188,
       "path": "2026-10.json"
     }
   ],
   "month_count": 21,
-  "total_archived_detections": 4818
+  "total_archived_detections": 4825
 }
