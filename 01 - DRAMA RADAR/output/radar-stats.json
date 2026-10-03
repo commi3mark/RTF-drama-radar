@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T13:10:16.357110+00:00",
+  "updated_at": "2026-10-03T19:06:11.849893+00:00",
   "health": {
     "status": "stalled",
     "summary": "Transcript collection is blocked by YouTube.",
@@ -10,11 +10,11 @@
   },
   "last_scan": {
     "runner": "github",
-    "started_at": "2026-10-03T13:10:11.321218+00:00",
-    "finished_at": "2026-10-03T13:10:16.356270+00:00",
-    "duration_seconds": 5.04,
-    "new_detections": 94,
-    "sweep_number": 308,
+    "started_at": "2026-10-03T19:06:05.366701+00:00",
+    "finished_at": "2026-10-03T19:06:11.849470+00:00",
+    "duration_seconds": 6.48,
+    "new_detections": 88,
+    "sweep_number": 309,
     "status": "warning"
   },
   "last_transcript_run": {
@@ -52,18 +52,18 @@
   },
   "detections": {
     "total": 1789,
-    "new_this_run": 94,
+    "new_this_run": 88,
     "by_platform": {
-      "YouTube": 418,
       "Google Alerts": 1241,
-      "Substack": 130
+      "YouTube": 419,
+      "Substack": 129
     }
   },
   "transcripts": {
     "downloaded_total": 0,
     "downloaded_this_run": 0,
     "linked_to_live_feed": 0,
-    "awaiting_collection": 418,
+    "awaiting_collection": 419,
     "unavailable": 0,
     "coverage_percent": 0.0,
     "retry_queue": 1,
@@ -83,7 +83,7 @@
     ]
   },
   "archive": {
-    "updated_at": "2026-10-03T13:10:16.354683+00:00",
+    "updated_at": "2026-10-03T19:06:11.848683+00:00",
     "months": [
       {
         "month": "2023-06",
@@ -187,17 +187,17 @@
       },
       {
         "month": "2026-10",
-        "items": 165,
+        "items": 181,
         "path": "2026-10.json"
       }
     ],
     "month_count": 21,
-    "total_archived_detections": 4802
+    "total_archived_detections": 4818
   },
   "warnings": [
     "1 source(s) failed during the latest scan.",
     "Transcript collection is blocked by YouTube.",
-    "418 YouTube detections are awaiting transcripts."
+    "419 YouTube detections are awaiting transcripts."
   ],
   "errors": []
 }
