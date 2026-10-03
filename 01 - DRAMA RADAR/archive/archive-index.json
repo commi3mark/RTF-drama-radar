@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T04:34:26.792644+00:00",
+  "updated_at": "2026-10-03T13:10:16.354683+00:00",
   "months": [
     {
       "month": "2023-06",
@@ -27,8 +27,13 @@
       "path": "2025-05.json"
     },
     {
+      "month": "2025-06",
+      "items": 4,
+      "path": "2025-06.json"
+    },
+    {
       "month": "2025-07",
-      "items": 1,
+      "items": 4,
       "path": "2025-07.json"
     },
     {
@@ -43,7 +48,7 @@
     },
     {
       "month": "2025-11",
-      "items": 1,
+      "items": 2,
       "path": "2025-11.json"
     },
     {
@@ -73,7 +78,7 @@
     },
     {
       "month": "2026-05",
-      "items": 27,
+      "items": 28,
       "path": "2026-05.json"
     },
     {
@@ -98,10 +103,10 @@
     },
     {
       "month": "2026-10",
-      "items": 143,
+      "items": 165,
       "path": "2026-10.json"
     }
   ],
-  "month_count": 20,
-  "total_archived_detections": 4771
+  "month_count": 21,
+  "total_archived_detections": 4802
 }
