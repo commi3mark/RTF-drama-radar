@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T01:54:36.598718+00:00",
+  "updated_at": "2026-10-13T11:33:05.364928+00:00",
   "health": {
     "status": "stalled",
     "summary": "Transcript collection is blocked by YouTube.",
@@ -10,11 +10,11 @@
   },
   "last_scan": {
     "runner": "github",
-    "started_at": "2026-10-13T01:54:30.603036+00:00",
-    "finished_at": "2026-10-13T01:54:36.598032+00:00",
-    "duration_seconds": 5.99,
-    "new_detections": 77,
-    "sweep_number": 339,
+    "started_at": "2026-10-13T11:32:58.106369+00:00",
+    "finished_at": "2026-10-13T11:33:05.364427+00:00",
+    "duration_seconds": 7.26,
+    "new_detections": 92,
+    "sweep_number": 340,
     "status": "warning"
   },
   "last_transcript_run": {
@@ -51,19 +51,19 @@
     }
   },
   "detections": {
-    "total": 1658,
-    "new_this_run": 77,
+    "total": 1646,
+    "new_this_run": 92,
     "by_platform": {
-      "YouTube": 393,
-      "Substack": 120,
-      "Google Alerts": 1145
+      "YouTube": 391,
+      "Google Alerts": 1135,
+      "Substack": 120
     }
   },
   "transcripts": {
     "downloaded_total": 0,
     "downloaded_this_run": 0,
     "linked_to_live_feed": 0,
-    "awaiting_collection": 393,
+    "awaiting_collection": 391,
     "unavailable": 0,
     "coverage_percent": 0.0,
     "retry_queue": 1,
@@ -72,30 +72,18 @@
   "sources": {
     "configured": 29,
     "enabled": 28,
-    "successful": 24,
-    "failed": 4,
-    "items_read": 237,
+    "successful": 27,
+    "failed": 1,
+    "items_read": 289,
     "failures": [
-      {
-        "source": "Commi3 Mark",
-        "error": "RuntimeError: <unknown>:3:11: not well-formed (invalid token)"
-      },
       {
         "source": "Johnny Rocket",
         "error": "RuntimeError: <unknown>:2:1326: not well-formed (invalid token)"
-      },
-      {
-        "source": "Ministry of Dude",
-        "error": "RuntimeError: <unknown>:3:11: not well-formed (invalid token)"
-      },
-      {
-        "source": "Finatra",
-        "error": "RuntimeError: <unknown>:3:11: not well-formed (invalid token)"
       }
     ]
   },
   "archive": {
-    "updated_at": "2026-10-13T01:54:36.596722+00:00",
+    "updated_at": "2026-10-13T11:33:05.363532+00:00",
     "months": [
       {
         "month": "2023-06",
@@ -199,17 +187,17 @@
       },
       {
         "month": "2026-10",
-        "items": 618,
+        "items": 634,
         "path": "2026-10.json"
       }
     ],
     "month_count": 21,
-    "total_archived_detections": 5259
+    "total_archived_detections": 5275
   },
   "warnings": [
-    "4 source(s) failed during the latest scan.",
+    "1 source(s) failed during the latest scan.",
     "Transcript collection is blocked by YouTube.",
-    "393 YouTube detections are awaiting transcripts."
+    "391 YouTube detections are awaiting transcripts."
   ],
   "errors": []
 }
