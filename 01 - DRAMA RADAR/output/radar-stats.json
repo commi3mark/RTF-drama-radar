@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T23:39:44.946696+00:00",
+  "updated_at": "2026-10-14T04:13:01.454047+00:00",
   "health": {
     "status": "stalled",
     "summary": "Transcript collection is blocked by YouTube.",
@@ -10,11 +10,11 @@
   },
   "last_scan": {
     "runner": "github",
-    "started_at": "2026-10-13T23:39:41.570378+00:00",
-    "finished_at": "2026-10-13T23:39:44.945914+00:00",
+    "started_at": "2026-10-14T04:12:58.069122+00:00",
+    "finished_at": "2026-10-14T04:13:01.453319+00:00",
     "duration_seconds": 3.38,
-    "new_detections": 25,
-    "sweep_number": 342,
+    "new_detections": 6,
+    "sweep_number": 343,
     "status": "warning"
   },
   "last_transcript_run": {
@@ -51,19 +51,19 @@
     }
   },
   "detections": {
-    "total": 1642,
-    "new_this_run": 25,
+    "total": 1637,
+    "new_this_run": 6,
     "by_platform": {
+      "Google Alerts": 1129,
       "Substack": 124,
-      "YouTube": 385,
-      "Google Alerts": 1133
+      "YouTube": 384
     }
   },
   "transcripts": {
     "downloaded_total": 0,
     "downloaded_this_run": 0,
     "linked_to_live_feed": 0,
-    "awaiting_collection": 385,
+    "awaiting_collection": 384,
     "unavailable": 0,
     "coverage_percent": 0.0,
     "retry_queue": 1,
@@ -72,9 +72,9 @@
   "sources": {
     "configured": 29,
     "enabled": 28,
-    "successful": 13,
-    "failed": 15,
-    "items_read": 91,
+    "successful": 11,
+    "failed": 17,
+    "items_read": 52,
     "failures": [
       {
         "source": "Commi3 Mark",
@@ -117,6 +117,10 @@
         "error": "RuntimeError: <unknown>:3:11: not well-formed (invalid token)"
       },
       {
+        "source": "Ministry of Dude",
+        "error": "RuntimeError: <unknown>:3:11: not well-formed (invalid token)"
+      },
+      {
         "source": "FFS Cast",
         "error": "RuntimeError: <unknown>:3:11: not well-formed (invalid token)"
       },
@@ -126,6 +130,10 @@
       },
       {
         "source": "Ya Boi Zack",
+        "error": "RuntimeError: <unknown>:3:11: not well-formed (invalid token)"
+      },
+      {
+        "source": "Finatra",
         "error": "RuntimeError: <unknown>:3:11: not well-formed (invalid token)"
       },
       {
@@ -139,7 +147,7 @@
     ]
   },
   "archive": {
-    "updated_at": "2026-10-13T23:39:44.944100+00:00",
+    "updated_at": "2026-10-14T04:13:01.451504+00:00",
     "months": [
       {
         "month": "2023-06",
@@ -243,17 +251,17 @@
       },
       {
         "month": "2026-10",
-        "items": 666,
+        "items": 672,
         "path": "2026-10.json"
       }
     ],
     "month_count": 21,
-    "total_archived_detections": 5307
+    "total_archived_detections": 5313
   },
   "warnings": [
-    "15 source(s) failed during the latest scan.",
+    "17 source(s) failed during the latest scan.",
     "Transcript collection is blocked by YouTube.",
-    "385 YouTube detections are awaiting transcripts."
+    "384 YouTube detections are awaiting transcripts."
   ],
   "errors": []
 }
