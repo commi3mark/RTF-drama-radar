@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T09:47:52.033856+00:00",
+  "updated_at": "2026-10-19T18:32:26.101033+00:00",
   "health": {
     "status": "stalled",
     "summary": "Transcript collection is blocked by YouTube.",
@@ -10,11 +10,11 @@
   },
   "last_scan": {
     "runner": "github",
-    "started_at": "2026-10-19T09:47:46.055544+00:00",
-    "finished_at": "2026-10-19T09:47:52.032966+00:00",
-    "duration_seconds": 5.98,
-    "new_detections": 73,
-    "sweep_number": 365,
+    "started_at": "2026-10-19T18:32:21.003450+00:00",
+    "finished_at": "2026-10-19T18:32:26.100262+00:00",
+    "duration_seconds": 5.1,
+    "new_detections": 93,
+    "sweep_number": 366,
     "status": "warning"
   },
   "last_transcript_run": {
@@ -51,19 +51,19 @@
     }
   },
   "detections": {
-    "total": 1762,
-    "new_this_run": 73,
+    "total": 1764,
+    "new_this_run": 93,
     "by_platform": {
-      "YouTube": 386,
-      "Google Alerts": 1253,
-      "Substack": 123
+      "YouTube": 377,
+      "Substack": 123,
+      "Google Alerts": 1264
     }
   },
   "transcripts": {
     "downloaded_total": 0,
     "downloaded_this_run": 0,
     "linked_to_live_feed": 0,
-    "awaiting_collection": 386,
+    "awaiting_collection": 377,
     "unavailable": 0,
     "coverage_percent": 0.0,
     "retry_queue": 1,
@@ -95,7 +95,7 @@
     ]
   },
   "archive": {
-    "updated_at": "2026-10-19T09:47:52.031364+00:00",
+    "updated_at": "2026-10-19T18:32:26.098596+00:00",
     "months": [
       {
         "month": "2023-06",
@@ -199,17 +199,17 @@
       },
       {
         "month": "2026-10",
-        "items": 1099,
+        "items": 1128,
         "path": "2026-10.json"
       }
     ],
     "month_count": 21,
-    "total_archived_detections": 5740
+    "total_archived_detections": 5769
   },
   "warnings": [
     "4 source(s) failed during the latest scan.",
     "Transcript collection is blocked by YouTube.",
-    "386 YouTube detections are awaiting transcripts."
+    "377 YouTube detections are awaiting transcripts."
   ],
   "errors": []
 }
