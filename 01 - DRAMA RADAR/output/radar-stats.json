@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T03:57:25.596573+00:00",
+  "updated_at": "2026-10-19T09:47:52.033856+00:00",
   "health": {
     "status": "stalled",
     "summary": "Transcript collection is blocked by YouTube.",
@@ -10,11 +10,11 @@
   },
   "last_scan": {
     "runner": "github",
-    "started_at": "2026-10-19T03:57:20.641199+00:00",
-    "finished_at": "2026-10-19T03:57:25.595868+00:00",
-    "duration_seconds": 4.95,
-    "new_detections": 18,
-    "sweep_number": 364,
+    "started_at": "2026-10-19T09:47:46.055544+00:00",
+    "finished_at": "2026-10-19T09:47:52.032966+00:00",
+    "duration_seconds": 5.98,
+    "new_detections": 73,
+    "sweep_number": 365,
     "status": "warning"
   },
   "last_transcript_run": {
@@ -51,11 +51,11 @@
     }
   },
   "detections": {
-    "total": 1759,
-    "new_this_run": 18,
+    "total": 1762,
+    "new_this_run": 73,
     "by_platform": {
-      "Google Alerts": 1250,
       "YouTube": 386,
+      "Google Alerts": 1253,
       "Substack": 123
     }
   },
@@ -72,40 +72,16 @@
   "sources": {
     "configured": 29,
     "enabled": 28,
-    "successful": 12,
-    "failed": 16,
-    "items_read": 77,
+    "successful": 24,
+    "failed": 4,
+    "items_read": 252,
     "failures": [
       {
         "source": "Johnny Rocket",
         "error": "RuntimeError: <unknown>:2:1326: not well-formed (invalid token)"
       },
       {
-        "source": "Ethan Van Sciver",
-        "error": "RuntimeError: <unknown>:3:11: not well-formed (invalid token)"
-      },
-      {
-        "source": "Frog Tony",
-        "error": "RuntimeError: <unknown>:3:11: not well-formed (invalid token)"
-      },
-      {
         "source": "KatyDid",
-        "error": "RuntimeError: <unknown>:3:11: not well-formed (invalid token)"
-      },
-      {
-        "source": "Elissa Clips",
-        "error": "RuntimeError: <unknown>:3:11: not well-formed (invalid token)"
-      },
-      {
-        "source": "Liam Gray",
-        "error": "RuntimeError: <unknown>:3:11: not well-formed (invalid token)"
-      },
-      {
-        "source": "Shane Davis",
-        "error": "RuntimeError: <unknown>:3:11: not well-formed (invalid token)"
-      },
-      {
-        "source": "Eric July",
         "error": "RuntimeError: <unknown>:3:11: not well-formed (invalid token)"
       },
       {
@@ -113,37 +89,13 @@
         "error": "RuntimeError: <unknown>:3:11: not well-formed (invalid token)"
       },
       {
-        "source": "Ministry of Dude",
-        "error": "RuntimeError: <unknown>:3:11: not well-formed (invalid token)"
-      },
-      {
         "source": "FFS Cast",
-        "error": "RuntimeError: <unknown>:3:11: not well-formed (invalid token)"
-      },
-      {
-        "source": "ComicsGate Commandos",
-        "error": "RuntimeError: <unknown>:3:11: not well-formed (invalid token)"
-      },
-      {
-        "source": "Ya Boi Zack",
-        "error": "RuntimeError: <unknown>:3:11: not well-formed (invalid token)"
-      },
-      {
-        "source": "Finatra",
-        "error": "RuntimeError: <unknown>:3:11: not well-formed (invalid token)"
-      },
-      {
-        "source": "Dark Gift",
-        "error": "RuntimeError: <unknown>:3:11: not well-formed (invalid token)"
-      },
-      {
-        "source": "Piper",
         "error": "RuntimeError: <unknown>:3:11: not well-formed (invalid token)"
       }
     ]
   },
   "archive": {
-    "updated_at": "2026-10-19T03:57:25.594237+00:00",
+    "updated_at": "2026-10-19T09:47:52.031364+00:00",
     "months": [
       {
         "month": "2023-06",
@@ -247,15 +199,15 @@
       },
       {
         "month": "2026-10",
-        "items": 1090,
+        "items": 1099,
         "path": "2026-10.json"
       }
     ],
     "month_count": 21,
-    "total_archived_detections": 5731
+    "total_archived_detections": 5740
   },
   "warnings": [
-    "16 source(s) failed during the latest scan.",
+    "4 source(s) failed during the latest scan.",
     "Transcript collection is blocked by YouTube.",
     "386 YouTube detections are awaiting transcripts."
   ],
