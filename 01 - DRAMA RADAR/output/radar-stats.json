@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T18:32:26.101033+00:00",
+  "updated_at": "2026-10-19T23:28:08.888002+00:00",
   "health": {
     "status": "stalled",
     "summary": "Transcript collection is blocked by YouTube.",
@@ -10,11 +10,11 @@
   },
   "last_scan": {
     "runner": "github",
-    "started_at": "2026-10-19T18:32:21.003450+00:00",
-    "finished_at": "2026-10-19T18:32:26.100262+00:00",
-    "duration_seconds": 5.1,
-    "new_detections": 93,
-    "sweep_number": 366,
+    "started_at": "2026-10-19T23:28:03.376817+00:00",
+    "finished_at": "2026-10-19T23:28:08.887338+00:00",
+    "duration_seconds": 5.51,
+    "new_detections": 86,
+    "sweep_number": 367,
     "status": "warning"
   },
   "last_transcript_run": {
@@ -51,19 +51,19 @@
     }
   },
   "detections": {
-    "total": 1764,
-    "new_this_run": 93,
+    "total": 1773,
+    "new_this_run": 86,
     "by_platform": {
-      "YouTube": 377,
-      "Substack": 123,
-      "Google Alerts": 1264
+      "YouTube": 376,
+      "Google Alerts": 1271,
+      "Substack": 126
     }
   },
   "transcripts": {
     "downloaded_total": 0,
     "downloaded_this_run": 0,
     "linked_to_live_feed": 0,
-    "awaiting_collection": 377,
+    "awaiting_collection": 376,
     "unavailable": 0,
     "coverage_percent": 0.0,
     "retry_queue": 1,
@@ -74,7 +74,7 @@
     "enabled": 28,
     "successful": 24,
     "failed": 4,
-    "items_read": 252,
+    "items_read": 264,
     "failures": [
       {
         "source": "Johnny Rocket",
@@ -95,7 +95,7 @@
     ]
   },
   "archive": {
-    "updated_at": "2026-10-19T18:32:26.098596+00:00",
+    "updated_at": "2026-10-19T23:28:08.885533+00:00",
     "months": [
       {
         "month": "2023-06",
@@ -129,12 +129,12 @@
       },
       {
         "month": "2025-07",
-        "items": 4,
+        "items": 9,
         "path": "2025-07.json"
       },
       {
         "month": "2025-08",
-        "items": 2,
+        "items": 3,
         "path": "2025-08.json"
       },
       {
@@ -199,17 +199,17 @@
       },
       {
         "month": "2026-10",
-        "items": 1128,
+        "items": 1150,
         "path": "2026-10.json"
       }
     ],
     "month_count": 21,
-    "total_archived_detections": 5769
+    "total_archived_detections": 5797
   },
   "warnings": [
     "4 source(s) failed during the latest scan.",
     "Transcript collection is blocked by YouTube.",
-    "377 YouTube detections are awaiting transcripts."
+    "376 YouTube detections are awaiting transcripts."
   ],
   "errors": []
 }
