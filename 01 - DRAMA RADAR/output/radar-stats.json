@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T19:47:44.085437+00:00",
+  "updated_at": "2026-10-31T23:11:34.195503+00:00",
   "health": {
     "status": "stalled",
     "summary": "Transcript collection is blocked by YouTube.",
@@ -10,11 +10,11 @@
   },
   "last_scan": {
     "runner": "github",
-    "started_at": "2026-10-31T19:47:39.053625+00:00",
-    "finished_at": "2026-10-31T19:47:44.084600+00:00",
-    "duration_seconds": 5.03,
-    "new_detections": 85,
-    "sweep_number": 412,
+    "started_at": "2026-10-31T23:11:29.354920+00:00",
+    "finished_at": "2026-10-31T23:11:34.194891+00:00",
+    "duration_seconds": 4.84,
+    "new_detections": 12,
+    "sweep_number": 413,
     "status": "warning"
   },
   "last_transcript_run": {
@@ -51,19 +51,19 @@
     }
   },
   "detections": {
-    "total": 1974,
-    "new_this_run": 85,
+    "total": 1967,
+    "new_this_run": 12,
     "by_platform": {
-      "YouTube": 355,
-      "Google Alerts": 1478,
-      "Substack": 141
+      "Google Alerts": 1474,
+      "YouTube": 353,
+      "Substack": 140
     }
   },
   "transcripts": {
     "downloaded_total": 0,
     "downloaded_this_run": 0,
     "linked_to_live_feed": 0,
-    "awaiting_collection": 355,
+    "awaiting_collection": 353,
     "unavailable": 0,
     "coverage_percent": 0.0,
     "retry_queue": 1,
@@ -72,16 +72,44 @@
   "sources": {
     "configured": 29,
     "enabled": 28,
-    "successful": 24,
-    "failed": 4,
-    "items_read": 266,
+    "successful": 11,
+    "failed": 17,
+    "items_read": 81,
     "failures": [
+      {
+        "source": "Commi3 Mark",
+        "error": "RuntimeError: <unknown>:3:11: not well-formed (invalid token)"
+      },
       {
         "source": "Johnny Rocket",
         "error": "RuntimeError: <unknown>:2:1326: not well-formed (invalid token)"
       },
       {
+        "source": "Ethan Van Sciver",
+        "error": "RuntimeError: <unknown>:3:11: not well-formed (invalid token)"
+      },
+      {
+        "source": "Frog Tony",
+        "error": "RuntimeError: <unknown>:3:11: not well-formed (invalid token)"
+      },
+      {
         "source": "KatyDid",
+        "error": "RuntimeError: <unknown>:3:11: not well-formed (invalid token)"
+      },
+      {
+        "source": "Elissa Clips",
+        "error": "RuntimeError: <unknown>:3:11: not well-formed (invalid token)"
+      },
+      {
+        "source": "Liam Gray",
+        "error": "RuntimeError: <unknown>:3:11: not well-formed (invalid token)"
+      },
+      {
+        "source": "Shane Davis",
+        "error": "RuntimeError: <unknown>:3:11: not well-formed (invalid token)"
+      },
+      {
+        "source": "Eric July",
         "error": "RuntimeError: <unknown>:3:11: not well-formed (invalid token)"
       },
       {
@@ -89,13 +117,37 @@
         "error": "RuntimeError: <unknown>:3:11: not well-formed (invalid token)"
       },
       {
+        "source": "Ministry of Dude",
+        "error": "RuntimeError: <unknown>:3:11: not well-formed (invalid token)"
+      },
+      {
         "source": "FFS Cast",
+        "error": "RuntimeError: <unknown>:3:11: not well-formed (invalid token)"
+      },
+      {
+        "source": "ComicsGate Commandos",
+        "error": "RuntimeError: <unknown>:3:11: not well-formed (invalid token)"
+      },
+      {
+        "source": "Ya Boi Zack",
+        "error": "RuntimeError: <unknown>:3:11: not well-formed (invalid token)"
+      },
+      {
+        "source": "Finatra",
+        "error": "RuntimeError: <unknown>:3:11: not well-formed (invalid token)"
+      },
+      {
+        "source": "Dark Gift",
+        "error": "RuntimeError: <unknown>:3:11: not well-formed (invalid token)"
+      },
+      {
+        "source": "Piper",
         "error": "RuntimeError: <unknown>:3:11: not well-formed (invalid token)"
       }
     ]
   },
   "archive": {
-    "updated_at": "2026-10-31T19:47:44.082157+00:00",
+    "updated_at": "2026-10-31T23:11:34.192634+00:00",
     "months": [
       {
         "month": "2023-06",
@@ -199,17 +251,17 @@
       },
       {
         "month": "2026-10",
-        "items": 2019,
+        "items": 2031,
         "path": "2026-10.json"
       }
     ],
     "month_count": 21,
-    "total_archived_detections": 6666
+    "total_archived_detections": 6678
   },
   "warnings": [
-    "4 source(s) failed during the latest scan.",
+    "17 source(s) failed during the latest scan.",
     "Transcript collection is blocked by YouTube.",
-    "355 YouTube detections are awaiting transcripts."
+    "353 YouTube detections are awaiting transcripts."
   ],
   "errors": []
 }
