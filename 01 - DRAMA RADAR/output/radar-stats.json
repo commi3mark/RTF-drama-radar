@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T23:11:34.195503+00:00",
+  "updated_at": "2026-11-01T05:12:39.436161+00:00",
   "health": {
     "status": "stalled",
     "summary": "Transcript collection is blocked by YouTube.",
@@ -10,11 +10,11 @@
   },
   "last_scan": {
     "runner": "github",
-    "started_at": "2026-10-31T23:11:29.354920+00:00",
-    "finished_at": "2026-10-31T23:11:34.194891+00:00",
-    "duration_seconds": 4.84,
-    "new_detections": 12,
-    "sweep_number": 413,
+    "started_at": "2026-11-01T05:12:30.412121+00:00",
+    "finished_at": "2026-11-01T05:12:39.435383+00:00",
+    "duration_seconds": 9.02,
+    "new_detections": 10,
+    "sweep_number": 414,
     "status": "warning"
   },
   "last_transcript_run": {
@@ -51,19 +51,19 @@
     }
   },
   "detections": {
-    "total": 1967,
-    "new_this_run": 12,
+    "total": 1960,
+    "new_this_run": 10,
     "by_platform": {
-      "Google Alerts": 1474,
-      "YouTube": 353,
-      "Substack": 140
+      "Google Alerts": 1470,
+      "YouTube": 351,
+      "Substack": 139
     }
   },
   "transcripts": {
     "downloaded_total": 0,
     "downloaded_this_run": 0,
     "linked_to_live_feed": 0,
-    "awaiting_collection": 353,
+    "awaiting_collection": 351,
     "unavailable": 0,
     "coverage_percent": 0.0,
     "retry_queue": 1,
@@ -72,9 +72,9 @@
   "sources": {
     "configured": 29,
     "enabled": 28,
-    "successful": 11,
-    "failed": 17,
-    "items_read": 81,
+    "successful": 15,
+    "failed": 13,
+    "items_read": 137,
     "failures": [
       {
         "source": "Commi3 Mark",
@@ -86,10 +86,6 @@
       },
       {
         "source": "Ethan Van Sciver",
-        "error": "RuntimeError: <unknown>:3:11: not well-formed (invalid token)"
-      },
-      {
-        "source": "Frog Tony",
         "error": "RuntimeError: <unknown>:3:11: not well-formed (invalid token)"
       },
       {
@@ -105,19 +101,7 @@
         "error": "RuntimeError: <unknown>:3:11: not well-formed (invalid token)"
       },
       {
-        "source": "Shane Davis",
-        "error": "RuntimeError: <unknown>:3:11: not well-formed (invalid token)"
-      },
-      {
-        "source": "Eric July",
-        "error": "RuntimeError: <unknown>:3:11: not well-formed (invalid token)"
-      },
-      {
         "source": "Clippaverse",
-        "error": "RuntimeError: <unknown>:3:11: not well-formed (invalid token)"
-      },
-      {
-        "source": "Ministry of Dude",
         "error": "RuntimeError: <unknown>:3:11: not well-formed (invalid token)"
       },
       {
@@ -147,7 +131,7 @@
     ]
   },
   "archive": {
-    "updated_at": "2026-10-31T23:11:34.192634+00:00",
+    "updated_at": "2026-11-01T05:12:39.433946+00:00",
     "months": [
       {
         "month": "2023-06",
@@ -251,17 +235,22 @@
       },
       {
         "month": "2026-10",
-        "items": 2031,
+        "items": 2036,
         "path": "2026-10.json"
+      },
+      {
+        "month": "2026-11",
+        "items": 5,
+        "path": "2026-11.json"
       }
     ],
-    "month_count": 21,
-    "total_archived_detections": 6678
+    "month_count": 22,
+    "total_archived_detections": 6688
   },
   "warnings": [
-    "17 source(s) failed during the latest scan.",
+    "13 source(s) failed during the latest scan.",
     "Transcript collection is blocked by YouTube.",
-    "353 YouTube detections are awaiting transcripts."
+    "351 YouTube detections are awaiting transcripts."
   ],
   "errors": []
 }
