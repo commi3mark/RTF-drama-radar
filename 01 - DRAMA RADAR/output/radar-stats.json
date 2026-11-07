@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T23:59:56.559387+00:00",
+  "updated_at": "2026-11-07T05:48:42.150414+00:00",
   "health": {
     "status": "stalled",
     "summary": "Transcript collection is blocked by YouTube.",
@@ -10,11 +10,11 @@
   },
   "last_scan": {
     "runner": "github",
-    "started_at": "2026-11-06T23:59:50.333593+00:00",
-    "finished_at": "2026-11-06T23:59:56.558835+00:00",
-    "duration_seconds": 6.23,
-    "new_detections": 26,
-    "sweep_number": 431,
+    "started_at": "2026-11-07T05:48:35.415968+00:00",
+    "finished_at": "2026-11-07T05:48:42.149657+00:00",
+    "duration_seconds": 6.73,
+    "new_detections": 18,
+    "sweep_number": 432,
     "status": "warning"
   },
   "last_transcript_run": {
@@ -51,19 +51,19 @@
     }
   },
   "detections": {
-    "total": 1946,
-    "new_this_run": 26,
+    "total": 1961,
+    "new_this_run": 18,
     "by_platform": {
-      "Google Alerts": 1477,
-      "YouTube": 324,
-      "Substack": 145
+      "Google Alerts": 1492,
+      "Substack": 146,
+      "YouTube": 323
     }
   },
   "transcripts": {
     "downloaded_total": 0,
     "downloaded_this_run": 0,
     "linked_to_live_feed": 0,
-    "awaiting_collection": 324,
+    "awaiting_collection": 323,
     "unavailable": 0,
     "coverage_percent": 0.0,
     "retry_queue": 1,
@@ -72,9 +72,9 @@
   "sources": {
     "configured": 29,
     "enabled": 28,
-    "successful": 12,
-    "failed": 16,
-    "items_read": 79,
+    "successful": 11,
+    "failed": 17,
+    "items_read": 78,
     "failures": [
       {
         "source": "Commi3 Mark",
@@ -139,11 +139,15 @@
       {
         "source": "Dark Gift",
         "error": "RuntimeError: <unknown>:3:11: not well-formed (invalid token)"
+      },
+      {
+        "source": "Piper",
+        "error": "RuntimeError: <unknown>:3:11: not well-formed (invalid token)"
       }
     ]
   },
   "archive": {
-    "updated_at": "2026-11-06T23:59:56.557860+00:00",
+    "updated_at": "2026-11-07T05:48:42.148005+00:00",
     "months": [
       {
         "month": "2023-06",
@@ -252,17 +256,17 @@
       },
       {
         "month": "2026-11",
-        "items": 317,
+        "items": 335,
         "path": "2026-11.json"
       }
     ],
     "month_count": 22,
-    "total_archived_detections": 7006
+    "total_archived_detections": 7024
   },
   "warnings": [
-    "16 source(s) failed during the latest scan.",
+    "17 source(s) failed during the latest scan.",
     "Transcript collection is blocked by YouTube.",
-    "324 YouTube detections are awaiting transcripts."
+    "323 YouTube detections are awaiting transcripts."
   ],
   "errors": []
 }
